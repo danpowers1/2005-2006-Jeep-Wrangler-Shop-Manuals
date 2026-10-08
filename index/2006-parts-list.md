@@ -1,0 +1,352 @@
+# 2006 TJ Parts List
+
+File: `2006 TJ Parts List.pdf` · 409 PDF pages
+
+Page numbers below are **PDF page numbers** (what `pdftoppm -f N -l N` expects), not the printed page labels.
+
+## Contents (from the PDF bookmarks)
+
+- 2006TJ — p.1
+- VIN PLATE DECODING INFORMATION — p.1
+- Group - 1 Component Parts for Mopar Accessories — p.2
+  - Audio & Electronics — p.3
+    - Fig. 1-110 --> Player Kit - CD - Changer - 6 Disc — p.4
+    - Fig. 1-130 --> Navigation Kit (RB1) — p.5
+    - Fig. 1-155 --> Satellite Receiver Kit — p.6
+    - Fig. 1-160 --> Install Kit Satellite Receiver Without CD — p.7
+    - Fig. 1-220 --> Bike Carrier - Hitch Mount — p.8
+    - Fig. 1-232 --> Ski Carrier - Spare Tire Mount — p.9
+    - Fig. 1-250 --> Trailer Tow - Receiver Kit — p.10
+    - Fig. 1-410 --> Bumper Kit- Front Tubular — p.11
+    - Fig. 1-420 --> Bumper Kit - Rear Tubular — p.12
+    - Fig. 1-440 --> Side Step Kit — p.13
+    - Fig. 1-510 --> Shield Kit - Air — p.14
+    - Fig. 1-550 --> Hardtop Wiring Kit — p.15
+    - Fig. 1-610 --> Light Kit - Fog — p.16
+    - Fig. 1-630 --> Bar Kit - Light Windshield — p.17
+    - Fig. 1-640 --> Install Kit - Off Road Lights — p.18
+    - Fig. 1-650 --> Heater Kit - Engine Block — p.19
+    - Fig. 1-820 --> Console Kit - Floor — p.20
+- Group - 2 Front Suspension & Drive — p.21
+  - Front Suspension — p.21
+    - Fig. 2-110 --> Suspension, Front Spring with Control Arms and Tr — p.22
+    - Fig. 2-120 --> Bar, Front Sway — p.25
+    - Fig. 2-210 --> Shafts, Front Axle — p.26
+    - Fig. 2-310 --> Housing,Front Axle,4 Wheel Drive — p.28
+    - Fig. 2-410 --> Axle Assembly,Front,4 Wheel Drive — p.31
+    - Fig. 2-610 --> Differential,Front Axle,Without [DSE] — p.33
+    - Fig. 2-620 --> Differential,Front Axle,With [DSE] — p.36
+    - Fig. 2-630 --> Front Axle Locker Hose & Wiring — p.38
+- Group - 3 Rear Axle — p.39
+  - Rear Axle — p.39
+    - Fig. 3-110 --> Axle Assembly,Rear — p.40
+    - Fig. 3-210 --> Housing,Rear Axle,Dana M35/194MM [DRJ] — p.46
+    - Fig. 3-220 --> Housing,Rear Axle,Dana 44/226MM [DRK] — p.47
+    - Fig. 3-230 --> Differential,With and Without Trac-Lok [DSA] Dana — p.49
+    - Fig. 3-240 --> Differential,With and Without Trac-Lok [DSA] Dana — p.51
+    - Fig. 3-250 --> Differential,With Trulok Differential [DSE] Dana — p.54
+    - Fig. 3-410 --> Shaft,Rear Axle,Dana 35/194MM [DRJ] — p.57
+    - Fig. 3-420 --> Shaft,Rear Axle,Dana 44/226MM [DRK] — p.58
+- Group - 4 Parking Brake — p.60
+  - Parking Brake Lever and Cables — p.60
+    - Fig. 4-110 --> Parking Brake Lever and Cables — p.61
+    - Fig. 4-120 --> Parking Brake Assembly,Rear,Disc — p.63
+- Group - 5 Service Brakes — p.65
+  - Front Brakes — p.65
+    - Fig. 5-110 --> Front Brakes — p.66
+  - Rear Brakes — p.70
+    - Fig. 5-210 --> Brakes,Rear,Disc — p.71
+    - Fig. 5-220 --> Brakes,Rear,Drum — p.73
+    - Fig. 5-310 --> Power Brake Booster — p.78
+    - Fig. 5-410 --> Master Cylinder — p.79
+    - Fig. 5-510 --> Hydraulic Control Unit,Anti-Lock Brake — p.80
+    - Fig. 5-520 --> Brake Lines and Hoses,Front,LHD Without ABS — p.81
+    - Fig. 5-530 --> Brake Lines and Hoses,Front,LHD With ABS — p.83
+    - Fig. 5-540 --> Brake Lines and Hoses,Front,RHD,Without ABS — p.85
+    - Fig. 5-550 --> Brake Lines and Hoses,Front,RHD,With ABS — p.87
+    - Fig. 5-560 --> Brake Lines and Hoses,Rear,Without ABS — p.89
+    - Fig. 5-570 --> Brake Lines and Hoses,Rear,With ABS — p.90
+    - Fig. 5-580 --> Rear Axle Brake Sensor Wiring Brackets and Fasten — p.91
+    - Fig. 5-590 --> Front Axle Brake Sensor Wiring Brackets and Faste — p.92
+    - Fig. 5-610 --> Brake Pedal,LHD — p.93
+    - Fig. 5-620 --> Brake Pedal,RHD — p.94
+- Group - 6 Clutch — p.95
+  - Clutch — p.95
+    - Fig. 6-110 --> Clutch Assembly — p.96
+    - Fig. 6-210 --> Clutch Pan and Attaching Parts — p.97
+    - Fig. 6-310 --> Controls,Hydraulic Clutch-Left Hand Drive — p.98
+    - Fig. 6-320 --> Controls,Hydraulic Clutch-Right Hand Drive — p.99
+    - Fig. 6-410 --> Pedal,Clutch — p.100
+- Group - 7 Cooling — p.101
+  - Radiator and Related Parts — p.101
+    - Fig. 7-110 --> Radiator and Related Parts — p.102
+    - Fig. 7-202 --> Water Pump, 2.4L Engine — p.104
+    - Fig. 7-205 --> Water Pump, 4.0L Engine — p.105
+    - Fig. 7-310 --> Tank, Coolant Recovery — p.106
+    - Fig. 7-402 --> Drive Pulleys, 2.4L Engine — p.107
+    - Fig. 7-405 --> Drive Pulleys, 4.0L Engine — p.108
+    - Fig. 7-510 --> Drive Belts, 2.4L Engine — p.109
+    - Fig. 7-515 --> Drive Belts, 4.0L Engine — p.110
+    - Fig. 7-610 --> Oil Cooler Lines — p.111
+    - Fig. 7-705 --> Grille and Related Parts — p.112
+- Group - 8 Electrical — p.113
+  - Starters — p.114
+    - Fig. 8-105 --> Starter [2.4L Engine] — p.115
+    - Fig. 8-110 --> Starter [4.0L Engine] — p.116
+    - Fig. 8-205 --> Alternator 2.4L Engine — p.117
+    - Fig. 8-210 --> Alternator 4.0L Engine — p.118
+    - Fig. 8-405 --> Modules — p.119
+    - Fig. 8-505 --> Power Distribution Center Relays and Fuses — p.120
+    - Fig. 8-510 --> Fuse Block — p.121
+    - Fig. 8-605 --> Sensors 2.4L Engine [ED0] — p.122
+    - Fig. 8-610 --> Sensors Engine 4.0L [ER0] — p.123
+    - Fig. 8-615 --> Sensors, Oxygen 2.4L [ED0] — p.124
+    - Fig. 8-620 --> Sensors Oxygen 4.0L [ER0] — p.125
+    - Fig. 8-625 --> Sensors - Body — p.126
+    - Fig. 8-630 --> Sensors Drive Train — p.127
+    - Fig. 8-705 --> Single Board Engine Controllers (JTEC Module) — p.128
+    - Fig. 8-805 --> Switches - Instrument Panel — p.129
+    - Fig. 8-810 --> Switches Drivetrain — p.131
+    - Fig. 8-815 --> Switches - Body — p.132
+    - Fig. 8-905 --> Horns — p.133
+    - Fig. 8-1005 --> Battery Tray & Cables — p.134
+    - Fig. 8-1010 --> Engine Heaters — p.135
+  - Lamps - Front, Rear and Courtesy — p.135
+    - Fig. 8-1105 --> Lamps--Front — p.136
+    - Fig. 8-1110 --> Lamps--Rear — p.139
+    - Fig. 8-1115 --> Lamps--Cargo-Dome-Courtesy — p.141
+    - Fig. 8-1120 --> Bulbs — p.142
+    - Fig. 8-1205 --> Wiring--Engine [2.4L Engine] — p.144
+    - Fig. 8-1210 --> Wiring Engine [4.0L Engine] — p.145
+    - Fig. 8-1215 --> Ground Straps — p.146
+    - Fig. 8-1305 --> Wiring--Headlamp / Dash Panel — p.147
+    - Fig. 8-1405 --> Wiring Instrument Panel & Fuses — p.149
+    - Fig. 8-1505 --> Wiring--Body & Accessory — p.150
+    - Fig. 8-1605 --> Wiring Repair Packages — p.152
+    - Fig. 8-1705 --> Air Bag Modules and Sensors — p.153
+    - Fig. 8-1710 --> Air Bags and Clock Springs — p.154
+    - Fig. 8-1905 --> Spark Plugs--Cables--Coil — p.155
+- Group - 08A Instrument Panel and Radios and Consoles — p.156
+  - Instrument Panel — p.156
+    - Fig. 08A-110 --> Instrument Panel — p.157
+    - Fig. 08A-210 --> Instrument Cluster — p.161
+    - Fig. 08A-310 --> Radio — p.162
+    - Fig. 08A-320 --> Antenna — p.163
+    - Fig. 08A-330 --> Speakers — p.164
+    - Fig. 08A-410 --> Consoles Full and Mini — p.165
+- Group - 9 Engine Mounting — p.167
+  - Engine Mounting — p.167
+    - Fig. 9-110 --> Mounts, Engine — p.168
+    - Fig. 9-120 --> Mounts, Engine — p.169
+    - Fig. 9-130 --> Mount, Transmission — p.170
+    - Fig. 9-140 --> Mount, Transmission — p.171
+- Group - 2.4L Engine 2.4L Four Cylinder — p.172
+  - Cylinder Head — p.172
+    - Fig. 2.4L-210 --> Cylinder Head, 2.4L [ED1] — p.173
+    - Fig. 2.4L-310 --> Cylinder Block, 2.4L [ED1] — p.174
+    - Fig. 2.4L-410 --> Crankshaft, Pistons and Flywheel, 2.4L [ED1] — p.175
+    - Fig. 2.4L-510 --> Camshaft and Valves 2.4L [ED1] — p.176
+    - Fig. 2.4L-610 --> Timing Belt and Cover, 2.4L [ED1] — p.177
+    - Fig. 2.4L-620 --> Balance Shafts, 2.4L [ED1] — p.178
+    - Fig. 2.4L-710 --> Engine Oiling, 2.4L [ED1] — p.179
+    - Fig. 2.4L-810 --> Intake and Exhaust Manifolds, 2.4L [ED1] — p.180
+    - Fig. 2.4L-910 --> Crankcase Ventilation,204L [ED1] — p.181
+- Group - 4.0L Engine 4.0L Six Cylinder — p.182
+  - Cylinder Head — p.182
+    - Fig. 4.0L-210 --> Cylinder Head, 4.0L (ERH) — p.183
+    - Fig. 4.0L-310 --> Cylinder Block, 4.0L (ERH) — p.184
+    - Fig. 4.0L-410 --> Crankshaft, Piston and Torque Converter, 4.0L — p.185
+    - Fig. 4.0L-510 --> Camshaft and Valves, 4.0L (ERH) — p.187
+    - Fig. 4.0L-610 --> Timing Cover, 4.0L (ERH) — p.188
+    - Fig. 4.0L-710 --> Engine Oiling, 4.0L (ERH) — p.189
+    - Fig. 4.0L-810 --> Manifold, Intake and Exhaust — p.191
+    - Fig. 4.0L-910 --> Crankcase Ventilation, 4.0L [ERH] — p.192
+- Group - 11 Exhaust — p.193
+  - Exhaust System — p.193
+    - Fig. 11-110 --> Exhaust System, 2.4 (ED1), 4.0 (ERO) — p.194
+    - Fig. 11-210 --> Heat Shields, 2.4 (ED1), 4.0 (ERH) — p.195
+- Group - 13 Frames and Bumpers — p.196
+  - Frames — p.196
+    - Fig. 13-110 --> Frame — p.197
+  - Front Bumper and Fascia — p.200
+    - Fig. 13-210 --> Bumper, Front — p.201
+    - Fig. 13-310 --> Bumper, Rear — p.203
+    - Fig. 13-510 --> Body Mounting Hardware — p.204
+- Group - 14 Fuel — p.205
+  - Tank, Fuel — p.206
+    - Fig. 14-110 --> Fuel Tank, 2.4 (ED1), 4.0 (ERH) — p.207
+    - Fig. 14-210 --> Fuel Filler Tube, 2.4 (ED1), 4.0 (ERH) — p.208
+    - Fig. 14-310 --> Fuel Lines, Front,2.4 (ED1) 4.0 (ERH) — p.209
+    - Fig. 14-320 --> Fuel Lines, Rear, Chassis 2.4L (ED1) 4.0 (ERH) — p.210
+    - Fig. 14-405 --> Fuel Injection System 2.4L [ED1] — p.211
+    - Fig. 14-410 --> Fuel Injection System, 4.0L (ERH) — p.212
+    - Fig. 14-510 --> Fuel Module, 2.4 (ED1), 4.0 (ERH) — p.213
+    - Fig. 14-610 --> Throttle Body, 2.4 (ED1), 4.0 (ERH) — p.214
+    - Fig. 14-710 --> Throttle Controls, 2.4 (ED1), 4.0 (ERH) — p.215
+    - Fig. 14-810 --> Air Cleaner, 2.4 (ED1), 4.0 (ERH) — p.216
+    - Fig. 14-1010 --> Speed Control, 2.4 (ED1), 4.0 (ERH) — p.217
+  - Accelerator Pedal — p.217
+    - Fig. 14-1110 --> Accelerator Pedal, 2.4 (ED1), 4.0 (ERH) — p.218
+- Group - 16 Propeller Shafts and U-Joints — p.219
+  - Propeller Shaft — p.219
+    - Fig. 16-110 --> Propshaft,Front and Rear — p.220
+- Group - 17 Rear Suspension — p.223
+  - Rear Suspension — p.223
+    - Fig. 17-110 --> Suspension,Rear with Shocks,Springs and Track Ba — p.224
+    - Fig. 17-210 --> Stabilzer,Rear — p.226
+- Group - 19 Steering — p.227
+  - Steering Wheel — p.227
+    - Fig. 19-110 --> Wheel, Steering — p.228
+    - Fig. 19-210 --> Column, Steering Upper and Lower — p.229
+    - Fig. 19-310 --> Gear, Power Steering — p.231
+    - Fig. 19-410 --> Linkage and Damper — p.232
+    - Fig. 19-510 --> Pump, Power Steering — p.234
+    - Fig. 19-710 --> Hoses and Reservoir, 2.4L Engine [ED0] — p.235
+    - Fig. 19-720 --> Hoses and Reservoir,4.0L Engine [ER0] — p.236
+- Group - 42RLE Automatic Transmission 4 Speed — p.237
+  - Transmission Assembly — p.237
+    - Fig. 42RLE-110 --> Transmission Assembly — p.238
+    - Fig. 42RLE-210 --> Transmission Case & Related Parts — p.239
+    - Fig. 42RLE-220 --> Adpter, Rear — p.240
+    - Fig. 42RLE-230 --> Transmission Mounting & Oil Fill Tube — p.241
+    - Fig. 42RLE-240 --> Overhaul & Seal Package — p.242
+    - Fig. 42RLE-310 --> Oil Pump & Reaction Shaft — p.243
+    - Fig. 42RLE-410 --> Seal & Gasket Package / Transmission Front Cl — p.244
+    - Fig. 42RLE-420 --> Hub Package / Input Clutch — p.245
+    - Fig. 42RLE-430 --> Clutch Input Shaft — p.246
+    - Fig. 42RLE-440 --> Gear Train — p.249
+    - Fig. 42RLE-710 --> Valve Body / Gasket & Seal Package — p.252
+    - Fig. 42RLE-720 --> Valve Body — p.253
+    - Fig. 42RLE-730 --> Accumulator Piston and Spring — p.254
+    - Fig. 42RLE-740 --> Parking Sprag — p.255
+    - Fig. 42RLE-1210 --> Gearshift Control — p.256
+- Group - NSG370 Manual Transmission 6 Speed — p.257
+  - Transmission — p.257
+    - Fig. NSG370-110 --> Transmission Assembly [DEH] — p.258
+  - Case & Extension — p.258
+    - Fig. NSG370-210 --> Front Case & Related Parts — p.259
+    - Fig. NSG370-220 --> Rear Case & Realed Parts — p.261
+  - Gear Train — p.262
+    - Fig. NSG370-410 --> Input Shaft — p.263
+    - Fig. NSG370-420 --> Main Shaft — p.264
+    - Fig. NSG370-430 --> Countershaft — p.266
+  - Forks and Rails — p.267
+    - Fig. NSG370-910 --> Fork & Rail — p.268
+  - Gear Shift Controls — p.268
+    - Fig. NSG370-1209 --> Gearshift Controls — p.269
+- Group - 231 Transfer Case Model 231 — p.270
+  - Transfer Case Assembly — p.270
+    - Fig. 231-110 --> Transfer Case Assembly — p.271
+    - Fig. 231-210 --> Case & Related Parts — p.272
+  - Gear Train — p.275
+    - Fig. 231-410 --> Geartrain — p.276
+  - Fork and Rails — p.278
+    - Fig. 231-910 --> Fork & Rails — p.279
+  - Gearshift Controls — p.280
+    - Fig. 231-1210 --> Gearshift Control — p.281
+    - Fig. 231-1220 --> Skid Plate — p.282
+- Group - 241 Transfer Case Model 241 — p.283
+  - Transfer Case Assembly — p.283
+    - Fig. 241-110 --> Transfer Case — p.284
+    - Fig. 241-210 --> Case & related Parts — p.285
+    - Fig. 241-410 --> Geartrain — p.287
+    - Fig. 241-910 --> Fork & Rails — p.289
+    - Fig. 241-1210 --> Gearshift Control — p.290
+    - Fig. 241-1220 --> Skid Plates — p.291
+- Group - 21P Speedometer Pinions — p.292
+  - Speedometer Pinions — p.292
+    - Fig. 21P-110 --> Speedometer Pinion and Housing — p.293
+- Group - 22 Wheels, Covers and Jacks — p.294
+  - Wheels and Hardware — p.294
+    - Fig. 22-110 --> Wheels — p.295
+    - Fig. 22-210 --> Caps And Covers — p.296
+    - Fig. 22-310 --> Jack And Storage — p.297
+    - Fig. 22-410 --> Wheel, Spare Tailgate Mounted — p.298
+- Group - 23D Wiper/Lock Cylinder and Keys — p.299
+  - Lock Cylinders and Keys — p.299
+    - Fig. 23D-105 --> Lock Cylinders and Keys — p.300
+    - Fig. 23D-205 --> Wiper System Front — p.302
+    - Fig. 23D-305 --> Rear Wiper System — p.303
+- Group - 24 Air Conditioning & Heater — p.304
+  - Air Conditioner and Heater Units — p.304
+    - Fig. 24-110 --> Heater Unit, LHD — p.305
+    - Fig. 24-120 --> Heater Unit, RHD — p.306
+    - Fig. 24-130 --> HVAC Unit, LHD — p.307
+    - Fig. 24-140 --> HVAC Unit, RHD — p.308
+    - Fig. 24-210 --> Hoses, Heater 2.4L Engine — p.309
+    - Fig. 24-220 --> Hoses, Heater 4.0L Engine, LHD — p.310
+    - Fig. 24-230 --> Hoses, Heater 4.0L Engine, RHD — p.311
+    - Fig. 24-240 --> Plumbing, HVAC 2.4L Engine — p.312
+    - Fig. 24-250 --> Plumbing, HVAC 4.0L Engine, LHD — p.314
+    - Fig. 24-260 --> Plumbing, HVAC 4.0L Engine, RHD — p.316
+    - Fig. 24-270 --> Seals, A/C Condenser — p.318
+    - Fig. 24-310 --> Control, Heater And A/c — p.319
+    - Fig. 24-410 --> Compressor, Air Conditioning 2.4L [ED0] Engine — p.320
+    - Fig. 24-420 --> Compressor, Air Conditioning 4.0L [ER0] Engine — p.321
+    - Fig. 24-520 --> Compressor, Mounting 2.4L Engine — p.322
+    - Fig. 24-530 --> Compressor, Mounting 4.0L Engine — p.323
+    - Fig. 24-610 --> Ducts, Heater and A/C — p.324
+- Group - 25 Emission Systems — p.325
+  - Vacuum Canister — p.325
+    - Fig. 25-310 --> Vacuum Canister, 2.4 (ED1), 4.0 (ERH) — p.326
+    - Fig. 25-410 --> Emission Control Vacuum Harness, 2.4 (EP1), 4.0 — p.327
+    - Fig. 25-420 --> Leak Detection Pump, 2.4 (ED1), 4.0 (ERH) — p.328
+- Group - DTJ Doors and Related Parts — p.329
+  - Front Door — p.329
+    - Fig. DTJ-110 --> Door, Full Front Shell And Hinges — p.330
+    - Fig. DTJ-120 --> Door, Full Front Glass And Regulator — p.332
+    - Fig. DTJ-130 --> Door, Full Front Lock And Controls — p.333
+    - Fig. DTJ-160 --> Door, Half Front Shell And Hinges — p.334
+    - Fig. DTJ-170 --> Door, Half Front Lock And Controls — p.335
+    - Fig. DTJ-510 --> Mirror, Exterior — p.336
+    - Fig. DTJ-610 --> Door Weatherstrips And Runs — p.337
+- Group - ETJ Exterior Ornamentation — p.338
+  - Moldings and Ornamentation — p.338
+    - Fig. ETJ-210 --> Mouldings — p.339
+    - Fig. ETJ-310 --> Decals — p.340
+- Group - ITJ Interior Trim — p.342
+  - Headliner and Visor — p.342
+    - Fig. ITJ-110 --> Sunvisors — p.343
+    - Fig. ITJ-210 --> Panels, Interior Trim, Front — p.344
+    - Fig. ITJ-310 --> Carpets And Interior Trim Panels — p.345
+    - Fig. ITJ-410 --> Door Trim Panels Half Doors & Full Doors — p.347
+    - Fig. ITJ-510 --> Front Vinyl, Trim Code [H6] — p.348
+    - Fig. ITJ-520 --> Front, Cloth, Trim Code [P5] — p.350
+    - Fig. ITJ-530 --> Front, Cloth, Trim Code [S5] — p.352
+    - Fig. ITJ-540 --> Front, Cloth, Trim Code [G5] — p.354
+    - Fig. ITJ-550 --> Front, Cloth, Trim Code [Y5] — p.356
+  - Rear Seats and Attaching Parts — p.357
+    - Fig. ITJ-610 --> Rear, Vinyl, Trim Code [H6] — p.358
+    - Fig. ITJ-620 --> Rear, Cloth, Trim Code [P5] — p.360
+    - Fig. ITJ-630 --> Rear, Cloth, Trim Code [S5] — p.362
+    - Fig. ITJ-640 --> Rear, Cloth, Trim Code [G5] — p.364
+    - Fig. ITJ-650 --> Rear, Cloth, Trim Code [Y5] — p.366
+  - Seat Belts-Front and Rear — p.367
+    - Fig. ITJ-710 --> Seat Belts — p.368
+    - Fig. ITJ-810 --> Seat Assemblies, Adjusters, Recliners — p.371
+- Group - STJ Body Sheet Metal Except Doors — p.379
+  - Floor Pans — p.380
+    - Fig. STJ-210 --> Pan, Floor Front And Rear, Body Style 77 — p.381
+    - Fig. STJ-220 --> Pan, Floor Front And Rear, Body Style 78 — p.382
+    - Fig. STJ-310 --> Plugs — p.383
+    - Fig. STJ-410 --> Fender And Flare, Front — p.384
+    - Fig. STJ-510 --> Hood, Lock, Catches — p.386
+    - Fig. STJ-610 --> Panels, Cowl And Dash — p.387
+    - Fig. STJ-710 --> Glass, Windshield, Backlite, Quarter Windshield — p.389
+  - Aperture Panel — p.391
+    - Fig. STJ-810 --> Panels, Body Side — p.392
+    - Fig. STJ-1110 --> Soft Top And Windows — p.395
+    - Fig. STJ-1120 --> Top Enclosure, Hard — p.399
+    - Fig. STJ-1310 --> Tailgate — p.400
+    - Fig. STJ-1320 --> Add-a-Trunk — p.402
+    - Fig. STJ-1610 --> Sport Bar Wrangler — p.403
+- Group - LBLS Labels All Vehicle Locations — p.405
+  - Interior — p.405
+    - Fig. LBLS-110 --> Instrument Panel, Visors and Trim — p.406
+    - Fig. LBLS-210 --> Engine Compartment — p.407
+    - Fig. LBLS-310 --> Doors and Pillars — p.408
+    - Fig. LBLS-410 --> Spare Tire — p.409
+
+## Figures
+
+_No numbered figure captions in this manual (diagrams are unlabeled or in tables)._
