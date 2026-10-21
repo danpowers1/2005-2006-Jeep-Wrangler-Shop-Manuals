@@ -1,0 +1,51 @@
+21 - 146    AUTOMATIC TRANSMISSION - 42RLE                                                                 TJ
+TORQUE CONVERTER (Continued)
+
+
+
+
+              Fig. 250 Stator Operation
+1 - DIRECTION STATOR WILL FREE WHEEL DUE TO OIL
+PUSHING ON BACKSIDE OF VANES
+2 - FRONT OF ENGINE
+3 - INCREASED ANGLE AS OIL STRIKES VANES
+4 - DIRECTION STATOR IS LOCKED UP DUE TO OIL PUSHING
+                                                            Fig. 251 Checking Torque Converter Seating -
+AGAINST STATOR VANES                                                           Typical
+                                                         1 - SCALE
+REMOVAL                                                  2 - STRAIGHTEDGE
+  (1) Remove transmission and torque converter
+from vehicle. (Refer to 21 - TRANSMISSION/AUTO-          CAUTION: Do not damage oil pump seal or bushing
+MATIC - 45RFE/545RFE - REMOVAL)                          while inserting torque converter into the front of the
+  (2) Place a suitable drain pan under the converter     transmission.
+housing end of the transmission.
+                                                            (3) Align torque converter to oil pump seal open-
+CAUTION: Verify that transmission is secure on the       ing.
+lifting device or work surface, the center of gravity       (4) Insert torque converter hub into oil pump.
+of the transmission will shift when the torque con-         (5) While pushing torque converter inward, rotate
+verter is removed creating an unstable condition.        converter until converter is fully seated in the oil
+The torque converter is a heavy unit. Use caution        pump gears.
+when separating the torque converter from the               (6) Check converter seating with a scale (1) and
+transmission.                                            straightedge (2) (Fig. 251). Surface of converter lugs
+                                                         should be 1/2 in. to rear of straightedge when con-
+  (3) Pull the torque converter forward until the cen-   verter is fully seated.
+ter hub clears the oil pump seal.                           (7) If necessary, temporarily secure converter with
+  (4) Separate the torque converter from the trans-      C-clamp attached to the converter housing.
+mission.                                                    (8) Install the transmission in the vehicle.
+                                                            (9) Fill the transmission with the recommended
+INSTALLATION                                             fluid.
+
+NOTE: Check converter hub and drive notches for
+sharp edges, burrs, scratches, or nicks. Polish the      TRANSMISSION CONTROL
+hub and notches with 320/400 grit paper or crocus        RELAY
+cloth if necessary. The hub must be smooth to
+avoid damaging the pump seal at installation.            DESCRIPTION
+                                                           The relay is supplied fused B+ voltage, energized
+   (1) Lubricate oil pump seal lip with transmission
+                                                         by the TCM, and is used to supply power to the sole-
+fluid.
+                                                         noid pack when the transmission is in normal oper-
+   (2) Place torque converter in position on transmis-
+                                                         ating mode.
+sion.
+

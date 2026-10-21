@@ -1,0 +1,52 @@
+21 - 114     AUTOMATIC TRANSMISSION - 42RLE                                                                TJ
+
+
+HOLDING CLUTCHES                                         LOW/REVERSE CLUTCH
+                                                            The Low/Reverse clutch is hydraulically applied in
+DESCRIPTION                                              park, reverse, neutral, and first gears by pressurized
+                                                         fluid against the Low/Reverse clutch piston. When
+                                                         the Low/Reverse clutch is applied, the front planet
+                                                         carrier/rear annulus assembly is held or grounded to
+                                                         the transmission case.
+
+                                                         INPUT CLUTCH ASSEMBLY
+                                                         DISASSEMBLY
+
+
+
+
+                                                                   Fig. 156 Tapping Reaction Plate
+                                                         1 - #4 THRUST PLATE (SELECT)
+      Fig. 155 2/4 and Low/Reverse Clutches              2 - TAP DOWN REVERSE CLUTCH REACTION PLATE TO
+                                                         REMOVE OR INSTALL SNAP RING
+1 - FRONT PLANET CARRIER/REAR ANNULUS
+                                                         3 - INPUT CLUTCH RETAINER
+2 - 2/4 CLUTCH
+                                                         4 - REVERSE CLUTCH REACTION PLATE
+3 - L/R CLUTCH
+4 - REAR PLANET CARRIER/FRONT ANNULUS
+5 - REAR SUN GEAR                                          (1) Mount input clutch assembly to Input Clutch
+6 - FRONT SUN GEAR ASSEMBLY                              Pressure Fixture (Tool 8391).
+                                                           (2) Tap down (2) reverse clutch reaction plate (4)
+  Two hydraulically applied multi-disc clutches are      to release pressure from snap ring (Fig. 156).
+used to hold planetary geartrain components station-
+ary while the input clutches drive others. The 2/4 (2)
+and Low/Reverse (3) clutches are considered holding
+clutches and are contained at the rear of the trans-
+mission case (Fig. 155).
+
+OPERATION
+NOTE: (Refer to 21 - TRANSMISSION/AUTOMATIC -
+42RLE - DIAGNOSIS AND TESTING) for a collective
+view of which clutch elements are applied at each
+position of the selector lever.
+
+
+2/4 CLUTCH
+  The 2/4 clutch is hydraulically applied in second
+and fourth gears by pressurized fluid against the 2/4             Fig. 157 Reverse Clutch Snap Ring
+clutch piston. When the 2/4 clutch is applied, the
+                                                         1 - REACTION PLATE
+front sun gear assembly is held or grounded to the       2 - SCREWDRIVER
+transmission case.                                       3 - REVERSE CLUTCH SNAP RING (SELECT)
+

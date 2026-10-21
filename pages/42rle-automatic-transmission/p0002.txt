@@ -1,0 +1,48 @@
+21 - 38       AUTOMATIC TRANSMISSION - 42RLE                                                                                          TJ
+
+
+SHIFT MECHANISM                                                        TRANSMISSION CONTROL RELAY
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 136        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 146
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 136      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+ DIAGNOSIS AND TESTING - SHIFT                                         TRANSMISSION RANGE SENSOR
+   MECHANISM . . . . . . . . . . . . . . . . . . . . . . . . 136        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 147
+ ADJUSTMENTS - SHIFT MECHANISM . . . . . . 137                          OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+SOLENOID                                                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 137        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 148
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 138     TRANSMISSION TEMPERATURE SENSOR
+SOLENOID/PRESSURE SWITCH ASSY                                           DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 149
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 138        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 149
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 139     VALVE BODY
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 149
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 140       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+TORQUE CONVERTER                                                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 141        DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 154
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 145      ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 164
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 146
+
+AUTOMATIC TRANSMISSION -                                                  Control of the transmission is accomplished by
+                                                                       fully adaptive electronics. Optimum shift scheduling
+42RLE                                                                  is accomplished through continuous real-time sensor
+                                                                       feedback information provided to the Transmission
+DESCRIPTION                                                            Control Module (TCM) portion of the Powertrain
+   The 42RLE (Fig. 1) is a four-speed transmission                     Control Module (PCM).
+that is a conventional hydraulic/mechanical assembly                      The TCM is the heart of the electronic control sys-
+controlled with adaptive electronic controls and mon-                  tem and relies on information from various direct
+itors. The hydraulic system of the transmission con-                   and indirect inputs (sensors, switches, etc.) to deter-
+sists of the transmission fluid, fluid passages,                       mine driver demand and vehicle operating condi-
+hydraulic valves, and various line pressure control                    tions. With this information, the TCM can calculate
+components. An input clutch assembly which houses                      and perform timely and quality shifts through vari-
+the underdrive, overdrive, and reverse clutches is                     ous output or control devices (solenoid pack, trans-
+used. It also utilizes separate holding clutches: 2nd/                 mission control relay, etc.).
+4th gear and Low/Reverse. The primary mechanical                          The TCM also performs certain self-diagnostic
+components of the transmission consist of the follow-                  functions and provides comprehensive information
+ing:                                                                   (sensor data, DTC’s, etc.) which is helpful in proper
+   • Three multiple disc input clutches                                diagnosis and repair. This information can be viewed
+   • Two multiple disc holding clutches                                with the DRBt scan tool.
+   • Four hydraulic accumulators
+   • Two planetary gear sets
+   • Hydraulic oil pump
+   • Valve body
+   • Solenoid/Pressure switch assembly
+

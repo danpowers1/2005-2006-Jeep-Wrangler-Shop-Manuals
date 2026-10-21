@@ -1,0 +1,38 @@
+TJ                                                             AUTOMATIC TRANSMISSION - 42RLE              21 - 49
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+   (2) Move selector lever to the REVERSE position.            (3) Clutch circuit leaks are indicated if pressures
+   (3) Read reverse clutch pressure with output sta-         do not fall within the specified pressure range.
+tionary (foot on brake) and throttle opened to achieve         (4) If the overdrive clutch pressure is greater than
+1500 rpm.                                                    5 psi in Step 6 of Test Three, a worn reaction shaft
+   (4) Reverse and low/reverse clutch pressure should        seal ring or a defective solenoid assembly is indi-
+read 165 to 235 psi.                                         cated.
+                                                               (5) If the underdrive clutch pressure is greater
+TEST RESULT INDICATIONS                                      than 5 psi in Step 4 of Test Two-A, a defective sole-
+   (1) If proper line pressure is found in any one test,     noid/pressure switch assembly or controller is the
+the pump and pressure regulator are working prop-            cause.
+erly.
+   (2) Low pressure in all positions indicates a defec-
+tive pump, a clogged filter, or a stuck pressure regu-
+lator valve.
+
+      ALL PRESSURE SPECIFICATIONS ARE PSI (ON HOIST, WITH WHEELS FREE TO TURN)
+
+     Gear Selector      Actual Gear                                  PRESSURE TAPS
+       Position
+                                         Under-     Over-      Reverse    Torque      Torque      2/4       Low/
+                                          drive     drive       Clutch   Converter   Converter   Clutch   Reverse
+                                         Clutch     Clutch                Clutch      Clutch               Clutch
+                                                                            Off         On
+PARK - 0 mph *         PARK             0-2        0-5         0-2       60-110      45-100      0-2      115-145
+REVERSE - 0 mph *      REVERSE          0-2        0-7         165-235   50-100      35-85       0-2      165-235
+NEUTRAL - 0 mph *      NEUTRAL          0-2        0-5         0-2       60-110      45-100      0-2      115-145
+Low - 20 mph #         FIRST            110-145    0-5         0-2       60-110      45-100      0-2      115-145
+Third - 30 mph #       SECOND           110-145    0-5         0-2       60-110      45-100      115-     0-2
+                                                                                                 145
+Third - 45 mph #       DIRECT           75-95      75-95       0-2       60-90       45-80       0-2      0-2
+OD - 30 mph #          OVERDRIVE        0-2        75-95       0-2       60-90       45-80       75-95    0-2
+OD - 50 mph #          OVERDRIVE        0-2        75-95       0-2       0-5         60-95       75-95    0-2
+                       WITH TCC
+* Engine Speed at 1500 rpm
+# CAUTION: Both wheels must be turning at same speed.
+

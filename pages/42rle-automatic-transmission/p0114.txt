@@ -1,0 +1,34 @@
+21 - 150     AUTOMATIC TRANSMISSION - 42RLE                                                        TJ
+VALVE BODY (Continued)
+
+
+
+
+                                         Fig. 259 Valve Body - Exploded
+1 - VALVE BODY                                             5 - MANUAL VALVE
+2 - T/C REGULATOR VALVE                                    6 - CONVERTER CLUTCH SWITCH VALVE
+3 - L/R SWITCH VALVE                                       7 - SOLENOID SWITCH VALVE
+4 - CONVERTER CLUTCH CONTROL VALVE                         8 - REGULATOR VALVE
+
+
+
+OPERATION
+NOTE: (Refer to 21 - TRANSMISSION/AUTOMATIC -
+42RLE - SCHEMATICS AND DIAGRAMS) for a visual
+aid in determining valve location, operation and
+design.
+
+
+THERMAL VALVE
+   The thermal valve (1) (Fig. 260) is a bi-metallic
+shudder valve that helps control the venting rate of
+oil pressure in the underdrive clutch passage during
+release of the clutch. When the oil temperature is
+approximately 20 degrees Fahrenheit or less, the
+valve is fully open to assist in venting oil past the U1
+orifice (2). At temperatures above 20 degrees, the
+valve starts to close and becomes fully closed at                         Fig. 260 Thermal Valve
+approximately 140 degrees. The thermal valve is            1 - THERMAL VALVE
+located in the transfer plate of the valve body.           2 - U1 ORIFICE
+                                                           3 - NUMBER 2 CHECK BALL
+

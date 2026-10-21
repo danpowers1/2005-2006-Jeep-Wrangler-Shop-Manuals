@@ -1,0 +1,57 @@
+TJ                                                        AUTOMATIC TRANSMISSION - 42RLE             21 - 53
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+& BUMPERS/FRAME/TRANSFER CASE SKID
+PLATE - REMOVAL)
+  (19) Disconnect transfer case vent hose.
+  (20) Remove transfer case. (Refer to 21 - TRANS-
+MISSION/TRANSFER CASE - REMOVAL)
+  (21) Remove fill tube bracket bolts and pull tube
+out of transmission. Retain fill tube seal. Remove the
+bolt attaching transfer case vent tube to converter
+housing.
+  (22) Disconnect fluid cooler lines at transmission.
+  (23) Remove all converter housing bolts.
+  (24) Carefully work transmission and torque con-
+verter assembly rearward off engine block dowels.
+  (25) Hold torque converter in place during trans-
+mission removal.
+  (26) Lower transmission and remove assembly
+from under the vehicle.                                            Fig. 17 Remove Torque Converter
+  (27) To remove torque converter, carefully slide       1 - TORQUE CONVERTER
+torque converter out of the transmission.                2 - TRANSMISSION
+                                                         3 - INPUT SHAFT
+DISASSEMBLY
+NOTE: If the transmission is being reconditioned
+(clutch/seal replacement) or replaced, it is neces-
+sary to perform the Quick Learn Procedure using
+the DRBIIIT Scan Tool (Refer to 8 - ELECTRICAL/
+ELECTRONIC CONTROL MODULES/TRANSMISSION
+CONTROL MODULE - STANDARD PROCEDURE).
+
+  Before disassembling transmission, move the shift
+lever clockwise as far as it will go and then remove
+the shift lever.
+
+NOTE: Tag all clutch pack assemblies, as they are
+removed, for reassembly identification.
+
+
+CAUTION: Do not intermix clutch discs or plates as
+the unit might then fail.
+
+  (1) Remove the torque converter from the trans-
+mission input shaft (Fig. 17).
+  (2) Measure input shaft end play using Tool 8266.       Fig. 18 Measure Input Shaft End Play Using Tool
+Set up Tool 8266 and a dial indicator as shown in                          8266 - Typical
+(Fig. 18). Move input shaft in and out to obtain end     1 - TOOL 8266-8
+play reading. End play specifications are 0.13 to 0.64   2 - TOOL 8266-2
+mm (0.005 to 0.025 inch). Record indicator reading       3 - TOOL C-3339
+for reference when reassembling the transmission. If
+endplay exceeds the specified range, the #4 thrust
+plate needs to be inspected and changed if necessary.
+
+NOTE: The four bolts along the bottom of the
+adapter housing have a sealing patch applied from
+the factory. Note the locations of these bolts and
+seperate these bolts for reuse.
+

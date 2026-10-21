@@ -1,0 +1,57 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE              21 - 109
+BRAKE TRANSMISSION SHIFT INTERLOCK MECHANISM (Continued)
+
+
+
+
+                                            Fig. 150 Cable and Shifter
+1 - SHIFT MECHANISM                                         5 - SOLENOID
+2 - LOCK-TAB                                                6 - WIRE CONNECTOR
+3 - IGNITION LOCK INTERLOCK                                 7 - TIE STRAP
+4 - STEERING COLUMN                                         8 - PARK/BRAKE INTERLOCK CABLE
+
+
+
+   (6) Pull the cable forward and release.Ensure the        DRIVING CLUTCHES
+cable end is seated in the bellcrank and press cable
+lock button down until it snaps in place.
+                                                            DESCRIPTION
+   (7) Check adjustment as follows:
+                                                              Three hydraulically applied input clutches are used
+     (a) Check movement of release shift handle but-
+                                                            to drive planetary components. The underdrive (2),
+   ton (floor shift) or release lever (column shift). You
+                                                            overdrive (3), and reverse (4) clutches are considered
+   should not be able to press button inward or move
+                                                            input/driving clutches and are contained within the
+   column lever.
+                                                            input clutch assembly (Fig. 151). The input clutch
+     (b) Turn ignition switch to RUN position.
+                                                            assembly also contains:
+     (c) Shifting out of park should not be possible.
+                                                              • Input shaft
+     (d) Apply the brake and attempt to shift out of
+                                                              • Input hub
+   PARK. Shifting should be possible.
+                                                              • Clutch retainer
+     (e) While the transmission is shifted out of
+                                                              • Underdrive piston
+   PARK, release the brake and attempt to shift
+                                                              • Overdrive/reverse piston
+   through all gears. Release the shift button at least
+                                                              • Overdrive hub
+   once during this procedure. The ignition key should
+                                                              • Underdrive hub
+   not go to the LOCK position.
+     (f) Return transmission to the PARK position
+   without applying the brake.
+                                                            OPERATION
+                                                              The three input clutches are responsible for driving
+   (8) Move shift lever back to PARK and check igni-
+                                                            different components of the planetary geartrain.
+tion switch operation. You should be able to turn
+switch to LOCK position and shift lever release but-        NOTE: (Refer to 21 - TRANSMISSION/AUTOMATIC -
+ton/lever should not move.                                  42RLE - DIAGNOSIS AND TESTING) for a collective
+                                                            view of which clutch elements are applied at each
+                                                            position of the selector lever.
+

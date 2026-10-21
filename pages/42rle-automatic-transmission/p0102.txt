@@ -1,0 +1,62 @@
+21 - 138     AUTOMATIC TRANSMISSION - 42RLE                                                                  TJ
+SOLENOID (Continued)
+                                                             The plunger is made of a conductive material and
+                                                           accomplishes this movement by providing a path for
+                                                           the magnetic field to flow. By keeping the air gap
+                                                           between the plunger and the coil to the minimum
+                                                           necessary to allow free movement of the plunger, the
+                                                           magnetic field is maximized.
+
+
+                                                           SOLENOID/PRESSURE
+                                                           SWITCH ASSY
+                                                           DESCRIPTION
+
+
+
+    Fig. 237 Low Reverse/Converter Clutch and
+               Overdrive Solenoids
+1 - OVERDRIVE CLUTCH
+2 - NO VENT
+3 - OVERDRIVE SOLENOID ENERGIZED
+4 - MANUAL VALVE
+5 - LOW REVERSE/CONVERTER CLUTCH SOLENOID DE-
+ENERGIZED
+6 - SOLENOID SWITCH VALVE
+7 - TAPER
+8 - VENT TO SUMP
+9 - ORIFICE
+10 - CHECK BALL
+
+   The most common practice is to increase the num-
+ber of turns by using thin wire that can completely
+fill the available space within the solenoid housing.
+The strength of the spring and the length of the
+plunger also contribute to the response speed possi-
+ble by a particular solenoid design.
+   A solenoid can also be described by the method by
+which it is controlled. Some of the possibilities                     Fig. 238 Valve Body Assembly
+include variable force, pulse-width modulated, con-
+                                                           1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+stant ON, or duty cycle. The variable force and pulse-     2 - TRS
+width modulated versions utilize similar methods to        3 - TRANSFER PLATE
+control the current flow through the solenoid to posi-     4 - SEPARATOR PLATE
+                                                           5 - VALVE BODY
+tion the solenoid plunger at a desired position some-
+where between full ON and full OFF. The constant             The Solenoid/Pressure Switch Assembly (1) (Fig.
+ON and duty cycled versions control the voltage            238) is inside the transmission and mounted to the
+across the solenoid to allow either full flow or no flow   valve body assembly. The assembly consists of four
+through the solenoid’s valve.                              solenoids that control hydraulic pressure to the L/R,
+                                                           2/4, OD, and UD friction elements (transmission
+OPERATION                                                  clutches), and the torque converter clutch. The
+  When an electrical current is applied to the sole-       reverse clutch is controlled by line pressure from the
+noid coil, a magnetic field is created which produces      manual valve in the valve body. The solenoids are
+an attraction to the plunger, causing the plunger to       contained within the Solenoid/Pressure Switch
+move and work against the spring pressure and the          Assembly, and can only be serviced by replacing the
+load applied by the fluid the valve is controlling. The    assembly.
+plunger is normally directly attached to the valve           The solenoid assembly also contains pressure
+which it is to operate. When the current is removed        switches that monitor and send hydraulic circuit
+from the coil, the attraction is removed and the           information to the TCM. Likewise, the pressure
+plunger will return to its original position due to        switches can only be service by replacing the assem-
+spring pressure.                                           bly.
+

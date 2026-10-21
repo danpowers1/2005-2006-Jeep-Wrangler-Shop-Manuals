@@ -1,0 +1,52 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 147
+TRANSMISSION CONTROL RELAY (Continued)
+
+OPERATION                                                 OPERATION
+   When the relay is “off”, no power is supplied to the      The Transmission Range Sensor (TRS) communi-
+solenoid pack and the transmission is in “limp-in”        cates shift lever position (SLP) to the TCM as a com-
+mode. After a controller reset, the TCM energizes the     bination of open and closed switches. Each shift lever
+relay. Prior to this, the TCM verifies that the con-      position has an assigned combination of switch states
+tacts are open by checking for no voltage at the          (open/closed) that the TCM receives from four sense
+switched battery terminals. After this is verified, the   circuits. The TCM interprets this information and
+voltage at the solenoid pack pressure switches is         determines the appropriate transmission gear posi-
+checked. After the relay is energized, the TCM mon-       tion and shift schedule.
+itors the terminals to verify that the voltage is            Since there are four switches, there are 16 possible
+greater than 3 volts.                                     combinations of open and closed switches (codes).
+                                                          Seven of these codes are related to gear position and
+                                                          three are recognized as “between gear” codes. This
+TRANSMISSION RANGE                                        results in six codes which should never occur. These
+SENSOR                                                    are called “invalid” codes. An invalid code will result
+                                                          in a DTC, and the TCM will then determine the shift
+DESCRIPTION                                               lever position based on pressure switch data. This
+                                                          allows reasonably normal transmission operation
+                                                          with a TRS failure.
+                                                                          TRS SWITCH STATES
+
+                                                             SLP        T42        T41         T3         T1
+
+                                                              P          CL         CL         CL         OP
+                                                              R          CL        OP         OP          OP
+                                                              N          CL         CL        OP          CL
+                                                              D         OP         OP         OP          CL
+                                                              2         OP         OP          CL         OP
+                                                              1          CL        OP          CL         CL
+
+
+
+
+           Fig. 252 Valve Body Assembly
+1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+2 - TRS
+3 - TRANSFER PLATE
+4 - SEPARATOR PLATE
+5 - VALVE BODY
+
+  The Transmission Range Sensor (TRS) (2) (Fig.
+252) is mounted to the top of the valve body inside
+the transmission and can only be serviced by remov-
+ing the valve body assembly. The electrical connector
+extends through the transmission case.
+  The Transmission Range Sensor (TRS) has four
+switch contacts that monitor shift lever position and
+send the information to the PCM.
+

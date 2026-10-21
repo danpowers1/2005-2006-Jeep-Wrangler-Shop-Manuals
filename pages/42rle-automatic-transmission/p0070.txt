@@ -1,0 +1,58 @@
+21 - 106      AUTOMATIC TRANSMISSION - 42RLE                                                                     TJ
+
+
+ACCUMULATOR
+DESCRIPTION
+
+
+
+
+                                                                      Fig. 146 2/4 Accumulator Assembly
+                                                             1 - VALVE BODY
+                                                             2 - RETAINER PLATE
+                                                             3 - DETENT SPRING
+                                                             4 - RETURN SPRINGS
+                                                             5 - PISTON
+
+
+                                                             OPERATION
+  Fig. 144 Underdrive and Overdrive Accumulators               The function of an accumulator is to cushion the
+1 - OVERDRIVE PISTON AND SPRING                              application of a frictional clutch element. When pres-
+2 - UNDERDRIVE PISTON AND SPRING
+                                                             surized fluid is applied to a clutch circuit, the appli-
+  The 42RLE underdrive, overdrive, low/reverse, and          cation force is dampened by fluid collecting in the
+2/4 clutch hydraulic circuits each contain an accumu-        respective accumulator chamber against the piston
+lator. An accumulator typically consists of a piston,        and springs. The intended result is a smooth, firm
+return spring(s), and a cover or plug. The overdrive         clutch application.
+(1) and underdrive (2) accumulators are located
+within the transmission case, and are retained by the
+valve body (Fig. 144).
+                                                             ADAPTER HOUSING SEAL
+                                                             REMOVAL
+                                                               (1) Remove the transfer case (Refer to 21 -
+                                                             TRANSMISSION/TRANSFER CASE - REMOVAL).
+                                                               (2) Using a screw mounted in a slide hammer,
+                                                             remove the adapter housing seal.
+
+                                                             INSTALLATION
+                                                              (1) Install a new adapter housing seal with Tool
+                                                             Handle C-4171 and Installer C-3860-A.
+                                                              (2) Install the transfer case (Refer to 21 - TRANS-
+                                                             MISSION/TRANSFER CASE - INSTALLATION).
+
+
+                                                             BEARINGS
+           Fig. 145 Low/Reverse Accumulator
+1 - PISTON                                                   ADJUSTMENTS
+2 - RETURN SPRINGS
+                                                             BEARING ADJUSTMENT PROCEDURES
+   The low reverse (1) accumulator (Fig. 145) is also
+                                                               Take extreme care when removing and installing
+located within the transmission case, but the assem-
+                                                             bearing cups and cones. Use only an arbor press
+bly is retained by a cover and a snap-ring.
+                                                             for installation, as a hammer may not properly
+   The 2/4 accumulator (5) is located in the valve body.
+                                                             align the bearing cup or cone. Burrs or nicks on the
+It is retained by a cover and retaining screws (Fig. 146).
+

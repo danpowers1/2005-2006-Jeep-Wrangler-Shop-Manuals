@@ -1,0 +1,54 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE               21 - 47
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+                    ELEMENTS IN USE AT EACH POSITION OF SELECTOR LEVER
+
+   Shift Lever                       INPUT CLUTCHES                                 HOLDING CLUTCHES
+    Position          Underdrive          Overdrive           Reverse               2/4           Low/Reverse
+     P - PARK                                                                                         X
+  R - REVERSE                                                    X                                    X
+  N - NEUTRAL                                                                                         X
+     OD -
+  OVERDRIVE
+        First              X                                                                          X
+      Second               X                                                         X
+       Direct              X                  X
+     Overdrive                                X                                      X
+     D - DRIVE*
+        First              X                                                                          X
+      Second               X                                                         X
+       Direct              X                  X
+     L - LOW*
+        First              X                                                                          X
+      Second               X                                                         X
+       Direct              X                  X
+* Vehicle upshift and downshift speeds are increased when in these selector positions.
+
+
+  The process of elimination can be used to detect
+any unit which slips and to confirm proper operation
+of good units. Road test analysis can diagnose slip-
+ping units, but the cause of the malfunction cannot
+be determined. Practically any condition can be
+caused by leaking hydraulic circuits or sticking
+valves.
+
+DIAGNOSIS AND TESTING - HYDRAULIC
+PRESSURE TESTS
+   Pressure testing is a very important step in the
+diagnostic procedure. These tests usually reveal the
+cause of most transmission problems.
+   Before performing pressure tests, be certain that
+fluid level and condition, and shift cable adjustments
+have been checked and approved. Fluid must be at                           Fig. 8 Pressure Taps
+operating temperature (150 to 200 degrees F.).
+                                                           1 - TORQUE CONVERTER CLUTCH OFF
+   Install an engine tachometer, raise vehicle on hoist    2 - REVERSE
+which allows the wheels to turn, and position              3 - LOW/REVERSE
+tachometer so it can be read.                              4 - 2/4
+                                                           5 - UNDERDRIVE
+   Using special adapters L-4559, attach 300 psi           6 - TORQUE CONVERTER CLUTCH ON
+gauge(s) C-3293SP to the port(s) required for test         7 - OVERDRIVE
+being conducted.
+   Test port locations are shown in the Pressure Taps
+graphic. (Fig. 8)
+

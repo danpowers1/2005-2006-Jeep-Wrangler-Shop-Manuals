@@ -1,0 +1,27 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE                 21 - 41
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+
+FIRST GEAR POWERFLOW
+   In first gear range, torque input is through the
+underdrive clutch (1) (Fig. 3) to the underdrive hub
+assembly. The underdrive hub is splined to the rear
+sun gear. When the underdrive clutch is applied, it
+rotates the underdrive hub and rear sun gear. The
+L/R clutch (2) is applied to hold the front carrier/rear
+annulus assembly. The rear sun gear drives the rear
+planetary pinion gears. The rear planetary pinion
+gears are forced to walk around the inside of the sta-
+tionary rear annulus gear. The pinions are pinned to
+the rear carrier and cause the rear carrier assembly
+to rotate as they walk around the annulus gear. This
+provides the torque output for first gear. The other
+planetary gearset components are freewheeling. The
+first gear ratio is 2.84:1.
+
+
+
+
+                                           Fig. 3 First Gear Powerflow
+1 - UNDERDRIVE CLUTCH APPLIED (Turns Rear Sun)             2 - LOW-REVERSE CLUTCH APPLIED (Holds Rear Annulus/Front
+                                                           Carrier)
+

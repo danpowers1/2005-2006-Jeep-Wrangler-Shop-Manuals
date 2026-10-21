@@ -1,0 +1,57 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE               21 - 51
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+
+
+
+
+                                                                  Fig. 12 Converter Leak Points - Typical
+                                                           1 - OUTSIDE DIAMETER WELD
+                                                           2 - TORQUE CONVERTER HUB WELD
+                                                           3 - STARTER RING GEAR
+                                                           4 - LUG
+       Fig. 11 Converter Housing Leak Paths
+1 - PUMP SEAL                                              use of Heli-Coilst, or equivalent. This repair consists
+2 - PUMP VENT                                              of drilling out the worn-out damaged threads. Then
+3 - PUMP BOLT
+4 - PUMP GASKET                                            tap the hole with a special Heli-Coilt tap, or equiva-
+5 - CONVERTER HOUSING                                      lent, and installing a Heli-Coilt insert, or equivalent,
+6 - CONVERTER                                              into the hole. This brings the hole back to its original
+7 - REAR MAIN SEAL LEAK
+                                                           thread size.
+   Fluid leakage at or around the torque converter           Heli-Coilt, or equivalent, tools, and inserts are
+area (Fig. 11) may originate from an engine oil leak.      readily available from most automotive parts suppli-
+The area should be examined closely. Factory fill          ers.
+fluid is red and, therefore, can be distinguished from
+engine oil.                                                REMOVAL
+   Some suspected converter housing fluid leaks may          (1) Disconnect battery negative cable.
+not be leaks at all. They may only be the result of          (2) Raise and support vehicle.
+residual fluid in the converter housing, or excess           (3) Disconnect and lower or remove necessary
+fluid spilled during factory fill, or fill after repair.   exhaust components.
+Converter housing leaks have several potential               (4) Remove engine-to-transmission bending braces
+sources. Through careful observation, a leak source        or engine collar.
+can be identified before removing the transmission           (5) Remove starter motor. (Refer to 8 - ELECTRI-
+for repair.                                                CAL/STARTING/STARTER MOTOR - REMOVAL)
+   Pump seal leaks tend to move along the drive hub          (6) On 4.0L engine equipped vehicles, disconnect
+(Fig. 11) and onto the rear of the converter. Pump         and remove crankshaft position sensor (Fig. 13).
+o-ring or pump body leaks follow the same path as a        Retain sensor attaching bolt.
+seal leak. Pump attaching bolt leaks are generally
+                                                           CAUTION: The crankshaft position sensor can be
+deposited on the inside of the converter housing and
+                                                           damaged during transmission removal (or installa-
+not on the converter itself. Pump seal or gasket leaks
+                                                           tion) if the sensor is left in place. To avoid damage,
+(Fig. 11)usually travel down the inside of the con-
+                                                           remove the sensor before removing the transmis-
+verter housing.
+                                                           sion.
+TORQUE CONVERTER LEAKAGE                                     (7) If transmission is being removed for overhaul,
+  Possible sources of torque converter leakage are:        remove transmission oil pan, drain fluid and reinstall
+  • Torque converter weld leaks at the outside diam-       pan. (Refer to 21 - TRANSMISSION/AUTOMATIC -
+eter weld. (Fig. 12)                                       42RLE/FLUID - STANDARD PROCEDURE)
+  • Torque converter hub weld. (Fig. 12)                     (8) Remove torque converter access cover.
+                                                             (9) Rotate crankshaft in clockwise direction until
+STANDARD PROCEDURE - ALUMINUM                              converter bolts are accessible. Then remove bolts one
+THREAD REPAIR                                              at a time. Rotate crankshaft with socket wrench on
+ Damaged or worn threads in the aluminum trans-            dampener bolt.
+mission case and valve body can be repaired by the
+

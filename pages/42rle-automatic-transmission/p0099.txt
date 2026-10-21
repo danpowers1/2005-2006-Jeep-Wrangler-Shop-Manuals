@@ -1,0 +1,43 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 135
+OUTPUT SPEED SENSOR (Continued)
+NOTE: Before installing the speed sensor bolt, it         causes normal overdrive operation to be restored and
+will be necessary to replentish the sealing patch on      the overdrive lamp to be turned off. The overdrive
+the bolt using MoparT Lock & Seal Adhesive.               OFF mode defaults to ON after the ignition switch is
+                                                          cycled OFF and ON. The normal position for the con-
+  (2) Install the bolt to hold the output speed sensor    trol switch is the ON position. The switch must be in
+into the transmission case. Tighten the bolt to 9 N·m     this position to energize the solenoid and allow a 3-4
+(80 in.lbs.).                                             upshift. The control switch indicator light illuminates
+  (3) Install the wiring connector onto the output        only when the overdrive switch is turned to the OFF
+speed sensor                                              position, or when illuminated by the transmission
+  (4) Verify the transmission fluid level. Add fluid as   control module.
+necessary.
+  (5) Lower vehicle.                                      REMOVAL
+                                                            (1) Remove the accessory switch bezel (Fig. 234)
+                                                          (Refer to 23 - BODY/INSTRUMENT PANEL/ACCES-
+OVERDRIVE SWITCH                                          SORY SWITCH BEZEL - REMOVAL).
+
+DESCRIPTION
+  The overdrive OFF (control) switch is located in
+the center console (Fig. 233). The switch is a momen-
+tary contact device that signals the PCM to toggle
+current status of the overdrive function.
+
+
+
+
+                                                                      Fig. 234 Overdrive Off Switch
+                                                          1 - ACCESSORY SWITCH BEZEL
+                                                          2 - OVERDRIVE OFF SWITCH
+
+                                                            (2) Remove the overdrive off switch from the acces-
+                                                          sory switch bezel.
+            Fig. 233 Overdrive Off Switch
+1 - ACCESSORY SWITCH BEZEL                                INSTALLATION
+2 - OVERDRIVE OFF SWITCH                                    (1) Install the overdrive off switch to the accessory
+                                                          switch bezel.
+OPERATION                                                   (2) Install the accesory switch bezel (Refer to 23 -
+   At key-on, overdrive operation is allowed. Pressing    BODY/INSTRUMENT                  PANEL/ACCESSORY
+the switch once causes the overdrive OFF mode to be       SWITCH BEZEL - INSTALLATION).
+entered and the overdrive OFF switch lamp to be
+illuminated. Pressing the switch a second time
+

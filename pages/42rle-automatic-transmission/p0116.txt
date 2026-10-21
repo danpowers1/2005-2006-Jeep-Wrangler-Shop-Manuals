@@ -1,0 +1,55 @@
+21 - 152     AUTOMATIC TRANSMISSION - 42RLE                                                              TJ
+VALVE BODY (Continued)
+MANUAL VALVE
+
+
+
+
+                                                               Fig. 264 Converter Clutch Switch Valve
+                                                          1 - CONVERTER CLUTCH
+                                                          2 - TORQUE CONVERTER
+                Fig. 263 Manual Valve                     3 - LR CLUTCH
+1 - UD CLUTCH                                             4 - DRIBBLERS
+2 - LR/CC CLUTCH                                          5 - REGULATOR VALVE
+3 - REVERSE CLUTCH                                        6 - SOLENOID SWITCH VALVE
+4 - MANUAL VALVE                                          7 - CONVERTER CLUTCH CONTROL VALVE
+5 - REGULATOR VALVE                                       8 - TORQUE CONVERTER REGULATOR VALVE
+6 - REGULATOR VALVE                                       9 - CONVERTER CLUTCH CONTROL VALVE
+7 - CONVERTER CLUTCH CONTROL VALVE                        10 - CONVERTER CLUTCH SWITCH VALVE
+8 - 2/4 CLUTCH                                            11 - BYPASS VALVE
+9 - 2/4 - L/R SOLENOID                                    12 - LUBE
+10 - L/R CLUTCH                                           13 - COOLER
+
+
+  The manual valve (4) (Fig. 263) is operated by the
+mechanical shift linkage. Its primary responsibility is
+to send line pressure to the appropriate hydraulic cir-
+cuits and solenoids. The valve has three operating
+ranges or positions.
+
+CONVERTER CLUTCH SWITCH VALVE
+  The main responsibility of the converter clutch
+switch valve (10) (Fig. 264) is to control hydraulic
+pressure applied to the front (off) side of the con-
+verter clutch piston. Line pressure from the regulator
+valve (5) is fed to the torque converter regulator
+valve (8). The pressure is then directed to the con-
+verter clutch switch valve (10) and to the front side
+of the converter clutch piston. This pressure pushes
+the piston back and disengages the converter clutch.
+
+CONVERTER CLUTCH CONTROL VALVE
+  The converter clutch control valve (5) (Fig. 265)
+controls the back (on) side of the torque converter
+clutch (1). When the controller energizes or modu-
+lates the LR/CC solenoid to apply the converter                Fig. 265 Converter Clutch Control Valve
+clutch piston, both the converter clutch control valve    1 - CONVERTER CLUTCH
+(5) and the converter control valve move, allowing        2 - TORQUE CONVERTER
+                                                          3 - LR/CC SOLENOID
+pressure to be applied to the back side of the clutch.    4 - FROM MANUAL VALVE
+                                                          5 - CONVERTER CLUTCH CONTROL VALVE
+                                                          6 - TORQUE CONVERTER REGULATOR VALVE
+                                                          7 - CONVERTER CLUTCH SWITCH VALVE
+                                                          8 - BYPASS VALVE
+                                                          9 - COOLER
+
