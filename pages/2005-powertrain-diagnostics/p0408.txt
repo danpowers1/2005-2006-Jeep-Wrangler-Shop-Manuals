@@ -1,0 +1,56 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    P1652-SERIAL COMMUNICATION LINK MALFUNCTION
+
+
+
+When Monitored and Set Condition:
+
+        P1652-SERIAL COMMUNICATION LINK MALFUNCTION
+        When Monitored:      Continuously with engine running.
+        Set Condition: The DTC sets in approximately 20 seconds if no BUS messages are
+        received by the TCM.
+
+
+
+                                          POSSIBLE CAUSES
+NO COMMUNICATION WITH MIC
+NO COMMUNICATION WITH PCM
+INTERMITTENT WIRING AND CONNECTORS
+TRANSMISSION CONTROL MODULE
+
+ TEST                                       ACTION                                         APPLICABILITY
+   1     With the DRBIIIt, erase TCM DTC’s.                                                     All
+         Note: Erase P0700 DTC in the PCM to turn the MIL light off after making
+         transmission repairs.
+         Start the engine in park.
+         Did the DTC reset after the engine was started?
+                 Yes   → Go To    2
+                 No    → Go To    5
+
+   2     Ignition on, engine not running.                                                       All
+         With the DRBIIIt, attempt communication with the MIC
+         Can you communicate with the MIC?
+
+                 Yes   → Go To    3
+                 No    → Refer to the Communication category for the related symptom(s).
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+   3     Ignition on, engine not running.                                                       All
+         With the DRBIIIt, select the following screens in order: 9BODY9 9MIC9 9MONITOR
+         DISPLAY9 9PCI BUS ENGINE INFO9.
+         Does the DRBIIIt, read 9NO RESPONSE9 from any of the listed PCM monitors?
+
+                 Yes   → Refer to Communication Category for the related symptom(s).
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    4
+
+
+
+
+                                                    400
+

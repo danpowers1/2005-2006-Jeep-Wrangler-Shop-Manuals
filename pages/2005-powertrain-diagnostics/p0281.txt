@@ -1,0 +1,22 @@
+                                                                        DRIVEABILITY - NGC
+
+*CHECKING A/C SYSTEM OPERATION WITH NO DTCS — Continued
+
+ TEST                                      ACTION                                     APPLICABILITY
+  15    Turn the ignition off.                                                             All
+        Disconnect the BCM C1 harness connector.
+        Disconnect the A/C - Heater Control C1 harness connector.
+        Measure the resistance of the A/C On/Off Control circuit between the BCM C1
+        harness connector and the A/C - Heater Control C1 harness connector.
+        Is the resistance below 5.0 ohms?
+                Yes   → Replace and program the Body Control Module per Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the A/C On/Off Control Circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   273
+

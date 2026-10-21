@@ -1,0 +1,39 @@
+DRIVEABILITY - NGC
+
+P0562-BATTERY VOLTAGE LOW — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  6     Measure the resistance between ground and the (K125) Gen Field Control circuit in        All
+        the Generator Field harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the (K125) Gen Field Control
+                        circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+                No    → Go To    7
+
+  7     Using a 12-volt test connected to 12-volts, probe the (Z20) Ground circuit in the        All
+        Generator Field harness connector.
+        Does the test light illuminate brightly?
+
+                Yes   → Go To     8
+                No    → Repair the open in the (Z20) Ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+  8     NOTE: Before continuing, check the PCM harness connector terminals for                   All
+        corrosion, damage or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+
+
+
+                                                    208
+

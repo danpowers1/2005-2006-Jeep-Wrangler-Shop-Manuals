@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0627-FUEL PUMP RELAY CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0627-FUEL PUMP RELAY CIRCUIT
+        When Monitored:        With the ignition on. Battery voltage greater than 10.4 volts.
+        Set Condition:     An open or shorted condition is detected in the fuel pump relay control
+        circuit.
+
+
+
+                                             POSSIBLE CAUSES
+FUEL PUMP RELAY OPERATION
+(F1) FUSED IGNITION SWITCH OUTPUT CIRCUIT
+(A930) FUSED B+ CIRCUIT
+FUEL PUMP RELAY
+(K31) FUEL PUMP RELAY CONTROL CIRCUIT OPEN
+(K31) FUEL PUMP RELAY CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                          ACTION                                            APPLICABILITY
+   1      Ignition on, engine not running.                                                            All
+          With the DRBIIIt, actuate the Fuel Pump Relay.
+          Is the Fuel Pump Relay operating?
+                   Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                   No    → Go To    2
+
+   2      Turn the ignition off.                                                                      All
+          Remove the Fuel Pump Relay from the PDC.
+          Ignition on, engine not running.
+          Using a 12-volt test light connected to ground, probe the (F1) Fused Ignition Switch
+          Output circuit in the PDC.
+          Does the test light illuminate brightly?
+
+                   Yes   → Go To    3
+
+                   No    → Repair the (F1) Fused Ignition Switch Output circuit. Inspect the
+                           related fuse. An open fuse may have been caused by a short to
+                           ground.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       232
+

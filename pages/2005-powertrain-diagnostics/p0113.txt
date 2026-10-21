@@ -1,0 +1,66 @@
+                                                                              DRIVEABILITY - NGC
+
+P0171-FUEL SYSTEM 1/1 LEAN — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  11    Only have one O2 Sensor disconnect at a time.                                                 All
+        With the DRBIIIt, monitor all the O2 Sensor voltage readings.
+        NOTE: The DRBIIIt will display all O2 Sensor voltage readings approxi-
+        mately 5.0 volts when only one O2 Sensor’s Signal circuit is shorted to
+        voltage.
+        NOTE: The DRBIIIt will display one O2 Sensor voltage close to zero and the
+        others will read lower than normal when one O2 Sensor Signal circuit
+        contains excessive resistance.
+        Is the voltage above 4.8 volts?
+
+                 Yes   → Go To     12
+                 No    → Check all the O2 Signal circuits for a short to ground, open, or
+                         short to voltage. Inspect the O2 Sensor connector and the PCM
+                         harness connector. If OK, replace and program the Powertrain
+                         Control Module per Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  12    Disconnect each O2 Sensor harness connector.                                                  All
+        Measure the voltage on the O2 Return circuits in the O2 Sensor harness connector.
+        NOTE: The DRBIIIt will display all O2 Sensor voltage readings approxi-
+        mately 5.0 volts when only one O2 Sensor’s Return circuit is shorted to
+        voltage.
+        NOTE: The DRBIIIt will display one O2 Sensor voltage close to zero and the
+        others will read lower than normal when one O2 Sensor Return circuit
+        contains excessive resistance.
+        Is the voltage at 2.5 volts?
+
+                 Yes   → Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Check all the O2 Return circuits for a short to ground, open, or
+                         short to voltage. Inspect the O2 Sensor connector and the PCM
+                         harness connector. If OK, replace and program the Powertriain
+                         Control Module per Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  13    Turn the ignition off.                                                                        All
+        WARNING: The fuel system is under a constant pressure (even with the
+        engine off). Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Raise vehicle on hoist, and disconnect the fuel pressure line at the fuel pump module.
+        Install special 5/16 fuel line adapter tool #6539 between disconnected fuel line and
+        the fuel pump module.
+        Attach a fuel pressure test gauge to the T fitting on tool #6539.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 407 KPa +/- 34 KPa (59 psi +/- 5 psi).
+        Is the fuel pressure within specification?
+
+                 Yes   → Repair or replace fuel supply line as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     14
+
+        CAUTION: Stop All Actuations.
+
+
+
+
+                                                       105
+

@@ -1,0 +1,45 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0218-HIGH TEMPERATURE OPERATION ACTIVATED — Continued
+
+ TEST                                        ACTION                                           APPLICABILITY
+  2     This DTC is an informational DTC designed to aid the Technician in diagnosing shift        All
+        quality complaints.
+        This DTC indicates that the Transmission has been operating in the 9Overheat9 shift
+        schedule which may generate a customer complaint.
+        The customer driving patterns may indicate the need for an additional Transmission
+        Oil Cooler.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair the cause of the Transmission Overheating per the Service
+                         Information. If indicated install an additional Transmission Oil
+                         Cooler.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    3
+
+  3     Perform Engine Cooling System diagnostics per the Service Information                      All
+        Is the Engine Cooling System functioning properly?
+
+                 Yes   → Go To     4
+                 No    → Repair the cause of the Engine Overheating. Refer to the Service
+                         Information for additional repair information.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  4     If there are no possible causes remaining, view repair.                                    All
+
+                 Repair
+                          Flush or replace the Transmission Oil cooler as necessary per the
+                          Service Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                      299
+

@@ -1,0 +1,26 @@
+TRANSMISSION - 42RLE
+
+P1797-MANUAL SHIFT OVERHEAT — Continued
+
+ TEST                                     ACTION                                         APPLICABILITY
+  2     This is an informational DTC only.                                                    All
+        Check the Engine and Transmission Cooling Systems for proper operation.
+        Check the Radiator Cooling Fan operation.
+        Check the Transmission Cooling Fan operation if equipped.
+        Check the Transmission Fluid Level. Make sure it is not overfilled.
+        NOTE: Aggressive driving or driving in low for extended periods of time in
+        Autostickt mode will set this DTC.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+                Yes   → Repair as necessary.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Test Complete.
+
+
+
+
+                                                  424
+

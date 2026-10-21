@@ -1,0 +1,54 @@
+                                                                       TRANSMISSION - 42RLE
+
+P0122-THROTTLE POSITION SENSOR/APPS LOW — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  3     With the DRBIIIt in Transmission Sensors, read the TPS voltage.                              All
+        Is the TPS voltage below 0.5 volts?
+                 Yes   → Go To     4
+
+                 No    → Go To     6
+
+  4     Ignition on, engine not running.                                                             All
+        With the DRBIIIt in Transmission Sensors, record the TPS voltage.
+        While back probing the TCM harness connector, measure the voltage of the TPS
+        Signal circuit.
+        Compare the voltage readings between the DRBIIIt and the reading from the digital
+        multi meter.
+        Are the voltages within 0.1 volt of each other?
+                 Yes   → Repair the TPS signal circuit between the TCM harness connector
+                         and the splice for high resistance.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To     5
+
+  5     Using the schematics as a guide, inspect the wiring and connectors. Repair as                All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Transmission Control Module per the Service infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  6     The conditions necessary to set this DTC are not present at this time.                       All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wires while checking for shorts and open circuits.
+        Pay particular attention to the point where the TPS signal and sensor ground circuits
+        splice off from the engine circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                      293
+

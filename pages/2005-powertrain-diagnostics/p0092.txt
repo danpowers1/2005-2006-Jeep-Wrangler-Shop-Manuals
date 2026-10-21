@@ -1,0 +1,60 @@
+DRIVEABILITY - NGC
+
+P0128-THERMOSTAT RATIONALITY — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  2     NOTE: If a Engine Coolant Temperature (ECT) DTC is set along with this                       All
+        code, diagnose the ECT DTC first.
+        NOTE: Inspect the ECT terminals and related PCM terminals. Make sure
+        the terminals are free from corrosion and damage.
+        NOTE: The best way to diagnose this DTC is to allow the vehicle to sit
+        overnight outside in order to have a totally cold soaked engine.
+        Note: Extremely cold outside ambient temperatures may have caused this
+        DTC to set.
+        WARNING: Never open the cooling system when the engine is hot. The
+        system is under pressure. Extreme burns or scalding may result. Allow the
+        engine to cool before opening the cooling system.
+        Check the coolant system to make sure that the coolant is in good condition and at
+        the proper level.
+        Is the coolant level and condition OK?
+                 Yes   → Go To     3
+                 No    → Inspect the vehicle for a coolant leak and add the necessary
+                         amount of coolant.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  3     NOTE: This test works best if performed on a cold engine (cold soak).                        All
+        Ignition on, engine not running.
+        With the DRBIIIt, read the ECT Deg value. If the engine was allowed to sit overnight
+        (cold soak), the temperature value should be a sensible value that is somewhere close
+        to the ambient temperature.
+        Note: If engine coolant temperature is above 82°C (180°F), allow the engine
+        to cool until 65°C (150°F) is reached.
+        Start the Engine.
+        During engine warm-up, monitor the ECT Deg value. The temp deg value change
+        should be a smooth transition from start up to normal operating temp 82°C (180°F).
+        Also monitor the actual coolant temperature with a thermometer.
+        NOTE: As the engine warms up to operating temperature, the actual coolant
+        temperature (thermometer reading) and the ECT Deg on the DRBIIIt
+        screen should stay relatively close to each other.
+        Using the appropriate service information, determine the proper opening tempera-
+        ture of the thermostat.
+        Did the thermostat open at the proper temperature?
+
+                 Yes   → Go To     4
+                 No    → Replace the thermostat.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  4     Ignition on, engine not running.                                                             All
+        With the DRBIIIt, read and record the AAT Sensor Temperature value.
+        Using the DRB Temperature Probe #CH7050, measure the ambient air temperature
+        near the AAT Sensor.
+        Is the AAT Sensor value with -15°C (5°F) of the temperature probe reading?
+                 Yes   → Go To     5
+
+                 No    → Go To     7
+
+
+
+
+                                                       84
+

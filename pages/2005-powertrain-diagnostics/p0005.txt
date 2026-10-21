@@ -1,0 +1,57 @@
+                  TABLE OF CONTENTS - Continued
+*FUEL PRESSURE LEAK DOWN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .283
+*NO CRANK CONDITION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .284
+*NO RESPONSE FROM PCM WITH A NO START CONDITION . . . . . . . . . . . . . . . .287
+*START AND STALL CONDITION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .290
+
+TRANSMISSION - 42RLE
+P0122-THROTTLE POSITION SENSOR/APPS LOW . . . . . . . . . . . . . . . . . . . . . . . . .292
+P0123-THROTTLE POSITION SENSOR/APPS HIGH . . . . . . . . . . . . . . . . . . . . . . . . .294
+P0124- THROTTLE POSITION SENSOR/APPS INTERMITTENT. . . . . . . . . . . . . . . .296
+P0218-HIGH TEMPERATURE OPERATION ACTIVATED . . . . . . . . . . . . . . . . . . . . . .298
+P0562-LOW BATTERY VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .300
+P0604-INTERNAL TCM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .303
+P0605-INTERNAL TCM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .304
+P0613-INTERNAL TCM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .305
+P0706-CHECK SHIFTER SIGNAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .306
+P0711-TRANSMISSION TEMPERATURE SENSOR PERFORMANCE . . . . . . . . . . . .312
+P0712-TRANSMISSION TEMPERATURE SENSOR LOW. . . . . . . . . . . . . . . . . . . . . .315
+P0713-TRANSMISSION TEMPERATURE SENSOR HIGH . . . . . . . . . . . . . . . . . . . . .318
+P0714-TRANSMISSION TEMPERATURE SENSOR INTERMITTENT . . . . . . . . . . . .321
+P0715-INPUT SPEED SENSOR ERROR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .323
+P0720-OUTPUT SPEED SENSOR ERROR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .327
+P0725-ENGINE SPEED SENSOR CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .331
+P0731-GEAR RATIO ERROR IN 1ST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .334
+P0732-GEAR RATIO ERROR IN 2ND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .336
+P0733-GEAR RATIO ERROR IN 3RD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .339
+P0734-GEAR RATIO ERROR IN 4TH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .342
+P0736-GEAR RATIO ERROR IN REVERSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .345
+P0740-TCC OUT OF RANGE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .347
+P0750-LR SOLENOID CIRCUIT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .349
+P0755-2/4 SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .353
+P0760-OD SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .357
+P0765-UD SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .361
+P0841-LR PRESSURE SWITCH SENSE CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . .365
+P0845-2/4 HYDRAULIC PRESSURE TEST FAILURE . . . . . . . . . . . . . . . . . . . . . . . . .369
+P0846-2/4 PRESSURE SWITCH SENSE CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . .373
+P0870-OD HYDRAULIC PRESSURE TEST FAILURE . . . . . . . . . . . . . . . . . . . . . . . . .377
+P0871-OD PRESSURE SWITCH SENSE CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . .381
+P0884-POWER UP AT SPEED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .385
+P0888-RELAY OUTPUT ALWAYS OFF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .386
+P0890-SWITCHED BATTERY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .388
+P0891-TRANSMISSION RELAY ALWAYS ON . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .390
+P0897-WORN OUT/BURNT TRANSAXLE FLUID. . . . . . . . . . . . . . . . . . . . . . . . . . . . .393
+P0944-LOSS OF PRIME. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .395
+P0992- 2-4/OD HYDRAULIC PRESSURE TEST FAILURE . . . . . . . . . . . . . . . . . . . . .398
+P1652-SERIAL COMMUNICATION LINK MALFUNCTION. . . . . . . . . . . . . . . . . . . . . .400
+P1684-BATTERY WAS DISCONNECTED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .402
+P1687-NO COMMUNICATION WITH THE MIC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .405
+P1694-BUS COMMUNICATION WITH ENGINE MODULE. . . . . . . . . . . . . . . . . . . . . .407
+P1775-SOLENOID SWITCH VALVE LATCHED IN TCC POSITION . . . . . . . . . . . . . .409
+P1776-SOLENOID SWITCH VALVE LATCHED IN LR POSITION. . . . . . . . . . . . . . . .413
+P1790-FAULT IMMEDIATELY AFTER SHIFT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .417
+P1793-TRD LINK COMMUNICATION ERROR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .418
+P1794-SPEED SENSOR GROUND ERROR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .421
+
+                                                     v
+

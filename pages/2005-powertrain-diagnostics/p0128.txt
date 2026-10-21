@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+P0300-MULTIPLE CYLINDER MISFIRE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  10    Turn the ignition off.                                                                        All
+        Disconnect the Fuel Injector harness connector.
+        Ignition on, engine not running.
+        NOTE: When a Misfire is detected for a particular cylinder, the PCM will
+        shut down that cylinders Injector Control circuit.
+        With the DRBIIIt, erase DTCs.
+        Using a 12-volt test light connected to 12-volts, probe the Injector Control circuit.
+        With the DRBIIIt, actuate the Fuel Injector.
+        Does the test light blink/flicker?
+
+                 Yes   → Replace the Fuel Injector.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     11
+
+  11    Turn the ignition off.                                                                        All
+        Disconnect the C2 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Check the Injector Control circuit for an open, short to ground, and short to voltage.
+        Was a problem found with the Injector Control circuit?
+
+                 Yes   → Repair the excessive resistance or short to ground in the Injector
+                         Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     16
+
+  12    Turn the ignition off.                                                                        All
+        Warning: The fuel system is under a constant pressure (even with the engine
+        off). Before testing or servicing any fuel system hose, fitting or line, the fuel
+        system pressure must be released.
+        Raise vehicle on hoist, and disconnect the fuel pressure line at the fuel pump module.
+        Install special tool #6539 (5/169) #6631(3/89) fuel line adapter and the fuel pressure
+        gauge between the fuel supply line and the fuel pump module.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 407 KPa +/- 34 KPa (59 psi +/- 5 psi).
+        Is the fuel pressure within specification?
+
+                 Yes   → Repair or replace fuel supply line as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     13
+
+
+
+
+                                                       120
+

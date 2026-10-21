@@ -1,0 +1,58 @@
+                          TABLE OF CONTENTS - Continued
+      P1797-MANUAL SHIFT OVERHEAT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .423
+      *BACKUP LAMPS COME ON WHILE SHIFTER IS NOT IN REVERSE POSITION. .425
+      *BACKUP LAMPS INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .427
+      *CHECKING PARK/NEUTRAL SWITCH OPERATION . . . . . . . . . . . . . . . . . . . . . . . . .430
+      *INCORRECT TRANSMISSION FLUID LEVEL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .432
+      *NO SPEEDOMETER OPERATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .433
+      *TRANSMISSION NOISY WITH NO DTC’S PRESENT . . . . . . . . . . . . . . . . . . . . . . . .434
+      *TRANSMISSION SHIFTS EARLY WITH NO DTC’S . . . . . . . . . . . . . . . . . . . . . . . . . .435
+      *TRANSMISSION SIMULATOR 8333 WILL NOT POWER UP . . . . . . . . . . . . . . . . . .436
+
+      VEHICLE THEFT/SECURITY
+      ANTENNA FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      COP FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      EEPROM FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      INTERNAL FAULT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      RAM FAILURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      SERIAL LINK INTERNAL FAULT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      STACK OVERFLOW FAILURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .437
+      PCM STATUS FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .439
+      SERIAL LINK EXTERNAL FAULT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .439
+      ROLLING CODE FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .441
+      VIN MISMATCH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .441
+      TRANSPONDER COMMUNICATION FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .443
+      TRANSPONDER CYCLIC REDUNDANCY CHECK (CRC) FAILURE . . . . . . . . . . . . .443
+      TRANSPONDER ID MISMATCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .443
+      TRANSPONDER RESPONSE MISMATCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .443
+
+      VERIFICATION TESTS
+      VERIFICATION TESTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .446
+
+8.0   COMPONENT LOCATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .453
+
+      8.1     CONTROL MODULES AND PDC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .453
+      8.2     DATA LINK CONNECTOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .453
+      8.3     SENSORS AND SOLENOIDS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .454
+      8.4     FUEL SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .457
+      8.5     SWITCHES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .458
+
+9.0   CONNECTOR PINOUTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .459
+
+      A/C COMPRESSOR CLUTCH - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .459
+      A/C HIGH PRESSURE SWITCH (4.0L) - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . . . . .459
+      A/C LOW PRESSURE SWITCH - GREEN 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . .459
+      A/C PRESSURE TRANSDUCER (2.4L) - 4 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . .459
+      AMBIENT TEMPERATURE SENSOR (ENGINE) - 2 WAY . . . . . . . . . . . . . . . . . . . . . .460
+      BATTERY TEMPERATURE SENSOR - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . . . . . .460
+      BRAKE LAMP SWITCH - GRAY 6 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .460
+      C102 - (ENGINE SIDE). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .461
+      C102 - GRAY (HEADLAMP AND DASH SIDE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .461
+      C103 - BLACK (ENGINE SIDE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .462
+      C103 - BLACK (HEADLAMP AND DASH SIDE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .462
+      C104 (RHD) - BLACK (ENGINE SIDE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .462
+      C104 (RHD) - BLACK (HEADLAMP AND DASH SIDE) . . . . . . . . . . . . . . . . . . . . . . . .463
+      C181 (2.4L) - BLACK (ENGINE INTAKE SIDE) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .463
+
+                                                               vi
+

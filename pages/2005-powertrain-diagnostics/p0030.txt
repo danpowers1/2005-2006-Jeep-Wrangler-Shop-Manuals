@@ -1,0 +1,64 @@
+COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM PCM (PCI BUS) - NGC
+
+
+
+
+                                          POSSIBLE CAUSES
+PCM PCI NO RESPONSE
+POWERTRAIN CONTROL MODULE
+PCI BUS CIRCUIT OPEN
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                     All
+        NOTE: As soon as one or more module communicates with the DRB, answer
+        the question.
+        With the DRB, enter Body then Electro/Mechanical Cluster (MIC).
+        With the DRB, enter Passive Restraints then Airbag.
+        Were you able to establish communications with any of the modules?
+                 Yes   → Go To    2
+
+                 No    → Refer to symptom PCI Bus Communication Failure in the Com-
+                         munications category.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  2     With the DRB read the Powertrain DTC’s. This is to ensure power and grounds to the        All
+        PCM are operational.
+        NOTE: If the DRB will not read PCM DTC’s, follow the NO RESPONSE TO
+        PCM (PCM SCI only) symptom path.
+        Turn the ignition off.
+        Disconnect the PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Use Scope input cable CH7058, Cable to Probe adapter CH7062, and the red and
+        black test probes.
+        Connect the scope input cable to the channel one connector on the DRB. Attach the
+        red and black leads and the cable to probe adapter to the scope input cable.
+        With the DRBIIIt select Pep Module Tools.
+        Select lab scope.
+        Select Live Data.
+        Select 12 volt square wave.
+        Press F2 for Scope.
+        Press F2 and use the down arrow to set voltage range to 20 volts. Press F2 again
+        when complete.
+        Connect the Black lead to the chassis ground. Connect the Red lead to the PCI Bus
+        circuit in the appropriate terminal of special tool #8815.
+        Turn the ignition on.
+        Observe the voltage display on the DRB Lab Scope.
+        Does the voltage pulse from 0 to approximately 7.5 volts?
+
+                 Yes   → Replace and program the Powertrain Control Module in accor-
+                         dance with the Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                 No    → Repair the PCI Bus circuit for an open.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+                                                     22
+

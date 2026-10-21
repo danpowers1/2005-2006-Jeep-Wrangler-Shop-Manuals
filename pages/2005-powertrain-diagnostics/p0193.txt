@@ -1,0 +1,37 @@
+                                                                             DRIVEABILITY - NGC
+
+P0506-IDLE SPEED PERFORMANCE LOWER THAN EXPECTED —
+Continued
+ TEST                                        ACTION                                             APPLICABILITY
+   3    Inspect the throttle plate for carbon build up or other restrictions.                        All
+        Verify that the throttle cable between the Accelerator Pedal and the Throttle body is
+        not binding.
+        Make sure the throttle plate is in the idle position.
+        Remove the IAC Motor and actuate the IAC Motor with the DRBIIIt to verify proper
+        operation.
+        Install the IAC Motor.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        With the vehicle is running, lightly tap on IAC Motor, with your hand, and listen for
+        idle to raise.
+        Were any problems found?
+                 Yes   → Repair or replace as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     4
+
+   4    NOTE: Before continuing, check the PCM harness connector terminals for                       All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      185
+

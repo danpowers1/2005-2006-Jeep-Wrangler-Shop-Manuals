@@ -1,0 +1,60 @@
+DRIVEABILITY - NGC
+
+P1593-SPEED CONTROL SWITCH NO.1 STUCK — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  2     Turn the ignition off.                                                                       All
+        Remove the Speed Control Switches from the steering wheel.
+        Measure the resistance across each Switch Control Switch.
+        Monitor the ohmmeter while pressing each function button on each switch.
+        Resume/Accel - 15,400 ohms
+        Cancel - 909 +/- 9 ohms
+        Decel (Coast) - 2940 +/- 30 ohms
+        On/Off - 0 ohms
+        Set - 6650 +/- 66 ohms
+        Does the function on the Speed Control Switches have the correct resistance value?
+                 Yes   → Go To     3
+
+                 No    → Replace the Speed Control Switch that had the incorrect resis-
+                         tance value.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  3     Disconnect the C3 PCM harness connector.                                                     All
+        Ignition on, engine not running.
+        Measure the voltage on the (V37) S/C Signal circuit at the Speed Control harness
+        connector.
+        Is the is the voltage above 5.0 volts?
+                 Yes   → Repair the short to battery voltage in the (V37) S/C Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                 No    → Go To     4
+
+  4     Turn the ignition off.                                                                       All
+        NOTE: The measurement must be taken from both Speed Control Switch
+        harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (V37) S/C Signal circuit from the Speed Control
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms for both measurement?
+
+                 Yes   → Go To     5
+
+                 No    → Repair the open in the (V37) S/C Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  5     Measure the resistance between ground and the (V37) S/C Signal circuit at the Speed          All
+        Control harness connector.
+        Is the resistance below 100 ohms?
+
+                 Yes   → Repair the short to ground in the (V37) S/C Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                 No    → Go To     6
+
+
+
+
+                                                      250
+

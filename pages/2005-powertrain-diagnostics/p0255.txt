@@ -1,0 +1,53 @@
+                                                                            DRIVEABILITY - NGC
+
+Symptom:
+    P1115-GENERAL TEMPERATURE SENSOR PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P1115-GENERAL TEMPERATURE SENSOR PERFORMANCE
+        When Monitored:       With the ignition on and engine running.
+        Set Condition: The PCM compares the ouputs of the ECT, IAT, and Ambient Temp
+        sensors. If one sensor does not corralate with the other two sensors the fault is set.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+TEMPERATURE SENSOR CIRCUT
+FAULTY SENSOR
+EXCESSIVE RESISTANCE IN THE SENSOR SIGNAL CIRCUIT
+EXCESSIVE RESISTANCE IN THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, read the DTCs and record the related Freeze Frame data.
+          NOTE: All ECT, Intake Air, and Ambient Air Temperature Sensor codes must
+          be diagnosed and repaired before continuing.
+          Is the Good Trip Counter displayed and equal to zero
+                  Yes   → Go To     2
+
+                  No    → Refer to the INTERMITENT CONDITION Symptom (Diagnostic
+                          Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      With the DRBIIIt in Sensors, read the ECT, Ambient/Battery Temp, and Intake Air          All
+          Temp Sensor temp values.
+          Start the engine.
+          Allow the engine to reach normal operating temperature while monitoring the three
+          Sensor temperature values.
+          Is the temperature for each of the Sensors increasing properly?
+
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    3
+
+
+
+
+                                                      247
+

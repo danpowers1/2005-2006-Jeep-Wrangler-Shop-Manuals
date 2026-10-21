@@ -1,0 +1,31 @@
+VERIFICATION TESTS
+
+Verification Tests — Continued
+
+                      POWERTRAIN VERIFICATION TEST VER - 3                                          APPLICABILITY
+1. NOTE: After completing the Powertrain Verification Test the Transmission Verifi-                      All
+cation Test must be performed.
+2. NOTE: If the PCM has been replaced and the correct VIN and mileage have not
+been programmed, a DTC will set in the ABS Module, Airbag Module and the SKIM.
+3. NOTE: If the vehicle is equipped with a Sentry Key Immobilizer System, Secret Key
+data must be updated. Refer to the Service Information for the PCM, SKIM and the
+Transponder (ignition key) for programming information.
+4. Inspect the vehicle to ensure that all components related to the repair are properly installed
+and connected.
+5. With the DRBIIIt, clear DTCs.
+6. Perform generator output test. Refer to the appropriate service information as necessary.
+7. Start the engine and set engine speed to 2000 RPM for at least thirty seconds.
+8. Cycle the ignition key off and on.
+9. With the DRBIIIt, read the DTCs.
+Are any DTCs or symptoms remaining?
+
+             Yes   → Check for any Technical Service Bulletins and/or refer to the appropriate
+                     Symptom list (Diagnostic Procedure).
+
+             No    → Repair is complete.
+
+
+
+
+                                                         448
+

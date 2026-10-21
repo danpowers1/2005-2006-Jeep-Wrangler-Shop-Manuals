@@ -1,0 +1,27 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0700-TRANSMISSION CONTROL SYSTEM (MIL REQUEST)
+
+
+
+When Monitored and Set Condition:
+
+        P0700-TRANSMISSION CONTROL SYSTEM (MIL REQUEST)
+        When Monitored:        Ignition on.
+        Set Condition:    An active DTC is stored in the TCM.
+ TEST                                         ACTION                                      APPLICABILITY
+   1      This is an informational DTC letting you know that a DTC(s) is stored in the         All
+          Transmission Control Module.
+          Erase this DTC from the PCM after all Transmission DTC(s) have been repaired.
+          Using the DRBIIIt, read the Transmission Controller DTC and refer to the
+          Transmission Category and perform the appropriate symptom.
+          PCM Diagnostic Information complete.
+                  Continue
+                             Test Complete.
+
+
+
+
+                                                    244
+

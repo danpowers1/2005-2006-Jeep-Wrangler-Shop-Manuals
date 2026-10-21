@@ -1,0 +1,58 @@
+STARTING
+
+Symptom:
+    *START AND STALL CONDITION
+
+
+
+
+                                          POSSIBLE CAUSES
+CHECKING DTCS
+CHECKING SKIM DTCS
+TP SENSOR SWEEP
+TP SENSOR VOLTAGE GREATER THAN 0.92 VOLTS WITH THROTTLE CLOSED
+ECT SENSOR OPERATION
+OTHER POSSIBLE CAUSES FOR START & STALL
+FUEL CONTAMINATION
+
+ TEST                                       ACTION                                            APPLICABILITY
+  1     Ignition on, engine not running.                                                           All
+        With the DRBIIIt, read engine DTCs.
+        Are any DTCs present?
+                Yes   → Refer to the Driveability Category and perform the appropriate
+                        symptom.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                No    → Go To     2
+
+  2     NOTE: If you are unable to communicate with the SKIM, refer to the                         All
+        Communication Category and perform the appropriate symptom.
+        With the DRBIIIt, read the SKIM codes.
+        Are there any SKIM DTCs?
+                Yes   → Refer to the Vehicle Theft category and perform the appropriate
+                        symptom.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                No    → Go To     3
+
+  3     With the DRBIIIt, read TP Sensor voltage.                                                  All
+        While monitoring the DRBIIIt, slowly open and close the Throttle.
+        Is the voltage change smooth?
+
+                Yes   → Go To     4
+                No    → Replace the Throttle Position Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  4     With the DRBIIIt, read TP Sensor voltage. Throttle must be against stop.                   All
+        Is the voltage 0.92 or less with the Throttle closed?
+
+                Yes   → Go To     5
+
+                No    → Check for a binding throttle condition. If OK, replace the Throttle
+                        Position Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                     290
+

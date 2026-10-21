@@ -1,0 +1,49 @@
+                                      CONNECTOR PINOUTS
+
+
+                            IDLE AIR CONTROL MOTOR - 2 WAY
+CAV           CIRCUIT                                  FUNCTION
+ 1    K961 20BR/VT (2.4L)        IAC SIGNAL
+ 1    K961 18BR/VT (4.0L)        IAC SIGNAL
+ 2    K61 20VT/GY (2.4L)         IAC CONTROL
+ 2    K61 18VT/GY (4.0L)         IAC CONTROL
+
+
+
+
+                     IGNITION COIL PACK (2.4L) - BLACK 3 WAY
+CAV           CIRCUIT                                  FUNCTION
+ 1    K17 18DB/TN                COIL CONTROL NO. 2
+ 2    K334 18BR                  ASD RELAY OUTPUT
+ 3    K19 18DB/DG                COIL CONTROL NO. 1
+
+                                                                  C
+                                                                  O
+                                                                  N
+                                                                  N
+                                                                  E
+                                                                  C
+                                                                  T
+                     IGNITION COIL PACK (4.0L) - BLACK 4 WAY      O
+CAV           CIRCUIT                                  FUNCTION   R
+ 1    K19 18DB/DG                COIL CONTROL NO. 1
+ 2    K334 18BR                  ASD RELAY OUTPUT                 P
+ 3    K17 18DB/TN                COIL CONTROL NO. 2               I
+ 4    K18 18DB/OR                COIL CONTROL NO. 3               N
+                                                                  O
+                                                                  U
+                                                                  T
+                                                                  S
+
+
+
+                              INPUT SPEED SENSOR - 2 WAY
+CAV           CIRCUIT                                  FUNCTION
+ 1    T52 18DG/OR                INPUT SPEED SENSOR SIGNAL
+ 2    T13 18DG/VT                SPEED SENSOR GROUND
+
+
+
+
+             469
+

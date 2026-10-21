@@ -1,0 +1,61 @@
+DRIVEABILITY - NGC
+
+P0344-CAMSHAFT POSITION SENSOR INTERMITTENT — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  7     If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace the Camshaft Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  8     Turn the ignition off.                                                                    All
+        Disconnect the C1 and C2 PCM harness connectors.
+        Ignition on, engine not running.
+        Measure the voltage on the (K44) CMP Signal circuit.
+        Wiggle the related wire harness while taking this measurement.
+        Does the voltage ever increase above 5.5 volts?
+                 Yes   → Repair the short to voltage in the (K44) CMP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    9
+
+  9     Turn the ignition off.                                                                    All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance in the (K44) CMP Signal circuit from the CMP harness
+        connector to the appropriate terminal of special tool #8815.
+        Wiggle the related wire harness while taking this measurement.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     10
+
+                 No    → Repair the excessive resistance in the (K44) CMP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  10    Measure the resistance between ground and the (K44) CMP Signal circuit in the             All
+        CMP Sensor harness connector.
+        Wiggle the related wire harness while monitoring the resistance value.
+        Does the resistance ever go below 100 ohms?
+                 Yes   → Repair the short to ground in the (K44) CMP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     11
+
+  11    Measure the resistance between the (F856) 5-volt Supply circuit and the (K44) CMP         All
+        Signal circuit in the CMP harness connector.
+        Wiggle the related wire harness while taking this measurement.
+        Does the resistance ever go below 5.0 ohms?
+
+                 Yes   → Repair the short between the (F856) 5-volt Supply circuit and the
+                         (K44) CMP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     12
+
+
+
+
+                                                      138
+

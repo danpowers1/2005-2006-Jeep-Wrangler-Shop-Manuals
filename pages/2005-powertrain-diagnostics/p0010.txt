@@ -1,0 +1,66 @@
+GENERAL INFORMATION
+3.0     SYSTEM DESCRIPTION AND                                 It is possible that a trouble code for a monitored
+                                                            circuit may not be entered into the PCM/ECM
+        FUNCTIONAL OPERATION
+                                                            memory even though a malfunction has occurred.
+                                                            This may happen because one of the trouble code
+3.1     GENERAL DESCRIPTION                                 criteria (arming conditions) has not been met.
+                                                               The PCM compares input signal voltage from
+                                                            each input component to specifications (the estab-
+POWERTRAIN                                                  lished high and low limits of the range) that are
+  The on-board OBDII diagnostics incorporated               preprogrammed for that component. If the input
+with the PCM are intended to assist the field               voltage is not within specifications, and other trou-
+technician in repairing vehicle problems by the             ble code criteria (arming conditions) are met, a
+quickest means.                                             trouble code will store in the PCM memory.
+                                                               The On Board Diagnostics have evolved to the
+TRANSMISSION                                                second Generation of Diagnostics referred to as
+   The 42RLE electronic Transmission is a conven-           OBDII. These OBDII Diagnostics control the func-
+tional Transmission in that it uses hydraulically           tions necessary to meet the requirements of Cali-
+applied clutches to shift a planetary gear train.           fornia OBDII and Federal OBD regulations. These
+However, the electronic control system replaces             requirements specify the inclusion of a Malfunction
+many of the mechanical and hydraulic components             Indicator Light (MIL) located on the instrument
+used in conventional transmission valve bodies.             panel for all 1994 and subsequent model-year pas-
+                                                            senger cars, light duty trucks, and medium-duty
+3.2     FUNCTION OPERATION                                  vehicles. The purpose of the MIL is to inform the
+                                                            vehicle operator in the event of the malfunction of
+                                                            any emission system or component failures that can
+3.2.1    FUEL CONTROL (GAS)                                 affect emissions and which provide input to, or
+                                                            receive output from, the PCM.
+   The PCM controls the air/fuel ratio of the engine
+by varying fuel injector-on time. Mass air flow is          MIL Lamp Strategy
+calculated using the speed density method using                I/M Readiness OK to test = Key On Engine OFF
+engine speed and manifold absolute pressure (IAT            - MIL Lamp will remain on until the vehicle is
+is a modifier in Speed Density).                            started or Ignition is turned off.
+   Different fuel calculation strategies are used de-          I/M not ready for testing = Key On Engine OFF
+pending on the operational state of the engine.             - MIL Lamp on solid for (15) seconds then MIL
+During crank mode, a prime shot fuel pulse is               Lamp will flash on/off for (5) seconds then it will
+delivered followed by fuel pulses determined by a           remain on until the vehicle is started or the Ignition
+crank time strategy. Cold engine operation is deter-        is turned off.
+mined via an open loop strategy until the O2
+sensors have reached operating temperature. At
+this point, the strategy enters a closed loop mode
+where fuel requirements are based upon the state of
+the O2 sensors, engine speed, MAP, throttle posi-
+tion, air temperature, battery voltage, and coolant
+temperature.
+
+3.2.2    ON-BOARD DIAGNOSTICS
+   The PCM has been programmed to monitor any
+circuit or system that has an effect on vehicle
+emissions, or is used by the PCM to determine the
+proper functionality of these systems. This monitor-
+ing is called 9on-board diagnosis.’’
+   Certain criteria or, 9arming conditions’’, must be
+met before a trouble code will be entered into the
+PCM memory. The criteria range from engine rpm,
+engine temperature, and/or input voltage to the
+                                                             The following table summarizes the various
+PCM. If a problem is detected with a monitored
+                                                            OBDII monitors operation.
+circuit, and all of the criteria or arming conditions
+are met, a trouble code will be stored in the PCM.
+
+
+
+                                                        2
+

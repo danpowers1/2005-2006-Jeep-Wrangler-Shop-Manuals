@@ -1,0 +1,49 @@
+                                                       VEHICLE THEFT/SECURITY
+
+Symptom List:
+    ANTENNA FAILURE
+    COP FAILURE
+    EEPROM FAILURE
+    INTERNAL FAULT
+    RAM FAILURE
+    SERIAL LINK INTERNAL FAULT
+    STACK OVERFLOW FAILURE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be ANTENNA FAILURE.
+
+
+When Monitored and Set Condition:
+
+     ANTENNA FAILURE
+     When Monitored:     Every 250 milliseconds with the ignition on.
+     Set Condition: The SKIM’s microcontroller determines that an antenna circuit fault has
+     occurred for 2.0 consecutive seconds.
+
+     COP FAILURE
+     When Monitored:     With the ignition on.
+     Set Condition:   The COP timer is not reset by the micro controller every 65.5 milliseconds.
+
+     EEPROM FAILURE
+     When Monitored:     With the ignition on.
+     Set Condition: When the value written to EEPROM memory does not equal the value
+     read back after the write operation.
+
+     INTERNAL FAULT
+     When Monitored:     With the ignition on.
+     Set Condition:   The SKIM has detected a fault during an internal self test.
+
+     RAM FAILURE
+     When Monitored:     With the ignition on.
+     Set Condition:   The RAM fails a test that checks the RAM’s ability to retain memory.
+
+     SERIAL LINK INTERNAL FAULT
+     When Monitored:     With the ignition on.
+     Set Condition:   The SKIM fails an internal J1850 communication self test.
+
+     STACK OVERFLOW FAILURE
+     When Monitored:     With the ignition on.
+     Set Condition:   The micro controller has exceeded its stack space limit.
+                                             437
+

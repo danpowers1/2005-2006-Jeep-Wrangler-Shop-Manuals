@@ -1,0 +1,49 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0440-GENERAL EVAP SYSTEM FAILURE
+
+
+
+When Monitored and Set Condition:
+
+        P0440-GENERAL EVAP SYSTEM FAILURE
+        When Monitored: Engine Running. Fuel Level greater than 12%. Ambient Temperature
+        between 4°C and 32°C (39°F and 89°F)
+        Set Condition: The PCM does not see the NVLD switch close during the medium/large
+        leak test. The PCM then will increase the vacuum supply to the EVAP system by
+        increasing flow through the EVAP Purge valve. If the switch does not close with an
+        increase in vacuum an error is detected. Two Trip Fault.
+
+
+
+                                       POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VISUAL AND PHYSICAL INSPECTION
+EVAP PURGE SOLENOID VACUUM SUPPLY INSPECTION
+EVAP PURGE SOLENOID
+NVLD SWITCH OPERATION
+(Z913) GROUND CIRCUIT OPEN
+NVLD ASSEMBLY
+(K107) NVLD SWITCH SIGNAL CIRCUIT OPEN
+EVAPORATIVE EMISSION LEAK DETECTION
+PCM
+
+ TEST                                    ACTION                                      APPLICABILITY
+   1     Check for any related TSBs before continuing.                                    All
+         NOTE: If any of the following DTCs are set (P0443, P0452, P0453, P0498 or
+         P0499) diagnose them first before continuing with P0440.
+         Ignition on, engine not running.
+         With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+         Is the Good Trip Counter displayed and equal to zero?
+                 Yes   → Go To   2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+
+
+
+                                                142
+

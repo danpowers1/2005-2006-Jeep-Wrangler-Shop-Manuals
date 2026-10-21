@@ -1,0 +1,60 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0513-INVALID SKIM KEY
+
+
+
+When Monitored and Set Condition:
+
+        P0513-INVALID SKIM KEY
+        When Monitored:       Ignition on.
+        Set Condition:     The PCM detects an invalid SKIM key.
+
+
+
+                                            POSSIBLE CAUSES
+INCORRECT VIN IN PCM
+NO COMMUNICATION WITH SKIM
+NO VIN PROGRAMMED IN THE PCM
+SKIM TROUBLE CODES SET
+IGNITION KEY
+PCM
+
+ TEST                                         ACTION                              APPLICABILITY
+   1      Ignition on, engine not running.                                             All
+          With the DRBIIIt, read the PCM DTCs.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To     2
+
+                  No    → Go To     7
+
+   2      With the DRBIIIt, attempt to communicate with the SKIM.                      All
+          Can the DRBIIIt communicate with the SKIM?
+                  Yes   → Go To     3
+
+                  No    → Refer to symptom BUS +/- SIGNAL OPEN FROM SKIM in the
+                          COMMUNICATION category.
+                          Perform SKIS VERIFICATION.
+
+   3      With the DRBIIIt, check for SKIM DTCs.                                       All
+          Are any DTCs present in the SKIM?
+
+                  Yes   → Refer to BODY information for the related symptom(s).
+                          Perform SKIS VERIFICATION.
+
+                  No    → Go To     4
+
+   4      With the DRBIIIt, display the VIN that is programmed in the PCM.             All
+          Has a VIN been programmed into the PCM?
+
+                  Yes   → Go To     5
+
+                  No    → Program the correct VIN into the PCM and retest.
+                          Perform SKIS VERIFICATION.
+
+
+
+
+                                                      192
+

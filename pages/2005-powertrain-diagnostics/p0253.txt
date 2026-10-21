@@ -1,0 +1,56 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0850-PARK/NEUTRAL SWITCH PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0850-PARK/NEUTRAL SWITCH PERFORMANCE
+        When Monitored: Continuously with the transmission in Park, Neutral, or Drive and
+        NOT in Limp-in mode.
+        Set Condition: This code will set if the PCM detects an incorrect Park/Neutral switch
+        state for a given mode of vehicle operation.
+
+
+
+                                           POSSIBLE CAUSES
+DRB DISPLAYS P/N & D/R NOT IN CORRECT POSITION
+TRS T41 SENSE (P/N SENSE) CIRCUIT OPEN
+TRS T41 SENSE (P/N SENSE) CIRCUIT SHORTED TO GROUND
+TRANSMISSION RANGE SENSOR
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      Ignition on, engine not running.                                                        All
+          With the DRBIIIt, read the Park/Neutral Position Switch input state.
+          While moving the gear selector through all gear positions (Park to 1 and back to
+          Park), monitor the DRB display.
+          Did the DRB display show P/N and D/R in the correct gear positions?
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                  No    → Go To    2
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the C4 PCM harness connector.
+          Disconnect the Transmission Range Sensor harness connector.
+          CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+          THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+          NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+          MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+          Measure the resistance of the TRS T41 Sense (P/N Sense) circuit from the TRS
+          harness connector to the appropriate terminal of special tool #8815 installed.
+          Is the resistance below 5.0 ohms?
+
+                  Yes   → Go To    3
+
+                  No    → Repair the open in the TRS T41 Sense (P/N Sense) circuit.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+
+                                                     245
+

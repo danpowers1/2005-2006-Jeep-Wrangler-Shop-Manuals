@@ -1,0 +1,34 @@
+                                                                       DRIVEABILITY - NGC
+
+P1696-PCM FAILURE EEPROM WRITE DENIED — Continued
+
+ TEST                                     ACTION                                        APPLICABILITY
+  3     With the DRBIIIt, perform the SRI Memory Test a third time.                          All
+        NOTE: Retest the SRI Memory two more times.
+        Does the DRBIIIt display Write Refused again?
+
+                Yes   → Replace and program the Powertrain Control Module per Service
+                        Information.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                No    → Test Complete.
+
+  4     With the DRBIIIt, perform the SRI Memory Test.                                       All
+        Does the DRBIIIt display SRI Mileage Invalid?
+
+                Yes   → Update the mileage and retest the SRI Memory.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                No    → Go To    5
+
+  5     Compare the SRI Mileage stored with the Instrument Panel Odometer.                   All
+        Is the mileage within the specified range displayed on the DRBIIIt?
+
+                Yes   → Test Complete.
+                No    → Update the mileage and retest the SRI Memory.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                  255
+

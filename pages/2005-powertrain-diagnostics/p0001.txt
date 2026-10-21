@@ -1,0 +1,58 @@
+                                        TABLE OF CONTENTS
+1.0   INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+      1.1     SYSTEM COVERAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+      1.2     SIX-STEP TROUBLE SHOOTING PROCEDURE . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+2.0   IDENTIFICATION OF SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+3.0   SYSTEM DESCRIPTION AND FUNCTIONAL OPERATION . . . . . . . . . . . . . . . . . . . . . .2
+
+      3.1     GENERAL DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+      3.2     FUNCTION OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+               3.2.1   FUEL CONTROL (GAS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+               3.2.2   ON-BOARD DIAGNOSTICS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+               3.2.3   TRANSMISSION CONTROL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+               3.2.3.1 TRANSMISSION OPERATION AND SHIFT SCHEDULING AT
+                       VARIOUS OIL TEMPERATURES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+               3.2.4   O2 SENSOR (NGC) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               3.2.5   OTHER CONTROLS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               3.2.6   NON-MONITORED CIRCUITS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+      3.3     DIAGNOSTIC TROUBLE CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+               3.3.1   HARD CODE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+               3.3.2   ONE TRIP FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+               3.3.3   INTERMITTENT CODE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+               3.3.4   STARTS SINCE SET COUNTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+               3.3.5   TROUBLE CODE ERASURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+               3.3.6   QUICK LEARN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+               3.3.7   EATX DTC EVENT DATA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+               3.3.8   CLUTCH VOLUMES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+               3.3.9   NO START INFORMATION (POWERTRAIN) . . . . . . . . . . . . . . . . . . . .13
+      3.4     USING THE DRBIIIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+      3.5     DRBIIIT ERROR MESSAGES AND BLANK SCREEN . . . . . . . . . . . . . . . . . . . . .13
+               3.5.1   DRBIIIT DOES NOT POWER UP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+               3.5.2   DISPLAY IS NOT VISIBLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+               3.5.3   SOME DISPLAY ITEMS READ 9___9. . . . . . . . . . . . . . . . . . . . . . . . . . .14
+      3.6      TRANSMISSION SIMULATOR (MILLER TOOL # 8333) AND ELECTRONIC
+               TRANSMISSION ADAPTER KIT (MILLER TOOL #8333-1A) . . . . . . . . . . . . . . 14
+
+4.0   DISCLAIMERS, SAFETY, WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+
+      4.1     DISCLAIMERS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+      4.2     SAFETY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+               4.2.1  TECHNICIAN SAFETY INFORMATION . . . . . . . . . . . . . . . . . . . . . . . . .15
+               4.2.2  VEHICLE PREPARATION FOR TESTING. . . . . . . . . . . . . . . . . . . . . . .15
+               4.2.3  SEVICING SUB-ASSEMBLIES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+               4.2.4  DRBIIIT SAFETY INFORMATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+      4.3     WARNINGS AND CAUTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+               4.3.1  ROAD TEST WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+               4.3.2  VEHICLE DAMAGE WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+               4.3.3  ROAD TESTING A COMPLAINT VEHCILE (TRANSMISSION) . . . . . .16
+               4.3.4  ELECTRONIC PINION FACTOR WARNINGS (IF APPLICABLE) . . . .17
+               4.3.5  SERVICE BULLETINS AND RECALLS . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+5.0   REQUIRED TOOLS AND EQUIPMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+
+                                                                 i
+

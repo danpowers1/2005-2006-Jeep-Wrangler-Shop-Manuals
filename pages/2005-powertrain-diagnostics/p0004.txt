@@ -1,0 +1,57 @@
+                    TABLE OF CONTENTS - Continued
+P0522-OIL PRESSURE VOLTAGE LOW. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .198
+P0532-A/C PRESSURE SENSOR LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .200
+P0533-A/C PRESSURE SENSOR HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .202
+P0551-POWER STEERING SWITCH PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . .204
+P0562-BATTERY VOLTAGE LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .206
+P0563-BATTERY VOLTAGE HIGH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .209
+P0572-BRAKE SWITCH NO.1 CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .211
+P0573-BRAKE SWITCH NO.1 CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .213
+P0580-SPEED CONTROL SWITCH NO.1 LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .215
+P0581-SPEED CONTROL SWITCH NO.1 HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .217
+P0582-SPEED CONTROL VACUUM SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . .220
+P0586-SPEED CONTROL VENT SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . .223
+P0594-SPEED CONTROL SERVO POWER CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . .226
+P0600-SERIAL COMMUNICATION LINK. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .229
+P0601-INTERNAL MEMORY CHECKSUM INVALID. . . . . . . . . . . . . . . . . . . . . . . . . . .229
+P0622-GENERATOR FIELD CONTROL CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . .230
+P0627-FUEL PUMP RELAY CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .232
+P0630-VIN NOT PROGRAMMED IN PCM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .234
+P0632-ODOMETER NOT PROGRAMMED IN PCM . . . . . . . . . . . . . . . . . . . . . . . . . . .235
+P0633-SKIM KEY NOT PROGRAMMED IN PCM. . . . . . . . . . . . . . . . . . . . . . . . . . . . .236
+P0645-A/C CLUTCH RELAY CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .237
+P0685-ASD RELAY CONTROL CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .239
+P0688-ASD RELAY SENSE CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .241
+P0700-TRANSMISSION CONTROL SYSTEM (MIL REQUEST) . . . . . . . . . . . . . . . . .244
+P0850-PARK/NEUTRAL SWITCH PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . .245
+P1115-GENERAL TEMPERATURE SENSOR PERFORMANCE . . . . . . . . . . . . . . . . .247
+P1593-SPEED CONTROL SWITCH NO.1 STUCK . . . . . . . . . . . . . . . . . . . . . . . . . . . .249
+P1603-PCM INTERNAL DUAL-PORT RAM COMMUNICATION . . . . . . . . . . . . . . . . .252
+P1604-PCM INTERNAL DUAL-PORT RAM READ/WRITE INTEGRITY FAILURE . . .252
+P1607-PCM INTERNAL SHUTDOWN TIMER RATIONALITY . . . . . . . . . . . . . . . . . . .252
+P1696-PCM FAILURE EEPROM WRITE DENIED . . . . . . . . . . . . . . . . . . . . . . . . . . . .254
+P1697-PCM FAILURE SRI MILES NOT STORED . . . . . . . . . . . . . . . . . . . . . . . . . . . .254
+P2096-DOWN STREAM FUEL TRIM LEAN BANK 1 . . . . . . . . . . . . . . . . . . . . . . . . . .256
+P2097-DOWN STREAM FUEL TRIM RICH BANK 1 . . . . . . . . . . . . . . . . . . . . . . . . . .256
+P2098-DOWN STREAM FUEL TRIM LEAN BANK 2 . . . . . . . . . . . . . . . . . . . . . . . . . .256
+P2099-DOWN STREAM FUEL TRIM RICH BANK 2 . . . . . . . . . . . . . . . . . . . . . . . . . .256
+P2302-IGNITION COIL NO.1 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .259
+P2305-IGNITION COIL NO.2 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .259
+P2308-IGNITION COIL NO.3 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .259
+P2503-CHARGING SYSTEM OUTPUT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .262
+U0101-NO BUS MESSAGE FROM TRANS CONTROL MODULE . . . . . . . . . . . . . . .265
+U0155-NO CLUSTER BUS MESSAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .267
+U0168-NO SKIM BUS MESSAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .268
+*CHECKING A/C SYSTEM OPERATION WITH NO DTCS . . . . . . . . . . . . . . . . . . . . .270
+*CHECKING PCM POWERS AND GROUNDS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .274
+
+STARTING
+*CHECKING FUEL DELIVERY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .275
+*CHECKING HARD START (FUEL DELIVERY SYSTEM) . . . . . . . . . . . . . . . . . . . . . .278
+*ENGINE CRANKS DOES NOT START . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .280
+
+                                                          iv
+

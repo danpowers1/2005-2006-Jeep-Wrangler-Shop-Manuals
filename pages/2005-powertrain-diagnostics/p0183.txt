@@ -1,0 +1,51 @@
+                                                                         DRIVEABILITY - NGC
+
+Symptom:
+    P0481-COOLING FAN NO.2 CONTROL CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0481-COOLING FAN NO.2 CONTROL CIRCUIT
+        When Monitored:      With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: An open or shorted circuit is detected in the high speed radiator fan relay
+        control circuit. One Trip Fault.
+
+
+
+                                          POSSIBLE CAUSES
+HIGH SPEED RADIATOR FAN RELAY OPERATION
+HIGH SPEED RADIATOR FAN RELAY
+(F20) FUSED IGNITION SWITCH OUTPUT CIRCUIT
+(A16) FUSED B+ CIRCUIT
+(N112) HIGH SPEED RAD FAN RELAY CONTROL CIRCUIT OPEN
+(N112) HIGH SPEED RAD FAN RELAY CONTROL CIRCUIT SHORT TO GROUND
+PCM
+
+ TEST                                       ACTION                                        APPLICABILITY
+   1      Ignition on, engine not running.                                                     All
+          With the DRBIIIt, actuate the High Speed Radiator Fan Relay.
+          Is the High Speed Radiator Fan Relay operating?
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    2
+
+   2      Turn the ignition off.                                                               All
+          Remove the High Speed Radiator Fan Relay from the PDC.
+          Measure the resistance of the High Speed Radiator Fan Relay between the (F20)
+          Fused Ignition Switch Output terminal and the (N112) High Speed Rad Fan Relay
+          Control terminal.
+          Is the resistance between 60 to 85 ohms?
+
+                  Yes   → Go To    3
+
+                  No    → Replace the High Speed Radiator Fan Relay.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    175
+

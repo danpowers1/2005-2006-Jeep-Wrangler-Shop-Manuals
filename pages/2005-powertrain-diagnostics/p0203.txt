@@ -1,0 +1,31 @@
+                                                                         DRIVEABILITY - NGC
+
+P0516-BATTERY TEMPERATURE SENSOR LOW — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  4     Measure the resistance between the (K25) Batt Temp Signal circuit and the (K900)        All
+        Sensor ground circuit at the Battery Temp Sensor harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the short between the (K900) Sensor ground and the (K25)
+                        Batt Temp Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                No    → Go To    5
+
+  5     NOTE: Before continuing, check the PCM harness connector terminals for                  All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+
+                                                   195
+

@@ -1,0 +1,17 @@
+                                                                   TRANSMISSION - 42RLE
+
+P0944-LOSS OF PRIME — Continued
+
+ TEST                                        ACTION                                        APPLICABILITY
+  7     If there are no possible causes remaining, view repair.                                 All
+
+                 Repair
+                          Replace the Transmission Oil Pump per the Service Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                      397
+

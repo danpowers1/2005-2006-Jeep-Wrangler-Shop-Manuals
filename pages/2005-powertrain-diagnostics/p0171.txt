@@ -1,0 +1,33 @@
+                                                                            DRIVEABILITY - NGC
+
+P0457-LOOSE FUEL FILL CAP — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  2     Perform a visual and physical inspection of the Fuel Fill Cap and the fill tube.            All
+        Check for the follow conditions:
+        - Improper installation of Fuel Fill Cap
+        - Loose or missing Fuel Filler Cap
+        - Holes or cracks
+        - Damaged Locking tabs on Cap and/or fill tube
+        - Damaged seal points on Cap and/or fill tube
+        - Fuel Fill Cap gasket seal
+        Were any of the above conditions found?
+
+                 Yes   → Repair or replace the fuel fill cap as needed. Ensure proper fuel
+                         fill cap installation. Once the repair is complete continue to step
+                         3.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+                 No    → Go To     3
+
+  3     With the DRBIIIt, perform the NVLD Service Test.                                            All
+        Did the NVLD Service Test pass?
+                 Yes   → Test Complete.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To     4
+
+
+
+
+                                                      163
+

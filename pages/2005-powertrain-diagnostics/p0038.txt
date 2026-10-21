@@ -1,0 +1,51 @@
+COMMUNICATION
+
+*NO RESPONSE FROM TRANSMISSION CONTROL MODULE - NGC —
+Continued
+ TEST                                      ACTION                                           APPLICABILITY
+   5    Note: Ensure there is PCI Bus communication with other modules on the                    All
+        vehicle before proceeding. If not, refer to the symptom list from the menu
+        and repair as necessary.
+        Disconnect the PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Use Scope input cable CH7058, Cable to Probe adapter CH7062, and the red and
+        black test probes.
+        Connect the scope input cable to the channel one connector on the DRB. Attach the
+        red and black leads and the cable to probe adapter to the scope input cable.
+        With the DRBIIIt select Pep Module Tools.
+        Select lab scope.
+        Select Live Data.
+        Select 12 volt square wave.
+        Press F2 for Scope.
+        Press F2 and use the down arrow to set voltage range to 20 volts. Press F2 again
+        when complete.
+        Connect the Black lead to the chassis ground. Connect the Red lead to the PCI Bus
+        circuit in the appropriate terminal of special tool #8815.
+        Turn the ignition on.
+        Observe the voltage display on the DRB Lab Scope.
+        Does the voltage pulse from 0 to approximately 7.5 volts?
+                Yes   → Go To     6
+
+                No    → Repair the PCI Bus circuit for an open.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+   6    Using the schematics as a guide, inspect the wiring and connectors. Repair as            All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module in accor-
+                         dance with the service information. WITH THE DRBIIIt PER-
+                         FORM QUICK LEARN AND REPROGRAM PINION FACTOR.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+
+                                                    30
+

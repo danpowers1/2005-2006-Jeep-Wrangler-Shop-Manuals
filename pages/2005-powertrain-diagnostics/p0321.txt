@@ -1,0 +1,63 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0711-TRANSMISSION TEMPERATURE SENSOR PERFORMANCE —
+Continued
+ TEST                                        ACTION                                          APPLICABILITY
+   2    With the DRBIIIt, check Transmission DTC’s.                                               All
+        Are there any other Transmission Temperature Sensor related DTCs present?
+                 Yes   → Refer to the Transmission category and perform the appropriate
+                         symptom.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    3
+
+   3    With the DRBIIIt, Check the STARTS SINCE SET counter for P0711.                           All
+        NOTE: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET counter 2 or less?
+
+                 Yes   → Go To     4
+
+                 No    → Go To    7
+
+   4    Turn the ignition off to the lock position.                                               All
+        Remove the Starter Relay.
+        NOTE: Failure to remove Starter Relay can cause a Transmission - No
+        Response condition.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        With the Transmission Simulator, turn the Input/Output switch to OFF.
+        With the DRBIIIt, monitor the TRANS TEMP VOLTS while turning the Thermistor
+        Voltage switch to all three positions on the Transmission Simulator.
+        Compare the DRBIIIt readings with the numbers listed on the Transmission
+        Simulator.
+        Do the readings on the Transmission Simulator match the DRBIIIt readings ± 0.2
+        volts?
+
+                 Yes   → Go To     5
+                 No    → Go To    6
+
+   5    If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace Transmission Solenoid/TRS Assembly per the Service
+                          Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+   6    Using the schematics as a guide, inspect the wiring and connectors. Repair as             All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                      313
+

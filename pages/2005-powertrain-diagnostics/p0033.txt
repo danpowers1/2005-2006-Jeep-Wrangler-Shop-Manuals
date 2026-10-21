@@ -1,0 +1,58 @@
+                                                                               COMMUNICATION
+
+*NO RESPONSE FROM PCM (PCM SCI ONLY) - NGC — Continued
+
+ TEST                                        ACTION                                         APPLICABILITY
+  7     Turn the ignition off.                                                                   All
+        Disconnect the PCM harness connectors.
+        Disconnect the DRB from the DLC.
+        Measure the resistance between ground and the SCI Receive circuit at the DLC (cav
+        12).
+        Is the resistance below 5.0 ohms?
+                 Yes   → Repair the SCI Receive circuit for a short to ground.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                 No    → Go To    8
+
+  8     Turn the ignition off.                                                                   All
+        Disconnect the PCM harness connectors.
+        Disconnect the DRB from the DLC.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the SCI Receive circuit from the DLC (cav 12) to the
+        appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     9
+                 No    → Repair the SCI Receive circuit for an open.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  9     Turn the ignition off.                                                                   All
+        Disconnect the PCM harness connectors.
+        Disconnect the DRB from the DLC.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the SCI Transmit circuit from the DLC (cav 7) to the
+        appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To     10
+
+                 No    → Repair the SCI Transmit circuit for an open.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  10    If there are no possible causes remaining, view repair.                                  All
+
+                 Repair
+                          Replace and program the Powertrain Control Module in accor-
+                          dance with the Service Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                      25
+

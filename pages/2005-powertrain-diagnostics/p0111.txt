@@ -1,0 +1,52 @@
+                                                                            DRIVEABILITY - NGC
+
+P0171-FUEL SYSTEM 1/1 LEAN — Continued
+
+ TEST                                         ACTION                                           APPLICABILITY
+  4     Turn the ignition off.                                                                      All
+        NOTE: Wait a minimum of 10 minutes to allow the O2 Sensor to cool down
+        before continuing the test. Allow the O2 Sensor voltage to stabilize at 5.0
+        volts.
+        NOTE: Perform the following test on all O2 Sensors.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the O2 Heater Test.
+        With the DRBIIIt, monitor O2 Sensor voltage for at least 2 minutes.
+        Does the voltage stay above 4.5 volts?
+
+                 Yes   → Replace the O2 Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     5
+
+  5     With the DRBIIIt, read TP Sensor voltage.                                                   All
+        NOTE: The throttle must be against the stop.
+        Is the voltage 0.92 or less with the Throttle closed?
+                 Yes   → Go To     6
+
+                 No    → Check for a binding throttle condition. If OK, replace the Throttle
+                         Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     With the DRBIIIt, read the TP Sensor voltage.                                               All
+        While monitoring the DRBIIIt, slowly open and close the throttle.
+        Does the voltage increase and decrease smoothly?
+                 Yes   → Go To     7
+                 No    → Replace the Throttle Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  7     Turn the ignition off.                                                                      All
+        Connect a Vacuum Gauge to a Manifold Vacuum source.
+        Start the engine.
+        Allow the engine to idle.
+        NOTE: If engine will not idle, maintain a constant RPM above idle.
+        With the DRBIIIt in Sensors, read the MAP Sensor vacuum value.
+        Is the DRBIIIt reading within 19 of the Vacuum Gauge reading?
+                 Yes   → Go To     8
+                 No    → Replace the MAP Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       103
+

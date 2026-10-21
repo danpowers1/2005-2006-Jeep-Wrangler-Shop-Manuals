@@ -1,0 +1,66 @@
+                                                                            DRIVEABILITY - NGC
+
+P0300-MULTIPLE CYLINDER MISFIRE — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  7     NOTE: Before continuing visually and physically inspect the fuel delivery                   All
+        system for external leaks or damage. Repair /replace as necessary.
+        Turn the ignition off.
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Install special tool #6539 (5/169) or #6631 (3/89) fuel line adapter.
+        Install the fuel pressure gauge.
+        Start the engine and allow the fuel system to reach maximum pressure.
+        Turn the ignition off.
+        NOTE: Fuel specification is 407 KPa +/- 34 KPa (59 psi +/- 5 psi).
+        Using special tool #C4390, Hose Clamp Pliers, pinch the rubber fuel line between the
+        fuel pressure gauge and the engine.
+        Monitor the fuel pressure gauge for a minimum of 5 minutes.
+        NOTE: The pressure should not fall below 241 KPa (35 psi)
+        Does the Upstream gauge fall below the above specification?
+
+                 Yes   → Replace the leaking Fuel Injector(s).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    8
+
+  8     Warning: The fuel system is under a constant pressure (even with the engine                 All
+        off). Before testing or servicing any fuel system hose, fitting or line, the fuel
+        system pressure must be released.
+        CAUTION: After each Fuel Injector actuation, start the engine to clean the
+        cylinder of fuel. Failure to do so could cause engine damage.
+        Remove special tool #C4390.
+        Start the engine and allow the fuel pressure to reach maximum pressure.
+        Ignition on, engine not running.
+        Using the DRBIIIt, actuate the Fuel Injector for the cylinder that indicated the
+        misfire.
+        Monitor the fuel pressure gauge.
+        Does the fuel pressure gauge indicate a drop in fuel pressure?
+
+                 Yes   → Go To    9
+                 No    → Go To    10
+        NOTE: Turn the ignition off, remove the Fuel Pressure gauge, and connect
+        the fuel lines before continuing.
+
+  9     Check for any of the following conditions/mechanical problems.                              All
+        ENGINE VACUUM - must be at least 13 inches in neutral
+        ENGINE VALVE TIMING - must be within specifications
+        ENGINE COMPRESSION - must be within specifications
+        ENGINE EXHAUST SYSTEM - must be free of any restrictions or leaks.
+        ENGINE PCV SYSTEM - must flow freely
+        TORQUE CONVERTER STALL SPEED - must be within specifications
+        POWER BRAKE BOOSTER - no internal vacuum leaks
+        FUEL - must be free of contamination
+        CAM LOBES - must not be worn excessively
+        CYLINDER LEAKAGE TEST - must be within specifications
+        VALVE SPRINGS - cannot be weak or broken
+        Are there any engine mechanical problems?
+
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    16
+
+
+                                                      119
+

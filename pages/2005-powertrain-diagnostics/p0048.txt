@@ -1,0 +1,66 @@
+DRIVEABILITY - NGC
+
+P0031-O2 SENSOR 1/1 HEATER CIRCUIT LOW — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  1     Turn the ignition off.                                                                        All
+        NOTE: Wait a minimum of 8 minutes to allow the O2 Sensor to cool down
+        before continuing the test. Allow the O2 Sensor voltage to stabilize at 5.0
+        volts.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the O2 Heater Test.
+        With the DRBIIIt, monitor O2 Sensor voltage for at least 2 minutes.
+        Does the O2 Sensor voltage stay above 4.5 volts?
+
+                 Yes   → Go To     2
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Turn the ignition off.                                                                        All
+        NOTE: Allow the O2 Sensor to cool to room temperature.
+        Disconnect the O2 Sensor harness connector.
+        Measure the resistance across the O2 Sensor Heater element component side.
+        Is the resistance between 2.0 and 30 ohms?
+
+                 Yes   → Go To     3
+                 No    → Replace the O2 Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  3     Ignition on, engine not running.                                                              All
+        With the DRBIIIt, actuate the O2 Heater Test with the O2 Sensor harness connector
+        still disconnected.
+        Using a 12-volt test light connected to ground, probe the O2 Heater Control circuit at
+        the O2 Sensor harness connector.
+        Does the test light illuminate brightly and flash on and off?
+                 Yes   → Replace the O2 Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     4
+
+  4     Turn the ignition off.                                                                        All
+        Disconnect the PCM harness connectors.
+        Measure the resistance between ground and the O2 Heater Control circuit at the O2
+        Sensor harness connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Repair the short to ground in the O2 Sensor Heater Control
+                         circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     5
+
+  5     NOTE: Before continuing, check the PCM harness connector terminals for                        All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                           Replace and program the Powertrain Control Module per Service
+                           Information.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       40
+

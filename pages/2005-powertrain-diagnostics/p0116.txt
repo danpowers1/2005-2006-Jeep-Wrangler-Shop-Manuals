@@ -1,0 +1,64 @@
+DRIVEABILITY - NGC
+
+P0172-FUEL SYSTEM 1/1 RICH — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  1     NOTE: Check for contaminants that may have damaged the O2 Sensor:                       All
+        contaminated fuel, unapproved silicone, oil and coolant.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+                Yes   → Go To    2
+
+                No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                        tic Procedure).
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     WARNING: The fuel system is under a constant pressure (even with the                    All
+        engine off). Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Install a fuel pressure gauge to the fuel rail.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 407 KPa +/- 34 KPa (59 psi +/- 5 psi).
+        Turn the ignition off.
+        Choose a conclusion that best matches your fuel pressure reading.
+                Within Specification
+                        Go To 3
+                Above Specification
+                        Replace the fuel filter/pressure regulator.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+        CAUTION: Stop All Actuations.
+
+  3     Start the engine.                                                                       All
+        Allow the engine to reach normal operating temperature.
+        NOTE: If one of the O2 Sensors Signal or Return circuit is shorted to ground
+        or voltage, all the other O2 Sensor voltage readings will be affected. It is
+        important to diagnose the O2 Sensor that set the DTC.
+        NOTE: After the repairs have been made, verify proper O2 Sensor operation.
+        If all the O2 Sensor voltage readings have not returned to normal, follow the
+        diagnostic procedure for the remaining O2 Sensors.
+        With the DRBIIIt, monitor all of the O2 Sensor voltage readings.
+        Is the voltage switching between 2.5 and 3.4 volts?
+                Yes   → Go To    4
+                No    → Go To    11
+
+  4     Turn the ignition off.                                                                  All
+        NOTE: Wait a minimum of 10 minutes to allow the O2 Sensor to cool down
+        before continuing the test. Allow the O2 Sensor voltage to stabilize at 5.0
+        volts.
+        Ignition on, engine not running.
+        With the DRBIIIt, perform the O2 Heater Test for each of the O2 Sensors.
+        With the DRBIIIt, monitor all O2 Sensor voltage readings for at least 2 minutes.
+        Does the voltage stay above 4.5 volts?
+                Yes   → Replace the O2 Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    5
+
+
+
+
+                                                   108
+

@@ -1,0 +1,52 @@
+                                   CONNECTOR PINOUTS
+           POWERTRAIN CONTROL MODULE C2 - BLACK/ORANGE 38 WAY
+CAV           CIRCUIT                                  FUNCTION
+ 1                  -                                     -
+ 2                  -                                     -
+ 3                  -                                     -
+ 4    K58 18BR/VT (4.0L)      INJECTOR CONTROL NO. 6
+ 5    K38 18BR/OR (4.0L)      INJECTOR CONTROL NO. 5
+ 6                  -                                     -
+ 7    K18 18DB/OR (4.0L)      COIL CONTROL NO. 3
+ 8                  -                                     -
+ 9    K17 18DB/TN             COIL CONTROL NO. 2
+10    K19 18DB/DG             COIL CONTROL NO. 1
+11    K14 18BR/TN             INJECTOR CONTROL NO. 4
+12    K13 18BR/LB             INJECTOR CONTROL NO. 3
+13    K12 18BR/DB             INJECTOR CONTROL NO. 2
+14    K11 18BR/YL             INJECTOR CONTROL NO. 1
+15                  -                                     -
+16                  -                                     -
+17    K199 18BR/VT            O2 2/1 HEATER CONTROL
+18    K99 18BR/LG             O2 1/1 HEATER CONTROL
+19    K125 18BR/DG            GEN FIELD CONTROL
+20    K2 18VT/OR              ECT SIGNAL                            C
+21    K22 18BR/OR             TP NO. 1 SIGNAL                       O
+22                  -                                     -         N
+23    K1 18VT/BR              MAP SIGNAL                            N
+24                  -                                     -         E
+25                  -                                     -         C
+26    Y3 18LG (EXCEPT OFF-    FUSED SENSOR GROUND                   T
+      ROAD PACKAGE)
+26    K77 18BR/WT (OFF-ROAD   TRANSFER CASE POSITION SENSOR INPUT
+                                                                    O
+      PACKAGE)                                                      R
+27    K900 18DB/DG            SENSOR GROUND
+28    K961 18BR/VT            IAC SIGNAL                            P
+29    F855 18PK/YL            5 VOLT SUPPLY                         I
+30    K21 18DB/LG (2.4L)      IAT SIGNAL                            N
+30    K21 18BK/RD (4.0L)      IAT SIGNAL                            O
+31    K41 18DB/LB             O2 1/1 SIGNAL                         U
+32    K904 18DB/DG            O2 RETURN (DOWNSTREAM)                T
+33    K43 18DB/LG (4.0L)      O2 2/1 SIGNAL                         S
+34    K44 18DB/GY             CMP SIGNAL
+35    K24 18BR/LB             CKP SIGNAL
+36                  -                                     -
+37                  -                                     -
+38    K61 18VT/GY             IAC CONTROL
+
+
+
+
+             477
+

@@ -1,0 +1,59 @@
+                                                                                                  STARTING
+
+*CHECKING HARD START (FUEL DELIVERY SYSTEM) — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  3     Turn the ignition off.                                                                        All
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose,fitting or line,
+        the fuel system pressure must be released.
+        Remove the Fuel Pump Module and inspect the Fuel Inlet Strainer.
+        Is the Fuel Inlet Strainer plugged?
+                 Yes   → Replace the Fuel Pump Inlet Strainer.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                 No    → Test Complete.
+
+  4     NOTE: Before continuing visually and physically inspect the fuel delivery                     All
+        system for external leaks or damage. Repair /replace as necessary.
+        Turn the ignition off.
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Install special tool #6539 (5/169) fuel line adapter.
+        Install the fuel pressure gauge.
+        Start the engine and allow the fuel system to reach maximum pressure.
+        Turn the ignition off.
+        NOTE: Fuel specification is 400 KPa +/- 34 KPa (58 psi +/- 5 psi).
+        Using special tool #C4390, Hose Clamp Pliers, pinch the rubber fuel line between the
+        fuel pressure gauge and the engine.
+        Monitor the fuel pressure gauge for a minimum of 5 minutes.
+        NOTE: The pressure should not fall below 241 KPa (35 psi)
+        Does the fuel pressure drop?
+                 Yes   → Replace fuel pump module.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                 No    → Go To     5
+
+  5     WARNING: The fuel system is under a constant pressure even with the                           All
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Remove special tool #C4390.
+        Start the engine and allow the fuel system to reach maximum pressure.
+        Turn the ignition off.
+        NOTE: Fuel specification is 400 KPa +/- 34 KPa (58 psi +/- 5 psi).
+        Install special tool #C4390, Hose Clamp Pliers, pinch the rubber fuel line between the
+        fuel pressure gauge and the fuel pump module.
+        Monitor the fuel pressure gauge for a minimum of 5 minutes.
+        NOTE: The pressure should not fall below 241 KPa (35 psi)
+        Does the fuel pressure drop?
+
+                 Yes   → Replace leaking fuel injectors.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                 No    → Check the fuel for contaminants.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+
+                                                       279
+

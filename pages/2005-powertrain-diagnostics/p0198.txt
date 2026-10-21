@@ -1,0 +1,56 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0509-IAC VALVE SIGNAL CIRCUIT HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0509-IAC VALVE SIGNAL CIRCUIT HIGH
+        When Monitored:       Engine running. Battery voltage greater than 10 volts. IAC motor
+        operating.
+        Set Condition: The PCM senses a short to ground or battery voltage on the Linear Idle Air
+        Control (LIAC) control circuit for 2.75 seconds while the IAC motor is active.
+
+
+
+                                           POSSIBLE CAUSES
+IAC MOTOR OPERATION
+IAC MOTOR
+(K961) IAC SIGNAL CIRCUIT SHORTED TO VOLTAGE
+(K61) IAC CONTROL CIRCUIT SHORTED TO VOLTAGE
+(K61) IAC CONTROL CIRCUIT SHORTED TO (K961) IAC SIGNAL CIRCUIT
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      NOTE: If the engine will not idle, maintain an engine speed between 800 and             All
+          1500 RPM.
+          Start the engine.
+          Allow the engine to idle.
+          Check for vacuum leaks, proper PCV valve installation, proper MAP Sensor instal-
+          lation, and proper IAC installation.
+          With the DRBIIIt, read the IAC Current.
+          Is the IAC Current above 999 mA?
+
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITON Symptom (Diagnostic
+                          Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the IAC Motor harness connector.
+          With the DRBIIIt, monitor the IAC Current.
+          Ignition on, engine not running.
+          Does the DRBIIIt display IAC Current at 0mA?
+                  Yes   → Replace the IAC Motor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    3
+
+
+
+
+                                                     190
+

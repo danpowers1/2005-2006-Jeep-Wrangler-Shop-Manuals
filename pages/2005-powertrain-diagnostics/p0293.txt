@@ -1,0 +1,59 @@
+                                                                                                 STARTING
+
+*NO CRANK CONDITION — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  4     Disconnect the Clutch Pedal Position Switch.                                                 All
+        If this vehicle is not equipped with a manual transmission answer NO to this test and
+        continue.
+        Connect a jumper wire between the two terminals of the Clutch Pedal Position
+        Switch and attempt to start the engine.
+        Does the engine crank?
+                 Yes   → Replace the Clutch Pedal Position Switch.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                 No    → Go To     5
+
+  5     Turn ignition off.                                                                           All
+        Remove the Starter Relay from PDC.
+        WARNING: The Parking Brake must be on and the Transmission must be in
+        park for a vehicle equipped with an automatic transmission or Neutral on
+        a Manual transmission.
+        WARNING: The engine may be cranked in the next step. Keep away from
+        moving engine parts.
+        Briefly connect a jumper wire between Starter Relay B+ circuit and the (T40) Starter
+        Relay Output circuits.
+        Did the Starter Motor crank the engine?
+                 Yes   → Go To     6
+                 No    → Go To     8
+
+        NOTE: Remove the jumper wire before continuing.
+
+  6     Ignition on, engine not running.                                                             All
+        Using a 12-volt test light connected to ground, probe the (T141) Fused Ignition
+        Switch Output circuit in the Starter Relay connector.
+        While observing 12-volt test light, hold ignition key in the start position.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     7
+                 No    → Repair the open or high resistance in the (T141) Fused Ignition
+                         Switch Output circuit. Inspect related fuses and repair as neces-
+                         sary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  7     Turn the ignition off.                                                                       All
+        Disconnect the PCM harness connectors.
+        Measure the resistance of the Starter Relay Control circuit between the Relay
+        terminal and the PCM harness connector.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Replace the Starter Motor Relay.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Repair the open in the TRS T41 Sense (P/N Sense) circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                      285
+

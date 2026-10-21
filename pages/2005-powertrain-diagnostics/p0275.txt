@@ -1,0 +1,60 @@
+                                                                              DRIVEABILITY - NGC
+
+Symptom:
+    U0155-NO CLUSTER BUS MESSAGE
+
+
+
+When Monitored and Set Condition:
+
+        U0155-NO CLUSTER BUS MESSAGE
+        When Monitored:        Ignition key on and engine running.
+        Set Condition:     No messages received from the MIC (Instrument Cluster) for 20 seconds.
+
+
+
+                                             POSSIBLE CAUSES
+DTC RESET
+COMMUNICATE WITH CLUSTER
+INSTRUMENT CLUSTER OPERATION
+PCM
+
+ TEST                                          ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                           All
+          With the DRBIIIt, erase DTCs.
+          Start the engine and shut if off several times allowing it to idle each time for 20
+          seconds.
+          With the DRBIIIt, read DTCs.
+          Does the DTC reset?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+   2      Ignition on, engine not running.                                                           All
+          With the DRBIIIt, attempt to communicate with the Instrument cluster.
+          Can communication be established with the Instrument Cluster?
+
+                   Yes   → Go To    3
+
+                   No    → Refer to the Communication Category and perform the appropri-
+                           ate symptom related to no communication with cluster.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+   3      Start the engine                                                                           All
+          Allow the engine to idle.
+          Is the correct engine speed display in the instrument cluster (Tach)?
+                   Yes   → Replace and program the Powertrain Control Module per Service
+                           Information.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                   No    → Refer to the Instrument Category and perform the appropriate
+                           symptom.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                       267
+

@@ -1,0 +1,48 @@
+    CONNECTOR PINOUTS
+                                  POWERTRAIN CONTROL MODULE C3 - BLACK/NATURAL 38 WAY
+                        CAV           CIRCUIT                                 FUNCTION
+                         1                  -                                    -
+                         2                  -                                    -
+                         3    K342 20BR/WT          ASD RELAY CONTROL
+                         4    N112 20DB/OR          RADIATOR FAN RELAY CONTROL
+                         5    V35 20VT/LG (SPEED    S/C VENT SOL CONTROL
+                              CONTROL)
+                         6    N201 20DB/LG          LOW SPEED RADIATOR FAN RELAY CONTROL
+                         7    V32 20VT/YL           S/C SUPPLY
+                         8    K106 20VT/LB          NVLD SOL CONTROL
+                         9    K299 20BR/WT          O2 1/2 HEATER CONTROL
+                        10    K399 20BR/GY (4.0L)   O2 2/2 HEATER CONTROL
+                        11    C13 20LB/OR           A/C CLUTCH RELAY CONTROL
+                        12    V36 20VT/YL           S/C VACUUM SOL CONTROL
+                        13                  -                                    -
+                        14                  -                                    -
+                        15                  -                                    -
+                        16                  -                                    -
+                        17                  -                                    -
+                        18                  -                                    -
+                        19    K334 18BR             ASD RELAY OUTPUT
+C                       20    K52 20DB/WT           EVAP/PURGE SOL CONTROL
+O                       21    T141 18YL/OR          CLUTCH INTERLOCK SWITCH SENSE
+N                       22                  -                                    -
+N                       23    B15 20DG/WT           BRAKE SWITCH NO. 1 SIGNAL
+E                       24    C221 20LB/OR          A/C SELECT SIGNAL
+C                       25                  -                                    -
+T                       26                  -                                    -
+O                       27                  -                                    -
+R                       28    K334 18BR             ASD RELAY OUTPUT
+                        29    K70 20DB/BR           EVAP/PURGE SOL SIGNAL
+P                       30    K66 20DB/WT           P/S PRESSURE SWITCH SIGNAL
+I                       31    C18 20LB/BR           A/C PRESSURE SIGNAL
+N                       32    K25 20DB/VT           BATT TEMP SIGNAL
+O                       33    N4 20DB/WT            FUEL LEVEL SENSOR SIGNAL
+U                       34    V37 20VT              S/C SWITCH NO. 1 SIGNAL
+T                       35    K107 20VT/WT          NVLD SWITCH SIGNAL
+S                       36                  -                                    -
+                        37    K31 20BR              FUEL PUMP RELAY CONTROL
+                        38    T752 20DG/OR          STARTER MOTOR RELAY CONTROL
+
+
+
+
+                                     478
+

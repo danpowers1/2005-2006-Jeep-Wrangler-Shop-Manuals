@@ -1,0 +1,50 @@
+                                                                          COMMUNICATION
+
+Symptom:
+    *PCI BUS COMMUNICATION FAILURE
+
+
+
+
+                                         POSSIBLE CAUSES
+WIRING HARNESS INTERMITTENT
+OPEN PCI BUS CIRCUIT AT THE DATA LINK CONNECTOR (DLC)
+PCI BUS CIRCUIT SHORTED TO VOLTAGE
+MODULE SHORT TO VOLTAGE
+PCI BUS CIRCUIT SHORTED TO GROUND
+MODULE SHORT TO GROUND
+
+ TEST                                     ACTION                                       APPLICABILITY
+  1     Note: Determine which modules this vehicle is equipped with before begin-           All
+        ning.
+        Note: When attempting to communicate with any of the modules on this
+        vehicle, the DRB will display 1 of 2 different communication errors: a NO
+        RESPONSE message or a BUS +/- SIGNALS OPEN message.
+        Turn the ignition on.
+        Using the DRB, attempt to communicate with the following control modules:
+        Airbag Control Module
+        SKIM (SENTRY KEY IMMOBILIZER)
+        MIC (INSTRUMENT CLUSTER)
+        Was the DRBIIIt able to communicate with one or more Module(s)?
+                Yes   → Go To    2
+                No    → Go To    3
+
+  2     Turn the ignition off.                                                              All
+        Note: Visually inspect the related wiring harness. Look for any chafed,
+        pierced, pinched, or partially broken wires.
+        Note: Visually inspect the related wire harness connectors. Look for broken,
+        bent, pushed out, or corroded terminals.
+        Note: If the DRB can not communicate with a single module, refer to the
+        category list for the related symptom.
+        Were any problems found?
+
+                Yes   → Repair wiring harness/connectors as necessary.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Test Complete.
+
+
+
+
+                                                  31
+

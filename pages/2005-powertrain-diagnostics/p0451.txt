@@ -1,0 +1,49 @@
+                                                       VEHICLE THEFT/SECURITY
+
+Symptom List:
+    TRANSPONDER COMMUNICATION FAILURE
+    TRANSPONDER CYCLIC REDUNDANCY CHECK (CRC) FAILURE
+    TRANSPONDER ID MISMATCH
+    TRANSPONDER RESPONSE MISMATCH
+
+
+Test Note:     All symptoms listed above are diagnosed using the same tests.
+               The title for the tests will be TRANSPONDER COMMUNICA-
+               TION FAILURE.
+
+
+When Monitored and Set Condition:
+
+       TRANSPONDER COMMUNICATION FAILURE
+       When Monitored:     At ignition on and during Key Programming Mode.
+       Set Condition: When the SKIM does not receive a transponder response after 8 consec-
+       utive transponder read attempts within 2.0 seconds.
+
+       TRANSPONDER CYCLIC REDUNDANCY CHECK (CRC) FAILURE
+       When Monitored:     At ignition on and during Key Programming Mode.
+       Set Condition: When 5 consecutive transponder signal transmissions are sent to the
+       SKIM with the correct message format but with invalid data.
+
+       TRANSPONDER ID MISMATCH
+       When Monitored:     At ignition on and during Key Programming Mode.
+       Set Condition: When the transponder ID read by the SKIM does not match any of the
+       transponder ID’s stored in the SKIM’s memory.
+
+       TRANSPONDER RESPONSE MISMATCH
+       When Monitored:     At ignition on and during Key Programming Mode.
+       Set Condition:   When the transponder’s crypto algorithm result fails to match the SKIM’s
+       result.
+
+
+
+                                      POSSIBLE CAUSES
+CHECKING MULTIPLE KEY OPERATION
+SKIM
+INTERMITTENT WIRING HARNESS PROBLEM
+REPLACE IGNITION KEY
+
+
+
+
+                                               443
+

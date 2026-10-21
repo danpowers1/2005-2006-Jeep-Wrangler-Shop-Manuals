@@ -1,0 +1,33 @@
+                                                                    TRANSMISSION - 42RLE
+
+Symptom:
+    P0604-INTERNAL TCM
+
+
+
+When Monitored and Set Condition:
+
+        P0604-INTERNAL TCM
+        When Monitored:
+        Set Condition:     The TCM is reporting internal errors and must be replaced.
+
+
+
+                                          POSSIBLE CAUSES
+TCM - INTERNAL ERROR
+
+ TEST                                       ACTION                                          APPLICABILITY
+   1      Using the schematics as a guide, inspect the wiring and connectors. Repair as          All
+          necessary. Pay particular attention to all power and ground circuits.
+          If there are no possible causes remaining, view repair.
+                  Repair
+                           Replace the Transmission Control Module per the Service Infor-
+                           mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                           Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                           1.
+
+
+
+
+                                                    303
+

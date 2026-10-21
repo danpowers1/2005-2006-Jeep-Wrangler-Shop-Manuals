@@ -1,0 +1,61 @@
+GENERAL INFORMATION
+recent DTC was set. The counter will count up to                Learn. For best results, Quick Learn should be
+255 starts. Note that this counter only applies to the          run with the transmission sump temperature >
+last code set.                                                  90°F.
+  When there are no diagnostic trouble codes stored           > If an unused PCM is installed on a vehicle with a
+in memory, the DRBIIIt will display 9NO DTC’s                   HOT engine, Quick Learn will cause the PCM to
+PRESENT9 and the reset counter will show                        report a cold calculated oil temperature. This
+9STARTS SINCE CLEAR9 = XXX.                                     requires monitoring the calculated oil tempera-
+  The number of starts helps determine if the                   ture using the DRBIIIt. If the temperature is
+diagnostic trouble code is hard or intermittent.                below 16° C (60° F), the transmission must be
+   – If the number of starts is less than 3, the code           run at idle or driven in gear until it goes above
+      is usually a hard code.                                   16° C (60° F). If the temperature is above 93° C
+  – If the number of starts is greater than 3, it is            (200° F), the transmission must cool to below 93°
+    considered an intermittent code. This means                 C (200° F).
+    that the engine has been started most of the              > First gear is engaged in overdrive after Quick
+    time without the code recurring.                            Learn is completed. Place the vehicle in park
+                                                                after performing Quick Learn.
+3.3.5     TROUBLE CODE ERASURE                                  The Quick Learn function should be performed:
+  A Diagnostic trouble code will be cleared from                – Upon installation of a new service PCM
+PCM memory if it has not reset for 40 warm-up                   – After replacement or rebuild of internal trans-
+cycles. A warm-up cycle is defined as 9sufficient                  mission components or the torque converter
+vehicle operation such that the coolant temperature             – If one or more of the clutch volumes indexes
+has risen by at least 22° C (40°F) from engine                     (CVI’s) contain skewed readings because of
+starting and reaches a minimum temperature of                      abnormal conditions.
+71° C (160° F). The Malfunction Indicator Lamp                  The Quick Learn procedure is performed with the
+(MIL) will turn off after 3 good trips or when the            DRBIIIt by selecting 9Transmission9 system then
+DTC’s are cleared from the PCM                                9Miscellaneous9 functions, then 9Quick Learn9. Fol-
+                                                              low the procedure instructions displayed on the
+3.3.6    QUICK LEARN                                          DRBIIIt.
+  The Quick Learn function customizes adaptive                  To perform the Quick Learn procedure, the fol-
+parameters of the PCM to the transmission Char-               lowing conditions must be met.
+acteristics of a vehicle. This gives the customer
+improved 9as received9 shift quality compared to the          NOTE: The oil temperature must be between
+initial parameters stored in the PCM.                         16° C (60° F) and 93° C (200° F). Above 32° C
+  Notes about Quick Learn Features                            (90° F) for best results.
+  The nature of the Quick Learn function requires             Cycle the transmission through all gears 2-3
+that certain features must be taken into consider-            times immediately before performing Quick
+ation.                                                        Learn.
+> Quick Learn should generally not be used as a                 – It is imperative that the vehicle oil level set to
+   repair procedure unless directed by a repair or                the correct level. Shift the transmission into
+   diagnostic procedure. If the transmission system               OD with the engine running, this step will
+   is exhibiting a problem that you think is caused               purge the air in the clutch circuits to prevent
+   by an invalid CVI, you should try to relearn the               erroneous clutch volume values, which could
+   value by performing the appropriate driving ma-                cause poor initial shift quality.
+   neuver . In most cases, if a Quick Learn makes a
+   vehicle shift better, the vehicle will return with           – Shift the transmission to neutral.
+   the same problem.                                            – The brakes must be applied.
+> Before performing Quick Learn, it is imperative               – The engine must be idling.
+   that the vehicle be shifted into OD with the                 – The throttle angle (TP sensor) must be less
+   engine running and the oil level set to the correct            than 3 degrees.
+   level. This step will purge air from the clutch              – The shift lever position must stay in neutral,
+   circuits to prevent erroneous clutch volume val-               after shifting to neutral the engine idle speed
+   ues which could cause poor initial shift quality.              will ramp up to 1600rpm and the DRBIIIt will
+   Cycle the transmission through all gears 2-3                   prompt the operator to shift to OD. Do not shift
+   times immediately before performing Quick                      to OD until the engine idle speed stabilizes at
+                                                                  1600rpm.
+
+
+
+                                                         12
+

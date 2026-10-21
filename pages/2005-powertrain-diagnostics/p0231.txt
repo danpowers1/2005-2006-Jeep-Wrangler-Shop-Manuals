@@ -1,0 +1,57 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0586-SPEED CONTROL VENT SOLENOID CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0586-SPEED CONTROL VENT SOLENOID CIRCUIT
+        When Monitored: Engine running, the speed control switched on and learned, and the
+        brake pedal is not pressed. No other fault has occured this trip.
+        Set Condition: The PCM detects an open or short to ground in the Speed Control Vent
+        Control circuit. Cruise will be disabled for the remainder of that key-on cycle. One Trip
+        Fault. Three good trips to clear the MIL.
+
+
+
+                                           POSSIBLE CAUSES
+SPEED CONTROL SOLENOID OPERATION
+(V32) S/C SUPPLY CIRCUIT
+SPEED CONTROL VENT SOLENOID
+(V32) S/C SUPPLY SHORT TO GROUND
+(V35) S/C VENT SOL CONTROL CIRCUIT OPEN
+(V35) S/C VENT SOL CONTROL CIRCUIT SHORTED TO GROUND
+(V32) S/C SUPPLY CIRCUIT OPEN
+(Z901) S/C GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Ignition on, engine not running.                                                       All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          With the DRBIIIt, actuate the Speed Control Vent Solenoid and note operation.
+          Does the Speed Control Vent Solenoid acutate properly?
+
+                  Yes   → Refer to the INTERMITTENT CONDITION symptom in the
+                          Driveability category.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                  No    → Go To    2
+
+   2      Turn the ignition off.                                                                 All
+          Disconnect the S/C Servo harness connector.
+          Turn the ignition on.
+          Using the DRBIIIt, actuate the S/C Vent Solenoid.
+          Using a test light connected to ground, probe the (V30) S/C Brake Switch Output
+          circuit in the S/C Servo harness connector.
+          Does the test light illuminate brightly and flash on and off?
+                  Yes   → Go To    5
+
+                  No    → Go To    3
+
+
+
+
+                                                     223
+

@@ -1,0 +1,57 @@
+                                                                                            STARTING
+
+Symptom:
+    *CHECKING FUEL DELIVERY
+
+
+
+
+                                         POSSIBLE CAUSES
+FUEL PUMP RELAY
+FUEL PRESSURE OUT OF SPECIFICATION
+RESTRICTED FUEL SUPPLY LINE
+FUEL PUMP INLET STRAINER PLUGGED
+FUEL PUMP
+(A61) FUSED B+ CIRCUIT
+(A141) FUEL PUMP RELAY OUTPUT CIRCUIT OPEN
+(Z1) FUEL PUMP GROUND CIRCUIT EXCESSIVE RESISTANCE
+FUEL PUMP MODULE
+
+ TEST                                      ACTION                                          APPLICABILITY
+  1     Ignition on, engine not running.                                                        All
+        With the DRBIIIt, actuate the ASD Fuel System test.
+        Note: It may be necessary to use a mechanics stethoscope in the next step.
+        Listen for fuel pump operation at the fuel tank.
+        Does the Fuel Pump operate?
+                Yes   → Go To    2
+
+                No    → Go To    5
+        Caution: Stop All Actuations.
+
+  2     Turn the ignition off.                                                                  All
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Install a fuel pressure gauge to the fuel rail test port.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 400 KPa +/- 34 KPa (58 psi +/- 5 psi).
+        Choose a conclusion that best matches your fuel pressure reading.
+                Below Specification
+                        Go To 3
+
+                Within Specification
+                        Test Complete.
+
+                Above Specification
+                        Replace the fuel filter/fuel pressure regulator.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+        Caution: Stop All Actuations.
+
+
+
+
+                                                   275
+

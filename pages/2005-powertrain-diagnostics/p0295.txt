@@ -1,0 +1,59 @@
+                                                                                               STARTING
+
+Symptom:
+    *NO RESPONSE FROM PCM WITH A NO START CONDITION
+
+
+
+
+                                           POSSIBLE CAUSES
+PCM FUSED B+ CIRCUIT
+PCM NO RESPONCE
+PCM FUSED IGNITION SWITCH OUTPUT CIRCUIT
+PCM GROUND CIRCUITS
+TP SENSOR
+5-VOLT SENSOR OPEN OR SHORTED
+(K7) 5-VOLT SUPPLY CKT SHORT TO GROUND
+(K6) 5-VOLT CIRCUIT SUPPLY SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+  1     NOTE: The DRBIIIt and cable must be operating properly for the results of                  All
+        this test to be valid.
+        NOTE: Ensure the ignition switch was on while trying to communicate with
+        the PCM.
+        Turn the ignition off.
+        Disconnect the PCM harness connectors.
+        Using a 12-volt test light connected to ground, backprobe the PCM Fused B+ circuit
+        in the PCM harness connector.
+        Does the test light illuminate brightly?
+                 Yes   → Go To    2
+
+                 No    → Repair the open in the Fused B+ circuit. Inspect and replace fuses
+                         as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  2     Ignition on, engine not running.                                                           All
+        Using a 12-volt test light connected to ground, backprobe the PCM Fused Ignition
+        Switch Output circuit in the PCM harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    3
+                 No    → Repair the open in the Ignition Switch Output circuit. Inspect and
+                         replace fuses as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  3     Turn the ignition off.                                                                     All
+        Using a 12-volt test light connected to 12-volts, backprobe the PCM ground circuits
+        in the PCM harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    4
+                 No    → Repair the opens in the PCM ground circuits.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                     287
+

@@ -1,0 +1,67 @@
+TRANSMISSION - 42RLE
+
+P0715-INPUT SPEED SENSOR ERROR — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  2     Start the engine in park.                                                                 All
+        With the DRBIIIt, read the Input RPM.
+        Is the Input RPM reading below 400 RPM?
+
+                 Yes   → Go To     3
+
+                 No    → Go To    11
+
+  3     Turn the ignition off to the lock position.                                               All
+        CAUTION: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Ignition on, engine not running.
+        With the Transmission Simulator, set the 9Input/Output Speed9 switch to 9ON9 and
+        the rotary switch to the 93000/12509 position.
+        With the DRBIIIt, monitor the Input and Output RPM.
+        Does the Input RPM read 3000 RPM and the Output RPM read 1250 RPM +/- 50
+        RPM?
+                 Yes   → Go To     4
+                 No    → Go To    5
+
+        NOTE: Disconnect the Transmission Simulator and reconnect all harness
+        connectors.
+
+  4     If there are no possible causes remaining, view repair.                                   All
+                 Repair
+                          Replace the Input Speed Sensor per the Service Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  5     Turn the ignition off to the lock position.                                               All
+        Disconnect the TCM harness connector.
+        Disconnect the Input Speed Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Input Speed Sensor Signal circuit from the TCM
+        harness connector to the Input Speed Sensor harness connector.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Repair the Input Speed Sensor Signal circuit for an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    6
+
+  6     Turn the ignition off to the lock position.                                               All
+        Disconnect the TCM harness connector.
+        Disconnect the Input Speed Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Input Speed Sensor signal circuit.
+        Is the resistance Below 5.0 ohms?
+
+                 Yes   → Repair the Input Speed Sensor Signal circuit for a short to
+                         ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     7
+
+
+
+                                                      324
+

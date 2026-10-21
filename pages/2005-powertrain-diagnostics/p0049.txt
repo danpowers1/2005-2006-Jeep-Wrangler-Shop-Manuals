@@ -1,0 +1,50 @@
+                                                               DRIVEABILITY - NGC
+
+Symptom List:
+    P0032-O2 SENSOR 1/1 HEATER CIRCUIT HIGH
+    P0038-O2 SENSOR 1/2 HEATER CIRCUIT HIGH
+    P0052-O2 SENSOR 2/1 HEATER CIRCUIT HIGH
+    P0058-O2 SENSOR 2/2 HEATER CIRCUIT HIGH
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P0032-O2 SENSOR 1/1 HEATER
+              CIRCUIT HIGH.
+
+
+When Monitored and Set Condition:
+
+      P0032-O2 SENSOR 1/1 HEATER CIRCUIT HIGH
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      off.
+      Set Condition:   O2 Heater element input is above the maximum acceptable voltage.
+
+      P0038-O2 SENSOR 1/2 HEATER CIRCUIT HIGH
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      off.
+      Set Condition:   O2 Heater element input is above the maximum acceptable voltage.
+
+      P0052-O2 SENSOR 2/1 HEATER CIRCUIT HIGH
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      off.
+      Set Condition:   O2 Heater element input is above the maximum acceptable voltage.
+
+      P0058-O2 SENSOR 2/2 HEATER CIRCUIT HIGH
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      off.
+      Set Condition:   O2 Heater element input is above the maximum acceptable voltage.
+
+
+
+                                    POSSIBLE CAUSES
+O2 SENSOR HEATER OPERATION
+O2 HEATER ELEMENT
+O2 HEATER GROUND CIRCUIT OPEN
+O2 SENSOR
+O2 HEATER CONTROL SHORTED TO VOLTAGE
+O2 HEATER CONTROL CIRCUIT OPEN
+PCM
+
+
+                                             41
+

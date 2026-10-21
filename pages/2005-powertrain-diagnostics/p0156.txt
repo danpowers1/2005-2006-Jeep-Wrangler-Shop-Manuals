@@ -1,0 +1,22 @@
+DRIVEABILITY - NGC
+
+P0441-EVAP PURGE SYSTEM PERFORMANCE — Continued
+
+ TEST                                       ACTION                                          APPLICABILITY
+  3     Turn the ignition off.                                                                   All
+        Carefully inspect the Evap Purge Solenoid vacuum supply hose for proper routing.
+        Check for a pinched or plugged hose from the throttle body to the Purge Solenoid.
+        Inspect the vacuum port at the throttle body for any damage or plugging.
+        Were any problems found?
+                Yes   → Repair the vacuum supply hose/tube as necessary.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                        tic Procedure).
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    148
+

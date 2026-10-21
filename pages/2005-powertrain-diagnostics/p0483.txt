@@ -1,0 +1,48 @@
+                                                                                     CONNECTOR PINOUTS
+                                            ENGINE STARTER MOTOR RELAY (IN PDC)
+CAV             CIRCUIT                                                   FUNCTION
+B1    A8 14RD             FUSED B(+)
+B2    T750 14YL/GY        ENGINE STARTER MOTOR RELAY OUTPUT
+B3    T752 20DG/OR        STARTER MOTOR RELAY CONTROL
+B4                  -                                                          -
+B5    F26 16PK/OR         IGNITION SWITCH OUTPUT (START)
+
+
+                                                    FUEL PUMP RELAY (IN PDC)
+CAV             CIRCUIT                                                   FUNCTION
+C6    F1 20PK/WT          FUSED IGNITION SWITCH OUTPUT (RUN-START)
+C6    F1 20PK/WT          FUSED IGNITION SWITCH OUTPUT (RUN-START)
+C7                  -                                                          -
+C8    K31 20BR            FUEL PUMP RELAY CONTROL
+C9    A109 18OR/RD        FUEL PUMP RELAY OUTPUT
+C10   A930 18RD           FUSED B(+)
+
+
+                                            HIGH SPEED RADIATOR FAN RELAY (2.4L)
+CAV             CIRCUIT                                                   FUNCTION
+D10   A16 12GY            FUSED B(+)
+D11   N112 20DB/OR        HIGH SPEED RADIATOR FAN RELAY CONTROL
+D13   F960 20PK/LG        FUSED IGNITION SWITCH OUTPUT (RUN-START)                                       C
+D14   C25 12YL            HIGH SPEED RADIATOR RELAY OUTPUT                                               O
+                                                                                                         N
+                                            LOW SPEED RADIATOR FAN RELAY (2.4L)                          N
+CAV             CIRCUIT                                                   FUNCTION                       E
+D2    A16 12GY            FUSED B(+)                                                                     C
+D4    F960 20PK/LG        FUSED IGNITION SWITCH OUTPUT (RUN-START)                                       T
+D4    F960 20PK/LG        FUSED IGNITION SWITCH OUTPUT (RUN-START)                                       O
+D6    N201 20DB/LG        LOW SPEED RADIATOR FAN RELAY CONTROL                                           R
+D8    C23 12DG            LOW SPEED FAN RELAY OUTPUT
+                                                                                                         P
+                                            TRANSMISSION CONTROL RELAY (IN PDC)                          I
+CAV             CIRCUIT                                                   FUNCTION                       N
+A1    A30 16RD/WT         FUSED B(+)                                                                     O
+A2    T515 20YL/DB        TRANSMISSION CONTROL RELAY CONTROL                                             U
+A3    T16 18YL/OR         TRANSMISSION CONTROL RELAY OUTPUT                                              T
+A4    Z901 18BK           GROUND                                                                         S
+A5                  -                                                          -
+
+
+
+
+                                                               475
+

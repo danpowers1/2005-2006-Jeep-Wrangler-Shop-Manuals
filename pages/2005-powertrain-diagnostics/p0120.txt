@@ -1,0 +1,49 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P0201-FUEL INJECTOR NO.1 CIRCUIT
+    P0202-FUEL INJECTOR NO.2 CIRCUIT
+    P0203-FUEL INJECTOR NO.3 CIRCUIT
+    P0204-FUEL INJECTOR NO.4 CIRCUIT
+    P0205-FUEL INJECTOR NO.5 CIRCUIT
+    P0206-FUEL INJECTOR NO.6 CIRCUIT
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0201-FUEL INJECTOR NO.1
+             CIRCUIT.
+
+
+When Monitored and Set Condition:
+
+     P0201-FUEL INJECTOR NO.1 CIRCUIT
+     When Monitored: With battery voltage greater than 11.9981 volts. Auto Shutdown Relay
+     energized. Engine speed less than 3008 rpm.
+     Set Condition:   No inductive spike is detected after injector turn off.
+
+     P0202-FUEL INJECTOR NO.2 CIRCUIT
+     When Monitored: With battery voltage greater than 11.9981 volts. Auto Shutdown Relay
+     energized. Engine speed less than 3008 rpm.
+     Set Condition:   No inductive spike is detected after injector turn off.
+
+     P0203-FUEL INJECTOR NO.3 CIRCUIT
+     When Monitored: With battery voltage greater than 11.9981 volts. Auto Shutdown Relay
+     energized. Engine speed less than 3008 rpm.
+     Set Condition:   No inductive is detected after injector turn off.
+
+     P0204-FUEL INJECTOR NO.4 CIRCUIT
+     When Monitored: With battery voltage greater than 11.9981 volts. Auto Shutdown Relay
+     energized. Engine speed less than 3008 rpm.
+     Set Condition:   No inductive spike is detected after injector turn off, and with no other
+     injectors on.
+
+     P0205-FUEL INJECTOR NO.5 CIRCUIT
+     When Monitored: With battery voltage greater than 11.9981 volts. Auto Shutdown Relay
+     energized. Engine speed less than 3008 rpm.
+     Set Condition:   No inductive spike is detected after injector turn off.
+
+
+
+
+                                              112
+

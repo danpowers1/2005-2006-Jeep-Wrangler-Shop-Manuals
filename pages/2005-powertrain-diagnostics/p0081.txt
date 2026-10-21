@@ -1,0 +1,53 @@
+                                                                          DRIVEABILITY - NGC
+
+Symptom:
+    P0118-ENGINE COOLANT TEMPERATURE SENSOR CIRCUIT
+    HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0118-ENGINE COOLANT TEMPERATURE SENSOR CIRCUIT HIGH
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: The Engine Coolant Temperature (ECT) sensor circuit voltage at the PCM
+        is greater than 4.96 volts for more than 2.6 seconds. One Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+ECT SENSOR VOLTAGE ABOVE 4.96 VOLTS
+ECT SENSOR
+(K2) ECT SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K2) ECT SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Ignition on, engine not running.                                                       All
+          With the DRBIIIt, read the ECT Sensor voltage.
+          Is the voltage above 4.96 volts?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                 All
+          Disconnect the ECT Sensor harness connector.
+          Connect a jumper wire between the (K2) ECT Signal circuit and the (K900) Sensor
+          ground circuit at the ECT harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read the ECT Sensor voltage.
+          Is the voltage below 1.0 volt?
+                  Yes   → Replace the ECT Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                     73
+

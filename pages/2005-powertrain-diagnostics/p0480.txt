@@ -1,0 +1,41 @@
+    CONNECTOR PINOUTS
+
+
+
+                                            OXYGEN SENSOR 2/1 UPSTREAM (4.0L) - 4 WAY
+                        CAV           CIRCUIT                                 FUNCTION
+                         1    K199 18BR/VT            O2 2/1 HEATER CONTROL
+                         2    Z42 18BK/LG             GROUND
+                         3    K902 18BR/DG            O2 RETURN (UPSTREAM)
+                         4    K43 18DB/LG             O2 2/1 SIGNAL
+
+
+
+
+                                          OXYGEN SENSOR 2/2 DOWNSTREAM (4.0L) - 4 WAY
+                        CAV           CIRCUIT                                 FUNCTION
+                         1    K399 18BR/GY            O2 2/2 HEATER CONTROL
+                         2    Z43 18BK/LB             GROUND
+C                        3    K904 18BD/DG            O2 RETURN (DOWNSTREAM)
+O                        4    K243 18BR               O2 2/2 SIGNAL
+N
+N
+E
+C
+T
+O
+R
+
+P
+I
+N
+O
+U
+T
+S
+
+
+
+
+                                     472
+

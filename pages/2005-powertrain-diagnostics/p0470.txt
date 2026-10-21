@@ -1,0 +1,74 @@
+    CONNECTOR PINOUTS
+                                    C103 - BLACK (ENGINE SIDE)
+                                    CAV             CIRCUIT
+                                     1    D20 18WT/LG
+                                     2    G31 18VT/LG
+                                     3    C221 20LB/OR (4.0L)
+                                     4    F856 20YL/PK (2.4L)
+                                     4    K399 18BR/GY (4.0L)
+                                     5    K299 18BR/WT
+                                     6    D25 18WT/VT
+                                     7    D21 18WT/BR
+                                     8    K900 20DB/DG
+                                     9    F1 18PK/WT
+                                    10    Y3 18LG
+                                    11    Z11 20BK/LG
+                                    12    K75 20DB/OR (DRL)
+                                    13    K66 18DB/WT (2.4L)
+                                    14    C3 20DB/BK (2.4L A/C)
+                                    14    C3 20DB/YL (4.0L A/C)
+
+
+                              C103 - BLACK (HEADLAMP AND DASH SIDE)
+                                    CAV             CIRCUIT
+
+C                                    1    D20 20WT/LG
+
+O                                    2    G31 20VT/LG
+
+N                                    3    C221 20LB/OR (4.0L)
+
+N                                    4    F856 20YL/PK (2.4L)
+
+E                                    4    K399 20BR/GY (4.0L)
+
+C                                    5    K299 20BR/WT
+
+T                                    6    D25 18WT/VT
+
+O                                    7    D21 20WT/BR
+
+R                                    8    K900 20DB/DG
+                                     9    F1 20PK/WT
+
+P                                   10    Y3 18LG
+
+I                                   10    Y3 20LG
+
+N                                   11    Z11 20BK/LG
+
+O                                   12    K75 20DB/OR (DRL)
+
+U                                   13    K66 20DB/WT (2.4L)
+
+T                                   14    C3 20DB/YL (A/C)
+
+S
+                                 C104 (RHD) - BLACK (ENGINE SIDE)
+                                    CAV             CIRCUIT
+                                     1    A209 18RD
+                                     2    F26 16PK/OR
+                                     3    A109 18OR/RD
+                                     4    K334 18BR
+                                     5                  -
+                                     6    T750 14YL/GY
+                                     7    G93 20VT/LB
+                                     8    N4 20DB/WT
+                                     9    L1 20WT/LG
+                                    10    F102 20PK/DB
+
+
+
+
+                        462
+

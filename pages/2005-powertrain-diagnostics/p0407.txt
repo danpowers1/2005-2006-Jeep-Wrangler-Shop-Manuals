@@ -1,0 +1,22 @@
+                                                                  TRANSMISSION - 42RLE
+
+P0992- 2-4/OD HYDRAULIC PRESSURE TEST FAILURE — Continued
+
+ TEST                                     ACTION                                          APPLICABILITY
+  2     NOTE: The vehicle must be driven to set this DTC, the transmission must be             All
+        warm or hot with the Engine RPM above 1000 RPM.
+        This DTC is an indicator of a 2/4 and/or O/D Hydraulic Pressure Switch DTC’s
+        present. Perform the tests for P0870 and/or P0845 to determine which switch is
+        failing.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Refer to the Transmission category and perform the appropriate
+                         symptom for P0870 and/or P0845.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+
+                                                  399
+

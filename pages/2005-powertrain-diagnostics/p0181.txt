@@ -1,0 +1,51 @@
+                                                                          DRIVEABILITY - NGC
+
+Symptom:
+    P0480-COOLING FAN NO.1 CONTROL CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0480-COOLING FAN NO.1 CONTROL CIRCUIT
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition:    An open or shorted circuit is detected in the radiator fan relay control
+        circuit.
+
+
+
+                                           POSSIBLE CAUSES
+LOW SPEED RADIATOR FAN RELAY OPERATION
+LOW SPEED RADIATOR FAN RELAY
+(F20) FUSED IGNITION SWITCH OUTPUT CIRCUIT
+(A16) FUSED B+ CIRCUIT
+(N201) LOW SPEED RAD FAN RELAY CONTROL CIRCUIT OPEN
+(N201) LOW SPEED RAD FAN RELAY CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Ignition on, engine not running.                                                       All
+          With the DRBIIIt, actuate the Low Speed Radiator Fan Relay.
+          Is the Radiator Fan Relay cycling on and off?
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    2
+
+   2      Turn the ignition off.                                                                 All
+          Remove the Low Speed Radiator Fan Relay from the PDC.
+          Measure the resistance of the Low Speed Radiator Fan Relay Coil by measuring
+          between the (F20) Fused Ignition Switch terminal and the (N201) Control circuit
+          terminal at the Relay .
+          Is the resistance between 60 and 80 ohms?
+
+                  Yes   → Go To    3
+
+                  No    → Replace the Low Speed Radiator Fan Relay.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     173
+

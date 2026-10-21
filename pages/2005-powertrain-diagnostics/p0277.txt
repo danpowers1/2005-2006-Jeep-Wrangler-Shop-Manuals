@@ -1,0 +1,40 @@
+                                                                           DRIVEABILITY - NGC
+
+U0168-NO SKIM BUS MESSAGE — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Turn the ignition off.                                                                     All
+        Disconnect the PCM harness connectors.
+        Disconnect the SKIM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the PCI Bus circuit from the SKIM harness connector to
+        the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To    4
+
+                 No    → Repair the open in the PCI Bus circuit between the PCM and the
+                         SKIM.
+                         Perform SKIS VERIFICATION.
+
+  4     Connect the PCM harness connectors.                                                        All
+        Replace the Sentry Key Immobilizer Module in accordance with the Service Infor-
+        mation.
+        Ignition on, engine not running.
+        Display and erase all PCM and SKIM DTCs.
+        Perform 5 ignition key cycles leaving the ignition key on for 90 seconds per cycle.
+        With the DRB, display PCM DTCs.
+        Does the DRB display the same DTC?
+
+                 Yes   → Replace and program the Powertrain Control Moldule per service
+                         Information.
+                         Perform SKIS VERIFICATION.
+                 No    → Test Complete.
+
+
+
+
+                                                     269
+

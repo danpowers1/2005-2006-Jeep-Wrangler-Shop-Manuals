@@ -1,0 +1,59 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0117-ENGINE COOLANT TEMPERATURE SENSOR CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0117-ENGINE COOLANT TEMPERATURE SENSOR CIRCUIT LOW
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: The Engine Coolant Temperature (ECT) sensor circuit voltage at the PCM
+        is less than 0.5 of a volt for more than 2.6 seconds. One Trip Fault
+
+
+
+                                           POSSIBLE CAUSES
+ECT SENSOR VOLTAGE BELOW 0.5 OF A VOLT
+ECT SENSOR
+(K2) ECT SIGNAL CIRCUIT SHORTED TO GROUND
+(K2) ECT SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      Ignition on, engine not running.                                                        All
+          With the DRBIIIt, read the ECT Sensor voltage.
+          Is the voltage below 0.5 of a volt?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the ECT harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read ECT Sensor voltage.
+          Is the voltage above 1.0 volt?
+
+                  Yes   → Replace the ECT Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    3
+
+   3      Turn the ignition off.                                                                  All
+          Disconnect the C2 PCM harness connector.
+          Measure the resistance between ground and the (K2) ECT Signal circuit at the ECT
+          Sensor harness connector.
+          Is the resistance below 100 ohms?
+
+                  Yes   → Repair the short to ground in the (K2) ECT Signal circuit.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    4
+
+
+
+
+                                                       71
+

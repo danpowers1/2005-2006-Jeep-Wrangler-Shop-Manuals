@@ -1,0 +1,48 @@
+                                                                          DRIVEABILITY - NGC
+
+P0172-FUEL SYSTEM 1/1 RICH — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  12    WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A                                 All
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Start the engine.
+        Measure the voltage on the O2 Sensor Signal circuit in the O2 Sensor harness
+        connector with the Sensor harness connector disconnected.
+        Is the voltage above 4.8 volts?
+
+                Yes   → Check the O2 Signal circuit for damage, short to ground, open, or
+                        short to voltage. Inspect the O2 Sensor connector and the PCM
+                        harness connector. If OK, replace the Powertrain Control Module
+                        per Service Information.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    13
+
+  13    Engine still running.                                                                    All
+        Measure the voltage on the O2 Return circuit in the O2 Sensor harness connector.
+        Is the voltage at 2.5 volts?
+                Yes   → Go To    14
+
+                No    → Check the O2 Return circuit for damage, short to ground, open, or
+                        short to voltage. Inspect the O2 Sensor connector and the PCM
+                        harness connector. If OK, replace the Powertrain Control Module
+                        per Service Information.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+        NOTE: Turn the ignition off before continuing.
+
+  14    NOTE: Before continuing, check the PCM harness connector terminals for                   All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    111
+

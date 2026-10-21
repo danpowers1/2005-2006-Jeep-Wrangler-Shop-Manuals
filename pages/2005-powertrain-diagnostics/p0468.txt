@@ -1,0 +1,45 @@
+    CONNECTOR PINOUTS
+
+
+
+
+                                        AMBIENT TEMPERATURE SENSOR (ENGINE) - 2 WAY
+                        CAV           CIRCUIT                                FUNCTION
+                         1    G31 20VT/LG             AAT SIGNAL
+                         2    K900 20DB/DG            SENSOR GROUND
+
+
+
+
+                                            BATTERY TEMPERATURE SENSOR - BLACK 2 WAY
+                        CAV           CIRCUIT                                FUNCTION
+                         1    K25 20DB/VT             BATT TEMP SIGNAL
+                         2    K900 20DB/DG            SENSOR GROUND
+
+
+C
+O
+N
+N                                                BRAKE LAMP SWITCH - GRAY 6 WAY
+E                       CAV           CIRCUIT                                FUNCTION
+C                        1    B15 20DG/WT             BRAKE SWITCH NO. 1 SIGNAL
+T                        1    B15 20DG/WT             BRAKE SWITCH NO. 1 SIGNAL
+O                        2    Z249 20BK/OR            GROUND
+R                        3    V32 20VT/YL (EXCEPT     S/C SUPPLY
+                              POSTAL)
+P                        4    V30 20VT/WT (EXCEPT     S/C BRAKE SWITCH OUTPUT
+                              POSTAL)
+I
+                         5    A103 18GY/RD            FUSED B(+)
+N
+                         6    L50 18WT/TN             BRAKE LAMP SWITCH OUTPUT
+O
+U
+T
+S
+
+
+
+
+                                     460
+

@@ -1,0 +1,66 @@
+                                                                            DRIVEABILITY - NGC
+
+*CHECKING A/C SYSTEM OPERATION WITH NO DTCS — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  4     Verify the Low Pressure Switch operation per Service Information.                         All
+        Is the Low Pressure Switch OK?
+                 Yes   → Go To    5
+
+                 No    → Replace the Low Pressure Switch.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  5     Ignition on, engine not running.                                                          All
+        Position the Mode switch on the A/C - Heater Control Module to the Panel position.
+        With the DRBIIIt in BCM, select Inputs/Outputs.
+        Monitor the A/C Select Switch state while pressing the A/C mode switch on and off.
+        Does the A/C Select Switch state change accordingly.
+
+                 Yes   → Go To    6
+
+                 No    → Go To    13
+
+  6     Position the Mode switch on the A/C - Heater Control Module to the Panel position.        All
+        With the DRBIIIt in Powertrain, select Engine and select Inputs/Outputs.
+        Monitor the A/C Select Switch state while pressing the A/C mode switch on and off.
+        Does the A/C Select Switch state change accordingly.
+                 Yes   → Go To    7
+
+                 No    → Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  7     Connect a test light between the ground circuit and the A/C Clutch Relay Output           All
+        circuit.
+        With the DRBIIIt, actuate the A/C Clutch Relay.
+        Does the test light illuminate brightly on and off with the relay actuation?
+
+                 Yes   → Replace the A/C Clutch Coil.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                 No    → Go To    8
+
+  8     Turn the ignition off.                                                                    All
+        Disconnect the A/C Clutch harness connector.
+        NOTE: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the A/C Compressor Clutch ground
+        circuit in the A/C Clutch harness connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To    9
+                 No    → Repair the open in the A/C Compressor Clutch ground circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  9     Turn the ignition off.                                                                    All
+        Remove the A/C Clutch Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the (C3) A/C Clutch Relay Output circuit between the
+        Relay and the A/C Clutch Coil.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    10
+                 No    → Repair the open in the (C3) A/C Clutch Relay Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+                                                    271
+

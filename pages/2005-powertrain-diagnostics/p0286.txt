@@ -1,0 +1,58 @@
+STARTING
+
+Symptom:
+    *CHECKING HARD START (FUEL DELIVERY SYSTEM)
+
+
+
+
+                                           POSSIBLE CAUSES
+RESTRICTED FUEL SUPPLY LINE
+FUEL PUMP MODULE
+FUEL PUMP INLET STRAINER PLUGGED
+FAULTY FUEL PUMP MODULE
+FUEL INJECTORS
+FUEL CONTAMINATION
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     Turn the ignition off.                                                                      All
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Install the fuel pressure gauge at the engine. Refer to the Service Information FUEL
+        DELIVERY Section.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 400 KPa +/- 34 KPa (58 psi +/- 5 psi).
+        Choose a conclusion that best matches your fuel pressure reading.
+                 Below Specification
+                         Go To 2
+
+                 Within Specification
+                         Go To 4
+
+  2     Turn the ignition off.                                                                      All
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Raise vehicle on hoist, and disconnect the fuel supply line at the fuel pump module.
+        Install special tool #6539 (5/169) fuel line adapter fuel pressure gauge between the
+        fuel supply line and the fuel pump module.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 400 KPa +/- 34 KPa (58 psi +/- 5 psi).
+        Is the fuel pressure within specification?
+
+                 Yes   → Visually and physically inspect the fuel supply lines between the
+                         fuel tank and the fuel rail. Repair/replace as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                 No    → Go To    3
+
+
+
+
+                                                     278
+

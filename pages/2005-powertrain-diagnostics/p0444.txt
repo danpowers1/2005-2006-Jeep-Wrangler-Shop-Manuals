@@ -1,0 +1,23 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    *TRANSMISSION SIMULATOR 8333 WILL NOT POWER UP
+
+ TEST                                       ACTION                                         APPLICABILITY
+  1     NOTE: If the Transmission Simulator Miller tool #8333 will not power up,                All
+        this is a symptom of the Transmission Relay being open, such as Limp-in,
+        and/or this also could be a indication of the Transmission Simulator not
+        installed correctly on the vehicle.
+        NOTE: Check the Simulator ground cable connection.
+        NOTE: Check all Transmission Simulator harness connections.
+        Repair these symptoms before having the Transmission Simulator Miller Tool #8333
+        repaired.
+
+                Continue
+                           Test Complete.
+
+
+
+
+                                                   436
+

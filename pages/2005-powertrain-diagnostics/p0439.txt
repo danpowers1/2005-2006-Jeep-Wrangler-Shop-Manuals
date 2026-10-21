@@ -1,0 +1,29 @@
+                                                                   TRANSMISSION - 42RLE
+
+*CHECKING PARK/NEUTRAL SWITCH OPERATION — Continued
+
+ TEST                                        ACTION                                        APPLICABILITY
+  4     Turn the ignition off.                                                                  All
+        Disconnect the PCM harness connectors.
+        Move the Gear selector through all gear positions, from Park to 1st and back.
+        While moving the gear selector through each gear, measure the resistance between
+        ground and the P/N Position Switch Sense circuit.
+        Did the resistance change from above 10.0 ohms to below 10.0 ohms?
+                 Yes   → Go To     5
+
+                 No    → Replace the Transmission Range Sensor.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+  5     If there are no possible causes remaining, view repair.                                 All
+
+                 Repair
+                          Replace and program the Powertrain Control Module per the
+                          Service Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+
+                                                      431
+

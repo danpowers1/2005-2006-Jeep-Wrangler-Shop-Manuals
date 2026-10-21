@@ -1,0 +1,58 @@
+STARTING
+
+Symptom:
+    *NO CRANK CONDITION
+
+
+
+
+                                         POSSIBLE CAUSES
+MECHANICAL CONDITION
+TRANSMISSION RANGE SENSOR
+BATTERY CIRCUIT RESISTANCE TOO HIGH
+CLUTCH PEDAL POSITION SWITCH
+(T141) FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+TRS T41 SENSE (P/N SENSE) CIRCUIT OPEN
+(T40) STARTER RELAY OUTPUT CIRCUIT OPEN
+(A2) FUSED B+ CIRCUIT OPEN
+STARTER
+STARTER RELAY
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     NOTE: Check all fuses and verify the battery is fully charged and capable of             All
+        passing a load test before continuing.
+        WARNING: MAKE SURE THE BATTERY IS DISCONNECTED, THEN WAIT
+        TWO MINUTES BEFORE PROCEEDING.
+        Turn the engine over by hand to ensure the engine is not seized.
+        Is the engine able to turn over?
+                Yes   → Go To     2
+
+                No    → Repair the mechanical condition preventing the starter motor
+                        from cranking.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  2     Turn the ignition off.                                                                   All
+        Disconnect the PCM harness connectors.
+        Move the Gear selector through all gear positions, from Park to 1st and back.
+        While moving the gear selector through each gear, measure the resistance between
+        ground and the TRS T41 Sense (P/N Sense) circuit.
+        Did the resistance change from above 10.0 ohms to below 10.0 ohms?
+
+                Yes   → Go To     3
+
+                No    → Replace the Transmission Range Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  3     Check the Battery Cables for high resistance using the service information proce-        All
+        dure.
+        Did either Battery Cable have a voltage drop greater than 0.2 of a volt?
+
+                Yes   → Repair the Battery circuit for high resistance.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                No    → Go To    4
+
+
+
+
+                                                    284
+

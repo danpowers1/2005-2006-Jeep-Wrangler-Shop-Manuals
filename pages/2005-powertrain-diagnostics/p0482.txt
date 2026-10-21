@@ -1,0 +1,64 @@
+    CONNECTOR PINOUTS
+                                                                    FUSES (PDC)
+    FUSE            AMPS                                FUSED CIRCUIT                                          FUNCTION
+     NO.
+     1     40A                   A502 12RD/LG                                            FUSED B(+)
+     2     40A                   A902 12RD                                               FUSED B(+)
+     3     40A                   A906 12RD                                               FUSED B(+)
+     4     40A                   A16 12GY (2.4L)                                         FUSED B(+)
+     5     20A                   A30 16RD/WT (A/T)                                       FUSED B(+)
+     6     40A                   A8 14RD                                                 FUSED B(+)
+     7                  -                                     -                                                   -
+     8     40A                   A107 12TN/RD (ABS)                                      FUSED B(+)
+     9     20A                   A209 18RD/YL                                            FUSED B(+)
+     9     20A                   A209 18RD (42RLE)                                       FUSED B(+)
+     9     20A                   A209 18RD/YL (NA1)                                      FUSED B(+)
+     10    40A                   A940 12RD                                               FUSED B(+)
+     11                 -                                     -                                                   -
+     12    30A                   A111 12DG/RD (ABS)                                      FUSED B(+)
+     13    40A                   A991 12RD                                               FUSED B(+)
+     14                 -                                     -                                                   -
+     15    50A                   INTERNAL                                                FUSED B(+)
+     16                 -                                     -                                                   -
+     17    20A                   A205 18RD/OR                                            FUSED B(+)
+C    18    20A                   A43 18RD/DG                                             FUSED B(+)
+O    18    20A                   A43 18RD/DG                                             FUSED B(+)
+N    19    20A                   A39 18RD/DG (OPTION 1)                                  FUSED B(+)
+N    19    20A                   A39 16RD/DG (OPTION 2)                                  FUSED B(+)
+E    20    15A                   F306 16DB/PK                                            FUSED B(+)
+C    21    10A                   A926 20RD                                               FUSED B(+)
+T    22    25A                   A1 16RD                                                 FUSED B(+)
+O    23    20A                   A930 18RD                                               FUSED B(+)
+R    24    20A                   INTERNAL (OFF-ROAD PACKAGE)                             FUSED B(+)
+     25                 -                                     -                                                   -
+P    26    10A                   M21 20YL/BR                                             FUSED B(+)
+I    27    20A                   A701 18BR/RD                                            FUSED B(+)
+N    28    10A                   Y3 18LG                                                 FUSED SENSOR GROUND
+O    28    10A                   K900 20DB/DG                                            SENSOR GROUND
+U    28    10A                   Y3 20LG                                                 FUSED SENSOR GROUND
+T
+S
+                                                      A/C COMPRESSOR CLUTCH RELAY (IN PDC)
+    CAV            CIRCUIT                                                        FUNCTION
+    A6     F960 20PK/LG          FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    A6     F960 20PK/LG (2.4L)   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    A7                  -                                                            -
+    A8     C13 20LB/OR           A/C CLUTCH RELAY CONTROL
+    A9     C3 20DB/YL            A/C CLUTCH RELAY OUTPUT
+    A10    A926 20RD             FUSED B(+)
+
+
+                                                      AUTOMATIC SHUT DOWN RELAY (IN PDC)
+    CAV            CIRCUIT                                                        FUNCTION
+    A11    K342 20BR/WT          ASD RELAY CONTROL
+    A12                 -                                                            -
+    A13    F1 20PK/WT            FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    A13    F1 20PK/WT            FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    A14    K334 18BR             ASD RELAY OUTPUT
+    A15    A209 18RD/YL          FUSED B(+)
+
+
+
+
+                                                                        474
+

@@ -1,0 +1,63 @@
+                    CONNECTOR PINOUTS
+  C104 (RHD) - BLACK (HEADLAMP AND DASH SIDE)
+            CAV              CIRCUIT
+             1    A209 18RD
+             2    F26 16PK/OR
+             3    A109 18OR/RD
+             4    K334 18BR
+             5                  -
+             6    T750 14YL/GY
+             7    G93 20VT/LB
+             8    N4 20DB/WT
+             9    L1 20WT/LG
+             10   F102 20PK/DB
+
+
+      C181 (2.4L) - BLACK (ENGINE INTAKE SIDE)
+            CAV              CIRCUIT
+             1    K334 18OR/DG
+             2    C3 18DB/YL
+             3    Z987 18BK/GR
+             4    K11 18WT/DB
+             5    K12 18TN
+             6    K13 18YL/WT
+             7    K14 18LB/BR                    C
+             8    K44 18TN/YL                    O
+             9    K900 18BK/LB                   N
+             10                 -                N
+                                                 E
+         C181 (2.4L) - BLACK (ENGINE SIDE)       C
+            CAV              CIRCUIT             T
+             1    K334 18BR                      O
+             2    C3 20DB/BK                     R
+             3    Z987 20BK
+             4    K11 18BR/YL                    P
+             5    K12 18BR/DB                    I
+             6    K13 18BR/LB                    N
+             7    K14 18BR/TN                    O
+             8    K44 18DB/GY                    U
+             9    K900 18DB/DG                   T
+             10                 -                S
+
+      C182 (2.4L) - BLACK (ENGINE INTAKE SIDE)
+            CAV              CIRCUIT
+             1                  -
+             2                  -
+             3    K61 18YL/BK
+             4    K961 18GY/RD
+             5    K21 18BK/RD
+             6    K2 18TN/BK
+             7    K1 18DG/RD
+             8    K22 18OR/DB
+             9    F856 18YL/PK
+             10   G6 18GY/YL
+             11                 -
+             12   F855 18OR
+             13                 -
+             14                 -
+
+
+
+
+463
+

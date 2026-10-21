@@ -1,0 +1,41 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P1603-PCM INTERNAL DUAL-PORT RAM COMMUNICATION
+    P1604-PCM INTERNAL DUAL-PORT RAM READ/WRITE INTEG-
+    RITY FAILURE
+    P1607-PCM INTERNAL SHUTDOWN TIMER RATIONALITY
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P1603-PCM INTERNAL DUAL-
+              PORT RAM COMMUNICATION.
+
+
+When Monitored and Set Condition:
+
+      P1603-PCM INTERNAL DUAL-PORT RAM COMMUNICATION
+      When Monitored:    Ignition off, on, and run/start.
+      Set Condition: Internal PCM failure detected. Intermittent open on PCM Connector 1,
+      pin 12, (F11) Fused Ignition Switch Output circuit.
+
+      P1604-PCM INTERNAL DUAL-PORT RAM READ/WRITE INTEGRITY FAILURE
+      When Monitored:    Ignition off, on, and run/start.
+      Set Condition: Internal PCM failure detected. Intermittent open on PCM Connector 1,
+      pin 12, (F11) Fused Ignition Switch Output circuit.
+
+      P1607-PCM INTERNAL SHUTDOWN TIMER RATIONALITY
+      When Monitored:    Ignition on.
+      Set Condition:   Internal PCM failure detected.
+
+
+
+                                    POSSIBLE CAUSES
+PCM FUSED IGNITION SWITCH OUTPUT CIRCUIT
+PCM
+
+
+
+
+                                              252
+

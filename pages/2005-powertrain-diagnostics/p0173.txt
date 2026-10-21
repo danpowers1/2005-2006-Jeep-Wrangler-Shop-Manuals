@@ -1,0 +1,57 @@
+                                                                              DRIVEABILITY - NGC
+
+P0457-LOOSE FUEL FILL CAP — Continued
+
+ TEST                                         ACTION                                              APPLICABILITY
+  5     NOTE: A thorough visual inspection of the Evap system hoses, tubes, and                        All
+        connections may save time in your diagnosis. Look for any physical damage
+        or signs of wetness at connections. The strong smell of fuel vapors may aid
+        diagnosis also.
+        To continue testing, you will need Miller Tool #8404 Evaporative Emissions Leak
+        Detector (EELD).
+        Remove the Air supply hose from the service port.
+        Connect the SMOKE supply tip (black hose) to the service port.
+        Set the smoke/air control switch to SMOKE.
+        NOTE: The flow meter indicator ball will not move in the smoke mode.
+        Press the remote smoke/air start button.
+        NOTE: Make sure that smoke has filled the EVAP system by continuing to
+        press the remote smoke/air start button, remove the vehicle fuel cap, and
+        wait for the smoke to exit. Once smoke is indicated reinstall the fuel cap.
+        NOTE: For optimal performance, introduce smoke into the system for an
+        additional 60 seconds; continue introducing smoke at 15 second intervals,
+        as necessary.
+        While still holding the remote smoke/air start button, use the white light (#8404-
+        CLL) to follow the EVAP system path, and look for the source of the leak indicated by
+        exiting smoke.
+        If a leak is concealed from view (i.e., top of fuel tank), release the remote smoke/air
+        start button, and use the ultraviolet (UV) black light #8404-UVL and the yellow
+        goggles 8404-20 to look for residual traces of dye that is left behind by the smoke.
+        The exiting smoke deposits a residual fluid that is either bright green or bright
+        yellow in color when viewed with a UV light.
+        NOTE: Carefully inspect the vent side of the EVAP Canister. Due to the
+        filtering system in the canister the smoke may not be as thick. Introducing
+        smoke into the filtered side of the canister may assist in locating the leak.
+        Was a leak found?
+                 Yes   → Repair or replace the leaking component as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To     6
+
+  6     NOTE: After disconnecting the Evap Purge Solenoid vacuum connections,                          All
+        inspect the lines and solenoid for any signs of contamination from the EVAP
+        Canister. This may indicate a faulty vent valve. Replace/repair as necessary.
+        Turn the ignition off.
+        Disconnect the vacuum hoses at the Evap Purge Solenoid.
+        Using a hand vacuum pump, apply 10 in Hg to the 9CAN9 of the EVAP Purge
+        Solenoid.
+        NOTE: Monitor the vacuum gauge for at least 15 seconds.
+        Does the EVAP Purge Solenoid hold vacuum?
+
+                 Yes   → Go To     7
+                 No    → Replace the Evap Purge Solenoid.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+
+
+
+                                                       165
+

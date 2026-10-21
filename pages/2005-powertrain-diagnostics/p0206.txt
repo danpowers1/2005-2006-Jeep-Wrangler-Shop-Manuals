@@ -1,0 +1,55 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0522-OIL PRESSURE VOLTAGE LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0522-OIL PRESSURE VOLTAGE LOW
+        When Monitored:        With the ignition on and battery voltage above 10.4 volts.
+        Set Condition: The switch reads closed at voltage below 0.942 of a volt. The NGC must
+        see a change in switch state at engine start. One trip fault.
+
+
+
+                                            POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+OIL PRESSURE SWITCH
+(G6) OIL PRESSURE SIGNAL CIRCUIT OPEN
+(G6) OIL PRESSURE SIGNAL CIRCUIT SHORTED TO VOLTAGE
+(G6) OIL PRESSURE SIGNAL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                         ACTION                                            APPLICABILITY
+   1      Ignition on, engine not running.                                                           All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+   2      Turn the ignition off.                                                                     All
+          Disconnect the Oil Pressure Switch harness connector.
+          Ignition on, engine not running.
+          Connect a jumper wire to the (G6) Oil Pressure Signal circuit in the Sensor harness
+          connector.
+          With the DRBIIIt monitor the Oil Pressure Switch state.
+          Touch the other end of the jumper wire to Ground at the Oil Pressure Switch harness
+          connector several times.
+          Did the Oil Pressure Switch state change from High to Low?
+
+                   Yes   → Replace the Oil Pressure Switch.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                   No    → Go To    3
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                       198
+

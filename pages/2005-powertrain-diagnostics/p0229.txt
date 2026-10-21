@@ -1,0 +1,59 @@
+                                                                             DRIVEABILITY - NGC
+
+P0582-SPEED CONTROL VACUUM SOLENOID CIRCUIT — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  3     Turn the ignition off.                                                                       All
+        Disconnect the Brake Switch harness connector.
+        Turn the ignition on.
+        Using the DRBIIIt, actuate the S/C Vacuum Solenoid.
+        Using a test light connected to ground, probe the (V32) S/C Supply circuit in the
+        Brake Switch harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     4
+
+                 No    → Go To     8
+
+  4     Turn the ignition off.                                                                       All
+        Disconnect the S/C Servo harness connector.
+        Measure the resistance of the (Z901) S/C Ground circuit at the S/C Servo harness
+        connector to ground.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     5
+                 No    → Repair the open in the (Z901) S/C Ground circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  5     Turn the ignition off.                                                                       All
+        Disconnect the Speed Control Servo harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the Speed Control Vacuum Solenoid.
+        Using a 12-volt test light connected to battery voltage, probe the S/C Vacuum Control
+        circuit.
+        Does the test light illuminate brightly and flash on and off?
+                 Yes   → Replace the Speed Control Servo.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                 No    → Go To     6
+
+  6     Turn the ignition off.                                                                       All
+        Disconnect the S/C Servo harness connector.
+        Disconnect the C3 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (V36) S/C Vacuum Sol Control circuit from the Speed
+        Control Servo harness connector to the appropriate terminal of special tool # 8815.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To     7
+
+                 No    → Repair the open/high resistance in the (V36) S/C Vacuum Sol
+                         Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+
+
+
+                                                      221
+

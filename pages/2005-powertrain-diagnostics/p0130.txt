@@ -1,0 +1,54 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0315-NO CRANK SENSOR LEARNED
+
+
+
+When Monitored and Set Condition:
+
+        P0315-NO CRANK SENSOR LEARNED
+        When Monitored: Under closed throttle decel and A/C off. ECT above 75°C (167°F).
+        Engine start time is greater than 50 seconds.
+        Set Condition: One of the CKP sensor target windows has more than 2.86% variance from
+        the reference. One Trip Fault.
+
+
+
+                                                POSSIBLE CAUSES
+INTERMITTENT CONDITION
+TONE WHEEL/PULSE RING INSPECTION
+CKP WIRE HARNESS INSPECTION
+CRANKSHAFT POSITION SENSOR
+
+ TEST                                             ACTION                                                APPLICABILITY
+   1      NOTE: Check for any TSBs that may apply to this symptom.                                           All
+          Ignition on, engine not running.
+          With the DRBIIIt, clear DTCs, PCM battery disconnect to reset the PCM.
+          Start the engine.
+          If the MIL has not yet illuminated, test drive the vehicle to try to get the code to reset.
+          Does the code reset while cranking or during the test drive?
+                    Yes   → Go To      2
+
+                    No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                            tic Procedure).
+                            Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                             All
+          Visually inspect the CKP wire harness. Look for any chafed, pierced, pinched, or
+          partially broken wires.
+          Visually inspect the CKP wire harness connectors. Look for broken, bent, pushed out,
+          or corroded terminals.
+          Make sure the Crankshaft Position Sensor is properly installed and the mounting
+          bolt(s) is properly torqued to specification.
+          Were any of the above conditions present?
+
+                    Yes   → Repair as necessary
+                            Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                    No    → Go To      3
+
+
+
+
+                                                           122
+

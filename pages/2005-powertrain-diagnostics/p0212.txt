@@ -1,0 +1,54 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0551-POWER STEERING SWITCH PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0551-POWER STEERING SWITCH PERFORMANCE
+        When Monitored:       With the ignition key on and engine running.
+        Set Condition: With the vehicle above 40 mph for over 30 seconds, the power steering
+        pressure switch remains open.
+
+
+
+                                            POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+POWER STEERING PRESSURE SWITCH
+(K66) P/S SWITCH SIGNAL CIRCUIT OPEN
+(K66) P/S SWITCH SIGNAL CIRCUIT SHORTED TO GROUND
+(Z987) GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                          All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+   2      Turn the ignition off.                                                                    All
+          Disconnect the Power Steering Pressure Switch harness connector.
+          Ignition on, engine not running.
+          Connect a jumper wire to the (K66) P/S Switch Signal circuit in harness connector.
+          Using the DRBIIIt, monitor the Power Steering Pressure Switch.
+          Touch the jumper wire to the (Z987) Ground circuit in the Power Steering Pressure
+          Switch harness connector several times.
+          Did the Power Steering Pressure Switch status change from High to Low?
+
+                   Yes   → Replace the Power Steering Pressure Switch.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                   No    → Go To    3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      204
+

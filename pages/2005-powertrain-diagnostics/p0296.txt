@@ -1,0 +1,60 @@
+STARTING
+
+*NO RESPONSE FROM PCM WITH A NO START CONDITION — Continued
+
+ TEST                                        ACTION                                         APPLICABILITY
+  4     Connect the PCM harness connectors.                                                      All
+        Disconnect the TP Sensor harness connector.
+        Ignition on, engine not running.
+        Measure the voltage on the (K7) 5-volt Supply circuit.
+        Is the voltage between 4.5 and 5.2 volts?
+                 Yes   → Go To    5
+
+                 No    → Go To    6
+
+  5     Turn the ignition off.                                                                   All
+        Disconnect the MAP Sensor harness connector.
+        NOTE: Connect the TP Sensor harness connector.
+        Ignition on, engine not running.
+        Measure the voltage on the (K7) 5-volt Supply circuit in the MAP Sensor harness
+        connector.
+        Is the voltage between 4.5 and 5.2 volts?
+                 Yes   → If communication is available with a PCM on a like vehicle,
+                         replace and program the Powertrain Control Module in accor-
+                         dance with Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Replace the Throttle Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  6     Measure the voltage on the (K7) 5-volt Supply circuit.                                   All
+        Disconnect all the sensors that use a 5-volt Supply circuit.
+        Did the voltage return to 4.5 to 5.2 volts when disconnecting any of the sensors.
+
+                 Yes   → Replace the sensor that is pulling down the 5-volt supply.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Go To    7
+
+  7     Turn the ignition off.                                                                   All
+        Disconnect PCM harness connectors.
+        Measure the resistance between ground and the (K7) 5-volt Supply circuit with all
+        the Sensor harness connectors disconnected.
+        Is the resistance below 100 ohms?
+
+                 Yes   → Repair the short to ground in the (K7) 5-volt Supply circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Go To    8
+
+  8     Disconnect all sensors that use the (K6) 5-volt Supply.                                  All
+        Measure the resistance between ground and the (K6) 5-volt Supply circuit at the
+        PCM harness connector.
+        Is the resistance below 100 ohms?
+
+                 Yes   → Repair the short to ground in the (K6) 5-volt Supply circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Go To    9
+
+
+
+
+                                                     288
+

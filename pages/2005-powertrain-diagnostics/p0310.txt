@@ -1,0 +1,66 @@
+TRANSMISSION - 42RLE
+
+P0562-LOW BATTERY VOLTAGE — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  6     Turn the ignition off to the lock position.                                                All
+        Disconnect the TCM harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector in the PDC.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, check both Transmission Control
+        Relay Output circuits in the TCM harness connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    7
+
+                 No    → Repair the Transmission Control Relay Output circuit for an open
+                         or high resistance.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  7     Turn the ignition off to the lock position.                                                All
+        Install a substitute Relay in place of the Transmission Control Relay.
+        Start the engine.
+        Using a voltmeter, measure the battery voltage.
+        With the DRBIIIt, monitor the Transmission Switched Battery Voltage.
+        Compare the DRBIIIt Transmission Switched Battery voltage to the actual battery
+        voltage.
+        Is the DRBIIIt voltage within 2.0 volts of the battery voltage?
+                 Yes   → Replace the Transmission Control Relay.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    8
+
+  8     Using the schematics as a guide, inspect the wiring and connectors. Repair as              All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  9     The conditions necessary to set this DTC are not present at this time.                     All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                     302
+

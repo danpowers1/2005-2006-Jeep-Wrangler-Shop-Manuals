@@ -1,0 +1,64 @@
+                                                                                            STARTING
+
+*ENGINE CRANKS DOES NOT START — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  3     Ignition on, engine not running.                                                        All
+        With the DRBIIIt, under DTCs & Related Functions, read the Secondary Indicators
+        while cranking the engine.
+        Are there any Secondary Indicators present while cranking the engine?
+
+                Yes   → Refer to symptom list and perform tests related to the secondary
+                        indicator that is reported by the DRBIIIt.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    4
+
+  4     With the DRBIIIt in Sensors, check the Current CKP Count while cranking the             All
+        engine.
+        Does the CKP Counter change while cranking the engine?
+
+                Yes   → Go To    5
+
+                No    → Refer to Driveability Symptom P0320-NO CRANK REFERENCE
+                        SIGNAL AT PCM.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     With the DRBIIIt in Sensors, check the Current CMP Count while cranking the             All
+        engine.
+        Does the Current CMP Count change while cranking the engine?
+
+                Yes   → Go To    6
+
+                No    → Refer to Driveability Symptom P0340-NO CAM SIGNAL AT PCM
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     Check for any of the following conditions/mechanical problems.                          All
+        ENGINE VALVE TIMING - must be within specifications
+        ENGINE COMPRESSION - must be within specifications
+        ENGINE EXHAUST SYSTEM - must be free of any restrictions or leaks.
+        FUEL - must be free of contamination
+        FUEL INJECTOR - plugged or restricted injector; control wire not connected to
+        correct injector
+        Are there any engine mechanical problems?
+                Yes   → Repair as necessary.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    7
+
+  7     Turn the ignition off.                                                                  All
+        Remove the ASD relay from the PDC.
+        Disconnect the PCM harness connectors.
+        Verify the ASD Relay is getting Fused B+ voltage before continuing.
+        Measure the resistance of the (A142) ASD Relay output circuit from the ASD Relay
+        connector to the PCM harness connector, Ignition coil, and the fuel injectors.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To    8
+                No    → Repair the open ASD Relay output circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                   281
+

@@ -1,0 +1,43 @@
+DRIVEABILITY - NGC
+
+P0457-LOOSE FUEL FILL CAP — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  7     Reconnect all vacuum hoses.                                                                All
+        Start the engine.
+        Allow the engine to idle.
+        Using the DRBIIIt, perform the NVLD FORCED MONITOR TEST.
+        Monitor the NVLD Switch.
+        As the test runs, the NVLD Switch should go from an OPEN state to
+        CLOSED. After the vacuum is released form the EVAP system the Switch
+        state will return to OPEN.
+        Did the NVLD Switch operate as described above?
+
+                 Yes   → Go To    8
+                 No    → Replace the NVLD Assembly.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+  8     WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A                                   All
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Review the DRBIIIt Freeze Frame information. If possible, try to duplicate the
+        conditions under which the DTC was set.
+        Refer to any Technical Service Bulletins (TSB) that may apply.
+        NOTE: Make Ensure the gas cap meets OEM specifications.
+        Perform a visual and physical inspection of the entire Evaporative Emission system.
+        Check for the following conditions:
+        - Holes or cracks
+        - Loose seal points
+        - Evidence of damaged components
+        - Incorrect routing of hoses and tubes
+        - Fuel Cap gasket seal
+        Were any of the above conditions found?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Test Complete.
+
+
+
+
+                                                     166
+

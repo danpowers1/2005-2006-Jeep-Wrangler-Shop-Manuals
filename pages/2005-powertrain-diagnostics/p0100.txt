@@ -1,0 +1,59 @@
+DRIVEABILITY - NGC
+
+P0131-O2 SENSOR 1/1 CIRCUIT LOW VOLTAGE — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  1     Start the engine.                                                                       All
+        Allow the engine to reach normal operating temperature.
+        NOTE: When diagnosing this DTC, diagnose the O2 Sensor that set the DTC.
+        With the DRBIIIt, read the O2 Sensor voltage.
+        Is the voltage below 2.52 volts?
+                Yes   → Go To    2
+
+                No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                        tic Procedure).
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Turn the ignition off.                                                                  All
+        Disconnect the O2 Sensor harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt, monitor the O2 Sensor voltage.
+        Is the O2 Sensor voltage above 4.8 volts?
+                Yes   → Go To    3
+                No    → Go To    4
+
+  3     Measure the voltage on the O2 Return circuit at the O2 Sensor harness connector.        All
+        Is the voltage at 2.5 volts?
+
+                Yes   → Replace the O2 Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    4
+
+  4     Turn the ignition off.                                                                  All
+        Disconnect the PCM harness connectors.
+        Measure the resistance between ground and the O2 Return circuit at the O2 Sensor
+        harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the O2 Return circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    5
+
+  5     NOTE: Before continuing, check the PCM harness connector terminals for                  All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    92
+

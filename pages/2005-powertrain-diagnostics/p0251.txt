@@ -1,0 +1,31 @@
+                                                                         DRIVEABILITY - NGC
+
+P0688-ASD RELAY SENSE CIRCUIT LOW — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  7     Measure the resistance between ground and the (K334) ASD Relay Output circuit at        All
+        the Relay connection.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the (K334) ASD Relay Output
+                        circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    8
+
+  8     NOTE: Before continuing, check the PCM harness connector terminals for                  All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                   243
+

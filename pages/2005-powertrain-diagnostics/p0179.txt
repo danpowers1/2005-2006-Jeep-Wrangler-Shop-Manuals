@@ -1,0 +1,52 @@
+                                                                               DRIVEABILITY - NGC
+
+Symptom:
+    P0463-FUEL LEVEL SENSOR NO.1 HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0463-FUEL LEVEL SENSOR NO.1 HIGH
+        When Monitored:        Ignition on and battery voltage above 10.4 volts.
+        Set Condition: The fuel level sensor signal voltage at the PCM goes above 4.9 volts for
+        more than 90 seconds.
+
+
+
+                                             POSSIBLE CAUSES
+FUEL LEVEL SENSOR VOLTAGE ABOVE 4.9 VOLTS
+FUEL LEVEL SENSOR
+(N4) FUEL LEVEL SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(N4) FUEL LEVEL SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                          ACTION                                             APPLICABILITY
+   1      Ignition on, engine not running.                                                             All
+          With the DRBIIIt, read the Fuel Level Sensor voltage.
+          Is the Fuel Level Sensor voltage above 4.9 volts?
+                   Yes   → Go To     2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                       All
+          Disconnect the Fuel Pump Module electrical harness connector.
+          Connect a jumper wire between the (N4) Fuel Level Signal circuit and the (K900)
+          Sensor ground circuit at the Fuel Pump Module harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read the Fuel Level Sensor voltage.
+          Did the Fuel Level Sensor voltage change from above 4.8 volts to below 0.4 of a volt?
+                   Yes   → Replace the Fuel Level Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To     3
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                        171
+

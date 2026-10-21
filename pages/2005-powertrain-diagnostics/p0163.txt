@@ -1,0 +1,57 @@
+                                                                       DRIVEABILITY - NGC
+
+Symptom:
+    P0453-NVLD PRESSURE SWITCH STUCK OPEN
+
+
+
+When Monitored and Set Condition:
+
+        P0453-NVLD PRESSURE SWITCH STUCK OPEN
+        When Monitored:      Engine running.
+        Set Condition: If the PCM does not see the NVLD switch close during test an error is
+        detected. One Trip Fault.
+
+
+
+                                         POSSIBLE CAUSES
+NVLD SWITCH OPERATION
+NVLD ASSEMBLY
+(K107) NVLD SWITCH SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K107) NVLD SWITCH SIGNAL CIRCUIT OPEN
+(K107) NVLD SWITCH SIGNAL CIRCUIT SHORTED TO THE (K106) SOLENOID CONTROL CIR-
+CUIT
+(Z913) GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                      ACTION                                       APPLICABILITY
+   1      Check for any related TSBs before continuing.                                      All
+          Start the engine.
+          Allow the engine to idle.
+          Using the DRBIIIt, perform the NVLD FORCED MONITOR TEST.
+          Monitor the NVLD Switch state.
+          NOTE: As the test runs, the NVLD Switch should go from an OPEN state to
+          a CLOSED state and then return to OPEN when the test is complete.
+          Did the NVLD Switch operate as described above?
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To   2
+
+   2      Turn the ignition off.                                                             All
+          Disconnect the NVLD electrical harness connector.
+          Ignition on, engine not running.
+          Monitor the NVLD Switch state on the DRBIIIt.
+          Connect a jumper wire between the (K107) NVLD Switch Signal circuit and the
+          (Z913) Ground circuit in the NVLD harness connector.
+          Does the Switch change from OPEN to CLOSED?
+
+                  Yes   → Replace the NVLD Assembly.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To   3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+                                                   155
+

@@ -1,0 +1,55 @@
+                                                                              DRIVEABILITY - NGC
+
+Symptom:
+    P0443-EVAP PURGE SOLENOID CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0443-EVAP PURGE SOLENOID CIRCUIT
+        When Monitored:        The ignition on or engine running. Battery voltage greater than 10
+        volts.
+        Set Condition: The PCM will set a trouble code if the actual state of the solenoid does not
+        match the intended state.
+
+
+
+                                             POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+EVAP PURGE SOLENOID
+(K52) EVAP PURGE SOL CONTROL CIRCUIT OPEN
+(K52) EVAP PURGE SOL CONTROL CIRCUIT SHORTED TO GROUND
+(K70) EVAP PURGE SOL SIGNAL CIRCUIT OPEN
+(K70) EVAP PURGE SOL SIGNAL CIRCUIT SHORTED TO GROUND
+(K70) EVAP PURGE SOL SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+PCM
+
+ TEST                                          ACTION                                            APPLICABILITY
+   1      Check for any related TSBs before continuing.                                               All
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+
+                   Yes   → Go To    2
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                      All
+          Disconnect the EVAP Purge Solenoid harness connector.
+          Ignition on, engine not running.
+          Using a 12-volt test light, jump across the (K52) Evap Purge Sol Control circuit and
+          (K70) Evap Purge Sol Signal circuit in the EVAP Purge Solenoid harness connector.
+          With the DRBIIIt, actuate the EVAP Purge Solenoid.
+          Does the test light flash on and off?
+                   Yes   → Replace the EVAP Purge Solenoid.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To    3
+
+
+
+
+                                                       149
+

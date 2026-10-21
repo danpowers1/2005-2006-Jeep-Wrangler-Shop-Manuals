@@ -1,0 +1,22 @@
+STARTING
+
+*ENGINE CRANKS DOES NOT START — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  8     Verify that the Fuel tank is not empty before continuing.                                  All
+        Follow the diagnostics for Checking Fuel Delivery under the Driveability section of
+        this manual.
+        Was the No Start condition solved after following the above diagnostic procedure?
+
+                 Yes   → Test Complete.
+
+                 No    → Check for contamination/water in the fuel. Ensure the fuel being
+                         used in this vehicle meets manufactures Fuel Requirement, refer
+                         to the service manual.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     282
+

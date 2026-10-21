@@ -1,0 +1,50 @@
+                                                                  DRIVEABILITY - NGC
+
+Symptom List:
+    P0171-FUEL SYSTEM 1/1 LEAN
+    P0174-FUEL SYSTEM 2/1 LEAN
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P0171-FUEL SYSTEM 1/1 LEAN.
+
+
+When Monitored and Set Condition:
+
+      P0171-FUEL SYSTEM 1/1 LEAN
+      When Monitored: With the engine running in closed loop mode, the ambient/battery
+      temperature above 20 deg. F and altitude below 8500 ft.
+      Set Condition: If the PCM multiplies short term compensation by long term adaptive and
+      a certain percentage is exceeded for two trips, a freeze frame is stored, the MIL illuminates
+      and a trouble code is stored.
+
+      P0174-FUEL SYSTEM 2/1 LEAN
+      When Monitored: With the engine running in closed loop mode, the ambient/battery
+      temperature above 20 deg. F and altitude below 8500 ft.
+      Set Condition: If the PCM multiplies short term compensation by long term adaptive and
+      a certain percentage is exceeded for two trips, a freeze frame is stored, the MIL illuminates
+      and a trouble code is stored.
+
+
+
+                                      POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+RESTRICTED FUEL SUPPLY LINE
+FUEL PUMP INLET STRAINER PLUGGED
+FUEL PUMP MODULE
+O2 SENSOR
+O2 SIGNAL CIRCUIT
+O2 RETURN CIRCUIT
+O2 SENSOR HEATER OPERATION
+THROTTLE POSITION SENSOR VOLTAGE GREATER THAN 0.92 VOLTS WITH THROTTLE
+CLOSED
+THROTTLE POSITION SENSOR SWEEP
+MAP SENSOR
+ECT SENSOR
+ENGINE MECHANICAL PROBLEM
+FUEL FILTER/PRESSURE REGULATOR (HIGH)
+PCM
+
+
+                                               101
+

@@ -1,0 +1,20 @@
+                                                                       DRIVEABILITY - NGC
+
+P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELATION -
+VACUUM LEAK DETECTED — Continued
+ TEST                                     ACTION                                         APPLICABILITY
+  17    NOTE: Before continuing, check the PCM harness connector terminals for                All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                   49
+

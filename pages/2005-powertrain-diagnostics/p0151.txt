@@ -1,0 +1,61 @@
+                                                                           DRIVEABILITY - NGC
+
+P0440-GENERAL EVAP SYSTEM FAILURE — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  2     Perform a visual and physical inspection of the entire Evaporative Emission system.        All
+        Check for the following conditions:
+        - Hoses disconnected or left off
+        - Holes or cracks
+        - Loose seal points
+        - Evidence of damaged components
+        - Incorrect routing of hoses and tubes
+        - Fuel Cap left off or bad gasket seal
+        Were any of the above conditions found?
+
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+                 No    → Go To    3
+
+  3     Turn the ignition off.                                                                     All
+        Carefully inspect the Evap Purge Solenoid vacuum supply hose for proper routing.
+        Check for a pinched or plugged hose from the throttle body to the Purge Solenoid.
+        Make sure the vacuum port at the throttle body is free from any blockage.
+        Were any problems found?
+
+                 Yes   → Repair the vacuum supply, hose/tube as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To    4
+
+  4     Disconnect the vacuum supply hoses from the EVAP Purge Solenoid.                           All
+        Using a hand vacuum pump, apply 10 in Hg to the 9CAN9 side of the EVAP Purge
+        Solenoid.
+        Ignition on, engine not running.
+        Observe the vacuum gauge.
+        With the DRBIIIt, actuate the EVAP Purge Solenoid .
+        Does the vacuum drop when the solenoid is actuated?
+
+                 Yes   → Go To    5
+                 No    → Replace the Evap Purge Solenoid.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+  5     Connect the previously disconnected vacuum hose.                                           All
+        Start the engine.
+        Allow the engine to idle.
+        Using the DRBIIIt, perform the NVLD FORCED MONITOR TEST.
+        Monitor the NVLD Switch state.
+        NOTE: As the test runs, the NVLD Switch should go from an OPEN state to
+        a CLOSED state and then return to OPEN when the test is complete.
+        Did the NVLD Switch operate as described above?
+                 Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+                 No    → Go To    6
+
+
+
+
+                                                     143
+

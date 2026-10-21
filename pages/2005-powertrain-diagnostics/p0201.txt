@@ -1,0 +1,51 @@
+                                                                          DRIVEABILITY - NGC
+
+P0513-INVALID SKIM KEY — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  5     With the DRBIIIt, display the VIN that is programmed in the PCM.                          All
+        Was the correct VIN programmed into the PCM?
+                 Yes   → Go To    6
+
+                 No    → Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform SKIS VERIFICATION.
+
+  6     Turn the ignition off.                                                                    All
+        Replace and program the Sentry Key Immobilizer Module per Service Information.
+        Ignition on, engine not running.
+        With the DRBIIIt, erase all SKIM and PCM DTCs.
+        Attempt to start and idle the engine.
+        With the DRBIIIt, read the PCM DTCs.
+        Does the DRBIIIt display this code?
+
+                 Yes   → NOTE: Before continuing, check the PCM harness connector
+                         termnals for corrosion, damage, or terminal push out. Repair as
+                         necessary. Replace and program the Powertrain Control Module
+                         per Service Information.
+                         Perform SKIS VERIFICATION.
+                 No    → Test Complete.
+
+  7     NOTE: You must obtain the SKIM pin number.                                                All
+        NOTE: This DTC could have been set if the SKIM harness connector was
+        disconnected, or if the SKIM was replaced recently.
+        NOTE: All keys that the customer uses for this vehicle must be tested to
+        verify they are operating properly.
+        Verify the correct VIN is programmed into the PCM and SKIM.
+        Turn the ignition off.
+        With the next customer key turn the ignition key on and crank the engine to start.
+        With the DRBIIIt, read the PCM DTCs. Look for P0513.
+        Is the Good Trip Counter for DTC P0513 displayed and equal to 0?
+                 Yes   → Replace the Ignition Key.
+                         Perform SKIS VERIFICATION.
+
+                 No    → Test Complete.
+
+        NOTE: If this DTC cannot be reset, it could have been an actual theft
+        attempt.
+
+
+
+
+                                                    193
+

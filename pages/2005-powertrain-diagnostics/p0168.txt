@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0456-EVAP SYSTEM SMALL LEAK
+
+
+
+When Monitored and Set Condition:
+
+        P0456-EVAP SYSTEM SMALL LEAK
+        When Monitored: Ignition off. Fuel Level less than 88%. Ambient Temperature between
+        4°C to 43°C (39°F to 109°F)
+        Set Condition: Due to temperature changes a vacuum is created in the fuel tank and
+        EVAP system. With the EVAP system sealed, the PCM monitors the NVLD switch. If the
+        NVLD switch does not close within a calibrated amount of time an error is detected.
+
+
+
+                                            POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+INTERMITTENT CONDITION
+VISUAL AND PHYSICAL INSPECTION
+EVAPORATIVE EMISSION LEAK DETECTION
+EVAP PURGE SOLENOID LEAKS/STUCK OPEN
+
+ TEST                                         ACTION                                            APPLICABILITY
+   1      Check for any related TSBs before continuing.                                              All
+          NOTE: The difference in ambient temperature, outside temp VS shop temp,
+          may conceal a leak, it is best to perform this test after the vehicle’s
+          temperature has stabilized in the work area.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+   2      Perform a visual and physical inspection of the entire Evaporative Emission system.        All
+          Check for the following conditions:
+          - Holes or cracks
+          - Loose seal points
+          - Evidence of damaged components
+          - Incorrect routing of hoses and tubes
+          - Fuel Cap gasket seal
+          Were any of the above conditions found?
+                   Yes   → Repair as necessary.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                   No    → Go To    3
+
+
+
+
+                                                       160
+

@@ -1,0 +1,56 @@
+                                  CONNECTOR PINOUTS
+
+
+                       FUEL INJECTOR NO. 3 (2.4L) - 2 WAY
+CAV          CIRCUIT                                  FUNCTION
+ 1    F142 16PK/GY           ASD RELAY OUTPUT
+ 2    K13 16BR/LB            INJECTOR CONTROL NO. 3
+
+
+
+
+                       FUEL INJECTOR NO. 3 (4.0L) - 2 WAY
+CAV          CIRCUIT                                  FUNCTION
+ 1    K334 18BR              ASD RELAY OUTPUT
+ 2    K13 18BR/LB            INJECTOR CONTROL NO. 3
+
+
+
+
+                                                                 C
+                                                                 O
+                                                                 N
+                       FUEL INJECTOR NO. 4 (2.4L) - 2 WAY        N
+CAV          CIRCUIT                                  FUNCTION
+                                                                 E
+ 1    F142 16PK/GY           ASD RELAY OUTPUT
+                                                                 C
+ 2    K14 16BR/TN            INJECTOR CONTROL NO. 4
+                                                                 T
+                                                                 O
+                                                                 R
+
+                                                                 P
+                                                                 I
+                                                                 N
+                                                                 O
+                       FUEL INJECTOR NO. 4 (4.0L) - 2 WAY        U
+CAV          CIRCUIT                                  FUNCTION
+                                                                 T
+ 1    K334 18BR              ASD RELAY OUTPUT
+                                                                 S
+ 2    K14 18BR/TN            INJECTOR CONTROL NO. 4
+
+
+
+
+                       FUEL INJECTOR NO. 5 (4.0L) - 2 WAY
+CAV          CIRCUIT                                  FUNCTION
+ 1    K334 18BR              ASD RELAY OUTPUT
+ 2    K38 18BR/OR            INJECTOR CONTROL NO. 5
+
+
+
+
+             467
+

@@ -1,0 +1,55 @@
+                                                                       DRIVEABILITY - NGC
+
+Symptom:
+    P0441-EVAP PURGE SYSTEM PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0441-EVAP PURGE SYSTEM PERFORMANCE
+        When Monitored:      Cold start test. Engine Running. Small Leak Test Passed.
+        Set Condition: The PCM activates the EVAP Purge solenoid gradually increasing to
+        maximum flow. During flow, the PCM looks for the NVLD switch to close. If the PCM does
+        not see the NVLD switch close at maximum flow an error is detected. Two Trip Fault.
+
+
+
+                                         POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+INTERMITTENT CONDITION
+CHECKING EVAP PURGE SOLENOID FUNCTIONALITY
+EVAP PURGE SOLENOID VACUUM SUPPLY
+
+ TEST                                      ACTION                                       APPLICABILITY
+   1      Check for any related TSBs before continuing.                                      All
+          NOTE: If any of the following DTCs are set (P0443, P0452, P0453, P0498 or
+          P0499) diagnose them first before continuing with P0441.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To   2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      NOTE: After disconnecting the Evap Purge vacuum connections, inspect               All
+          the lines and solenoid for any signs of contamination or foreign materials.
+          Using a hand vacuum pump, apply 10 in Hg to 9CAN9 side of the EVAP Purge
+          Solenoid.
+          Ignition on, engine not running.
+          Observe the vacuum gauge.
+          With the DRBIIIt, actuate the EVAP Purge Solenoid .
+          Does the vacuum drop when the solenoid is actuated?
+
+                  Yes   → Go To   3
+
+                  No    → Replace the Evap Purge Solenoid.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                   147
+

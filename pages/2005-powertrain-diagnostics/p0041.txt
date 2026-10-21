@@ -1,0 +1,27 @@
+                                                                                COMMUNICATION
+
+*PCI BUS COMMUNICATION FAILURE — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  6     Turn the ignition off.                                                                    All
+        Disconnect the negative battery cable.
+        Using a ohmmeter, connect one end to the PCI Bus circuit at the DLC, and the other
+        end to ground.
+        While monitoring the ohmmeter, disconnect each module the vehicle is equipped with
+        one at a time.
+        NOTE: Total bus resistance to ground thru all of the modules is typically
+        between 350 to 1000 ohms. The more modules on the bus, the lower the total
+        bus resistance will be.
+        Is the resistance below 150.0 ohms with all the modules disconnected?
+                 Yes   → Repair the PCI Bus circuit for a short to ground.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace the module that when disconnected the short to ground
+                         was eliminated.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     33
+

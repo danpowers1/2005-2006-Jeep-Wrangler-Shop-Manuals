@@ -1,0 +1,48 @@
+                                                               VEHICLE THEFT/SECURITY
+
+Symptom List:
+    ROLLING CODE FAILURE
+    VIN MISMATCH
+
+
+Test Note:       All symptoms listed above are diagnosed using the same tests.
+                 The title for the tests will be ROLLING CODE FAILURE.
+
+
+When Monitored and Set Condition:
+
+        ROLLING CODE FAILURE
+        When Monitored: At ignition on, after ignition on during any rolling code handshake that
+        occurs with the PCM due to a SKIM or PCM reset.
+        Set Condition: When a PCM STATUS message with a Valid Key status is not received by
+        the SKIM within 3.5 seconds of transmitting the last Valid Key Code message to the PCM.
+
+        VIN MISMATCH
+        When Monitored:      With the ignition on.
+        Set Condition: When the VIN received from the PCM does not match the VIN stored in
+        the SKIM’s EEPROM.
+
+
+
+                                          POSSIBLE CAUSES
+VERIFYING PCM VIN
+REPLACE SKIM AND CHECK DTC’S
+INTERMITTENT WIRING HARNESS PROBLEM
+PCM
+
+ TEST                                       ACTION                             APPLICABILITY
+   1      With the DRBIIIt, erase the SKIM DTCs.                                     All
+          Turn the ignition off.
+          Wait 10 seconds.
+          Turn the ignition on and wait 2 minutes.
+          With the DRBIIIt, read the SKIM DTCs.
+          Does the DRBIIIt display the DTC that was previously erased?
+                  Yes   → Go To    2
+
+                  No    → Go To    4
+
+
+
+
+                                                    441
+

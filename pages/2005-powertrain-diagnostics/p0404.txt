@@ -1,0 +1,63 @@
+TRANSMISSION - 42RLE
+
+P0944-LOSS OF PRIME — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  2     Place the gear selector in park.                                                             All
+        Start the engine.
+        NOTE: The TRANS TEMP DEG must be at least 43° C or 110° F before
+        performing the following steps.
+        The Transmission must be at operating temperature prior to checking pressure. A
+        cold Transmission will give higher readings.
+        Place the Transmission in Reverse.
+        With the DRBIIIt, observe the Transmission Pressure Switch states.
+        Are any of the Pressure Switches closed?
+
+                 Yes   → Go To     3
+                 No    → Go To     5
+
+  3     The conditions necessary to set this DTC are not present at this time.                       All
+        Test drive the vehicle. Allow the Transmission to shift through all gears and ranges.
+        Did you experience a delayed engagement and/or a no drive condition?
+                 Yes   → Go To     5
+                 No    → Go To     4
+
+  4     The conditions necessary to set this DTC are not present at this time.                       All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Test Complete.
+
+  5     With the DRBIIIt, perform a Shift Lever Position test. Follow the instructions on the        All
+        DRBIIIt.
+        Did the Shift Lever Position Test pass?
+
+                 Yes   → Go To     6
+                 No    → Refer to symptom list and perform test for DTC P0706.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  6     Remove and inspect the Transmission Oil Pan and Transmission Oil Filter per the              All
+        Service Information.
+        Does the Transmission Oil Pan contain excessive debris and/or is the Oil Filter
+        plugged?
+
+                 Yes   → Repair the cause of the plugged Transmission Oil Filter. Refer to
+                         the Service Information for the proper repair procedure.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     7
+
+
+
+
+                                                      396
+

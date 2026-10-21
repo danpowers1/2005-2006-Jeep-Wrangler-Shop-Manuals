@@ -1,0 +1,30 @@
+TRANSMISSION - 42RLE
+
+P1684-BATTERY WAS DISCONNECTED — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  7     Has the TCM been replaced or disconnected?                                                 All
+
+                 Yes   → Replacing or disconnecting the TCM will set this DTC. Erase the
+                         DTC and return the vehicle to the customer.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    8
+
+  8     The conditions necessary to set this DTC are not present at this time.                     All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                     404
+

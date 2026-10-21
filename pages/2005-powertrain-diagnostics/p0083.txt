@@ -1,0 +1,58 @@
+                                                                            DRIVEABILITY - NGC
+
+Symptom:
+    P0122-THROTTLE POSITION SENSOR NO.1 LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0122-THROTTLE POSITION SENSOR NO.1 LOW
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: Throttle Position Sensor voltage at the PCM is less than 0.16 of a volt for
+        0.7 of a second. One Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+THROTTLE POSITION SENSOR SWEEP
+INTERMITTENT CONDITION
+(F855) 5-VOLT SUPPLY CIRCUIT OPEN
+(F855) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+THROTTLE POSITION SENSOR
+(K22) TP SENSOR NO.1 SIGNAL CIRCUIT SHORTED TO GROUND
+(K22) TP SENSOR NO.1 SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          NOTE: Diagnose any IAC codes before continuing.
+          With the DRBIIIt, read the TP Sensor voltage.
+          Is the voltage below 0.2 of a volt?
+
+                  Yes   → Go To     2
+                  No    → Go To    9
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the TP Sensor harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (F855) 5-volt Supply circuit at the TP Sensor harness
+          connector.
+          Is the voltage between 4.5 to 5.2 volts?
+
+                  Yes   → Go To     3
+                  No    → Go To    6
+
+   3      With the DRBIIIt, monitor the TP Sensor voltage with the Sensor harness connector        All
+          disconnected.
+          Is the voltage above 4.5 volts?
+
+                  Yes   → Replace the Throttle Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    4
+
+
+                                                      75
+

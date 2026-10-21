@@ -1,0 +1,84 @@
+                                                                      GENERAL INFORMATION
+3. EGR Monitor                                              3.2.3.1    TRANSMISSION OPERATION AND
+  The EGR monitor now runs in a closed throttle
+decel or at idle on a warm vehicle. However, it is                     SHIFT SCHEDULING AT VARIOUS
+necessary to maintain the TPS, Map and RPM                             OIL TEMPERATURES
+ranges to allow the monitor to complete itself. For
+                                                              The transmission covered in this manual has
+the monitor run conditions, select the EGR PRE-
+                                                            unique shift schedules depending on the tempera-
+TEST in the DRB IIIt, OBD II Monitors Menu.
+                                                            ture of the transmission oil. The shift schedule is
+4. O2 Sensor Heater Monitor                                 modified to extend the life of the transmission while
+  This monitor is now continuously running once             operating under extreme conditions.
+the heaters are energized. Pass information will be           The oil temperature is measured with a Temper-
+processed at power down. For the monitor run                ature Sensor on the 42RLE transmission. The Tem-
+conditions, select the O2S HEATER MON PRE-                  perature Sensor is an integral component of the
+TEST in the DRB IIIt, OBD II Monitors Menu.                 Transmission Range Sensor (TRS). If the Tempera-
+                                                            ture Sensor is faulty, the transmission will default
+3.2.3    TRANSMISSION CONTROL                               to a calculated oil temperature. Oil temperature
+                                                            will then be calculated through a complex heat
+   The 42RLE electronic Transmission has a fully
+                                                            transfer equation using engine coolant tempera-
+adaptive control system. The system performs it’s
+                                                            ture, battery/ambient temperature, and engine off
+functions based on continuous real-time sensor
+                                                            time from the Body Control Module (BCM). These
+feedback information. The control system automat-
+                                                            inputs are received from the PCI bus periodically
+ically adapts to changes in engine performance and
+                                                            and used to initialize the oil temperature at start
+friction element variations to provide consistent
+                                                            up. Once the engine is started, the PCM updates
+shift quality. The control system ensures that clutch
+                                                            the transmission oil temperature based on torque
+operation during upshifting and downshifting is
+                                                            converter slip speed, vehicle speed, gear, and engine
+more responsive without increased harshness. The
+                                                            coolant temperature to determine an estimated oil
+Powertrain Control Module (PCM) continuously
+                                                            temperature during vehicle operation. Vehicles us-
+checks for electrical problems, mechanical prob-
+                                                            ing calculated oil temperature track oil tempera-
+lems, and some hydraulic problems. When a prob-
+                                                            ture reasonably accurate during normal operation.
+lem is sensed, the PCM stores a diagnostic trouble
+                                                            However, if a transmission is overfilled, a transmis-
+code. Some of these codes cause the Transmission to
+                                                            sion oil cooler becomes restricted, or if a customer
+go into Limp-in mode. While in this mode, electrical
+                                                            drives aggressively in low gear, the calculated oil
+power is taken away from the Transmission via the
+                                                            temperature will be inaccurate. Consequently the
+PCM, de-energizing the transmission control relay,
+                                                            shift schedule selected may be inappropriate for the
+and taking power from the solenoid pack. When this
+                                                            current conditions. The key highlights of the vari-
+happens, the only Transmission mechanical func-
+                                                            ous shift schedules are as follows:
+tions are:
+   Park and Neutral                                         Extreme Cold: Oil temperature at start up below
+   Reverse                                                  26.6°C (-16 °F)
+   Second Gear                                              > Goes to Cold schedule above -24°C (-12°F) oil
+   No upshifts or downshifts are possible. The posi-          temperature
+tion of the manual valve alone allows the three             > Park, Reverse, Neutral and 2nd gear only (pre-
+ranges that are available. Although vehicle perfor-           vents shifting which may fail a clutch with fre-
+mance is seriously degraded while in this mode, it            quent shifts)
+allows the owner to drive the vehicle in for service.
+   Once the DRBIIIt is in the Transmission portion          Cold: Oil temperature at start up above -24°C
+of the diagnostic program, it constantly monitors           (-12°F) and below 2.2°C (36°F)
+the transmission to see if the system is in Limp-in         > Goes to Warm schedule above 4.4°C (40°F) oil
+mode. If the Transmission is in Limp-in mode, the             temperature
+DRBIIIt will flash the red LED.                             > Delayed 2-3 upshift approximately 35-50 Km/h
+   When a problem is sensed, the PCM stores a                 (22 - 31 MPH)
+diagnostic trouble code (DTC). Some of these codes
+cause the transmission to go into 9limp-in9 or 9de-         > Delayed 3-4 upshift 72-85 Km/h (45-53 MPH)
+fault9 mode.                                                > Early 4-3 coastdown shift approximately 48
+   Once the DRBIII is in the 9Transmission9 portion           Km/h (30 MPH)
+of the diagnostic program, it constantly monitors           > Early 3-2 coastdown shift approximately 27
+the PCM to see if the system is in limp-in mode. If           Km/h (17 MPH) ?
+the transmission is in limp-in mode, the DRBIIIt
+will flash the red LED.
+
+                                                        5
+

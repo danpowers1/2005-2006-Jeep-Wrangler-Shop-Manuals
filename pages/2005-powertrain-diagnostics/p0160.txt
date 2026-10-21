@@ -1,0 +1,51 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0452-NVLD PRESSURE SWITCH STUCK CLOSED
+
+
+
+When Monitored and Set Condition:
+
+        P0452-NVLD PRESSURE SWITCH STUCK CLOSED
+        When Monitored:       Immediately after the engine has been started.
+        Set Condition: The PCM activates the NLVD Solenoid. If PCM does not see NVLD switch
+        open an error is detected. One Trip Fault.
+
+
+
+                                            POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+EVAP PURGE SOLENOID LEAKS/STUCK OPEN
+(K52) EVAP PURGE SOL CONTROL CIRCUIT SHORTED TO GROUND
+NVLD SWITCH OPERATION
+NVLD ASSEMBLY
+(K107) NVLD SWITCH SIGNAL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      Check for any related TSBs before continuing.                                             All
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+
+                   Yes   → Go To    2
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                    All
+          Disconnect the EVAP Purge Solenoid harness connector.
+          Ignition on, engine not running.
+          Using a 12-volt test light, jump across the EVAP Purge Solenoid harness connector.
+          With the DRBIIIt, actuate the EVAP Purge Solenoid.
+          Does the test light flash on and off?
+                   Yes   → Go To    3
+
+                   No    → Go To    7
+
+
+
+
+                                                      152
+

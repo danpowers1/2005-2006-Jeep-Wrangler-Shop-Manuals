@@ -1,0 +1,58 @@
+                                                                                DRIVEABILITY - NGC
+
+Symptom:
+    P0685-ASD RELAY CONTROL CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0685-ASD RELAY CONTROL CIRCUIT
+        When Monitored:         With ignition on. Battery voltage above 10 volts.
+        Set Condition: An open or shorted condition is detected in the ASD relay control circuit
+        for more than 2.7 seconds. ASD Relay state does not equal the desired state. P0688 will set
+        along with P0685.
+
+
+
+                                              POSSIBLE CAUSES
+ASD RELAY OPERATION
+(A209) FUSED B+ CIRCUITS
+ASD RELAY
+(K342) ASD RELAY CONTROL CIRCUIT OPEN
+(K342) ASD RELAY CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                           ACTION                                              APPLICABILITY
+   1      Ignition on, engine not running.                                                               All
+          With the DRBIIIt, actuate the ASD Relay.
+          Is the ASD Relay operating?
+                   Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To     2
+
+   2      Turn the ignition off.                                                                         All
+          Remove the ASD Relay from the PDC.
+          Using a 12-volt test light connect to ground, probe the (A209) Fused B+ circuits in the
+          PDC.
+          Does the test light illuminate brightly?
+
+                   Yes   → Go To     3
+                   No    → Repair the open or short to ground in the (A209) Fused B+
+                           circuits. Inspect and replace any open fuses.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   3      Measure the resistance of the ASD Relay Coil.                                                  All
+          Is the resistance between 60 to 80 ohms?
+
+                   Yes   → Go To     4
+                   No    → Replace the ASD Relay.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                         239
+

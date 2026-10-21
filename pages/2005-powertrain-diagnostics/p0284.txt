@@ -1,0 +1,65 @@
+STARTING
+
+*CHECKING FUEL DELIVERY — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  3     Turn the ignition off.                                                                        All
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose, fitting or line,
+        the fuel system pressure must be released.
+        Raise vehicle on hoist, and disconnect the fuel pressure line at the fuel pump module.
+        Install special 5/169 fuel line adapter tool #6539 between disconnected fuel line and
+        the fuel pump module.
+        Attach a fuel pressure test gauge to the 9T9 fitting on tool #6539.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test and observe the fuel pressure
+        gauge.
+        NOTE: Fuel pressure specification is 400 KPa +/- 34 KPa (58 psi +/- 5 psi).
+        Is the fuel pressure within specification now?
+                 Yes   → Repair/replace fuel supply line as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Go To     4
+
+        Caution: Stop All Actuations.
+
+  4     Turn the ignition off.                                                                        All
+        WARNING: The fuel system is under a constant pressure even with the
+        engine off. Before testing or servicing any fuel system hose,fitting or line,
+        the fuel system pressure must be released.
+        Remove the Fuel Pump Module and inspect the Fuel Inlet Strainer.
+        Is the Fuel Inlet Strainer plugged?
+                 Yes   → Replace the Fuel Pump Inlet Strainer.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Replace the Fuel Pump Module.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  5     Turn the ignition off.                                                                        All
+        Disconnect the fuel pump module harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Fuel System test.
+        Using a 12-volt test light connected to ground, probe the (A141) Fuel Pump Relay
+        Output circuit at the Fuel Pump Module harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     6
+
+                 No    → Go To     8
+
+        Caution: Stop All Actuations.
+
+  6     Turn the ignition off.                                                                        All
+        Disconnect the Fuel Pump Module harness connector.
+        Using a test light connected to 12-volts, backprobe the (Z1) Fuel Pump ground circuit
+        at the Fuel Pump Module harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     7
+                 No    → Repair the excessive resistance in the (Z1) Fuel Pump Ground
+                         circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                       276
+

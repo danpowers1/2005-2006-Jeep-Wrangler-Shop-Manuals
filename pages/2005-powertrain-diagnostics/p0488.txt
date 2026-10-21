@@ -1,0 +1,55 @@
+    CONNECTOR PINOUTS
+
+
+
+                                     RADIATOR FAN MOTOR CIRCUIT BREAKER (2.4L) - 2 WAY
+                        CAV           CIRCUIT                                     FUNCTION
+                        A     Z213 12BK                  GROUND
+                        B     Z823 12BK/DG               GROUND
+
+
+
+
+                                          SENTRY KEY IMMOBILIZER MODULE - BLACK 6 WAY
+                        CAV           CIRCUIT                                     FUNCTION
+                         1                  -                                        -
+                         2    D25 20WT/VT                PCI BUS
+                         3                  -                                        -
+                         4    F1 20PK/WT                 FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                         5    Z120 20BK/WT               GROUND
+                         6    L177 20WT/OR               FUSED B(+)
+C
+O
+N
+N
+E
+C
+T                                                 SPEED CONTROL SERVO - BLACK 4 WAY
+O                       CAV           CIRCUIT                                     FUNCTION
+
+R                        1    V36 20VT/YL                S/C VACUUM SOL CONTROL
+                         2    V35 20VT/LG                S/C VENT SOL CONTROL
+
+P                        3    V30 20VT/WT                S/C BRAKE SWITCH OUTPUT
+
+I                        4    Z901 18BK                  GROUND
+
+N
+O
+U
+T
+S
+
+
+
+                                                THROTTLE POSITION SENSOR (2.4L) - 3 WAY
+                        CAV           CIRCUIT                                     FUNCTION
+                         1    F855 20PK/YL               5 VOLT SUPPLY
+                         2    K900 20DB/DG               SENSOR GROUND
+                         3    K22 20BR/OR                TP NO. 1 SIGNAL
+
+
+
+
+                                     480
+

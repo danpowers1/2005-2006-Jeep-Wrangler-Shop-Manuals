@@ -1,0 +1,46 @@
+DRIVEABILITY - NGC
+
+P0440-GENERAL EVAP SYSTEM FAILURE — Continued
+
+ TEST                                          ACTION                                              APPLICABILITY
+  6     To continue testing you will need Miller Tool #8404 Evaporative Emission Leak                   All
+        Detector (EELD).
+        WARNING: Keep lit cigarettes, sparks, flames, and other ignition sources
+        away from the test area to prevent the ignition of explosive gases. Keep the
+        test area well ventilated.
+        NOTE: The fuel tank should have between 20% and 80% of fuel tank capacity
+        to properly test the Evap system.
+        Connect the red power lead of EELD to the battery positive terminal and the black
+        ground lead to battery negative terminal.
+        NOTE: See Charts and Graph support material EELD Calibration Setup for
+        an example.
+        Block the vent hose of the EVAP Canister.
+        Connect shop air to the EELD.
+        Set the smoke/air control switch to AIR.
+        Insert the tester’s AIR supply tip (clear hose) into the .040 orifice on the tester’s
+        control panel.
+        Press the remote smoke/air start button.
+        Position the red flag on the air flow meter so it is aligned with the indicator ball.
+        When the calibration is complete, release the remote button. The EELD flow meter
+        is now calibrated in liters per minute.
+        Install the service port adapter #8404-14 on the vehicle’s service port (if equipped) or
+        install the #8404-ADP into the filter line.
+        Connect the Air supply hose from the EELD to the service port (if equipped) or to the
+        #8404-ADP adapter.
+        Press the remote button to activate AIR flow.
+        NOTE: Larger volume fuel tanks, lower fuel levels or if the vehicle is
+        equipped with a Flow Management Valve, this may indicate high flow and
+        will require 4 to 5 minutes to fill.
+        Compare the flow meter indicator ball reading to the red flag.
+        ABOVE the red flag indicates a leak present.
+        BELOW the red flag indicates a sealed system.
+        Is the indicator ball above the red flag?
+
+                 Yes   → Go To      7
+                 No    → Go To      8
+
+
+
+
+                                                        144
+

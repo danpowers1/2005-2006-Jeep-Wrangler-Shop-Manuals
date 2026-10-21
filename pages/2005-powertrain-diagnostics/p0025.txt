@@ -1,0 +1,68 @@
+                                                                         GENERAL INFORMATION
+body, or when repairing any component between the                12 volt test light minimum 25 ohms resistance
+shift lever and the Transmission.                              with probe #6801
+  Some questions to ask yourself when performing
+the road test are as follows:                                  CAUTION: A 12 volt test light should not be
+• Is the complaint or concern what you think the
+                                                               used for the following circuits, damage to the
+  problem is, based on the drivers description of the          powertrain controller will occur.
+  problem?                                                     • 5-volt Supply
+• Is the Transmission operating normally, or is                • J1850 PCI Bus
+  there a real problem?                                        • CCD Bus
+• When does the problem occur?                                 • PCI Bus
+• Is the problem only in one gear range?                       • CKP Sensor Signal
+• What temperature does the problem occur?                     • CMP Sensor Signal
+• Does the vehicle have to sit over night for the              • Vehicle Speed Sensor Signal
+  problem to occur?
+                                                               • O2 Sensor Signal
+• Does the transmission go into Limp-in mode?
+
+
+4.3.4    ELECTRONIC PINION FACTOR                              6.0    ACRONYMS
+         WARNINGS (IF APPLICABLE)                              A/C          Air Conditioning
+  The pinion factor must be set when replacing the
+PCM. Note: The pinion factor is a fixed number and             ABS          Anti-lock Brake System
+cannot be changed or updated in some vehicle                   ASD Re-      Auto Shutdown Relay
+applications. If the pinion factor is not set or incor-        lay
+rectly set, any speed related functions will not
+operate correctly i.e. speedometer, speed control,             APPS         Accelerator Pedal Position Sensor
+rolling door locks, other control modules will be
+                                                               Baro         Barometric Pressure
+affected that depend on speed information.
+                                                               BCM          Body Control Module
+4.3.5    SERVICE BULLETINS AND RECALLS
+                                                               BTS          Battery Temperature Sensor
+  Always perform all Safety Recalls and Service
+Bulletins that are applicable to the problem. Under            CAA          Clean Air Act
+the provisions of the warranty.
+                                                               CAB          Controller Antilock Brakes
+                                                               CARB         California Air Resources Board
+5.0     REQUIRED TOOLS AND
+        EQUIPMENT                                              CCD          Chrysler Collision Detection Bus
+                                                               BUS
+  DRBIIIt (diagnostic read-out box) scan tool -
+                                                               CKP          Crankshaft Position Sensor
+must use the latest release level.
+                                                               Sensor
+  Diagnostic Pinout Box #8815
+  Evaporative Emissions Leak Detector #8404                    CKT          Circuit
+  Terminal Removal tool #3638
+  Fuel filler adapter #8382                                    CMP          Camshaft Position Sensor
+  Fuel pressure adapter (C-6631) or #6539                      Sensor
+  Fuel pressure kit (C-4799-B) or #5069                        CM840        Cummins Engine controller
+  Fuel pressure kit #8978
+  Fuel release hose (C-4799-1)                                 CO           Carbon Monoxide
+  Jumper wires                                                 CVI          Clutch Volume Index
+  Ohmmeter
+  Oscilloscope                                                 DCP So-      Duty-Cycle Purge Solenoid
+  Pressure gauge 0-2068 kPa (0-300 PSI)                        lenoid
+  Transmission simulator #8833
+                                                               DLC          Data Link Connector
+  Electronic Transmission Adapter Kit (Miller #
+8333-1A)                                                       DRBIIIt      Diagnostic Readout Box - 3rd Gen-
+  Vacuum gauge                                                              eration
+  Voltmeter
+
+
+                                                          17
+

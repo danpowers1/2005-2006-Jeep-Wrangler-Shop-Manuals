@@ -1,0 +1,62 @@
+DRIVEABILITY - NGC
+
+*CHECKING A/C SYSTEM OPERATION WITH NO DTCS — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  10    Engine Running.                                                                             All
+        Turn the A/C system on and the fan on high.
+        With the DRBIIIt in Inputs/Outputs, read the A/C request state.
+        Does the A/C request state change?
+
+                 Yes   → Go To     11
+
+                 No    → Repair the open in the A/C Request circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  11    Turn the ignition off.                                                                      All
+        Remove the A/C Clutch Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the voltage of the (A17) Fused B+ circuit at the A/C Clutch Relay connector.
+        Is the voltage above 11.0 volts?
+
+                 Yes   → Go To     12
+
+                 No    → Repair the open in the (A17) Fused B+ circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  12    If there are no possible causes remaining, view repair.                                     All
+                 Repair
+                          Replace the A/C Clutch Relay.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  13    Turn the ignition off.                                                                      All
+        Disconnect the A/C - Heater Control C1 harness connector.
+        Ignition on, engine not running.
+        Measure the voltage between the A/C On/Off Control circuit and ground.
+        Is the voltage greater than 11.0 volts?
+
+                 Yes   → Go To     14
+                 No    → Go To    15
+
+  14    Turn the ignition off.                                                                      All
+        Disconnect the A/C - Heater Control C1 harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt in BCM, select Inputs/Outputs.
+        Monitor the A/C Select Switch state while connecting a jumper wire between ground
+        and the A/C On/Off Control circuit in the A/C - Heater Control C1 harness connector.
+        Does the A/C Select Switch state change from 9Off9 to 9On9 when the jumper wire is
+        connected.
+
+                 Yes   → Replace the A/C - Heater Control Module in accordance with the
+                         Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace and program the Body Control Module per Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      272
+

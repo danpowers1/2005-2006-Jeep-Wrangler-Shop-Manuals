@@ -1,0 +1,41 @@
+DRIVEABILITY - NGC
+
+P0499-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT HIGH —
+Continued
+ TEST                                      ACTION                                        APPLICABILITY
+   4    CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING                             All
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K106) NVLD Sol Control circuit from the NVLD
+        Assembly harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To    5
+
+                No    → Repair the open in the (K106) NVLD Sol Control circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   5    Measure the resistance between the (Z754) Ground circuit and ground.                  All
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To    6
+
+                No    → Repair the open in the (Z913) Ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   6    NOTE: Before continuing, check the PCM harness connector terminals for                All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                   180
+

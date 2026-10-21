@@ -1,0 +1,58 @@
+DRIVEABILITY - NGC
+
+P0201-FUEL INJECTOR NO.1 CIRCUIT — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  3     Using a 12-volt test light connected to 12-volts, backprobe the Injector Control             All
+        circuit.
+        With the DRBIIIt, actuate the Fuel Injector.
+        What is the state of the test light during the actuation?
+
+                 Brightly blinking.
+                          Replace the Fuel Injector.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 ON constantly.
+                         Go To    4
+                 OFF constantly.
+                         Go To 5
+
+  4     Turn the ignition off.                                                                       All
+        Disconnect the C2 PCM harness connector.
+        Measure the resistance between ground and the Injector Control circuit at the
+        Injector harness connector.
+        Is the resistance below 100 ohms?
+
+                 Yes   → Repair the short to ground in the Injector Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     6
+
+  5     Turn the ignition off.                                                                       All
+        Disconnect the C2 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the Injector Control circuit from the Fuel Injector harness
+        connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     6
+
+                 No    → Repair the open in the Injector Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     NOTE: Before continuing, check the PCM harness connector terminals for                       All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      114
+

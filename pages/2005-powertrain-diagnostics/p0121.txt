@@ -1,0 +1,50 @@
+                                                                           DRIVEABILITY - NGC
+
+P0201-FUEL INJECTOR NO.1 CIRCUIT — Continued
+
+
+        P0206-FUEL INJECTOR NO.6 CIRCUIT
+        When Monitored: With battery voltage greater than 11.9981 volts. Auto Shutdown Relay
+        energized. Engine speed less than 3008 rpm.
+        Set Condition:    No inductive spike is detected after injector turn off.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(F142), (K334) ASD RELAY OUTPUT CIRCUIT
+FUEL INJECTOR
+INJECTOR CONTROL CIRCUIT OPEN
+INJECTOR CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+  1       Ignition on, engine not running.                                                        All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2       NOTE: (F142) is the ASD Relay Output circuit on the 2.4L and (K334) is the              All
+          ASD Relay Output on the 4.0L.
+          Turn the ignition off.
+          Disconnect the Fuel Injector harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, actuate the ASD Relay.
+          Using a 12-volt test light connected to ground, backprobe the (F142), (K334) ASD
+          Relay Output circuit at the Fuel Injector harness connector.
+          Does the test light illuminate brightly?
+                  Yes   → Go To    3
+
+                  No    → Repair the open or short to ground in the (F142), (K334) ASD
+                          Relay Output circuit.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     113
+

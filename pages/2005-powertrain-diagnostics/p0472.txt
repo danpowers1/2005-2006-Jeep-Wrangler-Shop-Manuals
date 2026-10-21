@@ -1,0 +1,51 @@
+    CONNECTOR PINOUTS
+                                                   C182 (2.4L) - BLACK (ENGINE SIDE)
+                                                      CAV               CIRCUIT
+                                                       1                    -
+                                                       2                    -
+                                                       3      K61 18VT/GY
+                                                       4      K961 18BR/VT
+                                                       5      K21 18DB/LG
+                                                       6      K2 18VT/OR
+                                                       7      K1 18VT/BR
+                                                       8      K22 18BR/OR
+                                                       9      F856 18YL/PK
+                                                      10      G6 18VT/GY
+                                                      11                    -
+                                                      12      F855 18PK/YL
+                                                      13                    -
+                                                      14                    -
+
+
+
+
+                                               CAMSHAFT POSITION SENSOR - BLACK 3 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+C                        1    F856 20YL/PK                 5 VOLT SUPPLY
+O                        2    K900 20DB/DG                 SENSOR GROUND
+N                        3    K44 20DB/GY (2.4L)           CMP SIGNAL
+N                        3    K44 18DB/GY (4.0L)           CMP SIGNAL
+E
+C
+T
+O
+R                                                      CLOCKSPRING C1 - 4 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+P                        1    X3 20RD/YL                   HORN RELAY CONTROL
+I                        2    V37 20VT                     S/C SWITCH NO. 1 SIGNAL
+N                        3    K900 20DB/DG                 SENSOR GROUND
+O                        4                 -                                            -
+U
+T
+S
+
+                                      CLUTCH PEDAL POSITION SWITCH (M/T) - BLACK 2 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+                         1    T141 18YL/OR                 CLUTCH INTERLOCK SWITCH SENSE
+                         2    Z902 18BK                    GROUND
+
+
+
+
+                                     464
+

@@ -1,0 +1,65 @@
+                                                                           DRIVEABILITY - NGC
+
+P0133-O2 SENSOR 1/1 SLOW RESPONSE — Continued
+
+                                           POSSIBLE CAUSES
+EXHAUST LEAK
+O2 SIGNAL CIRCUIT
+O2 RETURN CIRCUIT
+O2 SENSOR
+
+ TEST                                        ACTION                                          APPLICABILITY
+  1     NOTE: Check for contaminants that may have damaged the O2 Sensor:                         All
+        contaminated fuel, unapproved silicone, oil and coolant.
+        Ignition on, engine not running.
+        NOTE: After the repairs have been made, verify proper O2 Sensor operation.
+        If all the O2 Sensor voltage readings have not returned to normal, follow the
+        diagnostic procedure for the remaining O2 Sensors.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+
+                 Yes   → Go To     2
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Start the engine.                                                                         All
+        Inspect the exhaust system for leaks between the engine and the O2 Sensors.
+        Are there any exhaust leaks?
+                 Yes   → Repair or replace the leaking exhaust parts as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    3
+
+  3     Turn the ignition off                                                                     All
+        Disconnect the O2 Sensor harness connector.
+        Ignition on, engine not running.
+        Measure the voltage on the O2 Signal circuit in the O2 Sensor harness connector.
+        Is the voltage between 4.5 and 5.0 volts?
+
+                 Yes   → Go To     4
+
+                 No    → Check the O2 Signal circuit for damage, short to ground, open, or
+                         short to voltage. If OK, replace and program the Powertrain
+                         Control Module per Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  4     Measure the voltage on the O2 Return circuit in the O2 Sensor harness connector.          All
+        Is the voltage at 2.5 volts?
+
+                 Yes   → Check the O2 Return circuit for damage, short to ground, open, or
+                         short to voltage. If OK, replace and program the Powertrain
+                         Control Module per Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    5
+
+  5     If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace the O2 Sensor
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+                                                      97
+

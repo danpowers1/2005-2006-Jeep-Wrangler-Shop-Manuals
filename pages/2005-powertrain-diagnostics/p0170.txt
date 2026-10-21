@@ -1,0 +1,48 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0457-LOOSE FUEL FILL CAP
+
+
+
+When Monitored and Set Condition:
+
+        P0457-LOOSE FUEL FILL CAP
+        When Monitored: Engine Running. Cold start test. Fuel Level greater than 12%. Ambient
+        Temperature between 4°C and 32°C (39°F and 89°F) Close Loop fuel system. Test runs
+        when small leak test is maturing.
+        Set Condition: The PCM activates the EVAP Purge Solenoid to pull the EVAP system into
+        a vacuum to close the NVLD switch. Once the NVLD switch is closed, the PCM turns the
+        EVAP Purge Solenoid off to seal the EVAP system. If the NVLD switch reopens before the
+        calibrated amount of time after a fuel tank fill, an error is detected. Two Trip Fault. Three
+        good trips to turn off the MIL.
+
+
+
+                                        POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+LOOSE OR MISSING FUEL FILL CAP
+INTERMITTENT CONDITION
+NVLD SERVICE TEST
+EVAPORATIVE EMISSION LEAK DETECTION
+EVAP PURGE SOLENOID OPERATION
+NVLD SWITCH OPERATION
+
+ TEST                                     ACTION                                      APPLICABILITY
+   1      NOTE: After the PCM has determined the leak test inconclusive and sees an        All
+          increase in fuel level, the PCM will request the GAS CAP indicator on to
+          inform the customer that the gas fill cap is loose or off.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To   2
+
+                  No    → Refer to the INTERMITTENT CONDITION symptom in the
+                          Driveability category.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+
+
+
+                                                 162
+

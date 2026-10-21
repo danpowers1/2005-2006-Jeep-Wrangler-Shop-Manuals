@@ -1,0 +1,62 @@
+                                                                         TRANSMISSION - 42RLE
+
+P0734-GEAR RATIO ERROR IN 4TH — Continued
+
+ TEST                                         ACTION                                               APPLICABILITY
+  2     With the DRBIIIt, read Transmission Control Module DTC’s                                        All
+        If any of these DTC’s are present, perform their respective tests first.
+        Are the DTC’s P0944, P0715, P0720, or P1794 present also?
+
+                 Yes   → Refer to the Transmission category and perform the appropriate
+                         symptom. If any of these DTC’s are present, they will cause a gear
+                         ratio error. Perform the test for Loss of Prime first if it is present.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     3
+
+  3     With the DRBIIIt, perform the 4th gear clutch test. Follow the instructions on the              All
+        DRBIIIt.
+        Increase the throttle angle, TPS Degree, to 30° for no more than a few seconds.
+        CAUTION: Do not overheat the transmission.
+        Did the Clutch Test pass, Input Speed remain at 0?
+                 Yes   → Go To     4
+                 No    → Go To     5
+
+  4     The conditions to set this DTC are not present at this time.                                    All
+        Check the gearshift linkage adjustment.
+        Gear Ratio DTC’s can be set by problems in the Input and Output Speed Sensor
+        circuits. If the vehicle passes the clutch test and still sets Gear Ratio DTC(s), check
+        the Speed Sensors for proper operation.
+        NOTE: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Check the Speed Sensor wiring and connectors for good connection, then perform a
+        wiggle test using the Transmission Simulator, Miller tool #8333 and the Electronic
+        Transmission Adapter kit 8333-1A.
+        This DTC can also be set under extreme temperature conditions, this is usually
+        caused by an internal problem. Verify if the problem is only experienced under
+        extreme hot or cold conditions.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Test Complete.
+
+  5     With the DRBIIIt, read Transmission DTC’s.                                                      All
+        Is the DTC P0845 and/or P0846 present also?
+
+                 Yes   → Replace the Solenoid/Pressure Switch Assembly per the Service
+                         Information.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     6
+
+
+
+
+                                                       343
+

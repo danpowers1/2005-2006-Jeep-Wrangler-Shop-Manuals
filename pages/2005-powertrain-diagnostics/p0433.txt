@@ -1,0 +1,54 @@
+                                                                      TRANSMISSION - 42RLE
+
+Symptom:
+    *BACKUP LAMPS COME ON WHILE SHIFTER IS NOT IN REVERSE
+    POSITION
+
+
+
+
+                                           POSSIBLE CAUSES
+BACKUP LAMPS ALWAYS ON
+BACKUP LAMP SUPPLY CIRCUIT SHORT TO VOLTAGE
+INTERMITTENT WIRING AND CONNECTORS
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     Ignition on, engine not running.                                                            All
+        Firmly apply brakes.
+        Place the shift lever in the position which causes the Backup Lamps to come on other
+        than Reverse.
+        Do the Backup Lamps come on with the shift lever not in the Reverse position?
+                 Yes   → Go To    2
+                 No    → Go To    4
+
+  2     Ignition on, engine not running.                                                            All
+        Place the Shift Lever in the position that causes the Backup Lamps to come on other
+        than Reverse.
+        Disconnect the TRS harness connector.
+        NOTE: This will cause a DTC P0706 and possibly other DTC’s to be stored in
+        the TCM. They must be erased before returning the vehicle to the customer.
+        Did the Backup Lamps go out when the TRS harness connector was disconnected?
+                 Yes   → Replace the Transmission Range Sensor per the Service Informa-
+                         tion.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+                 No    → Go To    3
+
+  3     Turn the ignition off to the lock position.                                                 All
+        Disconnect the Transmission TRS harness connector.
+        NOTE: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        Measure the voltage of the Back-up Lamp Supply circuit in the TCM harness
+        connector.
+        Is the voltage above 0.5 volt?
+                 Yes   → Repair the Backup Lamp Supply circuit for a short to voltage.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+                 No    → Test Complete.
+
+
+
+
+                                                     425
+

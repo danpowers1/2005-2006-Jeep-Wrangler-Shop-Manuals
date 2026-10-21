@@ -1,0 +1,34 @@
+STARTING
+
+*NO CRANK CONDITION — Continued
+
+ TEST                                        ACTION                                           APPLICABILITY
+  8     Disconnect the Starter Relay Output connector from the Starter Solenoid.                   All
+        Measure the resistance of the (T40) Starter Relay Output circuit between the Relay
+        and the Solenoid harness connector.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To     9
+
+                 No    → Repair the open in the (T40) Starter Relay Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  9     Using a 12-volt test light connected to ground, backprobe the (A2) Fused B+ circuit        All
+        at the Starter Relay terminal.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     10
+                 No    → Repair the open or high resistance in the (A2) Fused B+ circuit.
+                         Inspect related fuses and repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  10    If there are no other possible causes remaining, review repair.                            All
+                 Repair
+                          Replace the Starter.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                      286
+

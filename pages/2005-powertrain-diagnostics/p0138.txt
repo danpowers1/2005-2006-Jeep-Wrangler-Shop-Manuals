@@ -1,0 +1,61 @@
+DRIVEABILITY - NGC
+
+P0339-CRANKSHAFT POSITION SENSOR INTERMITTENT — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  7     If there are no possible causes remaining, view repair.                                     All
+
+                 Repair
+                          Replace the Crankshaft Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  8     Turn the ignition off.                                                                      All
+        Disconnect the C2 PCM harness connector.
+        Disconnect the CKP Sensor connector.
+        Ignition on, engine not running.
+        Measure the voltage on the (K24) CKP Signal circuit in the Sensor harness connector.
+        Wiggle the related wire harness while taking this measurement.
+        Does the voltage ever increase above 5.5 volts?
+                 Yes   → Repair the short to voltage in the (K24) CKP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    9
+
+  9     CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING                                   All
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance in the (K24) CKP Signal circuit between the CKP harness
+        connector and the appropriate terminal of special tool #8815.
+        Wiggle the wire harness while taking this measurement.
+        Is the resistance below 1.0 ohm?
+                 Yes   → Go To     10
+
+                 No    → Repair the open/high resistance in the (K24) CKP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  10    Measure the resistance between ground and the (K24) CKP Signal circuit at the CKP           All
+        Sensor harness connector.
+        Wiggle the related wire harness while monitoring the resistance value.
+        Does the resistance ever go below 100 ohms?
+                 Yes   → Repair the short to ground in the (K24) CKP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     11
+
+  11    Measure the resistance between the (F855) 5-volt Supply circuit and the (K24) CKP           All
+        Signal circuit at the CKP harness connector.
+        Wiggle the related wire harness while taking this measurement.
+        Does the resistance ever go below 5.0 ohms?
+
+                 Yes   → Repair the short between the (F855) 5-volt Supply circuit and the
+                         (K24) CKP Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     12
+
+
+
+
+                                                      130
+

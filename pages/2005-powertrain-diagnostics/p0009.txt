@@ -1,0 +1,66 @@
+                                                                     GENERAL INFORMATION
+Important
+New for TJ, the Powertrain Control Module and Transmission Control Module have been
+combined into single control module on all vehicles equipped with a 2.4L and 4.0L engines. This
+new module is the Next Generation Controller (NGC). New Diagnostics procedures along with
+new DTC’s are two of the changes you will see which reflect the new combined module
+technology. The NGC modules will have four color coded connectors C1/A through C4/D,
+(C1-BLK, C2-ORANGE, C3-WHITE, C4-GREEN). Each PCM connector has 38 pins. Two new tools
+were introduced to help diagnose and repair the new PCM (NGC) terminals and harness
+connectors. The Miller #3638 terminal removal pick must be used to release the connector
+terminals, or harness and connector damage will occur. Also, the Miller #8815 Pin Out Box was
+introduced. You must use the Miller #8815 tool instead of probing the PCM terminals, or harness
+and connector damage will occur. There is also a new Verification test and module replacement
+procedure for the new PCM.
+
+1.0     INTRODUCTION                                       1.1    SYSTEM COVERAGE
+   The procedures contained in this manual include           This diagnostic procedure manual covers Power-
+specifications, instructions, and graphics needed to       train, Transmission, and Transfer Case diagnostics
+diagnose the PCM Powertrain System. The diag-              for 2005 TJ vehicles equipped with the Next Gen-
+nostics in this manual are based on the failure            eration Control Module (NGC).
+condition or symptom being present at the
+time of diagnosis. Please follow the recommenda-           1.2   SIX-STEP TROUBLE SHOOTING
+tions below when choosing your diagnostic path.                  PROCEDURE
+   1. First make sure the DRBIIIt is communicating
+with the appropriate modules; i.e., if the DRBIIIt           Diagnosis of the Powertrain Control Module
+displays a 9No Response9 condition, you must diag-         (PCM) is done in six basic steps:
+nose this first before proceeding.                         • verification of complaint
+   2. Read DTCs (diagnostic trouble codes) with the
+                                                           • verification of any related symptoms
+DRBIIIt.
+   3. If no DTCs are present, identify the customer        • symptom analysis
+complaint.                                                 • problem isolation
+   4. Once the DTC or customer complaint is iden-          • repair of isolated problem
+tified, locate the matching test in the Table of
+                                                           • verification of proper operation
+Contents and begin to diagnose the symptom.
+   All component location views are in Section 8.0.
+All connector pinouts are in Section 9.0. All system       2.0    IDENTIFICATION OF
+schematic diagrams are in Section 10.0. All charts
+and graphs are in section 11.0.                                   SYSTEM
+   An * placed before the symptom description indi-
+                                                             The Powertrain Control Module (PCM) monitors
+cates a customer complaint.
+                                                           and controls:
+   When repairs are required, refer to the appropri-
+ate service manual for the proper removal and              • fuel system
+repair procedure.                                          • ignition system
+   Diagnostic procedures change every year. New            • charging system
+diagnostic systems may be added; current systems
+                                                           • speed control system
+may be enhanced. READ THIS MANUAL BEFORE
+TRYING TO DIAGNOSE A VEHICLE DTC. It is                    • The NGC control module is used on the 2.4L and
+recommended that you review the entire manual to             4.0L engines with an automatic or manual trans-
+become familiar with all new and enhanced diag-              mission.
+nostic procedures.                                         • The 42RLE transmission can be identified by
+   After using this book, if you have any comments           confirming a Solenoid/Pressure Switch Assembly
+or recommendations, please fill out the form at the          located on the right side of the transmission, The
+back of the book and mail it back to us.                     Transmission Range Sensor, Input Speed Sensor
+                                                             and Output Speed Sensor are located on the left
+                                                             side of the transmission. Refer to the Service
+                                                             Information for transmission ID tag descriptions.
+
+
+
+                                                       1
+

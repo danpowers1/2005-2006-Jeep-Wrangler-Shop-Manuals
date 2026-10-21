@@ -1,0 +1,48 @@
+                                                                    DRIVEABILITY - NGC
+
+Symptom:
+    P0128-THERMOSTAT RATIONALITY
+
+
+
+When Monitored and Set Condition:
+
+        P0128-THERMOSTAT RATIONALITY
+        When Monitored:     Engine running.
+        Set Condition: The PCM predicts a coolant temperature value that it will compare to the
+        actual coolant temperature. A significant difference results in an error. Two Trip Fault.
+
+
+
+                                        POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+OTHER POSSIBLE CAUSES
+LOW COOLANT LEVEL
+THERMOSTAT OPERATION
+SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+TEMPERATURE SENSOR
+SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+SIGNAL CIRCUIT SHORTED TO GROUND
+SIGNAL CIRCUIT SHORTED TO (K900) SENSOR GROUND
+PCM
+
+ TEST                                    ACTION                                      APPLICABILITY
+   1      NOTE: If any ECT, AAT, CMP or CKP sensor DTCs have set along with P0128,        All
+          diagnose them before continuing.
+          NOTE: Ensure that Pinion Factor has been programmed correctly into the
+          PCM.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                 Yes   → Go To   2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom in the
+                         Driveability category.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                 83
+

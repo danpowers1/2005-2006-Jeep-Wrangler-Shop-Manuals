@@ -1,0 +1,37 @@
+                                                                                               STARTING
+
+*CHECKING FUEL DELIVERY — Continued
+
+ TEST                                        ACTION                                           APPLICABILITY
+  7     If there are no possible causes remaining, view repair.                                    All
+
+                 Repair
+                          Replace the Fuel Pump Module.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  8     Turn the ignition off.                                                                     All
+        Remove the Fuel Pump Relay from the PDC.
+        Using a 12-volt test light connected to ground, backprobe the Fuel Pump Relay Fused
+        B+ circuit at the PDC.
+        Does the test light illuminate?
+
+                 Yes   → Go To     9
+
+                 No    → Repair the open or short to ground in the (A61) Fuel Pump Realy
+                         Fused B+ circuit. Inspect the fuse and repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  9     Disconnect the Fuel Pump Module harness connector.                                         All
+        Measure the resistance of the (A141) Fuel Pump Relay Output circuit from the relay
+        connector to the Fuel Pump Module connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Replace the Fuel Pump Relay.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Repair the open in the (A141) Fuel Pump Relay Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                      277
+

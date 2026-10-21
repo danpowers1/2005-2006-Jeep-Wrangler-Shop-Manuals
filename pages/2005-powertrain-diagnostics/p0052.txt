@@ -1,0 +1,49 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELA-
+    TION - VACUUM LEAK DETECTED
+    P2074-MAP SENSOR/TP SENSOR CORRELATION - VACUUM LEAK
+    DETECTED
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0068-MANIFOLD PRESSURE/
+             THROTTLE POSITION CORRELATION - VACUUM LEAK DE-
+             TECTED.
+
+
+When Monitored and Set Condition:
+
+     P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELATION - VAC-
+     UUM LEAK DETECTED
+     When Monitored:   During all drive modes.
+     Set Condition: If vacuum drops below 1.59Hg with engine RPM greater than 2000 RPM
+     and closed throttle.
+
+     P2074-MAP SENSOR/TP SENSOR CORRELATION - VACUUM LEAK DETECTED
+     When Monitored:   During all drive modes.
+     Set Condition: If vacuum drops below 1.59Hg with engine RPM greater than 2000 RPM
+     and closed throttle. One Trip Fault. Three good trips to turn off the MIL.
+
+
+
+                                 POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VACUUM LEAK
+RESISTANCE IN (F856) 5-VOLT SUPPLY CIRCUIT
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+MAP SENSOR
+RESISTANCE IN THE (K1) MAP SIGNAL CIRCUIT
+(K1) MAP SIGNAL CIRCUIT SHORTED TO GROUND
+RESISTANCE IN THE (K900) SENSOR GROUND CIRCUIT
+TP SENSOR OPERATION
+RESISTANCE IN THE (F855) 5-VOLT SUPPLY CIRCUIT
+(F855) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+TP SENSOR
+RESISTANCE IN THE (K22) TP SENSOR NO.1 SIGNAL CIRCUIT
+(K22) TP SENSOR NO.1 SIGNAL CIRCUIT SHORTED TO GROUND
+
+
+                                          44
+

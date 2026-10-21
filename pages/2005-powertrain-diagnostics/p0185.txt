@@ -1,0 +1,59 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0498-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0498-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT LOW
+        When Monitored:       Engine running.
+        Set Condition:     The PCM detects a short in the NVLD Canister vent solenoid circuits. One
+        trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+NVLD SOLENOID
+(K106) NVLD SOL CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      Check for any related TSBs before continuing.                                           All
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+
+                  Yes    → Go To   2
+                  No     → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the NVLD electrical harness connector.
+          Measure the resistance of the NVLD Solenoid coil.
+          Is the resistance between 7.5 and 8.5 ohms?
+
+                  Yes    → Go To   3
+
+                  No     → Replace the NVLD Assembly.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   3      Disconnect the C3 PCM harness connector.                                                All
+          Measure the resistance between ground and the (K106) NVLD Sol Control circuit at
+          the NVLD electrical harness connector.
+          Is the resistance below 5.0 ohms?
+
+                  Yes    → Repair the short to ground in the (K106) NVLD Sol Control
+                           circuit.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No     → Go To   4
+
+
+
+
+                                                     177
+

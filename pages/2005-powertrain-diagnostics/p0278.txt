@@ -1,0 +1,54 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    *CHECKING A/C SYSTEM OPERATION WITH NO DTCS
+
+
+
+
+                                          POSSIBLE CAUSES
+CHECK FOR PCM DTCS
+REFRIGERATION SYSTEM NOT PROPERLY CHARGED
+HIGH PRESS CUT-OFF SWITCH
+LOW PRESSURE SWITCH
+POWERTRAIN CONTROL MODULE
+A/C CLUTCH COIL
+A/C COMPRESSOR CLUTCH GROUND CIRCUIT OPEN
+(C3) A/C CLUTCH RELAY OUTPUT CIRCUIT OPEN
+A/C REQUEST CIRCUIT OPEN
+(A17) FUSED B+ CIRCUIT OPEN
+A/C CLUTCH RELAY
+A/C - HEATER CONTROL MODULE
+BODY CONTROL MODULE
+A/C ON/OFF CONTROL CIRCUIT OPEN
+A/C ON/OFF CONTROL CIRCUIT OPEN
+
+ TEST                                       ACTION                                         APPLICABILITY
+  1     With the DRBIIIt, check for PCM DTCs.                                                   All
+        Are any DTCs present?
+                 Yes   → Return to the symptom list and choose the symptom(s).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                 No    → Go To    2
+
+  2     Turn the ignition off.                                                                  All
+        Verify that the Refrigerant System is properly charged per Service Procedure.
+        Is the Refrigerant System properly charged?
+
+                 Yes   → Go To    3
+
+                 No    → Properly charge the Refrigerant System per Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+  3     Verify the High Pressure Cut-Off Switch operation per Service Information.              All
+        Is the High Pressure Cut-Off Switch OK?
+                 Yes   → Go To    4
+
+                 No    → Replace the High Pressure Cut-Off Switch.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+
+                                                    270
+

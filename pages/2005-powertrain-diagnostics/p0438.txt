@@ -1,0 +1,53 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    *CHECKING PARK/NEUTRAL SWITCH OPERATION
+
+
+
+
+                                            POSSIBLE CAUSES
+P/N POSITION SWITCH SENSE CIRCUIT OPEN
+P/N POSITION SWITCH SENSE CIRCUIT SHORTED TO GROUND
+TRANSMISSION RANGE SENSOR
+PCM - P/N POSITION SWITCH
+
+ TEST                                         ACTION                                             APPLICABILITY
+  1     Turn the ignition on.                                                                         All
+        With the DRBIIIt, read the Park/Neutral Position Switch input state.
+        While moving the gear selector through all gear positions, Park to 1 and back to Park,
+        watch the DRBIIIt display.
+        Did the DRBIIIt display show P/N and D/R in the correct gear positions?
+                 Yes   → Test Complete.
+                 No    → Go To     2
+
+  2     Turn the ignition off.                                                                        All
+        Disconnect the PCM harness connectors.
+        Disconnect the Transmission Range Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the P/N Position Switch Sense circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To     3
+                 No    → Repair the P/N Position Switch Sense circuit for an open.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+  3     Turn the ignition off.                                                                        All
+        Disconnect the PCM harness connectors.
+        Disconnect the Transmission Range Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the P/N Position Switch Sense circuit.
+        Is the resistance above 100k ohms?
+
+                 Yes   → Go To     4
+
+                 No    → Repair the P/N Position Switch Sense circuit for a short to ground.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+
+
+
+                                                       430
+

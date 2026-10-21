@@ -1,0 +1,60 @@
+DRIVEABILITY - NGC
+
+P0688-ASD RELAY SENSE CIRCUIT LOW — Continued
+
+ TEST                                         ACTION                                              APPLICABILITY
+  3     Turn the ignition off.                                                                         All
+        Remove the ASD Relay from the PDC.
+        Disconnect the C3 PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K334) ASD Relay Output circuit from the PDC to the
+        appropriate terminals of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     8
+
+                 No    → Repair the open in the (K334) ASD Relay Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  4     Turn the ignition off.                                                                         All
+        Install a substitute relay in place of the ASD Relay.
+        Ignition on, engine not running.
+        With the DRBIIIt, erase DTCs.
+        Attempt to start the engine.
+        With the DRBIIIt, read DTCs.
+        Does the DTC reset?
+
+                 Yes   → Go To     5
+                 No    → Replace the ASD Relay.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     Turn the ignition off.                                                                         All
+        Remove the ASD Relay from the PDC.
+        Using a 12-volt test light connect to ground, probe the (A209) Fused B+ circuits in the
+        PDC.
+        Does the test light illuminate brightly?
+                 Yes   → Go To     6
+
+                 No    → Repair the open or short to ground in the (A209) Fused B+
+                         circuits. Inspect the related fuse and repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     Disconnect the C3 PCM harness connector.                                                       All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K334) ASD Relay Output circuit from the PDC to the
+        appropriate terminals of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     7
+                 No    → Repair the open in the (K334) ASD Relay Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       242
+

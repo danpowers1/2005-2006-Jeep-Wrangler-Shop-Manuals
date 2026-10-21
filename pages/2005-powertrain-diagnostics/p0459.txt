@@ -1,0 +1,60 @@
+                                                                                VERIFICATION TESTS
+
+Verification Tests — Continued
+
+                      POWERTRAIN VERIFICATION TEST VER - 6                                           APPLICABILITY
+1. Install the Miller Tool #8404 Evaporative Emission Leak Detector (EELD). according to the              All
+instructions in the previous DTC table.
+2. Set the smoke/air control switch to AIR.
+3. Insert the tester’s AIR supply tip (clear hose) into the appropriate calibration orifice on the
+tester’s control panel (based on DTC leak size).
+4. Press the remote smoke/air start button.
+5. Position the red flag on the air flow meter so it is aligned with the indicator ball.
+6. When the calibration is complete, release the remote button. The EELD is now calibrated the
+flow meter in liters per minute to the size leak indicated by the DTC set in the PCM.
+7. Connect the Air supply hose from the EELD to the vehicle.
+8. Press the remote button to activate AIR flow.
+9. NOTE: Larger volume fuel tanks, lower fuel levels or if the vehicle is equipped with
+a Flow Management Valve may indicate high flow and will require 4 to 5 minutes to
+fill.
+10. Compare the flow meter indicator ball reading to the red flag.
+11. ABOVE the red flag indicates a leak present.
+12. BELOW the red flag indicates a sealed system.
+13. If the indicator ball shows a leak present, perform the smoke test indicated in the previous
+test and identify the leak and repair. Perform this verification test when the repair is complete.
+Did the indicator ball indicate the a leak is present??
+
+             Yes   → Repeat the DTC test to identify the leak and repair.
+             No    → Repair is complete.
+
+
+                                    SKIS VERIFICATION                                                APPLICABILITY
+1. Reconnect all previously disconnected components and connectors.                                       All
+2. Obtain the vehicle’s unique Personal Identification Number (PIN) assigned to it’s original
+SKIM. This number can be obtained from the vehicle’s invoice or Chrysler’s Customer Center
+(1-800-992-1997).
+3. NOTE: When entering the PIN, care should be taken because the SKIM will only
+allow 3 consecutive attempts to enter the correct PIN. If 3 consecutive incorrect PINs
+are entered, the SKIM will Lock Out the DRB for 1 hour.
+4. To exit Lock Out mode, the ignition key must remain in the Run position continually for 1
+hour. Turn off all accessories and connect a battery charger if necessary.
+5. With the DRB, select Theft Alarm, SKIM and Miscellaneous. Then, select the desired
+procedure and follow the steps that will be displayed.
+6. If the SKIM has been replaced, ensure all of the vehicle ignition keys are programmed to the
+new SKIM.
+7. NOTE: Prior to returning vehicle to the customer, perform a module scan to be sure
+that all DTCs are erased. Erase any DTCs that are found.
+8. With the DRB, erase all DTCs. Perform 5 ignition key cycles leaving the key on for at least
+90 seconds per cycle.
+9. With the DRB, read the SKIM DTCs.
+Are there any SKIM DTCs?
+
+             Yes   → Repair is not complete, refer to appropriate symptom.
+
+             No    → Repair is complete.
+
+
+
+
+                                                          451
+

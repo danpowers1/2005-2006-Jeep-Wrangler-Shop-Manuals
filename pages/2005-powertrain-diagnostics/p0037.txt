@@ -1,0 +1,48 @@
+                                                                                COMMUNICATION
+
+*NO RESPONSE FROM TRANSMISSION CONTROL MODULE - NGC —
+Continued
+ TEST                                       ACTION                                            APPLICABILITY
+   3    Turn the ignition off.                                                                     All
+        Disconnect the PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Using a 12-volt test light connected to ground, probe the Fused B(+) circuit in the
+        appropriate terminal of special tool #8815.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Is the test light illuminated?
+
+                 Yes   → Go To    4
+
+                 No    → Repair the Fused B(+) circuit for an open. Refer to the wiring
+                         diagrams located in the Service Information.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+   4    Turn the ignition off.                                                                     All
+        Disconnect the PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Using a 12-volt test light connected to 12-volts, probe each ground circuit in the
+        appropriate terminal of special tool #8815.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Is the light illuminated at all ground circuits?
+                 Yes   → Go To    5
+
+                 No    → Repair the Ground circuit(s) for an open. Check the main ground
+                         connection to engine block and/or chassis. Refer to the wiring
+                         diagrams located in the Service Information.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+
+                                                     29
+

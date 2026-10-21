@@ -1,0 +1,48 @@
+                                                                        DRIVEABILITY - NGC
+
+Symptom:
+    P0455-EVAP SYSTEM LARGE LEAK
+
+
+
+When Monitored and Set Condition:
+
+        P0455-EVAP SYSTEM LARGE LEAK
+        When Monitored: Engine Running. Cold start test. Fuel Level greater than 12%. Ambient
+        Temperature between 4°C and 32°C (39°F and 89°F) Close Loop fuel system. Test runs
+        when small leak test is maturing.
+        Set Condition: The PCM activates the EVAP Purge Solenoid to pull the EVAP system into
+        a vacuum to close the NVLD swtich. Once the NVLD switch is closed, the PCM turns the
+        EVAP Purge solenoid off to seal the EVAP system. If the NVLD switch reopens before the
+        calibrated amount of time for a Large leak an error is detected. Two Trip Fault.
+
+
+
+                                          POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+INTERMITTENT CONDITION
+VISUAL AND PHYSICAL INSPECTION
+VERIFY EVAPORATIVE EMISSION SYSTEM LEAK
+EVAPORATIVE EMISSION LEAK DETECTION
+EVAP PURGE SOLENOID OPERATION
+
+ TEST                                       ACTION                                        APPLICABILITY
+   1      Check for any related TSBs before continuing.                                        All
+          NOTE: Since a hot vehicle can conceal a leak, it is best to perform this test
+          at room temperature.
+          NOTE: A loose gas cap could have caused this DTC to set. Make sure gas cap
+          is tight and in good condition. Ensure the gas cap meets OEM specifications.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To   2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+
+
+
+                                                    157
+

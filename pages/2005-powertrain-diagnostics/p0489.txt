@@ -1,0 +1,50 @@
+                                    CONNECTOR PINOUTS
+
+
+
+                      THROTTLE POSITION SENSOR (4.0L) - 3 WAY
+CAV             CIRCUIT                               FUNCTION
+ 1    F855 20PK/YL             5 VOLT SUPPLY
+ 2    K900 20DB/DG             SENSOR GROUND
+ 3    K22 18BR/OR              TP NO. 1 SIGNAL
+
+
+
+
+                      TOW/HAUL OVERDRIVE OFF SWITCH - 4 WAY
+CAV             CIRCUIT                               FUNCTION
+ 1    Z1 20BK                  GROUND
+ 2    T6 20DG                  TOW/HAUL OVERDRIVE OFF SWITCH SENSE
+ 3    T56 20DB/LB              OVERDRIVE OFF SWITCH INDICATOR
+ 4    E2 20OR/BR               PANEL LAMPS FEED                      C
+                                                                     O
+                                                                     N
+                                                                     N
+                                                                     E
+                                                                     C
+                                                                     T
+                                                                     O
+      TRANSFER CASE SWITCH (EXCEPT OFF-ROAD PACKAGE) - BLACK 2 WAY
+                                                                     R
+CAV             CIRCUIT                               FUNCTION
+A     G93 20VT/LB              4WD INDICATOR                         P
+B     Z987 18BK                GROUND                                I
+                                                                     N
+                                                                     O
+                                                                     U
+                                                                     T
+                                                                     S
+
+
+
+
+          TRANSFER CASE SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+CAV             CIRCUIT                               FUNCTION
+ 1    K77 18BR/WT              TRANSFER CASE POSITION SENSOR INPUT
+ 2    K900 20DB/DG             SENSOR GROUND
+
+
+
+
+                481
+

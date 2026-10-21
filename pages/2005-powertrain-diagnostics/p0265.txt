@@ -1,0 +1,47 @@
+                                                                          DRIVEABILITY - NGC
+
+P2096-DOWN STREAM FUEL TRIM LEAN BANK 1 — Continued
+
+
+
+
+                                         POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+EXHAUST LEAK
+ENGINE MECHANICAL PROBLEM
+O2 SENSOR
+O2 SIGNAL CIRCUIT
+O2 RETURN CIRCUIT
+FUEL CONTAMINATION
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     NOTE: Check the vehicle repair history. If the O2 has been replace ensure                All
+        that the O2 sensor was properly installed and meets OEM specification.
+        NOTE: Check for contaminants that may have damaged the O2 Sensor:
+        contaminated fuel, unapproved silicone, oil and coolant.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+                Yes   → Go To     2
+                No    → Refer to the INTERMITTENT CONDITION symptom in the
+                        Driveability category.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Turn the ignition off.                                                                   All
+        WARNING: To avoid personal injury from the exhaust system being hot,
+        allow the exhaust to cool down to a safe temperature before performing a
+        physical inspection.
+        Visually and Physically inspect the for holes, cracks and blockage in the exhaust
+        system.
+        Is the exhaust system is good condition?
+
+                Yes   → Go To     3
+
+                No    → Repair or Replace as necessary.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    257
+

@@ -1,0 +1,51 @@
+                                                             DRIVEABILITY - NGC
+
+Symptom List:
+    P0131-O2 SENSOR 1/1 CIRCUIT LOW VOLTAGE
+    P0137-O2 SENSOR 1/2 CIRCUIT LOW VOLTAGE
+    P0151-O2 SENSOR 2/1 CIRCUIT LOW VOLTAGE
+    P0157-O2 SENSOR 2/2 CIRCUIT LOW VOLTAGE
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P0131-O2 SENSOR 1/1 CIRCUIT
+              LOW VOLTAGE.
+
+
+When Monitored and Set Condition:
+
+      P0131-O2 SENSOR 1/1 CIRCUIT LOW VOLTAGE
+      When Monitored: Engine running for less than 30 seconds and the O2 Sensor Heater
+      Temperature is less than 251°C (484°F) with battery voltage greater 10.4 volts.
+      Set Condition: The oxygen sensor signal voltage is below 2.411 volts for 10.24 seconds
+      after starting engine. One Trip Fault.
+
+      P0137-O2 SENSOR 1/2 CIRCUIT LOW VOLTAGE
+      When Monitored: Engine running for less than 30 seconds and the O2 Sensor Heater
+      Temperature is less than 251°C (484°F) with battery voltage greater 10.4 volts.
+      Set Condition: The oxygen sensor signal voltage is below 2.411 volts for 10.24 seconds
+      after starting engine. One Trip Fault.
+
+      P0151-O2 SENSOR 2/1 CIRCUIT LOW VOLTAGE
+      When Monitored: Engine running for less than 30 seconds and the O2 Sensor Heater
+      Temperature is less than 251°C (484°F) with battery voltage greater 10.4 volts.
+      Set Condition: The oxygen sensor signal voltage is below 2.411 volts for 10.24 seconds
+      after starting engine. One Trip Fault.
+
+      P0157-O2 SENSOR 2/2 CIRCUIT LOW VOLTAGE
+      When Monitored: Engine running for less than 30 seconds and the O2 Sensor Heater
+      Temperature is less than 251°C (484°F) with battery voltage greater 10.4 volts.
+      Set Condition: The oxygen sensor signal voltage is below 2.411 volts for 10.24 seconds
+      after starting engine. One Trip Fault.
+
+
+
+                                   POSSIBLE CAUSES
+O2 SENSOR BELOW 2.52 VOLTS
+O2 SENSOR
+O2 RETURN CIRCUIT SHORTED TO GROUND
+PCM
+
+
+                                            91
+

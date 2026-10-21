@@ -1,0 +1,50 @@
+                                                               DRIVEABILITY - NGC
+
+Symptom List:
+    P0031-O2 SENSOR 1/1 HEATER CIRCUIT LOW
+    P0037-O2 SENSOR 1/2 HEATER CIRCUIT LOW
+    P0051-O2 SENSOR 2/1 HEATER CIRCUIT LOW
+    P0057-O2 SENSOR 2/2 HEATER CIRCUIT LOW
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P0031-O2 SENSOR 1/1 HEATER
+              CIRCUIT LOW.
+
+
+When Monitored and Set Condition:
+
+      P0031-O2 SENSOR 1/1 HEATER CIRCUIT LOW
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      on.
+      Set Condition:   O2 Heater element input is below the minimum acceptable voltage.
+
+      P0037-O2 SENSOR 1/2 HEATER CIRCUIT LOW
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      on.
+      Set Condition:   O2 Heater element input is below the minimum acceptable voltage.
+
+      P0051-O2 SENSOR 2/1 HEATER CIRCUIT LOW
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      on.
+      Set Condition:   O2 Heater element input is below the minimum acceptable voltage.
+
+      P0057-O2 SENSOR 2/2 HEATER CIRCUIT LOW
+      When Monitored:    Battery voltage above 10.6 volts, ASD is powered up, and O2 heater is
+      on.
+      Set Condition:   O2 Heater element input is below the minimum acceptable voltage.
+
+
+
+                                    POSSIBLE CAUSES
+O2 SENSOR HEATER OPERATION
+O2 HEATER ELEMENT
+O2 HEATER CONTROL CIRCUIT
+O2 HEATER CONTROL SHORTED TO GROUND
+PCM
+
+
+
+
+                                             39
+

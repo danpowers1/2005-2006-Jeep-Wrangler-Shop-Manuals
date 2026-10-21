@@ -1,0 +1,69 @@
+GENERAL INFORMATION
+DTC        Diagnostic Trouble Code                    LDP       Leak Detection Pump
+DVOM       Digital Volt Ohm Meter                     LED       Light Emitting Diode
+EATX       Electronic Automatic Transmission          LPS       Line Pressure Sensor
+           Controller
+                                                      LR        Low/reverse Clutch
+EC         European Community
+                                                      LSIACV    Linear Solenoid Idle Air Control
+ECT        Engine Coolant Temperature Sensor                    Valve
+Sensor
+                                                      MAF       Mass Air flow
+EE-        Electrically Erasable Programmable
+                                                      MAP       Manifold Absolute Pressure Sensor
+PROM       Read Only Memory
+                                                      Sensor
+EGR        Exhaust Gas Recirculation Valve
+                                                      MDS2t     Mopar Diagnostic System 2nd Gen-
+Valve
+                                                                eration
+EMCC       Electronically Modulated Converter
+                                                      MIL       Malfunction Indicator Lamp
+           Clutch
+                                                      MS        Multi Select
+EMI        Electro-Magnetic Interference
+                                                      MTV       Manifold Tuning Valve
+EOBD       European OBD (based upon Euro
+           Stage III)                                 NGC       Next Generation Controller
+EPA        Environmental Protection Agency            NTC       Negative Temperature Coefficient
+EPP        Engine Position Pulse                      NVLD      Natural Vacuum Leak Detection
+ETC        Electronic Throttle Control                O2 Sen-   Oxygen Sensor
+                                                      sor
+EU         European Union
+                                                      O2S       Oxygen Sensor
+EVAP       Evaporative Emission System
+                                                      OBD I     On Board Diagnostics 1st Genera-
+EVR        Electronic Voltage Regulator
+                                                                tion
+EWMA       Exponentially Weighted Moving Av-
+                                                      OBD II    On-Board Diagnostics 2nd Genera-
+           erage
+                                                                tion
+FEMCC      Fully Electronically Modulated Con-
+                                                      OD        Overdrive Clutch
+           verter Clutch
+                                                      ORVR      On-Board Refueling Vapor Recovery
+FTP        Federal Test Procedure
+                                                      OSS       Output Speed Sensor
+FSS        Fan Speed signal
+                                                      PCI BUS   Programmable Communications In-
+HC         Hydrocarbons
+                                                                terface BUS (J1850)
+HO2S       Heated Oxygen Sensor
+                                                      PCM       Powertrain Control Module
+Genera-    Previously called 9alternator9
+                                                      PCS       Pressure Control Solenoid
+tor
+                                                      PCV       Positive Crankcase Ventilation
+IAC Mo-    Idle Air Control Motor
+tor                                                   PDC       Power Distribution Center
+IAT Sen-   Intake Air Temperature Sensor              PEMCC     Partial Electronically Modulated
+sor                                                             Converter Clutch
+IOD        Ignition off draw                          PEP       Peripheral Expansion Port
+IRT        Intelligent Recovery Timer                 P/N       Park/Neutral
+ISS        Input Speed Sensor                         PPS       Proportional Purge Solenoid
+I/M        Inspection and Maintenance Testing         PS        Power Steering
+JTEC       Jeep/Truck Engine Controller
+
+                                                 18
+

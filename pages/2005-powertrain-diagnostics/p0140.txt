@@ -1,0 +1,54 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0340-CAMSHAFT POSITION SENSOR CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0340-CAMSHAFT POSITION SENSOR CIRCUIT
+        When Monitored:       Engine cranking/running. Battery voltage greater than 10 volts.
+        Set Condition: At least 5 seconds or 2.5 engine revolutions have elapsed with crankshaft
+        position sensor signals present but no camshaft position sensor signal.
+
+
+
+                                           POSSIBLE CAUSES
+INTERMITTENT CMP SIGNAL
+INTERMITTENT CKP SIGNAL
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO VOLTAGE
+(F856) 5-VOLT SUPPLY CIRCUIT OPEN
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+(K44) CMP SIGNAL CIRCUIT SHORTED TO VOLTAGE
+(K44) CMP SIGNAL CIRCUIT OPEN
+(K44) CMP SIGNAL CIRCUIT SHORTED TO GROUND
+(K44) CMP SIGNAL SHORTED TO THE (F856) 5-VOLT SUPPLY CIRCUIT
+(K900) SENSOR GROUND CIRCUIT OPEN
+CAMSHAFT POSITION SENSOR
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Crank the engine.                                                                        All
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To     2
+
+                  No    → Go To    14
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the CMP Sensor harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (F856) 5-volt Supply circuit in the CMP Sensor harness
+          connector.
+          Is the voltage between 4.5 and 5.2 volts?
+                  Yes   → Go To     3
+
+                  No    → Go To    10
+
+
+
+
+                                                      132
+

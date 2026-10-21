@@ -1,0 +1,67 @@
+                                                                          DRIVEABILITY - NGC
+
+P0116-ENGINE COOLANT TEMPERATURE CIRCUIT PERFORMANCE —
+Continued
+ TEST                                      ACTION                                           APPLICABILITY
+   3    Turn the ignition off.                                                                   All
+        Connect the C2 PCM harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt, read the ECT Sensor voltage.
+        Is the voltage above 4.6 volts?
+                Yes   → Go To     4
+
+                No    → Go To    7
+
+   4    Connect a jumper wire between the (K2) ECT Signal circuit and the (K900) Sensor          All
+        ground circuit at the ECT Sensor harness connector.
+        With the DRBIIIt, read the ECT voltage.
+        Is the voltage below 1.0 volt?
+
+                Yes   → Replace the ECT Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    5
+
+   5    Turn the ignition off.                                                                   All
+        Disconnect the C2 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K2) ECT Signal circuit from the ECT Sensor harness
+        connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     6
+                No    → Repair the open in the (K2) ECT Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   6    CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING                                All
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K900) Sensor ground circuit from the ECT Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     9
+
+                No    → Repair the open in the (K900) Sensor ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   7    Turn the ignition off.                                                                   All
+        Disconnect the C2 PCM harness connector.
+        Measure the resistance between ground and the (K2) ECT Signal circuit at the ECT
+        Sensor harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the (K2) ECT Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    8
+
+
+
+
+                                                    69
+

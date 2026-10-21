@@ -1,0 +1,22 @@
+VERIFICATION TESTS
+
+Verification Tests — Continued
+
+            TRANSMISSION NO TROUBLE CODE VERIFICATION TEST                                         APPLICABILITY
+1. Inspect the vehicle to ensure that all engine and transmission components are properly               All
+installed and connected. Assemble and connect components as necessary.
+2. Check if the initial symptom still exists, this may require a road test. If the symptom still
+exists, return to the symptom list and perform the appropriate symptom. Make sure to check
+for any Technical Service Bulletins that may apply.
+3. With the DRBIIIt, erase any erroneous DTCs that may have been set due to a test procedure.
+Does the symptom still exist?
+
+            Yes   → Repair is not complete, refer to appropriate symptom.
+
+            No    → Repair is complete.
+
+
+
+
+                                                         452
+

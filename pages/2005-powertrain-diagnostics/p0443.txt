@@ -1,0 +1,57 @@
+                                                                        TRANSMISSION - 42RLE
+
+Symptom:
+    *TRANSMISSION SHIFTS EARLY WITH NO DTC’S
+
+
+
+
+                                            POSSIBLE CAUSES
+BUS PROBLEMS
+CHECK FOR INTERMITTENT WIRING & CONNECTORS
+COLD TRANSMISSION
+
+ TEST                                         ACTION                                              APPLICABILITY
+  1     Using the DRBIIIt, check all other Modules for signs of a PCI bus problem such as              All
+        bus related DTC’s and/or communication problems.
+        Check and diagnose all 1 trip failures as a hard code.
+        Although it takes two occurences of a missed TRD link message to set the DTC
+        P1793, one missed message will cause the transmission to short shift until the next
+        start up. If the vehicle has any indications of a bus problem, the bus must be repaired
+        first
+        Do any of the other modules show signs of a bus problem?
+
+                 Yes   → Repair the PCI bus problem.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     2
+
+  2     NOTE: If the Transmission shifts too early when the Transmission is cold,                      All
+        this is a normal condition. The software is designed to protect the Trans-
+        mission from high torque and/or high RPM shifts during cold operation.
+        Did the problem occur when the Transmission temperature was cold?
+                 Yes   → This is a normal condition.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To     3
+
+  3     The conditions necessary to set the DTC are not present at this time. Using the                All
+        schematics as a guide, inspect the wiring and connectors. Wiggle the wires while
+        checking for shorts and open circuits.
+        Although it takes two occurences of a missed TRD link message to set the DTC
+        P1793, one missed message will cause the transmission to short shift until the next
+        start up. If the vehicle has any indications of a bus problem, the bus must be repaired
+        first
+        Were any problems found?
+                 Yes   → Repair wiring and/or connector as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                       435
+

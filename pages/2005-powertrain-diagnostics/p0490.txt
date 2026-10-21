@@ -1,0 +1,52 @@
+    CONNECTOR PINOUTS
+                                                TRANSMISSION RANGE SENSOR - 10 WAY
+                        CAV           CIRCUIT                                 FUNCTION
+                         1    F102 20PK/DB             FUSED IGNITION SWITCH OUTPUT (RUN)
+                         2                  -                                      -
+                         3    T13 18DG/VT              SPEED SENSOR GROUND
+                         4    T54 18DG/OR              TRANSMISSION TEMPERATURE SENSOR SIGNAL
+                         5                  -                                      -
+                         6    L1 20WT/LG               BACK-UP LAMP FEED
+                         7    T1 18DG/LB               TRS T1 SENSE
+                         8    T3 18DG/DB               TRS T3 SENSE
+                         9    T42 18DG/YL              TRS T42 SENSE
+                        10    T41 18YL/DB              TRS T41 SENSE (P/N)
+
+
+                                TRANSMISSION SOLENOID/PRESSURE SWITCH ASSEMBLY - 10 WAY
+                        CAV           CIRCUIT                                 FUNCTION
+                         1    T60 16YL/GY              OD SOLENOID CONTROL
+                         2    T59 16YL/LB              UD SOLENOID CONTROL
+                         3    T16 16YL/OR              TRANSMISSION CONTROL RELAY OUTPUT
+                         4    T19 16YL/DB              2-4 SOLENOID CONTROL
+                         5    T47 18YL/DG              2-4 PRESSURE SWITCH SENSE
+                         6    T9 18DG/TN               OD PRESSURE SWITCH SENSE
+
+C                        7    T20 16DG/WT              L/R SOLENOID CONTROL
+
+O                        8                  -                                      -
+
+N                        9                  -                                      -
+
+N                       10    T50 18YL/TN              L/R PRESSURE SWITCH SENSE
+
+E
+C
+T
+O
+                                                VEHICLE SPEED SENSOR - BLACK 3 WAY
+R                       CAV           CIRCUIT                                 FUNCTION
+                         1    F856 20YL/PK             5 VOLT SUPPLY
+P                        2    K900 20DB/DG             SENSOR GROUND
+I                        3    K75 18DB/OR              VEHICLE SPEED SENSOR SIGNAL
+N
+O
+U
+T
+S
+
+
+
+
+                                     482
+

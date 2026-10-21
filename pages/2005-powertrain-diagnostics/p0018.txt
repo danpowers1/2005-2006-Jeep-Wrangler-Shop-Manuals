@@ -1,0 +1,68 @@
+GENERAL INFORMATION
+TEST EQUIPMENT                                                 Exhaust System - The PCM cannot detect a
+   The Evaporative Emission Leak Detector (EELD)               plugged, restricted, or leaking exhaust system.(*)
+Miller Special Tool 8404 is capable of visually de-
+                                                               Cylinder Compression - The PCM cannot detect
+tecting leaks in the evaporative system and will
+                                                               uneven, low, or high engine cylinder compres-
+take the place of the ultrasonic leak detector 6917A.
+                                                               sion.(*)
+The EELD utilizes shop air and a smoke generator
+to visually detect leaks down to 0.020 or smaller.             Excessive Oil Consumption - Although the PCM
+The food grade oil used to make the smoke includes             monitors the exhaust oxygen content through the
+an UV trace dye that will leave telltale signs of the          oxygen sensor when the system is in a closed loop, it
+leak under a black light. This is helpful when                 cannot determine excessive oil consumption.
+components have to be removed to determine the
+exact leak location. For detailed test instructions,           NOTE: Any of these conditions could result
+follow the operators manual packaged with the                  in a rich or lean condition causing an oxygen
+EELD.                                                          sensor trouble code to be stored in the PCM,
+                                                               or the vehicle may exhibit one or more of the
+3.2.6    NON-MONITORED CIRCUITS                                driveability symptoms listed in the Table of
+   The PCM does not monitor the following circuits,            Contents.
+systems, and conditions even though they could
+have malfunctions that result in driveability prob-            3.3   DIAGNOSTIC TROUBLE CODES
+lems. A diagnostic code may not be displayed for the
+following conditions. However, problems with these                Diagnostic trouble codes (DTCs) are codes stored
+systems may cause a diagnostic code to be displayed            by the Powertrain Control Module (PCM) that help
+for other systems. For example, a fuel pressure                us diagnose Powertrain, Transmission and Trans-
+problem will not register a diagnostic code directly,          fercase problems. They are viewed using the
+but could cause a rich or lean condition. This could           DRBIIIt scan tool. Always begin by performing a
+cause an oxygen sensor, fuel system, or misfire                visual inspection of the wiring, connectors, fluid
+monitor trouble code to be stored in the PCM.                  level, cooler lines, engine, and the transmission.
+                                                               Any obvious wiring problems or leaks should be
+Engine Timing - The PCM cannot detect an in-
+                                                               repaired prior to performing any diagnostic test
+correctly indexed timing chain, camshaft sprocket,
+                                                               procedures. Some engine driveability problems can
+or crankshaft sprocket. The PCM also cannot detect
+                                                               be misinterpreted as a transmission problem. En-
+an incorrectly indexed distributor or Cam sensor.(*)
+                                                               sure that the engine is running properly and that
+Fuel Pressure - Fuel pressure is controlled by the             no engine DTCs are present that could cause a
+fuel pressure regulator. The PCM cannot detect a               transmission complaint. If there is a communica-
+clogged fuel pump inlet filter, clogged in-line filter,        tion bus problem, trouble codes will not be accessi-
+or a pinched fuel supply.(*)                                   ble until the problem is fixed. The DRBIIIt will
+                                                               display an appropriate message. The following is a
+Fuel Injectors - The PCM cannot detect a clogged               possible list of causes for a bus problem:
+fuel injector, a sticking pintle, or that an incorrect            – open or short to ground/battery in PCI bus
+injector is installed.(*)                                             circuit.
+Fuel Requirements - Poor quality gasoline can                     – internal failure of any module or component on
+cause problems such as hard starting, stalling, and                   the bus
+stumble. Use of methanol-gasoline blends may re-                  Each diagnostic trouble code is diagnosed by
+sult in starting and driveability problems. (See               following a specific testing sequence. The diagnostic
+individual symptoms and their definitions in Sec-              test procedures contain step-by-step instructions
+tion 6.0 (Glossary of Terms).                                  for determining the cause of a transmission diag-
+                                                               nostic trouble code. Possible sources of the code are
+PCM Grounds - The PCM cannot detect a poor                     checked and eliminated one by one. It is not neces-
+system ground. However, a diagnostic trouble code              sary to perform all of the tests in this book to
+may be stored in the PCM as a result of this                   diagnose an individual code. These tests are based
+condition.                                                     on the problem being present at the time that the
+                                                               test is run.
+Throttle Body Air Flow - The PCM cannot detect                    If the Engine or Transmission records a DTC that
+a clogged or restricted air cleaner inlet or filter            will adversely affect vehicle emissions, it will re-
+element.(*)                                                    quest (via the communication bus) that the PCM
+                                                               illuminate the Malfunction Indicator Lamp (MIL).
+                                                               Although these DTCs will be stored in the PCM
+
+                                                          10
+

@@ -1,0 +1,58 @@
+                                                                               DRIVEABILITY - NGC
+
+Symptom:
+    P0111-INTAKE AIR TEMPERATURE SENSOR PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0111-INTAKE AIR TEMPERATURE SENSOR PERFORMANCE
+        When Monitored: The engine off time is greater than 480 minutes. Ambient Temperature
+        is greater than 4 deg C (38 deg F).
+        Set Condition: After a calibrated amount of cool down time the PCM compares the ECT
+        Sensor, IAT Sensor, and the Ambient Air Temp Sensor values. The IAT Sensor value is not
+        within -10 deg C (18 deg F) of the other two temperature sensors. Two Trip Fault.
+
+
+
+                                             POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(K21) IAT SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+IAT SENSOR
+(K21) IAT SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+(K21) IAT SIGNAL CIRCUIT SHORTED TO GROUND
+(K21) IAT SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND
+PCM
+
+ TEST                                          ACTION                                             APPLICABILITY
+   1      Ignition on, engine not running.                                                             All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To     2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                       All
+          Disconnect the IAT Sensor harness connector.
+          Disconnect the C2 PCM harness connector.
+          NOTE: Visually inspect both the component and the PCM connectors. Look
+          for damaged, partially broken wires, and backed out or corroded terminals.
+          Ignition on, engine not running.
+          Using a 12-volt test light connected to ground, probe the (K21) IAT Signal circuit in
+          the IAT Sensor harness connector.
+          Does the test light illuminate brightly?
+
+                   Yes   → Repair the short to voltage in the (K21) IAT Signal circuit.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To     3
+
+
+
+
+                                                         61
+

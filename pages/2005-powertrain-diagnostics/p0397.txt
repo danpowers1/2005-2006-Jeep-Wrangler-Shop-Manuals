@@ -1,0 +1,58 @@
+                                                                       TRANSMISSION - 42RLE
+
+P0890-SWITCHED BATTERY — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  3     Turn the ignition off to the lock position.                                                  All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Remove the Transmission Control Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector.
+        Ignition on, engine not running.
+        Measure the voltage of the 2/4 Pressure Switch Sense circuit.
+        Is the voltage above 0.5 volt?
+                 Yes   → Repair the 2/4 Pressure Switch Sense circuit for a short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     4
+
+  4     Turn the ignition off to the lock position.                                                  All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector.
+        Ignition on, engine not running.
+        Measure the voltage of the L/R Pressure Switch Sense circuit.
+        Is the voltage above 0.5 volt?
+
+                 Yes   → Repair the L/R Pressure Switch Sense circuit for a short to
+                         voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+  5     The conditions necessary to set this DTC are not present at this time.                       All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                      389
+

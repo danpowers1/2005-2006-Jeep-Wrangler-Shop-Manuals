@@ -1,0 +1,60 @@
+                                                                              DRIVEABILITY - NGC
+
+Symptom:
+    P0563-BATTERY VOLTAGE HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0563-BATTERY VOLTAGE HIGH
+        When Monitored: With the ignition on. Engine RPM greater than 1000 RPM. With no
+        other charging system codes set.
+        Set Condition: The battery sensed voltage is 1 volt above the charging goal for 13.47
+        seconds. The PCM senses the battery voltage turns off the field driver and senses the
+        battery voltage again. If the voltages are the same, the code is set.
+
+
+
+                                             POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+GENERATOR OPERATION
+(K125) GEN FIELD CONTROL CIRCUIT SHORTED TO BATTERY VOLTAGE
+PCM
+
+ TEST                                          ACTION                                         APPLICABILITY
+   1      NOTE: Make sure the Battery is in good condition. Using the Midtronics                   All
+          Battery Tester, test the Battery before continuing.
+          NOTE: Inspect the vehicle for after market accessories that may exceed the
+          Generator System output.
+          Turn the ignition off.
+          NOTE: Make sure the generator drive belt is in good operating condition.
+          NOTE: Inspect the fuses in the PDC. If a fuse is found to be open use the
+          wiring diagram/schematic as a guide, inspect the wiring and connectors for
+          damage.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the Generator Field harness connector.
+          Using a 12-volt test light, jump it across the Generator Field harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, actuate the Generator Field Control circuit.
+          Does the test light illuminate brightly and flash on and off?
+
+                   Yes   → Replace the Generator.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+                   No    → Go To    3
+
+
+
+
+                                                       209
+

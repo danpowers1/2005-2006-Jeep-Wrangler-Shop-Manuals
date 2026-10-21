@@ -1,0 +1,49 @@
+                                                                                COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM PCM (PCM SCI ONLY) - NGC
+
+
+
+
+                                          POSSIBLE CAUSES
+CHECK PCM POWERS AND GROUNDS
+CONTROLLER ANTILOCK BRAKE
+SCI TRANSMIT CIRCUIT SHORTED TO VOLTAGE
+SCI RECEIVE CIRCUIT SHORTED TO VOLTAGE
+SCI CIRCUITS SHORTED TOGETHER
+SCI TRANSMIT CIRCUIT SHORTED TO GROUND
+SCI RECEIVE CIRCUIT SHORTED TO GROUND
+SCI RECEIVE CIRCUIT OPEN
+SCI TRANSMIT CIRCUIT OPEN
+POWERTRAIN CONTROL MODULE
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Perform the symptom Checking PCM Power and Ground Circuits in the Driveability            All
+        category.
+        NOTE: With the DRBIIIt in the generic scan tool mode, attempt to commu-
+        nicate with the PCM.
+        NOTE: If the DRBIIIt can communicate with the PCM in the generic scan
+        tool mode, it may not be necessary to perform this step.
+        Did the vehicle pass this test?
+
+                 Yes   → Go To    2
+                 No    → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  2     Turn the ignition off.                                                                    All
+        Disconnect the PCM harness connectors.
+        Disconnect the DRB from the DLC.
+        Measure the resistance between ground and the SCI Transmit circuit at the DLC (cav
+        7).
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    3
+
+                 No    → Go To    4
+
+
+
+
+                                                     23
+

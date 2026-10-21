@@ -1,0 +1,63 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    *CHECKING PCM POWERS AND GROUNDS
+
+
+
+
+                                           POSSIBLE CAUSES
+(A209) PCM FUSED B+ CIRCUIT
+(F1) AND (F26) PCM FUSED IGNITION SWITCH OUTPUT CIRCUITS
+(Z130) (Z131) PCM GROUND CIRCUITS
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     Turn the ignition off.                                                                      All
+        Disconnect the C1 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Using a 12-volt test light connected to ground, probe the (A209) PCM Fused B+
+        circuit in the appropriate terminal of special tool #8815.
+        Does the test light illuminate brightly?
+                 Yes   → Go To    2
+                 No    → Repair the open in the (A209) Fused B+ circuit. Inspect the
+                         related fuses and repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  2     CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING                                   All
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, probe the (F1) and (F26) PCM Fused
+        Ignition Switch Output (Off, Run, Start) circuits in the appropriate terminals of
+        special tool #8815.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    3
+                 No    → Repair the open in the (F1) or (F26) Fused Ignition Switch Output
+                         (Off, Run, Start) circuit(s). Inspect the related fuses and and
+                         repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  3     Turn the ignition off.                                                                      All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Using a 12-volt test light connected to battery voltage, probe the (Z130) and (Z131)
+        PCM Ground circuits in the appropriate terminals of special tool #8815.
+        Does the test light illuminate brightly?
+
+                 Yes   → Test Complete.
+
+                 No    → Repair the open in the (Z130) and (Z131) PCM Ground circuit(s).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                     274
+

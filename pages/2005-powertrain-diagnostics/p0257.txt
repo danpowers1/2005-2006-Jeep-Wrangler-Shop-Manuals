@@ -1,0 +1,47 @@
+                                                                         DRIVEABILITY - NGC
+
+Symptom:
+    P1593-SPEED CONTROL SWITCH NO.1 STUCK
+
+
+
+When Monitored and Set Condition:
+
+        P1593-SPEED CONTROL SWITCH NO.1 STUCK
+        When Monitored:      Ignition on.
+        Set Condition: S/C Switche #1 is mechanically stuck in the On/Off, Resume/Accel, or Set
+        position for too long. One trip fault.
+
+
+
+                                          POSSIBLE CAUSES
+SPEED CONTROL SWITCH STATUS
+SPEED CONTROL SWITCHES
+(V37) S/C SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+(V37) S/C SIGNAL CIRCUIT SHORTED TO GROUND
+(V37) S/C SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(V37) S/C SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                       ACTION                                         APPLICABILITY
+   1      Start the engine.                                                                     All
+          With the DRBIIIt, monitor each switch function for the Speed Control Switches.
+          Press and release each Speed Control Button.
+          - Resume/Accel
+          - Cancel
+          - Decel (Coast)
+          - On/Off
+          - Set
+          Does each switch function change status when pressing and then depressing each
+          switch?
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                  No    → Go To    2
+
+
+
+
+                                                    249
+

@@ -1,0 +1,60 @@
+DRIVEABILITY - NGC
+
+P0132-O2 SENSOR 1/1 CIRCUIT HIGH VOLTAGE — Continued
+
+                                         POSSIBLE CAUSES
+O2 SENSOR SIGNAL CIRCUIT OPEN
+O2 SENSOR RETURN CIRCUIT OPEN
+PCM
+
+ TEST                                      ACTION                                       APPLICABILITY
+  1     NOTE: If one of the O2 Sensors Signal or Return circuits are shorted to              All
+        voltage, the DRBIIIt will display all O2 Sensor voltage readings high.
+        NOTE: It is important to perform the diagnostics on the O2 Sensor that set
+        the DTC.
+        NOTE: After the repairs have been made, verify proper O2 Sensor operation.
+        If all the O2 Sensor voltage readings have not returned to normal, follow the
+        diagnostic procedure for the remaining O2 Sensors.
+        Start the engine.
+        Allow the engine to reach normal operating temperature.
+        With the DRBIIIt, read the O2 Sensor voltage.
+        Is the voltage above 3.7 volts?
+                Yes   → Go To    2
+
+                No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                        tic Procedure).
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Turn the ignition off.                                                               All
+        Disconnect the O2 Sensor harness connector
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Start the engine and allow the engine to idle.
+        Measure the voltage on the O2 Sensor Signal circuit in the O2 Sensor harness
+        connector.
+        NOTE: Measure the voltage in reference to ground, not the O2 Sensor
+        Return circuit.
+        Is the voltage above 5.2 volts?
+
+                Yes   → Repair the short to voltage in the O2 Sensor Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    3
+
+  3     Turn the ignition off.                                                               All
+        Disconnect the PCM harness connectors.
+        Ignition on, engine not running.
+        Measure the voltage on the O2 Sensor Return circuit in the O2 Sensor harness
+        connector.
+        Is there any voltage present?
+
+                Yes   → Repair the short to voltage in the O2 Sensor Return circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    4
+
+
+
+
+                                                    94
+

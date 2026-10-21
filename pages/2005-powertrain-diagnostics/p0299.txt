@@ -1,0 +1,54 @@
+                                                                                                STARTING
+
+*START AND STALL CONDITION — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  5     Note: For this test to be valid, the thermostat must be operating correctly.                All
+        Note: This test works best if performed on a cold engine (cold soaked).
+        NOTE: If the vehicle was allowed to sit over night with no engine start,
+        coolant temperature should be near ambient temperatures.
+        Ignition on, engine not running.
+        With the DRBIIIt, read the ECT value.
+        Note: If engine coolant temperature is above 82° C (180° F), allow the engine
+        to cool until 65° C (150° F) is reached.
+        Start the engine.
+        During engine warm-up, monitor the ECT Sensor value. The temperature value
+        change should be a smooth transition from start up to normal operating temp 82° C
+        (180° F). The value should reach at least 82° C (180° F).
+        Did the Engine Temperature value increase smoothly and did it reach at least 82° C
+        (180° F)?
+                 Yes   → Go To    6
+                 No    → Replace the Engine Coolant Temperature Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  6     The following additional items should be checked as a possible cause for a start and        All
+        stall condition.
+        Refer to any Technical Service Bulletins (TSB’s) that may apply to the symptom.
+        The exhaust system must be free of any restrictions.
+        The engine compression must be within specifications.
+        The engine valve timing must be within specifications.
+        The engine must be free from vacuum leaks.
+        The throttle body must be free of carbon buildup and dirt.
+        Do any of the above conditions exist?
+
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                 No    → Go To    7
+
+  7     Verify that the Fuel tank is not empty before continuing.                                   All
+        Follow the diagnostics for Checking Fuel Delivery under the Driveability section of
+        this manual.
+        Was the Start and Stall condition solved after following the above diagnostic test?
+                 Yes   → Test Complete.
+
+                 No    → Check for contamination/water in the fuel. Ensure the fuel being
+                         used in this vehicle meets manufactures Fuel Requirement, refer
+                         to the service manual.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                     291
+

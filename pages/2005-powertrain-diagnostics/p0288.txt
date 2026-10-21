@@ -1,0 +1,60 @@
+STARTING
+
+Symptom:
+    *ENGINE CRANKS DOES NOT START
+
+
+
+
+                                            POSSIBLE CAUSES
+NO START PRE-TEST
+POWERTRAIN FUSES OPEN
+SECONDARY INDICATORS PRESENT
+NO CKP SENSOR SIGNAL WHEN CRANKING ENGINE
+NO CMP SENSOR SIGNAL WHEN CRANKING ENGINE
+ENGINE MECHANICAL PROBLEM
+(A142) ASD RELAY OUTPUT CIRCUIT OPEN
+FUEL CONTAMINATION
+
+ TEST                                          ACTION                                              APPLICABILITY
+  1     Note: The following list of items must be checked before continuing with                        All
+        any no start tests.
+        The battery must be fully charged and in good condition. A low charged battery may
+        produce invalid test results. If the battery is low, charge the battery and then attempt
+        to start the vehicle by cranking the engine for 15 seconds, 3 consecutive times.
+        This will allow any DTCs to set that may have been erased due to a dead battery.
+        Try to communicate with PCM, if not able to communicate check fuses.
+        Make sure the Powers and Ground to the PCM are ok.
+        Make sure the PCM communicates with the DRBIIIt and that there are no DTCs
+        stored in the PCM memory. If the PCM reports a No Response condition, refer to the
+        Communication category for the proper tests.
+        Read the PCM DTCs with the DRBIIIt. If any DTCs are present, they must be
+        repaired before continuing with any other No Start diagnostic tests. Refer to the
+        Symptom list for the related P-code that is reported by the PCM.
+        Make sure that the PCI bus is functional. Attempt to communicate with the
+        Instrument Cluster and VTSS. If you are unable to establish communicate refer to
+        the Communication category for the proper symptoms.
+        The Sentry Key Immobilizer System must be operating properly. Check for proper
+        communication with the DRBIIIt and check for DTCs that may be stored in the
+        Sentry Key Immobilizer Module (SKIM). Repair the DTC(s) before continuing.
+        If no DTCs are found, using the DRBIIIt, select Clear PCM (BATT Disconnect).
+        Crank the engine several times. Using the DRBIIIt, read DTCs. If a DTC is present
+        perform the DTC diagnostics before continuing.
+        Were any problems found?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To      2
+
+  2     Check for any open fuses in the PDC or Junction Block that may be related to the No             All
+        Start condition.
+        Are any of the fuses open?
+                 Yes   → Replace the open fuse and check the related circuit(s) for a short
+                         to ground.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To      3
+
+
+                                                        280
+

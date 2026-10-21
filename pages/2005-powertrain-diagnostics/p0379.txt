@@ -1,0 +1,62 @@
+                                                                      TRANSMISSION - 42RLE
+
+P0845-2/4 HYDRAULIC PRESSURE TEST FAILURE — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  5     Turn the ignition off to the lock position.                                                 All
+        CAUTION: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        With the Transmission Simulator, select 92/49 on the Pressure Switch rotary switch.
+        With the DRBIIIt, monitor the 2/4 Pressure Switch state while pressing the Pressure
+        Switch Test button on the Transmission Simulator.
+        Wiggle the wiring leading to the TCM while pressing the button.
+        Did the 2-4 Pressure Switch state change to closed and remain closed while wiggling
+        the wires?
+                 Yes   → Go To     6
+
+                 No    → Go To     7
+
+  6     If there are no possible causes remaining, view repair.                                     All
+                 Repair
+                          Disassemble and inspect the Valve Body per the Service Informa-
+                          tion and repair or replace as necessary. If there are no problems
+                          found in the Valve Body, replace the Transmission Solenoid/
+                          Pressure Switch Assembly per the Service Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  7     Turn the ignition off to the lock position.                                                 All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the 2/4 Pressure Switch Sense circuit from the TCM
+        harness connector to the Transmission Solenoid/Pressure Switch Assembly harness
+        connector.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Repair the 2/4 Pressure Switch Sense circuit or an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     8
+
+  8     Turn the ignition off to the lock position.                                                 All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the 2/4 Pressure Switch Sense circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the 2/4 Pressure Switch Sense circuit for a short to ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To     9
+
+
+
+
+                                                      371
+
