@@ -1,0 +1,61 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 41
+
+of the gauge. The tachometer graphics are white            instrument cluster. For further diagnosis of the
+against a black field, except for the red graduations,     tachometer or the instrument cluster circuitry that
+making them clearly visible within the instrument          controls the gauge, (Refer to 8 - ELECTRICAL/IN-
+cluster in daylight. When illuminated from behind by       STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+the panel lamps dimmer controlled cluster illumina-        ING). For proper diagnosis of the crankshaft position
+tion lighting with the exterior lamps turned On, the       sensor, the PCM, the PCI data bus, or the electronic
+white graphics appear white and the red graphics           message inputs to the instrument cluster that control
+appear red. The orange gauge needle is internally          the tachometer, a DRBIIIt scan tool is required.
+illuminated. Gauge illumination is provided by             Refer to the appropriate diagnostic information.
+replaceable incandescent bulb and bulb holder units
+located on the instrument cluster electronic circuit
+board. The tachometer is serviced as a unit with the       TURN SIGNAL INDICATOR
+instrument cluster.
+                                                           DESCRIPTION
+OPERATION
+   The tachometer gives an indication to the vehicle
+operator of the engine speed. This gauge is controlled
+by the instrument cluster circuit board based upon
+cluster programming and electronic messages                           Fig. 27 Turn Signal Indicators
+received by the cluster from the Powertrain Control          Two turn signal indicators, one right and one left,
+Module (PCM) over the Programmable Communica-              are standard equipment on all instrument clusters
+tions Interface (PCI) data bus. The tachometer is an       (Fig. 27). The turn signal indicators are located near
+air core magnetic unit that receives battery current       the upper edge of the instrument cluster, between
+on the instrument cluster electronic circuit board         the speedometer and the tachometer. Each turn sig-
+through the fused ignition switch output (run-start)       nal indicator consists of a stencil-like cutout of the
+circuit whenever the ignition switch is in the On or       International Control and Display Symbol icon for
+Start positions. The cluster is programmed to move         “Turn Warning” in the opaque layer of the instru-
+the gauge needle back to the low end of the scale          ment cluster overlay. The dark outer layer of the
+after the ignition switch is turned to the Off position.   overlay prevents these icons from being clearly visi-
+The instrument cluster electronic circuitry controls       ble when they are not illuminated. A green Light
+the gauge needle position and provides the following       Emitting Diode (LED) behind each turn signal indi-
+features:                                                  cator cutout in the opaque layer of the cluster over-
+   • Engine Speed Message - Each time the cluster          lay causes the icon to appear in green through the
+receives an engine speed message from the PCM it           translucent outer layer of the overlay when the indi-
+will calculate the correct engine speed reading and        cator is illuminated from behind the LED, which is
+position the gauge needle at that relative speed posi-     soldered onto the instrument cluster electronic circuit
+tion on the gauge scale. The cluster will receive a        board. The turn signal indicators are serviced as a
+new engine speed message and reposition the gauge          unit with the instrument cluster.
+pointer accordingly about every 86 milliseconds. The
+gauge needle will continually be repositioned on the       OPERATION
+gauge scale until the engine stops running, or until          The turn signal indicators give an indication to the
+the ignition switch is turned to the Off position,         vehicle operator that the turn signals (left or right
+whichever occurs first.                                    indicator flashing) or hazard warning (both left and
+   • Communication Error - If the cluster fails to         right indicators flashing) have been selected and are
+receive an engine speed message, it will hold the          operating. These indicators are controlled by two
+gauge needle at the last indication for about six sec-     individual hard wired inputs received by the cluster
+onds, or until the ignition switch is turned to the Off    from the turn signal switch circuitry and hazard
+position, whichever occurs first. After six seconds, the   warning switch circuitry within the left multi-func-
+gauge needle will return to the left (low) end of the      tion switch. Each turn signal indicator Light Emit-
+gauge scale.                                               ting Diode (LED) is grounded on the instrument
+   • Actuator Test - Each time the cluster is put          cluster electronic circuit board at all times. There-
+through the actuator test, the gauge needle will be        fore, these indicators remain functional regardless of
+swept to several calibration points on the gauge scale     the ignition switch position. Each LED will only illu-
+in a prescribed sequence to confirm the functionality      minate when it is provided battery current by the cir-
+of the gauge and the cluster control circuitry.            cuitry of the left multi-function switch.
+   The PCM continually monitors the crankshaft posi-          The turn signal indicators are connected in series
+tion sensor to determine the engine speed. The PCM         between the output of the combination flasher on the
+then sends the proper engine speed messages to the
+

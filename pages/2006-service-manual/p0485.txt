@@ -1,0 +1,64 @@
+TJ                                                                       INSTRUMENT CLUSTER           8J - 17
+
+REMOVAL                                                 instrument cluster indicator and illumination lamp
+                                                        bulbs (including the integral bulb holders), the clus-
+WARNING: TO AVOID PERSONAL INJURY OR                    ter lens, the trip odometer reset button boot, the
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,               cluster hood and mask unit, and the cluster housing
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                 rear cover. Following are the procedures for disas-
+TEM BEFORE ATTEMPTING ANY STEERING                      sembling these components from the instrument clus-
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-              ter unit.
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VICE. DISCONNECT AND ISOLATE THE BATTERY                WARNING: TO AVOID PERSONAL INJURY OR
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                  DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+CHARGE BEFORE PERFORMING FURTHER DIAG-                  TEM BEFORE ATTEMPTING ANY STEERING
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY             WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                   MENT PANEL COMPONENT DIAGNOSIS OR SER-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                 VICE. DISCONNECT AND ISOLATE THE BATTERY
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+BAG DEPLOYMENT.                                         MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                        CHARGE BEFORE PERFORMING FURTHER DIAG-
+  (1) Disconnect and isolate the battery negative       NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+cable.                                                  TO DISABLE THE SUPPLEMENTAL RESTRAINT
+  (2) Remove the cluster bezel from the instrument      SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+panel. (Refer to 23 - BODY/INSTRUMENT PANEL/            CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+CLUSTER BEZEL - REMOVAL).                               BAG DEPLOYMENT.
+  (3) Remove the four screws that secure the instru-
+ment cluster to the instrument panel structural sup-
+                                                        CLUSTER BULB
+port (Fig. 4).
+                                                          This procedure applies to each of the incandescent
+                                                        cluster illumination lamp or indicator bulb and bulb
+                                                        holder units. However, the illumination lamps and
+                                                        the indicators use different bulb and bulb holder unit
+                                                        sizes. They must never be interchanged.
+                                                          (1) Disconnect and isolate the battery negative
+                                                        cable.
+                                                          (2) Remove the instrument cluster from the instru-
+                                                        ment panel. (Refer to 8 - ELECTRICAL/INSTRU-
+                                                        MENT CLUSTER - REMOVAL).
+                                                          (3) Turn the bulb holder counterclockwise about
+                                                        sixty degrees on the cluster electronic circuit board
+                                                        (Fig. 5).
+
+
+      Fig. 4 Instrument Cluster Remove/Install
+1 - WIRE HARNESS CONNECTORS
+2 - INSTRUMENT CLUSTER
+3 - SCREW (4)
+4 - INSTRUMENT PANEL
+
+  (4) Pull the instrument cluster rearward far
+enough to access and disconnect the two instrument
+panel wire harness connectors for the instrument
+cluster from the connector receptacles on the back of
+the cluster housing.
+  (5) Remove the instrument cluster from the instru-
+ment panel.
+
+DISASSEMBLY                                                     Fig. 5 CLUSTER BULB LOCATIONS
+  Some of the components for the instrument cluster
+                                                        1 - CLUSTER INCANDESCENT BULBS
+used in this vehicle are serviced individually. The
+serviced components include: the incandescent
+

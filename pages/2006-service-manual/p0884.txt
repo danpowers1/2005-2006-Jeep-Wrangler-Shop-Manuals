@@ -1,0 +1,65 @@
+8W - 80 - 44   8W-80 CONNECTOR PIN-OUTS                                                      TJ
+
+
+                               POWERTRAIN CONTROL MODULE C2 - BLACK/ORANGE 38 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    -                                -
+                 2    -                                -
+                 3    -                                -
+                 4    K58 18BR/VT (4.0L)               INJECTOR CONTROL NO. 6
+                 5    K38 18BR/OR (4.0L)               INJECTOR CONTROL NO. 5
+                 6    -                                -
+                 7    K18 18DB/OR (4.0L)               COIL CONTROL NO. 3
+                 8    -                                -
+                 9    K17 18DB/TN (EXCEPT MAN 6 SPD    COIL CONTROL NO. 2
+                      TRANS)
+                 9    K17 20DB/TN (MAN 6 SPD TRANS)    COIL CONTROL NO. 2
+                 10   K19 18DB/DG (EXCEPT MAN 6 SPD    COIL CONTROL NO. 1
+                      TRANS)
+                 10   K19 20DB/DG (MAN 6 SPD TRANS)    COIL CONTROL NO. 1
+                 11   K14 18BR/TN (EXCEPT MAN 6 SPD    INJECTOR CONTROL NO. 4
+                      TRANS)
+                 11   K14 20BR/TN (MAN 6 SPD TRANS)    INJECTOR CONTROL NO. 4
+                 12   K13 18BR/LB (EXCEPT MAN 6 SPD    INJECTOR CONTROL NO. 3
+                      TRANS)
+                 12   K13 20BR/LB (MAN 6 SPD TRANS)    INJECTOR CONTROL NO. 3
+                 13   K12 18BR/DB (EXCEPT MAN 6 SPD    INJECTOR CONTROL NO. 2
+                      TRANS)
+                 13   K12 20BR/DB (MAN 6 SPD TRANS)    INJECTOR CONTROL NO. 2
+                 14   K11 18BR/YL (EXCEPT MAN 6 SPD    INJECTOR CONTROL NO. 1
+                      TRANS)
+                 14   K11 20BR/YL (MAN 6 SPD TRANS)    INJECTOR CONTROL NO. 1
+                 15   -                                -
+                 16   -                                -
+                 17   K199 18BR/VT                     O2 2/1 HEATER CONTROL
+                 18   K99 18BR/LG (EXCEPT MAN 6 SPD    O2 1/1 HEATER CONTROL
+                      TRANS)
+                 18   K99 18BR/LG (MAN 6 SPD TRANS)    O2 1/1 HEATER CONTROL
+                 19   K125 18BR/DG (EXCEPT MAN 6 SPD   GEN FIELD CONTROL
+                      TRANS)
+                 19   K125 20BR/DG (MAN 6 SPD TRANS)   GEN FIELD CONTROL
+                 20   K2 18VT/OR (EXCEPT MAN 6 SPD     ECT SIGNAL
+                      TRANS)
+                 20   K2 20VT/OR (MAN 6 SPD TRANS)     ECT SIGNAL
+                 21   K22 18BR/OR (EXCEPT MAN 6 SPD    TP NO. 1 SIGNAL
+                      TRANS)
+                 21   K22 20BR/OR (MAN 6 SPD TRANS)    TP NO. 1 SIGNAL
+                 22   -                                -
+                 23   K1 18VT/BR (EXCEPT MAN 6 SPD     MAP SIGNAL
+                      TRANS)
+                 23   K1 20VT/BR (MAN 6 SPD TRANS)     MAP SIGNAL
+                 24   -                                -
+                 25   -                                -
+                 26   Y3 18LG (EXCEPT OFF-ROAD PACK-   FUSED SENSOR GROUND
+                      AGE EXCEPT MAN 6 SPD TRANS)
+                 26   Y3 20LG (EXCEPT OFF-ROAD PACK-   FUSED SENSOR GROUND
+                      AGE W/ MAN 6 SPD TRANS)
+                 26   K77 18BR/WT (OFF-ROAD PACKAGE    TRANSFER CASE POSITION SENSOR INPUT
+                      EXCEPT MAN 6 SPD TRANS)
+                 27   K900 18DB/DG (EXCEPT MAN 6 SPD   SENSOR GROUND
+                      TRANS)
+                 27   K900 20DB/DG (MAN 6 SPD TRANS)   SENSOR GROUND
+                 28   K961 18BR/VT (EXCEPT MAN 6 SPD   IAC SIGNAL
+                      TRANS)
+                 28   K961 20BR/VT (MAN 6 SPD TRANS)   IAC SIGNAL
+

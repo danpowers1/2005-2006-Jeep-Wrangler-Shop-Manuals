@@ -1,0 +1,51 @@
+TJ                                                                           BODY    23 - 3
+
+RIGID, SEMI-RIGID, AND FLEXIBLE PLASTIC PARTS TYPES
+     CODE          FAMILY NAME           COMMON TRADE NAME         TYPICAL APPLICATION
+ASA          ACRYLONITRILE STYRENE     LURANS                    CONSOLES, GRILLES
+             ACRYLITE
+ABS          ACRYLONITRILE BUTADI-     TERLURAN                  9A” PILLARS, CONSOLES,
+             ENE STYRENE                                         GRILLES
+ABS/PC       ABS/PC ALLOY              PULSE, PROLOY, BAY-       DOORS, INSTRUMENT PAN-
+                                       BLEND                     ELS
+ABS/PVC      ABS/PV ALLOY              PROLOY, PULSE, LUSTRAN,   DOOR PANELS, GRILLES,
+                                       CYCLOVIN                  TRIM
+BMC          BULK MOLDING COM-         BMC                       FENDER EXTENSIONS
+             POUND
+EMA          EHTYLENE METHYL ACRY-     SURLYN, EMA, IONOMER      BUMPER GUARDS, PADS
+             LATE/IONOMER
+METTON       METTON                    METTON                    GRILLES, KICK PANELS,
+                                                                 RUNNING BOARDS
+MPPO         MODIFIED POLYPHE-         MPPO                      SPOILER ASSEMBLY
+             NYLENE OXIDE
+PA           POLYAMID                  ZYTEL, VYDYNE, PA, MIN-   FENDERS, QUARTER PAN-
+                                       LON                       ELS
+PET          THERMOPLASTIC POLYES-     RYNITE                    TRIM
+             TER
+PBT/PPO      PBT/PPO ALLOY             GERMAX                    CLADDINGS
+PBTP         POLYBUTYLENE              PBT, PBTP, POCAN, VALOX   WHEEL COVERS, FENDERS,
+             THEREPTHALATE                                       GRILLES
+PBTP/EEBC    POLYBUTYLENE              BEXLOY, “M”, PBTP/EEBC    FASCIAS, ROCKER PANEL,
+             THEREPTHALATE/EEBC                                  MOLDINGS
+             ALLOY
+PC           POLYCARBONATE             LEXAN, MERLON, CALIBRE,   TAIL LIGHT LENSES, IP
+                                       MAKROLON PC               TRIM, VALANCE PANELS
+PC/ABS       PC/ABS ALLOY              GERMAX, BAY BLENDS,       DOORS, INSTRUMENT PAN-
+                                       PULSE                     ELS
+PPO          POLYPHENYLENE OXIDE       AZDEL, HOSTALEN, MAR-     INTERIOR TRIM, DOOR PAN-
+                                       LEX, PRFAX, NORYL, GTX,   ELS, SPLASH SHIELDS,
+                                       PPO                       STEERING COLUMN
+                                                                 SHROUD
+PPO/PA       POLYPHENYLENE/POLYA-      PPO/PA, GTX 910           FENDERS, QUARTER PAN-
+             MID                                                 ELS
+PR/FV        FIBERGLASS REINFORCED     FIBERGLASS, FV, PR/FV     BODY PANELS
+             PLASTIC
+PS           POLYSTYRENE               LUSTREX, STYRON, PS       DOOR PANELS, DASH PAN-
+                                                                 ELS
+RTM          RESIN TRANSFER MOLD-      RTM                       BODY PANELS
+             ING COMPOUND
+SMC          SHEET MOLDED COM-         SMC                       BODY PANELS
+             POUND
+TMC          TRANSFER MOLDING          TMC                       GRILLES
+             COMPOUND
+

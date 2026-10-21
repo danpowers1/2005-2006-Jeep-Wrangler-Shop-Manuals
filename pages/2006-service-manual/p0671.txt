@@ -1,0 +1,57 @@
+TJ                                              8W-02 COMPONENT INDEX                                                             8W - 02 - 1
+
+                                           8W - 02 COMPONENT INDEX
+Component                                                          Page   Component                                                            Page
+A/C Compressor Clutch Relay . . . . . . . . . . . . 8W-42                 G-Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35
+A/C High Pressure Switch . . . . . . . . . . . . . . . 8W-42              Generator . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-20
+A/C Low Pressure Switch . . . . . . . . . . . . . . . 8W-42               Grounds . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15
+A/C Pressure Transducer . . . . . . . . . . . . . . . . 8W-42             Headlamp Leveling Motors . . . . . . . . . . . . . . 8W-50
+A/C-Heater Control . . . . . . . . . . . . . . . . . . . . 8W-42          Headlamp Leveling Switch . . . . . . . . . . . . . . 8W-50
+Airbag Control Module . . . . . . . . . . . . . . . . . 8W-43             Headlamps . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-50
+Airbag On-Off Switch . . . . . . . . . . . . . . . . . . 8W-43            Heater Control . . . . . . . . . . . . . . . . . . . . . . . 8W-42
+Airbag Squibs . . . . . . . . . . . . . . . . . . . . . . . . 8W-43       High Speed Radiator Fan Relay . . . . . . . . . . 8W-42
+Ambient Temperature Sensor . . . . . . . . . 8W-30, 44                    Horn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-41
+Antilock Brake Relay . . . . . . . . . . . . . . . . . . 8W-35            Horn Relay . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-41
+Automatic Shut Down Relay . . . . . . . . . . . . . 8W-30                 Horn Switch . . . . . . . . . . . . . . . . . . . . . . . . . 8W-41
+Axle Lock Switch . . . . . . . . . . . . . . . . . . . . . . 8W-31        Idle Air Control Motor . . . . . . . . . . . . . . . . . . 8W-30
+Back-Up Lamp Switch . . . . . . . . . . . . . . . . . . 8W-51             Ignition Coil Pack . . . . . . . . . . . . . . . . . . . . . 8W-30
+Battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10   Ignition Switch . . . . . . . . . . . . . . . . . . . . . . . 8W-10
+Brake Lamp Switch . . . . . . . . . . . . . . . . . . . . 8W-51           Input Speed Sensor . . . . . . . . . . . . . . . . . . . . 8W-31
+Brake Transmission Shift Interlock                                        Instrument Cluster . . . . . . . . . . . . . . . . . . . . 8W-40
+  Solenoid . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31    Intake Air Temperature Sensor . . . . . . . . . . . 8W-30
+Brake Warning Indicator Switch . . . . . . . . . . 8W-40                  Lamp Assemblies . . . . . . . . . . . . . . . . . . . . . . 8W-51
+Camshaft Position Sensor . . . . . . . . . . . . . . . 8W-30              License Lamps . . . . . . . . . . . . . . . . . . . . . . . 8W-51
+Center High Mounted Stop Lamp . . . . . . . . . 8W-51                     Low Speed Radiator Fan Relay . . . . . . . . . . . 8W-42
+Cigar Lighter/Power Outlet . . . . . . . . . . . . . . 8W-41              Manifold Absolute Pressure Sensor . . . . . . . . 8W-30
+Circuit Breaker . . . . . . . . . . . . . . . . . . . . . . . 8W-50       Multi-Function Switch . . . . . . 8W-44, 50, 51, 52, 53
+Clockspring . . . . . . . . . . . . . . . . . . . . 8W-33, 41, 43         Natural Vacuum Leak Detection Assembly . . 8W-30
+Clutch Pedal Position Switch . . . . . . . . . . . . 8W-21                Output Speed Sensor . . . . . . . . . . . . . . . . . . . 8W-31
+Coil Capacitor . . . . . . . . . . . . . . . . . . . . . . . . 8W-30      Oxygen Sensors . . . . . . . . . . . . . . . . . . . . . . . 8W-30
+Compass/Temperature Mirror . . . . . . . . . . . . 8W-44                  Park Brake Switch . . . . . . . . . . . . . . . . . . . . 8W-40
+Controller Antilock Brake . . . . . . . . . . . . . . . 8W-35             Park/Turn Signal Lamps . . . . . . . . . . . . . . . . 8W-52
+Courtesy Lamps . . . . . . . . . . . . . . . . . . . . . . 8W-44          Position Lamps . . . . . . . . . . . . . . . . . . . . . . . 8W-50
+Crankshaft Position Sensor . . . . . . . . . . . . . . 8W-30              Power Distribution Center . . . . . . . . . . . . . . 8W-10
+Data Link Connector . . . . . . . . . . . . . . . . . . . 8W-18           Power Outlet . . . . . . . . . . . . . . . . . . . . . . . . . 8W-41
+Daytime Running Lamp Module . . . . . . . . . . 8W-50                     Power Steering Pressure Switch . . . . . . . . . . 8W-30
+Dome Lamps . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44        Powertrain Control Module . . . . . . . . . . . 8W-30, 31
+Door Ajar Switches . . . . . . . . . . . . . . . . . . . . 8W-44          Radiator Fan Motor . . . . . . . . . . . . . . . . . . . . 8W-42
+EVAP/Purge Solenoid . . . . . . . . . . . . . . . . . . 8W-30             Radiator Fan Motor Circuit Breaker . . . . . . . 8W-42
+Engine Coolant Temperature Sensor . . . . . . . 8W-30                     Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-47
+Engine Oil Pressure Sensor . . . . . . . . . . . . . . 8W-30              Rear Fog Lamp . . . . . . . . . . . . . . . . . . . . . . . 8W-51
+Engine Oil Pressure Switch . . . . . . . . . . . . . . 8W-30              Rear Locker Indicator Switch . . . . . . . . . . . . 8W-31
+Engine Starter Motor . . . . . . . . . . . . . . . . . . 8W-21            Rear Locker Pump . . . . . . . . . . . . . . . . . . . . . 8W-31
+Engine Starter Motor Relay . . . . . . . . . . . . . 8W-21                Rear Locker Relay . . . . . . . . . . . . . . . . . . . . . 8W-31
+Fog Lamp Relay . . . . . . . . . . . . . . . . . . . . . . 8W-50          Rear Washer Pump . . . . . . . . . . . . . . . . . . . . 8W-53
+Fog Lamps . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-50       Rear Window Defogger . . . . . . . . . . . . . . . . . 8W-48
+Front Locker Indicator Switch . . . . . . . . . . . . 8W-31               Rear Window Defogger Relay . . . . . . . . . . . . 8W-48
+Front Locker Pump . . . . . . . . . . . . . . . . . . . . 8W-31           Rear Window Defogger Switch . . . . . . . . . . . 8W-48
+Front Locker Relay . . . . . . . . . . . . . . . . . . . . 8W-31          Rear Wiper Motor . . . . . . . . . . . . . . . . . . . . . 8W-53
+Front Washer Pump . . . . . . . . . . . . . . . . . . . 8W-53             Rear Wiper/Washer Switch . . . . . . . . . . . . . . 8W-53
+Front Wiper Motor . . . . . . . . . . . . . . . . . . . . 8W-53           Receiver-Satellite . . . . . . . . . . . . . . . . . . . . . 8W-47
+Fuel Injectors . . . . . . . . . . . . . . . . . . . . . . . . 8W-30      Satellite Antenna . . . . . . . . . . . . . . . . . . . . . 8W-47
+Fuel Pump Module . . . . . . . . . . . . . . . . . . . . 8W-30            Seat Belt Switch . . . . . . . . . . . . . . . . . . . . . . 8W-40
+Fuel Pump Relay . . . . . . . . . . . . . . . . . . . . . . 8W-30         Sentry Key Immobilizer Module . . . . . . . . . . 8W-39
+Fuse Block . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11    Side Marker Lamps . . . . . . . . . . . . . . . . . . . . 8W-50
+Fuses . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10, 11   Side Repeater Lamps . . . . . . . . . . . . . . . . . . 8W-52
+Fusible Link . . . . . . . . . . . . . . . . . . . . . . . . . 8W-20      Speakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-47
+

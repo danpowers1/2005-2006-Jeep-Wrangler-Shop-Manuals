@@ -1,0 +1,60 @@
+14 - 38       FUEL INJECTION                                                                                 TJ
+
+                                                         OPERATION
+                                                           Filtered air from the air cleaner enters the intake
+                                                         manifold through the throttle body. The throttle body
+                                                         contains an air control passage controlled by an Idle
+                                                         Air Control (IAC) motor. The air control passage is
+                                                         used to supply air for idle conditions. A throttle valve
+                                                         (plate) is used to supply air for above idle conditions.
+                                                           Certain sensors are attached to the throttle body.
+                                                         The accelerator pedal cable, speed control cable and
+                                                         transmission control cable (when equipped) are con-
+                                                         nected to the throttle body linkage arm.
+                                                           A (factory adjusted) set screw is used to mechani-
+                                                         cally limit the position of the throttle body throttle
+                                                         plate. Never attempt to adjust the engine idle
+                                                         speed using this screw. All idle speed functions are
+                                                         controlled by the PCM.
+
+
+                                                         REMOVAL
+                                                         2.4L
+  Fig. 23 OXYGEN SENSORS - 4.0L - CALIFORNIA                A (factory adjusted) set screw is used to mechani-
+                  EMISSIONS                              cally limit the position of the throttle body throttle
+                                                         plate. Never attempt to adjust the engine idle
+1 - 1/2 O2S
+2 - 1/1 O2S                                              speed using this screw. All idle speed functions are
+3 - 2/1 O2S                                              controlled by the Powertrain Control Module (PCM).
+4 - 2/2 O2S                                                 (1) Remove air cleaner tube at throttle body.
+                                                            (2) Disconnect throttle body electrical connectors
+INSTALLATION                                             at IAC motor and TPS.
+                                                            (3) Remove all control cables from throttle body
+2.4L                                                     (lever) arm. Refer to the Accelerator Pedal and Throt-
+  Threads of new oxygen sensors are factory coated       tle Cable section for removal/installation procedures.
+with anti-seize compound to aid in removal. DO              (4) Disconnect necessary vacuum lines at throttle
+NOT add any additional anti-seize compound to            body.
+the threads of a new oxygen sensor.                         (5) Remove 3 throttle body mounting bolts (Fig.
+  (1) Install O2S sensor. Tighten to 30 N·m (22 ft.      24).
+lbs.) torque.                                               (6) Remove throttle body from intake manifold.
+  (2) Connect O2S sensor wire connector.                    (7) Check condition of old throttle body-to-intake
+  (3) Lower vehicle.                                     manifold o-ring.
+
+4.0L
+  Threads of new oxygen sensors are factory coated
+with anti-seize compound to aid in removal. DO
+NOT add any additional anti-seize compound to
+the threads of a new oxygen sensor.
+  (1) Install O2S sensor. Tighten to 30 N·m (22 ft.
+lbs.) torque.
+  (2) Connect O2S sensor wire connector.
+  (3) Lower vehicle.
+
+
+THROTTLE BODY
+DESCRIPTION
+  The throttle body is located on the intake manifold.
+Fuel does not enter the intake manifold through the
+throttle body. Fuel is sprayed into the manifold by
+the fuel injectors.
+

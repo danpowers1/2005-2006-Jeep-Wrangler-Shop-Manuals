@@ -1,0 +1,59 @@
+8F - 34     STARTING                                                                                                TJ
+
+                                            Starting System Diagnosis
+          Condition              Possible Cause                                   Correction
+                            2. Starting circuit wiring    2. Refer to Wiring. Test and repair faulty starter feed
+                            faulty.                       and/or control circuits as required.
+                            3. Starter motor faulty.      3. Refer to Starter Motor. Replace faulty starter motor
+                                                          as required.
+                            4. Engine seized.             4. Refer to 9, Engine Diagnosis. Repair or replace faulty
+                                                          engine as required.
+Starter engages, spins      1. Starter ring gear          1. Refer to Starter Motor. Remove starter motor to in-
+out before engine starts.   faulty.                       spect starter ring gear. Replace faulty starter ring gear
+                                                          as required.
+                            2. Starter motor faulty.      2. Refer to Starter Motor. Replace faulty starter motor
+                                                          as required.
+Starter does not disen-     1. Starter motor improp-      1. Refer to Starter Motor. Tighten starter motor mounting
+gage.                       erly installed.               hardware to correct tightness specifications as required.
+                            2. Starter relay faulty.      2. Refer to Starter Relay. Replace faulty starter relay as
+                                                          required.
+                            3. Ignition switch faulty.    3. Refer to Ignition Switch and Key Lock Cylinder. Re-
+                                                          place faulty ignition switch as required.
+                            4. Starter motor faulty.      4. Refer to Starter Motor. Replace faulty starter motor
+                                                          as required.
+
+
+TESTING                                                     out label affixed to the underside of the PDC cover
+                                                            for ASD relay identification and location.
+  Before testing the starting system perform a visual
+inspection of the starting system components and              (1) Connect a suitable volt-ampere tester to the
+                                                            battery terminals (Fig. 1). See the instructions pro-
+connections.
+                                                            vided by the manufacturer of the volt-ampere tester
+COLD CRANKING TEST                                          being used.
+  Refer to Starting System in the index of this ser-
+vice manual for the location of complete starting sys-
+tem wiring diagrams. Before performing this test, be
+certain that the following procedures are accom-
+plished:
+  • The battery is fully-charged and load tested.
+Refer to Battery Charging for battery charging pro-
+cedures. Refer to Battery for battery diagnosis and
+testing procedures, including battery load test proce-
+dures.
+  • Fully engage the parking brake.
+  • If the vehicle is equipped with an automatic
+transmission, place the gearshift selector lever in the
+Park position. If the vehicle is equipped with a man-          Fig. 1 Volts-Amps Tester Connections - Typical
+ual transmission, place the gearshift selector lever in      1 - POSITIVE CLAMP
+the Neutral position and block the clutch pedal in the       2 - NEGATIVE CLAMP
+fully depressed position.                                    3 - INDUCTION AMMETER CLAMP
+
+   • Verify that all lamps and accessories are turned         (2) Rotate and hold the ignition switch in the Start
+off.                                                        position. Note the cranking voltage and current
+   • To prevent the engine from starting, remove the        (amperage) draw readings shown on the volt-ampere
+Automatic ShutDown (ASD) relay. The ASD relay is            tester.
+located in the Power Distribution Center (PDC), in               (a) If the voltage reads below 9.6 volts, refer to
+the engine compartment. See the fuse and relay lay-           Starter Motor for starter motor diagnosis and
+                                                              testing procedures. If the starter motor tests OK,
+

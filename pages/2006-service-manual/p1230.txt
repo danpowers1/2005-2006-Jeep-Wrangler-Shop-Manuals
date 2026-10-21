@@ -1,0 +1,19 @@
+21 - 40       AUTOMATIC TRANSMISSION - 42RLE                                                                                          TJ
+
+SOLENOID                                                               TRANSMISSION RANGE SENSOR
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 141        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 152
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 142      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+SOLENOID/PRESSURE SWITCH ASSY                                           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 143        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 153
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 143     TRANSMISSION TEMPERATURE SENSOR
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 144    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 153
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 144       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+TORQUE CONVERTER                                                       VALVE BODY
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 145        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 154
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 149      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 151       DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 159
+TRANSMISSION CONTROL RELAY                                              ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 151        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 171
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 152
+

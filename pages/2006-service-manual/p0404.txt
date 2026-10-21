@@ -1,0 +1,62 @@
+8F - 10    BATTERY SYSTEM                                                                                      TJ
+
+WARNING: If the battery shows signs of freezing,           TEM - CLEANING), and (Refer to 8 - ELECTRICAL/
+leaking, loose posts, do not test, assist-boost, or        BATTERY SYSTEM - INSPECTION).
+charge. The battery may arc internally and explode.
+Personal injury and/or vehicle damage may result.          CHARGING A COMPLETELY DISCHARGED BAT-
+                                                           TERY
+WARNING: Explosive hydrogen gas forms in and                 The following procedure should be used to recharge
+around the battery. Do not smoke, use flame, or cre-       a completely discharged battery. Unless this proce-
+ate sparks near the battery. Personal injury and/or        dure is properly followed, a good battery may be
+vehicle damage may result.                                 needlessly replaced.
+                                                             (1) Measure the voltage at the battery posts with a
+                                                           voltmeter, accurate to 1/10 (0.10) volt (Fig. 5). If the
+WARNING: The battery contains sulfuric acid, which         reading is below ten volts, the battery charging cur-
+is poisonous and caustic. Avoid contact with the           rent will be low. It could take some time before the
+skin, eyes, or clothing. In the event of contact, flush    battery accepts a current greater than a few milliam-
+with water and call a physician immediately. Keep          peres. Such low current may not be detectable on the
+out of the reach of children.                              ammeters built into many battery chargers.
+
+WARNING: If the battery is equipped with remov-
+able cell caps, be certain that each of the cell caps
+is in place and tight before the battery is returned
+to service. Personal injury and/or vehicle damage
+may result from loose or missing cell caps.
+
+
+CAUTION: Always disconnect and isolate the bat-
+tery negative cable before charging a battery. Do
+not exceed sixteen volts while charging a battery.
+Damage to the vehicle electrical system compo-
+nents may result.
+
+
+CAUTION: Battery electrolyte will bubble inside the
+battery case during normal battery charging. Elec-
+trolyte boiling or being discharged from the battery
+vents indicates a battery overcharging condition.
+Immediately reduce the charging rate or turn off the          Fig. 5 VOLTMETER ACCURATE TO 1/10 VOLT
+charger to evaluate the battery condition. Damage
+                                                             (2) Disconnect and isolate the battery negative
+to the battery may result from overcharging.
+                                                           cable. Connect the battery charger leads. Some bat-
+                                                           tery chargers are equipped with polarity-sensing cir-
+CAUTION: The battery should not be hot to the              cuitry. This circuitry protects the battery charger and
+touch. If the battery feels hot to the touch, turn off     the battery from being damaged if they are improp-
+the charger and let the battery cool before continu-       erly connected. If the battery state-of-charge is too
+ing the charging operation. Damage to the battery          low for the polarity-sensing circuitry to detect, the
+may result.                                                battery charger will not operate. This makes it
+                                                           appear that the battery will not accept charging cur-
+  After the battery has been charged to 12.4 volts or      rent. See the instructions provided by the manufac-
+greater, perform a load test to determine the battery      turer of the battery charger for details on how to
+cranking capacity (Refer to 8 - ELECTRICAL/BAT-            bypass the polarity-sensing circuitry.
+TERY SYSTEM/BATTERY - STANDARD PROCE-                        (3) Battery chargers vary in the amount of voltage
+DURE). If the battery will endure a load test, return      and current they provide. The amount of time
+the battery to service. If the battery will not endure a   required for a battery to accept measurable charging
+load test, it is faulty and must be replaced.              current at various voltages is shown in the Charge
+                                                           Rate Table. If the charging current is still not mea-
+  Clean and inspect the battery hold downs, tray,
+                                                           surable at the end of the charging time, the battery
+terminals, posts, and top before completing battery
+service (Refer to 8 - ELECTRICAL/BATTERY SYS-
+

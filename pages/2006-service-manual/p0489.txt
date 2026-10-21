@@ -1,0 +1,60 @@
+TJ                                                                        INSTRUMENT CLUSTER             8J - 21
+
+store a Diagnostic Trouble Code (DTC) for any mal-         (2) Turn the ignition switch to the Off position.
+function it detects. (Refer to 5 - BRAKES -             Disconnect and isolate the battery negative cable.
+DESCRIPTION). The ABS indicator can be diagnosed        Remove the Controller Antilock Brake (CAB) relay
+using conventional diagnostic tools and methods.        from the Power Distribution Center (PDC). Check for
+                                                        continuity between the ABS warning indicator driver
+DIAGNOSIS AND TESTING - ABS INDICATOR                   circuit cavity of the instrument panel wire harness
+  The diagnosis found here addresses an inoperative     connector (Connector C2) for the instrument cluster
+Antilock Brake System (ABS) indicator condition. If     and a good ground. There should be no continuity. If
+there are problems with several indicators in the       OK, go to Step 3. If not OK, repair the shorted ABS
+instrument cluster, (Refer to 8 - ELECTRICAL/IN-        warning indicator driver circuit between the instru-
+STRUMENT CLUSTER - DIAGNOSIS AND TEST-                  ment cluster and the PDC as required.
+ING). If the ABS indicator stays on with the ignition      (3) Check for continuity between the ABS warning
+switch in the On position or comes on and stays on      indicator driver circuit cavities of the instrument
+while driving, proceed to the diagnosis for the ABS     panel wire harness connector (Connector C2) for the
+brake system. (Refer to 5 - BRAKES - DIAGNOSIS          instrument cluster and the CAB relay receptacle in
+AND TESTING). If no ABS problem is found, the fol-      the PDC. There should be continuity. If OK, proceed
+lowing procedure will help to locate a short or open    to the diagnosis for the ABS brake system. (Refer to
+in the ABS warning indicator driver circuit. Refer to   5 - BRAKES - DIAGNOSIS AND TESTING). If not
+the appropriate wiring information. The wiring infor-   OK, repair the open ABS warning indicator driver
+mation includes wiring diagrams, proper wire and        circuit between the instrument cluster and the PDC
+connector repair procedures, details of wire harness    as required.
+routing and retention, connector pin-out information
+and location views for the various wire harness con-
+nectors, splices and grounds.
+                                                        AIRBAG INDICATOR
+WARNING: TO AVOID PERSONAL INJURY OR                    DESCRIPTION
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+TEM BEFORE ATTEMPTING ANY STEERING
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                                  Fig. 8 Airbag Indicator
+VICE. DISCONNECT AND ISOLATE THE BATTERY                   An airbag indicator is standard equipment on all
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                  instrument clusters (Fig. 8). However, the instrument
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                cluster can be programmed to disable this indicator
+CHARGE BEFORE PERFORMING FURTHER DIAG-                  on vehicles that are not equipped with the airbag
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY             system, which is not available in some markets. The
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                   airbag indicator is located near the lower edge of the
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                 instrument cluster, to the right of center. The airbag
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                indicator consists of a stencil-like cutout of the Inter-
+BAG DEPLOYMENT.                                         national Control and Display Symbol icon for “Air-
+                                                        bag” in the opaque layer of the instrument cluster
+  (1) Disconnect and isolate the battery negative       overlay. The dark outer layer of the overlay prevents
+cable. Remove the instrument cluster from the           the indicator from being clearly visible when it is not
+instrument panel. Disconnect the instrument panel       illuminated. A red Light Emitting Diode (LED)
+wire harness connector (Connector C2) for the instru-   behind the cutout in the opaque layer of the overlay
+ment cluster from the connector receptacle on the       causes the icon to appear in red through the translu-
+back of the cluster housing. Reconnect the battery      cent outer layer of the overlay when the indicator is
+negative cable. Turn the ignition switch to the On      illuminated from behind by the LED, which is sol-
+position and within about two seconds check for con-    dered onto the instrument cluster electronic circuit
+tinuity between the ABS warning indicator driver cir-   board. The airbag indicator is serviced as a unit with
+cuit cavity of the instrument panel wire harness        the instrument cluster.
+connector (Connector C2) for the instrument cluster
+and a good ground. There should be continuity for       OPERATION
+about two seconds after ignition On, and then an          The airbag indicator gives an indication to the
+open circuit. If OK, proceed to the diagnosis for the   vehicle operator when the airbag system is faulty or
+ABS brake system. (Refer to 5 - BRAKES - DIAGNO-        inoperative. The airbag indicator is controlled by a
+SIS AND TESTING). If not OK, go to Step 2.              transistor on the instrument cluster circuit board
+

@@ -1,0 +1,58 @@
+TJ                                                                                            COLUMN        19 - 9
+
+NOTE: Do not reuse the old steering wheel bolt (a            (12) Install the steering wheel and tighten bolt to
+new bolt must be used)                                     54 N·m (40 ft. lbs.).
+                                                             (13) Install the airbag, (Refer to 8 - ELECTRICAL/
+                                                           RESTRAINTS/DRIVER AIRBAG - INSTALLATION).
+NOTE: If equipped with cruise control, connect               (14) Install the negative battery terminal.
+clock spring harness to cruise switch harness on
+the steering wheel.
+
+SPECIFICATIONS
+TORQUE CHART
+
+                                         TORQUE SPECIFICATIONS
+
+       DESCRIPTION                       N·m                       Ft. Lbs.                     In. Lbs.
+     Tilt Steering Column                 54                          40                           —
+     Steering Wheel Nut
+     Tilt Steering Column                 17                          —                           150
+         Mounting Nuts
+     Tilt Steering Column                 49                          36                           —
+          Coupler Bolt
+ Non-Tilt Steering Column                 54                          40                           —
+   Steering Wheel Nut
+ Non-Tilt Steering Column                 17                          —                           150
+     Mounting Nuts
+ Non-Tilt Steering Column                 49                          36                           —
+       Coupler Bolt
+
+
+IGNITION SWITCH                                            not be the fault of the key cylinder or the steering
+                                                           column components. The brake transmission shift
+                                                           interlock cable may be out of adjustment. (Refer to
+DESCRIPTION
+                                                           21 - TRANSMISSION/TRANSAXLE/AUTOMATIC -
+  The electrical ignition switch is located on the         30RH/GEAR SHIFT CABLE - ADJUSTMENTS). The
+steering column. It is used as the main on/off switch-     interlock system within the steering column is not
+ing device for most electrical components. The             serviceable. If repair is necessary, the steering col-
+mechanical key cylinder is used to engage/disengage        umn assembly must be replaced. (Refer to 19 -
+the electrical ignition switch.                            STEERING/COLUMN - REMOVAL).
+                                                             Vehicles equipped with a manual transmis-
+DIAGNOSIS AND TESTING - IGNITION SWITCH                    sion and a floor mounted shifter: on certain mod-
+                                                           els, a button is located on the steering column behind
+ELECTRICAL DIAGNOSIS                                       the ignition key cylinder. The button must be manu-
+  For ignition switch electrical schematics, Refer to      ally depressed to allow rotation of the ignition key
+the appropriate section for the component.                 cylinder from the off to lock positions. If it is diffi-
+                                                           cult to rotate the key to any position, the lever mech-
+MECHANICAL DIAGNOSIS (KEY DIFFICULT TO                     anism may be defective. This mechanism is not
+ROTATE)                                                    serviceable. If repair is necessary, the steering col-
+  Vehicles equipped with an automatic trans-               umn assembly must be replaced. (Refer to 19 -
+mission and a floor mounted shifter: a cable is            STEERING/COLUMN - REMOVAL).
+used to connect the interlock device in the steering
+column assembly, to the transmission floor shift           REMOVAL
+lever. This interlock system is used to lock the trans-       The ignition key must be in the key cylinder for
+mission shifter in the PARK position when the key          cylinder removal. The key cylinder must be removed
+cylinder is rotated to any position. If the ignition key   first before removing ignition switch.
+is difficult to rotate to or from any position, it may
+

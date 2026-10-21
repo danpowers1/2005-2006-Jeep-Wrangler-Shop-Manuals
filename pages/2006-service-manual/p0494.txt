@@ -1,0 +1,61 @@
+8J - 26    INSTRUMENT CLUSTER                                                                                TJ
+
+ENGINE TEMPERATURE                                           • Engine Temperature Message - Each time
+                                                          the cluster receives a message from the PCM indicat-
+GAUGE                                                     ing the engine coolant temperature is between about
+                                                          40° C (100° F) and 124° C (255° F), the gauge needle
+DESCRIPTION                                               is moved to the actual relative temperature position
+                                                          on the gauge scale.
+                                                             • Engine Temperature Low Message - Each
+                                                          time the cluster receives a message from the PCM
+      Fig. 12 Engine Coolant Temperature Icon
+                                                          indicating the engine coolant temperature is at or
+   An engine coolant temperature gauge is standard        below about 40° C (100° F), the gauge needle is held
+equipment on all instrument clusters. The engine          at the 40° C (100° F) graduation at the far left end of
+coolant temperature gauge is located in the lower         the gauge scale. The gauge needle remains at the left
+right quadrant of the instrument cluster, below the       end of the gauge scale until the cluster receives a
+oil pressure gauge. The engine coolant temperature        message from the PCM indicating that the engine
+gauge consists of a movable gauge needle or pointer       temperature is above about 40° C (100° F), or until
+controlled by the instrument cluster circuitry and a      the ignition switch is turned to the Off position,
+fixed 90 degree scale on the cluster overlay that         whichever occurs first.
+reads left-to-right from 40° C (or 100° F) to 125° C         • Engine Temperature High Message - Each
+(or 260° F). An International Control and Display         time the cluster receives a message from the PCM
+Symbol icon for “Engine Coolant Temperature” is           indicating the engine coolant temperature is above
+located on the cluster overlay, directly above the hub    about 127° C (261° F), the gauge needle is moved
+of the gauge needle (Fig. 12). The engine coolant tem-    into the red zone at the far right end of the gauge
+perature gauge graphics are white and blue against a      scale, the check gauges indicator is illuminated, and
+black field except for a single red graduation at the     a single chime tone is sounded. The gauge needle
+high end of the gauge scale, making them clearly vis-     remains in the red zone and the check gauges indi-
+ible within the instrument cluster in daylight. When      cator remains illuminated until the cluster receives a
+illuminated from behind by the panel lamps dimmer         message from the PCM indicating that the engine
+controlled cluster illumination lighting with the exte-   temperature is below about 124° C (255° F), or until
+rior lamps turned On, the white graphics appear           the ignition switch is turned to the Off position,
+white, the blue graphics appear blue, and the red         whichever occurs first. The chime tone feature will
+graphics appear red. The orange gauge needle is           occur only once per ignition cycle.
+internally illuminated. Gauge illumination is pro-           • Engine Temperature Critical Message -
+vided by replaceable incandescent bulb and bulb           Each time the cluster receives a message from the
+holder units located on the instrument cluster elec-      PCM indicating the engine coolant temperature is
+tronic circuit board. The engine coolant temperature      above about 129° C (264° F), the gauge needle is
+gauge is serviced as a unit with the instrument clus-     moved to the far right end of the red zone on the
+ter.                                                      gauge scale. The gauge needle remains at the far
+                                                          right end of the red zone until the cluster receives a
+OPERATION                                                 message from the PCM indicating that the engine
+   The engine coolant temperature gauge gives an          temperature is below about 127° C (261° F), or until
+indication to the vehicle operator of the engine cool-    the ignition switch is turned to the Off position,
+ant temperature. This gauge is controlled by the          whichever occurs first.
+instrument cluster circuit board based upon cluster          • Communication Error - If the cluster fails to
+programming and electronic messages received by           receive an engine temperature message, it will hold
+the cluster from the Powertrain Control Module            the gauge needle at the last indication about twelve
+(PCM) over the Programmable Communications                seconds or until the ignition switch is turned to the
+Interface (PCI) data bus. The engine coolant temper-      Off position, whichever occurs first. After twelve sec-
+ature gauge is an air core magnetic unit that receives    onds, the cluster will move the gauge needle to the
+battery current on the instrument cluster electronic      left end of the gauge scale.
+circuit board through the fused ignition switch out-         • Actuator Test - Each time the cluster is put
+put (run-start) circuit whenever the ignition switch is   through the actuator test, the gauge needle will be
+in the On or Start positions. The cluster is pro-         swept to several calibration points on the gauge scale
+grammed to move the gauge needle back to the low          in a prescribed sequence to confirm the functionality
+end of the scale after the ignition switch is turned to   of the gauge and the cluster control circuitry.
+the Off position. The instrument cluster circuitry           The PCM continually monitors the engine coolant
+controls the gauge needle position and provides the       temperature sensor to determine the engine operat-
+following features:                                       ing temperature. The PCM then sends the proper
+

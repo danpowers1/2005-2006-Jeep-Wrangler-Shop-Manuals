@@ -1,0 +1,60 @@
+TJ                                                                   LAMPS/LIGHTING - EXTERIOR            8L - 3
+
+that the turn signals will only operate with the igni-    CAUTION: Do not use bulbs with higher candle
+tion switch in the On position. The hazard warning        power than indicated in the Bulb Application table
+system operates on non-switched battery voltage so        at the end of this group. Damage to lamp and/or
+that the hazard warning remains operational regard-       Daytime Running Lamp Module can result.
+less of the ignition switch position. When the turn
+signal switch control stalk is moved up or down, the
+turn signal system is activated. When the turn signal     CAUTION: Do not use fuses, circuit breakers, or
+system is activated, the circuitry of the turn signal     relays having greater amperage values than indi-
+switch and the combination flasher will cause the         cated on the fuse panel or in the Owner’s Manual.
+selected turn signal indicator, front park/turn signal
+lamp, front side marker lamp, repeater lamps, and         NOTE: When it is necessary to remove components
+rear tail/stop/turn signal lamp to flash on and off.      to service another, it should not be necessary to
+When the hazard warning system is activated, the          apply excessive force or bend a component to
+circuitry of the hazard warning switch and the com-       remove it. Before damaging a trim component, ver-
+bination flasher will cause both the right side and       ify hidden fasteners or captured edges are not hold-
+the left side turn signal indicators, front park/turn     ing the component in place.
+signal lamps, front side marker lamps, repeater
+lamps and rear tail/stop/turn signal lamps to flash on
+and off.
+   In order to provide the turn signal-on warning, the    DIAGNOSIS AND TESTING
+ElectroMechanical Instrument Cluster (EMIC) moni-
+tors vehicle speed and distance messages received         DIAGNOSIS AND TESTING - TURN SIGNAL &
+from the PCM over the PCI data bus and the hard           HAZARD WARNING SYSTEM
+wired turn signal switch input to the cluster elec-         Always begin any diagnosis by testing all of the
+tronic circuit board. If a turn signal remains indi-      fuses and circuit breakers in the system. Refer to the
+cated for a distance of greater than about 1.6            appropriate wiring information.
+kilometers (1 mile) and the vehicle speed remains           When diagnosing the turn signal or hazard warn-
+greater than about 24 kilometers-per-hour (15 miles-      ing circuits, remember that high generator output
+per-hour), the EMIC generates a repetitive chime at       can burn out bulbs rapidly and repeatedly. If this is a
+a slow rate to provide an audible reminder that a         problem on the vehicle being diagnosed (Refer to 8 -
+turn signal has been left on (distance is slightly        ELECTRICAL/CHARGING - DIAGNOSIS AND
+longer with export vehicles). Once the warning chime      TESTING). If the problem being diagnosed is related
+begins to sound, it will continue until the turn signal   to a failure of the turn signals to automatically can-
+is cancelled, until the vehicle speed falls below about   cel following completion of a turn, inspect the multi-
+24 kilometers-per-hour (15 miles-per-hour), or until      function switch for a faulty or damaged cancel
+the ignition switch is turned to the Off position,        actuator and inspect the turn signal cancel cam lobes
+whichever occurs first. This feature is not activated     on the clockspring mechanism for damage or
+by a hazard warning input to the instrument cluster.      improper installation. For complete circuit diagrams,
+   During both the turn signal and the hazard warn-       refer to the appropriate wiring information.
+ing operation, if the exterior lamps are turned Off,
+the front park/turn signal lamps, repeater lamps and      WARNING: ON VEHICLES EQUIPPED WITH AIR-
+the front side marker lamps will flash in unison. If      BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+the exterior lamps are turned On, the front park/turn     ATTEMPTING ANY STEERING WHEEL, STEERING
+signal lamps, repeater lamps and the front side           COLUMN, OR INSTRUMENT PANEL COMPONENT
+marker lamps will flash alternately.                      DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+                                                          LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+WARNING                                                   THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                          TEM CAPACITOR TO DISCHARGE BEFORE PER-
+WARNING:: EYE PROTECTION SHOULD BE USED                   FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+WHEN SERVICING GLASS COMPONENTS. PER-                     IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+SONAL INJURY CAN RESULT.                                  SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                          CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                          BAG DEPLOYMENT AND POSSIBLE PERSONAL
+CAUTION: Do not touch the glass of halogen bulbs
+                                                          INJURY.
+with fingers or other possibly oily surface, reduced
+bulb life will result.
+

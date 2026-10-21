@@ -1,0 +1,59 @@
+7-4   COOLING                                                                                           TJ
+
+                         COOLING SYSTEM DIAGNOSIS CHART
+
+         CONDITION                   POSSIBLE CAUSES                             CORRECTION
+
+TEMPERATURE GAUGE READS       1. Has a Diagnostic Trouble Code        1. (Refer to 25 - EMISSIONS
+LOW                           (DTC) been set indicating a stuck       CONTROL - DESCRIPTION) for
+                              open thermostat?                        On-Board Diagnostics and DTC
+                                                                      information. Replace thermostat if
+                                                                      necessary.
+
+                              2. Is the temperature sending unit      2. Check the temperature sensor
+                              connected?                              connector. (Refer to 8 - ELECTRI-
+                                                                      CAL/INSTRUMENT CLUSTER -
+                                                                      SCHEMATIC - ELECTRICAL) Re-
+                                                                      pair connector if necessary.
+                              3. Is the temperature gauge oper-       3. Check gauge operation. (Refer
+                              ating OK?                               to 8 - ELECTRICAL/INSTRUMENT
+                                                                      CLUSTER/ENGINE TEMPERA-
+                                                                      TURE GAUGE - DESCRIPTION).
+                                                                      Repair as necessary.
+                              4. Coolant level low in cold ambi-      4. Check coolant level in the cool-
+                              ent temperatures, accompanied           ant reserve/overflow tank or degas
+                              with poor heater performance.           bottle and the radiator. Inspect sys-
+                                                                      tem for leaks. Repair leaks as nec-
+                                                                      essary. Refer to the Coolant sec-
+                                                                      tion of the manual text for WARN-
+                                                                      INGS and CAUTIONS associated
+                                                                      with removing the radiator cap.
+                              5. Improper operation of internal       5. Inspect heater and repair as
+                              heater doors or heater controls.        necessary. (Refer to 24 - HEATING
+                                                                      & AIR CONDITIONING - DIAGNO-
+                                                                      SIS AND TESTING) for proce-
+                                                                      dures.
+
+TEMPERATURE GAUGE READS       1. Trailer is being towed, a steep      1. This may be a temporary condi-
+HIGH OR THE COOLANT WARN-     hill is being climbed, vehicle is op-   tion and repair is not necessary.
+ING LAMP ILLUMINATES. COOL-   erated in slow moving traffic, or       Turn off the air conditioning and
+ANT MAY OR MAY NOT BE LOST    engine is being idled with very         attempt to drive the vehicle without
+OR LEAKING FROM THE COOL-     high ambient (outside) tempera-         any of the previous conditions. Ob-
+ING SYSTEM                    tures and the air conditioning is       serve the temperature gauge. The
+                              on. Higher altitudes could aggra-       gauge should return to the normal
+                              vate these conditions.                  range. If the gauge does not return
+                                                                      to the normal range, determine the
+                                                                      cause for overheating and repair.
+                                                                      Refer to Possible Causes (2-18).
+                              2. Is the temperature gauge read-       2. Check gauge. (Refer to 8 -
+                              ing correctly?                          ELECTRICAL/INSTRUMENT CLUS-
+                                                                      TER - SCHEMATIC - ELECTRI-
+                                                                      CAL). Repair as necessary.
+                              3. Is the temperature warning illu-     3. (Refer to 8 - ELECTRICAL/IN-
+                              minating unnecessarily?                 STRUMENT CLUSTER - SCHE-
+                                                                      MATIC - ELECTRICAL).
+                              4. Coolant low in coolant reserve/      4. Check for coolant leaks and re-
+                              overflow tank and radiator?             pair as necessary. (Refer to 7 -
+                                                                      COOLING - DIAGNOSIS AND
+                                                                      TESTING).
+

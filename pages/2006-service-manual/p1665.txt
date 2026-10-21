@@ -1,0 +1,69 @@
+TJ                                                                                     CONTROLS        24 - 29
+
+BLOWER MOTOR SWITCH                                      bag system. Failure to take the proper precautions
+                                                         could result in accidental airbag deployment and
+                                                         possible personal injury or death.
+DESCRIPTION
+                                                            For circuit descriptions and diagrams, refer to the
+  The blower motor for the heater-only or heater-A/C
+                                                         appropriate wiring information. The wiring informa-
+system is controlled by a rotary-type blower motor
+                                                         tion includes wiring diagrams, proper wire and con-
+switch, mounted in the A/C-heater control (Fig. 28).
+                                                         nector repair procedures, further details on wire
+The blower motor switch allows the selection of four
+                                                         harness routing and retention, as well as pin-out and
+different blower motor speeds and includes an Off
+                                                         location views for the various wire harness connec-
+position.
+                                                         tors, splices and grounds.
+                                                            (1) Check for battery voltage at the fuse in the
+                                                         power distribution center (PDC). If OK, go to Step 2.
+                                                         If not OK, repair the shorted circuit or component as
+                                                         required and replace the faulty fuse.
+                                                            (2) Turn the ignition switch to the Off position.
+                                                         Disconnect and isolate the negative battery cable.
+                                                         Remove the A/C-heater control from the instrument
+                                                         panel (Refer to 24 - HEATING & AIR CONDITION-
+                                                         ING/CONTROLS/A/C           HEATER      CONTROL       -
+                                                         REMOVAL). Check for continuity between the
+                                                         ground circuit cavity of the A/C-heater control wire
+                                                         harness connector and a good ground. There should
+                                                         be continuity. If OK, go to Step 3. If not OK, repair
+                                                         the open circuit to ground as required.
+                                                            (3) With the A/C-heater control wire harness con-
+                                                         nector disconnected, place the A/C-heater mode con-
+                                                         trol in any position except Off. Check for continuity
+                                                         between the ground circuit terminal and each of the
+        Fig. 28 A/C-Heater Control - Typical             blower motor driver circuit terminals of the A/C-
+                                                         heater control as you move the blower motor switch
+1 - BLOWER SPEED CONTROL
+2 - TEMPERATURE SELECT COPNTROL                          to each of the four speed positions. There should be
+3 - MODE SELECT CONTROL                                  continuity at each driver circuit terminal in only one
+                                                         blower motor switch speed position. If OK, test and
+OPERATION                                                repair the blower driver circuits between the A/C-
+  The blower motor switch provides a ground path         heater control and the blower motor resistor as
+for the blower motor through the A/C-heater mode         required. If not OK, replace the faulty blower motor
+control. The blower motor switch directs this ground     switch.
+path through or around the blower motor resistor
+wires, as required to achieve the selected blower        REMOVAL
+motor speed.
+  The blower motor switch cannot be repaired and, if     WARNING: On vehicles equipped with airbags, dis-
+faulty or damaged, it must be replaced. The blower       able the airbag system before attempting any steer-
+motor switch knob is available for service replace-      ing wheel, steering column, or instrument panel
+ment.                                                    component diagnosis or service. Disconnect and
+                                                         isolate the battery negative (ground) cable, then
+                                                         wait two minutes for the airbag system capacitor to
+DIAGNOSIS AND TESTING                                    discharge before performing further diagnosis or
+                                                         service. This is the only sure way to disable the air-
+BLOWER MOTOR SWITCH                                      bag system. Failure to take the proper precautions
+                                                         could result in accidental airbag deployment and
+WARNING: On vehicles equipped with airbags, dis-         possible personal injury or death.
+able the airbag system before attempting any steer-
+ing wheel, steering column, or instrument panel            (1) Disconnect and isolate the negative battery
+component diagnosis or service. Disconnect and           cable.
+isolate the battery negative (ground) cable, then          (2) Using a trim stick C-4755 or equivalent, gently
+wait two minutes for the airbag system capacitor to      pry the blower motor switch knob off of the switch
+discharge before performing further diagnosis or         stem from the front of the A/C-heater control.
+service. This is the only sure way to disable the air-
+

@@ -1,0 +1,40 @@
+21 - 156     AUTOMATIC TRANSMISSION - 42RLE                                                                 TJ
+
+approximately 20 degrees Fahrenheit or less, the           SOLENOID SWITCH VALVE
+valve is fully open to assist in venting oil past the U1
+orifice (2). At temperatures above 20 degrees, the
+valve starts to close and becomes fully closed at
+approximately 140 degrees. The thermal valve is
+located in the transfer plate of the valve body.
+
+REGULATOR VALVE
+
+
+
+
+               Fig. 261 Regulator Valve
+1 - FROM OVERDRIVE CLUTCH CIRCUIT
+2 - FROM MANUAL VALVE
+3 - HYDRAULIC PRESSURE
+4 - FILTER
+5 - PUMP INLET
+6 - PUMP OUTLET
+7 - OIL PRESSURE REGULATED AT THIS POINT
+8 - SPRING TENSION
+9 - REGULATOR VALVE
+10 - TORQUE CONVERTER CONTROL VALVE                           Fig. 262 Solenoid Switch Valve De-Energized
+   The regulator valve (9) (Fig. 261) controls hydrau-     1 - 2/4 CLUTCH
+                                                           2 - MANUAL VALVE
+lic pressure in the transmission. It receives unregu-      3 - UD CLUTCH
+lated pressure from the pump (6), which works              4 - LR/CC SOLENOID DE-ENERGIZED
+against spring tension (8) to maintain oil at specific     5 - MANUAL VALVE
+                                                           6 - LINE PRESSURE
+pressures. A system of sleeves and ports allows the        7 - CONVERTER CLUTCH SWITCH AND CONTROL VALVES
+regulator valve to work at one of three predeter-          8 - LR CLUTCH
+mined pressure levels. Regulated oil pressure is also
+referred to as “line pressure.”                               The solenoid switch valve (Fig. 262) controls line
+                                                           pressure from the LR/CC solenoid (4). In one posi-
+                                                           tion, it allows the low/reverse clutch to be pressur-
+                                                           ized. In the other, it directs line pressure to the
+                                                           converter control and converter clutch valves (7).
+

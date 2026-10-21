@@ -1,0 +1,39 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                        8W - 80 - 23
+
+
+                                              CLOCKSPRING C4 - 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    R43 18LG/BR                         DRIVER SQUIB 1 LINE 1
+               1    R45 18LG/OR                         DRIVER SQUIB 1 LINE 2
+               2    R43 18LG/BR                         DRIVER SQUIB 1 LINE 1
+               2    R45 18LG/OR                         DRIVER SQUIB 1 LINE 2
+
+
+
+
+                                  CLUTCH PEDAL POSITION SWITCH (M/T) - BLACK 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    T141 18YL/OR                        CLUTCH INTERLOCK SWITCH SENSE
+               2    Z902 18BK                           GROUND
+
+
+
+
+                                               COIL CAPACITOR - 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    K334 18BR                           ASD RELAY OUTPUT
+               2    -                                   -
+
+
+
+
+                                    COMPASS/TEMPERATURE MIRROR - BLACK 7 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    F505 20PK/YL                        FUSED IGNITION SWITCH OUTPUT (RUN-START)
+               2    Z1 20BK                             GROUND
+               3    L1 20VT/BK                          BACKUP LAMP FEED
+               4    G31 20VT/LG                         AAT SIGNAL
+               5    G32 20BK/LB                         SENSOR GROUND
+               6    M22 20YL                            COURTESY LAMPS DRIVER
+               7    M21 20PK/WT                         FUSED B(+)
+

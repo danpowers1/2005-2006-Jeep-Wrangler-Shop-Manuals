@@ -1,0 +1,50 @@
+9 - 72    ENGINE 4.0L                                                                                     TJ
+
+                                                         within seven main bearings. The camshaft rotates
+                                                         within four bearings.
+                                                           BUILD DATE CODE
+                                                           The engine Build Date Code is located on a
+                                                         machined surface on the right side of the cylinder
+                                                         block between the No.2 and No.3 cylinders (Fig. 3).
+
+
+
+
+ Fig. 1 4.0L Cylinder Block with Main Bearing Caps
+                   and Cap Brace
+1 - BLOCK
+2 - MAIN BEARING CAP BRACE
+
+DESCRIPTION - ENGINE                                                 Fig. 3 Build Date Code Location
+   The 4.0 Liter (242 CID) six-cylinder engine is an     1 - YEAR
+In-line, lightweight, overhead valve engine.             2 - MONTH
+   This engine is designed for unleaded fuel. The        3 - DAY
+engine cylinder head has dual quench-type combus-           The digits of the code identify:
+tion chambers that create turbulence and fast burn-         • 1st Digit—The year (0 = 2000).
+ing of the air/fuel mixture. This results in good fuel      • 2nd & 3rd Digits—The month (01 - 12).
+economy.                                                    • 4th & 5th Digits—The engine type/fuel system/
+   The cylinders are numbered 1 through 6 from front     compression ratio (MX = A 4.0 Liter (242 CID) engine
+to rear. The firing order is 1-5-3-6-2-4 (Fig. 2).       with a multi-point fuel injection system).
+                                                            • 6th & 7th Digits—The day of engine build (01 -
+                                                         31).
+                                                            (1) FOR EXAMPLE: Code * 001MX12 * identi-
+                                                         fies a 4.0 Liter (242 CID) engine with a multi-point
+                                                         fuel injection system, and built on January 12, 2000.
+
+
+                                                         DIAGNOSIS AND TESTING
+                                                         DIAGNOSIS AND TESTING - ENGINE DIAGNO-
+                                                         SIS - INTRODUCTION
+                                                           Engine diagnosis is helpful in determining the
+                                                         causes of malfunctions not detected and remedied by
+                                                         routine maintenance.
+                                                           These malfunctions may be classified as either per-
+                                                         formance (e.g., engine idles rough and stalls) or
+                                                         mechanical (e.g., a strange noise).
+                                                           (Refer to 9 - ENGINE - DIAGNOSIS AND TEST-
+             Fig. 2 Engine Firing Order                  ING) (PERFORMANCE) or (Refer to 9 - ENGINE -
+                                                         DIAGNOSIS AND TESTING) (MECHANICAL) for
+  The crankshaft rotation is clockwise, when viewed      possible causes and corrections of malfunctions.
+from the front of the engine. The crankshaft rotates       Additional tests and diagnostic procedures may be
+                                                         necessary for specific engine malfunctions that can
+

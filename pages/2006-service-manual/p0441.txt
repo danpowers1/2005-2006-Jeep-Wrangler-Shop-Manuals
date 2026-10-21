@@ -1,0 +1,60 @@
+TJ                                                                                  HEATED GLASS         8G - 5
+
+DIAGNOSIS AND TESTING
+REAR WINDOW DEFOGGER SWITCH
+WARNING: On vehicles equipped with airbags, dis-
+able the airbag system before attempting any steer-
+ing wheel, steering column, or instrument panel
+component diagnosis or service. Disconnect and
+isolate the battery negative (ground) cable, then
+wait two minutes for the airbag system capacitor to
+discharge before performing further diagnosis or
+service. Failure to take the proper precautions
+could result in accidental airbag deployment and
+possible personal injury or death.
+
+
+NOTE: For circuit descriptions and diagrams, refer
+to Rear Window Defogger in Group 8W - Wiring Dia-
+grams.
+
+  (1) Disconnect and isolate the negative battery
+cable. Remove the accessory switch bezel from the          Fig. 7 Rear Window Defogger Switch Continuity
+instrument panel and disconnect the wire harness              SWITCH POSITION           CONTINUITY BETWEEN
+                                                                     OFF                       LAMPS
+connector from the defogger switch.                                  ON                 MOMENTARY 1 AND 2
+  (2) Check for continuity between the ground cir-           ILLUMINATION LAMP                1 AND 4
+cuit cavity of the defogger switch wire harness con-           INDICATOR LAMP                 1 AND 3
+nector and a good ground. There should be
+continuity. If OK, go to Step 3. If not OK, repair the   REMOVAL
+open circuit as required.
+  (3) Check for continuity between the ground cir-       WARNING: On vehicles equipped with airbags, dis-
+cuit terminal and the rear window defogger switch        able the airbag system before attempting any steer-
+sense circuit terminal on the back of the defogger       ing wheel, steering column, or instrument panel
+switch housing (Fig. 7). There should be momentary       component diagnosis or service. Disconnect and
+continuity as the defogger switch is pressed, and        isolate the battery negative (ground) cable, then
+then no continuity. If OK, test the instrument cluster   wait two minutes for the airbag system capacitor to
+(Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-                discharge before performing further diagnosis or
+TER - DIAGNOSIS AND TESTING). If not OK,                 service. Failure to take the proper precautions
+replace the faulty rear window defogger switch (Refer    could result in accidental airbag deployment and
+to 8 - ELECTRICAL/HEATED GLASS/REAR WIN-                 possible personal injury or death.
+DOW DEFOGGER SWITCH - REMOVAL).
+                                                           (1) Disconnect and isolate the negative battery
+                                                         cable.
+                                                           (2) Remove the center bezel from the instrument
+                                                         panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+                                                         CLUSTER BEZEL - REMOVAL).
+                                                           (3) Remove the four screws that secure the acces-
+                                                         sory switch bezel to the instrument panel (Fig. 8).
+                                                           (4) Pull the accessory switch bezel out from the
+                                                         instrument panel far enough to access the wire har-
+                                                         ness connectors.
+                                                           (5) Disconnect the wire harness connectors from
+                                                         the rear of the accessory switches and the cigar light-
+                                                         er/power outlet.
+                                                           (6) Remove the accessory switch bezel from the
+                                                         instrument panel.
+                                                           (7) Using a small thin-bladed screwdriver, gently
+                                                         pry the snap clips at the top and at the bottom of the
+                                                         rear window defogger switch receptacle on the back
+

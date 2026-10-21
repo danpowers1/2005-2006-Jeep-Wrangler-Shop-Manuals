@@ -1,0 +1,60 @@
+TJ                                                                               IGNITION CONTROL         8I - 7
+
+OPERATION                                                   When the trailing edge of the target wheel notch
+                                                          passes by the tip of the CMP sensor, the change of
+2.4L                                                      the magnetic field causes the sync signal voltage to
+   The Camshaft Position Sensor (CMP) sensor con-         switch low to 0 volts.
+tains a hall effect device referred to as a sync signal
+generator. A rotating target wheel (tonewheel) for the
+CMP is located behind the exhaust valve-camshaft
+drive gear (Fig. 7). The target wheel is equipped with
+a cutout (notch) around 180 degrees of the wheel.
+The CMP detects this cutout every 180 degrees of
+camshaft gear rotation. Its signal is used in conjunc-
+tion with the Crankshaft Position Sensor (CKP) to
+differentiate between fuel injection and spark events.
+It is also used to synchronize the fuel injectors with
+their respective cylinders.
+   When the leading edge of the target wheel cutout
+enters the tip of the CMP, the interruption of mag-
+netic field causes the voltage to switch high, result-
+ing in a sync signal of approximately 5 volts.
+   When the trailing edge of the target wheel cutout
+leaves the tip of the CMP, the change of the magnetic
+field causes the sync signal voltage to switch low to 0
+volts.
+                                                                      Fig. 8 4.0L CMP OPERATION
+                                                          1 - CMP SENSOR
+                                                          2 - TARGET WHEEL NOTCHES
+                                                          3 - TARGET WHEEL
+
+                                                          REMOVAL
+                                                          2.4L
+                                                            The Camshaft Position Sensor (CMP) on the 2.4L
+                                                          4–cylinder engine is bolted to the right-front side of
+                                                          the cylinder head (Fig. 9). Sensor position (depth) is
+                                                          adjustable.
+                                                            (1) Disconnect electrical connector at CMP sensor.
+                                                            (2) Remove 2 sensor mounting bolts.
+                                                            (3) Remove sensor from cylinder head by sliding
+                                                          towards rear of engine.
+
+
+
+
+       Fig. 7 CMP FACE AT TARGET WHEEL-2.4L
+1 - CAMSHAFT DRIVE GEAR
+2 - TARGETWHEEL (TONEWHEEL)
+3 - FACE OF CMP SENSOR
+4 - CUTOUT (NOTCH)
+
+4.0L
+   The CMP sensor (1) (Fig. 8) uses a rotating hall
+effect device called a target wheel (3) which is
+attached to the oil pump drive shaft. The target
+wheel contains sets of machined notches (2).
+   When the leading edge of a target wheel notch
+passes by the tip of the CMP sensor, the interruption
+of magnetic field causes the voltage to switch high
+resulting in a sync signal of approximately 5 volts.
+

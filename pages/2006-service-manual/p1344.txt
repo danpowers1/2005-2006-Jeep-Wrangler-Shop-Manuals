@@ -1,0 +1,43 @@
+21 - 154     AUTOMATIC TRANSMISSION - 42RLE                                                                 TJ
+
+OPERATION                                                  check balls that control fluid delivery to the torque
+  The transmission range sensor (TRS) has an inte-         converter clutch, solenoid/pressure switch assembly,
+grated thermistor that the TCM uses to monitor the         and frictional clutches.
+transmission’s sump temperature. Since fluid tem-            Also mounted to the valve body assembly are the
+perature can affect transmission shift quality and         solenoid/pressure switch assembly and the transmis-
+convertor lock up, the TCM requires this information       sion range sensor (2) (Fig. 258).
+to determine which shift schedule to operate in. The
+TCM also monitors this temperature data so it can
+energize the vehicle cooling fan(s) when a transmis-
+sion “overheat” condition exists. If the thermistor cir-
+cuit fails, the TCM will revert to calculated oil
+temperature usage.
+
+CALCULATED TEMPERATURE
+  A failure in the temperature sensor or circuit will
+result in calculated temperature being substituted for
+actual temperature. Calculated temperature is a pre-
+dicted fluid temperature which is calculated from a
+combination of inputs:
+  • Battery (ambient) temperature
+  • Engine coolant temperature
+  • In-gear run time since start-up
+
+
+VALVE BODY
+DESCRIPTION
+
+
+
+
+           Fig. 258 Valve Body Assembly
+1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+2 - TRS
+3 - TRANSFER PLATE
+4 - SEPARATOR PLATE
+5 - VALVE BODY
+
+  The valve body assembly (Fig. 258) consists of a
+cast aluminum valve body (5),separator plate (4), and
+transfer plate (3). The valve body contains valves and
+

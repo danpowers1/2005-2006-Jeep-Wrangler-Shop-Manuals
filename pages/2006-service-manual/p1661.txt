@@ -1,0 +1,58 @@
+TJ                                                                                    CONTROLS       24 - 25
+
+shaft that connects it to the mode door linkage and      could result in accidental airbag deployment and
+three integral mounting tabs that allow it to be         possible personal injury or death.
+secured to the HVAC housing. The blend door actua-
+tor requires mechanical indexing to the blend door       NOTE: Prior to performing this procedure, turn the
+linkage.                                                 ignition key to the On position and set the A/C-
+   The blend door actuator can be accessed for service   heater control in the mid-temperature position and
+from under the instrument panel.                         wait 10 seconds.
+
+                                                           (1) Disconnect and isolate the negative battery
+                                                         cable.
+                                                           (2) Disconnect the wire harness connector from the
+                                                         blend door actuator located at the bottom of the
+                                                         HVAC housing near the center of the instrument
+                                                         panel (Fig. 23).
+                                                           (3) Remove the three screws that secure the blend
+                                                         door actuator to the HVAC housing and remove the
+                                                         actuator.
+
+
+
+
+            Fig. 22 Blend Door Actuator
+1 - BLEND DOOR ACTUATOR
+2 - WIRE CONNECTOR RECEPTACLE
+3 - MOUNTING TAB (3)
+4 - ACTUATOR OUTPUT SHAFT
+
+OPERATION
+  The blend door actuator is connected to the A/C-
+heater control through the vehicle electrical system
+by a dedicated three-wire lead and connector of the
+HVAC wire harness. The blend door actuator can                       Fig. 23 Blend Door Actuator
+move the blend-air door in two directions. A potenti-
+                                                         1 - WIRE HARNESS CONNECTOR
+ometer within the actuator allows the A/C-heater         2 - BLEND DOOR ACTUATOR
+control to know the exact position of the blend-air      3 - SCREWS (3)
+door at all times.                                       4 - HVAC HOUSING
+  The blend door actuator can be diagnosed using a
+DRBIIIt scan tool. Refer to Body Diagnostic Proce-       INSTALLATION
+dures for more information.                                (1) Position the blend door actuator onto the bot-
+  The blend door actuator cannot be adjusted or          tom of the HVAC housing. If necessary, rotate the
+repaired and, if faulty or damaged, it must be           actuator slightly to align the actuator output shaft
+replaced.                                                with the blend door linkage.
+                                                           (2) Install the three screws that secure the blend
+REMOVAL                                                  door actuator to the HVAC housing. Tighten the
+                                                         screws to 2 N·m (17 in. lbs.).
+WARNING: On vehicles equipped with airbags, dis-           (3) Connect the HVAC wire harness connector to
+able the airbag system before attempting any steer-      the blend door actuator.
+ing wheel, steering column, or instrument panel            (4) Reconnect the battery negative cable.
+component diagnosis or service. Disconnect and
+isolate the negative battery (ground) cable, then
+wait two minutes for the airbag system capacitor to
+discharge before performing further diagnosis or
+service. This is the only sure way to disable the air-
+bag system. Failure to take the proper precautions
+

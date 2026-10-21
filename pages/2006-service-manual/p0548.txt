@@ -1,0 +1,66 @@
+8L - 36    LAMPS/LIGHTING - INTERIOR                                                                       TJ
+
+is a one-time feature, it can be adjusted inward (com-   or passenger door ajar switch sense circuit between
+pressed), but cannot be readjusted outward               the door ajar switch and the instrument cluster as
+(extended) once it has been compressed. This nor-        required.
+mally open switch only closes when the door is open.       (4) Check for continuity between the driver or pas-
+   The door ajar switch cannot be repaired and, if       senger door ajar switch sense circuit of the wire har-
+faulty or damaged, it must be replaced.                  ness connector for the driver or passenger door ajar
+                                                         switch and the wire harness connector for the instru-
+OPERATION                                                ment cluster. There should be continuity. If not OK,
+  The door ajar switches control a path to ground        repair the open driver or passenger door ajar switch
+through separate driver and passenger door ajar          sense circuit between the door ajar switch and the
+switch sense circuit inputs to the instrument cluster    instrument cluster as required.
+chime warning circuitry when a door is opened. The
+door ajar switch inputs to the instrument cluster can    REMOVAL
+be diagnosed using conventional diagnostic tools and
+methods.                                                 WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                         BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+DIAGNOSIS AND TESTING - DOOR AJAR                        ATTEMPTING ANY STEERING WHEEL, STEERING
+                                                         COLUMN, OR INSTRUMENT PANEL COMPONENT
+SWITCH
+                                                         DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                  LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                   THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+ATTEMPTING ANY STEERING WHEEL, STEERING                  TEM CAPACITOR TO DISCHARGE BEFORE PER-
+COLUMN, OR INSTRUMENT PANEL COMPONENT                    FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-                   BAG DEPLOYMENT AND POSSIBLE PERSONAL
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS               INJURY.
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+                                                           (1) Disconnect the negative battery cable
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                           (2) Unlatch and open the door fully.
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                           (3) Using a small screwdriver, pry carefully
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+                                                         between the hinge pillar and the outer circumference
+INJURY.
+                                                         of the door ajar switch housing to release the switch
+  (1) Disconnect the negative battery cable. Remove      snap features from the mounting hole in the pillar.
+the door ajar switch from the door hinge pillar. Dis-      (4) Pull the door ajar switch out through the
+connect the wire harness connector from the door         mounting hole in the hinge pillar far enough to
+ajar switch. Check for continuity between the door       access and disconnect the wire harness connector
+ajar switch output and the driver or passenger door      from the door ajar switch.
+ajar switch sense circuit in the door ajar switch con-     (5) Remove the door ajar switch from the door
+nector. There should be continuity with the switch       hinge pillar.
+plunger released, and no continuity with the switch
+plunger depressed. If OK, go to Step 2. If not OK,       INSTALLATION
+replace the faulty door ajar switch.                       (1) Position the door ajar switch to the door hinge
+  (2) Check for continuity between the door ajar         pillar.
+switch output circuit of the wire harness connector        (2) Connect the wire harness connector to the door
+for the driver or passenger door ajar switch and a       ajar switch.
+good ground. There should be continuity. If OK, go to      (3) Guide the wire harness for the door ajar switch
+Step 3. If not OK, repair the open door ajar switch      and the receptacle end of the switch into the mount-
+output circuit to ground as required.                    ing hole in the door hinge pillar.
+  (3) Remove the instrument cluster from the instru-       (4) Using hand pressure, press the door ajar
+ment panel. Disconnect the instrument panel wire         switch housing into the mounting hole in the door
+harness connector from the instrument cluster.           hinge pillar until the snap features of the switch are
+Check for continuity between the driver or passenger     fully engage in the mounting hole.
+door ajar switch sense circuit of the wire harness         (5) Slowly close the door and allow the door ajar
+connector for the driver or passenger door ajar switch   switch plunger self-adjuster mechanism to ratchet to
+and a good ground. There should be no continuity. If     the proper position.
+OK, go to Step 4. If not OK, repair the shorted driver     (6) Reconnect the negative battery cable.
+

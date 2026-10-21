@@ -1,0 +1,61 @@
+TJ                                                                     FRONT WIPERS/WASHERS             8R - 3
+
+lower inboard side of the washer reservoir, on the top   connectors and insulators. Refer to the appropriate
+of the left front wheel house in the engine compart-     wiring information. The wiring information includes
+ment. The front washer pump/motor unit is located        wiring diagrams, proper wire and connector repair
+below and forward of the optional rear washer pump/      procedures, further details on wire harness routing
+motor unit mounting hole.                                and retention, as well as pin-out and location views
+  • Front Washer Plumbing - The plumbing for             for the various wire harness connectors, splices and
+the front washer system consists of rubber hoses and     grounds.
+molded plastic fittings. The plumbing is routed along
+the left side of the engine compartment from the         OPERATING MODES
+washer reservoir, and up the cowl panel to the hood         The components of the wiper and washer system
+panel rear reinforcement. Then along the hood panel      are designed to work in concert to provide the follow-
+rear reinforcement to the front washer nozzle fitting.   ing operating modes:
+  • Front Wiper Arm - The two front wiper arms              • Continuous Wipe Modes - The control stalk of
+are secured with integral latches to the serrated ends   the right multi-function switch has two continuous
+of the two wiper pivot shafts, which extend through      wipe positions, Low and High. When selected, these
+the cowl plenum cover/grille panel located near the      switch positions will cause the two-speed wiper motor
+base of the windshield.                                  to operate in a continuous low or high speed cycle.
+  • Front Wiper Blade - The two front wiper                 • Intermittent Wipe Mode - The control stalk of
+blades are secured to the two front wiper arms with      the right multi-function switch has an intermittent
+integral latches, and are parked on the glass near       wipe position, and the control knob has several minor
+the bottom of the windshield when the front wiper        detent positions which will each cause the wiper sys-
+system is not in operation.                              tem to operate at different delay intervals between
+  • Front Wiper Module - The front wiper pivot           complete wipe cycles. The internal circuitry of the
+shafts are the only visible components of the front      right multi-function switch provides the intermittent
+wiper module. The remainder of the module is con-        wipe mode and adjustable delay intervals between
+cealed within the cowl plenum area beneath the cowl      wipe cycles of about one second to about fifteen sec-
+plenum cover/grille panel. The front wiper module        onds.
+includes the wiper module bracket, three rubber-iso-        • Mist Wipe Mode - The control stalk of the right
+lated wiper module mounts, the front wiper motor,        multi-function switch has a momentary mist wipe
+the front wiper motor crank arm, the front wiper         position that will operate the front wipers for a sin-
+drive link, the front wiper connector link, and the      gle complete cycle, then park the wiper blades near
+two front wiper pivots.                                  the base of the windshield.
+  • Right Multi-Function Switch - The right                 • Washer Mode - When the control stalk of right
+multi-function switch is located near the top of the     multi-function switch is pulled toward the steering
+steering column, just below the steering wheel. The      wheel to the momentary Wash position while the
+right multi-function switch includes a control stalk     front wiper system is operating, washer fluid will be
+with a control knob on the end that extends through      dispensed onto the windshield glass through the
+a dedicated opening on the right side of the steering    washer nozzles for as long as the front washer pump
+column shrouds. The right multi-function switch is       is energized.
+dedicated to providing all of the driver controls for       • Wipe-After-Wash Mode - When the control
+the front wiper and washer systems.                      stalk of right multi-function switch is pulled toward
+  • Washer Reservoir - The molded plastic washer         the steering wheel to the momentary Wash position
+reservoir is secured by two screws through integral      while the front wiper system is not operating, the
+mounting tabs to the top of the left front fender        internal circuitry of the right multi-function switch
+wheel house, in the left front corner of the engine      provides a wipe-after-wash feature which will operate
+compartment. The washer reservoir filler neck is         the front washer pump/motor and the front wipers
+accessed from the left front corner of the engine com-   for as long as the washer system is activated, then
+partment.                                                provide one or two additional wipe cycles after the
+  Hard wired circuitry connects the front wiper and      washer system is deactivated before parking the
+washer system components to the electrical system of     front wiper blades near the base of the windshield.
+the vehicle. These hard wired circuits are integral to
+several wire harnesses, which are routed throughout      OPERATION
+the vehicle and retained by many different methods.        The front wiper and washer system is designed to
+These circuits may be connected to each other, to the    provide the vehicle operator with a convenient, safe,
+vehicle electrical system and to the front wiper and     and reliable means of maintaining visibility through
+washer system components through the use of a com-       the windshield glass. The various components of this
+bination of soldered splices, splice block connectors,   system are designed to convert electrical energy pro-
+and many different types of wire harness terminal        duced by the vehicle electrical system into the
+

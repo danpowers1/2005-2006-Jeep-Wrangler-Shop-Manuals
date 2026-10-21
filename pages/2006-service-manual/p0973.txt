@@ -1,0 +1,66 @@
+TJ                                                                                    ENGINE 2.4L            9 - 13
+
+CAUTION: Use caution when installing 2.4L engine           (32) Install the fan shroud with the electric fan
+into vehicle equipped with manual transmission, as       assembly.
+clearance is tight.                                        (33) Install the radiator core support bracket.
+                                                           (34) Install the air cleaner assembly.
+  (2) Install both left and right side engine mounts       (35) Refill the engine cooling system.
+into the frame mounts.                                     (36) Install the hood.
+  (3) Raise the vehicle.                                   (37) Check and fill engine oil.
+  (4) Install the transmission bellhousing to engine       (38) Connect the battery negative cable.
+mounting bolts. Tighten the bolts to 41 N·m (30 ft.        (39) Start the engine and check for leaks.
+lbs.).
+  (5) Tighten the engine mount through bolts.
+  (6) Install the torque convertor bolts.                SPECIFICATIONS
+  (7) Connect the ground straps on the left and right
+side of the engine.                                      SPECIFICATIONS - 2.4L ENGINE
+  (8) Install the starter.
+  (9) Connect the crankshaft position sensor.                      GENERAL SPECIFICATIONS
+  (10) Install the engine block heater power cable, if
+                                                         DESCRIPTION                SPECIFICATION
+equipped.
+                                                         Type                     In-Line OHV, DOHC
+CAUTION: The structural cover requires a specific        Number of Cyl-
+torque sequence. Failure to follow this sequence                                             4
+                                                         inders
+may cause severe damage to the cover.
+                                                         Firing Order                      1-3-4-2
+   (11) Install the structural cover (Refer to 9 -       Compression                        9.5:1
+ENGINE/ENGINE BLOCK/STRUCTURAL COVER -                   Ratio
+INSTALLATION).                                           Max. Variation
+   (12) Install the exhaust pipe.                        Between Cylin-                     25%
+   (13) Connect the oxygen sensors.                      ders
+   (14) Lower vehicle.
+   (15) Connect the knock sensors.                                             Metric            Standard
+   (16) Connect the engine to body ground straps.        Displacement         2.4 Liters             148 cu. in.
+   (17) Install the power brake booster vacuum hose.     Bore                 87.5 mm                 3.445 in.
+   (18) Install the breather hoses.
+                                                         Stroke               101.0 mm                3.976 in.
+   (19) Install the PCV hose.
+   (20) Install the fuel rail.                           Compression
+                                                                            1172-1551 kPa           170-225 psi
+   (21) Install the coil over plugs.                     Pressure
+   (22) Reconnect the engine wiring harness at the
+following points:                                                         CYLINDER BLOCK
+   • Intake air temperature (IAT) sensor
+   • Fuel Injectors                                       DESCRIPTION              SPECIFICATIONS
+   • Throttle Position (TPS) Switch                                            Metric                Standard
+   • Idle Air Control (IAC) Motor                        Cylinder Bore        87.4924 -          3.4446 - 3.4452
+   • Engine Oil Pressure Switch                          Diameter            87.5076 mm                in.
+   • Engine Coolant Temperature (ECT) Sensor
+                                                         Out-of-Round         0.051 mm                0.002 in.
+   • Manifold Absolute Pressure MAP) Sensor
+                                                         (Max.)
+   • Camshaft Position (CMP) Sensor
+   • Coil Over Plugs                                     Taper (Max.)         0.051 mm                0.002 in.
+   • Crankshaft Position Sensor
+   (23) Connect lower radiator hose.
+   (24) Connect upper radiator hose.
+   (25) Connect throttle and speed control cables.
+   (26) Install the heater hose assembly.
+   (27) Install coolant recovery bottle.
+   (28) Install the power steering pump.
+   (29) Install the generator.
+   (30) Install the A/C compressor.
+   (31) Install the drive belt.
+

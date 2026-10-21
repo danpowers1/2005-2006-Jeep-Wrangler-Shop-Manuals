@@ -1,0 +1,73 @@
+8J - 40    INSTRUMENT CLUSTER                                                                                  TJ
+
+SPEEDOMETER                                                   • Vehicle Speed Message - Each time the clus-
+                                                           ter receives a vehicle speed message from the PCM it
+                                                           will calculate the correct vehicle speed reading and
+DESCRIPTION
+                                                           position the gauge needle at that relative speed posi-
+                                                           tion on the gauge scale. The cluster will receive a
+                                                           new vehicle speed message and reposition the gauge
+                                                           pointer accordingly about every 86 milliseconds. The
+              Fig. 25 Speedometer Text                     gauge needle will continue to be positioned at the
+                                                           actual vehicle speed position on the gauge scale until
+   A speedometer is standard equipment on all instru-      the ignition switch is turned to the Off position.
+ment clusters. The speedometer is located next to the         • Communication Error - If the cluster fails to
+tachometer, just to the right of center in the instru-     receive a speedometer message, it will hold the gauge
+ment cluster. The speedometer consists of a movable        needle at the last indication for about six seconds, or
+gauge needle or pointer controlled by the instrument       until the ignition switch is turned to the Off position,
+cluster circuitry and a fixed 210 degree primary scale     whichever occurs first. After six seconds, the gauge
+on the cluster overlay that reads left-to-right either     needle will return to the left end of the gauge scale.
+from “0” to “100” mph, from “0” to “110” mph, or from         • Actuator Test - Each time the cluster is put
+“0” to “180” km/h, depending upon the requirements         through the actuator test, the gauge needle will be
+of the market for which the vehicle is manufactured.       swept to several calibration points on the gauge scale
+Each version also has a secondary inner scale on the       in a prescribed sequence in order to confirm the func-
+cluster overlay that provides the equivalent opposite      tionality of the gauge and the cluster control cir-
+units from the primary scale. Text appearing on the        cuitry.
+cluster overlay just below the hub of the speedometer         The PCM continually monitors the vehicle speed
+needle abbreviates the unit of measure for the pri-        sensor to determine the vehicle road speed, then
+mary scale (i.e.: MPH or km/h), followed by the unit       sends the proper vehicle speed messages to the
+of measure for the secondary scale (Fig. 25). The          instrument cluster. For further diagnosis of the
+speedometer graphics are white (primary scale) and         speedometer or the instrument cluster circuitry that
+blue (secondary scale) against a black field, making       controls the gauge, (Refer to 8 - ELECTRICAL/IN-
+them clearly visible within the instrument cluster in      STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+daylight. When illuminated from behind by the panel        ING). For proper diagnosis of the vehicle speed
+lamps dimmer controlled cluster illumination lighting      sensor, the PCM, the PCI data bus, or the electronic
+with the exterior lamps turned On, the white graph-        message inputs to the instrument cluster that control
+ics appear white and the blue graphics appear blue.        the speedometer, a DRBIIIt scan tool is required.
+The orange gauge needle is internally illuminated.         Refer to the appropriate diagnostic information.
+Gauge illumination is provided by replaceable incan-
+descent bulb and bulb holder units located on the
+instrument cluster electronic circuit board. The           TACHOMETER
+speedometer is serviced as a unit with the instru-
+ment cluster.                                              DESCRIPTION
+OPERATION
+   The speedometer gives an indication to the vehicle
+operator of the vehicle road speed. This gauge is con-
+trolled by the instrument cluster circuit board based                     Fig. 26 Tachometer Text
+upon cluster programming and electronic messages
+                                                             A tachometer is standard equipment on all instru-
+received by the cluster from the Powertrain Control
+                                                           ment clusters. The tachometer is located to the left of
+Module (PCM) over the Programmable Communica-
+                                                           the speedometer, just to the left of center in the
+tions Interface (PCI) data bus. The speedometer is an
+                                                           instrument cluster. The tachometer consists of a
+air core magnetic unit that receives battery current
+                                                           movable gauge needle or pointer controlled by the
+on the instrument cluster electronic circuit board
+                                                           instrument cluster circuitry and a fixed 210 degree
+through the fused ignition switch output (run-start)
+                                                           scale on the cluster overlay that reads left-to-right
+circuit whenever the ignition switch is in the On or
+                                                           from 0 to 6. The text “X1000 RPM” imprinted on the
+Start positions. The cluster is programmed to move
+                                                           cluster overlay directly below the hub of the tachom-
+the gauge needle back to the low end of the scale
+                                                           eter needle identifies that each number on the
+after the ignition switch is turned to the Off position.
+                                                           tachometer scale is to be multiplied by 1000 rpm
+The instrument cluster circuitry controls the gauge
+                                                           (Fig. 26). Red graduations at the right (high) end of
+needle position and provides the following features:
+                                                           the gauge scale designate the engine overspeed area
+

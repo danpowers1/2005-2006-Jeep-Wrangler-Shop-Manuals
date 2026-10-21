@@ -1,0 +1,63 @@
+TJ                                                                         EVAPORATIVE EMISSIONS             25 - 11
+
+       DESCRIPTION                       N-m                       Ft. Lbs.                       In. Lbs.
+     LDP Pump Mounting                    1                            -                             11
+           Bolts
+   EVAP Canister/LDP                       -                           -                            250
+ Mounting Bracket-to-Body
+          Nuts
+   EVAP Canister/LDP                       -                           -                            212
+ Mounting Bracket-to-Body
+          Bolts
+
+
+CCV SYSTEM                                                 fixed orifice of a calibrated size. It meters the
+                                                           amount of crankcase vapors drawn out of the engine.
+DESCRIPTION                                                   When the engine is operating, fresh air enters the
+                                                           engine and mixes with crankcase vapors. Manifold
+   The 4.0L 6-cylinder engine is equipped with a
+                                                           vacuum draws the vapor/air mixture through the
+Closed Crankcase Ventilation (CCV) system and a
+                                                           fixed orifice and into the intake manifold. The vapors
+fixed orifice valve (Fig. 1). The 2.4L 4-cylinder uses a
+                                                           are then consumed during combustion.
+PCV valve. Refer to PCV Valve for 2.4L informa-
+tion.
+                                                           DIAGNOSIS AND TESTING
+                                                           TESTING / CLEANING
+                                                              The Crankcase Ventilation (CCV) system performs
+                                                           the same function as a conventional PCV system, but
+                                                           does not use a vacuum controlled valve. A vacuum
+                                                           fitting containing a fixed orifice of a calibrated size is
+                                                           used. It meters the amount of crankcase vapors
+                                                           drawn out of the engine.
+                                                              (1) Check each CCV system tube (line) for leaks,
+                                                           cracks, kinks or bends. Replace as necessary
+                                                              (2) Disconnect each CCV tube.
+                                                              (3) Remove fixed orifice fitting from valve cover.
+                                                              (4) Blow compressed air through each tube, and
+                                                           the fixed orifice fitting. Check for blockage or restric-
+                                                           tions. If cleaning is necessary, spray a soapy-type all-
+                                                           purpose cleaner into each component and blow out.
+                                                           After restriction is cleared, rinse out component with
+                                                           clear water. Blow water from component and install
+                                                           to vehicle. To prevent damage to plastic compo-
+                                                           nents, never spray carburetor-type cleaner into
+                                                           any of the plastic tubes or the fixed orifice fit-
+Fig. 1 CRANKCASE VENTILATION (CCV) FITTING -               ting. Never attempt to clean the fixed orifice
+                   4.0L                                    fitting with a metal object as calibration could
+1 - AIR CLEANER ASSEMBLY                                   be affected. If fixed fitting cannot be cleared,
+2 - AIR INTAKE TUBE                                        replace it.
+3 - FIXED ORIFICE FITTING
+4 - VACUUM LINE
+5 - AIR INLET FITTING
+                                                           PCV VALVE
+OPERATION
+  The CCV system performs the same function as a           DESCRIPTION
+conventional PCV system, but does not use a vacuum
+controlled valve.                                          2.4L
+  On 4.0L 6-cylinder engines, a molded vacuum tube           The 2.4L 4-cylinder engine is equipped with a
+connects manifold vacuum to the top of the cylinder        closed crankcase ventilation system and a Positive
+head (valve) cover. The vacuum fitting contains a          Crankcase Ventilation (PCV) valve.
+                                                             This system consists of:
+

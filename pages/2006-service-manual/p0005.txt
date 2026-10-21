@@ -1,0 +1,55 @@
+TJ                                                                                         INTRODUCTION        3
+
+
+  The label is located on the driver-side door shut-         The last code imprinted on a vehicle code plate will
+face.                                                      be followed by the imprinted word END. When two
+                                                           vehicle code plates are required, the last available
+                                                           spaces on the first plate will be imprinted with the
+                                                           letters CTD (for continued).
+                                                              When a second vehicle code plate is necessary, the
+                                                           first four spaces on each row will not be used because
+                                                           of the plate overlap.
+
+
+
+
+ Fig. 2 VEHICLE CERTIFICATION LABEL - TYPICAL
+BODY CODE PLATE
+
+DESCRIPTION
+                                                                     Fig. 4 Body Code Plate Decoding
+BODY CODE PLATE                                            1 - PRIMARY PAINT
+                                                           2 - SECONDARY PAINT
+   A metal body code plate is attached to the floor pan    3 - ROOF
+under the drivers seat (Fig. 3). Disengage the snaps       4 - CAR LINE SHELL
+attaching the carpet to the floor pan to read the          5 - ENGINE
+                                                           6 - TRIM
+information. There are seven lines of information on       7 - VIN
+the body code plate. Lines 4, 5, 6, and 7 are not used     8 - MARKET
+to define service information. Information reads from      9 - TRANSMISSION
+                                                           10 - PAINT PROCEDURE
+left to right, starting with line 3 in the center of the   11 - VEHICLE ORDER NUMBER
+plate to line 1 at the bottom of the plate (Fig. 4).
+                                                           BODY CODE PLATE — LINE 3
+                                                           DIGITS 1 THROUGH 12
+                                                             Vehicle Order Number
+
+                                                           DIGITS 13, 14, AND 15
+                                                             Roof
+                                                             • VJB = Soft Top Medium Gray
+                                                             • VJC = Soft Top Medium Khaki
+                                                             • VJG = Soft Top Dark Green
+                                                             • VJK = Soft Top Dark Khaki
+                                                             • VKB = Hard Top Medium Gray
+                                                             • VKC = Hard Top Medium Khaki
+                                                             • VKK = Hard Top Dark Khaki
+          Fig. 3 Body Code Plate Location
+                                                           DIGITS 16, 17, AND 18
+1 - SNAP
+2 - REAR CARPET                                              Car Line Shell
+3 - BODY CODE PLATE
+4 - SNAP                                                     • TJJ = Wrangler (LHD)
+5 - FLOOR PAN
+6 - FRONT CARPET
+                                                             • TJU = Wrangler (RHD)
+

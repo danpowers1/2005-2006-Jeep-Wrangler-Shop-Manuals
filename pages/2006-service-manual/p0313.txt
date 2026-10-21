@@ -1,0 +1,57 @@
+TJ                                                                                                                        COOLING            7-1
+
+                                                              COOLING
+                                                      TABLE OF CONTENTS
+
+                                                                 page                                                                        page
+
+COOLING                                                                       STANDARD PROCEDURE - COOLING
+ DESCRIPTION                                                                   SYSTEM - REFILLING . . . . . . . . . . . . . . . . . . 11
+   DESCRIPTION - COOLING SYSTEM 2.4L                                          STANDARD PROCEDURE - REFILLING
+    ENGINE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1       COOLING SYSTEM - 2.4L . . . . . . . . . . . . . . . 11
+   DESCRIPTION - 4.0L ENGINE . . . . . . . . . . . . . 1                      STANDARD PROCEDURE - COOLANT
+   DESCRIPTION - HOSE CLAMPS . . . . . . . . . . . 2                           LEVEL CHECK . . . . . . . . . . . . . . . . . . . . . . . . 11
+ OPERATION - HOSE CLAMPS . . . . . . . . . . . . . . 2                        STANDARD PROCEDURE - COOLING
+ DIAGNOSIS AND TESTING                                                         SYSTEM - DRAINING . . . . . . . . . . . . . . . . . . . 11
+   ON-BOARD DIAGNOSTICS - OBD . . . . . . . . . . 2                           STANDARD PROCEDURE - COOLING
+   DIAGNOSIS AND TESTING - PRELIMINARY                                         SYSTEM - REVERSE FLUSHING . . . . . . . . . . 12
+    CHECKS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3      SPECIFICATIONS
+   DIAGNOSIS AND TESTING - COOLING                                            TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+    SYSTEM - TESTING FOR LEAKS . . . . . . . . . . 9                        SPECIAL TOOLS
+   DIAGNOSIS AND TESTING - RADIATOR                                           COOLING . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+    COOLANT FLOW CHECK . . . . . . . . . . . . . . . 10                    ACCESSORY DRIVE . . . . . . . . . . . . . . . . . . . . . . 14
+ STANDARD PROCEDURE                                                        ENGINE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+   STANDARD PROCEDURE - DRAINING                                           TRANSMISSION . . . . . . . . . . . . . . . . . . . . . . . . . 44
+    COOLING SYSTEM - 2.4L . . . . . . . . . . . . . . . 10
+
+COOLING                                                                      • Coolant reserve/overflow system
+                                                                             • Automatic transmission oil cooler (internal to
+                                                                           radiator)
+DESCRIPTION                                                                  • Coolant
+                                                                             • Water pump
+DESCRIPTION - COOLING SYSTEM 2.4L                                            • Coolant hoses and clamps
+ENGINE
+  The cooling system consists of the following items:
+  • Electric cooling fan - Standard.
+  • Radiator
+  • Hot bottle pressure cap
+  • Thermostat
+  • Coolant reserve/overflow system
+  • Radiator in-tank transmission oil cooler (if
+equipped with an automatic transmission)
+  • Coolant
+  • Water pump
+  • Hoses and hose clamps
+
+DESCRIPTION - 4.0L ENGINE
+  The cooling system (Fig. 1) is designed to maintain
+engine temperature at an efficient level during all
+engine operating conditions.
+  The components of the cooling system are:
+  • A heavy duty radiator
+  • Cooling fan (mechanical)
+  • Thermal viscous fan drive
+  • Fan shroud
+  • Radiator pressure cap
+  • Thermostat
+

@@ -1,0 +1,59 @@
+TJ                                                                                  FUEL INJECTION        14 - 25
+
+                                                           CRANKSHAFT POSITION SEN-
+                                                           SOR
+                                                           DESCRIPTION
+                                                           2.4L
+                                                             The Crankshaft Position (CKP) sensor is mounted
+                                                           into the right front side of the cylinder block. It is
+                                                           positioned and bolted into a machined hole.
+
+                                                           4.0L
+                                                             The Crankshaft Position (CKP) sensor is located
+                                                           near the outer edge of the flywheel (starter ringear).
+
+                                                           OPERATION
+                                                           2.4L
+                                                              Engine speed and crankshaft position are provided
+         Fig. 1 Accelerator Pedal Mounting
+                                                           through the CKP (Crankshaft Position) sensor. The
+1 - CABLE RETAINER                                         sensor generates pulses that are the input sent to the
+2 - SLOT
+3 - MOUNTING STUDS (2)                                     Powertrain Control Module (PCM). The PCM inter-
+4 - PEDAL/BRACKET ASSEMBLY                                 prets the sensor input to determine the crankshaft
+5 - MOUNTING STUDS                                         position. The PCM then uses this position, along with
+6 - RETAINER TABS
+7 - CABLE                                                  other inputs, to determine injector sequence and igni-
+8 - CABLE STOP                                             tion timing.
+                                                              The sensor is a hall effect device combined with an
+CAUTION: Be careful not to damage or kink the              internal magnet. It is also sensitive to steel within a
+cable core wire (within the cable sheathing) while         certain distance from it.
+servicing the accelerator pedal or throttle cable.            A tonewheel (targetwheel) is a part of the engine
+                                                           crankshaft (Fig. 2). This tonewheel has sets of
+  (1) From inside vehicle, hold up accelerator pedal.      notches at its outer edge.
+Remove plastic cable retainer (clip) and throttle cable       The notches cause a pulse to be generated when
+core wire from upper end of accelerator pedal arm          they pass under the sensor. The pulses are the input
+(Fig. 1). Plastic cable retainer (clip) snaps into pedal   to the PCM.
+arm.
+  (2) Remove accelerator pedal mounting bracket
+nuts.
+  (3) Remove accelerator pedal assembly.
+
+INSTALLATION
+  (1) Place accelerator pedal assembly over mount-
+ing studs protruding from floor pan. Tighten mount-
+ing nuts to 8.5 N·m (75 in. lbs.) torque.
+  (2) Slide throttle cable into opening (slot) in top of
+pedal arm. An index tab is located on pedal arm.
+Rotate and push plastic cable retainer (clip) into
+accelerator pedal arm opening until it snaps into
+place on index tab.
+  (3) Before starting engine, operate accelerator
+pedal to check for any binding.
+
+
+
+                                                                      Fig. 2 CKP OPERATION - 2.4L
+                                                           1 - NOTCHES
+                                                           2 - CRANKSHAFT
+

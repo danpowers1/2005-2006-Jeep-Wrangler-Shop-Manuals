@@ -1,0 +1,37 @@
+TJ                                                       AUTOMATIC TRANSMISSION - 42RLE               21 - 107
+
+
+
+
+              Fixture, Pressure - 8391
+ACCUMULATOR                                                      Fig. 145 Low/Reverse Accumulator
+                                                        1 - PISTON
+                                                        2 - RETURN SPRINGS
+DESCRIPTION
+                                                          The low reverse (1) accumulator (Fig. 145) is also
+                                                        located within the transmission case, but the assem-
+                                                        bly is retained by a cover and a snap-ring.
+
+
+
+
+ Fig. 144 Underdrive and Overdrive Accumulators                  Fig. 146 2/4 Accumulator Assembly
+1 - OVERDRIVE PISTON AND SPRING                         1 - VALVE BODY
+2 - UNDERDRIVE PISTON AND SPRING                        2 - RETAINER PLATE
+                                                        3 - DETENT SPRING
+  The 42RLE underdrive, overdrive, low/reverse, and     4 - RETURN SPRINGS
+2/4 clutch hydraulic circuits each contain an accumu-   5 - PISTON
+lator. An accumulator typically consists of a piston,     The 2/4 accumulator (5) is located in the valve
+return spring(s), and a cover or plug. The overdrive    body. It is retained by a cover and retaining screws
+(1) and underdrive (2) accumulators are located         (Fig. 146).
+within the transmission case, and are retained by the
+valve body (Fig. 144).
+                                                        OPERATION
+                                                          The function of an accumulator is to cushion the
+                                                        application of a frictional clutch element. When pres-
+                                                        surized fluid is applied to a clutch circuit, the appli-
+                                                        cation force is dampened by fluid collecting in the
+                                                        respective accumulator chamber against the piston
+                                                        and springs. The intended result is a smooth, firm
+                                                        clutch application.
+

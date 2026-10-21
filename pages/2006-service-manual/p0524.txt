@@ -1,0 +1,56 @@
+8L - 12     LAMPS/LIGHTING - EXTERIOR                                                                         TJ
+
+                                                           (3) Connect the wire harness connector to the mod-
+                                                         ule.
+                                                           (4) Connect the battery negative cable.
+
+
+                                                         FOG LAMP UNIT
+                                                         DIAGNOSIS AND TESTING - FRONT FOG LAMP
+                                                         SYSTEM
+                                                           Always begin any diagnosis by testing all of the
+                                                         fuses and circuit breakers in the system. Refer to the
+                                                         appropriate wiring information.
+
+                                                         WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                         BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+                                                         ATTEMPTING ANY STEERING WHEEL, STEERING
+                                                         COLUMN, OR INSTRUMENT PANEL COMPONENT
+                                                         DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+                                                         LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+                                                         THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                         TEM CAPACITOR TO DISCHARGE BEFORE PER-
+                Fig. 8 DRL Module                        FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+                                                         IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+1 - COWL
+2 - DAYTIME RUNNING LAMP MODULE                          SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+INSTALLATION                                             BAG DEPLOYMENT AND POSSIBLE PERSONAL
+ (1) Position the DRL module on the cowl.                INJURY.
+ (2) Install the screws.
+
+          CONDITION                 POSSIBLE CAUSES                              CORRECTION
+
+FOG LAMPS ARE DIM           1. Loose or corroded battery cables.   1. Clean and secure battery cable clamps
+WITH ENGINE IDLING OR                                              and posts.
+IGNITION TURNED OFF.        2. Loose or worn generator drive       2. Adjust or replace generator drive belt.
+                            belt.
+                            3. Charging system output too low.     3. Test and repair charging system. (Refer
+                                                                   to 8 - ELECTRICAL/CHARGING - DIAG-
+                                                                   NOSIS AND TESTING)
+                            4. Battery has insufficient charge.    4. Test battery state-of-charge. (Refer to 8
+                                                                   - ELECTRICAL/BATTERY SYSTEM/BAT-
+                                                                   TERY - DIAGNOSIS AND TESTING)
+                            5. Battery is sulfated or shorted.     5. Load test battery. (Refer to 8 - ELEC-
+                                                                   TRICAL/BATTERY SYSTEM/BATTERY -
+                                                                   DIAGNOSIS AND TESTING)
+                            6. Poor lighting circuit ground.       6. Test for voltage drop across ground lo-
+                                                                   cations.
+
+FOG LAMP BULBS BURN         1. Charging system output too high.    1. Test and repair charging system. (Refer
+OUT FREQUENTLY                                                     to 8 - ELECTRICAL/CHARGING - DIAG-
+                                                                   NOSIS AND TESTING)
+
+                            2. Loose or corroded terminals or      2. Inspect and repair all connectors and
+                            splices in circuit.                    splices.
+

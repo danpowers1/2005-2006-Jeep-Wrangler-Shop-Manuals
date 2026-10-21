@@ -1,0 +1,64 @@
+24 - 24         CONTROLS                                                                                    TJ
+
+DIAGNOSIS AND TESTING
+A / C PRESSURE TRANSDUCER
+   The A/C pressure transducer is tested using a
+DRBIIIt scan tool. Refer to the appropriate diagnos-
+tic information. Before testing the A/C pressure
+transducer, be certain that the transducer wire har-
+ness connection is clean of corrosion and properly
+connected. For the A/C to operate, an A/C pressure
+transducer voltage reading between 0.451 and 4.519
+volts is required. Voltages outside this range indicate
+a low or high refrigerant system pressure condition
+to the powertrain control module (PCM). The PCM is
+programmed to respond to a low or high refrigerant
+system pressure by suppressing operation of the A/C
+compressor. Refer to the A/C Pressure Transducer
+Voltage chart for the possible conditions indicated by
+the transducer voltage reading.
+                                                             Fig. 21 A/C Pressure Transducer - 2.4L Engine
+   A/C PRESSURE TRANSDUCER VOLTAGE
+                                                          1 - NUT
+                                                          2 - A/C DISCHARGE LINE
+     Voltage                Possible Indication           3 - WIRE HARNESS CONNECTOR
+          0.0         1. No sensor supply voltage         4 - A/C PRESSURE TRANSDUCER
+                                                          5 - NUT
+                      from PCM.                           6 - ACCUMULATOR
+                                                          7 - A/C SUCTION LINE (FRONT SECTION)
+                      2. Shorted sensor circuit.          8 - NUT (4)
+                      3. Faulty transducer.               9 - A/C SUCTION LINE (REAR SECTION)
+                                                          10 - SECONDARY RETAINING CLIP
+ 0.150 TO 0.450       1. Ambient temperature below        11 - A/C CONDENSER
+                                                          12 - A/C COMPRESSOR
+                      10° C (50° F).
+                      2. Low refrigerant system pres-     INSTALLATION
+                      sure.
+ 0.451 TO 4.519       1. Normal refrigerant system        NOTE: Use only the specified O-ring as it is made
+                      pressure.                           of special material for R-134a. Use only refrigerant
+                                                          oil of the type required for the A/C compressor.
+ 4.520 TO 4.850       1. High refrigerant system pres-
+                      sure.                                 (1) Lubricate a new rubber O-ring seal with clean
+          5.0         1. Open sensor circuit.             refrigerant oil and install it on the A/C pressure
+                      2. Faulty transducer.               transducer fitting.
+                                                            (2) Install the A/C pressure transducer onto the
+REMOVAL                                                   A/C discharge line. Hand-tighten the transducer
+                                                          securely.
+NOTE: Note: It is not necessary to discharge the            (3) Connect the wire harness connector to the A/C
+refrigerant system to replace the A/C pressure            pressure transducer.
+transducer.                                                 (4) Reconnect the negative battery cable.
+
+  (1) Disconnect and isolate the negative battery
+cable.
+                                                          BLEND DOOR ACTUATOR
+  (2) Disconnect the wire harness connector from the
+A/C pressure transducer (Fig. 21).                        DESCRIPTION
+  (3) Remove the A/C pressure transducer from the           The blend door actuator is a reversible, 12-volt
+A/C discharge line and remove and discard the             direct current (DC), servo motor which mechanically
+O-ring seal.                                              positions the blend-air door (Fig. 22). The blend door
+                                                          actuator is located on the bottom of the HVAC hous-
+                                                          ing.
+                                                            The blend door actuator is contained within a
+                                                          black molded plastic housing with an integral wire
+                                                          connector receptacle. The actuator also has an output
+

@@ -1,0 +1,94 @@
+8J - 42    INSTRUMENT CLUSTER                                                                                  TJ
+
+left multi-function switch and the left or right turn     electronic circuit board through the fused ignition
+signal inputs to the instrument cluster, but in paral-    switch output (run-start) circuit whenever the igni-
+lel with the other turn signal circuits. This arrange-    tion switch is in the On or Start positions. The clus-
+ment allows the turn signal indicators to remain          ter is programmed to move the gauge needle back to
+functional, regardless of the condition of the other      the left end of the scale after the ignition switch is
+circuits in the turn signal and hazard warning sys-       turned to the Off position. The instrument cluster
+tems. The turn signal switch and hazard warning           circuitry controls the gauge needle position and pro-
+switch inputs to the instrument cluster can be diag-      vides the following features:
+nosed using conventional diagnostic tools and meth-          • System Voltage Message - Each time the clus-
+ods. (Refer to 8 - ELECTRICAL/LAMPS/LIGHTING -            ter receives a system voltage message from the PCM
+EXTERIOR/LEFT MULTI-FUNCTION SWITCH -                     indicating the system voltage is between about 9.5
+OPERATION) for more information on the turn sig-          volts and about 18.5 volts, the gauge needle is moved
+nal switch and the hazard warning switch.                 to the relative voltage position on the gauge scale.
+                                                             • System Voltage Low (Charge Fail) Message
+                                                          - Each time the cluster receives a message from the
+VOLTAGE GAUGE                                             PCM indicating the electrical system voltage is less
+                                                          than about 9.0 volts (charge fail condition), the gauge
+DESCRIPTION                                               needle is moved to the 9 volt graduation on the far
+                                                          left end of the gauge scale and the check gauges indi-
+                                                          cator is illuminated. The gauge needle remains on
+      Fig. 28 Battery Charging Condition Icon             the 9 volt graduation and the check gauges indicator
+                                                          remains illuminated until the cluster receives a mes-
+   A voltage gauge is standard equipment on all
+                                                          sage from the PCM indicating the electrical system
+instrument clusters. The voltage gauge is located in
+                                                          voltage is greater than about 12.0 volts (but less than
+the upper left quadrant of the instrument cluster,
+                                                          about 16.0 volts), or until the ignition switch is
+above the fuel gauge. The voltage gauge consists of a
+                                                          turned to the Off position, whichever occurs first.
+movable gauge needle or pointer controlled by the
+                                                             • System Voltage High Message - Each time
+instrument cluster circuitry and a fixed 90 degree
+                                                          the cluster receives a message from the PCM indicat-
+scale on the cluster overlay that reads left-to-right
+                                                          ing the electrical system voltage is greater than
+from 9 volts to 19 volts. An International Control and
+                                                          about 19.0 volts, the gauge needle is moved to the 19
+Display Symbol icon for “Battery Charging Condi-
+                                                          volt graduation on the far right end of the gauge
+tion” is located on the cluster overlay, directly above
+                                                          scale and the check gauges indicator is illuminated.
+the hub of the gauge needle (Fig. 28). The voltage
+                                                          The gauge needle remains on the right end of the
+gauge graphics are white and blue against a black
+                                                          gauge scale and the check gauges indicator remains
+field except for a single red graduation at each end of
+                                                          illuminated until the cluster receives a message from
+the gauge scale, making them clearly visible within
+                                                          the PCM indicating the electrical system voltage is
+the instrument cluster in daylight. When illuminated
+                                                          less than about 16.0 (but greater than about 9.5
+from behind by the panel lamps dimmer controlled
+                                                          volts), or until the ignition switch is turned to the Off
+cluster illumination lighting with the exterior lamps
+                                                          position, whichever occurs first.
+turned On, the white graphics appear white, the blue
+                                                             • Communication Error - If the cluster fails to
+graphics appear blue, and the red graphics appear
+                                                          receive a system voltage message, it will hold the
+red. The orange gauge needle is internally illumi-
+                                                          gauge needle at the last indication about twelve sec-
+nated. Gauge illumination is provided by replaceable
+                                                          onds or until the ignition switch is turned to the Off
+incandescent bulb and bulb holder units located on
+                                                          position, whichever occurs first. After twelve seconds,
+the instrument cluster electronic circuit board. The
+                                                          it will move the gauge needle to the far left end of
+voltage gauge is serviced as a unit with the instru-
+                                                          the gauge scale.
+ment cluster.
+                                                             • Actuator Test - Each time the cluster is put
+                                                          through the actuator test, the gauge needle will be
+OPERATION
+                                                          swept to several calibration points on the gauge scale
+  The voltage gauge gives an indication to the vehi-
+                                                          in a prescribed sequence in order to confirm the func-
+cle operator of the electrical system voltage. This
+                                                          tionality of the gauge and the cluster control cir-
+gauge is controlled by the instrument cluster circuit
+                                                          cuitry.
+board based upon cluster programming and elec-
+                                                             The PCM continually monitors the system voltage
+tronic messages received by the cluster from the
+                                                          to control the generator output. The PCM then sends
+Powertrain Control Module (PCM) over the Program-
+                                                          the proper system voltage messages to the instru-
+mable Communications Interface (PCI) data bus. The
+                                                          ment cluster. For further diagnosis of the voltage
+voltage gauge is an air core magnetic unit that
+receives battery current on the instrument cluster
+

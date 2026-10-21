@@ -1,0 +1,39 @@
+TJ                     8W-91 CONNECTOR/GROUND/SPLICE LOCATION                               8W - 91 - 9
+
+Splice Number          Location                                                Fig.
+S212                   Near T/O to Right Courtesy Lamp                         N/S
+S213                   Center Rear of Instrument Panel                         N/S
+S214                   Center Rear of Instrument Panel                         N/S
+S215                   Center Rear of Instrument Panel                         25, 27
+S216                   Left Side of Instrument Panel                           24
+S217                   Left Side of Instrument Panel                           24
+S218                   Driver Side Instrument Panel                            24, 27
+S302(LHD)              In T/O to Steering Column                               19
+S302(RHD)              Between S315 and S331, near T/O to ACM                  21
+S304 (LHD)             Center Rear of Dash Panel, Near Front Wiper Motor T/O   19
+S304 (RHD)             Near T/O for C202 and C107                              21, 23
+S309                   Front of Left Door Opening                              38, 39
+S310                   Left Rear Quarter Panel, Near Body Grommet              21, 38
+S311                   Near Left Rear Lamp Assembly Connector                  38, 39, 42
+S315                   Above Steering Column                                   19, 21
+S316                   In T/O for Rear Fog Lamp                                41,42
+S317                   Near T/O for Left License Lamp                          41, 42
+S320 (LHD)             Near T/O for C107                                       22 38
+S320 (RHD)             Near T/O for Fuse Block                                 21
+S331 (LHD)             Near T/O to Steering Column                             22, 38
+S331 (RHD)             Near T/O for Fuse Block                                 21
+S335                   Near Left Rear Lamp Assembly Connector                  38, 39
+S350 (Export)          Near Fuse Block                                         38
+S351                   Near T/O to Sport Bar                                   21, 38
+S352                   Forward of S351                                         21, 38
+S353                   Near T/O to Body Harness                                19, 42
+S354                   At Top of Right Kick Panel                              19, 21, 23
+S355 (LHD)             Near T/O to Steering Column                             19
+S355 (RHD)             Near T/O to Steering Column                             23
+S356                   109(254 mm) Forward from T/O to Rear Washer             21, 38
+S357                   209(508 mm) Forward from T/O to Rear Washer             21, 38
+S358                   309(762 mm) Forward from T/O to Rear Washer             21, 38
+S359 (Except Export)   Near Fuse Block                                         21, 38
+S360                   Near T/O for Rear Window Defogger Feed                  38, 39
+S361                   Near T/O for Rear Window Defogger Feed                  38, 39
+

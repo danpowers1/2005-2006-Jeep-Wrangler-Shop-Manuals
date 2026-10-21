@@ -1,0 +1,72 @@
+TJ                                                                            EMISSIONS CONTROL            25 - 5
+
+  • Oxygen Sensor Heater Monitor                          cause the PCM to store an oxygen sensor or misfire
+  If any other Emission DTC is set (not an OBDII          diagnostic trouble code
+Monitor), a Good Trip is considered to be when the
+Oxygen Sensor Monitor and Catalyst Monitor have           FUEL PRESSURE
+been completed; or 2 Minutes of engine run time if          The fuel pressure regulator controls fuel system
+the Oxygen Sensor Monitor or Catalyst Monitor have        pressure. The PCM cannot detect a clogged fuel
+been stopped from running.                                pump inlet filter, clogged in-line fuel filter, or a
+  It can take up to 2 Failures in a row to turn on the    pinched fuel supply or return line. However, these
+MIL. After the MIL is ON, it takes 3 Good Trips to        could result in a rich or lean condition causing the
+turn the MIL OFF. After the MIL is OFF, the PCM           PCM to store an oxygen sensor or fuel system diag-
+will self-erase the DTC after 40 Warm-up cycles. A        nostic trouble code.
+Warm-up cycle is counted when the ECT (Engine
+Coolant Temperature Sensor) has crossed 160°F and         SECONDARY IGNITION CIRCUIT
+has risen by at least 40°F since the engine has been        The PCM cannot detect an inoperative ignition coil,
+started.                                                  fouled or worn spark plugs, ignition cross firing, or
+                                                          open spark plug cables.
+COMPONENT MONITORS
+   There are several components that will affect vehi-    CYLINDER COMPRESSION
+cle emissions if they malfunction. If one of these com-     The PCM cannot detect uneven, low, or high engine
+ponents malfunctions the Malfunction Indicator            cylinder compression.
+Lamp (MIL) will illuminate.
+   Some of the component monitors are checking for        EXHAUST SYSTEM
+proper operation of the part. Electrically operated         The PCM cannot detect a plugged, restricted or
+components now have input (rationality) and output        leaking exhaust system, although it may set a fuel
+(functionality) checks. Previously, a component like      system fault.
+the Throttle Position sensor (TPS) was checked by
+                                                          FUEL INJECTOR MECHANICAL MALFUNCTIONS
+the PCM for an open or shorted circuit. If one of
+these conditions occurred, a DTC was set. Now there          The PCM cannot determine if a fuel injector is
+is a check to ensure that the component is working.       clogged, the needle is sticking or if the wrong injector
+This is done by watching for a TPS indication of a        is installed. However, these could result in a rich or
+greater or lesser throttle opening than MAP and           lean condition causing the PCM to store a diagnostic
+engine rpm indicate. In the case of the TPS, if engine    trouble code for either misfire, an oxygen sensor, or
+vacuum is high and engine rpm is 1600 or greater          the fuel system.
+and the TPS indicates a large throttle opening, a
+                                                          EXCESSIVE OIL CONSUMPTION
+DTC will be set. The same applies to low vacuum if
+the TPS indicates a small throttle opening.                 Although the PCM monitors engine exhaust oxygen
+   All open/short circuit checks or any component that    content when the system is in closed loop, it cannot
+has an associated limp in will set a fault after 1 trip   determine excessive oil consumption.
+with the malfunction present. Components without
+                                                          THROTTLE BODY AIRFLOW
+an associated limp in will take two trips to illumi-
+nate the MIL.                                               The PCM cannot detect a clogged or restricted air
+   Refer to the Diagnostic Trouble Codes Description      cleaner inlet or filter element.
+Charts in this section and the appropriate Power-
+                                                          VACUUM ASSIST
+train Diagnostic Procedure Manual for diagnostic
+                                                            The PCM cannot detect leaks or restrictions in the
+procedures.
+                                                          vacuum circuits of vacuum assisted engine control
+                                                          system devices. However, these could cause the PCM
+NON - MONITORED CIRCUITS
+                                                          to store a MAP sensor diagnostic trouble code and
+  The PCM does not monitor the following circuits,
+                                                          cause a high idle condition.
+systems and conditions that could have malfunctions
+causing driveability problems. The PCM might not          PCM SYSTEM GROUND
+store diagnostic trouble codes for these conditions.
+                                                            The PCM cannot determine a poor system ground.
+However, problems with these systems may cause the
+                                                          However, one or more diagnostic trouble codes may
+PCM to store diagnostic trouble codes for other sys-
+                                                          be generated as a result of this condition. The mod-
+tems or components. For example, a fuel pressure
+                                                          ule should be mounted to the body at all times, also
+problem will not register a fault directly, but could
+                                                          during diagnostic.
+cause a rich/lean condition or misfire. This could
+

@@ -1,0 +1,63 @@
+8E - 12    ELECTRONIC CONTROL MODULES                                                                         TJ
+
+memory, which it learns through a PCI data bus             DRBIIIt scan tool. Refer to the appropriate diagnos-
+message from the PCM during SKIS initialization.           tic information.
+   In the event that a SKIM replacement is required,
+the Secret Key code can be transferred to the new          REMOVAL
+SKIM from the PCM using the DRBIIIt scan tool
+and the SKIS initialization procedure. Proper com-         WARNING: On vehicles equipped with airbags, dis-
+pletion of the SKIS initialization will allow the exist-   able the airbag system before attempting any steer-
+ing Sentry Keys to be programmed into the new              ing wheel, steering column, or instrument panel
+SKIM so that new keys will not be required. In the         component diagnosis or service. Disconnect and
+event that the original Secret Key code cannot be          isolate the battery negative (ground) cable, then
+recovered, SKIM replacement will also require new          wait two minutes for the airbag system capacitor to
+Sentry Keys. The DRBIIIt scan tool will alert the          discharge before performing further diagnosis or
+technician during the SKIS initialization procedure if     service. This is the only sure way to disable the air-
+new Sentry Keys are required.                              bag system. Failure to take the proper precautions
+   When the ignition switch is On, the SKIM trans-         could result in accidental airbag deployment and
+mits an RF signal to the transponder in the ignition       possible personal injury.
+key. The SKIM then waits for an RF signal response
+from the transponder. If the response received iden-         (1) Disconnect and isolate the battery negative
+tifies the key as valid, the SKIM sends a valid key        cable.
+message to the PCM over the PCI data bus. If the             (2) Remove the steering column opening cover
+response received identifies the key as invalid, or if     from the instrument panel. (Refer to 23 - BODY/IN-
+no response is received from the key transponder, the      STRUMENT PANEL/STEERING COLUMN OPEN-
+SKIM sends an invalid key message to the PCM. The          ING COVER - REMOVAL).
+PCM will enable or disable engine operation based            (3) Remove the screws that secure the lower steer-
+upon the status of the SKIM messages. It is impor-         ing column shroud to the upper shroud (Fig. 10).
+tant to note that the default condition in the PCM is
+an invalid key; therefore, if no message is received
+from the SKIM by the PCM, the engine will be dis-
+abled and the vehicle immobilized after two seconds
+of running.
+   The SKIM also sends SKIS indicator status mes-
+sages to the EMIC. This indicator status message
+tells the EMIC to turn the indicator on for about
+three seconds each time the ignition switch is turned
+On, as a bulb test. The SKIM sends indicator status
+messages to the EMIC to turn the indicator off, turn
+the indicator on, or to flash the indicator on and off.
+If the SKIS indicator flashes upon ignition On or
+stays on solid after the bulb test, it signifies a SKIS
+fault. If the SKIM detects a system malfunction
+and/or the SKIS has become inoperative, the SKIS
+indicator will stay on solid. If the SKIM detects an
+invalid key or if a key transponder-related fault
+exists, the SKIS indicator will flash. If the vehicle is
+equipped with the Customer Learn transponder pro-
+gramming feature, the SKIM will also send messages
+to the EMIC to flash the SKIS indicator and to gen-
+erate a single audible chime whenever the Customer          Fig. 10 Steering Column Shrouds Remove/Install
+Learn programming mode is being utilized. (Refer to        1 - LEFT MULTI-FUNCTION SWITCH
+                                                           2 - UPPER SHROUD
+8 - ELECTRICAL/VEHICLE THEFT SECURITY -                    3 - RIGHT MULTI-FUNCTION SWITCH
+STANDARD PROCEDURE - SENTRY KEY TRAN-                      4 - CLOCKSPRING
+SPONDER PROGRAMMING).                                      5 - IGNITION LOCK CYLINDER HOUSING
+                                                           6 - LOWER SHROUD
+   The SKIS performs a self-test each time the igni-       7 - SCREW (2)
+tion switch is turned to the On position, and will
+store fault information in the form of Diagnostic            (4) If the vehicle is equipped with the optional tilt
+Trouble Codes (DTC’s) in SKIM memory if a system           steering column, move the tilt steering column to the
+malfunction is detected. The SKIM can be diagnosed,        fully lowered position and leave the tilt release lever
+and any stored DTC’s can be retrieved using a              in the released (down) position.
+

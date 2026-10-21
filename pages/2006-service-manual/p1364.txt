@@ -1,0 +1,48 @@
+21 - 174     TRANSFER CASE - NV231                                                                                     TJ
+
+                                                                through the planetary assembly and range hub. The
+                                                                front output shaft is operated by a drive chain that
+                                                                connects the shaft to a drive sprocket on the main-
+                                                                shaft. The drive sprocket is engaged/disengaged by
+                                                                the mode fork, which operates the mode sleeve and
+                                                                hub. The sleeve and hub are not equipped with a
+                                                                synchronizer mechanism for shifting.
+
+
+
+
+   Fig. 1 Fill/Drain Plug And I.D. Tag Locations -
+                        Typical
+1 - I.D. TAG
+2 - FILL PLUG
+3 - DRAIN PLUG
+
+OPERATION
+  The input gear is splined to the transmission out-
+put shaft. The input gear drives the mainshaft
+
+DIAGNOSIS AND TESTING - TRANSFER CASE - NV231
+
+                                                   DIAGNOSIS CHART
+
+              Condition                              Possible Cause                              Correction
+
+Transfer case difficult to shift or will   1) Vehicle speed to great to permit       1) Slow vehicle and shift into de-
+not shift into desired range.              shifting.                                 sired range.
+
+                                           2) If vehicle was operated for an         2) Stop vehicle and shift transfer
+                                           extended period in 4H mode on             case to Neutral position. Transfer
+                                           dry surface, driveline torque load        case can then be shifted to the
+                                           may cause difficulty.                     desired mode.
+                                           3) Transfer case shift linkage bind-      3) Repair or replace linkage as
+                                           ing.                                      necessary.
+                                           4) Insufficient or incorrect lubricant.   4) Drain and refill transfer case
+                                                                                     with the correct type and quantity
+                                                                                     of lubricant.
+                                           5) Internal transfer case compo-          5) Repair or replace components
+                                           nents binding, worn, or damaged.          as necessary.
+
+Transfer case noisy in all drive           1) Insufficient or incorrect lubricant.   1) Drain and refill transfer case
+modes.                                                                               with the correct type and quantity
+                                                                                     of lubricant.
+

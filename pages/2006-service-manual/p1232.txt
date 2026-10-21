@@ -1,0 +1,70 @@
+21 - 42    AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+
+1 - DRIVEPLATE                         6 - REVERSE CLUTCH                     11 - STUB SHAFT
+2 - TORQUE CONVERTER                   7 - FRONT PLANET CARRIER               12 - LOW/REVERSE CLUTCH
+3 - INPUT SHAFT                        8 - REAR PLANET CARRIER                13 - 2/4 CLUTCH
+4 - UNDERDRIVE CLUTCH                  9 - OUTPUT SHAFT                       14 - OIL PUMP
+5 - OVERDRIVE CLUTCH                   10 - SNAP RING
+
+
+   The 42RLE (Fig. 1) is a four-speed transmission        TRANSMISSION IDENTIFICATION
+that is a conventional hydraulic/mechanical assembly
+controlled with adaptive electronic controls and mon-
+itors. The hydraulic system of the transmission con-
+sists of the transmission fluid, fluid passages,
+hydraulic valves, and various line pressure control
+components. An input clutch assembly which houses
+the underdrive, overdrive, and reverse clutches is
+used. It also utilizes separate holding clutches: 2nd/
+4th gear and Low/Reverse. The primary mechanical
+components of the transmission consist of the follow-
+ing:
+  • Three multiple disc input clutches
+  • Two multiple disc holding clutches
+  • Four hydraulic accumulators
+  • Two planetary gear sets
+  • Hydraulic oil pump
+  • Valve body                                                    Fig. 2 Identification Label Breakdown
+                                                          1 - T=TRACEABILITY
+  • Solenoid/Pressure switch assembly                     2 - SUPPLIER CODE (PK=KOKOMO)
+   Control of the transmission is accomplished by         3 - COMPONENT CODE (TK=KOKOMO TRANSMISSION)
+                                                          4 - BUILD DAY (350=DEC. 15)
+fully adaptive electronics. Optimum shift scheduling      5 - BUILD YEAR (1=2001)
+is accomplished through continuous real-time sensor       6 - ASSEMBLY LINE CODE
+feedback information provided to the Transmission         7 - BUILD SEQUENCE NUMBER
+                                                          8 - LAST THREE OF P/N
+Control Module (TCM) portion of the Powertrain            9 - CHANGE LEVEL
+Control Module (PCM).                                     10 - TRANSMISSION PART NUMBER
+                                                          11 - P=PART NUMBER
+   The TCM is the heart of the electronic control sys-
+tem and relies on information from various direct           The 42RLE transmission can be identified by a
+and indirect inputs (sensors, switches, etc.) to deter-   barcode label that is affixed to the upper left area of
+mine driver demand and vehicle operating condi-           the bellhousing.
+tions. With this information, the TCM can calculate
+                                                            The label contains a series of digits that can be
+and perform timely and quality shifts through vari-
+                                                          translated into useful information such as transmis-
+ous output or control devices (solenoid pack, trans-
+                                                          sion part number (10), date of manufacture (4, 5),
+mission control relay, etc.).
+                                                          manufacturing origin (2), assembly line identifier (6),
+  The TCM also performs certain self-diagnostic           build sequence number (7), etc. (Fig. 2).
+functions and provides comprehensive information
+                                                            If the tag is not legible or is missing, the “PK”
+(sensor data, DTC’s, etc.) which is helpful in proper
+                                                          number, which is stamped into the left rear flange of
+diagnosis and repair. This information can be viewed
+                                                          the transmission case, can be referred to for identifi-
+with the DRBt scan tool.
+                                                          cation. The entire part number, build code, and
+                                                          sequence number are stamped into the flange.
+
+                                                          OPERATION
+                                                            The 42RLE transmission ratios are:
+
+                                                                     First                     2.84 : 1
+                                                                   Second                      1.57 : 1
+                                                                     Third                     1.00 : 1
+                                                                  Overdrive                    0.69 : 1
+                                                                   Reverse                     2.21 : 1
+

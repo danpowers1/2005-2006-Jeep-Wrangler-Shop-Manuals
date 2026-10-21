@@ -1,0 +1,60 @@
+24 - 22    CONTROLS                                                                                         TJ
+
+  The A/C low pressure switch is mounted on a fit-        lator fitting, which will prevent the switch from cor-
+ting located on the top of the A/C accumulator. The       rectly monitoring the refrigerant system pressure.
+A/C low pressure switch fitting on the accumulator is        For circuit descriptions and diagrams, refer to the
+equipped with an O-ring and contains a Schrader-          appropriate wiring information. The wiring informa-
+type valve, which allows the switch to be serviced        tion includes wiring diagrams, proper wire and con-
+without discharging the refrigerant system.               nector repair procedures, further details on wire
+                                                          harness routing and retention, as well as pin-out and
+OPERATION                                                 location views for the various wire harness connec-
+  The A/C low pressure switch monitors the pressure       tors, splices and grounds.
+of the refrigerant leaving the accumulator to the A/C        (1) With gear selector in Park or Neutral and with
+compressor. When equipped with the 4.0L engine, the       park brake set, start the engine and allow it to idle.
+A/C low pressure switch is electrically connected in         (2) Place the A/C-heater mode control in any A/C
+series with the A/C high pressure switch, between         position.
+ground and the powertrain control module (PCM).              (3) Disconnect the wire harness connector from the
+  The contacts in the A/C low pressure switch open        A/C low pressure switch.
+or close the path to ground, signaling the PCM to            (4) Using a suitable jumper wire, install the
+turn the A/C compressor clutch on and off. This reg-      jumper wire between the two terminals of the wire
+ulates the refrigerant system pressure and controls       harness connector for the A/C low pressure switch.
+A/C evaporator temperature. Controlling the evapo-        The A/C compressor clutch should engage. If the A/C
+rator temperature prevents condensate water on the        clutch does engage, replace the faulty A/C low pres-
+evaporator fins from freezing and obstructing A/C         sure switch. If the A/C clutch does not engage, the
+system air flow.                                          A/C clutch, A/C clutch relay, A/C-heater control, A/C
+  The A/C low pressure switch contacts are open           high pressure switch (4.0L engine application), A/C
+when the A/C suction line pressure is approximately       pressure transducer (2.4L engine application), PCM,
+172 kPa (25 psi) or lower. The A/C low pressure           fuses or related wiring circuits may be defective
+switch contacts will close when the A/C suction line      (Refer to 8 - ELECTRICAL/WIRING DIAGRAM
+pressure rises to approximately 276 kPa (40 psi) or       INFORMATION - DIAGNOSIS AND TESTING).
+above. Lower ambient temperatures, below approxi-         Repair as required.
+mately -1° C (30° F), will also cause the A/C low pres-
+sure switch contacts to open. This is due to the          REMOVAL
+pressure/temperature relationship of the refrigerant
+in the system.                                            NOTE: Note: It is not necessary to discharge the
+  The A/C low pressure switch is factory-calibrated       refrigerant system to replace the A/C low pressure
+and cannot be adjusted or repaired. If the A/C low        switch.
+pressure switch is faulty or damaged, it must be
+replaced.                                                    (1) Disconnect and isolate the negative battery
+                                                          cable.
+                                                             (2) Disconnect the wire harness connector from the
+DIAGNOSIS AND TESTING                                     A/C low pressure switch (Fig. 19).
+                                                             (3) Remove the A/C low pressure switch from the
+A / C LOW PRESSURE SWITCH                                 fitting on the top of the accumulator and remove and
+                                                          discard the O-ring seal.
+NOTE: Lower ambient temperatures, below about
+-1° C (30° F), during cold weather will open the A/C
+low pressure switch contacts and prevent A/C com-
+pressor operation due to the pressure/temperature
+relationship of the refrigerant.
+
+  Before performing diagnosis of the A/C low pres-
+sure switch, verify that the refrigerant system has
+the correct refrigerant charge (Refer to 24 - HEAT-
+ING & AIR CONDITIONING/PLUMBING - STAN-
+DARD PROCEDURE - REFRIGERANT SYSTEM
+CHARGE) and that the A/C low pressure switch is
+properly installed on the accumulator fitting. If the
+A/C low pressure switch is not properly installed, it
+may not open the Schrader-type valve in the accumu-
+

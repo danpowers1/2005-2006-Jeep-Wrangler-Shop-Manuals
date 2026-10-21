@@ -1,0 +1,62 @@
+TJ                                                                                         STARTING       8F - 35
+
+  refer to Engine Diagnosis engine diagnosis and           the engine compartment. See the fuse and relay lay-
+  testing procedures. If the starter motor is not OK,      out label affixed to the underside of the PDC cover
+  replace faulty starter motor.                            for ASD relay identification and location.
+     (b) If the voltage reads above 9.6 volts and the        (1) Connect the positive lead of the voltmeter to
+  current (amperage) draw reads below specifica-           the battery negative terminal post. Connect the neg-
+  tions, refer to the Feed Circuit Testin this sec-        ative lead of the voltmeter to the battery negative
+  tion.                                                    cable terminal clamp (Fig. 2). Rotate and hold the
+     (c) If the voltage reads 12.5 volts or greater and    ignition switch in the Start position. Observe the
+  the starter motor does not turn, refer to the Con-       voltmeter. If voltage is detected, correct the poor con-
+  trol Circuit Test in this section.                       tact between the battery negative cable terminal
+     (d) If the voltage reads 12.5 volts or greater and    clamp and the battery negative terminal post.
+  the starter motor turns very slowly, refer to the
+  Feed Circuit Test in this section.
+
+NOTE: A cold engine will increase the starter cur-
+rent (amperage) draw reading, and reduce the bat-
+tery voltage reading.
+
+
+FEED CIRCUIT TEST
+   The starter feed circuit test (voltage drop method)
+will determine if there is excessive resistance in the
+high-amperage starter feed circuit.
+   When performing the voltage drop test, it is impor-
+tant to remember that the voltage drop is giving an
+indication of the resistance between the two points at
+which     the   voltmeter     probes    are   attached.
+EXAMPLE:When testing the resistance of the bat-            Fig. 2 Test Battery Negative Connection Resistance
+tery positive cable, touch the voltmeter leads to the                            - Typical
+battery positive cable terminal clamp and to the bat-      1 - VOLTMETER
+                                                           2 - BATTERY
+tery positive cable eyelet terminal at the starter sole-
+noid B(+) terminal stud. If you probe the battery             (2) Connect the positive lead of the voltmeter to
+positive terminal post and the battery positive cable      the battery positive terminal post. Connect the nega-
+eyelet terminal at the starter solenoid B(+) terminal      tive lead of the voltmeter to the battery positive cable
+stud, you are reading the combined voltage drop in         terminal clamp (Fig. 3). Rotate and hold the ignition
+the battery positive cable terminal clamp-to-terminal      switch in the Start position. Observe the voltmeter. If
+post connection and the battery positive cable.            voltage is detected, correct the poor connection
+   The following operation will require a voltmeter        between the battery positive cable terminal clamp
+accurate to 1/10 (0.10) volt. Before performing this       and the battery positive terminal post.
+test, be certain that the following procedures are
+accomplished:
+   • The battery is fully-charged and load tested.
+Refer to Battery Charging for battery charging pro-
+cedures. Refer to Battery for battery diagnosis and
+testing procedures, including battery load test proce-
+dures.
+   • Fully engage the parking brake.
+   • If the vehicle is equipped with an automatic
+transmission, place the gearshift selector lever in the
+Park position. If the vehicle is equipped with a man-
+ual transmission, place the gearshift selector lever in
+the Neutral position and block the clutch pedal in the
+fully depressed position.
+   • Verify that all lamps and accessories are turned
+off.
+   • To prevent the engine from starting, remove the
+Automatic ShutDown (ASD) relay. The ASD relay is
+located in the Power Distribution Center (PDC), in
+

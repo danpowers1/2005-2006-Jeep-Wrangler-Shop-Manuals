@@ -1,0 +1,40 @@
+8E - 14    ELECTRONIC CONTROL MODULES                                                                      TJ
+
+
+
+
+                               Fig. 11 Sentry Key Immobilizer Module - Typical
+1 - UPPER SHROUD                                         5 - IGNITION LOCK CYLINDER
+2 - STEERING COLUMN                                      6 - SCREW
+3 - WIRE HARNESS CONNECTOR                               7 - LOWER SHROUD
+4 - SENTRY KEY IMMOBILIZER MODULE                        8 - STEERING WHEEL
+
+
+  (8) The SKIM mounting bracket features a clip          could result in accidental airbag deployment and
+that secures the SKIM to the inboard lower flange of     possible personal injury.
+the steering column jacket. Pull downward on the            (1) Position the Sentry Key Immobilizer Module
+connector end of the SKIM mounting bracket to            (SKIM) (Fig. 11). On models with a manual transmis-
+release this clip from the steering column jacket.       sion, lift the multi-function switch upward off of the
+  (9) Rotate the SKIM and its mounting bracket           upper steering column housing far enough to insert
+downwards and then to the side away from the steer-      the SKIM antenna formation between the ignition
+ing column to slide the SKIM antenna ring from           key release button and the multi-function switch
+around the ignition switch lock cylinder housing. On     housing.
+models with a manual transmission, lift the multi-          (2) Slide the SKIM antenna ring around the igni-
+function switch upward off of the upper steering col-    tion switch lock cylinder housing, then rotate the
+umn housing far enough to extract the SKIM               SKIM and its mounting bracket upwards and toward
+antenna from between the ignition key release but-       the steering column.
+ton and the right multi-function switch housing.            (3) Align the SKIM mounting bracket clip with the
+  (10) Remove the SKIM from the steering column.         inboard lower flange of the steering column and,
+                                                         push upward firmly on the connector end of the
+INSTALLATION                                             SKIM mounting bracket to engage the clip with the
+                                                         steering column.
+WARNING: On vehicles equipped with airbags, dis-            (4) Reconnect the cross body wire harness connec-
+able the airbag system before attempting any steer-      tor for the SKIM to the SKIM connector.
+ing wheel, steering column, or instrument panel             (5) On models equipped with a manual transmis-
+component diagnosis or service. Disconnect and           sion, install and tighten the screws that secure the
+isolate the battery negative (ground) cable, then        multi-function switch assembly to the upper steering
+wait two minutes for the airbag system capacitor to      column housing. Tighten the screws to 2 N·m (20 in.
+discharge before performing further diagnosis or         lbs.).
+service. This is the only sure way to disable the air-      (6) Position both the upper and lower shrouds onto
+bag system. Failure to take the proper precautions       the steering column (Fig. 10).
+

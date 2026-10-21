@@ -1,0 +1,55 @@
+4     INTRODUCTION                                                                                TJ
+
+
+DIGIT 19                                        DIGIT 5
+    Price Class                                   Market Code
+    • L = Wrangler (All)                          • B = International
+
+DIGITS 20 AND 21                                DIGIT 6
+    Body Type                                     Open Space
+    • 77 = Wheel Base (93.4 in.)
+                                                DIGITS 7 THROUGH 23
+    • 78 = Wheel Base (103.4 in.)
+                                                  Vehicle Identification Number (VIN)
+BODY CODE PLATE — LINE 2                          (Refer to VEHICLE DATA/VEHICLE INFORMA-
+                                                TION/VEHICLE IDENTIFICATION NUMBER -
+DIGITS 1,2, AND 3                               DESCRIPTION) for breakdown of VIN code.
+    Paint Procedure
+
+DIGIT 4                                         INTERNATIONAL SYMBOLS
+    Open Space
+                                                DESCRIPTION
+DIGITS 5 THROUGH 8                                The graphic symbols illustrated in the following
+  Primary Paint                                 International Control and Display Symbols Chart
+                                                (Fig. 5) are used to identify various instrument con-
+  (Refer to 23 - BODY/PAINT - SPECIFICATIONS)   trols. The symbols correspond to the controls and dis-
+for color codes.                                plays that are located on the instrument panel.
+DIGIT 9
+    Open Space
+
+DIGITS 10 THROUGH 13
+    Secondary Paint
+
+DIGIT 14
+    Open Space
+
+DIGITS 15 THROUGH 18
+    Interior Trim Code
+
+DIGIT 19
+    Open Space
+
+DIGITS 20, 21, AND 22
+    Engine Code
+    • ED1 = 2.4L 4 cyl. MPI Gasoline
+    • ERH = 4.0L 6 cyl. MPI Gasoline
+
+BODY CODE PLATE — LINE 1
+DIGITS 1, 2, AND 3
+    Transmission Codes
+    • DEH = NSG370 6 - speed Manual
+    • DG6 = 42RLE 4 - speed Automatic
+
+DIGIT 4
+    Open Space
+

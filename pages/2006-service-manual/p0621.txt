@@ -1,0 +1,62 @@
+TJ                                                                     FRONT WIPERS/WASHERS            8R - 13
+
+  (4) Open and support the hood.                          light press fit. An integral connector receptacle
+  (5) From the underside of the rear of the hood          between the motor housing and the pump housing
+panel near the center, reconnect the washer supply        connects the unit to the vehicle electrical system. A
+hose to the barbed nipple of the front washer nozzle.     small capacitor internal to the connector receptacle
+  (6) Close and latch the hood.                           insulator is connected in parallel with the motor
+                                                          leads to control ElectroMagnetic Interference (EMI)
+                                                          created by washer motor operation. The front washer
+FRONT WASHER PUMP                                         pump/motor unit cannot be repaired. If faulty or
+MOTOR                                                     damaged, the entire washer pump/motor unit must
+                                                          be replaced.
+DESCRIPTION
+                                                          OPERATION
+                                                            The front washer pump/motor unit features a small
+                                                          Direct Current (DC) electric motor. The motor is con-
+                                                          nected to the vehicle electrical system through a sin-
+                                                          gle take out and two-cavity connector of the
+                                                          headlamp and dash wire harness. The motor is
+                                                          grounded at all times through another take out of
+                                                          the headlamp and dash wire harness with a single
+                                                          eyelet terminal connector that is secured under a
+                                                          ground screw to the radiator closure panel behind
+                                                          the left headlamp in the engine compartment. The
+                                                          motor receives battery current through the closed
+                                                          contacts of the momentary front washer switch cir-
+                                                          cuitry within the right multi-function switch only
+                                                          when the switch control stalk is pulled towards the
+                                                          steering wheel.
+                                                            Washer fluid is gravity-fed from the washer reser-
+                                                          voir to the inlet side of the washer pump. When the
+                                                          pump motor is energized, the motor spins the rotor
+            Fig. 10 Washer Pump/Motor                     within the rotor-type washer pump. The spinning
+                                                          pump rotor pressurizes the washer fluid and forces it
+1 - MOTOR
+2 - CONNECTOR RECEPTACLE                                  through the pump outlet nipple, the front washer
+3 - OUTLET NIPPLE                                         plumbing, and the front washer nozzle onto the
+4 - INLET NIPPLE                                          windshield glass. The front washer pump/motor unit
+5 - PUMP
+                                                          can be diagnosed using conventional diagnostic tools
+  The front washer pump/motor unit is located on          and methods.
+the inboard side near the front and the bottom of the
+washer reservoir (Fig. 10). The washer reservoir is       REMOVAL
+located on the top of the left front fender wheel house     (1) Disconnect and isolate the battery negative
+in the engine compartment. A small permanently            cable.
+lubricated and sealed electric motor is coupled to the      (2) Disconnect the washer supply hose from the
+rotor-type washer pump. A seal flange with a barbed       barbed outlet nipple of the front washer pump/motor
+inlet nipple on the pump housing passes through a         and allow the washer fluid from the washer reservoir
+rubber grommet seal installed in a dedicated mount-       to drain into a clean container for reuse (Fig. 11).
+ing hole in the sump area near the bottom of the
+washer reservoir. On vehicles with the optional rear
+washer system, the front washer pump/motor unit is
+always mounted in the forward-most, lowest pump
+mounting hole of the reservoir. An integral filter
+screen is located within the pump inlet nipple. When
+the pump is installed in the reservoir a barbed outlet
+nipple on the pump housing connects the unit to the
+washer system through the front washer supply hose.
+  The washer pump/motor unit is retained on the
+reservoir by the interference fit between the barbed
+pump inlet nipple and the grommet seal, which is a
+

@@ -1,0 +1,39 @@
+8W - 80 - 6   8W-80 CONNECTOR PIN-OUTS                                                          TJ
+
+
+                                        BACKUP LAMP SWITCH (M/T) - BLACK 2 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                 1    F102 20PK/DB                         FUSED IGNITION SWITCH OUTPUT (RUN)
+                 2    L1 20WT/LG                           BACK-UP LAMP FEED
+
+
+
+
+                                               BLEND DOOR ACTUATOR - 6 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                 5    -                                    -
+                 6    -                                    -
+                 7    Z134 20DB/WT                         GROUND
+                 8    C132 20YL                            BLEND DOOR FEEDBACK SIGNAL
+                 9    -                                    -
+                10    F504 20OR                            FUSED IGNITION SWITCH OUTPUT (RUN)
+
+
+
+
+                                                  BLOWER MOTOR - 2 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                A     C1 12DG                              BLOWER MOTOR RELAY OUTPUT
+                B     C75 12BK/TN                          BLOWER MOTOR HIGH DRIVER
+
+
+
+
+                                          BLOWER MOTOR RELAY - BLACK 5 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                 1    C1 12DG                              BLOWER MOTOR RELAY OUTPUT
+                 2    Z1 20BK                              GROUND
+                 3    -                                    -
+                 4    A502 12RD/LG                         FUSED B(+)
+                 5    F504 20DB/WT                         FUSED IGNITION SWITCH OUTPUT (RUN)
+

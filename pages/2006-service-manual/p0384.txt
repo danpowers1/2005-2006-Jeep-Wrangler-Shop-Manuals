@@ -1,0 +1,60 @@
+8E - 8    ELECTRONIC CONTROL MODULES                                                                        TJ
+
+power grounds. All of the high-current, noisy, electri-     • A/C request (if equipped with factory A/C)
+cal devices are connected to these grounds as well as       • A/C select (if equipped with factory A/C)
+all of the sensor returns. The sensor return comes          • Auto shutdown (ASD) sense
+into the sensor return circuit, passes through noise        • Battery temperature
+suppression, and is then connected to the power             • Battery voltage
+ground.                                                     • Brake switch
+  The power ground is used to control ground cir-           • CCD bus (+) circuits
+cuits for the following PCM loads:                          • CCD bus (-) circuits
+  • Generator field winding                                 • Camshaft position sensor signal
+  • Fuel injectors                                          • Crankshaft position sensor
+  • Ignition coil(s)                                        • Data link connector for DRB scan tool
+  • Certain relays/solenoids                                • Engine coolant temperature sensor
+  • Certain sensors                                         • Fuel level
+                                                            • Generator (battery voltage) output
+SENSOR RETURN                                               • Ignition circuit sense (ignition switch in run
+  The Sensor Return circuits are internal to the Pow-     position)
+ertrain Control Module (PCM).                               • Intake manifold air temperature sensor
+  Sensor Return provides a low–noise ground refer-          • Leak detection pump (if equipped)
+ence for all engine control system sensors. Refer to        • Manifold Absolute Pressure (MAP) sensor
+Power Grounds for more information.                         • Oil pressure sensor
+                                                            • Oxygen sensors
+                                                            • Park/neutral switch (auto. trans. only)
+OPERATION                                                   • Power ground
+                                                            • Power steering pressure switch (2.5L only)
+OPERATION                                                   • SCI receive (DRB scan tool 16–way connection)
+   The PCM operates the fuel system. The PCM is a           • Sensor return
+pre-programmed, triple microprocessor digital com-          • Signal ground
+puter. It regulates ignition timing, air-fuel ratio,        • Speed control multiplexed single wire input
+emission control devices, charging system, speed con-       • Throttle position sensor
+trol (if equipped), air conditioning compressor clutch      • Vehicle speed sensor
+engagement and idle speed. The PCM can adapt its
+programming to meet changing operating conditions.        NOTE: Powertrain Control Module (PCM) Outputs:
+   The PCM receives input signals from various
+switches and sensors. Based on these inputs, the             • A/C clutch relay
+PCM regulates various engine and vehicle operations          • Auto Shutdown (ASD) relay
+through different system components. These compo-            • CCD bus (+/-) circuits for: speedometer, voltme-
+nents are referred to as PCM Outputs. The sensors         ter, fuel gauge, oil pressure gauge/lamp, engine temp.
+and switches that provide inputs to the PCM are con-      gauge and speed control warn. lamp
+sidered PCM Inputs.                                          • Duty cycle EVAP canister purge solenoid
+   The PCM adjusts ignition timing based upon                • Five volt sensor supply (primary)
+inputs it receives from sensors that react to: engine        • Five volt sensor supply (secondary)
+rpm, manifold absolute pressure, engine coolant tem-         • Fuel injectors
+perature, throttle position, transmission gear selec-        • Fuel pump relay
+tion (automatic transmission), vehicle speed, power          • Generator field driver (-)
+steering pump pressure (2.5L only), and the brake            • Generator field source (+)
+switch.                                                      • Idle Air Control (IAC) motor
+   The PCM adjusts idle speed based on inputs it             • Ignition coil
+receives from sensors that react to: throttle position,      • Leak detection pump (if equipped)
+vehicle speed, transmission gear selection, engine           • Malfunction indicator lamp (Check engine lamp).
+coolant temperature and from inputs it receives from      Driven through CCD circuits.
+the air conditioning clutch switch and brake switch.         • SCI transmit (DRB scan tool 16–way connection)
+   Based on inputs that it receives, the PCM adjusts         • Speed control vacuum solenoid
+ignition coil dwell. The PCM also adjusts the gener-         • Speed control vent solenoid
+ator charge rate through control of the generator            • Tachometer (if equipped). Driven through CCD
+field and provides speed control operation.               circuits.
+                                                             • Transmission convertor clutch solenoid
+NOTE: Powertrain Control Module (PCM) Inputs:
+

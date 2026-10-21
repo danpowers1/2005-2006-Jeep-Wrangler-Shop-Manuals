@@ -1,0 +1,47 @@
+TJ                                            8W-10 POWER DISTRIBUTION                                                           8W - 10 - 1
+
+                                        8W - 10 POWER DISTRIBUTION
+Component                                                         Page    Component                                                          Page
+A/C Compressor Clutch Relay . . . . . . . . . 8W-10-16                    Fuse 22 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11
+Automatic Shut Down Relay . . . . . . . . . . 8W-10-13                    Fuse 23 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-16
+Axle Lock Switch . . . . . . . . . . . . . . . . . . . 8W-10-17           Fuse 24 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-19
+Battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9   Fuse 26 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-17
+Circuit Breaker . . . . . . . . . . . . . . . . . . . . . 8W-10-10        Fuse 27 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-18
+Coil Capacitor . . . . . . . . . . . . . . . . . . . 8W-10-14, 15         Fuse Block . . . . . . . . . . . . . . . . . 8W-10-9, 10, 11, 12
+Compass/Temperature Mirror . . . . . . . . . . 8W-10-17                   Fusible Link . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9
+Controller Antilock Brake . . . . . . . . . . . . . 8W-10-10              G106 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9
+Data Link Connector . . . . . . . . . . . . . . . . 8W-10-17              G107 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9
+Engine Starter Motor . . . . . . . . . . . . . . 8W-10-9, 12              G108 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9
+Engine Starter Motor Relay . . . . . . . . . . . 8W-10-12                 G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11
+Fog Lamp Relay . . . . . . . . . . . . . . . . . . . . 8W-10-16           Generator . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9
+Front Locker Pump . . . . . . . . . . . . . . . . . 8W-10-19              Heater Control . . . . . . . . . . . . . . . . . . . . . . 8W-10-9
+Front Locker Relay . . . . . . . . . . . . . . . . . . 8W-10-19           High Speed Radiator Fan Relay . . . . . . . . 8W-10-10
+Fuel Injector No. 1 . . . . . . . . . . . . . . . 8W-10-14, 15            Horn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-16
+Fuel Injector No. 2 . . . . . . . . . . . . . . . 8W-10-14, 15            Horn Relay . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-16
+Fuel Injector No. 3 . . . . . . . . . . . . . . . 8W-10-14, 15            Ignition Coil Pack . . . . . . . . . . . . . . . . 8W-10-14, 15
+Fuel Injector No. 4 . . . . . . . . . . . . . . . 8W-10-14, 15            Ignition Switch . . . . . . . . . . . . . . . . . . 8W-10-11, 12
+Fuel Injector No. 5 . . . . . . . . . . . . . . . . . . 8W-10-14          Instrument Cluster . . . . . . . . . . . . . . . 8W-10-11, 17
+Fuel Injector No. 6 . . . . . . . . . . . . . . . . . . 8W-10-14          Left Courtesy Lamp . . . . . . . . . . . . . . . . . 8W-10-17
+Fuel Pump Module . . . . . . . . . . . . . . . . . . 8W-10-16             Left Dome Lamp . . . . . . . . . . . . . . . . . . . . 8W-10-17
+Fuel Pump Relay . . . . . . . . . . . . . . . . . . . 8W-10-16            Left Fog Lamp . . . . . . . . . . . . . . . . . . . . . 8W-10-16
+Fuse 1 . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9, 10    Low Speed Radiator Fan Relay . . . . . . . . 8W-10-10
+Fuse 2 . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9, 10    Multi-Function Switch . . . . . . . . . . . . 8W-10-16, 18
+Fuse 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-10   Power Distribution Center . . 8W-10-2, 9, 10, 11, 12,
+Fuse 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-10                                                      13, 16, 17, 18, 19
+Fuse 5 . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-12, 18     Power Outlet . . . . . . . . . . . . . . . . . . . . . . 8W-10-18
+Fuse 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-12   Powertrain Control Module . . . . . . 8W-10-12, 13, 18
+Fuse 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-12   Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-18
+Fuse 8 . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-10, 12     Rear Locker Pump . . . . . . . . . . . . . . . . . . 8W-10-19
+Fuse 9 . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11, 13     Rear Locker Relay . . . . . . . . . . . . . . . . . . 8W-10-19
+Fuse 10 . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-10, 11      Rear Window Defogger . . . . . . . . . . . . . . . . 8W-10-9
+Fuse 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11    Rear Window Defogger Relay . . . . . . . . . . . 8W-10-9
+Fuse 12 . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-10, 11      Right Courtesy Lamp . . . . . . . . . . . . . . . . 8W-10-17
+Fuse 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11    Right Dome Lamp . . . . . . . . . . . . . . . . . . 8W-10-17
+Fuse 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11    Right Fog Lamp . . . . . . . . . . . . . . . . . . . . 8W-10-16
+Fuse 15 . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-9, 17     Transmission Control Relay . . . . . . . . . . . 8W-10-18
+Fuse 17 . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11, 18      Transmission Solenoid/Pressure Switch
+Fuse 18 . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-11, 16        Assembly . . . . . . . . . . . . . . . . . . . . . . . 8W-10-18
+Fuse 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-16    Underhood Lamp . . . . . . . . . . . . . . . . . . . 8W-10-17
+Fuse 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-18
+Fuse 21 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-10-16
+

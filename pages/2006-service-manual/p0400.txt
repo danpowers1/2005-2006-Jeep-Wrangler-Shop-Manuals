@@ -1,0 +1,59 @@
+8F - 6    BATTERY SYSTEM                                                                                         TJ
+
+                                                             battery is discharged, charge as required. Refer to
+                                                             Standard Procedures for the proper battery built-in
+                                                             indicator test procedures. Also refer to Standard Pro-
+                                                             cedures for the proper battery charging procedures.
+
+
+                                                             SPECIFICATIONS
+                                                             BATTERY SYSTEM SPECIFICATIONS
+                                                               The battery Group Size number, the Cold Cranking
+                                                             Amperage (CCA) rating, and the Reserve Capacity
+                                                             (RC) rating or Ampere-Hours (AH) rating can be
+                                                             found on the original equipment battery label. Be
+                                                             certain that a replacement battery has the correct
+                                                             Group Size number, as well as CCA, and RC or AH
+                                                             ratings that equal or exceed the original equipment
+                                                             specification for the vehicle being serviced. Battery
+                                                             sizes and ratings are discussed in more detail below.
+                                                               • Group Size - The outside dimensions and ter-
+                                                             minal placement of the battery conform to standards
+                                                             established by the Battery Council International
+    Fig. 3 Clean Battery Terminal Post - Typical             (BCI). Each battery is assigned a BCI Group Size
+                                                             number to help identify a correctly-sized replace-
+1 - TERMINAL BRUSH
+2 - BATTERY CABLE                                            ment.
+3 - BATTERY                                                    • Cold Cranking Amperage - The Cold Crank-
+                                                             ing Amperage (CCA) rating specifies how much cur-
+INSPECTION                                                   rent (in amperes) the battery can deliver for thirty
+  The following information details the recommended          seconds at -18° C (0° F). Terminal voltage must not
+inspection procedures for the battery and related            fall below 7.2 volts during or after the thirty second
+components. In addition to the maintenance sched-            discharge period. The CCA required is generally
+ules found in this service manual and the owner’s            higher as engine displacement increases, depending
+manual, it is recommended that these procedures be           also upon the starter current draw requirements.
+performed any time the battery or related compo-               • Reserve Capacity - The Reserve Capacity (RC)
+nents must be removed for vehicle service.                   rating specifies the time (in minutes) it takes for bat-
+  (1) Inspect the battery cable terminal clamps for          tery terminal voltage to fall below 10.5 volts, at a
+damage. Replace any battery cable that has a dam-            discharge rate of 25 amperes. RC is determined with
+aged or deformed terminal clamp.                             the battery fully-charged at 26.7° C (80° F). This rat-
+  (2) Inspect the battery tray and battery holddown          ing estimates how long the battery might last after a
+hardware for damage. Replace any damaged parts.              charging system failure, under minimum electrical
+  (3) Slide the thermal guard off of the battery case.       load.
+Inspect the battery case for cracks or other damage            • Ampere-Hours - The Ampere-Hours (AH) rat-
+that could result in electrolyte leaks. Also, check the      ing specifies the current (in amperes) that a battery
+battery terminal posts for looseness. Batteries with         can deliver steadily for twenty hours, with the volt-
+damaged cases or loose terminal posts must be                age in the battery not falling below 10.5 volts. This
+replaced.                                                    rating is also sometimes identified as the twenty-
+  (4) Inspect the battery thermal guard for tears,           hour discharge rating.
+cracks, deformation or other damage. Replace any
+battery thermal guard that has been damaged.
+  (5) Inspect the battery built-in test indicator sight
+glass for an indication of the battery condition. If the
+
+                                          Battery Classifications and Ratings
+                        BCI Group Size       Cold Cranking    Reserve Ca-                            Load Test Am-
+    Part Number                                                                 Ampere-Hours
+                         Classification       Amperage           pacity                                 perage
+    04609365AC                 34                  600         120 Minutes            66                  300
+

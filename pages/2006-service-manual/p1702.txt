@@ -1,0 +1,62 @@
+24 - 66    PLUMBING                                                                                         TJ
+
+  (11) Charge the refrigerant system (Refer to 24 -          The A/C condenser cannot be repaired and, if
+HEATING & AIR CONDITIONING/PLUMBING -                      faulty or damaged, it must be replaced.
+STANDARD PROCEDURE - REFRIGERANT SYS-
+TEM CHARGE).                                               REMOVAL
+                                                           WARNING: Refer to the applicable warnings and
+A / C CONDENSER                                            cautions for this system before performing the fol-
+                                                           lowing operation (Refer to 24 - HEATING & AIR
+DESCRIPTION                                                CONDITIONING/PLUMBING - WARNINGS) and (Refer
+   The A/C condenser is located in the front of the        to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+engine compartment behind the grille (Fig. 7). The         CAUTIONS). Failure to follow the warnings and cau-
+A/C condenser is a heat exchanger that allows the          tions could result in possible personal injury or
+high-pressure refrigerant gas being discharged by the      death.
+A/C compressor to give up its heat to the air passing
+over the condenser fins, which causes the refrigerant
+to cool and change to a liquid state.                      CAUTION: Before removing the A/C condenser, note
+   The A/C condenser is equipped with mounting pro-        the location of each of the radiator/condenser air
+visions and a tapping block for the A/C refrigerant        seals. These air seals are used to direct air through
+lines.                                                     the A/C condenser and radiator. The air seals must
+                                                           be reinstalled in their proper locations in order for
+                                                           the A/C and engine cooling systems to perform as
+                                                           designed.
+
+                                                             (1) Disconnect and isolate the negative battery
+                                                           cable.
+                                                             (2) Recover the refrigerant from the refrigerant
+                                                           system (Refer to 24 - HEATING & AIR CONDITION-
+                                                           ING/PLUMBING - STANDARD PROCEDURE -
+                                                           REFRIGERANT SYSTEM RECOVERY).
+                                                             (3) Partially drain the engine cooling system
+                                                           (Refer to 7 - COOLING - STANDARD PROCEDURE
+                                                           - COOLING SYSTEM DRAINING).
+                                                             (4) Remove the cooling recovery container (Refer to
+                                                           7 - COOLING/ENGINE/COOLANT RECOVERY
+                                                           CONTAINER - REMOVAL.
+                                                             (5) Disconnect the upper radiator hose from the
+                                                           radiator and position the hose out of the way (Refer
+                                                           to 7 - COOLING - OPERATION - HOSE CLAMPS).
+                                                             (6) Remove the radiator cooling fan and fan shroud
+           Fig. 7 A/C Condenser - Typical
+                                                           (Refer to 7 - COOLING/ENGINE/FAN DRIVE VIS-
+1 - A/C CONDENSER
+2 - MOUNTING BRACKET
+                                                           COUS CLUTCH - REMOVAL).
+3 - REFRIGERANT LINE TAPPING BLOCK                           (7) Raise and support the vehicle.
+                                                             (8) Position the lower condenser/radiator air seal
+OPERATION                                                  out of the way and remove the two bolts that secure
+   When air passes through the fins of the A/C con-        the lower condenser mounting bracket to the bottom
+denser, the high-pressure refrigerant gas within the       of the grille panel.
+A/C condenser gives up its heat. The refrigerant then        (9) Lower the vehicle.
+condenses as it leaves the A/C condenser and                 (10) If equipped, remove the upper condenser/radi-
+becomes a high-pressure liquid. The volume of air          ator air seal (Fig. 8).
+flowing over the condenser fins is critical to the           (11) Remove the nuts that secure the discharge
+proper cooling performance of the A/C system. There-       and liquid lines to the condenser tapping block.
+fore, it is important that there are no objects placed       (12) Disconnect the discharge and liquid lines from
+in front of the radiator grille openings at the front of   the condenser tapping block and remove and discard
+the vehicle or foreign material on the condenser fins      the O-ring seals.
+that might obstruct proper air flow. Also, any factory-      (13) Install plugs in, or tape over the opened
+installed air seals or shrouds must be properly rein-      refrigerant line fittings and the condenser ports.
+stalled following radiator or A/C condenser service.
+

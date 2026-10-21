@@ -1,0 +1,40 @@
+8W - 80 - 58   8W-80 CONNECTOR PIN-OUTS                                                        TJ
+
+
+                           TRANSFER CASE SWITCH (EXCEPT OFF-ROAD PACKAGE) - BLACK 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 A    G93 20VT/LB                        4WD INDICATOR
+                 B    Z987 18BK                          GROUND
+
+
+
+
+                              TRANSFER CASE SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    K77 18BR/WT                        TRANSFER CASE POSITION SENSOR INPUT
+                 2    K900 20DB/DG                       SENSOR GROUND
+
+
+
+
+                          TRANSMISSION RANGE INDICATOR ILLUMINATION (PRNDL) - BLACK 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    E2 20OR/BR                         PANEL LAMPS FEED
+                 2    Z902 20BK                          GROUND
+
+
+
+
+                                          TRANSMISSION RANGE SENSOR - 10 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    F102 20PK/DB                       FUSED IGNITION SWITCH OUTPUT (RUN)
+                 2    -                                  -
+                 3    T13 18DG/VT                        SPEED SENSOR GROUND
+                 4    T54 18DG/OR                        TRANSMISSION TEMPERATURE SENSOR SIGNAL
+                 5    -                                  -
+                 6    L1 20WT/LG                         BACKUP LAMP FEED
+                 7    T1 18DG/LB                         TRS T1 SENSE
+                 8    T3 18DG/DB                         TRS T3 SENSE
+                 9    T42 18DG/YL                        TRS T42 SENSE
+                 10   T41 18YL/DB                        TRS T41 SENSE (P/N)
+

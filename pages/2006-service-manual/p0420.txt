@@ -1,0 +1,44 @@
+8F - 26   CHARGING                                                                           TJ
+
+
+
+
+   Fig. 4 GENERATOR CONNECTORS (TYPICAL    Fig. 6 GENERATOR ELECTRICAL CONNECTORS -
+                  DENSO)                                  2.4L - TYPICAL
+1 - FIELD WIRES
+                                          1 - PROTECTIVE CAP
+2 - B+ (OUTPUT TERMINAL)
+                                          2 - B+ NUT
+3 - FIELD WIRE CONNECTOR
+                                          3 - B+ TERMINAL
+                                          4 - FIELD ELECTRICAL CONNECTOR
+
+                                          INSTALLATION
+                                             (1) Position generator to engine and snap field
+                                          wire connector into rear of generator.
+                                             (2) Install B+ terminal to generator mounting
+                                          stud. Tighten mounting nut. Refer to Torque Specifi-
+                                          cations.
+                                             (3) If equipped, snap plastic cover to B+ terminal.
+                                             (4) Install generator mounting fasteners and
+                                          tighten. Refer to Torque Specifications.
+
+                                          CAUTION: Never force a belt over a pulley rim
+                                          using a screwdriver. The synthetic fiber of the belt
+                                          can be damaged.
+
+
+                                          CAUTION: When installing a serpentine accessory
+                                          drive belt, the belt MUST be routed correctly. The
+                                          water pump will be rotating in the wrong direction if
+                                          the belt is installed incorrectly, causing the engine
+     Fig. 5 GENERATOR CONNECTORS - 4.0L   to overheat. Refer to belt routing label in engine
+1 - FIELD WIRE CONNECTOR                  compartment, or refer to Belt Schematics in 7, Cool-
+2 - B+ CABLE
+3 - GENERATOR
+                                          ing System.
+4 - B+ CABLE MOUNTING NUT
+5 - CABLE PROTECTOR                         (5) Install generator drive belt. Refer to 7, Cooling
+                                          System for procedure.
+                                            (6) Install negative battery cable to battery.
+

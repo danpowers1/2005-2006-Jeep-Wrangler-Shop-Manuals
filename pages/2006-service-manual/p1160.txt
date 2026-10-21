@@ -1,0 +1,67 @@
+14 - 42    FUEL INJECTION                                                                                     TJ
+
+INSTALLATION                                               PCM) represents the throttle blade position. The
+                                                           PCM receives an input signal voltage from the TPS.
+2.4L                                                       This will vary in an approximate range of from.26
+   (1) Slide accelerator cable plastic mount into throt-   volts at minimum throttle opening (idle), to 4.49 volts
+tle body mounting bracket. Continue sliding until          at wide open throttle. Along with inputs from other
+release tab is aligned to hole in mounting bracket.        sensors, the PCM uses the TPS input to determine
+   (2) Hold throttle in wide open position. While held     current engine operating conditions. In response to
+in this position, slide throttle cable pin into throttle   engine operating conditions, the PCM will adjust fuel
+body bellcrank.                                            injector pulse width and ignition timing.
+   (3) Push cable housing into rubber grommet and             The PCM needs to identify the actions and position
+through opening in dash panel.                             of the throttle blade at all times. This information is
+   (4) Push other end of cable through opening in          needed to assist in performing the following calcula-
+dash panel until retaining tabs lock into panel.           tions:
+   (5) From inside vehicle, slide throttle cable core         • Ignition timing advance
+wire into opening (slot) in top of pedal arm.                 • Fuel injection pulse-width
+   (6) Push plastic cable retainer (clip) into pedal arm      • Idle (learned value or minimum TPS)
+opening until it snaps in place.                              • Off-idle (0.06 volt)
+   (7) Install air box to throttle body.                      • Wide Open Throttle (WOT) open loop (2.608
+   (8) Before starting engine, operate accelerator         volts above learned idle voltage)
+pedal to check for any binding.                               • Deceleration fuel lean out
+                                                              • Fuel cutoff during cranking at WOT (2.608 volts
+4.0L                                                       above learned idle voltage)
+                                                              • A/C WOT cutoff (certain automatic transmis-
+  (1) Slide throttle cable through hole in throttle
+                                                           sions only)
+body bracket until retainer tabs lock into bracket.
+Connect cable ball end to throttle body linkage ball
+(snaps on).                                                REMOVAL
+  (2) Snap cable into clip guides on engine cylinder
+head (valve) cover.                                        2.4L
+  (3) Push other end of cable through opening in
+                                                             The Throttle Position Sensor (TPS) is mounted to
+dash panel until retaining tabs lock into panel.
+                                                           the throttle body (Fig. 31).
+  (4) From inside drivers compartment, slide throttle
+                                                             (1) Disconnect TPS electrical connector.
+cable core wire into opening in top of accelerator
+                                                             (2) Remove 2 TPS mounting screws.
+pedal arm. An index tab is located on pedal arm.
+                                                             (3) Remove TPS.
+Rotate and push cable retainer (clip) into pedal arm
+opening until it snaps in place on index tab.
+  (5) Install air box to throttle body.
+  (6) Before starting engine, operate accelerator
+pedal to check for any binding.
+
+
+THROTTLE POSITION SENSOR
+DESCRIPTION
+  The 3–wire Throttle Position Sensor (TPS) is
+mounted on the throttle body and is connected to the
+throttle blade.
+
+OPERATION
+  The TPS is a 3–wire variable resistor that provides
+the Powertrain Control Module (PCM) with an input
+signal (voltage) that represents the throttle blade
+position of the throttle body. The sensor is connected
+to the throttle blade shaft. As the position of the                   Fig. 31 TPS/IAC MOTOR - 2.4L
+throttle blade changes, the resistance (output volt-       1 - THROTTLE POSITION SENSOR (TPS)
+age) of the TPS changes.                                   2 - MOUNTING SCREWS
+  The PCM supplies approximately 5 volts to the            3 - IDLE AIR CONTROL MOTOR (IAC)
+                                                           4 - MOUNTING SCREWS
+TPS. The TPS output voltage (input signal to the
+

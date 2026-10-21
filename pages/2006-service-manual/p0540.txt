@@ -1,0 +1,58 @@
+8L - 28      LAMPS/LIGHTING - EXTERIOR                                                                        TJ
+
+                               LEFT (LIGHTING) MULTI-FUNCTION SWITCH TEST
+                             TURN SIGNAL AND HAZARD WARNING SWITCH TESTS
+Park Lamps On                                                               B9 & B20
+Headlamp Low Beams On                                                B16 & B18, B16 & B19
+Headlamp High Beams On                                               B17 & B18, B17 & B19
+Fog Lamps On                                                               B13 & B14
+Rear Fog Lamps On                                                          B12 & B13
+Optical Horn On                                                      B17 & B18, B17 & B19
+                                      INTERIOR LIGHTING SWITCH TESTS
+                                                  RESISTANCE BE-
+               SWITCH POSITION                                                   RESISTANCE (OHMS)
+                                                      TWEEN
+Panel Lamps Dimming Position 1 (Dimmest)               B7 & B8                         5653 ± 10%
+Dimming Position 2                                     B7 & B8                         3743 ± 10%
+Dimming Position 3                                     B7 & B8                         2593 ± 10%
+Dimming Position 4                                     B7 & B8                         1825 ± 10%
+Dimming Position 5                                     B7 & B8                         1221 ± 10%
+          Dimming Position 6 (Brightest)               B7 & B8                         768 ± 10%
+Parade Mode On                                         B7 & B8                         412 ± 10%
+Courtesy Lamps On                                      B7 & B8                         150 ± 10%
+
+
+  (5) If the left multi-function switch fails any of the
+continuity or resistance tests, replace the faulty
+switch unit as required.
+
+REMOVAL
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+ATTEMPTING ANY STEERING WHEEL, STEERING
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+INJURY.
+
+  (1) Disconnect and isolate the battery negative
+                                                            Fig. 27 Steering Column Shrouds Remove/Install
+cable.
+  (2) Remove the steering column opening cover             1 - LEFT MULTI-FUNCTION SWITCH
+                                                           2 - UPPER SHROUD
+from the instrument panel. (Refer to 23 - BODY/IN-         3 - RIGHT MULTI-FUNCTION SWITCH
+STRUMENT PANEL/STEERING COLUMN OPEN-                       4 - CLOCKSPRING
+ING COVER - REMOVAL).                                      5 - IGNITION LOCK CYLINDER HOUSING
+                                                           6 - LOWER SHROUD
+  (3) Remove the two screws that secure the lower          7 - SCREW (2)
+steering column shroud to the upper shroud (Fig.
+27).                                                         (4) If the vehicle is equipped with the optional tilt
+                                                           steering column, move the tilt steering column to the
+

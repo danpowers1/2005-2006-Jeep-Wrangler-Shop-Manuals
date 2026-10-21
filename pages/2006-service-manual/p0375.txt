@@ -1,0 +1,47 @@
+TJ                                                                               CHIME/BUZZER          8B - 5
+
+      CONDITION               POSSIBLE CAUSES                               CORRECTION
+
+  NO HEADLAMPS-ON         1. Driver door ajar switch      1. Check for continuity between the driver door
+ WARNING CHIME, BUT       sense circuit open.             ajar switch sense circuit of the connector for the
+OTHER CHIME FEATURES                                      driver door ajar switch and the instrument panel
+         OK                                               wire harness instrument cluster connector. Re-
+                                                          pair the open driver door ajar switch sense cir-
+                                                          cuit, if required.
+
+                          2. Headlamp switch output       2. Check for continuity between the headlamp
+                          circuit open.                   switch output circuit of the instrument panel wire
+                                                          harness instrument cluster connector and the
+                                                          park lamp feed circuit of the cross body wire
+                                                          harness left multi-function switch connector. Re-
+                                                          pair the open headlamp switch output circuit, if
+                                                          required.
+                          3. Faulty multi-function        3. Check for continuity between the B(+) circuit
+                          switch.                         terminal and the park lamp feed circuit terminal
+                                                          in the left multi-function switch connector. There
+                                                          should be continuity with the headlamp switch in
+                                                          the On position. Replace the faulty left multi-
+                                                          function switch, if required.
+
+ NO CHIMES AND OTHER      1. Instrument cluster ground    1. Check for continuity between the ground cir-
+ INSTRUMENT CLUSTER       circuit open.                   cuit of the instrument panel wire harness instru-
+ FEATURES ERRATIC OR                                      ment cluster connector and a good ground. Re-
+       DISABLED                                           pair the open ground circuit, if required.
+
+                          2. Instrument cluster fused     2. Check for battery voltage at the B(+) circuit of
+                          B(+) circuit open.              the instrument panel wire harness instrument
+                                                          cluster connector. Repair the open fused B(+)
+                                                          circuit, if required.
+                          3. Instrument cluster fused     3. With the ignition switch in the On position,
+                          ignition switch output (run-    check for battery voltage at the fused ignition
+                          start) circuit open.            switch output (run-start) circuit of the instrument
+                                                          panel wire harness instrument cluster connector.
+                                                          Repair the open fused ignition switch output
+                                                          (run-start) circuit, if required.
+                          4. Faulty instrument cluster.   4. Replace the faulty instrument cluster, if re-
+                                                          quired.
+
+NO CHIMES, BUT ALL OTH-   1. Faulty instrument cluster.   1. Replace the faulty instrument cluster, if re-
+ER INSTRUMENT CLUSTER                                     quired.
+      FEATURES OK
+

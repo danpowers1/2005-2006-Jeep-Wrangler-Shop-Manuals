@@ -1,0 +1,44 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                      8W - 80 - 47
+
+
+                                POWERTRAIN CONTROL MODULE C4 - BLACK/GREEN 38 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    T60 16YL/GY                        OD SOLENOID CONTROL
+               2    T59 16YL/LB                        UD SOLENOID CONTROL
+               3    -                                  -
+               4    -                                  -
+               5    -                                  -
+               6    T19 16YL/DB                        2-4 SOLENOID CONTROL
+               7    -                                  -
+               8    -                                  -
+               9    -                                  -
+              10    T20 16DG/WT                        L/R SOLENOID CONTROL
+              11    -                                  -
+              12    Z903 16BK                          GROUND
+              13    Z903 16BK                          GROUND
+              14    -                                  -
+              15    T1 18DG/LB                         TRS T1 SENSE
+              16    T3 18DG/DB                         TRS T3 SENSE
+              17    T6 18DG                            TOW/HAUL OVERDRIVE OFF SWITCH SENSE
+              18    T515 18YL/DB                       TRANSMISSION CONTROL RELAY CONTROL
+              19    T16 16YL/OR                        TRANSMISSION CONTROL RELAY OUTPUT
+              20    -                                  -
+              21    -                                  -
+              22    T9 18DG/TN                         OD PRESSURE SWITCH SENSE
+              23    -                                  -
+              24    -                                  -
+              25    -                                  -
+              26    -                                  -
+              27    T41 18YL/DB                        TRS T41 SENSE (P/N)
+              28    T16 16YL/OR                        TRANSMISSION CONTROL RELAY OUTPUT
+              29    T50 18YL/TN                        L/R PRESSURE SWITCH SENSE
+              30    T47 18YL/DG                        2-4 PRESSURE SWITCH SENSE
+              31    T38 18YL/BR                        LINE PRESSURE SENSOR SIGNAL
+              32    T14 18DG/BR                        OUTPUT SPEED SENSOR SIGNAL
+              33    T52 18DG/OR                        INPUT SPEED SENSOR SIGNAL
+              34    T13 18DG/VT                        SPEED SENSOR GROUND
+              35    T54 18DG/OR                        TRANSMISSION TEMPERATURE SENSOR SIGNAL
+              36    -                                  -
+              37    T42 18DG/YL                        TRS T42 SENSE
+              38    -                                  -
+

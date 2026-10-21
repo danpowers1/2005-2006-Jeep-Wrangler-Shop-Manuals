@@ -1,0 +1,17 @@
+TJ                                         8W-42 AIR CONDITIONING-HEATER                                                          8W - 42 - 1
+
+                                 8W - 42 AIR CONDITIONING - HEATER
+Component                                                          Page    Component                                                          Page
+A/C Compressor Clutch Relay . . . . . . . . 8W-42-3, 4                     G190 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-5
+A/C High Pressure Switch . . . . . . . . . . . . . 8W-42-3                 G200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-2
+A/C Low Pressure Switch . . . . . . . . . . . . . . 8W-42-3                G202 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-2
+A/C Pressure Transducer . . . . . . . . . . . . . . 8W-42-6                G203 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-2
+A/C-Heater Control . . . . . . . . . . . . . . . . . 8W-42-2, 3            Heater Control . . . . . . . . . . . . . . . . . . . . . . 8W-42-2
+Fuse 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-2     High Speed Radiator Fan Relay . . . . . . . . . 8W-42-5
+Fuse 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-5     Instrument Cluster . . . . . . . . . . . . . . . . . . . 8W-42-2
+Fuse 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-2     Low Speed Radiator Fan Relay . . . . . . . . . 8W-42-5
+Fuse 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-3    Power Distribution Center . . . . . . . . . 8W-42-2, 3, 5
+Fuse 21 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-3    Powertrain Control Module . . . . . . . . 8W-42-3, 5, 6
+Fuse Block . . . . . . . . . . . . . . . . . . . . . . . 8W-42-2, 3        Radiator Fan Motor . . . . . . . . . . . . . . . . . . 8W-42-5
+G105 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-42-4   Radiator Fan Motor Circuit Breaker . . . . . 8W-42-5
+

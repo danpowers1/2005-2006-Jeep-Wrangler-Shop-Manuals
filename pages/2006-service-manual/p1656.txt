@@ -1,0 +1,56 @@
+24 - 20     CONTROLS                                                                                      TJ
+
+A - NOT USED
+B - DEFROST ACTUATOR (YELLOW)
+C - FLOOR ACTUATOR (BROWN)
+D - DEFROST ACTUATOR, MID-POSITION (BLUE)
+E - VACUUM SUPPLY, RESERVOIR (BLACK)
+F - PANEL ACTUATOR (RED)
+G - RECIRCULATION ACTUATOR (GREEN)
+
+
+
+
+                                                         Fig. 17 A/C-Heater Control Connections - Typical
+                                                        1 - A/C-HEATER CONTROL
+                                                        2 - BLOWER MOTOR SWITCH
+                                                        3 - BLOWER MOTOR SWITCH CONNECTOR
+                                                        4 - TEMPERATURE/ILLUMINATION CONNECTOR
+                                                        5 - MODE SWITCH CONNECTOR
+                                                        6 - VACUUM HARNESS
+                                                        7 - MODE SWITCH
+          Fig. 16 A/C-Heater Control - Typical
+1 - BLOWER MOTOR CONTROL                                INSTALLATION
+2 - TEMPERATURE CONTROL
+3 - MODE CONTROL
+                                                          (1) Connect the three wire harness connectors to
+4 - VACUUM HARNESS CONNECTOR                            the back of the A/C-heater control.
+5 - MOUNTING SCREW LOCATIONS                              (2) Position the A/C-heater control onto the instru-
+                                                        ment panel and install the two retaining screws.
+  (6) Pull the A/C-heater control away from the
+                                                        Tighten the screws to 2 N·m (17 in. lbs.).
+instrument panel to access the connections on the
+                                                          (3) Reach through the glove box opening and con-
+back of the control.
+                                                        nect the A/C-heater vacuum harness connector.
+  (7) Disconnect the three wire harness connectors
+                                                          (4) Install the glove box (Refer to 23 - BODY/IN-
+from the back of the A/C-heater control (Fig. 17) and
+                                                        STRUMENT PANEL/GLOVE BOX - INSTALLA-
+remove the control from the vehicle.
+                                                        TION).
+                                                          (5) Install the center bezel (Refer to 23 - BODY/
+                                                        INSTRUMENT         PANEL/INSTRUMENT           PANEL
+                                                        CENTER BEZEL - INSTALLATION).
+                                                          (6) Reconnect the negative battery cable.
+
+
+                                                        A / C HIGH PRESSURE
+                                                        SWITCH
+                                                        DESCRIPTION
+                                                          The A/C high pressure switch controls A/C com-
+                                                        pressor clutch engagement and disengagement when
+                                                        equipped with the 4.0L engine. The A/C high pres-
+                                                        sure switch is mounted on a fitting located on the
+                                                        A/C discharge line near the A/C compressor. The A/C
+

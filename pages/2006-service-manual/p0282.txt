@@ -1,0 +1,60 @@
+5 - 30    BRAKES - BASE                                                                                     TJ
+
+                                                         Always replace the drum if machining would cause
+                                                         drum diameter to exceed the size limit indicated on
+                                                         the drum in hat.
+
+                                                         BRAKE DRUM RUNOUT
+                                                           Measure drum diameter and runout with an accu-
+                                                         rate gauge. The most accurate method of measure-
+                                                         ment involves mounting the drum in a brake lathe
+                                                         and checking variation and runout with a dial indi-
+                                                         cator.
+                                                           Machine the drum if runout or variation exceed
+                                                         values. Replace the drum in hat rotor if machining
+                                                         causes the drum in hat rotor to exceed the maximum
+                                                         allowable diameter.
+
+
+                                                         STANDARD PROCEDURE
+   Fig. 52 Checking Rotor Runout And Thickness
+                     Variation                           STANDARD PROCEDURE - DISC ROTOR
+1 - DIAL INDICATOR                                       MACHINING
+                                                           The disc brake rotor can be machined if scored or
+ROTOR THICKNESS VARIATION                                worn. The lathe must machine both sides of the rotor
+  Variations in rotor thickness will cause pedal pul-    simultaneously with dual cutter heads. The rotor
+sation, noise and shudder.                               mounting surface must be clean before placing on the
+  Measure rotor thickness at 6-to-12 points around       lathe. Equipment capable of machining only one side
+the rotor face (Fig. 53).                                at a time may produce a tapered rotor.
+  Position the micrometer approximately 25.4 mm ( 1
+in.) from the rotor outer circumference for each mea-    NOTE: A hub mounted on-vehicle lathe is recom-
+surement.                                                mended. This type of lathe trues the rotor to the
+  Thickness should not vary by more than 0.013 mm        vehicles hub/bearing.
+(0.0005 in.) from point-to-point on the rotor. Machine
+or replace the rotor if necessary.
+                                                         CAUTION: Brake rotors that do not meet minimum
+                                                         thickness specifications before or after machining
+                                                         must be replaced.
+
+
+                                                         STANDARD PROCEDURE - BRAKE DRUM IN
+                                                         HAT ROTOR MACHINING
+                                                           The brake drum in hat rotor can be machined on a
+                                                         drum lathe when necessary. Initial machining cuts
+                                                         should be limited to 0.12 - 0.20 mm (0.005 - 0.008 in.)
+                                                         at a time as heavier feed rates can produce taper and
+                                                         surface variation. Final finish cuts of 0.025 to 0.038
+                                                         mm (0.001 to 0.0015 in.) are recommended and will
+                                                         generally provide the best surface finish.
+                                                           Be sure the drum in hat rotor is securely mounted
+                                                         in the lathe before machining operations. A damper
+                                                         strap should always be used around the drum to
+                                                         reduce vibration and avoid chatter marks.
+         Fig. 53 Measuring Rotor Thickness                 The maximum allowable diameter of the drum
+1 - MICROMETER                                           braking surface is stamped or cast into the drum in
+2 - ROTOR                                                hat rotor.
+DIAGNOSIS AND TESTING - BRAKE DRUM IN                    CAUTION: Replace the drum in hat rotor if machin-
+HAT ROTOR                                                ing will cause the drum to exceed the maximum
+  The maximum allowable diameter of the drum             allowable diameter.
+braking surface is indicated on the drum outer edge.
+

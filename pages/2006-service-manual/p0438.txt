@@ -1,0 +1,62 @@
+8G - 2     HEATED GLASS                                                                                       TJ
+
+fused battery current through the relay and to the         DIAGNOSIS AND TESTING
+rear defogger grid lines and the heated side view
+mirrors, when equipped. The grid lines heat the glass      ELECTRIC BACKLIGHT (EBL) SYSTEM
+to help clear the rear window and side mirror sur-
+faces of fog or frost.                                     NOTE: Illumination of the defogger switch indicator
+  An amber indicator in the rear window defogger           lamp does not necessarily mean that electrical cur-
+switch will illuminate to indicate when the EBL sys-       rent is reaching the rear glass heating grid lines.
+tem is turned on. The instrument cluster contains
+the EBL system control circuitry including the timer
+logic.                                                     NOTE: For circuit descriptions and diagrams of the
+                                                           rear window defogger (EBL) system, refer to 8W -
+NOTE: The EBL system turns off automatically after         WIRING DIAGRAM INFORMATION.
+ten minutes of initial operation. Each following acti-
+vation cycle of the EBL system will last five min-            Operation of the electric backlight (EBL) system
+utes.                                                      can be confirmed by the following:
+                                                              (1) Use a DRBIIIt scan tool and check for diagnos-
+  The EBL system will be automatically turned off          tic trouble codes (DTCs) related to the instrument
+after an initial programmed time interval of about         cluster. If no DTCs are found, go to Step 2. If any
+ten minutes. After the initial time interval has           DTCs are found, repair as required, then proceed to
+expired, if the rear window defogger switch is turned      Step 2
+on again during the same ignition cycle, the EBL sys-         (2) Turn the ignition switch to the On position. Set
+tem will automatically turn off after about five min-      the rear window defogger switch in the On position.
+utes. The EBL system will automatically shut off if        The rear window defogger operation can be checked
+the ignition switch is turned to the Off position, or it   by feeling the surfaces of the rear window glass or
+can be turned off manually by pressing the rear win-       outside heated rear view mirror glass, when
+dow defogger switch a second time.                         equipped. A distinct difference in temperature
+  Repair of the rear window defogger grid lines, bus       between the grid lines and the adjacent clear glass or
+bars, terminals or pigtail wires can be accomplished       the mirror glass should be detected within three to
+using the Mopar Rear Window Defogger Repair Kit            four minutes of operation.
+(Part Number 04549275) or equivalent (Refer to 8 -            (3) If a temperature difference is not detected, use
+ELECTRICAL/HEATED GLASS/REAR WINDOW                        a 12-volt DC voltmeter and contact the rear glass
+DEFOGGER GRID - STANDARD PROCEDURE -                       heating grid power feed terminal A with the positive
+GRID LINE AND TERMINAL REPAIR).                            lead, and terminal B with the negative lead (Fig. 3).
+                                                           The voltmeter should read battery voltage. If the
+                                                           voltmeter does not read battery voltage, check the
+                                                           following:
+                                                              • Confirm that the ignition switch is in the On
+                                                           position.
+                                                              • Make sure that the EBL feed wire and ground
+                                                           wire are connected to the terminals. Confirm that the
+                                                           ground wire has continuity to ground.
+                                                              • Check the EBL relay located in the power distri-
+                                                           bution center (PDC) in the engine compartment.
+                                                           Check the fuses in the fuse block located in the pas-
+                                                           senger compartment. The relay and fuses must be
+                                                           tight in their receptacles and all electrical connec-
+                                                           tions must be secure. Refer to the appropriate wiring
+                                                           information for diagnosis and testing of the ISO-stan-
+                                                           dard relay.
+         Fig. 2 03 ACCESSORY SWITCH BEZEL                     When the above steps have been completed and the
+1 - BEZEL SCREWS (4)                                       rear glass heating grid is still inoperative, one or
+2 - BEZEL                                                  more of the following is faulty:
+3 - WIRE HARNESS
+4 - ELECTRICAL CONNECTORS (7)                                 • Rear window defogger switch in the instrument
+                                                           panel.
+                                                              • Rear window defogger relay control circuity in
+                                                           the instrument cluster.
+                                                              • Rear window defogger grid lines (all grid lines
+                                                           would have to be broken, or the power feed or ground
+

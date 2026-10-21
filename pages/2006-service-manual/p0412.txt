@@ -1,0 +1,62 @@
+8F - 18    BATTERY SYSTEM                                                                                      TJ
+
+the engine compartment. See the fuse and relay lay-
+out label affixed to the underside of the PDC cover
+for ASD relay identification and location.
+  (1) Connect the positive lead of the voltmeter to
+the battery negative terminal post. Connect the neg-
+ative lead of the voltmeter to the battery negative
+cable terminal clamp (Fig. 14). Rotate and hold the
+ignition switch in the Start position. Observe the
+voltmeter. If voltage is detected, correct the poor con-
+nection between the battery negative cable terminal
+clamp and the battery negative terminal post.
+
+
+
+
+                                                           Fig. 15 Test Battery Positive Connection Resistance
+                                                                                 - Typical
+                                                           1 - VOLTMETER
+                                                           2 - BATTERY
+
+                                                              (3) Connect the voltmeter to measure between the
+                                                           battery positive cable terminal clamp and the starter
+                                                           solenoid B(+) terminal stud (Fig. 16). Rotate and hold
+                                                           the ignition switch in the Start position. Observe the
+                                                           voltmeter. If the reading is above 0.2 volt, clean and
+                                                           tighten the battery positive cable eyelet terminal con-
+                                                           nection at the starter solenoid B(+) terminal stud.
+      Fig. 14 Test Battery Negative Connection             Repeat the test. If the reading is still above 0.2 volt,
+                 Resistance - Typical                      replace the faulty battery positive cable.
+1 - VOLTMETER
+2 - BATTERY
+
+   (2) Connect the positive lead of the voltmeter to
+the battery positive terminal post. Connect the nega-
+tive lead of the voltmeter to the battery positive cable
+terminal clamp (Fig. 15). Rotate and hold the ignition
+switch in the Start position. Observe the voltmeter. If
+voltage is detected, correct the poor connection
+between the battery positive cable terminal clamp
+and the battery positive terminal post.
+
+
+
+
+                                                             Fig. 16 Test Battery Positive Cable Resistance -
+                                                                                  Typical
+                                                           1 - BATTERY
+                                                           2 - VOLTMETER
+                                                           3 - STARTER MOTOR
+
+                                                             (4) Connect the voltmeter to measure between the
+                                                           battery negative cable terminal clamp and a good
+                                                           clean ground on the engine block (Fig. 17). Rotate
+                                                           and hold the ignition switch in the Start position.
+                                                           Observe the voltmeter. If the reading is above 0.2
+                                                           volt, clean and tighten the battery negative cable
+                                                           eyelet terminal connection to the engine block.
+                                                           Repeat the test. If the reading is still above 0.2 volt,
+                                                           replace the faulty battery negative cable.
+

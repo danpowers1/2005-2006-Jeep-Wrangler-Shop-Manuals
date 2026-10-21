@@ -1,0 +1,40 @@
+9-4   ENGINE 2.4L                                                                                 TJ
+
+ENGINE DIAGNOSIS - PERFORMANCE
+         CONDITION                POSSIBLE CAUSE                         CORRECTION
+
+ENGINE WILL NOT START     1. Weak battery.                     1. Test battery. Charge or replace
+                                                               as necessary. (Refer to 8 - ELEC-
+                                                               TRICAL/BATTERY SYSTEM - DI-
+                                                               AGNOSIS AND TESTING)
+                          2. Corroded or loose battery con-    2. Clean and tighten battery con-
+                          nections.                            nections. Apply a coat of light min-
+                                                               eral grease to terminals.
+                          3. Faulty starter.                   3. Test starting system. (Refer to 8
+                                                               - ELECTRICAL/STARTING - DIAG-
+                                                               NOSIS AND TESTING)
+                          4. Faulty coil(s) or control unit.   4. Test and replace as needed.
+                                                               (Refer to Appropriate Diagnostic
+                                                               Information)
+                          5. Incorrect spark plug gap.         5. Set gap. (Refer to 8 - ELECTRI-
+                                                               CAL/IGNITION CONTROL - SPEC-
+                                                               IFICATIONS)
+                          6. Contamination in fuel system.     6. Clean system and replace fuel
+                                                               filter.
+                          7. Faulty fuel pump.                 7. Test fuel pump and replace as
+                                                               needed. (Refer to Appropriate Diag-
+                                                               nostic Information)
+                          8. Incorrect engine timing.          8. Check for a skipped timing belt/
+                                                               chain.
+
+ENGINE STALLS OR IDLES    1. Idle speed too low.               1. Test minimum air flow. (Refer to
+ROUGH                                                          Appropriate Diagnostic Information)
+
+                          2. Incorrect fuel mixture.           2. (Refer to Appropriate Diagnostic
+                                                               Information)
+                          3. Intake manifold leakage.          3. Inspect intake manifold, manifold
+                                                               gasket, and vacuum hoses.
+                          4. Faulty ignition coil(s).          4. Test and replace as necessary.
+                                                               (Refer to Appropriate Diagnostic
+                                                               Information)
+

@@ -1,0 +1,60 @@
+TJ                                                                                  BRAKES - BASE        5 - 29
+
+REMOVAL                                                     (3) Tighten brake line fittings at combination valve
+   (1) Remove brake lines that connect master cylin-      to 19 N·m (14 ft. lbs.).
+der to combination valve (Fig. 50).                         (4) Tighten brake line fittings at master cylinder
+   (2) Disconnect brake lines that connect combina-       to 19 N·m (14 ft. lbs.).
+tion valve to front and rear brakes.                        (5) Connect wire to differential pressure switch in
+   (3) Disconnect wire from combination valve switch      combination valve.
+terminal. Be careful when separating wire connector         (6) Bleed base brake system. (Refer to 5 - BRAKES
+as lock tabs are easily damaged if not fully disen-       - STANDARD PROCEDURE).
+gaged.
+   (4) Remove nuts attaching combination valve
+bracket to booster studs and remove valve bracket off
+                                                          ROTORS
+booster studs (Fig. 51).
+                                                          DIAGNOSIS AND TESTING
+                                                          DIAGNOSIS AND TESTING - DISC BRAKE
+                                                          ROTOR
+                                                            The rotor braking surfaces should not be refinished
+                                                          unless necessary.
+                                                            Light surface rust and scale can be removed with a
+                                                          lathe equipped with dual sanding discs. The rotor
+                                                          surfaces can be restored by machining in a disc brake
+                                                          lathe if surface scoring and wear are light.
+                                                            Replace the rotor under the following conditions:
+                                                            • Severely Scored
+                                                            • Tapered
+                                                            • Hard Spots
+                                                            • Cracked
+     Fig. 50 Combination Valve/Master Cylinder              • Below Minimum Thickness
+1 - COMBINATION VALVE
+2 - MASTER CYLINDER                                       ROTOR MINIMUM THICKNESS
+                                                            Measure rotor thickness at the center of the brake
+                                                          shoe contact surface. Replace the rotor if worn below
+                                                          minimum thickness, or if machining would reduce
+                                                          thickness below the allowable minimum.
+                                                            Rotor minimum thickness is usually specified on
+                                                          the rotor hub. The specification is either stamped or
+                                                          cast into the hub surface.
+
+                                                          ROTOR RUNOUT
+                                                            Check rotor lateral runout with dial indicator
+                                                          C-3339 (Fig. 52). Excessive lateral runout will cause
+                                                          brake pedal pulsation and rapid, uneven wear of the
+                                                          brake shoes. Position the dial indicator plunger
+                                                          approximately 25.4 mm (1 in.) inward from the rotor
+                                                          edge.
+
+                                                          NOTE: Be sure wheel bearing has zero end play
+         Fig. 51 Combination Valve Bracket                before checking rotor runout.
+1 - MASTER CYLINDER
+2 - COMBINATION VALVE BRACKET                               Maximum allowable rotor runout is 0.102 mm
+                                                          (0.004 in.).
+INSTALLATION
+   (1) Position valve bracket on booster studs and
+tighten bracket attaching nuts to 20 N·m (15 ft. lbs.).
+   (2) Align and start brake line fittings in combina-
+tion valve and master cylinder by hand to avoid cross
+threading.
+

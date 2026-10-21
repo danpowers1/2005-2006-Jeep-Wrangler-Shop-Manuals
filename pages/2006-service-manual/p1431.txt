@@ -1,0 +1,49 @@
+TJ                                                                    TRANSFER CASE - NV241            21 - 241
+
+  (7) Remove front output shaft seal with suitable
+pry tool, or a slide hammer mounted screw.
+
+INSTALLATION
+  (1) Install new front output seal in front case with
+Installer Tool 9041 and Handle C-4171 (Fig. 97).
+
+
+
+
+                                                                     Fig. 99 Front Yoke Installation
+                                                         1 - TRANSFER CASE
+                                                         2 - FRONT YOKE
+
+
+
+
+   Fig. 97 Front Output Seal Installation - Typical
+1 - SPECIAL TOOL C-4171
+2 - SPECIAL TOOL 9041
+
+  (2) Install yoke seal on front output shaft (Fig.
+98).
+
+
+
+
+                                                                  Fig. 100 Front Yoke Nut Installation
+                                                         1 - TRANSFER CASE
+                                                         2 - HOLDER 6958
+                                                         3 - FRONT YOKE
+
+                                                         POSITION SENSOR
+     Fig. 98 Installing Flange Seal On Front Shaft       DESCRIPTION
+1 - FRONT OUTPUT SHAFT                                      The transfer case position sensor is an electronic
+2 - FLANGE SEAL                                          device whose output can be interpreted to indicate
+                                                         the transfer case’s current operating mode. The sen-
+  (3) Install yoke on front output shaft (Fig. 99).      sor consists of a five position, resistive multiplexed
+Install a new yoke nut onto the front output shaft.      circuit which returns a specific resistance value to
+  (4) Using Spanner Wrench 6958 (Fig. 100), tighten      the Powertrain Control Module (PCM) for each trans-
+the yoke nut to 176-271 N·m (130-200 ft. lbs.) torque.   fer case operating mode. The sensor is located on the
+  (5) Install propeller shaft. (Refer to 3 - DIFFER-     top of the transfer case, just left of the transfer case
+ENTIAL & DRIVELINE/PROPELLER SHAFT/PRO-                  centerline and rides against the sector plate rooster-
+PELLER SHAFT - INSTALLATION)                             comb. The PCM supplies 5VDC (+/- 0.5V) to the sen-
+                                                         sor and monitors the return voltage to determine the
+                                                         sector plate, and therefore the transfer case, position.
+

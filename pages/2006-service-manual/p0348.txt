@@ -1,0 +1,67 @@
+7 - 36    ENGINE                                                                                           TJ
+
+in reduced heat exchange causing the cooling system
+to operate at higher temperatures. Inspect the plastic
+end tanks for cracks, damage or leaks.
+  Inspect the radiator neck for damage or distortion.
+
+INSTALLATION
+CAUTION: Before installing the radiator or A/C con-
+denser, be sure the radiator-to-body and radiator-to-
+A/C condenser rubber air seals are properly
+fastened to their original positions. These are used
+at the top, bottom and sides of the radiator and A/C
+condenser. To prevent overheating, these seals
+must be installed to their original positions.
+
+  (1) Guide the two radiator alignment dowels into
+the rubber grommets located in lower radiator cross-
+member. Install and tighten the six mounting bolts
+(Fig. 23) to 8 N·m (70 in. lbs.) torque.
+  (2) Close radiator draincock.
+  (3) 2.4L ONLY - Install the electric cooling fan
+(Refer to 7 - COOLING/ENGINE/RADIATOR FAN -
+INSTALLATION).
+  (4) Position fan shroud and power steering reser-
+voir tank (if equipped). Install and tighten four
+mounting bolts to 8 N·m (70 in. lbs.) torque.                            Fig. 25 Water Pump
+  (5) If equipped, remove plugs and connect auto-        1 - CYLINDER BLOCK
+matic transmission fluid cooler lines (Refer to 7 -      2 - WATER PUMP
+COOLING/TRANSMISSION - STANDARD PROCE-
+DURE).
+                                                         OPERATION
+                                                           The water pump is the heart of the cooling system.
+CAUTION: The tangs on the hose clamps must be            The coolant is pumped through the engine block, cyl-
+positioned straight down.                                inder head, heater core, and radiator.
+
+   (6) Connect radiator hoses and install hose clamps.
+   (7) Position and install the condenser lower seal     DIAGNOSIS AND TESTING
+(Fig. 22).
+   (8) Connect battery negative cable.                   WATER PUMP
+   (9) Fill cooling system with correct coolant (Refer     A quick flow test to determine if the water pump is
+to 7 - COOLING - STANDARD PROCEDURE).                    working effectively is to check heater system for
+   (10) Connect coolant recovery bottle hose.            proper operation. A defective pump will not provide
+   (11) Install radiator cap.                            an adequate flow of heated coolant through the sys-
+   (12) Check and adjust automatic transmission          tem.
+fluid level (if equipped).
+   (13) Start engine and check for leaks.                WARNING: DO NOT REMOVE THE COOLING SYS-
+                                                         TEM PRESSURE CAP WITH THE SYSTEM HOT AND
+                                                         UNDER PRESSURE BECAUSE SERIOUS BURNS
+WATER PUMP - 2.4L                                        FROM COOLANT CAN OCCUR.
+
+                                                           Another flow test to help determine water pump
+DESCRIPTION                                              operation is as follows:
+  The water pump has a cast aluminum body and
+                                                           (1) Remove cooling system pressure cap.
+housing with a stamped steel impeller. The water
+                                                           (2) Remove a small amount of coolant from the
+pump bolts directly to the block (Fig. 25). The cylin-
+                                                         system.
+der block to water pump seal is provided by a rubber
+                                                           (3) Start the engine and warm up until thermostat
+O-ring. The water pump is driven by the engine tim-
+                                                         opens.
+ing belt.
+                                                           (4) With the thermostat open and coolant level low,
+                                                         visually inspect for coolant flow. If flow is present,
+

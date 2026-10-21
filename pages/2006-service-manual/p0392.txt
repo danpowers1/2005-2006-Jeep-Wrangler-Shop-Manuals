@@ -1,0 +1,64 @@
+8E - 16    ELECTRONIC CONTROL MODULES                                                                     TJ
+
+inputs originate from other components/modules, and      NOTE: If the TCM has been replaced, the “Quick
+are shared with the TCM via the PCI bus.                 Learn Procedure” must be performed. (Refer to 8 -
+  Some examples of direct inputs to the TCM are:         ELECTRICAL/ELECTRONIC CONTROL MODULES/
+                                                         TRANSMISSION CONTROL MODULE - STANDARD
+  • Battery (B+) voltage
+                                                         PROCEDURE)
+  • Ignition “ON” voltage
+  • Transmission Control Relay (Switched B+)
+  • Throttle Position Sensor
+                                                         CLUTCH VOLUME INDEX (CVI)
+  • Crankshaft Position Sensor (CKP)                       An important function of the TCM is to monitor
+                                                         Clutch Volume Index (CVI). CVIs represent the vol-
+ • Transmission Range Sensor (TRS)                       ume of fluid needed to compress a clutch pack.
+ • Pressure Switches (L/R, 2/4, OD)                        The TCM monitors gear ratio changes by monitor-
+ • Transmission Temperature Sensor (Integral to          ing the Input and Output Speed Sensors. The Input,
+TRS)                                                     or Turbine Speed Sensor sends an electrical signal to
+ • Input Shaft Speed Sensor                              the TCM that represents input shaft rpm. The Out-
+  • Output Shaft Speed Sensor                            put Speed Sensor provides the TCM with output
+                                                         shaft speed information.
+  Some examples of indirect inputs to the TCM
+are:                                                       By comparing the two inputs, the TCM can deter-
+                                                         mine transmission gear position. This is important to
+  • Engine/Body Identification                           the CVI calculation because the TCM determines
+  • Manifold Pressure                                    CVIs by monitoring how long it takes for a gear
+  • Target Idle                                          change to occur (Fig. 14).
+  • Torque Reduction Confirmation
+  • Speed Control ON/OFF Switch
+  • Engine Coolant Temperature
+  • Ambient/Battery Temperature
+  • Brake Switch Status
+  • DRBt III Communication
+  Based on the information received from these var-
+ious inputs, the TCM determines the appropriate
+shift schedule and shift points, depending on the
+present operating conditions and driver demand.
+This is possible through the control of various direct
+and indirect outputs.
+  Some examples of TCM direct outputs are:
+  • Transmission Control Relay
+  • Solenoids (L/R, 2/4, OD and UD)
+  • Vehicle Speed (to PCM)
+  • Torque Reduction Request (to PCM)
+  Some examples of TCM indirect outputs are:
+                                                                 Fig. 14 Example of CVI Calculation
+  • Transmission Temperature (to PCM)
+                                                         1 - OUTPUT SPEED SENSOR
+  • PRNDL Position (to BCM)                              2 - OUTPUT SHAFT
+                                                         3 - CLUTCH PACK
+   In addition to monitoring inputs and controlling      4 - SEPARATOR PLATE
+outputs, the TCM has other important responsibili-       5 - FRICTION DISCS
+ties and functions:                                      6 - INPUT SHAFT
+                                                         7 - INPUT SPEED SENSOR
+  • Storing and maintaining Clutch Volume Indices        8 - PISTON AND SEAL
+(CVI)
+                                                           Gear ratios can be determined by using the DRBt
+  • Storing and selecting appropriate Shift Sched-
+                                                         III Scan Tool and reading the Input/Output Speed
+ules
+                                                         Sensor values in the “Monitors” display. Gear ratio
+  • System self-diagnostics                              can be obtained by dividing the Input Speed Sensor
+  • Diagnostic capabilities (with DRBt III scan tool)    value by the Output Speed Sensor value.
+

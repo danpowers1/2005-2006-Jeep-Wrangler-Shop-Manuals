@@ -1,0 +1,57 @@
+8I - 18     IGNITION CONTROL                                                                               TJ
+
+this condition must be replaced.                        36). The increase in electrode gap will be consider-
+                                                        ably in excess of 0.001 inch per 2000 miles of opera-
+                                                        tion. This suggests that a plug with a cooler heat
+                                                        range rating should be used. Over advanced ignition
+                                                        timing, detonation and cooling system malfunctions
+                                                        can also cause spark plug overheating.
+
+
+
+
+          Fig. 34 Chipped Electrode Insulator
+1 - GROUND ELECTRODE
+2 - CENTER ELECTRODE
+3 - CHIPPED INSULATOR
+
+PREIGNITION DAMAGE                                                 Fig. 36 Spark Plug Overheating
+  Preignition damage is usually caused by excessive     1 - BLISTERED WHITE OR GRAY COLORED INSULATOR
+combustion chamber temperature. The center elec-
+trode dissolves first and the ground electrode dis-     REMOVAL
+solves somewhat latter (Fig. 35). Insulators appear
+relatively deposit free. Determine if the spark plug    2.4L
+has the correct heat range rating for the engine.         If spark plug for #2 or #3 cylinder is being
+Determine if ignition timing is over advanced or if     removed, throttle body must be removed. Refer to
+other operating conditions are causing engine over-     Throttle Body Removal.
+heating. (The heat range rating refers to the operat-     (1) Remove air cleaner tube and housing.
+ing temperature of a particular type spark plug.          (2) Twist secondary cable at cylinder head to break
+Spark plugs are designed to operate within specific     loose at spark plug. Remove cable from plug.
+temperature ranges. This depends upon the thick-          (3) Prior to removing spark plug, spray com-
+ness and length of the center electrodes porcelain      pressed air into cylinder head opening. This will help
+insulator.)                                             prevent foreign material from entering combustion
+                                                        chamber.
+                                                          (4) Remove spark plug from cylinder head using a
+                                                        quality socket with a rubber or foam insert.
+                                                          (5) Inspect spark plug condition. Refer to Spark
+                                                        Plug Conditions.
+
+                                                        4.0L
+                                                          On the 4.0L 6–cylinder engine the spark plugs are
+                                                        located below the coil rail assembly. To gain access to
+                                                        any/all spark plug(s), refer to Ignition Coil-4.0L
+                                                        Engine Removal/Installation.
+                                                          (1) Prior to removing the spark plug, spray com-
+                                                        pressed air around the spark plug hole and the area
+                                                        around the spark plug. This will help prevent foreign
+                                                        material from entering the combustion chamber.
+              Fig. 35 Preignition Damage
+                                                          (2) Remove the spark plug using a quality socket
+1 - GROUND ELECTRODE STARTING TO DISSOLVE
+2 - CENTER ELECTRODE DISSOLVED
+                                                        with a rubber or foam insert.
+                                                          (3) Inspect the spark plug condition. Refer to
+SPARK PLUG OVERHEATING                                  Spark Plugs Conditions.
+  Overheating is indicated by a white or gray center
+electrode insulator that also appears blistered (Fig.
+

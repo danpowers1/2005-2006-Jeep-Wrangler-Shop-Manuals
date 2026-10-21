@@ -1,0 +1,63 @@
+TJ                                                                                     PLUMBING        24 - 61
+
+eliminate all moisture within the refrigerant system.   STANDARD PROCEDURE - REFRIGERANT SYS-
+When the suction gauge reads -88 kPa (-26 in. Hg)       TEM EVACUATE).
+vacuum or greater for 30 minutes, close all valves        (2) A manifold gauge set and a R-134a refrigerant
+and turn off vacuum pump. If the refrigerant system     recovery/recycling/charging station that meets SAE
+fails to reach the specified vacuum, the refrigerant    standard J2210 should still be connected to the A/C
+system likely has a leak that must be corrected. If     refrigerant system.
+the refrigerant system maintains specified vacuum         (3) Measure the proper amount of R-134a refriger-
+for at least 30 minutes, start the vacuum pump, open    ant and heat it to 52° C (125° F) with the charging
+the suction and discharge valves. Then allow the sys-   station. See the operating instructions supplied by
+tem to evacuate an additional 10 minutes.               the equipment manufacturer for proper use of this
+   (4) Close all valves. Turn off and disconnect the    equipment.
+vacuum pump.                                              (4) Open both the suction and discharge valves,
+   (5) Charge the refrigerant system (Refer to 24 -     then open the charge valve to allow the heated
+HEATING & AIR CONDITIONING/PLUMBING -                   refrigerant to flow into the system.
+STANDARD PROCEDURE - REFRIGERANT SYS-                     (5) When the transfer of refrigerant has stopped,
+TEM CHARGE).                                            close both the suction and discharge valves.
+                                                          (6) If all of the refrigerant charge did not transfer
+REFRIGERANT SYSTEM CHARGE                               from the dispensing device, open all of the windows
+                                                        in the vehicle and set the A/C-heater controls so that
+WARNING: Refer to the applicable warnings and           the A/C compressor is engaged and the blower motor
+cautions for this system before performing the fol-     is operating at its lowest speed setting. Run the
+lowing operation (Refer to 24 - HEATING & AIR           engine at a steady high idle (about 1400 rpm). If the
+CONDITIONING/PLUMBING - WARNINGS) and (Refer            A/C compressor will not engage, test the compressor
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -           clutch control circuit and repair as required.
+CAUTIONS). Failure to follow the warnings and cau-        (7) Open the suction valve to allow the remaining
+tions could result in possible personal injury or       refrigerant to transfer to the refrigerant system.
+death.
+                                                        WARNING: Take care not to open the discharge
+                                                        (high pressure) valve at this time.
+NOTE: Always refer to the A/C Underhood Specifi-
+cation Label for the refrigerant fill capacity of the     (8) Close the suction valve and test the A/C system
+vehicle being serviced.                                 performance (Refer to 24 - HEATING & AIR CONDI-
+                                                        TIONING - STANDARD PROCEDURE - A/C PER-
+   After all refrigerant system leaks have been         FORMANCE TEST).
+repaired and the refrigerant system has been evacu-       (9) Disconnect the charging station and manifold
+ated, a refrigerant charge can be injected into the     gauge set from the refrigerant system service ports.
+system. For the proper amount of the refrigerant          (10) Install the protective caps onto the refrigerant
+charge, always refer to the A/C Underhood Specifica-    system service ports.
+tion Label located in the engine compartment. An
+R-134a refrigerant recovery/recycling/charging sta-
+tion that meets SAE Standard J2210 must be used to      A / C COMPRESSOR
+charge the refrigerant system with R-134a refriger-
+ant. See the operating instructions supplied by the
+equipment manufacturer for proper care and use of       DESCRIPTION
+this equipment.
+                                                        A / C COMPRESSOR
+CHARGING PROCEDURE                                        The A/C system uses a Denso 10PA17 seven cylin-
+                                                        der, reciprocating wobble plate-type A/C compressor
+CAUTION: A small amount of refrigerant oil is           on all models. This A/C compressor has a fixed dis-
+removed from the A/C system each time the refrig-       placement of 150 cubic centimeters (9.375 cubic
+erant system is recovered and evacuated. Before         inches), and has both the suction and discharge ports
+charging the A/C system, you MUST replenish any         located on the cylinder head.
+oil lost during the recovery process. Refer the           A label identifying the use of R-134a refrigerant is
+equipment manufacturer instructions for more infor-     located on the A/C compressor.
+mation.
+                                                        HIGH PRESSURE RELIEF VALVE
+ (1) Evacuate the refrigerant system (Refer to 24 -
+                                                          A high pressure relief valve is located on the com-
+HEATING & AIR CONDITIONING/PLUMBING -
+                                                        pressor manifold. This mechanical valve is designed
+

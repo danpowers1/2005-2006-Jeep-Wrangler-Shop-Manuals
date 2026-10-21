@@ -1,0 +1,61 @@
+TJ                                                                                   FUEL DELIVERY         14 - 11
+
+FUEL TANK
+DESCRIPTION
+  The fuel tank is constructed of a plastic material.
+Its main functions are for fuel storage and for place-
+ment of the fuel pump module.
+
+OPERATION
+  All models pass a full 360 degree rollover test
+without fuel leakage. To accomplish this, fuel and
+vapor flow controls are required for all fuel tank con-
+nections.
+  A fuel tank check valve(s) is mounted into the top
+of the fuel tank (or pump module). Refer to Fuel
+Tank Check Valve for additional information.
+  An evaporation control system is connected to the
+check valve(s) to reduce emissions of fuel vapors into
+the atmosphere. When fuel evaporates from the fuel
+tank, vapors pass through vent hoses or tubes to a
+charcoal canister where they are temporarily held.
+When the engine is running, the vapors are drawn
+into the intake manifold. Certain models are also                   Fig. 11 FUEL FILL HOSE AT BODY
+equipped with a self-diagnosing system using either       1 - FILLER HOSE CLAMP
+a Leak Detection Pump (LDP), or an NVLD pump.             2 - BEZEL
+Refer to Emission Control System for additional           3 - FUEL FILLER CAP
+                                                          4 - BEZEL SCREWS
+information.                                              5 - FUEL FILLER HOSE
+  Refer to ORVR for On-Board Refueling Vapor              6 - FUEL TANK
+Recovery system information.
+                                                             (7) Remove the screws (4) retaining plastic fuel
+REMOVAL                                                   filler bezel to body (Fig. 11). Remove plastic fuel filler
+                                                          bezel (2).
+  (1) Release fuel system pressure. Refer to the
+                                                             (8) To prevent contaminants from entering tank,
+Standard Procedure — Fuel System Pressure
+                                                          temporarily install fuel cap to fill hoses.
+Release.
+                                                             (9) Remove right/rear tire/wheel.
+  (2) Drain fuel tank. (Refer to 14 - FUEL SYSTEM/
+                                                             (10) Remove wheelhouse liner at right/rear
+FUEL DELIVERY - STANDARD PROCEDURE) This
+                                                          wheel.
+vehicle is equipped with an ORVR (On-Board Refuel-
+ing Vapor Recovery) system. Because of this, the fuel
+tank may be drained the conventional way through
+the filler cap opening.
+  On this model, the fuel tank is mounted to the
+vehicle skid plate. The skid plate is mounted to vehi-
+cle body. The tank and skid plate are removed as one
+assembly.
+  (3) Remove fuel filler cap.
+  (4) Perform the Fuel System Pressure Release Pro-
+cedure as described elsewhere in this group. (Refer to
+14 - FUEL SYSTEM/FUEL DELIVERY - STAN-
+DARD PROCEDURE)
+  (5) Disconnect negative battery cable.
+  (6) Using an approved portable gasoline siphon/
+storage tank, drain fuel from tank through filler cap
+opening.
+

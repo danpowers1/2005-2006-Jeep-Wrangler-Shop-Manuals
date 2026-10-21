@@ -1,0 +1,55 @@
+TJ                                                                                          TRANSFER CASE - NV231                   21 - 173
+
+                                           TRANSFER CASE - NV231
+
+                                                            TABLE OF CONTENTS
+                                                                  page                                                                   page
+
+TRANSFER CASE - NV231                                                       FRONT OUTPUT SHAFT SEAL
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 173             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 174           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 202
+ DIAGNOSIS AND TESTING - TRANSFER                                           REAR OUTPUT SHAFT SEAL
+   CASE - NV231 . . . . . . . . . . . . . . . . . . . . . . . 174            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 204
+ DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 175            SHIFT LEVER
+ CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . 183          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 206
+ INSPECTION         . . . . . . . . . . . . . . . . . . . . . . . . . 183    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 207
+ ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 188          ADJUSTMENTS - SHIFT LINKAGE . . . . . . . . . 207
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 199           SPEEDOMETER DRIVE ADAPTER
+ SPECIFICATIONS                                                              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208
+   TRANSFER CASE - NV231 . . . . . . . . . . . . . 199                       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 209
+ SPECIAL TOOLS                                                              VEHICLE SPEED SENSOR
+   NV231 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 209
+FLUID                                                                        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+ STANDARD PROCEDURE - FLUID DRAIN AND                                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 210
+   FILL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 210
+
+TRANSFER CASE - NV231                                                       SHIFT MECHANISM
+                                                                              Operating ranges are selected with a floor mounted
+DESCRIPTION                                                                 shift lever. The shift lever is connected to the trans-
+  The NV231 is a part-time transfer case with a low                         fer case range lever by an adjustable linkage rod. A
+range reduction gear system. The NV231 has three                            straight line shift pattern is used. Range positions
+operating ranges plus a NEUTRAL position. A low                             are marked on the shifter bezel cover plate.
+range system provides a reduction ratio for increased
+low speed torque capability.                                                IDENTIFICATION
+  The geartrain is mounted in two aluminum case                               A circular ID tag is attached to the rear case of
+halves attached with bolts. The mainshaft front and                         each transfer case (Fig. 1). The ID tag provides the
+rear bearings are mounted in aluminum retainer                              transfer case model number, assembly number, serial
+housings bolted to the case halves.                                         number, and low range ratio.
+                                                                              The transfer case serial number also represents
+OPERATING RANGES                                                            the date of build.
+  Transfer case operating ranges are:
+  • 2WD (2-wheel drive)
+  • 4x4 (4-wheel drive)
+  • 4 Lo (4-wheel drive low range
+  The 2WD range is for use on any road surface at
+any time.
+  The 4x4 and 4 Lo ranges are for off road use only.
+They are not for use on hard surface roads. The only
+exception being when the road surface is wet or slip-
+pery or covered by ice and snow.
+  The low range reduction gear system is operative
+in 4 Lo range only. This range is for extra pulling
+power in off road situations. Low range reduction
+ratio is 2.72:1.
+

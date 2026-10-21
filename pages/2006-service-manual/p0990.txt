@@ -1,0 +1,66 @@
+9 - 30    ENGINE 2.4L                                                                                      TJ
+
+VALVE SPRINGS                                              • Valve Closed Nominal Tension - 75 lbs. @ 38.0
+                                                         mm (1.50 in.)
+                                                           • Valve Open Nominal Tension - 134 lbs. @ 29.75
+REMOVAL                                                  mm (1.17 in.)
+                                                           (2) Inspect each valve spring for squareness with a
+REMOVAL - CYLINDER HEAD ON                               steel square and surface plate, test springs from both
+  (1) Remove camshafts.                                  ends. If the spring is more than 1.5 mm (1/16 inch)
+  (2) Rotate crankshaft until piston is at TDC on        out of square, install a new spring.
+compression.
+  (3) With air hose attached to adapter tool installed
+                                                         INSTALLATION
+in spark plug hole, apply 90-120 psi air pressure.
+  (4) Using Special Tool MD-998772-A with adapter
+6779 (Fig. 28), compress valve springs and remove
+                                                         INSTALLATION - CYLINDER HEAD ON
+                                                           (1) Install valve seal/valve spring seat assembly
+valve locks.
+                                                         (Fig. 29). Push the assembly down to seat it onto the
+  (5) Remove valve spring(s).
+                                                         valve guide.
+  (6) Remove valve stem seal(s) by a using valve
+                                                           (2) Install valve spring and retainer, use Special
+stem seal tool (Fig. 30).
+                                                         Tool MD-998772-A with adapter 6779 to compress
+                                                         valve springs only enough to install locks. Correct
+                                                         alignment of tool is necessary to avoid nicking valve
+                                                         stems.
+                                                           (3) Remove air hose and install spark plugs.
+                                                           (4) Install camshafts and cylinder head cover.
+
+
+
+
+     Fig. 28 Valve Spring - Removal/Installation
+1 - VALVE SPRING COMPRESSOR MD 998772A
+2 - AIR HOSE
+
+REMOVAL - CYLINDER HEAD OFF
+  (1) With cylinder head removed from cylinder
+block, compress valve springs using a universal valve    Fig. 29 Valve Stem Seal/Valve Spring Seat - Typical
+spring compressor.                                       1 - 3-GROOVE -VALVE RETAINING LOCKS
+  (2) Remove valve retaining locks, valve spring         2 - VALVE SPRING
+retainers, valve stem seals and valve springs.           3 - VALVE SEAL AND VALVE SPRING SEAT ASSEMBLY
+                                                         4 - VALVE SPRING RETAINER
+  (3) Before removing valves, remove any burrs
+from valve stem lock grooves to prevent dam-
+                                                         INSTALLATION - CYLINDER HEAD OFF
+age to the valve guides. Identify valves, locks and
+                                                           (1) Coat valve stems with clean engine oil and
+retainers to insure installation in original location.
+                                                         insert in cylinder head.
+  (4) Inspect the valves. (Refer to 9 - ENGINE/CYL-
+                                                           (2) Install new valve stem seals on all valves
+INDER HEAD/VALVE SPRINGS - INSPECTION)
+                                                         using a valve stem seal tool (Fig. 30). The valve stem
+                                                         seals should be pushed firmly and squarely over
+INSPECTION                                               valve guide.
+   (1) Whenever valves have been removed for inspec-
+tion, reconditioning or replacement, valve springs       CAUTION: When oversize valves are used, the cor-
+should be tested for correct tension. Discard the        responding oversize valve seal must also be used.
+springs that do not meet specifications. The following   Excessive guide wear may result if oversize seals
+specifications apply to both intake and exhaust          are not used with oversize valves.
+valves springs:
+

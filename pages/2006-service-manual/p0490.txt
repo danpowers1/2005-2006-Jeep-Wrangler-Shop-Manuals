@@ -1,0 +1,88 @@
+8J - 22    INSTRUMENT CLUSTER                                                                                  TJ
+
+based upon cluster programming and electronic mes-         BRAKE / PARK BRAKE INDICA-
+sages received by the cluster from the Airbag Control
+Module (ACM) over the Programmable Communica-              TOR
+tions Interface (PCI) data bus. The airbag indicator
+Light Emitting Diode (LED) is completely controlled        DESCRIPTION
+by the instrument cluster logic circuit, and that logic
+will only allow this indicator to operate when the
+instrument cluster receives a battery current input
+on the fused ignition switch output (run-start) cir-                       Fig. 9 Brake Indicator
+cuit. Therefore, the LED will always be off when the          A brake indicator is standard equipment on all
+ignition switch is in any position except On or Start.     instrument clusters (Fig. 9). The brake indicator is
+The LED only illuminates when it is provided a path        located near the lower edge of the instrument cluster,
+to ground by the instrument cluster transistor. The        to the left of center. The brake indicator consists of a
+instrument cluster will turn on the airbag indicator       stencil-like cutout of the word “BRAKE” in the
+for the following reasons:                                 opaque layer of the instrument cluster overlay. The
+   • Bulb Test - Each time the ignition switch is          dark outer layer of the overlay prevents the indicator
+turned to the On position the airbag indicator is illu-    from being clearly visible when it is not illuminated.
+minated for about seven seconds. The first two sec-        A red Light Emitting Diode (LED) behind the cutout
+onds is the cluster bulb test function, and the            in the opaque layer of the overlay causes the
+remainder is the ACM bulb test function.                   “BRAKE” text to appear in red through the translu-
+   • ACM Lamp-On Message - Each time the clus-             cent outer layer of the overlay when the indicator is
+ter receives a lamp-on message from the ACM, the           illuminated from behind by the LED, which is sol-
+airbag indicator will be illuminated. The indicator        dered onto the instrument cluster electronic circuit
+remains illuminated for about twelve seconds or until      board. The brake indicator is serviced as a unit with
+the cluster receives a lamp-off message from the           the instrument cluster.
+ACM, whichever is longer.
+   • Communication Error - If the cluster receives         OPERATION
+no airbag messages for five consecutive seconds, the
+                                                              The brake indicator gives an indication to the vehi-
+airbag indicator is illuminated. The indicator
+                                                           cle operator when the parking brake is applied, or
+remains illuminated until the cluster receives a sin-
+                                                           when there are certain brake hydraulic system mal-
+gle lamp-off message from the ACM.
+                                                           functions. This indicator is controlled by a transistor
+   • Actuator Test - Each time the cluster is put
+                                                           on the instrument cluster circuit board based upon
+through the actuator test, the airbag indicator will be
+                                                           cluster programming, electronic messages received by
+turned on, then off again during the bulb check por-
+                                                           the cluster from the Powertrain Control Module
+tion of the test to confirm the functionality of the
+                                                           (PCM) over the Programmable Communications
+LED and the cluster control circuitry. The actuator
+                                                           Interface (PCI) data bus, and hard wired inputs to
+test illumination of the airbag indicator is a function
+                                                           the instrument cluster from the park brake switch
+of the ACM.
+                                                           and the brake warning indicator switch. The brake
+   The ACM continually monitors the airbag system
+                                                           indicator Light Emitting Diode (LED) is completely
+circuits and sensors to decide whether the system is
+                                                           controlled by the instrument cluster logic circuit, and
+in good operating condition. The ACM then sends the
+                                                           that logic will only allow this indicator to operate
+proper lamp-on or lamp-off messages to the instru-
+                                                           when the instrument cluster receives a battery cur-
+ment cluster. If the ACM sends a lamp-on message
+                                                           rent input on the fused ignition switch output (run-
+after the bulb test, it indicates that the ACM has
+                                                           start) circuit. Therefore, the LED will always be off
+detected a system malfunction and/or that the air-
+                                                           when the ignition switch is in any position except On
+bags may not deploy when required, or may deploy
+                                                           or Start. The cluster can illuminate the LED solid, or
+when not required. The ACM will store a Diagnostic
+                                                           flash it on and off at about one flash per second. The
+Trouble Code (DTC) for any malfunction it detects.
+                                                           LED only illuminates when it is provided a path to
+Each time the airbag indicator fails to illuminate due
+                                                           ground by the instrument cluster transistor. The
+to an open or short in the cluster airbag indicator cir-
+                                                           instrument cluster will turn on the brake indicator
+cuit, the cluster sends a message notifying the ACM
+                                                           for the following reasons:
+of the condition and stores a DTC. For proper diag-
+                                                              • Bulb Test - Each time the ignition switch is
+nosis of the airbag system, the ACM, the PCI data
+                                                           turned to the On position the brake indicator is illu-
+bus, or the electronic message inputs to the instru-
+                                                           minated by the instrument cluster for about four sec-
+ment cluster that control the airbag indicator, a
+                                                           onds as a bulb test.
+DRBIIIt scan tool is required. Refer to the appropri-
+ate diagnostic information.
+

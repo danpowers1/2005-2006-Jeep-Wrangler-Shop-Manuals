@@ -1,0 +1,31 @@
+3 - 70     FRONT AXLE - 216FBI                                                                              TJ
+
+
+
+
+                              Fig. 27 PATTERN INTERPRETATION (GEAR CUT 3 AXIS)
+DIFFERENTIAL BEARING PRELOAD CHECK                           Torque to rotate the differential and pinion should
+  The final check on the differential assembly before      be the torque to rotate the pinion plus 0.79-1.24 N·m
+installing the axles is torque to rotate pinion and dif-   (7-11 in. lbs.).
+ferential combined. This will verify the correct differ-
+ential bearing preload.
+
+SPECIFICATIONS - 216FBI
+
+                                            AXLE SPECIFICATIONS
+
+                      DESCRIPTION                                            SPECIFICATION
+                          Axle Ratio                                              4.11
+                    Ring Gear Backlash                               0.12-0.20 mm (0.005-0.008 in.)
+         Pinion Bearing Preload - Original Bearing                       1-2 N·m (10-20 in. lbs.)
+          Pinion Bearing Preload - New Bearing                         2.3-4.5 N·m (20-40 in. lbs.)
+
+
+                                          TORQUE SPECIFICATIONS
+
+          DESCRIPTION                         N·m                     Ft. Lbs.                  In. Lbs.
+              Fill Plug                        34                       25                            -
+             Drain Plug                        34                       25                            -
+     Differential Cover Bolts                  41                       30                            -
+         Bearing Cap Bolts                     108                      80                            -
+

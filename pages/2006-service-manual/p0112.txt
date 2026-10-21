@@ -1,0 +1,55 @@
+3 - 56       FRONT AXLE - 216FBI                                                                                                         TJ
+
+                                             FRONT AXLE - 216FBI
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                     page
+
+FRONT AXLE - 216FBI                                                       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 78
+ DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 56               COVER-DIFFERENTIAL
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 60        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 79
+ ADJUSTMENTS . . . . . . . . . . . . . . . . . . . . . . . . 61         DIFFERENTIAL-TRU-LOK
+ SPECIFICATIONS - 216FBI . . . . . . . . . . . . . . . . 70               DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 80
+ SPECIAL TOOLS       . . . . . . . . . . . . . . . . . . . . . . . 71     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+SHAFT-AXLE                                                                DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 80
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 74        DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . 83
+SEAL-AXLE SHAFT                                                           ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 85
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 76      DIFFERENTIAL-TRU-LOK PUMP
+UNIVERSAL JOINT-SINGLE CARDAN                                             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 87
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 77      GEAR-PINION/RING
+SEAL-PINION                                                               REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 90
+
+FRONT AXLE - 216FBI                                                     BEARING NOISE
+                                                                           The axle shaft, differential and pinion bearings can
+DIAGNOSIS AND TESTING                                                   all produce noise when worn or damaged. Bearing
+                                                                        noise can be either a whining, or a growling sound.
+GEAR NOISE                                                                 Pinion bearings have a constant-pitch noise. This
+   Axle gear noise can be caused by insufficient lubri-                 noise changes only with vehicle speed. Pinion bearing
+cant, incorrect backlash, tooth contact, worn/damaged                   noise will be higher pitched because it rotates at a
+gears or the carrier housing not having the proper                      faster rate. Drive the vehicle and load the differen-
+offset and squareness.                                                  tial. If bearing noise occurs, the rear pinion bearing
+   Gear noise usually happens at a specific speed                       is the source of the noise. If the bearing noise is
+range. The noise can also occur during a specific type                  heard during a coast, the front pinion bearing is the
+of driving condition. These conditions are accelera-                    source.
+tion, deceleration, coast, or constant load.                               Differential bearings usually produce a low pitch
+   When road testing, first warm-up the axle fluid by                   noise. Differential bearing noise is similar to pinion
+driving the vehicle at least 5 miles and then acceler-                  bearing noise. The pitch of differential bearing noise
+ate the vehicle to the speed range where the noise is                   is also constant and varies only with vehicle speed.
+the greatest. Shift out-of-gear and coast through the                      Axle shaft bearings produce noise and vibration
+peak-noise range. If the noise stops or changes                         when worn or damaged. The noise generally changes
+greatly:                                                                when the bearings are loaded. Road test the vehicle.
+   • Check for insufficient lubricant.                                  Turn the vehicle sharply to the left and to the right.
+   • Incorrect ring gear backlash.                                      This will load the bearings and change the noise
+   • Gear damage.                                                       level. Where axle bearing damage is slight, the noise
+   Differential side gears and pinions can be checked                   is usually not noticeable at speeds above 30 mph.
+by turning the vehicle. They usually do not cause
+noise during straight-ahead driving when the gears                      LOW SPEED KNOCK
+are unloaded. The side gears are loaded during vehi-                      Low speed knock is generally caused by a worn
+cle turns. A worn pinion mate shaft can also cause a                    U-joint or by worn side-gear thrust washers. A worn
+snapping or a knocking noise.                                           pinion shaft bore will also cause low speed knock.
+

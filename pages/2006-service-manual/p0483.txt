@@ -1,0 +1,61 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 15
+
+   (1) Disconnect and isolate the battery negative          (7) Check for continuity between the ground cir-
+cable. Remove the rear and front axle locker relays       cuit and the rear or front locker indicator switch
+from their receptacles in the Power Distribution Cen-     sense circuit cavities of the rear or front locker indi-
+ter (PDC). Remove the axle lock switch from the           cator switch pigtail harness connector. There should
+instrument panel. Disconnect the instrument panel         be continuity with the axle locker engaged, and no
+wire harness connector for the axle lock switch from      continuity with the axle locker disengaged. If OK, go
+the switch connector receptacle. Remove the instru-       to Step 8. If not OK, replace the faulty rear or front
+ment cluster from the instrument panel.                   locker indicator switch.
+   (2) Check for continuity between each of the rear        (8) Check for continuity between the rear or front
+and front axle lock request circuit cavities of the       locker indicator switch sense circuit cavity of the rear
+appropriate instrument panel wire harness connec-         or front axle jumper harness connector for the locker
+tors (Connector C1 for rear, Connector C2 for front)      indicator switch and a good ground. There should be
+for the instrument cluster and a good ground. There       no continuity. If OK, go to Step 9. If not OK, repair
+should be no continuity. If OK, go to Step 3. If not      the shorted rear or front locker indicator switch
+OK, repair the shorted rear or front axle lock request    sense circuit between the rear or front axle jumper
+circuit between the instrument cluster, the axle lock     harness connector for the locker indicator switch and
+switch, and the rear or front axle locker relay as        the instrument cluster as required.
+required.                                                   (9) Check for continuity between the rear or front
+   (3) Check for continuity between each of the rear      locker indicator switch sense circuit cavities of the
+and/or front axle lock request circuit cavities of the    rear or front axle jumper harness connector for the
+instrument panel wire harness connectors (Connector       locker indicator switch and the instrument cluster.
+C1 for rear, Connector C2 for front) for the instru-      There should be continuity. If OK, use a DRBIIIt
+ment cluster, the instrument panel wire harness con-      scan tool to perform additional testing of the instru-
+nector for the axle lock switch, and the rear or front    ment cluster. Refer to the appropriate diagnostic
+axle locker relay receptacle in the PDC. In each case,    information. If not OK, repair the open rear or front
+there should be continuity. If OK, go to Step 4. If not   locker indicator switch sense circuit between the rear
+OK, repair the open rear and/or front axle lock           or front axle jumper harness connector for the locker
+request circuit between the instrument cluster, the       indicator switch and the instrument cluster as
+axle lock switch, and the PDC as required.                required.
+   (4) Check for continuity between the axle lock
+switch enable 1 and/or enable 2 circuit cavity of the     REAR WINDOW DEFOGGER CONTROL DIAGNOSIS
+instrument panel wire harness connector (Connector          Before performing this test, complete the testing of
+C1 for enable 1, Connector C2 for enable 2) for the       the rear window defogger switch and the rear win-
+instrument cluster and a good ground. There should        dow defogger relay. Refer to the appropriate wiring
+be no continuity. If OK, go to Step 5. If not OK,         information. The wiring information includes wiring
+repair the shorted axle lock switch enable 1 or enable    diagrams, proper wire and connector repair proce-
+2 circuit between the instrument cluster and the axle     dures, details of wire harness routing and retention,
+lock switch as required.                                  connector pin-out information and location views for
+   (5) Check for continuity between the axle lock         the various wire harness connectors, splices and
+switch enable 1 and/or enable 2 circuit cavities of the   grounds.
+instrument panel wire harness connector (Connector
+C1 for enable 1, Connector C2 for enable 2) for the       WARNING: TO AVOID PERSONAL INJURY OR
+instrument cluster and the instrument panel wire          DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+harness connector for the axle lock switch. There         DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+should be continuity. If OK, go to Step 6. If not OK,     TEM BEFORE ATTEMPTING ANY STEERING
+repair the open axle lock switch enable 1 or enable 2     WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+circuit between the instrument cluster and the axle       MENT PANEL COMPONENT DIAGNOSIS OR SER-
+lock switch as required.                                  VICE. DISCONNECT AND ISOLATE THE BATTERY
+   (6) Disconnect the rear and/or front locker indica-    NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+tor switch pigtail harness connector from the rear or     MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+front axle jumper harness connector. Check for conti-     CHARGE BEFORE PERFORMING FURTHER DIAG-
+nuity between the ground circuit cavity of the rear or    NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+front axle jumper harness connector and a good            TO DISABLE THE SUPPLEMENTAL RESTRAINT
+ground. There should be continuity. If OK, go to Step     SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+7. If not OK, repair the open ground circuit between      CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+the rear or front axle jumper harness connector for       BAG DEPLOYMENT.
+the rear or front locker indicator switch and ground
+(G105) as required.
+

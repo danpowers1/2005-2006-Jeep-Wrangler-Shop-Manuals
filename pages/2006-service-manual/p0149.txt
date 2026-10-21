@@ -1,0 +1,77 @@
+TJ                                                                                                REAR AXLE - 194RBI                3 - 93
+
+                                              REAR AXLE - 194RBI
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                    page
+
+REAR AXLE - 194RBI                                                        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 114
+ DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 93               COVER-DIFFERENTIAL
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 97        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 116
+ ADJUSTMENTS . . . . . . . . . . . . . . . . . . . . . . . . 98         DIFFERENTIAL
+ SPECIFICATIONS - 194RBI . . . . . . . . . . . . . . . 106                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+ SPECIAL TOOLS . . . . . . . . . . . . . . . . . . . . . . . 107          DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 117
+SHAFT-AXLE                                                                ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 118
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 110       DIFFERENTIAL-TRAC-LOK
+SEAL-AXLE SHAFT                                                           DESCRIPTION     . . . . . . . . . . . . . . . . . . . . . . . . 119
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 110         DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . 119
+BEARING-AXLE                                                              DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 120
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111      ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 111       BEARING-DIFFERENTIAL CASE
+SEAL-PINION                                                               REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 124
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 112       GEAR-PINION/RING
+SPACER-COLLAPSIBLE                                                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 125
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 127
+
+REAR AXLE - 194RBI                                                      cle turns. A worn pinion shaft can also cause a snap-
+                                                                        ping or a knocking noise.
+DIAGNOSIS AND TESTING                                                   BEARING NOISE
+                                                                           The axle shaft, differential and pinion bearings can
+GEAR NOISE
+                                                                        all produce noise when worn or damaged. Bearing
+   Axle gear noise can be caused by insufficient lubri-
+                                                                        noise can be either a whining, or a growling sound.
+cant, incorrect backlash, incorrect pinion depth, tooth
+                                                                           Pinion bearings have a constant-pitch noise. This
+contact, worn/damaged gears, or the carrier housing
+                                                                        noise changes only with vehicle speed. Pinion bearing
+not having the proper offset and squareness.
+                                                                        noise will be higher pitched because it rotates at a
+   Gear noise usually happens at a specific speed
+                                                                        faster rate. Drive the vehicle and load the differen-
+range. The noise can also occur during a specific type
+                                                                        tial. If bearing noise occurs, the rear pinion bearing
+of driving condition. These conditions are accelera-
+                                                                        is the source of the noise. If the bearing noise is
+tion, deceleration, coast, or constant load.
+                                                                        heard during a coast, the front pinion bearing is the
+   When road testing, first warm-up the axle fluid by
+                                                                        source.
+driving the vehicle at least 5 miles and then acceler-
+                                                                           Differential bearings usually produce a low pitch
+ate the vehicle to the speed range where the noise is
+                                                                        noise. Differential bearing noise is similar to pinion
+the greatest. Shift out-of-gear and coast through the
+                                                                        bearing noise. The pitch of differential bearing noise
+peak-noise range. If the noise stops or changes
+                                                                        is also constant and varies only with vehicle speed.
+greatly:
+                                                                           Axle shaft bearings produce noise and vibration
+   • Check for insufficient lubricant.
+                                                                        when worn or damaged. The noise generally changes
+   • Incorrect ring gear backlash.
+                                                                        when the bearings are loaded. Road test the vehicle.
+   • Gear damage.
+                                                                        Turn the vehicle sharply to the left and to the right.
+   Differential side gears and pinions can be checked
+                                                                        This will load the bearings and change the noise
+by turning the vehicle. They usually do not cause
+                                                                        level. Where axle bearing damage is slight, the noise
+noise during straight-ahead driving when the gears
+                                                                        is usually not noticeable at speeds above 30 mph.
+are unloaded. The side gears are loaded during vehi-
+

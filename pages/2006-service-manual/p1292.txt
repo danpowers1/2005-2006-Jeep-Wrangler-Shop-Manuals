@@ -1,0 +1,59 @@
+21 - 102    AUTOMATIC TRANSMISSION - 42RLE                                                              TJ
+
+SPECIFICATIONS
+42RLE AUTOMATIC TRANSMISSION
+
+                                        GENERAL SPECIFICATIONS
+
+                                                     Four-Speed Automatic, Electronically Controlled, Fully
+                  Transmission Type
+                                                      Adaptive, Electronically Modulated Torque Converter
+                  Lubrication Method                          Pump (internal - external gear-type)
+                                                     Water Heat Exchanger and/or Air-to-Oil Heat Exchang-
+                   Cooling Method
+                                                                            er
+
+
+                                             GEAR RATIOS
+
+                        1st Gear                                            2.84:1
+                        2nd Gear                                            1.57:1
+                  3rd Gear (Direct)                                         1.00:1
+                 4th Gear (Overdrive)                                       0.69:1
+                    Reverse Gear                                            2.21:1
+
+
+                                   BEARING PRELOAD (DRAG TORQUE)
+
+            Description                          Metric                              Standard
+           Output Shaft                      0.22-0.903 N·m                          1-8 in. lbs.
+
+
+                                             CLUTCH PACK
+
+            Description                          Metric                              Standard
+ Low/Reverse Clutch (Select Reac-
+                                              0.84-1.60 mm                        0.033-0.063 in.
+           tion Plate)
+    Two/Four Clutch (No Select)               0.76-2.64 mm                        0.030-0.104 in.
+ Reverse Clutch (Select Snap Ring)            0.89-1.37 mm                        0.035-0.054 in.
+    Overdrive Clutch (No Select)              1.07-3.25 mm                        0.042-0.128 in.
+ Underdrive Clutch (Select Reaction
+                                              0.94-1.50 mm                        0.037-0.059 in.
+               Plate)
+
+
+                                             INPUT SHAFT
+
+            Description                          Metric                              Standard
+             End Play                        0.127-0.635 mm                       0.005-0.025 in.
+
+
+                                         OIL PUMP CLEARANCES
+
+           DESCRIPTION                          METRIC                               STANDARD
+      Outer Gear-to-Crescent                 0.060-0.298 mm                     0.0023-0.0117 in.
+      Inner Gear-to-Crescent                 0.093-0.385 mm                     0.0036-0.0151 in.
+       Outer Gear-to-Pocket                  0.089-0.202 mm                     0.0035-0.0079 in.
+    Outer Gear Side Clearance                0.020-0.046 mm                     0.0008-0.0018 in.
+

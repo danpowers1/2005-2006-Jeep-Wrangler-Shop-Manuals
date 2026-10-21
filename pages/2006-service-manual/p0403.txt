@@ -1,0 +1,69 @@
+TJ                                                                                 BATTERY SYSTEM          8F - 9
+
+place within each cell. The sulfuric acid in the elec-     tion, which includes the directions for using the
+trolyte combines with the plate materials, causing         Micro 420 battery tester.
+both plates to slowly change to lead sulfate. At the
+same time, oxygen from the positive plate material         WARNING: If the battery shows signs of freezing,
+combines with hydrogen from the sulfuric acid, caus-       leaking or loose posts, do not test, assist-boost, or
+ing the electrolyte to become mainly water. The            charge. The battery may arc internally and explode.
+chemical changes within the battery are caused by          Personal injury and/or vehicle damage may result.
+the movement of excess or free electrons between the
+positive and negative plate groups. This movement of
+                                                           WARNING: Explosive hydrogen gas forms in and
+electrons produces a flow of electrical current
+                                                           around the battery. Do not smoke, use flame, or cre-
+through the load device attached to the battery ter-
+                                                           ate sparks near the battery. Personal injury and/or
+minals.
+                                                           vehicle damage may result.
+  As the plate materials become more similar chem-
+ically, and the electrolyte becomes less acid, the volt-
+age potential of each cell is reduced. However, by         WARNING: The battery contains sulfuric acid, which
+charging the battery with a voltage higher than that       is poisonous and caustic. Avoid contact with the
+of the battery itself, the battery discharging process     skin, eyes, or clothing. In the event of contact, flush
+is reversed. Charging the battery gradually changes        with water and call a physician immediately. Keep
+the sulfated lead plates back into sponge lead and         out of the reach of children.
+lead dioxide, and the water back into sulfuric acid.
+This action restores the difference in the electron          A battery that will not accept a charge is faulty,
+charges deposited on the plates, and the voltage           and must be replaced. Further testing is not
+potential of the battery cells. For a battery to remain    required. A fully-charged battery must be load tested
+useful, it must be able to produce high-amperage cur-      to determine its cranking capacity. A battery that is
+rent over an extended period. A battery must also be       fully-charged, but does not pass the load test, is
+able to accept a charge, so that its voltage potential     faulty and must be replaced.
+may be restored.
+                                                           NOTE: Completely discharged batteries may take
+  The battery is vented to release excess hydrogen
+                                                           several hours to accept a charge. Refer to Standard
+gas that is created when the battery is being charged
+                                                           Procedures for the proper battery charging proce-
+or discharged. However, even with these vents,
+                                                           dures.
+hydrogen gas can collect in or around the battery. If
+hydrogen gas is exposed to flame or sparks, it may
+ignite. If the electrolyte level is low, the battery may
+arc internally and explode. If the battery is equipped     STANDARD PROCEDURE
+with removable cell caps, add distilled water when-
+ever the electrolyte level is below the top of the         STANDARD PROCEDURE - BATTERY CHARG-
+plates. If the battery cell caps cannot be removed, the
+                                                           ING
+battery must be replaced if the electrolyte level
+becomes low.                                                 Battery charging is the means by which the bat-
+                                                           tery can be restored to its full voltage potential. A
+DIAGNOSIS AND TESTING - BATTERY                            battery is fully-charged when:
+  The battery must be completely charged and the             • All of the battery cells are gassing freely during
+terminals should be properly cleaned and inspected         battery charging.
+before diagnostic procedures are performed. Refer to         • A green color is visible in the sight glass of the
+Battery System Cleaning for the proper cleaning pro-       battery built-in test indicator.
+cedures, and Battery System Inspection for the               • Three hydrometer tests, taken at one-hour inter-
+proper battery inspection procedures. Refer to Stan-       vals, indicate no increase in the temperature-cor-
+dard Procedures for the proper battery charging pro-       rected specific gravity of the battery electrolyte.
+cedures.                                                     • Open-circuit voltage of the battery is 12.4 volts
+                                                           or above.
+MICRO 420 BATTERY TESTER
+   The Micro 420 automotive battery tester is              WARNING: Never exceed twenty amperes when
+designed to help the dealership technicians diagnose       charging a cold (-1° c [30° f] or lower) battery. The
+the cause of a defective battery. Follow the instruc-      battery may arc internally and explode. Personal
+tion manual supplied with the tester to properly           injury and/or vehicle damage may result.
+diagnose a vehicle. If the instruction manual is not
+available refer to the standard procedure in this sec-
+

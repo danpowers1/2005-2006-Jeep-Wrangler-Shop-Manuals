@@ -1,0 +1,54 @@
+3-2      PROPELLER SHAFT                                                                                            TJ
+
+           Drive Condition                       Possible Cause                             Correction
+
+                                       4) Incorrect driveline angularity.      4) Measure and correct driveline
+                                                                               angles.
+                                       5) Rear spring center bolt not in       5) Loosen spring u-bolts and seat
+                                       seat.                                   center bolt.
+                                       6) Worn U-joint bearings.               6) Install new U-joint.
+                                       7) Propeller shaft damaged or out       7) Installl new propeller shaft.
+                                       of balance.
+                                       8) Broken rear spring.                  8) Install new rear spring.
+                                       9) Excessive runout or unbalanced       9) Re-index propeller shaft, test,
+                                       condition.                              and evaluate.
+                                       10) Excessive drive pinion gear         10) Re-index propeller shaft and
+                                       shaft runout.                           evaluate.
+                                       11) Excessive axle yoke deflection.     11) Inspect and replace yoke if
+                                                                               necessary.
+                                       12) Excessive transfer case             12) Inspect and repair as neces-
+                                       runout.                                 sary.
+
+Universal Joint Noise                  1) Loose U-joint clamp screws.          1) Install new clamps and screws
+                                                                               and tighten to proper torque.
+                                       2) Lack of lubrication.                 2) Replace U-joints as necessary.
+
+
+BALANCE
+NOTE: Removing and re-indexing the propeller
+shaft 180° relative to the yoke may eliminate some
+vibrations.
+
+   If propeller shaft is suspected of being unbalanced,
+it can be verified with the following procedure:
+   (1) Raise the vehicle.
+   (2) Clean all the foreign material from the propel-
+ler shaft and the universal joints.
+   (3) Inspect the propeller shaft for missing balance
+weights, broken welds, and bent areas. If the pro-
+peller shaft is bent, it must be replaced.
+   (4) Inspect the universal joints to ensure that they
+are not worn, are properly installed, and are cor-                  Fig. 1 CLAMP SCREW AT POSITION 1
+rectly aligned with the shaft.                               1 - CLAMP
+   (5) Check the universal joint clamp screws torque.        2 - SCREWDRIVER
+   (6) Remove the wheels and tires. Install the wheel
+lug nuts to retain the brake drums or rotors.                 (10) Start the engine and re-check for vibration. If
+   (7) Mark and number the shaft six inches from the        there is little or no change in vibration, move the
+yoke end at four positions 90° apart.                       clamp to one of the other three positions. Repeat the
+   (8) Run and accelerate the vehicle until vibration       vibration test.
+occurs. Note the intensity and speed the vibration            (11) If there is no difference in vibration at the
+occurred. Stop the engine.                                  other positions, the source of the vibration may not
+   (9) Install a screw clamp at position 1 (Fig. 1).        be propeller shaft.
+                                                              (12) If the vibration decreased, install a second
+                                                            clamp (Fig. 2) and repeat the test.
+

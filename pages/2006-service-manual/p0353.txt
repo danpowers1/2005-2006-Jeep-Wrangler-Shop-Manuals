@@ -1,0 +1,60 @@
+TJ                                                                                          ENGINE     7 - 41
+
+                                                         WARNING: The warning words - DO NOT OPEN
+                                                         HOT - on radiator pressure cap, are a safety precau-
+                                                         tion. when hot, pressure builds up in cooling sys-
+                                                         tem. To prevent scalding or injury, radiator cap
+                                                         should not be removed while system is hot and/or
+                                                         under pressure.
+
+                                                           Do not remove radiator cap at any time except for
+                                                         the following purposes:
+                                                           (1) Check and adjust antifreeze freeze point.
+                                                           (2) Refill system with new antifreeze.
+                                                           (3) Conducting service procedures.
+                                                           (4) Checking for vacuum leaks.
+
+                                                         WARNING: If vehicle has been run recently, wait at
+                                                         least 15 minutes before removing radiator cap. With
+                                                         a rag, squeeze radiator upper hose to check if sys-
+                                                         tem is under pressure. Place a rag over cap and
+                                                         without pushing cap down, rotate it counter-clock-
+                                                         wise to first stop. Allow fluid to escape through the
+                                                         coolant reserve/overflow hose into reserve/overflow
+                                                         tank. Squeeze radiator upper hose to determine
+                                                         when pressure has been released. When coolant
+                                                         and steam stop being pushed into tank and system
+                                                         pressure drops, remove radiator cap completely.
+
+
+                                                         DIAGNOSIS AND TESTING - RADIATOR CAP
+      Fig. 34 Radiator Pressure Cap - Typical              Remove cap from radiator. Be sure that sealing
+1 - FILLER NECK SEAL                                     surfaces are clean. Moisten rubber gasket with water
+2 - VACUUM VENT VALVE                                    and install cap on pressure tester 7700 or an equiv-
+3 - PRESSURE RATING
+4 - PRESSURE VALVE                                       alent (Fig. 35).
+
+OPERATION
+  A vent valve in the center of the cap will remain
+shut as long as the cooling system is pressurized. As
+the coolant cools, it contracts and creates a vacuum
+in cooling system. This causes the vacuum valve to
+open and coolant in reserve/overflow tank to be
+drawn through connecting hose into radiator. If the
+vacuum valve is stuck shut, or overflow hose is
+kinked, radiator hoses will collapse on cool-down.
+
+
+DIAGNOSIS AND TESTING
+DIAGNOSIS AND TESTING - RADIATOR CAP -
+TO - FILLER NECK SEAL
+   The pressure cap upper gasket (seal) pressure
+relief can be tested by removing overflow hose from
+radiator filler neck nipple. Attach hose of pressure
+tester tool 7700 (or equivalent) to nipple. It will be
+necessary to disconnect hose from its adapter for
+filler neck. Pump air into radiator. The pressure cap        Fig. 35 Pressure Testing Radiator Pressure
+upper gasket should relieve at 69-124 kPa (10-18 psi)                       Cap—Typical
+and hold pressure at a minimum of 55 kPa (8 psi).        1 - PRESSURE CAP
+                                                         2 - TYPICAL COOLING SYSTEM PRESSURE TESTER
+

@@ -1,0 +1,60 @@
+TJ                                                                                    ENGINE 4.0L       9 - 89
+
+CYLINDER HEAD                                            approximately a 50-70% reduction in compression
+                                                         pressure.
+DESCRIPTION                                              CYLINDER - TO - WATER JACKET LEAKAGE TEST
+  The cylinder head is made of cast iron containing
+twelve valves made of chrome plated heat resistant       WARNING: USE EXTREME CAUTION WHEN THE
+steel, valve stem seals, springs, retainers and keep-    ENGINE IS OPERATING. DO NOT STAND IN A
+ers. The cylinder head and valve seats can be resur-     DIRECT LINE WITH THE FAN. DO NOT PUT YOUR
+faced for service purposes.                              HANDS NEAR THE PULLEYS, BELTS OR THE FAN.
+  The valve guides are integral to the cylinder head,    DO NOT WEAR LOOSE CLOTHING.
+They are not replaceable. However, they are service-
+able.                                                      Remove the radiator cap.
+  The cylinder head uses dual quench-type design           Start the engine and allow it to warm up until the
+combustion chambers which cause turbulence in the        engine thermostat opens.
+cylinders allowing faster burning of the air/fuel mix-     If a large combustion/compression pressure leak
+ture, resulting in better fuel economy (Fig. 11).        exists, bubbles will be visible in the coolant.
+                                                           If bubbles are not visible, install a radiator pres-
+                                                         sure tester and pressurize the coolant system.
+                                                           If a cylinder is leaking combustion pressure into
+                                                         the water jacket, the tester pointer will pulsate with
+                                                         every combustion stroke of the cylinder.
+
+                                                         REMOVAL
+                                                         NOTE: This procedure can be done with the engine
+                                                         in or out of the vehicle.
+
+                                                           (1) Disconnect the battery negative cable.
+
+                                                         WARNING: DO NOT REMOVE THE CYLINDER
+                                                         BLOCK DRAIN PLUGS OR LOOSEN THE RADIATOR
+                                                         DRAIN COCK WITH THE SYSTEM HOT AND PRES-
+         Fig. 11 Cylinder Head 4.0L Engine               SURIZED BECAUSE SERIOUS BURNS FROM THE
+                                                         COOLANT CAN OCCUR.
+1 - CYLINDER HEAD BOLTS
+2 - CYLINDER HEAD GASKET
+3 - CYLINDER HEAD                                          (2) Drain the coolant (Refer to 7 - COOLING -
+                                                         STANDARD PROCEDURE) and disconnect the hoses
+DIAGNOSIS AND TESTING - ENGINE CYLINDER                  at the engine thermostat housing and the water
+HEAD GASKET FAILURE                                      pump inlet. DO NOT waste reusable coolant. If the
+  A leaking engine cylinder head gasket usually          solution is clean and is being drained only to service
+results in loss of power, loss of coolant and engine     the engine or cooling system, drain the coolant into a
+misfiring.                                               clean container for reuse.
+  An engine cylinder head gasket leak can be located       (3) Remove the air cleaner assembly.
+between adjacent cylinders or between a cylinder and       (4) Remove the cylinder head cover (Refer to 9 -
+the adjacent water jacket.                               ENGINE/CYLINDER          HEAD/CYLINDER         HEAD
+  • An engine cylinder head gasket leaking between       COVER(S) - REMOVAL).
+adjacent cylinders is indicated by a loss of power         (5) Remove the capscrews, bridge and pivot assem-
+and/or engine misfire.                                   blies and rocker arms (Refer to 9 - ENGINE/CYLIN-
+  • An engine cylinder head gasket leaking between       DER HEAD/ROCKER ARM / ADJUSTER ASSY -
+a cylinder and an adjacent water jacket is indicated     REMOVAL).
+by coolant foaming or overheating and loss of coolant.     (6) Remove the push rods. Retain the push rods,
+                                                         bridges, pivots and rocker arms in the same
+CYLINDER - TO - CYLINDER LEAKAGE TEST                    order as removed.
+  To determine if an engine cylinder head gasket is        (7) Remove the accessory drive belt (Refer to 7 -
+leaking between adjacent cylinders; follow the proce-    COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+dures outlined. An engine cylinder head gasket leak-     REMOVAL).
+ing between adjacent cylinders will result in              (8) Remove the A/C compressor mounting bolts
+                                                         and secure the compressor to the side.
+

@@ -1,0 +1,60 @@
+TJ                                                                                    RESTRAINTS        8O - 9
+
+      DESCRIPTION                      N·m                      Ft. Lbs.                    In. Lbs.
+ Passenger Airbag Mount-               12                          -                           105
+        ing Nuts
+  Passenger Airbag Door                12                          -                           105
+ Bracket Mounting Screws
+  Passenger Airbag Door                 2                          -                           20
+ Upper and Lower Flange
+    Mounting Screws
+ Passenger Airbag On/Off                2                          -                           20
+ Switch Mounting Screws
+ Rear Seat Belt Retractor              43                          32                           -
+    Mounting Screw
+  Rear Seat Belt Turning               43                          32                           -
+  Loop Mounting Screw
+ Rear Seat Belt Lower An-              43                          32                           -
+   chor Mounting Screw
+  Rear Seat Belt Buckle                43                          32                           -
+ Anchor Bracket Mounting
+         Screw
+  Front Seat Belt Turning              43                          32                           -
+  Loop Adjuster Mounting
+          Screws
+
+
+AIRBAG CONTROL MODULE                                   a hollow in the center of the die cast aluminum ACM
+                                                        housing is the electronic circuitry of the ACM which
+                                                        includes a microprocessor, an electronic impact sen-
+DESCRIPTION
+                                                        sor, an electromechanical safing sensor, and an
+                                                        energy storage capacitor. A stamped metal cover
+                                                        plate is secured to the bottom of the ACM housing
+                                                        with four screws to enclose and protect the internal
+                                                        electronic circuitry and components.
+                                                          The ACM housing has an integral mounting flange
+                                                        on each side. Each mounting flange has an integral
+                                                        locating pin on its lower surface and two round
+                                                        mounting holes. An arrow cast into the top of the
+                                                        ACM housing near the rear provides a visual verifi-
+                                                        cation of the proper orientation of the unit, and
+                                                        should always be pointed toward the front of the
+                                                        vehicle. A molded plastic electrical connector recepta-
+                                                        cle containing twenty-three terminal pins exits the
+                                                        forward facing side of the ACM housing. These ter-
+                                                        minal pins connect the ACM to the vehicle electrical
+        Fig. 6 AIRBAG CONTROL MODULE                    system through a dedicated take out and connector of
+1 - SCREW (4)                                           the body wire harness.
+2 - AIRBAG CONTROL MODULE                                 The impact sensor and safing sensor internal to
+3 - WIRE HARNESS CONNECTOR
+4 - MOUNTING BRACKET                                    the ACM are calibrated for the specific vehicle, and
+5 - FRONT FLOOR PANEL                                   are only serviced as a unit with the ACM. The ACM
+                                                        cannot be repaired or adjusted and, if damaged or
+  The Airbag Control Module (ACM) is secured with       faulty, it must be replaced.
+four screws to the top mounting surface of a stamped
+steel bracket welded onto the top of the floor panel
+transmission tunnel below the instrument panel and
+forward of the center floor console in the passenger
+compartment of the vehicle (Fig. 6). Concealed within
+

@@ -1,0 +1,59 @@
+14 - 6    FUEL DELIVERY                                                                                       TJ
+
+Fuel Gauge Sending Unit (Fuel level sensor)
+  The fuel gauge sending unit (fuel level sensor) is
+attached to the side of the fuel pump module. The
+sending unit consists of a float, an arm, and a vari-
+able resistor track (card).
+
+REMOVAL
+WARNING: The fuel system is under a constant
+pressure (even with the engine off). Before servic-
+ing the fuel pump module, the fuel system pressure
+must be released.
+
+
+
+
+                                                                   Fig. 3 FUEL PUMP MODULE LOCKRING
+                                                            1 - 1/2” BREAKER BAR
+                                                            2 - TOP OF FUEL TANK (TYPICAL)
+                                                            3 - SPECIAL TOOL #9340
+                                                            4 - FUEL PUMP MODULE (TYPICAL)
+                                                            5 - MODULE LOCK RING
+
+                                                              (1) Using a new seal (gasket), position fuel pump
+                                                            module into opening in fuel tank.
+                                                              (2) Position lockring (5) (Fig. 3) over top of fuel
+                                                            pump module.
+                                                              (3) Rotate module until embossed alignment arrow
+                                                            points to center alignment mark. This step must be
+                                                            performed to prevent float from contacting side of
+      Fig. 2 FUEL TANK MODULE LOCK RING                     fuel tank. Also be sure fuel fitting on top of pump
+1 - 1/2” BREAKER BAR                                        module is pointed to front of vehicle.
+2 - TOP OF FUEL TANK (TYPICAL)                                (4) Install Lockring Remover/Installer 9340 (3) to
+3 - SPECIAL TOOL #9340
+4 - FUEL PUMP MODULE (TYPICAL)                              lockring.
+5 - MODULE LOCK RING                                          (5) Install 1/2 inch drive breaker (1) into Lockring
+                                                            Remover/Installer 9340 (3).
+   (1) Drain and remove fuel tank. (Refer to 14 -             (6) Tighten lockring (clockwise) until all seven
+FUEL SYSTEM/FUEL DELIVERY/FUEL TANK -                       notches have engaged.
+REMOVAL)                                                      (7) Install fuel tank. (Refer to 14 - FUEL SYS-
+   (2) Note rotational position of module before            TEM/FUEL DELIVERY/FUEL TANK - INSTALLA-
+attempting removal. An indexing arrow is located on         TION)
+top of module for this purpose.
+   (3) Position Lockring Remover/Installer 9340 (3)
+(Fig. 2) into notches on outside edge of lockring (5).      FUEL RAIL / FUEL DAMPER
+   (4) Install 1/2 inch drive breaker bar (1) (Fig. 2) to
+Lockring Remover/Installer 9340 (3).
+   (5) Rotate breaker bar counter-clockwise to remove       DESCRIPTION
+lockring.
+   (6) Remove lockring. The module will spring up           2.4L
+slightly when lockring is removed.                            The fuel injector rail is used to mount the fuel
+   (7) Remove module from fuel tank. Be careful not         injectors to the engine (Fig. 4). On the 2.4L 4-cylin-
+to bend float arm while removing.                           der engine, a fuel damper is located near the front
+                                                            of the fuel rail (Fig. 4).
+INSTALLATION
+CAUTION: Whenever the fuel pump module is ser-
+viced, the rubber seal (gasket) must be replaced.
+

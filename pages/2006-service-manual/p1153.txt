@@ -1,0 +1,75 @@
+TJ                                                                               FUEL INJECTION        14 - 35
+
+  (2) Remove MAP sensor mounting bolt (screw)           O2 HEATER RELAY
+(Fig. 20).
+  (3) While removing MAP sensor, slide the rubber
+                                                        DESCRIPTION
+L-shaped fitting (Fig. 20) from throttle body.
+                                                          The oxygen (O2) sensor heater relay is located in
+  (4) Remove rubber L-shaped fitting from MAP sen-
+                                                        the Powertrain Distribution Center (PDC).
+sor.
+                                                        OPERATION
+                                                          Refer to Oxygen Sensor for oxygen sensor relay
+                                                        information.
+
+                                                        REMOVAL
+                                                           The oxygen sensor heater relay is located in the
+                                                        Power Distribution Center (PDC). Refer to label on
+                                                        PDC cover for relay location.
+                                                           (1) Remove PDC cover.
+                                                           (2) Remove relay from PDC.
+                                                           (3) Check condition of relay terminals and PDC
+                                                        connector terminals for damage or corrosion. Repair
+                                                        if necessary before installing relay.
+                                                           (4) Check for pin height (pin height should be the
+                                                        same for all terminals within the PDC connector).
+                                                        Repair if necessary before installing relay.
+
+                                                        INSTALLATION
+                                                          The oxygen sensor heater relay is located in the
+                                                        Power Distribution Center (PDC). Refer to label on
+                                                        PDC cover for relay location.
+   Fig. 20 4.0L MAP SENSOR MOUNTING - LATE                (1) Install relay to PDC.
+1 - MAP SENSOR                                            (2) Install cover to PDC.
+2 - RUBBER FITTING
+3 - THROTTLE BODY
+4 - MOUNTING SCREW (1)                                  O2 SENSOR
+INSTALLATION
+                                                        DESCRIPTION
+                                                          The Oxygen Sensors (O2S) are attached to, and
+2.4L                                                    protrude into the vehicle exhaust system. Depending
+  (1) Clean MAP sensor mounting hole at intake
+                                                        on the engine or emission package, the vehicle may
+manifold.
+                                                        use a total of either 2 or 4 sensors.
+  (2) Check MAP sensor o-ring seal for cuts or tears.
+  (3) Position sensor into manifold.
+  (4) Install MAP sensor mounting screws. Tighten
+                                                        OPERATION
+                                                          An O2 sensor is a galvanic battery that provides
+screw to 3 N·m (25 in. lbs.) torque.
+                                                        the PCM with a voltage signal (0-1 volt) inversely
+  (5) Connect electrical connector.
+                                                        proportional to the amount of oxygen in the exhaust.
+                                                        In other words, if the oxygen content is low, the volt-
+4.0L                                                    age output is high; if the oxygen content is high the
+  (1) Install rubber L-shaped fitting to MAP sensor.
+                                                        output voltage is low. The PCM uses this information
+  (2) Position sensor to throttle body while guiding
+                                                        to adjust injector pulse-width to achieve the
+rubber fitting over throttle body vacuum nipple.
+                                                        14.7–to–1 air/fuel ratio necessary for proper engine
+  (3) Install MAP sensor mounting bolt(s) (screws).
+                                                        operation and to control emissions.
+Tighten screw(s) to 3 N·m (25 in. lbs.) torque.
+                                                          The O2 sensor must have a source of oxygen from
+  (4) Install air cleaner intake tube.
+                                                        outside of the exhaust stream for comparison. Cur-
+  (5) Connect electrical connector.
+                                                        rent O2 sensors receive their fresh oxygen (outside
+                                                        air) supply through the O2 sensor case housing.
+                                                          Four wires (circuits) are used on each O2 sensor: a
+                                                        12–volt feed circuit for the sensor heating element; a
+                                                        ground circuit for the heater element; a low-noise
+

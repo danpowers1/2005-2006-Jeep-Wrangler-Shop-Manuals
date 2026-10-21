@@ -1,0 +1,61 @@
+8R - 6    FRONT WIPERS/WASHERS                                                                                TJ
+
+   (4) Reconnect the battery negative cable. Turn the     WASHER SYSTEM
+ignition switch to the On position. Check for battery        The diagnosis found here addresses an electrically
+voltage at the fused ignition switch output (run-acc)     inoperative front washer system. If the front washer
+circuit cavity of the body wire harness connector for     pump/motor operates, but no washer fluid is emitted
+the right multi-function switch. If OK, go to Step 5.     from the washer nozzle, be certain to check the fluid
+If not OK, repair the open fused ignition switch out-     level in the reservoir. Also clean and inspect the front
+put (run-acc) circuit between the right multi-function    washer system components as required. (Refer to 8 -
+switch and the fuse block as required.                    ELECTRICAL/FRONT              WIPERS/WASHERS           -
+   (5) Turn the ignition switch to the Off position.      CLEANING) and (Refer to 8 - ELECTRICAL/FRONT
+Disconnect and isolate the battery negative cable.        WIPERS/WASHERS - INSPECTION). Refer to the
+Remove the right multi-function switch from the           appropriate wiring information. The wiring informa-
+steering column and check the switch continuity.          tion includes wiring diagrams, proper wire and con-
+(Refer to 8 - ELECTRICAL/FRONT WIPERS/WASH-               nector repair procedures, details of wire harness
+ERS/RIGHT MULTI-FUNCTION SWITCH - DIAG-                   routing and retention, connector pin-out information
+NOSIS AND TESTING). If OK, go to Step 6. If not           and location views for the various wire harness con-
+OK, replace the faulty switch.                            nectors, splices and grounds.
+   (6) Disconnect the body wire harness connector for
+the front wiper motor from the wiper motor pigtail        WARNING: TO AVOID PERSONAL INJURY OR
+wire connector. Check for continuity between the          DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+ground circuit cavity in the body wire harness con-       DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+nector for the front wiper motor and a good ground.       TEM BEFORE ATTEMPTING ANY STEERING
+There should be continuity. If OK, go to Step 7. If not   WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+OK, repair the open ground circuit to ground (G300)       MENT PANEL COMPONENT DIAGNOSIS OR SER-
+as required.                                              VICE. DISCONNECT AND ISOLATE THE BATTERY
+   (7) Reconnect the battery negative cable. Turn the     NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+ignition switch to the On position. Check for battery     MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+voltage at the fused ignition switch output (run-acc)     CHARGE BEFORE PERFORMING FURTHER DIAG-
+circuit cavity of the body wire harness connector for     NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+the front wiper motor. If OK, go to Step 8. If not OK,    TO DISABLE THE SUPPLEMENTAL RESTRAINT
+repair the open fused ignition switch output (run-acc)    SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+circuit between the front wiper motor and the fuse        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+block as required.                                        BAG DEPLOYMENT.
+   (8) Turn the ignition switch to the Off position.
+Disconnect and isolate the battery negative cable.          (1) Turn the ignition switch to the On position.
+The body wire harness connector for the right multi-      Move the right multi-function switch control stalk to
+function switch is still disconnected. Check each of      the Low or High continuous wipe position. Check
+the following circuits at the proper cavity of the body   whether the front wiper system operates. If OK, go to
+wire harness connector for the front wiper motor for      Step 2. If not OK, repair the front wiper system as
+continuity to ground. In each case, there should be       required before you proceed with front washer sys-
+no continuity. If OK, go to Step 9. If not OK, repair     tem diagnosis. Refer to WIPER SYSTEM.
+the shorted circuit between the front wiper motor           (2) Turn the ignition switch to the Off position.
+and the right multi-function switch as required.          Disconnect and isolate the battery negative cable.
+   • Wiper park switch sense                              Disconnect the headlamp and dash wire harness con-
+   • Wiper switch low speed output                        nector for the front washer pump/motor from the
+   • Wiper switch high speed output                       washer pump/motor connector receptacle. Check for
+   (9) Check the continuity of each of the following      continuity between the ground circuit cavity of the
+circuits between the proper cavities of the body wire     headlamp and dash wire harness connector for the
+harness connectors for the front wiper motor and the      front washer pump/motor and a good ground. There
+right multi-function switch. In each case, there          should be continuity. If OK, go to Step 3. If not OK,
+should be continuity. If OK, replace the faulty front     repair the open ground circuit to ground (G102) as
+wiper module. If not OK, repair the open circuit          required.
+between the front wiper motor and the right multi-          (3) Reconnect the battery negative cable. Turn the
+function switch as required.                              ignition switch to the On position. While pulling the
+   • Wiper park switch sense                              right multi-function switch control stalk toward the
+   • Wiper switch low speed output                        steering wheel to close the washer switch, check for
+   • Wiper switch high speed output                       battery voltage at the washer pump control switch
+                                                          output circuit cavity of the headlamp and dash wire
+                                                          harness connector for the front washer pump/motor.
+

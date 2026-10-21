@@ -1,0 +1,66 @@
+TJ                                                                                      ENGINE 2.4L       9 - 55
+
+  (2) Spray a small stream of water (Spray Bottle) at       (4) Install and tighten intake manifold fasteners to
+the suspected leak area.                                  28 N·m (250 in. lbs.) in the sequence shown (Fig. 92).
+  (3) If engine RPM’S change, the area of the sus-        Repeat procedure until all bolts are at specified
+pected leak has been found.                               torque.
+  (4) Repair as required.
+
+REMOVAL
+  (1) Disconnect negative cable from battery.
+  (2) Disconnect connector from inlet air tempera-
+ture sensor.
+  (3) Disconnect air intake tube at throttle body and
+remove upper air cleaner housing.
+  (4) Disconnect connector from throttle position
+sensor (TPS).
+  (5) Disconnect connector from idle air control (IAC)
+motor.
+  (6) Disconnect connector from MAP sensor.
+  (7) Remove vacuum lines for purge solenoid and
+PCV valve at intake manifold.
+  (8) Remove vacuum lines for power brake booster,
+LDP, EGR transducer, and speed control vacuum res-
+ervoir (if equipped) at intake manifold fittings.
+  (9) Disconnect throttle, speed control (if equipped),
+and transaxle control (if equipped) and cables from
+throttle lever and bracket. (Refer to 14 - FUEL SYS-
+TEM/FUEL INJECTION/THROTTLE CONTROL
+CABLE - REMOVAL)                                            Fig. 92 LOWER INTAKE MANIFOLD TIGHTENING
+  (10) Perform fuel system pressure release proce-                          SEQUENCE
+dure before attempting any repairs. (Refer to 14 -          (5) Install throttle cables in bracket.
+FUEL SYSTEM/FUEL DELIVERY - STANDARD                        (6) Connect throttle, speed control, (if equipped),
+PROCEDURE)                                                cables to throttle lever.
+  (11) Disconnect fuel line. (Refer to 14 - FUEL SYS-       (7) Connect vacuum lines for power brake booster,
+TEM/FUEL DELIVERY/QUICK CONNECT FIT-                      LDP, EGR transducer, and speed control vacuum res-
+TING - STANDARD PROCEDURE)                                ervoir (if equipped) at upper intake manifold fittings.
+  (12) Disconnect coolant temperature sensor/fuel           (8) Connect vacuum lines for purge solenoid and
+injector wire harness connector.                          PCV valve.
+  (13) Disconnect fuel injector harness.                    (9) Connect electrical connectors for MAP sensor,
+  (14) Remove intake manifold to cylinder head fas-       throttle position sensor (TPS), and idle air control
+teners.                                                   (IAC) motor.
+  (15) Remove the manifold from engine.                     (10) Connect the fuel line. (Refer to 14 - FUEL
+                                                          SYSTEM/FUEL DELIVERY/QUICK CONNECT FIT-
+CAUTION: Cover intake manifold openings to pre-
+                                                          TING - STANDARD PROCEDURE)
+vent foreign material from entering engine.
+                                                            (11) Connect coolant temperature sensor/fuel injec-
+ (16) Inspect the manifold. (Refer to 9 - ENGINE/         tor wiring harness electrical connector.
+MANIFOLDS/INTAKE MANIFOLD - INSPECTION)                     (12) Install the air cleaner housing and air intake
+                                                          tube to throttle body.
+INSPECTION                                                  (13) Connect inlet air temperature sensor connec-
+  (1) Check manifold surfaces for flatness with           tor.
+straight edge. Surface must be flat within 0.15 mm          (14) Connect negative cable to battery.
+per 300 mm (0.006 in. per foot) of manifold length.
+  (2) Inspect manifold for cracks or distortion.
+Replace manifold if necessary.
+                                                          EXHAUST MANIFOLD
+
+INSTALLATION                                              DESCRIPTION
+                                                            The exhaust manifold is made of Hi-Silicone Moly
+  (1) Clean manifold sealing surfaces.
+                                                          nodular cast iron for strength and high tempera-
+  (2) Install new manifold to cylinder head seals.
+                                                          tures. The manifold attaches to the cylinder head.
+  (3) Install manifold to head.
+

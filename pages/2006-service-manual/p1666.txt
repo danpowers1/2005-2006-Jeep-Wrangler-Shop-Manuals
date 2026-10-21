@@ -1,0 +1,55 @@
+24 - 30    CONTROLS                                                                                        TJ
+
+  (3) Remove the A/C-heater control from the instru-     actuator, which moves the mode door lever and
+ment panel (Refer to 24 - HEATING & AIR CONDI-           mode-air door in one direction. When vacuum is sup-
+TIONING/CONTROLS/A/C HEATER CONTROL -                    plied by the A/C-heater control to the other side of
+REMOVAL).                                                the actuator, the rod moves the mode-air door in the
+  (4) Remove the screw that secures the blower           other direction.
+motor switch to the rear of the A/C-heater control         The mode door actuators can be accessed for ser-
+(Fig. 29).                                               vice from under the left side of the instrument panel.
+  (5) Remove the blower motor switch from the A/C-         The mode door actuators cannot be adjusted or
+heater control.                                          repaired and, if faulty or damaged, they must be
+                                                         replaced.
+
+
+
+
+            Fig. 29 Blower Motor Switch
+1 - A/C-HEATER CONTROL                                     Fig. 30 Vacuum Operated Mode Door Actuator -
+2 - SCREW
+3 - BLOWER MOTOR SWITCH                                                      Typical
+4 - VACUUM HARNESS                                       1 - MODE DOOR ACTUATOR
+5 - MODE CONTROL SWITCH                                  2 - MOUNTING PROVISION
+                                                         3 - VACUUM LINE CONNECTORS
+INSTALLATION
+  (1) Position the blower motor switch onto the rear     REMOVAL
+of the A/C-heater control.
+  (2) Install the screw that secures the blower motor    WARNING: On vehicles equipped with airbags, dis-
+switch to the A/C-heater control. Tighten the screw to   able the airbag system before attempting any steer-
+2 N·m (17 in. lbs.).                                     ing wheel, steering column, or instrument panel
+  (3) Install the A/C-heater control (Refer to 24 -      component diagnosis or service. Disconnect and
+HEATING & AIR CONDITIONING/CONTROLS/A/C                  isolate the battery negative (ground) cable, then
+HEATER CONTROL - INSTALLATION).                          wait two minutes for the airbag system capacitor to
+  (4) Install the blower motor switch knob onto the      discharge before performing further diagnosis or
+switch stem on the front of the A/C-heater control.      service. This is the only sure way to disable the air-
+  (5) Reconnect the negative battery cable.              bag system. Failure to take the proper precautions
+                                                         could result in accidental airbag deployment and
+                                                         possible personal injury or death.
+MODE DOOR ACTUATORS
+                                                         FLOOR / DEFROST DOOR ACTUATOR
+DESCRIPTION
+                                                           (1) Disconnect and isolate the negative battery
+  Both the heating-only system and the heating-A/C
+                                                         cable.
+system use two vacuum operated mode door actua-
+                                                           (2) Remove the knee blocker from the instrument
+tors to control the movement of the mode-air doors
+                                                         panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+within the HVAC housing (Fig. 30).
+                                                         KNEE BLOCKER - REMOVAL).
+  When vacuum is supplied by the A/C-heater control
+                                                           (3) Disconnect the vacuum harness from the floor/
+to one side of the defrost/floor actuator or the panel
+                                                         defrost door actuator (Fig. 31).
+door actuator, the actuator rod is pulled into the
+

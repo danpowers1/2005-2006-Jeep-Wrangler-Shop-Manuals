@@ -1,0 +1,58 @@
+TJ                                                                LAMPS/LIGHTING - EXTERIOR         8L - 27
+
+when it is extended from the multi-function switch. If   (Fig. 25) and (Fig. 26) for connector terminal and
+only momentary signaling is desired, the switch is       cavity identification.
+actuated to a left or right intermediate detent posi-
+tion. In this position the signal lamps flash as
+described above, but the switch returns to the Off
+position as soon as the lever is released. When the
+system is activated, one of two turn indicators in the
+instrument cluster flashes in unison with the turn
+signal lamps, indicating to the driver that the system
+is operating.
+
+DIAGNOSIS AND TESTING - LEFT MULTI -
+FUNCTION SWITCH
+  Refer to the appropriate wiring information.
+
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+ATTEMPTING ANY STEERING WHEEL, STEERING
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+                                                         Fig. 25 Combination Flasher Receptacle (Connector
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+                                                                                 A)
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+INJURY.
+
+  (1) Disconnect and isolate the battery negative
+cable.
+  (2) Remove the left multi-function switch from the
+steering column (Refer to 8 - ELECTRICAL/LAMPS/
+LIGHTING - EXTERIOR/LEFT MULTI-FUNCTION
+SWITCH - REMOVAL).
+  (3) Remove the combination flasher from the left
+multi-function switch.
+  (4) Using an ohmmeter, perform the continuity             Fig. 26 Left Multi-Function Switch Connector
+and resistance tests at the terminals in the left                     Receptacle (Connector B)
+multi-function switch connector receptacles as shown
+in the Left Multi-Function Switch Test table. Refer to
+
+                             LEFT (LIGHTING) MULTI-FUNCTION SWITCH TEST
+                           TURN SIGNAL AND HAZARD WARNING SWITCH TESTS
+                SWITCH POSITION                  CONTINUITY BE-
+        TURN                  HAZARD                TWEEN
+       Neutral                    Off                               B1 & B4, B1 & B5
+         Left                     Off                          A2 & B2, A2 & B4, B1 & B5
+        Right                     Off                               A2 & B5, B1 & B4
+       Neutral                    On              A2 & B2, A2 & B4, A2 & B5, A2 & B6, A3 & B7, A3 & A5
+                                        EXTERIOR LIGHTING SWITCH TESTS
+                SWITCH POSITION                                   CONTINUITY BETWEEN
+

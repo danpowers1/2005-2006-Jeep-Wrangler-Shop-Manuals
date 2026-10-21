@@ -1,0 +1,61 @@
+21 - 210     TRANSFER CASE - NV231                                                                           TJ
+
+OPERATION
+  The VSS is a 3-circuit (3–wire), magnetic, hall-ef-
+fect sensor.
+  The 3 circuits are:
+  • A 5-volt power supply from the Powertrain Con-
+trol Module (PCM).
+  • A ground is provided for the sensor though a
+low-noise sensor return circuit in the PCM.
+  • An input to the PCM is used to determine vehi-
+cle speed and distance traveled.
+  The speed sensor generates 8 pulses per sensor
+revolution. These signals, in conjunction with a
+closed throttle signal from the throttle position sen-
+sor, indicate a closed throttle deceleration to the
+PCM. When the vehicle is stopped at idle, a closed
+throttle signal is received by the PCM (but a speed
+sensor signal is not received).
+  Under deceleration conditions, the PCM adjusts
+the Idle Air Control (IAC) motor to maintain a
+desired MAP value. Under idle conditions, the PCM
+adjusts the IAC motor to maintain a desired engine                 Fig. 101 VSS Removal/Installation
+speed.                                                    1 - ELECTRICAL CONNECTOR
+                                                          2 - SENSOR MOUNTING BOLT
+                                                          3 - O-RING
+REMOVAL                                                   4 - SPEEDOMETER PINION GEAR
+  The Vehicle Speed Sensor (VSS) is located on the        5 - SPEEDOMETER PINION GEAR ADAPTER
+speedometer pinion gear adapter. If equipped with         6 - O-RING
+                                                          7 - VEHICLE SPEED SENSOR
+4WD, this adapter is located on the transfer case
+extension (left side) (Fig. 100). If equipped with 2WD,     (1) Raise and support vehicle.
+this adapter is located on the extension housing of         (2) Disconnect electrical connector from sensor by
+the transmission (left side).                             pushing slide tab (Fig. 100). After slide tab has been
+                                                          positioned, push in on secondary release lock (Fig.
+                                                          100) on side of connector and pull connector from
+                                                          sensor.
+                                                            (3) Remove sensor mounting bolt (Fig. 101).
+                                                            (4) Remove sensor (pull straight out) from speed-
+                                                          ometer pinion gear adapter (Fig. 101). Do not remove
+                                                          gear adapter from transmission.
+
+                                                          INSTALLATION
+                                                             (1) Clean inside of speedometer pinion gear
+                                                          adapter before installing speed sensor.
+                                                             (2) Install sensor into speedometer gear adapter
+                                                          and install mounting bolt. Before tightening bolt, ver-
+                                                          ify speed sensor is fully seated (mounted flush) to
+                                                          speedometer pinion gear adapter.
+                                                             (3) Tighten sensor mounting bolt to 2.2 N·m (20 in.
+                                                          lbs.) torque.
+                                                             (4) Connect electrical connector to sensor.
+
+
+               Fig. 100 VSS Location
+1 - SENSOR ELECTRICAL CONNECTOR
+2 - SLIDE TAB
+3 - 4WD TRANSFER CASE EXTENSION
+4 - VEHICLE SPEED SENSOR
+5 - RELEASE LOCK
+

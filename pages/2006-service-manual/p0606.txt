@@ -1,0 +1,64 @@
+8Q - 4    VEHICLE THEFT SECURITY                                                                            TJ
+
+NOTE: If a Powertrain Control Module (PCM) is            blank key(s) to match the ignition switch lock cylin-
+replaced on a vehicle equipped with the Sentry Key       der mechanical key codes.
+Immobilizer System (SKIS), the unique Secret Key           (2) Insert one of the two valid Sentry Keys into the
+data must be transferred from the Sentry Key             ignition switch and turn the ignition switch to the
+Immobilizer Module (SKIM) to the new PCM using           On position.
+the PCM replacement procedure. This procedure              (3) After the ignition switch has been in the On
+also requires the use of a DRBIIIT scan tool and the     position for longer than three seconds, but no more
+unique four-digit PIN code to enter the Secured          than fifteen seconds, cycle the ignition switch back to
+Access Mode in the SKIM. Refer to the appropriate        the Off position. Replace the first valid Sentry Key in
+diagnostic information for the proper PCM replace-       the ignition switch lock cylinder with the second
+ment procedures.                                         valid Sentry Key and turn the ignition switch back to
+                                                         the On position. The second valid Sentry Key must
+                                                         be inserted in the lock cylinder within fifteen seconds
+STANDARD PROCEDURE - SENTRY KEY TRAN-                    of removing the first valid key.
+SPONDER PROGRAMMING                                        (4) About ten seconds after the completion of Step
+   All Sentry Keys included with the vehicle are pre-    3, the SKIS indicator in the instrument cluster will
+programmed to work with the Sentry Key Immobi-           start to flash and a single audible chime will sound
+lizer System (SKIS) when it is shipped from the          to indicate that the system has entered the Customer
+factory. The Sentry Key Immobilizer Module (SKIM)        Learn programming mode.
+can be programmed to recognize up to a total of eight      (5) Within sixty seconds of entering the Customer
+Sentry Keys. When programming a blank Sentry Key         Learn programming mode, turn the ignition switch to
+transponder, the key must first be cut to match the      the Off position, replace the valid Sentry Key with a
+ignition switch lock cylinder in the vehicle for which   blank Sentry Key transponder, and turn the ignition
+it will be used. Once the additional or new key has      switch back to the On position.
+been cut, the SKIM must be programmed to recog-            (6) About ten seconds after the completion of Step
+nize it as a valid key. There are two possible methods   5, a single audible chime will sound and the SKIS
+to program the SKIM to recognize a new or addi-          indicator will stop flashing, stay on solid for three
+tional valid key, the Secured Access Method and the      seconds, then turn off to indicate that the blank Sen-
+Customer Learn Method. Following are the details of      try Key has been successfully programmed. The
+these two programming methods.                           SKIS will immediately exit the Customer Learn pro-
+                                                         gramming mode and the vehicle may now be started
+SECURED ACCESS METHOD                                    using the newly programmed valid Sentry Key.
+  The Secured Access method applies to all vehicles.       Each of these steps must be repeated and com-
+This method requires the use of a DRBIIIt scan tool.     pleted in their entirety for each additional Sentry
+This method will also require that you have access to    Key that is to be programmed. If the above steps are
+the unique four-digit PIN code that was assigned to      not completed in the given sequence, or within the
+the original SKIM. The PIN code must be used to          allotted time, the SKIS will exit the Customer Learn
+enter the Secured Access Mode in the SKIM. This          programming mode and the programming will be
+PIN number may be obtained from the vehicle owner,       unsuccessful. The SKIS will also automatically exit
+from the original vehicle invoice, or from the           the Customer Learn programming mode if it sees a
+DaimlerChrysler Customer Center. (Refer to 8 -           non-blank Sentry Key transponder when it should
+ELECTRICAL/ELECTRONIC CONTROL MODULES                    see a blank, if it has already programmed eight (8)
+- STANDARD PROCEDURE - PCM/SKIM PRO-                     valid Sentry Keys, or if the ignition switch is turned
+GRAMMING).                                               to the Off position for more than about fifty seconds.
+
+CUSTOMER LEARN METHOD                                    NOTE: If an attempt is made to start the vehicle
+  The Customer Learn feature is only available on        while in the Customer Learn mode (SKIS indicator
+domestic vehicles, or those vehicles which have a        flashing), the SKIS will respond as though the vehi-
+U.S. country code designator. This programming           cle were being started with an invalid key. In other
+method also requires access to at least two valid Sen-   words, the engine will stall after about two seconds
+try Keys. If two valid Sentry Keys are not available,    of operation. No faults will be set.
+or if the vehicle does not have a U.S. country code
+designator, the Secured Access Method must be used
+                                                         NOTE: Once a Sentry Key has been programmed as
+to program new or additional valid keys to the SKIM.
+                                                         a valid key to a vehicle, it cannot be programmed
+The Customer Learn programming method proce-
+                                                         as a valid key for use on any other vehicle.
+dures are as follows:
+  (1) Obtain the blank Sentry Key(s) that are to be
+programmed as valid keys for the vehicle. Cut the
+

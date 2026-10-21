@@ -1,0 +1,63 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 151
+
+(TCC) solenoid on the valve body. The torque con-
+verter clutch is controlled by the Powertrain Control
+Module (PCM). The torque converter clutch engages
+in fourth gear, and in third gear under various con-
+ditions, such as when the O/D switch is OFF, when
+the vehicle is cruising on a level surface after the
+vehicle has warmed up. The torque converter clutch
+will disengage momentarily when an increase in
+engine load is sensed by the PCM, such as when the
+vehicle begins to go uphill or the throttle pressure is
+increased.
+
+REMOVAL
+  (1) Remove transmission and torque converter
+from vehicle. (Refer to 21 - TRANSMISSION/AUTO-
+MATIC - 45RFE/545RFE - REMOVAL)
+  (2) Place a suitable drain pan under the converter
+housing end of the transmission.
+
+CAUTION: Verify that transmission is secure on the           Fig. 251 Checking Torque Converter Seating -
+lifting device or work surface, the center of gravity                           Typical
+of the transmission will shift when the torque con-       1 - SCALE
+verter is removed creating an unstable condition.         2 - STRAIGHTEDGE
+The torque converter is a heavy unit. Use caution
+                                                             (1) Lubricate oil pump seal lip with transmission
+when separating the torque converter from the
+                                                          fluid.
+transmission.
+                                                             (2) Place torque converter in position on transmis-
+  (3) Pull the torque converter forward until the cen-    sion.
+ter hub clears the oil pump seal.
+                                                          CAUTION: Do not damage oil pump seal or bushing
+  (4) Separate the torque converter from the trans-
+                                                          while inserting torque converter into the front of the
+mission.
+                                                          transmission.
+INSTALLATION                                                 (3) Align torque converter to oil pump seal open-
+                                                          ing.
+NOTE: Check converter hub and drive notches for              (4) Insert torque converter hub into oil pump.
+sharp edges, burrs, scratches, or nicks. Polish the          (5) While pushing torque converter inward, rotate
+hub and notches with 320/400 grit paper or crocus         converter until converter is fully seated in the oil
+cloth if necessary. The hub must be smooth to             pump gears.
+avoid damaging the pump seal at installation.                (6) Check converter seating with a scale (1) and
+                                                          straightedge (2) (Fig. 251). Surface of converter lugs
+                                                          should be 1/2 in. to rear of straightedge when con-
+                                                          verter is fully seated.
+                                                             (7) If necessary, temporarily secure converter with
+                                                          C-clamp attached to the converter housing.
+                                                             (8) Install the transmission in the vehicle.
+                                                             (9) Fill the transmission with the recommended
+                                                          fluid.
+
+
+                                                          TRANSMISSION CONTROL
+                                                          RELAY
+                                                          DESCRIPTION
+                                                            The relay is supplied fused B+ voltage, energized
+                                                          by the TCM, and is used to supply power to the sole-
+                                                          noid pack when the transmission is in normal oper-
+                                                          ating mode.
+

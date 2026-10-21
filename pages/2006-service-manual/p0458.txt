@@ -1,0 +1,54 @@
+8I - 10    IGNITION CONTROL                                                                           TJ
+
+  (3) Disconnect CMP electrical jumper harness (3)
+at engine wiring harness (Fig. 13).
+  (4) Before proceeding to next step, mark and note
+rotational position of oil pump drive housing (5) (Fig.
+13) in relationship to engine block. After installation,
+the CMP sensor should face the 4 o’clock position as
+viewed from right side of engine.
+  (5) Remove hold-down bolt (4) and clamp (Fig. 13).
+  (6) Pull assembly from engine.
+  (7) Remove and discard old oil pump drive-to-en-
+gine block gasket.
+
+
+INSTALLATION
+2.4L
+   The Camshaft Position Sensor (CMP) on the 2.4L
+4–cylinder engine is bolted to the right-front side of
+the cylinder head. Sensor position (depth) is
+adjustable.                                                 Fig. 15 UPPER TIMING BELT COVER/BOLTS-2.4L
+   (1) Remove plastic, upper timing belt cover (timing     1 - UPPER TIMING BELT COVER
+                                                           2 - ELECTRICAL CONNECTOR (ECT)
+gear cover) (Fig. 15) by removing 3 bolts. Before          3 - MOUNTING BOLTS (3)
+attempting to remove cover, remove electrical connec-
+tor from Engine Coolant Temperature (ECT) sensor
+(Fig. 15). This will prevent damage to sensor.
+   (2) Rotate (bump over) engine until camshaft tim-
+ing gear and target wheel (tonewheel) are positioned
+and aligned to face of sensor as shown in (Fig. 16). If
+not positioned as shown in (Fig. 16), damage to
+both sensor and target wheel will occur when
+attempting to start engine. Face of sensor
+MUST be behind target wheel while adjusting.
+   (3) Position sensor to cylinder head and install 2
+sensor mounting bolts finger tight.
+   (4) SENSOR AIR GAP:.030” Set air gap between
+rear of target wheel and face of sensor to.030”. This
+can best be accomplished using an L-shaped, wire-
+type spark plug gapping gauge (Fig. 17). A piece
+of.030” brass shim stock may also be used.
+   (5) Gently push sensor forward until it contacts
+gapping gauge. Do not push hard on sensor.
+Tighten 2 sensor mounting bolts. Refer to torque
+specifications.
+                                                              Fig. 16 CMP FACE AT TARGET WHEEL-2.4L
+CAUTION: After tightening sensor mounting bolts,           1 - CAMSHAFT DRIVE GEAR
+recheck air gap and adjust as necessary. Retorque          2 - TARGETWHEEL (TONEWHEEL)
+bolts.                                                     3 - FACE OF CMP SENSOR
+                                                           4 - CUTOUT (NOTCH)
+  (6) Install upper timing belt cover and 3 bolts.
+  (7) Connect electrical connector to ECT sensor.
+  (8) Connect electrical connector to CMP sensor.
+

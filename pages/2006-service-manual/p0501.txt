@@ -1,0 +1,60 @@
+TJ                                                                        INSTRUMENT CLUSTER            8J - 33
+
+problem does not recur, the PCM will send a lamp-off    the VFD prevents it from being clearly visible when
+message automatically. Other DTC’s may require          it is not illuminated. However, the odometer, and trip
+that a fault be repaired and the PCM be reset before    odometer information are not displayed simulta-
+a lamp-off message will be sent. For more informa-      neously. The trip odometer reset switch on the
+tion on the PCM and the DTC set and reset param-        instrument cluster circuit board toggles the display
+eters, (Refer to 25 - EMISSIONS CONTROL -               between odometer and trip odometer modes by
+OPERATION).                                             depressing the odometer/trip odometer switch button
+   • Communication Error - If the cluster receives      that extends through the lower edge of the cluster
+no lamp-on or lamp-off message from the PCM for         lens, just right of the odometer VFD.
+twenty seconds, the MIL is illuminated by the instru-      The odometer and trip odometer information is
+ment cluster and a “no BuS” message will appear in      stored in the instrument cluster memory. This infor-
+the odometer/trip odometer Vacuum Fluorescent Dis-      mation can be increased when the proper inputs are
+play (VFD) unit to indicate a loss of bus communica-    provided to the instrument cluster, but the informa-
+tion. The indicator remains controlled and              tion cannot be decreased. The odometer can display
+illuminated by the cluster until a valid lamp-on or     values up to 999,999 kilometers (999,999 miles). The
+lamp-off message is received from the PCM.              odometer latches at these values, and will not roll
+   • Actuator Test - Each time the cluster is put       over to zero. The trip odometer can display values up
+through the actuator test, the MIL will be turned on,   to 9,999.9 kilometers (9,999.9 miles) before it rolls
+then off again during the bulb check portion of the     over to zero. The odometer display does not have a
+test to confirm the functionality of the LED and the    decimal point and will not show values less than a
+cluster control circuitry.                              full unit (kilometer or mile), while the trip odometer
+   The PCM continually monitors the fuel and emis-      display does have a decimal point and will show
+sions system circuits and sensors to decide whether     tenths of a unit (kilometer or mile). The unit of mea-
+the system is in good operating condition. The PCM      sure (kilometers or miles) for the odometer and trip
+then sends the proper lamp-on or lamp-off messages      odometer display is not shown in the VFD. The unit
+to the instrument cluster. For further diagnosis of     of measure for the instrument cluster odometer/trip
+the MIL or the instrument cluster circuitry that con-   odometer is selected at the time that it is manufac-
+trols the LED, (Refer to 8 - ELECTRICAL/INSTRU-         tured, and cannot be changed. If the instrument clus-
+MENT CLUSTER - DIAGNOSIS AND TESTING). If               ter has a speedometer with a primary scale in
+the instrument cluster turns on the MIL after the       kilometers-per-hour, the letters “KM” are printed on
+bulb test, it may indicate that a malfunction has       the cluster mask next to the VFD window to indicate
+occurred and that the fuel and emissions system may     the odometer unit of measure.
+require service. For proper diagnosis of the fuel and      The odometer has a “Rental Car” mode, which will
+emissions systems, the PCM, the PCI data bus, or        illuminate the odometer information in the VFD
+the electronic message inputs to the instrument clus-   whenever the driver side front door is opened with
+ter that control the MIL, a DRBIIIt scan tool is        the ignition switch in the Off or Accessory positions.
+required. Refer to the appropriate diagnostic infor-    During daylight hours (exterior lamps are Off) the
+mation.                                                 VFD is illuminated at full brightness for clear visibil-
+                                                        ity. At night (exterior lamps are On) the VFD lighting
+                                                        level is adjusted with the other cluster illumination
+ODOMETER                                                lamps using the panel lamps dimmer control ring on
+                                                        the control stalk of the left multi-function switch.
+DESCRIPTION                                             However, a “Parade” mode position of the panel
+                                                        lamps dimmer control ring allows the VFD to be illu-
+                                                        minated at full brightness if the exterior lamps are
+                                                        turned On during daylight hours.
+                                                           The VFD, the trip odometer switch, and the trip
+             Fig. 19 Odometer Display                   odometer switch button are serviced as a unit with
+  An odometer and trip odometer are standard            the instrument cluster. The rubber trip odometer
+equipment in all instrument clusters (Fig. 19). The     reset knob boot that seals the hole in the cluster lens
+odometer and trip odometer information are dis-         through which the reset knob protrudes is available
+played in a common electronic, blue-green Vacuum        for individual service replacement.
+Fluorescent Display (VFD). The VFD is soldered onto
+the cluster electronic circuit board and is visible     OPERATION
+through a window with a smoked clear lens located         The odometer and trip odometer give an indication
+near the lower edge of the cluster overlay between      to the vehicle operator of the distance the vehicle has
+the tachometer and speedometer. The dark lens over
+

@@ -1,0 +1,40 @@
+TJ                                                      EMISSIONS CONTROL   25 - 9
+
+  MISFIRE
+  • Same Misfire Warm-Up State — Indicates if
+the misfire occurred when the engine was warmed up
+(above 160° F).
+  • In Similar Misfire Window — An indicator
+that ’Absolute MAP When Misfire Occurred’ and
+’RPM When Misfire Occurred’ are all in the same
+range when the failure occurred. Indicated by switch-
+ing from ’NO’ to ’YES’.
+  • Absolute MAP When Misfire Occurred —
+The stored MAP reading at the time of failure.
+Informs the user at what engine load the failure
+occurred.
+  • Absolute MAP — A live reading of engine load
+to aid the user in accessing the Similar Conditions
+Window.
+  • RPM When Misfire Occurred — The stored
+RPM reading at the time of failure. Informs the user
+at what engine RPM the failure occurred.
+   • Engine RPM — A live reading of engine RPM
+to aid the user in accessing the Similar Conditions
+Window.
+   • Adaptive Memory Factor — The PCM utilizes
+both Short Term Compensation and Long Term Adap-
+tive to calculate the Adaptive Memory Factor for
+total fuel correction.
+  • 200 Rev Counter — Counts 0–100 720 degree
+cycles.
+  • SCW Cat 200 Rev Counter — Counts when in
+similar conditions.
+  • SCW FTP 1000 Rev Counter — Counts 0–4
+when in similar conditions.
+  • Misfire Good Trip Counter — Counts up to
+three to turn OFF the MIL.
+  • Misfire Data— Data collected during test.
+  • Test Done This Trip— Indicates YES when the
+test is done.
+

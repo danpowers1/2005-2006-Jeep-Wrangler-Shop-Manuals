@@ -1,0 +1,57 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE               21 - 51
+
+ Gear Selector Posi-           Actual Gear                           PRESSURE TAPS
+        tion                                    Under-   Over-      Re-   Torque Torque         2/4      Low/
+                                                 drive   drive     verse   Con-   Con-        Clutch      Re-
+                                                Clutch   Clutch    Clutch verter verter                 verse
+                                                                          Clutch Clutch                 Clutch
+                                                                            Off    On
+OD - 50 mph #            OVERDRIVE WITH        0-2       75-95     0-2       0-5      60-95    75-95    0-2
+                         TCC
+* Engine Speed at 1500 rpm
+# CAUTION: Both wheels must be turning at same speed.
+
+
+DIAGNOSIS AND TESTING - CLUTCH AIR                       2 / 4 CLUTCH
+PRESSURE TESTS                                             Apply air pressure to the feed hole located on the
+                                                         2/4 clutch retainer (2). Look in the area where the
+                                                         2/4 piston contacts the first separator plate and
+                                                         watch carefully for the 2/4 piston to move rearward.
+                                                         The piston should return to its original position after
+                                                         the air pressure is removed.
+
+                                                         OVERDRIVE CLUTCH
+                                                           Apply air pressure to the overdrive clutch apply
+                                                         passage and watch for the push/pull piston to move
+                                                         forward. The piston should return to its starting
+                                                         position when the air pressure is removed.
+
+                                                         REVERSE CLUTCH
+                                                           Apply air pressure to the reverse clutch apply pas-
+                                                         sage and watch for the push/pull piston to move rear-
+                                                         ward. The piston should return to its starting
+           Fig. 9 Air Pressure Test Plate                position when the air pressure is removed.
+1 - AIR PRESSURE TEST PLATES
+2 - 2/4 CLUTCH RETAINER HOLE                             LOW / REVERSE CLUTCH
+                                                           Apply air pressure to the low/reverse clutch feed
+  Inoperative clutches can be located by substituting    hole passage. Look in the area where the low/reverse
+air pressure for fluid pressure. The clutches may be     piston contacts the first separator plate. Watch care-
+tested by applying air pressure to their respective      fully for the piston to move forward. The piston
+passages after the valve body has been removed. Use      should return to its original position after the air
+Special Tool 6599-1 (1) and 6599-2 (1) to perform test   pressure is removed.
+(Fig. 9).
+  To make air pressure tests, proceed as follows:
+
+NOTE: The compressed air supply must be free of
+all dirt and moisture. Use a pressure of 30 psi.
+
+   (1) Remove oil pan and valve body. (Refer to 21 -
+TRANSMISSION/AUTOMATIC             -   42RLE/VALVE
+BODY - REMOVAL)
+   (2) Apply air pressure to the holes in the special
+tool (1), one at a time.
+   (3) Listen for the clutch to apply. It will give a
+slight thud sound. If a large amount of air is heard
+escaping, the transmission must be removed from
+vehicle, disassembled and all seals inspected.
+

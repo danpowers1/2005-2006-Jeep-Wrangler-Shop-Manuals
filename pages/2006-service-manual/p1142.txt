@@ -1,0 +1,47 @@
+14 - 24    FUEL INJECTION                                                                              TJ
+
+FUEL INJECTION                                            Module in Electronic Control Modules for informa-
+                                                          tion.
+DESCRIPTION
+  The Powertrain Control Module (PCM) operates
+the fuel injection system. Refer to Powertrain Control
+
+SPECIFICATIONS
+TORQUE
+      DESCRIPTION                       N-m                      Ft. Lbs.                 In. Lbs.
+ Accelerator Pedal Bracket                                          -
+                                         8.5                                                 75
+      Mounting Nuts
+ Engine Coolant Tempera-                 11                         -                        96
+  ture Sensor - 2.4L/4.0L
+  IAC Motor-To-Throttle                   7                         -
+                                                                                             60
+  Body Bolts - 2.4L/4.0L
+ Intake Manifold Air Temp.               28                        20                         -
+       Sensor - 4.0L
+  MAP Sensor Mounting                     3                         -                        25
+   Screws - 2.4L/4.0L
+  Oxygen Sensor - 2.4L/                  30                        22                         -
+          4.0L
+  PCM Mounting Screws                     4                         -                        35
+  Throttle Body Mounting                 11                         -                       100
+     Bolts - 2.4L/4.0L
+ Throttle Position Sensor                 7                         -                        60
+ Mounting Screws - 2.4L/
+           4.0L
+  Vehicle Speed Sensor                   2.2                        -                        20
+      Mounting Bolt
+
+
+ACCELERATOR PEDAL
+REMOVAL
+  The accelerator pedal is connected to the throttle
+body linkage by the throttle cable. The cable is pro-
+tected by a plastic sheathing and is connected to the
+throttle body linkage by a ball socket. It is connected
+to the upper part of the accelerator pedal arm by a
+plastic retainer (clip) (Fig. 1). This retainer (clip)
+snaps into the top of the accelerator pedal arm.
+Retainer tabs (built into the cable sheathing) (Fig. 1)
+fasten the cable to the dash panel.
+

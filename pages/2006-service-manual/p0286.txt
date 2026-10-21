@@ -1,0 +1,68 @@
+5 - 34    BRAKES - BASE                                                                                      TJ
+
+PARKING BRAKE                                              lever. The switch, which is in circuit with the red
+                                                           warning light in the dash, will illuminate the warn-
+                                                           ing light whenever the parking brakes are applied.
+DESCRIPTION
+                                                             Parking brake adjustment is controlled by a cable
+  The parking bake is a hand lever and cable oper-
+                                                           tensioner mechanism. The cable tensioner, once
+ated system used to apply the rear brakes.
+                                                           adjusted at the factory, should not need further
+                                                           adjustment under normal circumstances. Adjustment
+OPERATION                                                  may be required if a new tensioner, or cables are
+  A hand operated lever in the passenger compart-
+                                                           installed, or disconnected.
+ment is the main application device. The front cable
+is connected between the hand lever and the ten-
+                                                           DIAGNOSIS AND TESTING - PARKING BRAKE
+sioner. The tensioner rod is attached to the equalizer
+which is the connecting point for the rear cables (Fig.    NOTE: Parking brake adjustment is controlled by a
+60).                                                       cable tensioner. Once the tensioner is adjusted at
+                                                           the factory, it should not require further attention.
+                                                           However, there are two instances when adjustment
+                                                           will be required. The first is when a new tensioner,
+                                                           or cables have been installed. And the second, is
+                                                           when the tensioner and cables are disconnected for
+                                                           access to other brake components.
+
+                                                             The parking brake switch is in circuit with the red
+                                                           warning lamp in the dash. The switch will cause the
+                                                           lamp to illuminate only when the parking brakes are
+                                                           applied. If the lamp remains on after parking brake
+                                                           release, the switch or wires are faulty, or cable ten-
+                                                           sioner adjustment is incorrect.
+                                                             In most cases, the actual cause of an improperly
+                                                           functioning parking brake (too loose/too tight/won’t
+         Fig. 60 Parking Brake Components                  hold), can be traced to a parking brake component.
+                                                             The leading cause of improper parking brake oper-
+1 - FRONT CABLE
+2 - L.R. CABLE                                             ation, is excessive clearance between the parking
+3 - R.R. CABLE                                             brake shoes and the shoe braking surface. Excessive
+4 - EQUALIZER                                              clearance is a result of lining and/or drum wear,
+5 - TENSIONER ROD
+                                                           drum surface machined oversize, or inoperative
+  The rear cables are connected to the actuating           adjuster components.
+lever on each secondary brake shoe. The levers are           Excessive parking brake lever travel (sometimes
+attached to the brake shoes by a pin either pressed        described as a loose lever or too loose condition), is
+into, or welded to the lever. A clip is used to secure     the result of worn brake shoes, improper brake shoe
+the pin in the brake shoe. The pin allows each lever       adjustment, or improperly assembled brake parts.
+to pivot independently of the brake shoe.                    A condition where the parking brakes do not hold,
+  To apply the parking brakes, the hand lever is           will most probably be due to a wheel brake compo-
+pulled upward. This pulls the rear brake shoe actu-        nent.
+ating levers forward, by means tensioner and cables.         Items to look for when diagnosing a parking brake
+As the actuating lever is pulled forward, the parking      problem, are:
+brake strut (which is connected to both shoes), exerts       • Rear brake shoe wear.
+a linear force against the primary brake shoe. This          • Drum surface machined oversize.
+action presses the primary shoe into contact with the        • Front cable not secured to lever.
+drum. Once the primary shoe contacts the drum,               • Rear cable not attached to lever.
+force is exerted through the strut. This force is trans-     • Rear cable seized.
+ferred through the strut to the secondary brake shoe         • Brake shoes reversed.
+causing it to pivot into the drum as well.                   • Parking brake strut not seated in shoes.
+  A gear type ratcheting mechanism is used to hold           • Parking brake lever not seated.
+the lever in an applied position. Parking brake              • Parking brake lever bind.
+release is accomplished by the hand lever release            • Adjuster screws seized.
+button.                                                      • Adjuster screws reversed.
+  A parking brake switch is mounted on the parking
+brake lever and is actuated by movement of the
+

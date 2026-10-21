@@ -1,0 +1,32 @@
+8W - 80 - 34   8W-80 CONNECTOR PIN-OUTS                                                  TJ
+
+
+                                     INTAKE AIR TEMPERATURE SENSOR (2.4L) - 2 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 1    K900 20DB/DG                         SENSOR GROUND
+                 2    K21 20BR/WT                          IAT SIGNAL
+
+
+
+
+                                INTAKE AIR TEMPERATURE SENSOR (4.0L) - GRAY 2 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 1    K900 20DB/DG                         SENSOR GROUND
+                 2    K21 18BK/RD                          IAT SIGNAL
+
+
+
+
+                                           LEFT COURTESY LAMP - BLACK 2 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 1    M21 20YL/BR                          FUSED B(+)
+                 2    M22 20YL/OR                          COURTESY LAMPS DRIVER
+
+
+
+
+                                               LEFT DOME LAMP - BLACK 2 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 1    M21 20YL/BR                          FUSED B(+)
+                 2    M22 20YL/OR                          COURTESY LAMPS DRIVER
+

@@ -1,0 +1,49 @@
+21 - 52    AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+
+UNDERDRIVE CLUTCH                                        DIAGNOSIS AND TESTING - FLUID LEAKAGE
+                                                         FLUID LEAKAGE - TORQUE CONVERTER HOUSING
+                                                         AREA
+
+
+
+
+          Fig. 10 Testing Underdrive Clutch
+1 - AIR PRESSURE TEST PLATE 6599-1
+2 - AIR NOZZLE
+
+  Because this clutch piston cannot be seen, its oper-          Fig. 11 Converter Housing Leak Paths
+ation is checked by function. Air pressure is applied    1 - PUMP SEAL
+to the low/reverse or the 2/4 clutches. This locks the   2 - PUMP VENT
+output shaft. Use a piece of rubber hose wrapped         3 - PUMP BOLT
+                                                         4 - PUMP GASKET
+around the input shaft and a pair of clamp-on pliers     5 - CONVERTER HOUSING
+to turn the input shaft. Next apply air pressure (Fig.   6 - CONVERTER
+10) to the underdrive clutch. The input shaft should     7 - REAR MAIN SEAL LEAK
+not rotate with hand torque. Release the air pressure       When diagnosing converter housing fluid leaks,
+and confirm that the input shaft will rotate.            three actions must be taken before repair:
+                                                            (1) Verify proper transmission fluid level.
+                                                            (2) Verify that the leak originates from the con-
+                                                         verter housing area and is transmission fluid.
+                                                            (3) Determine the true source of the leak.
+                                                            Fluid leakage at or around the torque converter
+                                                         area (Fig. 11) may originate from an engine oil leak.
+                                                         The area should be examined closely. Factory fill
+                                                         fluid is red and, therefore, can be distinguished from
+                                                         engine oil.
+                                                            Some suspected converter housing fluid leaks may
+                                                         not be leaks at all. They may only be the result of
+                                                         residual fluid in the converter housing, or excess
+                                                         fluid spilled during factory fill, or fill after repair.
+                                                         Converter housing leaks have several potential
+                                                         sources. Through careful observation, a leak source
+                                                         can be identified before removing the transmission
+                                                         for repair.
+                                                            Pump seal leaks tend to move along the drive hub
+                                                         (Fig. 11) and onto the rear of the converter. Pump
+                                                         o-ring or pump body leaks follow the same path as a
+                                                         seal leak. Pump attaching bolt leaks are generally
+                                                         deposited on the inside of the converter housing and
+                                                         not on the converter itself. Pump seal or gasket leaks
+                                                         (Fig. 11) usually travel down the inside of the con-
+                                                         verter housing.
+

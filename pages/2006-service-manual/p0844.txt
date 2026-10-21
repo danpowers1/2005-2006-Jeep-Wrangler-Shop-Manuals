@@ -1,0 +1,61 @@
+8W - 80 - 4   8W-80 CONNECTOR PIN-OUTS                                                            TJ
+
+
+                                               A/C-HEATER CONTROL C1 - 5 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                A     C75 12DB/GY                          BLOWER MOTOR HIGH SPEED
+                B     C73 14DB/VT                          BLOWER MOTOR M2 SPEED
+                C     C72 16DB/OR                          BLOWER MOTOR M1 SPEED
+                D     C71 18DB/BR                          BLOWER MOTOR LOW SPEED
+                 E    C805 12DB/WT                         BLOWER MOTOR FEED
+
+
+
+
+                                               A/C-HEATER CONTROL C2 - 5 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                 1    Z134 20BK/LG (LHD)                   GROUND
+                 1    F504 20GY/PK (RHD)                   FUSED IGNITION SWITCH OUTPUT (RUN)
+                 2    C132 20DB/YL                         BLEND DOOR FEEDBACK SIGNAL
+                 3    F504 20GY/PK (LHD)                   FUSED IGNITION SWITCH OUTPUT (RUN)
+                 3    Z134 20BK/LG (RHD)                   GROUND
+                 4    E2 20OR/BR                           PANEL LAMPS FEED
+                 5    Z1 20BK                              GROUND
+
+
+
+
+                                               A/C-HEATER CONTROL C3 - 3 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                A     C221 20LB/OR                         A/C SELECT SIGNAL
+                B     C805 12DB/WT                         BLOWER MOTOR FEED
+                C     Z1 12BK                              GROUND
+
+
+
+
+                                        AIRBAG CONTROL MODULE - YELLOW 22 WAY
+                CAV                  CIRCUIT                                   FUNCTION
+                 1    R43 18LG/BR                          DRIVER SQUIB 1 LINE 1
+                 2    R45 18LG/OR                          DRIVER SQUIB 1 LINE 2
+                 3    -                                    -
+                 4    -                                    -
+                 5    R44 18LB/OR                          PASSENGER SQUIB 1 LINE 2
+                 6    R42 18LB/BR                          PASSENGER SQUIB 1 LINE 1
+                 7    -                                    -
+                 8    G104 18VT/GY (PAD)                   PASSENGER AIRBAG INDICATOR DRIVER
+                 9    -                                    -
+                10    Z104 18BK/LG                         GROUND
+                11    R106 18LG/LB (PAD)                   PASSENGER AIRBAG MUX SWITCH SENSE
+                12    -                                    -
+                13    -                                    -
+                14    -                                    -
+                15    -                                    -
+                16    -                                    -
+                17    F201 18PK/OR                         FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                18    D25 18WT/VT                          PCI BUS
+                19    -                                    -
+                20    F100 18PK/VT                         FUSED IGNITION SWITCH OUTPUT (RUN)
+                21    -                                    -
+                22    R104 18LB/LG (PAD)                   PASSENGER AIRBAG MUX SWITCH RETURN
+

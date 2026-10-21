@@ -1,0 +1,60 @@
+14 - 2     FUEL DELIVERY                                                                                       TJ
+
+   The fuel tank assembly consists of: the fuel tank,        (3) Start and run engine until it stalls.
+fuel pump module assembly, fuel pump module lock-            (4) Attempt restarting engine until it will no
+nut/gasket, and fuel tank check valve (refer to Emis-      longer run.
+sion Control System for fuel tank check valve                (5) Turn ignition key to OFF position.
+information).
+   A fuel filler/vent tube assembly using a pressure/      CAUTION: Steps 1, 2, 3 and 4 must be performed to
+vacuum fuel filler cap is used. The fuel filler tube       relieve high pressure fuel from within fuel rail. Do
+contains a flap door located below the fuel fill cap.      not attempt to use following steps to relieve this
+   Also to be considered part of the fuel system is the    pressure as excessive fuel will be forced into a cyl-
+evaporation control system. This is designed to            inder chamber.
+reduce the emission of fuel vapors into the atmo-
+sphere. The description and function of the Evapora-          (6) Unplug connector from any fuel injector.
+tive Control System is located in Emission Control            (7) Attach one end of a jumper wire with alligator
+Systems.                                                   clips (18 gauge or smaller) to either injector terminal.
+   Both fuel filters (at bottom of fuel pump module           (8) Connect other end of jumper wire to positive
+and within fuel pressure regulator) are designed for       side of battery.
+extended service. They do not require normal sched-           (9) Connect one end of a second jumper wire to
+uled maintenance. Filters should only be replaced if       remaining injector terminal.
+a diagnostic procedure indicates to do so.
+                                                           CAUTION: Powering an injector for more than a few
+                                                           seconds will permanently damage the injector.
+STANDARD PROCEDURE
+                                                             (10) Momentarily touch other end of jumper wire
+                                                           to negative terminal of battery for no more than a
+STANDARD PROCEDURE - DRAINING FUEL
+                                                           few seconds.
+TANK                                                         (11) Place a rag or towel below fuel line quick-con-
+  This vehicle is equipped with an ORVR (On-Board          nect fitting at fuel rail.
+Refueling Vapor Recovery) system. Because of this,           (12) Disconnect quick-connect fitting at fuel rail.
+the fuel tank may be drained the conventional way          Refer to Quick-Connect Fittings.
+through the filler cap opening.                              (13) Return fuel pump relay to PDC.
+  (1) Position a drain hose into the fuel fill opening.      (14) One or more Diagnostic Trouble Codes (DTC’s)
+  (2) Drain fuel tank using an approved gasoline           may have been stored in PCM memory due to fuel
+draining station.                                          pump relay removal. The DRBt scan tool must be
+                                                           used to erase a DTC.
+FUEL SYSTEM PRESSURE RELEASE
+   Use following procedure if the fuel injector
+rail is, or is not equipped with a fuel pressure           SPECIFICATIONS
+test port.
+   (1) Remove fuel fill cap.                               FUEL SYSTEM PRESSURE
+   (2) Remove fuel pump relay from Power Distribu-           58 psi +/- 2 psi
+tion Center (PDC). For location of relay, refer to label
+on underside of PDC cover.
+
+TORQUE
+         DESCRIPTION                     N-m                       Ft. Lbs.                     In. Lbs.
+ Accelerator Pedal Bracket               8.5                           -                           75
+      Mounting Nuts
+    Fuel Hose Clamps                      3                            -                           25
+Fuel Rail Mounting Bolts -                28                           -                          250
+           2.4L
+ Fuel Rail Mounting Bolts                 11                           -
+                                                                                                  100
+      or Nuts - 4.0L
+ Fuel Tank Mounting Strap      Refer to service manual                 -                            -
+           Bolts                         text.
+ Fuel Tank Skidplate Bolts                16                           -                          141
+

@@ -1,0 +1,61 @@
+TJ                                                                                      RESTRAINTS        8O - 37
+
+  (3) Tumble the folded rear seat cushion and back        the driver side front seat belt tip-half is inserted into
+unit rearward onto the rear cargo floor panel.            the seat belt buckle, the switch opens the path to
+  (4) Slide both rear seat belt buckle units between      ground; and, when the driver side front seat belt tip-
+the seat cushion and the seat back.                       half is removed from the seat belt buckle, the switch
+  (5) Unfold the rear seat back from the seat cush-       closes the ground path. The switch is actuated by the
+ion until the seat back latch is fully engaged.           latch mechanism within the seat belt buckle.
+                                                             The seat belt switch is connected in series between
+                                                          ground and the seat belt switch sense input of the
+SEAT BELT SWITCH                                          instrument cluster. The seat belt switch receives
+                                                          ground at all times through its pigtail wire connec-
+DESCRIPTION                                               tion to the body wire harness from another take out
+                                                          of the body wire harness. An eyelet terminal connec-
+                                                          tor on that ground take out is secured beneath a
+                                                          ground screw on the left cowl side inner panel,
+                                                          beneath the instrument panel. The seat belt switch
+                                                          may de diagnosed using conventional diagnostic tools
+                                                          and methods.
+
+                                                          DIAGNOSIS AND TESTING - SEAT BELT
+                                                          SWITCH
+                                                            Refer to the appropriate wiring information. The
+                                                          wiring information includes wiring diagrams, proper
+                                                          wire and connector repair procedures, details of wire
+                                                          harness routing and retention, connector pin-out
+                                                          information and location views for the various wire
+                                                          harness connectors, splices and grounds.
+
+                                                          WARNING: TO AVOID PERSONAL INJURY OR
+                                                          DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                          DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                          TEM BEFORE ATTEMPTING ANY STEERING
+                                                          WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                          MENT PANEL COMPONENT DIAGNOSIS OR SER-
+               Fig. 41 Seat Belt Switch                   VICE. DISCONNECT AND ISOLATE THE BATTERY
+1 - WIRE HARNESS CONNECTOR                                NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+2 - DRIVER SEAT RISER
+4 - FLOOR PANEL                                           MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                          CHARGE BEFORE PERFORMING FURTHER DIAG-
+  The seat belt switch is a small, normally closed,       NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+single pole, single throw, leaf contact, momentary        TO DISABLE THE SUPPLEMENTAL RESTRAINT
+switch. Only one seat belt switch is installed in the     SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+vehicle, and it is integral to the buckle of the driver   CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+side front seat belt buckle-half, located on the          BAG DEPLOYMENT.
+inboard side of the driver side front seat track (Fig.
+41). The seat belt switch is connected to the vehicle        (1) Disconnect and isolate the battery negative
+electrical system through a two-wire pigtail wire and     cable. Disconnect the seat belt switch pigtail wire
+connector on the seat belt buckle-half, which is con-     connector from the body wire harness connector for
+nected to a wire harness connector and take out of        the seat belt switch on the floor near the driver side
+the body wire harness routed along the left side of       front seat belt buckle-half anchor. Check for continu-
+the body sill in the passenger compartment.               ity between the seat belt switch sense circuit and the
+  The seat belt switch cannot be adjusted or repaired     ground circuit cavities of the seat belt switch pigtail
+and, if faulty or damaged, the entire driver side front   wire connector. There should be continuity with the
+seat belt buckle-half unit must be replaced.              seat belt unbuckled, and no continuity with the seat
+                                                          belt buckled. If OK, go to Step 2. If not OK, replace
+OPERATION                                                 the faulty front seat belt buckle-half assembly.
+  The seat belt switch is designed to control a path         (2) Check for continuity between the ground cir-
+to ground for the seat belt switch sense input of the     cuit cavity in the body wire harness connector for the
+ElectroMechanical Instrument Cluster (EMIC). When         seat belt switch and a good ground. There should be
+

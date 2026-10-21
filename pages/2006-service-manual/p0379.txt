@@ -1,0 +1,61 @@
+TJ                                                                  ELECTRONIC CONTROL MODULES                 8E - 3
+
+that it requires, it relays that message to its micro-       ing of the next symbol begins with the last transition
+processor. Each module ignores the messages on the           detected on the bus, all of the modules are re-syn-
+data bus that are being sent to other electronic con-        chronized with each symbol. This ensures that there
+trol modules.                                                are no accumulated timing errors during PCI data
+                                                             bus communication.
+OPERATION                                                       The second reason for this encoding scheme is to
+   Data exchange between modules is achieved by              guarantee that the zero bit is the dominant bit on
+serial transmission of encoded data over a single wire       the bus. When two modules are transmitting simul-
+broadcast network. The wire colors used for the PCI          taneously on the bus, there must be some form of
+data bus circuits are yellow with a violet tracer, or        arbitration to determine which module will gain con-
+violet with a yellow tracer, depending upon the appli-       trol. A data collision occurs when two modules are
+cation. The PCI data bus messages are carried over           transmitting different messages at the same time.
+the bus in the form of Variable Pulse Width Modu-            When a module is transmitting on the bus, it is read-
+lated (VPWM) signals. The PCI data bus speed is an           ing the bus at the same time to ensure message
+average 10.4 Kilo-bits per second (Kbps). By compar-         integrity. When a collision is detected, the module
+ison, the prior two-wire Chrysler Collision Detection        that transmitted the one bit stops sending messages
+(CCD) data bus system is designed to run at 7.8125           over the bus until the bus becomes idle.
+Kbps.                                                           Each module is capable of transmitting and receiv-
+   The voltage network used to transmit messages             ing data simultaneously. The typical PCI bus mes-
+requires biasing and termination. Each module on             sage has the following four components:
+the PCI data bus system provides its own biasing                • Message Header - One to three bytes in length.
+and termination. Each module (also referred to as a          The header contains information identifying the mes-
+node) terminates the bus through a terminating               sage type and length, message priority, target mod-
+resistor and a terminating capacitor. There are two          ule(s) and sending module.
+types of nodes on the bus. The dominant node termi-             • Data Byte(s) - This is the actual message that
+nates the bus through a 1 KW resistor and a 3300 pF          is being sent.
+capacitor. The Powertrain Control Module (PCM) is               • Cyclic Redundancy Check (CRC) Byte - This
+the only dominant node for the PCI data bus system.          byte is used to detect errors during a message trans-
+A standard node terminates the bus through an 11             mission.
+KW resistor and a 330 pF capacitor.                             • In-Frame Response (IFR) byte(s) - If a
+   The modules bias the bus when transmitting a              response is required from the target module(s), it can
+message. The PCI bus uses low and high voltage lev-          be sent during this frame. This function is described
+els to generate signals. Low voltage is around zero          in greater detail in the following paragraph.
+volts and the high voltage is about seven and one-              The IFR consists of one or more bytes, which are
+half volts. The low and high voltage levels are gener-       transmitted during a message. If the sending module
+ated by means of variable-pulse width modulation to          requires information to be received immediately, the
+form signals of varying length. The Variable Pulse           target module(s) can send data over the bus during
+Width Modulation (VPWM) used in PCI bus messag-              the original message. This allows the sending module
+ing is a method in which both the state of the bus           to receive time-critical information without having to
+and the width of the pulse are used to encode bit            wait for the target module to access the bus. After
+information. A “zero” bit is defined as a short low          the IFR is received, the sending module broadcasts
+pulse or a long high pulse. A “one” bit is defined as a      an End of Frame (EOF) message and releases control
+long low pulse or a short high pulse. A low (passive)        of the bus.
+state on the bus does not necessarily mean a zero bit.          The PCI data bus can be monitored using a diag-
+It also depends upon pulse width. If the width is            nostic scan tool. It is possible, however, for the bus to
+short, it stands for a zero bit. If the width is long, it    pass all diagnostic scan tool tests and still be faulty
+stands for a one bit. Similarly, a high (active) state       if the voltage parameters are all within the specified
+does not necessarily mean a one bit. This too depends        range and false messages are being sent.
+upon pulse width. If the width is short, it stands for
+a one bit. If the width is long, it stands for a zero bit.
+   In the case where there are successive zero or one        CONTROLLER ANTILOCK
+data bits, both the state of the bus and the width of        BRAKE
+the pulse are changed alternately. This encoding
+scheme is used for two reasons. First, this ensures          DESCRIPTION
+that only one symbol per transition and one transi-            The CAB operates the ABS system, and is separate
+tion per symbol exists. On each transition, every            from other vehicle electrical circuits. The CAB is
+transmitting module must decode the symbol on the            located under the instrument panel to the right side
+bus and begin timing of the next symbol. Since tim-
+

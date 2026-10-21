@@ -1,0 +1,58 @@
+21 - 50    AUTOMATIC TRANSMISSION - 42RLE                                                                      TJ
+
+  (3) Allow vehicle front wheels to turn and increase    TEST SIX - SELECTOR IN REVERSE
+throttle opening to achieve an indicated vehicle speed
+of 30 mph. Vehicle should be in fourth gear.             NOTE: This test checks the reverse clutch hydraulic
+  (4) The 2/4 clutch pressure should read 75 to 95       circuit.
+psi.
+                                                            (1) Attach gauge to the reverse and low/reverse
+TEST FIVE - SELECTOR IN DRIVE (OD ON - Fourth            clutch tap.
+Gear, CC on)                                                (2) Move selector lever to the REVERSE position.
+                                                            (3) Read reverse clutch pressure with output sta-
+NOTE: These tests check the torque converter             tionary (foot on brake) and throttle opened to achieve
+clutch hydraulic circuit.                                1500 rpm.
+                                                            (4) Reverse and low/reverse clutch pressure should
+  (1) Attach gauge to the torque converter clutch off    read 165 to 235 psi.
+pressure tap.
+  (2) Move selector lever to the DRIVE position.         TEST RESULT INDICATIONS
+  (3) Allow vehicle wheels to turn and increase             (1) If proper line pressure is found in any one test,
+throttle opening to achieve an indicated vehicle speed   the pump and pressure regulator are working prop-
+of 50 mph. Vehicle should be in 4th gear, CC on.         erly.
+                                                            (2) Low pressure in all positions indicates a defec-
+CAUTION: Both wheels must turn at the same               tive pump, a clogged filter, or a stuck pressure regu-
+speed.                                                   lator valve.
+                                                            (3) Clutch circuit leaks are indicated if pressures
+  (4) Torque converter clutch off pressure should be     do not fall within the specified pressure range.
+less than 5 psi.                                            (4) If the overdrive clutch pressure is greater than
+  (5) Now attach the gauge to the torque converter       5 psi in Step 6 of Test Three, a worn reaction shaft
+clutch on pressure tap.                                  seal ring or a defective solenoid assembly is indi-
+  (6) Move selector to the OD position.                  cated.
+  (7) Allow vehicle wheels to turn and increase             (5) If the underdrive clutch pressure is greater
+throttle opening to achieve an indicated vehicle speed   than 5 psi in Step 4 of Test Two-A, a defective sole-
+of 50 mph.                                               noid/pressure switch assembly or controller is the
+  (8) Verify the torque converter clutch is applied      cause.
+mode using the RPM display of the DRB scan tool.
+  (9) Torque converter clutch on pressure should be
+60-90 psi.
+
+     ALL PRESSURE SPECIFICATIONS ARE PSI (ON HOIST, WITH WHEELS FREE TO TURN)
+
+ Gear Selector Posi-         Actual Gear                             PRESSURE TAPS
+        tion                                    Under-   Over-      Re-   Torque Torque          2/4      Low/
+                                                 drive   drive     verse   Con-   Con-         Clutch      Re-
+                                                Clutch   Clutch    Clutch verter verter                  verse
+                                                                          Clutch Clutch                  Clutch
+                                                                            Off    On
+PARK - 0 mph *           PARK                  0-2       0-5       0-2       60-      45-      0-2       115-
+                                                                             110      100                145
+REVERSE - 0 mph *        REVERSE               0-2       0-7       165-      50-      35-85    0-2       165-
+                                                                   235       100                         235
+NEUTRAL - 0 mph *        NEUTRAL               0-2       0-5       0-2       60-      45-      0-2       115-
+                                                                             110      100                145
+Low - 20 mph #           FIRST                 110-      0-5       0-2       60-      45-      0-2       115-
+                                               145                           110      100                145
+Third - 30 mph #         SECOND                110-      0-5       0-2       60-      45-      115-      0-2
+                                               145                           110      100      145
+Third - 45 mph #         DIRECT                75-95     75-95     0-2       60-90    45-80    0-2       0-2
+OD - 30 mph #            OVERDRIVE             0-2       75-95     0-2       60-90    45-80    75-95     0-2
+

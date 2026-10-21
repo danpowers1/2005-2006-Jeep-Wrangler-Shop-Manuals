@@ -1,0 +1,59 @@
+8W - 97 - 12                                 8W-97 POWER DISTRIBUTION                                       TJ
+
+location of more information on the ground eyelet          (3) Install the PDC onto the PDC bracket (Refer to
+locations.                                               8 - ELECTRICAL/POWER DISTRIBUTION/POWER
+  (8) Reconnect each of the dash wire harness con-       DISTRIBUTION CENTER - INSTALLATION).
+nectors. Refer to Connector Locations in the index         (4) Reconnect the battery negative cable.
+of this service manual for the location of more infor-
+mation on the dash wire harness connector locations.
+  (9) Reconnect the battery negative cable.              POWER OUTLET
+                                                         DESCRIPTION
+POWER DISTRIBUTION CEN-                                     An instrument panel power outlet is standard fac-
+TER SUPPORT BRACKET                                      tory installed equipment on this model. The power
+                                                         outlet is installed in the instrument panel accessory
+REMOVAL                                                  switch bezel, which is located near the bottom of the
+  (1) Disconnect and isolate the battery negative        center bezel area below the heater and air condition-
+cable.                                                   ing controls. The power outlet base is secured by a
+  (2) Remove the Power Distribution Center (PDC)         snap fit within the instrument panel. A plastic pro-
+from the PDC bracket (Refer to 8 - ELECTRICAL/           tective cap snaps into the power outlet base when the
+POWER DISTRIBUTION/POWER DISTRIBUTION                    power outlet is not being used, and hangs from the
+CENTER - REMOVAL).                                       power outlet base mount by an integral bail strap
+  (3) Remove the three screws that secure the PDC        while the power outlet is in use.
+bracket to the right front inner fender (Fig. 16).          The power outlet receptacle unit and the accessory
+                                                         power outlet protective cap are available for service.
+                                                         The power outlet receptacle cannot be repaired and,
+                                                         if faulty or damaged, it must be replaced.
+
+                                                         OPERATION
+                                                            The power outlet base or receptacle shell is con-
+                                                         nected to ground, and an insulated contact in the
+                                                         bottom of the shell is connected to battery current.
+                                                         The power outlet receives battery voltage from a fuse
+                                                         in the Power Distribution Center at all times.
+                                                            While the power outlet is very similar to a cigar
+                                                         lighter base unit, it does not include the two small
+                                                         spring-clip retainers inside the bottom of the recepta-
+                                                         cle shell that are used to secure the cigar lighter
+                                                         heating element to the insulated contact.
+
+                                                         DIAGNOSIS AND TESTING - POWER OUTLET
+                                                            For complete circuit diagrams, refer to Power
+                                                         Outlet in Wiring Diagrams.
+                                                            (1) Check the fused B(+) fuse in the Power Distri-
+                                                         bution Center. If OK, go to Step 2. If not OK, repair
+                                                         the shorted circuit or component as required and
+                Fig. 16 PDC Bracket                      replace the faulty fuse.
+1 - SCREWS (3)                                              (2) Check for battery voltage at the fused B(+) fuse
+2 - RIGHT FRONT FENDER                                   in the Power Distribution Center. If OK, go to Step 3.
+3 - PDC BRACKET
+                                                         If not OK, repair the open fused B(+) circuit to the
+  (4) Remove the PDC bracket from the right front        battery as required.
+inner fender.                                               (3) Remove the plastic protective cap from the
+                                                         power outlet receptacle. Check for continuity between
+INSTALLATION                                             the inside circumference of the power outlet recepta-
+  (1) Position the PDC bracket onto the right front      cle and a good ground. There should be continuity. If
+inner fender.                                            OK, go to Step 4. If not OK, go to Step 5.
+  (2) Install and tighten the three screws that secure      (4) Check for battery voltage at the insulated con-
+the PDC mounting bracket to the right front inner        tact located at the back of the power outlet recepta-
+fender. Tighten the screws to 3.9 N·m (35 in. lbs.).     cle. If not OK, go to Step 5.
+

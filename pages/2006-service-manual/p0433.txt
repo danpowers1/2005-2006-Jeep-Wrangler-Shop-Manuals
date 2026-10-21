@@ -1,0 +1,69 @@
+TJ                                                                                       STARTING       8F - 39
+
+mounting flange of starter motor. Never clamp on
+starter motor by field frame.
+  (3) Connect a suitable volt-ampere tester and12-
+volt battery to starter motor in series, and set amme-
+ter to 100 ampere scale. See instructions provided by
+manufacturer of volt-ampere tester being used.
+  (4) Install a jumper wire from solenoid terminal to
+solenoid B(+) terminal stud. The starter motor should
+operate. If starter motor fails to operate, replace
+faulty starter motor.                                       Fig. 8 CONTINUITY TEST BETWEEN SOLENOID
+  (5) Adjust carbon pile load of tester to obtain free       TERMINAL AND SOLENOID CASE - TYPICAL
+running test voltage. Refer to starter motor free run-    1 - SOLENOID
+ning test voltage specifications.                         2 - SOLENOID TERMINAL
+                                                          3 - OHMMETER
+  (6) Note reading on ammeter and compare reading
+to free running test maximum amperage draw. Refer
+to starter motor free running test maximum amper-
+                                                          REMOVAL
+age draw specifications.                                  2.4L
+  (7) If ammeter reading exceeds maximum amper-
+                                                            (1) Disconnect and isolate negative battery cable.
+age draw specification, replace faulty starter motor.
+                                                            (2) Raise and support vehicle.
+                                                            (3) While supporting starter motor, remove two
+STARTER SOLENOID TESTING
+                                                          bolts securing starter motor to transmission (Fig. 9).
+  This test can only be performed with starter motor
+                                                            (4) Lower starter motor far enough to access and
+removed from vehicle.
+                                                          remove nut securing battery cable to starter solenoid
+  (1) Remove starter motor from vehicle. Refer to
+                                                          B(+) terminal stud (Fig. 10). Always support starter
+Starter Motor for removal/installation.
+                                                          motor during this process. Do not let starter motor
+  (2) Disconnect wire from solenoid field coil termi-
+                                                          hang from wire harness.
+nal.
+                                                            (5) Remove battery cable at starter.
+  (3) Check for continuity between solenoid terminal
+                                                            (6) Disconnect solenoid terminal wire harness con-
+and solenoid field coil terminal with a continuity
+                                                          nector from starter solenoid.
+tester (Fig. 7). There should be continuity. If OK, go
+                                                            (7) Remove starter motor.
+to Step 4. If not OK, replace faulty starter motor.
+
+
+
+
+  Fig. 7 CONTINUITY TEST BETWEEN SOLENOID
+      TERMINAL AND FIELD COIL TERMINAL
+1 - SOLENOID
+2 - SOLENOID TERMINAL
+3 - OHMMETER
+4 - FIELD COIL TERMINAL
+
+   (4) Check for continuity between solenoid terminal
+and solenoid case (Fig. 8). There should be continuity.
+If not OK, replace faulty starter motor.
+
+
+
+
+                                                                         Fig. 9 STARTER - 2.4L
+                                                          1 - STARTER
+                                                          2 - MOUNTING BOLTS (2)
+

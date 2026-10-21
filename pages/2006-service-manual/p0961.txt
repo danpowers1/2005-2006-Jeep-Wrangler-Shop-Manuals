@@ -1,0 +1,55 @@
+TJ                                                                                                                             ENGINE          9-1
+
+                                                                    ENGINE
+                                                         TABLE OF CONTENTS
+
+                                                                     page                                                                      page
+
+ENGINE 2.4L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1       ENGINE 4.0L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+                                                             ENGINE 2.4L
+                                                              TABLE OF CONTENTS
+                                                                     page                                                                      page
+
+ENGINE 2.4L                                                                      INSTALLATION - CYLINDER HEAD . . . . . . . . . . 23
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3            CAMSHAFT OIL SEAL(S)
+  DIAGNOSIS AND TESTING                                                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+    CYLINDER COMPRESSION PRESSURE                                                INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+      TEST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3   CAMSHAFT(S)
+    ENGINE DIAGNOSIS - PERFORMANCE . . . . . 4                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+    CYLINDER COMBUSTION PRESSURE                                                 OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+      LEAKAGE TEST . . . . . . . . . . . . . . . . . . . . . . . 5               STANDARD PROCEDURE - CAMSHAFT
+    ENGINE OIL LEAK INSPECTION . . . . . . . . . . . 6                             END-PLAY . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+    ENGINE DIAGNOSIS . . . . . . . . . . . . . . . . . . . . 7                   REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+    ENGINE MECHANICAL . . . . . . . . . . . . . . . . . . 7                      CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+  STANDARD PROCEDURE                                                             INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+    REPAIR OF DAMAGED OR WORN                                                    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+      THREADS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9        CYLINDER HEAD COVER
+    HYDROSTATIC LOCKED ENGINE . . . . . . . . . . 9                              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+    ENGINE CORE AND OIL GALLERY PLUGS . . . 9                                    CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+    ENGINE GASKET SURFACE PREPARATION . 10                                       INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+    MEASURING BEARING CLEARANCE USING                                            INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+      PLASTIGAGE . . . . . . . . . . . . . . . . . . . . . . . . . 11          INTAKE/EXHAUST VALVES & SEATS
+    FORM-IN-PLACE GASKETS AND SEALERS . 11                                       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 29
+  REMOVAL - ENGINE ASSEMBLY . . . . . . . . . . . 12                             CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+  INSTALLATION - ENGINE ASSEMBLY . . . . . . . . 12                            VALVE SPRINGS
+  SPECIFICATIONS                                                                 REMOVAL
+    SPECIFICATIONS - 2.4L ENGINE . . . . . . . . . 13                              REMOVAL - CYLINDER HEAD ON . . . . . . . . . 30
+    SPECIFICATIONS - TORQUE                      . . . . . . . . . . . . 17        REMOVAL - CYLINDER HEAD OFF . . . . . . . . 30
+  SPECIAL TOOLS                                                                  INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+    2.4L ENGINE . . . . . . . . . . . . . . . . . . . . . . . . . 18             INSTALLATION
+AIR CLEANER ELEMENT - 2.4L                                                         INSTALLATION - CYLINDER HEAD ON . . . . . 30
+  REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . . . 20                INSTALLATION - CYLINDER HEAD OFF . . . . 30
+  INSTALLATION - 2.4L . . . . . . . . . . . . . . . . . . . . 20               HYDRAULIC LIFTERS
+AIR CLEANER HOUSING                                                              DIAGNOSIS AND TESTING
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20             LASH ADJUSTER (TAPPET) NOISE
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 21                  DIAGNOSIS . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+CYLINDER HEAD                                                                    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 21               INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 21           ROCKER ARMS
+  DIAGNOSIS AND TESTING                                                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+    CYLINDER HEAD GASKET . . . . . . . . . . . . . . 21                          INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  REMOVAL - CYLINDER HEAD . . . . . . . . . . . . . 22                           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22          ENGINE BLOCK
+  INSPECTION         . . . . . . . . . . . . . . . . . . . . . . . . . . 23      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 33
+

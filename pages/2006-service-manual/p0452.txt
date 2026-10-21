@@ -1,0 +1,62 @@
+8I - 4     IGNITION CONTROL                                                                                 TJ
+
+TORQUE
+         DESCRIPTION                     N·m                      Ft. Lbs.                    In. Lbs.
+ Camshaft Position Sensor                                             -
+                                          2                                                      15
+   Mounting Bolt – 4.0L
+ Camshaft Position Sensor                                             -
+                                          12                                                    106
+         – 2.4L
+Ignition Coil Rail Mounting               29                          -                         250
+        Bolts – 4.0L
+   Ignition Coil Mounting                 11                          -                         105
+         Bolts – 2.4L
+   Oil Pump Drive Hold-                   23                         17                           -
+     down Bolt – 4.0L
+ Oil Pump Drive Housing                    -                          -                           -
+      Cover Screws
+   ** Spark Plugs - 2.4L                  15                         11                           -
+        4-Cylinder
+ Spark Plugs - 4.0L 6-cyl-             30 +/- 5                   22 +/- 4                        -
+          inder
+  ** Torque critical tapered
+ design. Do not exceed 15
+        ft. lbs. torque.
+
+
+AUTO SHUT DOWN RELAY                                          The ASD relay will be shut–down, meaning the
+                                                           12–volt power supply to the ASD relay will be de-ac-
+                                                           tivated by the PCM if:
+DESCRIPTION - PCM OUTPUT
+                                                             • the ignition key is left in the ON position. This
+  The 5–pin, 12–volt, Automatic Shutdown (ASD)
+                                                           is if the engine has not been running for approxi-
+relay is located in the Power Distribution Center
+                                                           mately 1.8 seconds.
+(PDC). Refer to label on PDC cover for relay location.
+                                                             • there is a crankshaft position sensor signal to
+                                                           the PCM that is lower than pre-determined values.
+OPERATION
+                                                           DIAGNOSIS AND TESTING - ASD AND FUEL
+ASD SENSE - PCM INPUT                                      PUMP RELAYS
+  A 12 volt signal at this input indicates to the PCM        The following description of operation and
+that the ASD has been activated. The relay is used to      tests apply only to the Automatic Shutdown
+connect the oxygen sensor heater element, ignition         (ASD) and fuel pump relays. The terminals on the
+coil and fuel injectors to 12 volt + power supply.         bottom of each relay are numbered. Two different
+  This input is used only to sense that the ASD relay      types of relays may be used, (Fig. 2) or (Fig. 3).
+is energized. If the Powertrain Control Module
+(PCM) does not see 12 volts at this input when the
+ASD should be activated, it will set a Diagnostic
+Trouble Code (DTC).
+
+PCM OUTPUT
+  The ASD relay supplies battery voltage (12+ volts)
+to the fuel injectors and ignition coil(s). With certain
+emissions packages it also supplies 12–volts to the
+oxygen sensor heating elements.
+  The ground circuit for the coil within the ASD
+relay is controlled by the Powertrain Control Module
+(PCM). The PCM operates the ASD relay by switch-
+ing its ground circuit on and off.
+

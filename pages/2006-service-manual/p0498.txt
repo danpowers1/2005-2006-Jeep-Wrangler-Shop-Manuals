@@ -1,0 +1,60 @@
+8J - 30    INSTRUMENT CLUSTER                                                                                 TJ
+
+the fuel tank sender input to the PCM is an open cir-     OPERATION
+cuit.                                                        The high beam indicator gives an indication to the
+  • Communication Error - If the cluster fails to         vehicle operator whenever the headlamp high beams
+receive a percent tank full message, it will hold the     are illuminated, or when the exterior lamps are inad-
+gauge needle at the last indication about twelve sec-     vertently left On. This indicator is controlled by a
+onds or until the ignition switch is turned to the Off    hard wired input to the cluster from the headlamp
+position, whichever occurs first. After twelve seconds,   beam select switch circuitry of the left multi-function
+the cluster will move the gauge needle to the left end    switch, and by the instrument cluster circuit board
+of the gauge scale and the low fuel indicator is illu-    based upon cluster programming based upon hard
+minated immediately.                                      wired inputs from the head/park/fog lamp switch cir-
+  • Actuator Test - Each time the cluster is put          cuitry of the left multi-function switch, from the
+through the actuator test, the gauge needle will be       driver door ajar switch, and from the ignition switch.
+swept to several calibration points on the gauge scale    The high beam indicator bulb is completely controlled
+in a prescribed sequence to confirm the functionality     by the instrument cluster logic circuit, and that logic
+of the gauge and the cluster control circuitry.           will allow this indicator to operate whenever the
+  The PCM continually monitors the fuel tank send-        instrument cluster receives a battery current input
+ing unit to determine the level of the fuel in the fuel   on the fused B(+) circuit. Therefore, the bulb can be
+tank. The PCM then sends the proper fuel level mes-       illuminated regardless of the ignition switch position.
+sages to the instrument cluster. For further diagnosis    The bulb only illuminates when it is provided a path
+of the fuel gauge or the instrument cluster circuitry     to ground by the instrument cluster transistor. The
+that controls the gauge, (Refer to 8 - ELECTRICAL/        instrument cluster will turn on the high beam indi-
+INSTRUMENT CLUSTER - DIAGNOSIS AND                        cator for the following reasons:
+TESTING). For proper diagnosis of the fuel tank              • Beam Select Switch Input - Each time the
+sending unit, the PCM, the PCI data bus, or the elec-     cluster detects battery current on the beam select
+tronic message inputs to the instrument cluster that      switch sense circuit (beam select switch closed = high
+control the fuel gauge, a DRBIIIt scan tool is            beams selected or optical horn feature activated) the
+required. Refer to the appropriate diagnostic infor-      high beam indicator will be illuminated solid. This
+mation.                                                   input can occur when the headlamp high beams are
+                                                          selected or when the optical horn feature is activated.
+                                                          The indicator remains illuminated until the beam
+HIGH BEAM INDICATOR                                       select switch sense input to the cluster is an open cir-
+                                                          cuit (beam select switch open = high beams not
+DESCRIPTION                                               selected and optical horn feature not activated), or
+                                                          until the exterior lighting is turned off, whichever
+                                                          occurs first.
+            Fig. 16 High Beam Indicator                      • Exterior Lamps-On Optical Warning - Each
+  A high beam indicator is standard equipment on          time the cluster detects battery current on the head-
+all instrument clusters (Fig. 16). The high beam indi-    lamp switch output circuit (park or head lamp switch
+cator is located near the upper edge of the instru-       closed = exterior lighting is On), ground on the driver
+ment cluster, between the tachometer and the              door ajar switch sense circuit (driver door ajar switch
+speedometer. The high beam indicator consists of a        closed = driver door is open), and the fused ignition
+stencil-like cutout of the International Control and      switch output (run-start) input is an open circuit
+Display Symbol icon for “High Beam” in the opaque         (ignition switch is in a position other than On or
+layer of the instrument cluster overlay. The dark         Start), the high beam indicator will be flashed on
+outer layer of the overlay prevents the indicator from    and off repeatedly. The indicator will continue to
+being clearly visible when it is not illuminated. A       flash until the exterior lighting is turned Off, until
+blue lens behind the cutout in the opaque layer of        the driver door is closed, or until the ignition switch
+the overlay causes the icon to appear in blue through     is turned to the On or Start positions, whichever
+the translucent outer layer of the overlay when the       occurs first.
+indicator is illuminated from behind by a replaceable        • Actuator Test - Each time the cluster is put
+incandescent bulb and bulb holder unit, which is          through the actuator test, the high beam indicator
+located on the instrument cluster electronic circuit      will be turned on, then off again during the bulb
+board. The high beam indicator is serviced as a unit      check portion of the test to confirm the functionality
+with the instrument cluster.                              of the bulb and the cluster control circuitry.
+                                                             The instrument cluster continually monitors the
+                                                          headlamp beam select switch and circuitry integral
+                                                          to the left multi-function switch, the driver door ajar
+

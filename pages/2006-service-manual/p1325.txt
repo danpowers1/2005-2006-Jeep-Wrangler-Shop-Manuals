@@ -1,0 +1,28 @@
+TJ                                                      AUTOMATIC TRANSMISSION - 42RLE              21 - 135
+
+REMOVAL                                                INSTALLATION
+
+
+
+
+           Fig. 223 Input Speed Sensor                             Fig. 224 Input Speed Sensor
+1 - INPUT SPEED SENSOR                                 1 - INPUT SPEED SENSOR
+2 - OUTPUT SPEED SENSOR                                2 - OUTPUT SPEED SENSOR
+3 - TRANSMISSION RANGE SENSOR                          3 - TRANSMISSION RANGE SENSOR
+
+  (1) Raise vehicle.                                     (1) Install the input speed sensor (1) (Fig. 224)
+  (2) Place a suitable fluid catch pan under the       into the transmission case.
+transmission.
+  (3) Remove the wiring connector from the input       NOTE: Before installing the speed sensor bolt, it
+speed sensor (Fig. 223).                               will be necessary to replentish the sealing patch on
+                                                       the bolt using MoparT Lock & Seal Adhesive.
+NOTE: The speed sensor bolt has a sealing patch
+applied from the factory. Be sure to reuse the same      (2) Install the bolt to hold the input speed sensor
+bolt.                                                  into the transmission case. Tighten the bolt to 9 N·m
+                                                       (80 in.lbs.).
+  (4) Remove the bolt holding the input speed sensor     (3) Install the wiring connector onto the input
+to the transmission case.                              speed sensor
+  (5) Remove the input speed sensor from the trans-      (4) Verify the transmission fluid level. Add fluid as
+mission case.                                          necessary.
+                                                         (5) Lower vehicle.
+

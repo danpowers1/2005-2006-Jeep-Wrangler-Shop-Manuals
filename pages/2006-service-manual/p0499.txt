@@ -1,0 +1,78 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 31
+
+switch, and the ignition switch and turns the high         instrument panel. Disconnect the instrument panel
+beam indicator on or off accordingly. For further          wire harness connector (Connector C1) for the instru-
+diagnosis of the high beam indicator or the instru-        ment cluster from the connector receptacle on the
+ment cluster circuitry that controls the indicator,        back of the cluster housing.
+(Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-                     (2) Reconnect the battery negative cable. Turn the
+TER - DIAGNOSIS AND TESTING). The left multi-              headlamps On and select the headlamp high beams
+function switch, driver door ajar switch, and ignition     with the left multi-function switch control stalk.
+switch inputs to the instrument cluster can be diag-       Check for battery voltage at the high beam indicator
+nosed using conventional diagnostic tools and meth-        driver circuit cavity of the instrument panel wire
+ods.                                                       harness connector (Connector C1) for the instrument
+                                                           cluster. If OK, replace the faulty instrument cluster.
+DIAGNOSIS AND TESTING - HIGH BEAM INDI-                    If not OK, repair the open high beam indicator driver
+CATOR                                                      circuit between the instrument cluster and the left
+  The diagnosis found here addresses an inoperative        multi-function switch as required.
+high beam indicator condition. Before beginning this
+test, confirm the functionality of the high beam indi-
+cator bulb and the cluster control circuitry by per-
+                                                           LOW FUEL INDICATOR
+forming the instrument cluster actuator test. (Refer
+to 8 - ELECTRICAL/INSTRUMENT CLUSTER -                     DESCRIPTION
+DIAGNOSIS AND TESTING). If the high beam indi-
+cator fails to illuminate during the actuator test,
+replace the indicator bulb and bulb holder with a                       Fig. 17 Low Fuel Indicator
+known good unit and repeat the test. If the indicator
+                                                              A low fuel indicator is standard equipment on all
+still fails to illuminate, replace the faulty instrument
+                                                           instrument clusters (Fig. 17). The low fuel indicator
+cluster. If the problem being diagnosed is related to
+                                                           is located near the lower edge of the instrument clus-
+inoperative headlamp high beams, be certain to
+                                                           ter, to the left of center. The low fuel indicator con-
+repair the headlamp system circuits and switches
+                                                           sists of a stencil-like cutout of the International
+before attempting to diagnose or repair the high
+                                                           Control and Display Symbol icon for “Fuel” in the
+beam indicator. If no headlamp system problems are
+                                                           opaque layer of the instrument cluster overlay. The
+found and the high beam indicator illuminates dur-
+                                                           dark outer layer of the overlay prevents the indicator
+ing the instrument cluster actuator test, the follow-
+                                                           from being clearly visible when it is not illuminated.
+ing procedure will help locate an open in the high
+                                                           An amber Light Emitting Diode (LED) behind the
+beam indicator driver circuit. Refer to the appropri-
+                                                           cutout in the opaque layer of the overlay causes the
+ate wiring information. The wiring information
+                                                           icon to appear in amber through the translucent
+includes wiring diagrams, proper wire and connector
+                                                           outer layer of the overlay when the indicator is illu-
+repair procedures, details of wire harness routing
+                                                           minated from behind by the LED, which is soldered
+and retention, connector pin-out information and
+                                                           onto the instrument cluster electronic circuit board.
+location views for the various wire harness connec-
+                                                           The low fuel indicator is serviced as a unit with the
+tors, splices and grounds.
+                                                           instrument cluster.
+WARNING: TO AVOID PERSONAL INJURY OR
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                  OPERATION
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                      The low fuel indicator gives an indication to the
+TEM BEFORE ATTEMPTING ANY STEERING                         vehicle operator when the level of fuel in the fuel
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                 tank becomes low. This indicator is controlled by a
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                     transistor on the instrument cluster circuit board
+VICE. DISCONNECT AND ISOLATE THE BATTERY                   based upon cluster programming and electronic mes-
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                     sages received by the cluster from the Powertrain
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                   Control Module (PCM) over the Programmable Com-
+CHARGE BEFORE PERFORMING FURTHER DIAG-                     munications Interface (PCI) data bus. The low fuel
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                indicator Light Emitting Diode (LED) is completely
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                      controlled by the instrument cluster logic circuit, and
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                    that logic will only allow this indicator to operate
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                   when the instrument cluster receives a battery cur-
+BAG DEPLOYMENT.                                            rent input on the fused ignition switch output (run-
+                                                           start) circuit. Therefore, the LED will always be off
+  (1) Disconnect and isolate the battery negative          when the ignition switch is in any position except On
+cable. Remove the instrument cluster from the
+

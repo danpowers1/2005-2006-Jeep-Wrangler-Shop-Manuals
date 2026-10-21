@@ -1,0 +1,69 @@
+21 - 112    AUTOMATIC TRANSMISSION - 42RLE                                                                  TJ
+
+   once during this procedure. The ignition key should   OPERATION
+   not go to the LOCK position.                            The three input clutches are responsible for driving
+     (f) Return transmission to the PARK position        different components of the planetary geartrain.
+   without applying the brake.
+   (8) Move shift lever back to PARK and check igni-     NOTE: (Refer to 21 - TRANSMISSION/AUTOMATIC -
+tion switch operation. You should be able to turn        42RLE - DIAGNOSIS AND TESTING) for a collective
+switch to LOCK position and shift lever release but-     view of which clutch elements are applied at each
+ton/lever should not move.                               position of the selector lever.
+
+
+DRIVING CLUTCHES                                         UNDERDRIVE CLUTCH
+                                                            The underdrive clutch is hydraulically applied in
+DESCRIPTION                                              first, second, and third (direct) gears by pressurized
+                                                         fluid against the underdrive piston. When the under-
+                                                         drive clutch is applied, the underdrive hub drives the
+                                                         rear sun gear.
+
+                                                         OVERDRIVE CLUTCH
+                                                           The overdrive clutch is hydraulically applied in
+                                                         third (direct) and overdrive gears by pressurized fluid
+                                                         against the overdrive/reverse piston. When the over-
+                                                         drive clutch is applied, the overdrive hub drives the
+                                                         front planet carrier.
+
+                                                         REVERSE CLUTCH
+                                                           The reverse clutch is hydraulically applied in
+                                                         reverse gear only by pressurized fluid against the
+                                                         overdrive/reverse piston. When the reverse clutch is
+                                                         applied, the front sun gear assembly is driven.
+
+
+                                                         FLUID AND FILTER
+
+                                                         DIAGNOSIS AND TESTING
+                                                         DIAGNOSIS AND TESTING - CAUSES OF
+                                                         BURNT FLUID
+           Fig. 151 Input Clutch Assembly                  Burnt, discolored fluid is a result of overheating
+1 - INPUT SHAFT                                          which has two primary causes.
+2 - UNDERDRIVE CLUTCH                                      (1) A result of restricted fluid flow through the
+3 - OVERDRIVE CLUTCH
+4 - REVERSE CLUTCH                                       main and/or auxiliary cooler. This condition is usu-
+5 - OVERDRIVE SHAFT                                      ally the result of a damaged main cooler, or severe
+6 - UNDERDRIVE SHAFT                                     restrictions in the coolers and lines caused by debris
+                                                         or kinked lines.
+  Three hydraulically applied input clutches are used
+                                                           (2) Heavy duty operation with a vehicle not prop-
+to drive planetary components. The underdrive (2),
+                                                         erly equipped for this type of operation. Trailer tow-
+overdrive (3), and reverse (4) clutches are considered
+                                                         ing or similar high load operation will overheat the
+input/driving clutches and are contained within the
+                                                         transmission fluid if the vehicle is improperly
+input clutch assembly (Fig. 151). The input clutch
+                                                         equipped. Such vehicles should have an auxiliary
+assembly also contains:
+                                                         transmission fluid cooler, a heavy duty cooling sys-
+  • Input shaft
+                                                         tem, and the engine/axle ratio combination needed to
+  • Input hub
+                                                         handle heavy loads.
+  • Clutch retainer
+  • Underdrive piston
+  • Overdrive/reverse piston                             EFFECTS OF INCORRECT FLUID LEVEL
+  • Overdrive hub                                          A low fluid level allows the pump to take in air
+  • Underdrive hub                                       along with the fluid. Air in the fluid will cause fluid
+                                                         pressures to be low and develop slower than normal.
+

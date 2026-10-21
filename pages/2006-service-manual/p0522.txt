@@ -1,0 +1,63 @@
+8L - 10    LAMPS/LIGHTING - EXTERIOR                                                                        TJ
+
+                                                         INSTALLATION
+                                                         WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                         BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+                                                         ATTEMPTING ANY STEERING WHEEL, STEERING
+                                                         COLUMN, SEAT BELT TENSIONER, OR INSTRU-
+                                                         MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                         VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                         NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                         MINUTES FOR THE AIRBAG SYSTEM CAPACITOR
+                                                         TO DISCHARGE BEFORE PERFORMING FURTHER
+                                                         DIAGNOSIS OR SERVICE. THIS IS THE ONLY SURE
+                                                         WAY TO DISABLE THE AIRBAG SYSTEM. FAILURE
+                                                         TO TAKE THE PROPER PRECAUTIONS COULD
+                                                         RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+                                                         AND POSSIBLE PERSONAL INJURY.
+
+                                                            (1) Align the combination flasher terminals with
+                                                         the terminals in the connector on the back of the left
+                                                         multi-function switch housing. (Fig. 7).
+                                                            (2) Push on the combination flasher until the ter-
+                                                         minals are fully seated in the left multi-function
+  Fig. 6 Steering Column Shrouds Remove/Install          switch connector.
+1 - LEFT MULTI-FUNCTION SWITCH                              (3) Position the upper shroud onto the steering col-
+2 - UPPER SHROUD
+3 - RIGHT MULTI-FUNCTION SWITCH                          umn (Fig. 27).
+4 - CLOCKSPRING                                             (4) Install and tighten the screws that secure the
+5 - IGNITION LOCK CYLINDER HOUSING                       lower steering column shroud to the upper shroud.
+6 - LOWER SHROUD
+7 - SCREW (2)                                            Tighten the screws to 2 N·m (18 in. lbs.).
+                                                            (5) Move the tilt steering column to the fully
+   (4) Move the tilt steering column to the fully low-   raised position and secure it in place by moving the
+ered position and leave the tilt release lever in the    tilt release lever back to the locked position.
+released position.                                          (6) Reinstall the steering column opening cover.
+   (5) Remove the upper shroud from the steering col-    (Refer to 23 - BODY/INSTRUMENT PANEL/STEER-
+umn.                                                     ING COLUMN OPENING COVER - INSTALLA-
+   (6) Grasp the combination flasher firmly and pull     TION).
+it toward the dash panel to disengage the flasher ter-      (7) Reconnect the battery negative cable.
+minals. (Fig. 7).
+
+                                                         DAYTIME RUNNING LAMP
+                                                         MODULE
+                                                         DESCRIPTION
+                                                            The Daytime Running Lights (Headlamps) System
+                                                         is installed on vehicles manufactured for sale in Can-
+                                                         ada only. A separate module, mounted on the cowl,
+                                                         controls the DRL.
+
+                                                         OPERATION
+                                                           Battery positive voltage is supplied to the Daytime
+                                                         Running Lamp (DRL) module through a circuit
+                                                         breaker and a fuse in the PDC. Ignition positive volt-
+                                                         age is supplied to the DRL module through a fuse in
+             Fig. 7 Combination Flasher
+                                                         the fuse block. The DRL module also utilizes a Vehi-
+1 - COMBINATION FLASHER
+2 - LEFT MULTI-FUNCTION SWITCH
+                                                         cle Speed Sensor (VSS) input, high and low beam
+                                                         sense circuits and high beam indicator driver. The
+  (7) Remove the combination flasher.                    DRL module is grounded to the chassis. Once the
+                                                         vehicle reaches a speed of 3 kph (2 mph) and travels
+

@@ -1,0 +1,61 @@
+TJ                                                                                FUEL INJECTION        14 - 31
+
+   • A/C compressor load control (also opens the pas-
+sage slightly before the compressor is engaged so
+that the engine rpm does not dip down when the
+compressor engages)
+   • Power steering load control
+   The PCM can control polarity of the circuit to con-
+trol direction of the stepper motor.
+   IAC Stepper Motor Program: The PCM is also
+equipped with a memory program that records the
+number of steps the IAC stepper motor most recently
+advanced to during a certain set of parameters. For
+example: The PCM was attempting to maintain a
+1000 rpm target during a cold start-up cycle. The last
+recorded number of steps for that may have been
+125. That value would be recorded in the memory
+cell so that the next time the PCM recognizes the
+identical conditions, the PCM recalls that 125 steps
+were required to maintain the target. This program
+allows for greater customer satisfaction due to
+                                                                     Fig. 13 TPS/IAC MOTOR - 2.4L
+greater control of engine idle.
+   Another function of the memory program, which          1 - THROTTLE POSITION SENSOR (TPS)
+                                                          2 - MOUNTING SCREWS
+occurs when the power steering switch (if equipped),      3 - IDLE AIR CONTROL MOTOR (IAC)
+or the A/C request circuit, requires that the IAC step-   4 - MOUNTING SCREWS
+per motor control engine rpm, is the recording of the
+last targeted steps into the memory cell. The PCM         4.0L
+can anticipate A/C compressor loads. This is accom-         The IAC motor is located on the side of the throttle
+plished by delaying compressor operation for approx-      body.
+imately 0.5 seconds until the PCM moves the IAC             (1) Remove air cleaner tube at throttle body.
+stepper motor to the recorded steps that were loaded        (2) Disconnect electrical connector from IAC motor.
+into the memory cell. Using this program helps elim-        (3) Remove two mounting bolts (screws) (Fig. 14).
+inate idle-quality changes as loads change. Finally,        (4) Remove IAC motor from throttle body.
+the PCM incorporates a “No-Load9 engine speed lim-
+iter of approximately 1800 - 2000 rpm, when it rec-
+ognizes that the TPS is indicating an idle signal and
+IAC motor cannot maintain engine idle.
+   A (factory adjusted) set screw is used to mechani-
+cally limit the position of the throttle body throttle
+plate. Never attempt to adjust the engine idle
+speed using this screw. All idle speed functions are
+controlled by the IAC motor through the PCM.
+
+
+REMOVAL
+2.4L
+  The Idle Air Control (IAC) motor is located on the
+rear side of the throttle body (Fig. 13).
+  (1) Disconnect electrical connector from IAC motor.                  Fig. 14 MOUNTING BOLTS
+  (2) Remove two mounting bolts (screws).                 1 - IDLE AIR CONTROL MOTOR
+                                                          2 - MOUNTING SCREWS
+  (3) Remove IAC motor from throttle body.
+                                                          INSTALLATION
+                                                          2.4L
+                                                            (1) Install IAC motor to throttle body.
+                                                            (2) Install and tighten two mounting bolts (screws)
+                                                          to 7 N·m (60 in. lbs.) torque.
+                                                            (3) Install electrical connector.
+

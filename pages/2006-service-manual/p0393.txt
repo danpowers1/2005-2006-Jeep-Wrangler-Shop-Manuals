@@ -1,0 +1,62 @@
+TJ                                                                    ELECTRONIC CONTROL MODULES              8E - 17
+
+  For example, if the input shaft is rotating at 1000         adaptive controls. As friction material wears, the vol-
+rpm and the output shaft is rotating at 500 rpm,              ume of fluid need to apply the element increases.
+then the TCM can determine that the gear ratio is                Certain mechanical problems within the input
+2:1. In direct drive (3rd gear), the gear ratio changes       clutch assembly (broken return springs, out of posi-
+to 1:1. The gear ratio changes as clutches are applied        tion snap rings, excessive clutch pack clearance,
+and released. By monitoring the length of time it             improper assembly, etc.) can cause inadequate or out-
+takes for the gear ratio to change following a shift          of-range element volumes. Also, defective Input/Out-
+request, the TCM can determine the volume of fluid            put Speed Sensors and wiring can cause these
+used to apply or release a friction element.                  conditions. The following chart identifies the appro-
+  The volume of transmission fluid needed to apply            priate clutch volumes and when they are monitored/
+the friction elements are continuously updated for            updated:
+
+                                                  CLUTCH VOLUMES
+                                                    When Updated                                Proper Clutch Vol-
+       Clutch
+                           Shift Sequence           Oil Temperature        Throttle Angle              ume
+                           2-1 or 3-1 coast
+         L/R                                        > 21° C (70° F)             < 5°                 35 to 83
+                              downshift
+         2/4                   1-2 shift                                                             20 to 77
+                                                                               5 - 54°
+         OD                    2-3 shift            > 43° C (110° F)                                 48 to 150
+         UD                4-3 or 4-2 shift                                     > 5°                 24 to 70
+
+
+SHIFT SCHEDULES                                                 • Fluid temperature
+
+  As mentioned earlier, the TCM has programming                 • Software level
+that allows it to select a variety of shift schedules.          As driving conditions change, the TCM appropri-
+Shift schedule selection is dependent on the follow-          ately adjusts the shift schedule. Refer to the follow-
+ing:                                                          ing table 42RLE Shift Schedule to determine the
+                                                              appropriate operation expected, depending on driving
+  • Shift lever position
+                                                              conditions.
+  • Throttle position
+  • Engine load
+
+                                              42RLE SHIFT SCHEDULE
+
+               Schedule                                Condition                         Expected Operation
+Extreme Cold                               Oil temperature at start-up below    Park, Reverse, Neutral and 2nd
+                                           -27° C (-16° F)                      gear only (prevents shifting which
+                                                                                may fail a clutch with frequent
+                                                                                shifts)
+
+
+
+Cold                                       Oil temperature at start-up above    - Delayed 2-3 upshift (approximate-
+                                           -25° C (-12° F) and below 2° C       ly 22-31 mph)
+                                           (36° F)
+
+
+                                                                                - Delayed 3-4 upshift (45-53 mph)
+                                                                                - Early 4-3 costdown shift (approxi-
+                                                                                mately 30 mph)
+                                                                                - Early 3-2 coastdown shift (ap-
+                                                                                proximately 17 mph)
+- High speed 4-2, 3-2, 2-1 kick-
+down shifts are prevented
+

@@ -1,0 +1,29 @@
+TJ                                                                                  IGNITION CONTROL           8I - 3
+
+IGNITION COIL RESISTANCE - 2.4L
+                                                  Primary Resistance at 21°C-    Secondary Resistance at 21°C-
+Engine                   Coil Manufacture
+                                                  27°C (70°F-80°F)               27°C (70°F-80°F)
+2.4L                     Toyodenso or Diamond     0.51 to 0.61 Ohms              11,500 to 13,500 Ohms
+
+
+
+
+                                                 IGNITION COIL - 2.4L
+
+IGNITION COIL RESISTANCE - 4.0L ENGINE
+       PRIMARY RESISTANCE 21-27°C (70-80°F)
+                    0.71 - 0.88 Ohms
+
+
+SPARK PLUGS
+          ENGINE                            PLUG TYPE                            ELECTRODE GAP
+       2.4L 4-Cylinder             RE16MC (Champion #)                  0.94 to 1.09 mm (0.037 to 0.042 in.)
+       4.0L 6-Cylinder                 ZFR5N (NGK #)                  0.77 mm - 0.90 mm (0.030 in. - 0.035 in.)
+
+
+SPARK PLUG CABLE RESISTANCE
+          MINIMUM                      MAXIMUM
+     250 Ohms Per Inch            1000 Ohms Per Inch
+  3000 Ohms Per Foot             10,000 Ohms Per Foot
+

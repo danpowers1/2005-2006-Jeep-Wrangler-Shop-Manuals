@@ -1,0 +1,58 @@
+TJ                                                                           INSTRUMENT CLUSTER              8J - 13
+
+  functionality of this VFD segment and its control           − Seatbelt
+  circuitry.                                                  − MIL
+     (d) The cluster will display the EMIC software           − Check Gauges
+  level in the odometer/trip odometer VFD (example:           − Low Fuel
+  “SOF 8.9”).                                                 − 4WD
+     (e) The cluster will display the last six digits         − SKIS
+  (sequence number) of the Vehicle Identification             − Cruise
+  Number (VIN) in the odometer/trip odometer VFD.               (h) The cluster will sweep the needles for each of
+     (f) If any faults have been set by the cluster, the      the following gauges, one at a time, to several cal-
+  cluster will display the fault information in the           ibration points in sequence to confirm the function-
+  odometer/trip odometer VFD INSTRUMENT                       ality of the gauge and the cluster control circuitry:
+  CLUSTER FAILURE MESSAGE. If no faults have                  − Speedometer
+  been set, the cluster will scroll “no FAULtS” across        − Fuel
+  the odometer/trip odometer VFD.                             − Temperature
+     (g) The cluster will turn on, then off again each        − Tachometer
+  of the following indicators, one at a time, in              − Voltage
+  sequence to confirm the functionality of the indica-        − Oil Pressure
+  tor and the cluster control circuitry:
+  − High Beam
+  − Brake
+
+                               INSTRUMENT CLUSTER FAILURE MESSAGE
+
+        VFD Message                         Description                                Correction
+9buS b09                         PCM - MIL Message                   The cluster is not receiving a MIL lamp
+                                                                     message from the PCM. A DRBIIIT scan tool
+                                                                     is required for further diagnosis. Refer to the
+                                                                     appropriate diagnostic information.
+9buS b19                         SKIM - SKIM Message                 The cluster is not receiving a SKIS lamp
+                                                                     message from the SKIM. A DRBIIIT scan
+                                                                     tool is required for further diagnosis. Refer
+                                                                     to the appropriate diagnostic information.
+9buS b89                         ACM - Airbag Message                The cluster is not receiving an Airbag lamp
+                                                                     message from the ACM. A DRBIIIT scan tool
+                                                                     is required for further diagnosis. Refer to the
+                                                                     appropriate diagnostic information.
+9PanEL OPEn9                     Panel Sense - Open Circuit          The cluster is not receiving an input from
+                                                                     the panel lamps dimmer circuitry of the left
+                                                                     multi-function switch on the panel lamps
+                                                                     dimmer signal circuit. Repair the open circuit
+                                                                     or replace the faulty switch as required.
+9Airbag9                         Telltale Open/Shorted               The EMIC airbag indicator is open or short-
+                                                                     ed. Replace the faulty cluster.
+
+
+   (6) The actuator test is now completed. The instru-     INTERIOR LIGHTING CONTROL DIAGNOSIS
+ment cluster will automatically exit the self-diagnos-       Before performing this test, complete the testing of
+tic mode and return to normal operation at the             each of the hard wired interior lighting switches.
+completion of the test, if the ignition switch is turned   Refer to the appropriate wiring information. The wir-
+to the Off position during the test, or if a vehicle       ing information includes wiring diagrams, proper
+speed message indicating that the vehicle is moving        wire and connector repair procedures, details of wire
+is received from the PCM over the PCI data bus dur-        harness routing and retention, connector pin-out
+ing the test.                                              information and location views for the various wire
+   (7) Go back to Step 1 to repeat the test, if neces-     harness connectors, splices and grounds.
+sary.
+

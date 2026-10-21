@@ -1,0 +1,72 @@
+8O - 12   RESTRAINTS                                                                                   TJ
+
+                                                   CONTROL MODULE, AS IT CAN DAMAGE THE
+                                                   IMPACT SENSOR OR AFFECT ITS CALIBRATION.
+                                                   THE AIRBAG CONTROL MODULE CONTAINS THE
+                                                   IMPACT SENSOR, WHICH ENABLES THE SYSTEM
+                                                   TO DEPLOY THE SUPPLEMENTAL RESTRAINTS. IF
+                                                   AN AIRBAG CONTROL MODULE IS ACCIDENTALLY
+                                                   DROPPED DURING SERVICE, THE MODULE MUST
+                                                   BE SCRAPPED AND REPLACED WITH A NEW UNIT.
+                                                   FAILURE TO OBSERVE THIS WARNING COULD
+                                                   RESULT IN ACCIDENTAL, INCOMPLETE, OR
+                                                   IMPROPER SUPPLEMENTAL RESTRAINT DEPLOY-
+                                                   MENT.
+                                                      (1) Position the Airbag Control Module (ACM)
+                                                   beneath the instrument panel.
+                                                      (2) Reconnect the body wire harness connector for
+                                                   the ACM to the ACM connector receptacle located on
+                                                   the forward facing side of the module (Fig. 8). Be cer-
+                                                   tain that both connector latches and the white Con-
+                                                   nector Positive Assurance (CPA) locks are fully
+                                                   engaged.
+                                                      (3) Position the ACM to the mounting bracket on
+                                                   the floor panel transmission tunnel (Fig. 7). When
+                                                   the ACM is correctly positioned, the locator pins on
+                                                   the bottom of the ACM mounting flanges will be
+                                                   engaged in the locating holes in the mounting
+                                                   bracket, and the arrow on the ACM label will be
+                                                   pointed forward in the vehicle.
+ Fig. 8 Airbag Control Module Connector Removal       (4) Install and tighten the four screws that secure
+1 - AIRBAG CONTROL MODULE
+                                                   the ACM to the mounting bracket on the floor panel
+2 - PULL TWO LOCKS OUT                             transmission tunnel. Tighten the screws to 14 N·m
+3 - SQUEEZE LATCHES                                (125 in. lbs.).
+4 - PULL
+5 - PULL
+                                                      (5) On models equipped with the optional ABS
+6 - SQUEEZE LATCHES                                brakes, reinstall the acceleration switch onto the left
+7 - WIRE HARNESS CONNECTOR                         side of the mounting bracket on the floor panel trans-
+                                                   mission tunnel. (Refer to 5 - BRAKES/ELECTRICAL/
+  (7) Remove the ACM from beneath the instrument
+                                                   G-SWITCH - INSTALLATION).
+panel.
+                                                      (6) Restore the carpet on the right and left sides of
+                                                   the floor panel transmission tunnel to its proper posi-
+INSTALLATION                                       tion beneath the instrument panel.
+                                                      (7) Do not reconnect the battery negative cable at
+WARNING: TO AVOID PERSONAL INJURY OR
+                                                   this time. The supplemental restraint system verifi-
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                   cation test procedure should be performed following
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                   service of any supplemental restraint system compo-
+TEM BEFORE ATTEMPTING ANY STEERING
+                                                   nent (Refer to 8 - ELECTRICAL/RESTRAINTS -
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                   STANDARD PROCEDURE - VERIFICATION TEST).
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+TO DISABLE THE SUPPLEMENTAL RESTRAINT
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT.
+
+
+WARNING: TO AVOID PERSONAL INJURY OR
+DEATH, NEVER STRIKE OR DROP THE AIRBAG
+

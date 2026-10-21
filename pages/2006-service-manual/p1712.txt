@@ -1,0 +1,68 @@
+24 - 76    PLUMBING                                                                                           TJ
+
+OPERATION
+   Engine coolant is circulated through the heater
+hoses and heater core at all times. As the coolant
+flows through the heater core, heat removed from the
+engine is transferred to the heater core fins and
+tubes. Air directed through the heater core picks up
+the heat from the heater core fins. The blend door
+allows control of the heater output air temperature
+by regulating the amount of air that is flowing
+through the heater core within the HVAC housing.
+The blower motor speed controls the volume of air
+flowing through the HVAC housing.
+   The heater core cannot be repaired and, if faulty or
+damaged, it must be replaced.
+
+REMOVAL
+WARNING: On vehicles equipped with airbags, dis-
+able the airbag system before attempting any steer-
+                                                             Fig. 17 Heater Core - LHD shown, RHD similar
+ing wheel, steering column, or instrument panel
+component diagnosis or service. Disconnect and            1 - HEATER CORE
+                                                          2 - HVAC HOUSING
+isolate the negative battery (ground) cable, then
+wait two minutes for the airbag system capacitor to       INSTALLATION
+discharge before performing further diagnosis or            (1) Install the heater core into the bottom half of
+service. This is the only sure way to disable the air-    the HVAC housing.
+bag system. Failure to take the proper precautions          (2) Assemble the HVAC housing (Refer to 24 -
+could result in accidental airbag deployment and          HEATING & AIR CONDITIONING/DISTRIBUTION/
+possible personal injury or death.                        HVAC HOUSING - ASSEMBLY).
+
+                                                          NOTE: If the heater core is being replaced, flush the
+WARNING: Refer to the applicable warnings and
+                                                          cooling system (Refer to 7 - COOLING - STANDARD
+cautions for this system before performing the fol-
+                                                          PROCEDURE - COOLING SYSTEM CLEANING/RE-
+lowing operation (Refer to 24 - HEATING & AIR
+                                                          VERSE FLUSHING).
+CONDITIONING/PLUMBING - WARNINGS) and (Refer
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -               (3) Install the HVAC housing (Refer to 24 - HEAT-
+CAUTIONS). Failure to follow the warnings and cau-        ING & AIR CONDITIONING/DISTRIBUTION/HVAC
+tions could result in possible personal injury or         HOUSING - INSTALLATION).
+death.
+
+  (1) Remove the HVAC housing (Refer to 24 -              LIQUID LINE
+HEATING & AIR CONDITIONING/DISTRIBUTION/
+HVAC HOUSING - REMOVAL).
+  (2) Disassemble the HVAC housing as necessary to
+                                                          DESCRIPTION
+                                                             The A/C liquid line is the refrigerant line that car-
+access the heater core (Refer to 24 - HEATING &
+                                                          ries refrigerant from the A/C condenser to the A/C
+AIR          CONDITIONING/DISTRIBUTION/HVAC
+                                                          evaporator. The A/C liquid contains the fixed A/C ori-
+HOUSING - DISASSEMBLY).
+                                                          fice tube and the low-side service port.
+  (3) Lift the heater core out of the lower half of the
+HVAC housing (Fig. 17).                                   CAUTION: Use only O-ring seals specified for the
+                                                          vehicle. Failure to use the correct O-ring seals will
+                                                          cause the refrigerant system connections to leak.
+
+                                                            The A/C liquid line has no serviceable parts except
+                                                          for the O-ring seals and low-side service port valve
+                                                          and it’s protective cap.
+                                                            If the A/C liquid line is found to be leaking or dam-
+                                                          aged, it must be replaced.
+

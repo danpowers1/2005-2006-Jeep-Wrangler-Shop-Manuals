@@ -1,0 +1,63 @@
+7 - 10    COOLING                                                                                             TJ
+
+INTERNAL LEAKAGE INSPECTION                                 Remove accessory drive belt (Refer to 7 - COOL-
+                                                          ING/ACCESSORY        DRIVE/DRIVE        BELTS     -
+  Remove the engine oil pan drain plug and drain a
+                                                          REMOVAL).
+small amount of engine oil. Coolant, being heavier
+than engine oil, will drain first. Another way of test-     Add coolant to the radiator to bring the level to
+ing is to operate the engine and check for water glob-    within 6.3 mm (1/4 in) of the top of the thermostat
+ules on the engine oil dipstick. Also inspect the         housing.
+automatic transmission oil dipstick for water glob-
+ules. Inspect the automatic transmission fluid cooler     CAUTION: Avoid overheating. Do not operate the
+for leakage. Operate the engine without the pressure      engine for an excessive period of time. Open the
+cap on the radiator until thermostat opens.               draincock immediately after the test to eliminate
+                                                          boil over of coolant.
+  Attach a pressure tester to the filler neck. If pres-
+sure builds up quickly, a leak exists as a result of a
+                                                             Start the engine and accelerate rapidly three times
+faulty cylinder head gasket or crack in the engine.
+                                                          (to approximately 3000 rpm) while observing the
+Repair as necessary.
+                                                          coolant. If internal engine combustion gases are leak-
+WARNING: DO NOT ALLOW PRESSURE TO                         ing into the cooling system, bubbles will appear in
+EXCEED 124 KPA (18 PSI). TURN THE ENGINE OFF.             the coolant. If bubbles do not appear, there is no
+TO RELEASE THE PRESSURE, ROCK THE TESTER                  internal combustion gas leakage.
+FROM SIDE TO SIDE. WHEN REMOVING THE
+TESTER, DO NOT TURN THE TESTER MORE THAN                  DIAGNOSIS AND TESTING - RADIATOR COOL-
+1/2 TURN IF THE SYSTEM IS UNDER PRESSURE.                 ANT FLOW CHECK
+                                                             The following procedure will determine if coolant is
+  If there is no immediate pressure increase, pump        flowing through the cooling system.
+the pressure tester until the indicated pressure is          If engine is cold, idle engine until normal operating
+within the system range. Vibration of the gauge           temperature is reached. Then feel the upper radiator
+pointer indicates compression or combustion leakage       hose. If hose is hot, the thermostat is open and water
+into the cooling system.                                  is circulating through cooling system.
+WARNING: DO NOT DISCONNECT THE SPARK
+PLUG WIRES WHILE THE ENGINE IS OPERATING.                 STANDARD PROCEDURE
+
+CAUTION: Do not operate the engine with a spark           STANDARD PROCEDURE - DRAINING COOLING
+plug shorted for more than a minute. The catalytic        SYSTEM - 2.4L
+converter may be damaged.
+                                                          WARNING: DO NOT REMOVE THE CYLINDER
+  Isolate the compression leak by shorting each           BLOCK DRAIN PLUGS (Fig. 6) OR LOOSEN THE
+spark plug to the cylinder block. The gauge pointer       RADIATOR DRAINCOCK WITH SYSTEM HOT AND
+should stop or decrease vibration when spark plug         UNDER PRESSURE. SERIOUS BURNS FROM
+for leaking cylinder is shorted. This happens because     COOLANT CAN OCCUR.
+of the absence of combustion pressure.
+                                                            (1) DO NOT remove radiator cap first. With engine
+COMBUSTION LEAKAGE TEST (WITHOUT PRES-                    cold, raise vehicle on a hoist and locate radiator
+SURE TESTER)                                              draincock.
+   DO NOT WASTE reusable coolant. If the solution         NOTE: Radiator draincock is located on the left/
+is clean, drain the coolant into a clean container for    lower side of radiator facing to rear of vehicle.
+reuse.
+                                                            (2) Attach one end of a hose to the draincock. Put
+WARNING: DO NOT REMOVE THE CYLINDER                       the other end into a clean container. Open draincock
+BLOCK DRAIN PLUGS OR LOOSEN THE RADIATOR                  and drain coolant from radiator. This will empty the
+DRAINCOCK WITH THE SYSTEM HOT AND UNDER                   coolant reserve/overflow tank. The coolant does not
+PRESSURE. SERIOUS BURNS FROM COOLANT                      have to be removed from the tank unless the system
+CAN OCCUR.                                                is being refilled with a fresh mixture. When tank is
+                                                          empty, remove radiator cap and continue draining
+  Remove thermostat (Refer to 7 - COOLING/EN-             cooling system.
+GINE/ENGINE     COOLANT       THERMOSTAT    -
+REMOVAL).
+

@@ -1,0 +1,70 @@
+TJ                                                                                                          AUDIO/VIDEO            8A - 1
+
+                                                    AUDIO / VIDEO
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                   page
+
+AUDIO                                                                  RADIO
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ DIAGNOSIS AND TESTING - AUDIO . . . . . . . . . . 1                    REMOVAL     .............................7
+AMPLIFIED SUBWOOFER                                                     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3     RADIO NOISE SUPPRESSION COMPONENTS
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ DIAGNOSIS AND TESTING - AMPLIFIED                                      DIAGNOSIS AND TESTING - RADIO NOISE
+   SUBWOOFER . . . . . . . . . . . . . . . . . . . . . . . . . 3          SUPPRESSION COMPONENTS                      ...........8
+ REMOVAL    .............................3                              REMOVAL     .............................8
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 3     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ANTENNA BODY & CABLE                                                   RECEIVER - SATELLITE RADIO
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4      REMOVAL     .............................9
+ DIAGNOSIS AND TESTING - ANTENNA BODY                                   INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+   AND CABLE   ..........................4                             SPEAKER
+ REMOVAL    .............................5                              DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 5     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ANTENNA - SATELLITE RADIO                                               DIAGNOSIS AND TESTING - SPEAKER . . . . . . . 9
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ REMOVAL    .............................6                              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 11
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+AUDIO                                                                  lating (AM) and Frequency Modulating (FM) com-
+                                                                       mercial frequency ranges.
+                                                                         The audio system components operate on battery
+DESCRIPTION
+                                                                       current received through a fuse in the Junction Block
+   Several combinations of radio receivers and
+                                                                       (JB) on a fused ignition switch output (run-acc) cir-
+speaker systems are offered.
+                                                                       cuit so that the system will only operate when the
+   The audio system includes the following compo-
+                                                                       ignition switch is in the Run or Accessory positions.
+nents:
+   • Amplified sub woofer (if equipped)
+   • Antenna (Radio, Satellite)
+                                                                       DIAGNOSIS AND TESTING - AUDIO
+                                                                         Any diagnosis of the Audio system should
+   • Radio noise suppression components
+                                                                       begin with the use of the DRB IIIt diagnostic
+   • Radio receiver
+                                                                       tool. For information on the use of the DRB
+   • Speakers
+                                                                       IIIt, refer to the appropriate Diagnostic Service
+   Certain functions and features of the audio system
+                                                                       Manual.
+rely upon resources shared with other electronic
+                                                                         For complete circuit diagrams, refer to the appro-
+modules in the vehicle over the Programmable Com-
+                                                                       priate wiring information.
+munication Interface (PCI) bus network. The data
+bus network allows the sharing of sensor informa-                      WARNING: On vehicles equipped with air bags,
+tion. For diagnosis of these electronic modules or of                  (refer to electrical/restraints) before attempting any
+the data bus network, the use of a DRB IIIt scan tool                  steering wheel, steering column, or instrument
+and the proper Diagnostic Procedures manual are                        panel component diagnosis or service. Failure to
+recommended.                                                           take the proper precautions could result in acciden-
+                                                                       tal airbag deployment and possible personal injury.
+OPERATION
+  The audio system components are designed to pro-
+vide audio entertainment and information through
+the reception, tuning and amplification of locally
+broadcast radio signals in both the Amplitude Modu-
+

@@ -1,0 +1,84 @@
+8J - 32    INSTRUMENT CLUSTER                                                                                 TJ
+
+or Start. The LED only illuminates when it is pro-         MALFUNCTION INDICATOR
+vided a path to ground by the instrument cluster
+transistor. The instrument cluster will turn on the        LAMP (MIL)
+low fuel indicator for the following reasons:
+  • Bulb Test - Each time the ignition switch is           DESCRIPTION
+turned to the On position the indicator is illuminated
+for about two seconds as a bulb test.
+  • Less Than 12.5 Percent Tank Full Message -
+Each time the cluster receives a message from the                Fig. 18 Malfunction Indicator Lamp (MIL)
+PCM indicating that the percent tank full is less             A Malfunction Indicator Lamp (MIL) is standard
+than 12.5 (one-eighth), the low fuel indicator is illu-    equipment on all instrument clusters (Fig. 18). The
+minated and a single chime tone is sounded. The low        MIL is located near the lower edge of the instrument
+fuel indicator remains illuminated until the cluster       cluster, to the right of center. The MIL consists of a
+receives messages from the PCM for a continuous            stencil-like cutout of the International Control and
+twenty seconds indicating that the percent tank full       Display Symbol icon for “Engine” in the opaque layer
+has increased by more than 0.625 gallons or until the      of the instrument cluster overlay. The dark outer
+ignition switch is turned to the Off position, which-      layer of the overlay prevents the indicator from being
+ever occurs first. This strategy is intended to reduce     clearly visible when it is not illuminated. An amber
+the effect that fuel sloshing within the fuel tank can     Light Emitting Diode (LED) behind the cutout in the
+have on reliable indications. The chime tone feature       opaque layer of the overlay causes the icon to appear
+will occur only once per ignition cycle.                   in amber through the translucent outer layer of the
+  • Less Than Empty Percent Tank Full Mes-                 overlay when the indicator is illuminated from
+sage - Each time the cluster receives a message from       behind by the LED, which is soldered onto the
+the PCM indicating the percent tank full is less than      instrument cluster electronic circuit board. The MIL
+empty, the low fuel indicator is illuminated immedi-       is serviced as a unit with the instrument cluster.
+ately. This message would indicate that the fuel tank
+sender input to the PCM is a short circuit.                OPERATION
+  • More Than Full Percent Tank Full Message
+                                                              The Malfunction Indicator Lamp (MIL) gives an
+- Each time the cluster receives a message from the
+                                                           indication to the vehicle operator when the Power-
+PCM indicating the percent tank full is more than
+                                                           train Control Module (PCM) has recorded a Diagnos-
+full, the low fuel indicator is illuminated immedi-
+                                                           tic Trouble Code (DTC) for an On-Board Diagnostics
+ately. This message would indicate that the fuel tank
+                                                           II (OBDII) emissions-related circuit or component
+sender input to the PCM is an open circuit.
+                                                           malfunction. The MIL is controlled by a transistor on
+  • Actuator Test - Each time the cluster is put
+                                                           the instrument cluster circuit board based upon clus-
+through the actuator test, the low fuel indicator will
+                                                           ter programming and electronic messages received by
+be turned on, then off again during the bulb check
+                                                           the cluster from the PCM over the Programmable
+portion of the test to confirm the functionality of the
+                                                           Communications Interface (PCI) data bus. The MIL
+LED and the cluster control circuitry.
+                                                           Light Emitting Diode (LED) is completely controlled
+  The PCM continually monitors the fuel tank send-
+                                                           by the instrument cluster logic circuit, and that logic
+ing unit to determine the level of fuel in the fuel
+                                                           will only allow this indicator to operate when the
+tank. The PCM then sends the proper fuel level mes-
+                                                           instrument cluster receives a battery current input
+sages to the instrument cluster. For further diagnosis
+                                                           on the fused ignition switch output (run-start) cir-
+of the low fuel indicator or the instrument cluster cir-
+                                                           cuit. Therefore, the LED will always be off when the
+cuitry that controls the LED, (Refer to 8 - ELECTRI-
+                                                           ignition switch is in any position except On or Start.
+CAL/INSTRUMENT CLUSTER - DIAGNOSIS AND
+                                                           The LED only illuminates when it is provided a path
+TESTING). For proper diagnosis of the fuel tank
+                                                           to ground by the instrument cluster transistor. The
+sending unit, the PCM, the PCI data bus, or the elec-
+                                                           instrument cluster will turn on the MIL for the fol-
+tronic message inputs to the instrument cluster that
+                                                           lowing reasons:
+control the low fuel indicator, a DRBIIIt scan tool is
+                                                              • Bulb Test - Each time the ignition switch is
+required. Refer to the appropriate diagnostic infor-
+                                                           turned to the On position the indicator is illuminated
+mation.
+                                                           for about seven seconds as a bulb test. The entire
+                                                           two seven second bulb test is a function of the PCM.
+                                                              • MIL Lamp-On Message - Each time the clus-
+                                                           ter receives a MIL lamp-on message from the PCM,
+                                                           the indicator will be illuminated. The indicator can
+                                                           be flashed on and off, or illuminated solid, as dic-
+                                                           tated by the PCM message. For some DTC’s, if a
+

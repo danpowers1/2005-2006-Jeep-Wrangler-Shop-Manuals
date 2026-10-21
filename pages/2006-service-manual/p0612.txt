@@ -1,0 +1,61 @@
+8R - 4    FRONT WIPERS/WASHERS                                                                                TJ
+
+mechanical action of the wiper blades to wipe the          ods are not possible in the diagnosis of the intermit-
+outside surface of the glass, as well as into the          tent wipe mode circuitry and logic within the right
+hydraulic action of the washer system to apply             multi-function switch. If the front wiper and washer
+washer fluid stored in an on-board reservoir to the        system operates satisfactorily in all modes except the
+area of the glass to be wiped. When combined, these        Delay mode, the faulty right multi-function switch
+components provide the means to effectively main-          must be replaced. Refer to the appropriate diagnostic
+tain clear visibility for the vehicle operator by remov-   information.
+ing excess accumulations of rain, snow, bugs, mud, or
+other minor debris from the outside windshield glass       OPERATING MODES
+surface that might be encountered while driving the          Following are paragraphs that briefly describe the
+vehicle under numerous types of inclement operating        operation of each of the front wiper and washer sys-
+conditions.                                                tem operating modes.
+  The vehicle operator initiates all front wiper and
+washer system functions with the control stalk and         CONTINUOUS WIPE MODE
+control knob of the right multi-function switch that          When the Low position of the right multi-function
+extends from the right side of the steering column,        switch control stalk is selected, the Low mode cir-
+just below the steering wheel. Moving the control          cuitry within the switch directs battery current to
+stalk upward selects the front wiper system operat-        the low speed brush of the front wiper motor, which
+ing mode. The front wiper system allows the vehicle        causes the front wipers to cycle at a low speed. When
+operator to select from two continuous wiper speeds,       the High position of the control stalk is selected, the
+High or Low, or the intermittent wipe Delay mode.          High mode circuitry within the switch directs battery
+Pulling the control stalk downwards and releasing it       current to the high speed brush of the front wiper
+selects the front wiper system Mist mode, which            motor, which causes the front wipers to cycle at a
+operates the front wipers for one complete wipe cycle      high speed.
+after the control stalk is released. Rotating the con-        When the Off position of the right multi-function
+trol knob on the end of the control stalk allows the       switch control stalk is selected, one of two events is
+vehicle operator to select the intermittent wipe Delay     possible. The event that occurs depends upon the
+interval. Pulling the control stalk towards the steer-     position of the wiper blades on the windshield at the
+ing wheel activates the front washer pump/motor,           moment that the control stalk Off position is
+which dispenses washer fluid onto the windshield           selected. If the wiper blades are in the down position
+glass through the front washer nozzle.                     on the windshield when the Off position is selected,
+  When the ignition switch is in the Accessory or On       the park switch that is integral to the front wiper
+positions, battery current from a fuse in the Power        motor is closed to ground and the wiper motor ceases
+Distribution Center (PDC) is provided to the front         to operate.
+wiper and washer system fuse in the fuse block. This          If the wiper blades are not in the down position on
+fuse provides battery current through separate fused       the windshield at the moment the Off position is
+ignition switch output (run-acc) circuits to the right     selected, the park switch is closed to battery current
+multi-function switch, and to the front wiper motor.       through the fused ignition switch output (run-acc)
+Within the right multi-function switch, this battery       circuit of the front wiper motor. The park switch
+current is fed to one side of the control coil in the      sense circuit directs this battery current to the low
+wiper motor relay, and to the electronic intermittent      speed brush of the wiper motor through the normally
+wipe logic circuit, which are both integral to the         closed circuit of the wiper motor relay and the Off
+switch.                                                    mode circuitry of the wiper switch. This causes the
+  The intermittent wipe and wipe-after-wash fea-           wiper motor to continue running until the wiper
+tures of the front wiper and washer system are both        blades are in the down position on the windshield
+provided by the electronic intermittent wipe logic cir-    and the park switch is again closed to ground.
+cuit within the right multi-function switch. In order
+to provide the intermittent wipe feature, the logic cir-   INTERMITTENT WIPE MODE
+cuit monitors the wiper switch state, the intermittent       When the control stalk of the right multi-function
+delay resistance setting, and the wiper motor park         switch is moved to the Delay position, the Delay
+switch state. In order to provide the wipe-after-wash      mode circuitry within the switch directs battery cur-
+feature, the logic circuit monitors both the front         rent to a request input of the integral logic circuit.
+washer switch state and the wiper motor park switch        The Delay mode circuitry also directs battery current
+state.                                                     through an internal variable resistor to the intermit-
+  The hard wired circuits and components of the            tent wipe delay sense input of the logic circuit, which
+front wiper and washer system may be diagnosed             indicates the delay interval that has been selected by
+and tested using conventional diagnostic tools and         the vehicle operator using the control knob on the
+procedures. However, conventional diagnostic meth-         end of the right multi-function switch control stalk.
+

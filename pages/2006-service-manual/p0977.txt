@@ -1,0 +1,60 @@
+TJ                                                                                        ENGINE 2.4L      9 - 17
+
+                       OIL PUMP                                   DESCRIPTION             N·m       Ft.     In.
+                                                                                                   Lbs.    Lbs.
+ DESCRIPTION                 SPECIFICATION
+                                                            Bolts, Connecting Rod        27 +1⁄4    20       -
+                         Metric          Standard
+                                                            Cap                           turn     +1⁄4
+Clearance Over          0.10 mm           0.004 in.                                                turn
+Rotors (Max.)
+                                                            Bolts, Crankshaft Main
+Cover Out-of-           0.025 mm          0.001 in.         Bearing Cap/Bedplate
+Flat (Max.)
+                                                                             M8 Bolts       Refer to procedure
+Inner Rotor            10.699 mm          0.421 in.
+Thickness                                                                    M11 Bolts      Refer to procedure
+(Min.)                                                      Crankshaft Damper             136      100       -
+Outer Rotor            10.699 mm          0.421 in.         Bolts, Cylinder Head         (Refer to 9 - ENGINE/
+Thickness                                                                                CYLINDER HEAD - IN-
+(Min.)                                                                                       STALLATION)
+Outer Rotor             0.039 mm          0.015 in.         Bolts, Cylinder Head           12       -       105
+Clearance                                                   Cover
+(Max.)                                                      Flex Plate to Crankshaft       95      70        -
+Outer Rotor Di-        85.924 mm          3.383 in.         Flywheel Mounting Bolts        81      60        -
+ameter (Min.)
+                                                            Bolts, Engine Mount            61      45        -
+Tip Clearance           0.20 mm           0.008 in.         Bracket Right
+Between Rotors
+                                                            Bolts, Engine Mounting        (Refer to 9 ENGINE/
+(Max.)
+                                                                                          ENGINE MOUNTING)
+                  OIL PRESSURE                              Bolts, Exhaust Manifold        23       -       200
+                                                            to Cylinder Head
+ DESCRIPTION                 SPECIFICATION                  Bolts, Exhaust Manifold        12       -       105
+                         Metric          Standard           Heat Shield
+At Curb Idle             25 kPa              4 psi          Bolts, Intake Manifold -       28       -       250
+Speed*                                                      Lower
+At 3000 rpm           170 - 550 kPa     25 - 80 psi         Oil Filter                     20      15        -
+CAUTION:                                                    Bolts, Oil Pan                 12       -       105
+*If pressure is ZERO at curb idle, DO NOT run en-           Plug, Oil Pan Drain            27      20        -
+gine at 3000 rpm.
+                                                            Bolts, Oil Pump to Block       28       -       250
+SPECIFICATIONS - TORQUE                                     Bolts, Oil Pump Cover          12       -       105
+                                                            Plate
+     DESCRIPTION               N·m       Ft.          In.   Bolt, Oil Pump Pick-up         28      20        -
+                                        Lbs.         Lbs.   Tube
+Bolts, Balance Shaft Car-         54    40            -     Cap - Oil Pump Relief          41      30        -
+rier to Block                                               Valve
+Fastener - Double End-            12     -           105    Spark Plugs                    18      13        -
+ed, Balance Shaft Gear
+Cover                                                       Bolts, Timing Belt Covers
+
+Bolt, Balance Shaft               28     -           250       - Front Covers to Rear      12       -       105
+Sprocket                                                                       Covers
+Bolts, Balance Shaft              12     -           105                  - Rear Cover     12       -       105
+Chain Tensioner                                             Bolts, Timing Belt Ten-        61      45        -
+Bolts, Balance Shaft Car-         12     -           105    sioner Assembly
+rier Cover
+Bolt, Camshaft Sprocket           115   85            -
+

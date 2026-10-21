@@ -1,0 +1,61 @@
+8A - 4    AUDIO/VIDEO                                                                                     TJ
+
+  (4) Connect wire harness connector and retainer.       tor at the radio.
+  (5) Install the center console (Refer to 23 - BODY/
+INTERIOR/CENTER CONSOLE - INSTALLATION).
+  (6) Connect the battery negative cable.
+
+
+ANTENNA BODY & CABLE
+DESCRIPTION
+  All models use a fixed-length stainless steel rod-
+type antenna mast, installed on the right front cowl
+side panel of the vehicle. The antenna mast is con-
+nected to the center wire of the coaxial antenna
+cable, and is not grounded to any part of the vehicle.
+  To eliminate static, the antenna base must have a
+good ground. The antenna coaxial cable shield (the
+outer wire mesh of the cable) is grounded to the
+antenna base and the radio chassis.
+  The antenna coaxial cable has an additional dis-
+connect, located behind the right end of the instru-
+ment panel between the radio and the right cowl side
+panel. This additional disconnect allows the instru-
+ment panel assembly to be removed and installed
+                                                                         Fig. 1 Antenna Tests
+without removing the radio.                              TEST 1
+                                                           Test 1 determines if the antenna mast is insulated
+DIAGNOSIS AND TESTING - ANTENNA BODY                     from the base. Proceed as follows:
+AND CABLE                                                  (1) Unplug the antenna coaxial cable connector
+                                                         from the radio chassis and isolate.
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                    (2) Connect one ohmmeter test lead to the tip of
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)                   the antenna mast. Connect the other test lead to the
+BEFORE ATTEMPTING ANY STEERING WHEEL,                    antenna base. Check for continuity.
+STEERING COLUMN, OR INSTRUMENT PANEL                       (3) There should be no continuity. If continuity is
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE                  found, replace the faulty or damaged antenna base
+TO TAKE THE PROPER PRECAUTIONS COULD                     and cable assembly.
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+AND POSSIBLE PERSONAL INJURY.                            TEST 2
+                                                            Test 2 checks the antenna for an open circuit as
+  The following four tests are used to diagnose the      follows:
+antenna with an ohmmeter:                                   (1) Unplug the antenna coaxial cable connector
+  • Test 1 - Mast to ground test                         from the radio chassis.
+  • Test 2 - Tip-of-mast to tip-of-conductor test           (2) Connect one ohmmeter test lead to the tip of
+  • Test 3 - Body ground to battery ground test          the antenna mast. Connect the other test lead to the
+  • Test 4 - Body ground to coaxial shield test.         center pin of the antenna coaxial cable connector.
+  The ohmmeter test lead connections for each test          (3) Continuity should exist (the ohmmeter should
+are shown in Antenna Tests (Fig. 1).                     only register a fraction of an ohm). High or infinite
+                                                         resistance indicates damage to the base and cable
+NOTE: This model has a two-piece antenna coaxial         assembly. Replace the faulty base and cable, if
+cable. Tests 2 and 4 must be conducted in two            required.
+steps to isolate an antenna cable problem. First,
+test the primary antenna cable (integral to the          TEST 3
+antenna body and cable) from the coaxial cable             Test 3 checks the condition of the vehicle body
+connector behind the right side of the instrument        ground connection. This test should be performed
+panel between the radio and the right side cowl          with the battery positive cable removed from the bat-
+panel, to the antenna body. Then, test the second-       tery. Disconnect both battery cables, the negative
+ary antenna cable (instrument panel antenna cable)       cable first. Reconnect the battery negative cable and
+from the coaxial connector behind the right side of      perform the test as follows:
+the instrument panel between the radio and the
+right side cowl panel, to the coaxial cable connec-
+

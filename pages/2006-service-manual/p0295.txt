@@ -1,0 +1,51 @@
+TJ                                                                                        BRAKES - ABS         5 - 43
+
+magnetic induction when a tone wheel passes by the            (2) Disconnect sensor wire connector at harness
+stationary magnetic of the wheel speed sensor.              plug.
+  A gear type tone ring serves as the trigger mecha-          (3) Remove sensor wire from mounting retainers.
+nism for each sensor. The tone rings are mounted at           (4) Clean sensor and surrounding area with shop
+the outboard ends of the front and rear axle shafts.        towel before removal.
+                                                              (5) Remove bolt attaching sensor to steering
+  Different sensors are used at the front and rear
+                                                            knuckle and remove sensor (Fig. 2).
+wheels (Fig. 1). The front/rear sensors have the same
+electrical values but are not interchangeable. The
+sensors have a resistance between 900 and 1300
+ohms.
+
+
+
+
+        Fig. 1 Typical Wheel Speed Sensors
+1 - FRONT SENSOR
+2 - REAR SENSOR
+3 - PICKUP FACE                                                       Fig. 2 Front Wheel Speed Sensor
+                                                            1 - WHEEL SPEED SENSOR PIGTAIL
+FRONT SENSOR AIR GAP                                        2 - STEERING KNUCKLE
+ Front sensor air gap is fixed and not adjustable.          3 - TONE WHEEL
+                                                            4 - FRONT WHEEL SPEED SENSOR
+Only rear sensor air gap is adjustable.
+  Although front air gap is not adjustable, it can be       INSTALLATION
+checked if diagnosis indicates this is necessary. Front       (1) If original sensor will be installed, wipe all
+air gap should be 0.40 to 1.3 mm (0.0157 to 0.051           traces of old spacer material off sensor pickup face.
+in.). If gap is incorrect, the sensor is either loose, or   Use a dry shop towel for this purpose.
+damaged.                                                      (2) Apply Mopar Lock N’ Seal or Loctite t 242 on
+                                                            bolt that secures sensor in steering knuckle. Use new
+REAR SENSOR AIR GAP                                         sensor bolt if original bolt is worn or damaged.
+   A rear sensor air gap adjustment is only needed            (3) Position sensor on steering knuckle. Seat sen-
+when reinstalling an original sensor. Replacement           sor locating tab in hole in knuckle and install sensor
+sensors have an air gap spacer attached to the sensor       attaching bolt finger tight.
+pickup face. The spacer establishes correct air gap           (4) Tighten sensor attaching bolt to 4-6 N·m (34-50
+when pressed against the tone ring during installa-         in. lbs.).
+tion. As the tone ring rotates, it peels the spacer off       (5) If original sensor has been installed, check sen-
+the sensor to create the required air gap. Rear sensor      sor air gap. Air gap should be 0.40 to 1.3 mm (0.0157
+air gap is 0.28-1.5 mm (0.011-0.059 in.).                   to 0.051 in.). If gap is incorrect, sensor is either loose,
+   Sensor air gap measurement, or adjustment proce-         or damaged.
+dures are provided in this section. Refer to the front,       (6) Route sensor wire and install into mounting
+or rear sensor removal and installation procedures as       retainers.
+required.                                                     (7) Connect sensor wire to harness.
+
+REMOVAL
+  (1) Raise vehicle and turn wheel outward to access
+the sensor.
+

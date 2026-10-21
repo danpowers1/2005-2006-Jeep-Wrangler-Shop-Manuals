@@ -1,0 +1,14 @@
+TJ                                                       INSTRUMENT CLUSTER   8J - 43
+
+gauge or the instrument cluster circuitry that con-
+trols the gauge, (Refer to 8 - ELECTRICAL/INSTRU-
+MENT CLUSTER - DIAGNOSIS AND TESTING). If
+the instrument cluster turns on the check gauges
+indicator due to a charge fail or voltage high condi-
+tion, it may indicate that the charging system
+requires service. For proper diagnosis of the charging
+system, the PCM, the PCI data bus, or the electronic
+message inputs to the instrument cluster that control
+the voltage gauge, a DRBIIIt scan tool is required.
+Refer to the appropriate diagnostic information.
+

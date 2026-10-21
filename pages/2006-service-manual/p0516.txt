@@ -1,0 +1,56 @@
+8L - 4    LAMPS/LIGHTING - EXTERIOR                                                                            TJ
+
+          CONDITION                         POSSIBLE CAUSES                          CORRECTION
+
+  ONE TURN SIGNAL LAMP              1. Faulty or missing bulb                1. Test and replace turn signal
+   DOES NOT ILLUMINATE                                                       bulb as required.
+                                    2. Faulty ground circuit.                2. Test and repair open ground
+                                                                             circuit
+                                    3. Faulty signal circuit.                3. Test and repair open right or
+                                                                             left turn signal circuit.
+
+  ALL RIGHT SIDE AND/OR             1. Faulty multifunction switch.          1. Test and replace the multi-
+  LEFT SIDE TURN SIGNAL                                                      function switch as required.
+   LAMPS DO NOT FLASH
+                                    2. Faulty flasher.                       2. Replace the hazard switch/
+                                                                             combination flasher.
+
+
+     ALL RIGHT SIDE OR              1. Faulty or missing bulb.               1. Test and replace faulty bulb
+    LEFT SIDE TURN SIG-                                                      as required.
+    NALS FLASH RAPIDLY
+                                    2. Faulty ground circuit.                2. Test and repair open ground
+                                                                             circuit as required.
+                                    3. Faulty signal circuit.                3. Test and repair high resis-
+                                                                             tance or open signal circuit as
+                                                                             required.
+                                    4. Faulty flasher.                       4. Replace flasher.
+
+     HAZARD WARNING                 1. Faulty or missing fuse.               2. Test and replace fuse as
+   LAMPS DO NOT FLASH                                                        required.
+                                    2. Faulty ground circuit.                2. Test and repair high resis-
+                                                                             tance or open ground circuit.
+                                    3. Open battery positive voltage cir-    3. Test and repair open battery
+                                    cuit to hazard warning switch.           voltage circuit to hazard warn-
+                                                                             ing switch.
+                                    4. Faulty flasher                        4. Replace flasher
+                                    5. Faulty multifunction switch.          5. Test and replace the multi-
+                                                                             function switch as required.
+
+
+DIAGNOSIS AND TESTING - HEADLAMP SYS-                       THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                            TEM CAPACITOR TO DISCHARGE BEFORE PER-
+TEM
+                                                            FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+  Always begin any diagnosis by testing all of the          IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+fuses and circuit breakers in the system. Refer to the      SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+appropriate wiring information.                             CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                            BAG DEPLOYMENT AND POSSIBLE PERSONAL
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                            INJURY.
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+ATTEMPTING ANY STEERING WHEEL, STEERING                       Conventional and halogen headlamps are inter-
+COLUMN, OR INSTRUMENT PANEL COMPONENT                       changeable. It is recommended that they not be
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                   intermixed.
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+

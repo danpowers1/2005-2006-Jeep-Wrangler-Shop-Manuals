@@ -1,0 +1,61 @@
+TJ                                                                                        AUDIO/VIDEO        8A - 3
+
+                                             Audio System Diagnosis
+
+   CONDITION           POSSIBLE CAUSE                                     CORRECTION
+
+NO COMPACT          1. CD damaged.              1. Insert known good CD and test operation.
+DISC OPERA-
+TION
+                    2. Foreign material on      2. Clean CD and test operation.
+                    CD.
+                    3. Condensation on CD       3. Allow temperature of vehicle interior to stabilize and test op-
+                    or optics.                  eration.
+                    4. Radio inoperative        4. Exchange or replace radio, if required.
+
+
+AMPLIFIED SUBWOOFER                                          (1) Turn the ignition switch to the On position.
+                                                          Turn the radio receiver on. Adjust the balance and
+                                                          fader controls to check the performance of each indi-
+DESCRIPTION
+                                                          vidual speaker. Note the speaker locations that are
+  The available amplified subwoofer is mounted            not performing correctly.
+within the center console. The amplified subwoofer is        (2) Disconnect the wire harness connector from the
+rated at 80 watts. The amplified subwoofer should be      amplified subwoofer. Turn the ignition switch to the
+checked if there is no bass output noted from the         ON position. Turn the radio ON. Check the radio
+center console speaker. The amplified subwoofer can       choke relay wire harness connector. If not OK, repair
+not be repaired or adjusted, and if faulty or damaged,    shorted or open wires as necessary. If OK, go to
+the unit must be replaced.                                (STEP #3).
+                                                             (3) Turn the radio off. Turn the ignition switch to
+OPERATION                                                 the Off position. Disconnect and isolate the battery
+  The amplified subwoofer provides low frequency          negative cable. Remove the radio and the amplified
+bass and receives inputs from the front and rear          subwoofer. Check both the speaker feed (+) circuit
+speaker circuits.                                         and return (–) circuit cavities for the inoperative
+                                                          speaker location(s) from the radio wire harness con-
+DIAGNOSIS AND TESTING - AMPLIFIED SUB-                    nectors and to the amplified subwoofer for continuity.
+WOOFER                                                    In each case, there should be continuity. If not OK,
+                                                          repair the shorted speaker feed (+) and/or return (–)
+  Any diagnosis of the Audio system should                circuit(s) to the speaker as required. If OK, replace
+begin with the use of the DRB IIIt diagnostic             the amplified subwoofer.
+tool. For information on the use of the DRB
+IIIt, refer to the appropriate Diagnostic Service         REMOVAL
+Manual.                                                     (1) Disconnect and isolate the battery negative
+  For complete circuit diagrams, refer to the appro-      cable.
+priate wiring information.                                  (2) Remove the center console (Refer to 23 -
+                                                          BODY/INTERIOR/CENTER              CONSOLE          -
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                   REMOVAL).
+BAGS, REFER TO ELECTRICAL, RESTRAINTS                       (3) Disconnect wire harness retainer.
+BEFORE ATTEMPTING ANY STEERING WHEEL,                       (4) Disconnect wire harness connector.
+STEERING COLUMN, OR INSTRUMENT PANEL                        (5) Remove the mounting screws from the side of
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE                   the console.
+TO TAKE THE PROPER PRECAUTIONS COULD                        (6) Open console lid and remove the retaining fas-
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT                    teners from the console.
+AND POSSIBLE PERSONAL INJURY.                               (7) Remove amplified subwoofer from console.
+
+CAUTION: The speaker output of the radio is a             INSTALLATION
+“floating ground” system. Do not allow any speaker          (1) Install amplified subwoofer to console.
+lead to short to ground, as damage to the radio             (2) Install retaining fasteners to the top of the con-
+may result.                                               sole.
+                                                            (3) Install the mounting screws to the side of the
+                                                          console.
+

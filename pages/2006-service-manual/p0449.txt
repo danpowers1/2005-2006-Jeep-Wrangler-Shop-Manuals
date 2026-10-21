@@ -1,0 +1,58 @@
+TJ                                                                                                             IGNITION CONTROL                  8I - 1
+
+                                                    IGNITION CONTROL
+                                                         TABLE OF CONTENTS
+
+                                                                     page                                                                          page
+
+IGNITION CONTROL                                                                   4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1            COIL RAIL - 4.0L
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 13
+  SPECIFICATIONS                                                                 OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+    ENGINE FIRING ORDER - 2.4L . . . . . . . . . . . . 2                         REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+    ENGINE FIRING ORDER - 4.0L . . . . . . . . . . . . 2                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+    IGNITION COIL RESISTANCE - 2.4L . . . . . . . . 3                          IGNITION COIL - 2.4L
+    IGNITION COIL RESISTANCE - 4.0L ENGINE . 3                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+    SPARK PLUGS . . . . . . . . . . . . . . . . . . . . . . . . 3                OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+    SPARK PLUG CABLE RESISTANCE . . . . . . . . 3                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+    TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 16
+AUTO SHUT DOWN RELAY                                                           SPARK PLUG
+  DESCRIPTION - PCM OUTPUT . . . . . . . . . . . . . 4                           DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 16
+  OPERATION                                                                      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+    ASD SENSE - PCM INPUT . . . . . . . . . . . . . . . 4                        DIAGNOSIS AND TESTING - SPARK PLUG
+    PCM OUTPUT . . . . . . . . . . . . . . . . . . . . . . . . . 4                 CONDITIONS . . . . . . . . . . . . . . . . . . . . . . . . . 16
+  DIAGNOSIS AND TESTING - ASD AND FUEL                                           REMOVAL
+    PUMP RELAYS . . . . . . . . . . . . . . . . . . . . . . . . 4                  2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+  REMOVAL        .............................5                                    4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6             CLEANING SPARK PLUGS . . . . . . . . . . . . . . . . 19
+CAMSHAFT POSITION SENSOR                                                         INSTALLATION
+  DESCRIPTION                                                                      2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+    2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6       4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+    4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6   SPARK PLUG CABLE
+  OPERATION                                                                      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 19
+    2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+    4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7     DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 19
+  REMOVAL                                                                        REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . . . 20
+    2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 20
+    4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+  INSTALLATION
+    2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+IGNITION CONTROL                                                               OPERATION
+
+DESCRIPTION                                                                    2.4L
+  The ignition systems used on both the 2.4L 4–cyl-                               A common ignition coil divided into 2 halves is
+inder and 4.0L 6–cylinder engines are a distributor-                           used. Secondary, high-tension spark plug cables are
+less type.                                                                     also used. One half of the coil fires two spark plugs
+  The ignition system consists of:                                             simultaneously (one plug is the cylinder under com-
+  • Spark Plugs                                                                pression, and the other plug is the cylinder on the
+  • Spark Plug Cables (secondary wires)                                        exhaust stroke). Coil half number one fires cylinders
+  • Ignition Coil(s)                                                           1 and 4. Coil half number two fires cylinders 2 and 3.
+  • Powertrain Control Module (PCM)                                            The PCM determines which of the coils to charge and
+  • Crankshaft Position Sensor                                                 fire at the correct time.
+  • Camshaft Position Sensor                                                      The Auto Shutdown (ASD) relay provides battery
+  • The MAP, TPS, IAC and ECT also have an effect                              voltage to the ignition coil. The PCM provides a
+on the control of the ignition system.                                         ground contact (circuit) for energizing the coil. When
+                                                                               the PCM breaks the contact, the energy in the coil
+                                                                               primary transfers to the secondary causing a spark.
+

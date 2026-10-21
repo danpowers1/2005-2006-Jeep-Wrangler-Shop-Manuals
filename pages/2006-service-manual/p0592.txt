@@ -1,0 +1,60 @@
+8O - 38    RESTRAINTS                                                                                      TJ
+
+continuity. If OK, go to Step 3. If not OK, repair the
+open ground circuit to ground (G302) as required.
+  (3) Remove the instrument cluster from the instru-
+ment panel. Check for continuity between the seat
+belt switch sense circuit cavity of the body wire har-
+ness connector for the seat belt switch and a good
+ground. There should be no continuity. If OK, go to
+Step 4. If not OK, repair the shorted seat belt switch
+sense circuit between the seat belt switch and the
+instrument cluster as required.
+  (4) Check for continuity between the seat belt
+switch sense circuit cavities of the body wire harness
+connector for the seat belt switch and the instrument
+panel wire harness connector (Connector C2) for the
+instrument cluster. There should be continuity. If
+OK, test and replace the faulty instrument cluster as        Fig. 42 Front Turning Loop Height Adjuster
+required. (Refer to 8 - ELECTRICAL/INSTRUMENT            1 - ADJUSTER
+CLUSTER - DIAGNOSIS AND TESTING). If not OK,             2 - SPORT BAR
+repair the open seat belt switch sense circuit between   3 - TRIM COVER
+                                                         4 - TURNING LOOP
+the seat belt switch and the instrument cluster as
+required.                                                  (2) Remove the screw that secures the shoulder
+                                                         belt turning loop to the height adjuster.
+                                                           (3) Remove the front seat belt turning loop and the
+SEAT BELT TURNING LOOP                                   support/guide washer from the height adjuster.
+ADJUSTER                                                   (4) Unsnap and remove the trim cover from the
+                                                         front seat belt turning loop height adjuster to access
+REMOVAL                                                  the screws that secure the adjuster to the upper
+                                                         sport bar.
+WARNING: TO AVOID PERSONAL INJURY OR                       (5) Remove the two screws that secure the height
+DEATH, DURING AND FOLLOWING ANY SEAT BELT                adjuster to the upper sport bar.
+OR CHILD RESTRAINT ANCHOR SERVICE, CARE-                   (6) Remove the front seat belt turning loop height
+FULLY INSPECT ALL SEAT BELTS, BUCKLES,                   adjuster from the upper sport bar.
+MOUNTING HARDWARE, RETRACTORS, TETHER
+STRAPS, AND ANCHORS FOR PROPER INSTALLA-
+TION, OPERATION, OR DAMAGE. REPLACE ANY
+BELT THAT IS CUT, FRAYED, OR TORN.
+STRAIGHTEN ANY BELT THAT IS TWISTED.
+TIGHTEN ANY LOOSE FASTENERS. REPLACE ANY
+BELT THAT HAS A DAMAGED OR INOPERATIVE
+BUCKLE OR RETRACTOR. REPLACE ANY BELT
+THAT HAS A BENT OR DAMAGED LATCH PLATE
+OR ANCHOR PLATE. REPLACE ANY CHILD
+RESTRAINT ANCHOR OR THE UNIT TO WHICH THE
+ANCHOR IS INTEGRAL THAT HAS BEEN BENT OR
+DAMAGED. NEVER ATTEMPT TO REPAIR A SEAT
+BELT OR CHILD RESTRAINT COMPONENT.
+ALWAYS REPLACE DAMAGED OR FAULTY SEAT
+BELT AND CHILD RESTRAINT COMPONENTS WITH
+THE CORRECT, NEW AND UNUSED REPLACEMENT
+PARTS LISTED IN THE DAIMLERCHRYSLER MOPAR
+PARTS CATALOG.
+
+  (1) Unsnap and lift the trim cover from the front
+seat belt turning loop to access the screw that
+secures the turning loop to the height adjuster on the
+upper sport bar (Fig. 42).
+

@@ -1,0 +1,55 @@
+8W - 01 - 8                           8W-01 WIRING DIAGRAM INFORMATION                                     TJ
+
+  (2) Avoid touching electrical terminals of the part,
+unless instructed to do so by a written procedure.
+  (3) When using a voltmeter, be sure to connect the
+ground lead first.
+  (4) Do not remove the part from it’s protective
+packing until it is time to install the part.
+  (5) Before removing the part from it’s package,
+ground the package to a known good ground on the
+vehicle.
+
+STANDARD PROCEDURE - TESTING OF VOLT-
+AGE POTENTIAL
+
+
+
+
+                                                                  Fig. 7 TESTING FOR CONTINUITY
+                                                         1 - FUSE REMOVED FROM CIRCUIT
+
+                                                            (1) Remove the fuse (1) for the circuit being
+                                                         checked or, disconnect the battery.
+                                                            (2) Connect one lead of the ohmmeter to one side
+                                                         of the circuit being tested
+                                                            (3) Connect the other lead to the other end of the
+                                                         circuit being tested. Low or no resistance means good
+                                                         continuity.
+
+                                                         STANDARD PROCEDURE - TESTING FOR A
+    Fig. 6 TESTING FOR VOLTAGE POTENTIAL
+                                                         SHORT TO GROUND
+                                                           (1) Remove the fuse and disconnect all items
+  (1) Connect the ground lead of a voltmeter to a        involved with the fuse.
+known good ground.                                         (2) Connect a test light or a voltmeter across the
+  (2) Connect the other lead of the voltmeter to the     terminals of the fuse.
+selected test point. The vehicle ignition may need to      (3) Starting at the fuse block, wiggle the wiring
+be turned ON to check voltage. Refer to the appropri-    harness about six to eight inches apart and watch
+ate test procedure.                                      the voltmeter/test lamp.
+                                                           (4) If the voltmeter registers voltage or the test
+STANDARD PROCEDURE - TESTING FOR CON-                    lamp glows, there is a short to ground in that gen-
+TINUITY                                                  eral area of the wiring harness.
+
+                                                         STANDARD PROCEDURE - TESTING FOR A
+                                                         SHORT TO GROUND ON FUSES POWERING
+                                                         SEVERAL LOADS
+                                                            (1) Refer to the wiring diagrams and disconnect or
+                                                         isolate all items on the suspected fused circuits.
+                                                            (2) Replace the blown fuse.
+                                                            (3) Supply power to the fuse by turning ON the
+                                                         ignition switch or re-connecting the battery.
+                                                            (4) Start connecting or energizing the items in the
+                                                         fuse circuit one at a time. When the fuse blows the
+                                                         circuit with the short to ground has been isolated.
+

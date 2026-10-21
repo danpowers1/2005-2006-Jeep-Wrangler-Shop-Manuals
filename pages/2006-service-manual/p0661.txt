@@ -1,0 +1,60 @@
+TJ                              8W-01 WIRING DIAGRAM INFORMATION                                        8W - 01 - 5
+
+LHD . . . . . . . . . . . . . . . . Left Hand Drive Vehicles       CIRCUIT IDENTIFICATION CODE CHART
+RHD . . . . . . . . . . . . . . . Right Hand Drive Vehicles
+ATX . Automatic Transmissions-Front Wheel Drive                    CIRCUIT                    FUNCTION
+MTX . . . Manual Transmissions-Front Wheel Drive               A                  BATTERY FEED
+AT . . . Automatic Transmissions-Rear Wheel Drive              B                  BRAKE CONTROLS
+MT . . . . . Manual Transmissions-Rear Wheel Drive
+                                                               C                  CLIMATE CONTROLS
+SOHC . . . . . . . . . . . Single Over Head Cam Engine
+DOHC . . . . . . . . . . Double Over Head Cam Engine           D                  DIAGNOSTIC CIRCUITS
+Export . . Vehicles Built For Sale In Markets Other            E                  DIMMING ILLUMINATION CIR-
+                                         Than North America                       CUITS
+Except Export . . . Vehicles Built For Sale In North           F                  FUSED CIRCUITS
+                                                    America
+                                                               G                  MONITORING CIRCUITS (GAUG-
+DESCRIPTION - CIRCUIT INFORMATION                                                 ES)
+  Each wire shown in the diagrams contains a code              H                  MULTIPLE
+which identifies the main circuit, a specific part of          I                  NOT USED
+the main circuit, gage of wire, and color. An example          J                  OPEN
+would be A 2 18 LB/YL. This is a Battery Feed cir-
+cuit, level two, eighteen gauge, light blue with a yel-        K                  POWERTRAIN CONTROL MOD-
+low tracer.                                                                       ULE
+                                                               L                  EXTERIOR LIGHTING
+            WIRE COLOR CODE CHART
+                                                               M                  INTERIOR LIGHTING
+    COLOR CODE                        COLOR                    N                  MULTIPLE
+BL                       BLUE                                  O                  NOT USED
+BK                       BLACK                                 P                  POWER OPTION (BATTERY
+BR                       BROWN                                                    FEED)
+DB                       DARK BLUE                             Q                  POWER OPTIONS (IGNITION
+                                                                                  FEED)
+DG                       DARK GREEN
+                                                               R                  PASSIVE RESTRAINT
+GY                       GRAY
+                                                               S                  SUSPENSION/STEERING
+LB                       LIGHT BLUE
+                                                               T                  TRANSMISSION/TRANSAXLE/
+LG                       LIGHT GREEN                                              TRANSFER CASE
+OR                       ORANGE                                U                  OPEN
+PK                       PINK                                  V                  SPEED CONTROL, WIPER/
+RD                       RED                                                      WASHER
+TN                       TAN                                   W                  WIPERS
+VT                       VIOLET                                X                  AUDIO SYSTEMS
+WT                       WHITE                                 Y                  TEMPORARY
+YL                       YELLOW                                Z                  GROUNDS
+*                        WITH TRACER
+                                                               DESCRIPTION - SECTION IDENTIFICATION AND
+DESCRIPTION - CIRCUIT FUNCTIONS                                INFORMATION
+  All circuits in the diagrams use an alpha/numeric               The wiring diagrams are grouped into individual
+code to identify the wire and it’s function. To identify       sections. If a component is most likely found in a par-
+which circuit code applies to a system, refer to the           ticular group, it will be shown complete (all wires,
+Circuit Identification Code Chart. This chart shows            connectors, and pins) within that group. For exam-
+the main circuits only and does not show the second-           ple, the Auto Shutdown Relay is most likely to be
+ary codes that may apply to some models.                       found in Group 30, so it is shown there complete. It
+                                                               can, however, be shown partially in another group if
+                                                               it contains some associated wiring.
+                                                                  Splice diagrams in Section 8W-70 show the entire
+                                                               splice and provide references to other sections the
+

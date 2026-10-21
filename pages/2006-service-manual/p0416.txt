@@ -1,0 +1,77 @@
+8F - 22       CHARGING                                                                                                                  TJ
+
+                                                          CHARGING
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                    page
+
+CHARGING                                                                 OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 22        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 22      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 26
+ DIAGNOSIS AND TESTING - CHARGING                                       GENERATOR DECOUPLER PULLEY
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22     DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+ SPECIFICATIONS                                                          OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+   GENERATOR RATINGS . . . . . . . . . . . . . . . . . 23                DIAGNOSIS AND TESTING - GENERATOR
+   TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23       DECOUPLER . . . . . . . . . . . . . . . . . . . . . . . . . 27
+ SPECIAL TOOLS       . . . . . . . . . . . . . . . . . . . . . . . 24    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+BATTERY TEMPERATURE SENSOR                                               INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24       VOLTAGE REGULATOR
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 24      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 24
+GENERATOR
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+CHARGING                                                                   A battery temperature sensor, located in the bat-
+                                                                        tery tray housing, is used to sense battery tempera-
+                                                                        ture. This temperature data, along with data from
+DESCRIPTION
+                                                                        monitored line voltage, is used by the PCM to vary
+  The charging system consists of:
+                                                                        the battery charging rate. This is done by cycling the
+  • Generator
+                                                                        ground path to control the strength of the rotor mag-
+  • Generator Decoupler Pulley (if equipped)
+                                                                        netic field. The PCM then compensates and regulates
+  • Electronic Voltage Regulator (EVR) circuitry
+                                                                        generator current output accordingly.
+within the Powertrain Control Module (PCM)
+                                                                           All vehicles are equipped with On-Board Diagnos-
+  • Ignition switch
+                                                                        tics (OBD). All OBD-sensed systems, including EVR
+  • Battery (refer to 8, Battery for information)
+                                                                        (field control) circuitry, are monitored by the PCM.
+  • Battery temperature sensor
+                                                                        Each monitored circuit is assigned a Diagnostic Trou-
+  • Generator Lamp (if equipped)
+                                                                        ble Code (DTC). The PCM will store a DTC in elec-
+  • Check Gauges Lamp (if equipped)
+                                                                        tronic memory for certain failures it detects. Refer to
+  • Voltmeter (refer to 8, Instrument Cluster for
+                                                                        Diagnostic Trouble Codes in; Powertrain Control
+information)
+                                                                        Module; Electronic Control Modules for more DTC
+  • Wiring harness and connections (refer to 8, Wir-
+                                                                        information.
+ing for information)
+                                                                           The Check Gauges Lamp (if equipped) monitors:
+                                                                        charging system voltage, engine coolant tempera-
+OPERATION                                                               ture and engine oil pressure. If an extreme condition
+  The charging system is turned on and off with the                     is indicated, the lamp will be illuminated. This is
+ignition switch. The system is on when the engine is                    done as reminder to check the three gauges. The sig-
+running and the ASD relay is energized. When the                        nal to activate the lamp is sent via the CCD bus cir-
+ASD relay is on, voltage is supplied to the ASD relay
+                                                                        cuits. The lamp is located on the instrument panel.
+sense circuit at the PCM. This voltage is connected
+                                                                        Refer to 8, Instrument Cluster for additional infor-
+through the PCM and supplied to one of the genera-                      mation.
+tor field terminals (Gen. Source +) at the back of the
+generator.
+                                                                        DIAGNOSIS AND TESTING - CHARGING SYS-
+  The amount of DC current produced by the gener-
+ator is controlled by the EVR (field control) circuitry                 TEM
+contained within the PCM. This circuitry is con-                          The following procedures may be used to diagnose
+nected in series with the second rotor field terminal                   the charging system if:
+and ground.                                                               • the check gauges lamp (if equipped) is illumi-
+                                                                        nated with the engine running
+

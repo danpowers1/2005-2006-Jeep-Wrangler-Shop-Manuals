@@ -1,0 +1,50 @@
+21 - 158     AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+
+CONVERTER CLUTCH CONTROL VALVE                             REMOVAL
+                                                           NOTE: If valve body is being reconditioned or
+                                                           replaced, it is necessary to perform the Quick Learn
+                                                           Procedure. (Refer to 8 - ELECTRICAL/ELECTRONIC
+                                                           CONTROL MODULES/TRANSMISSION CONTROL
+                                                           MODULE - STANDARD PROCEDURE)
+
+
+
+
+                                                               Fig. 266 Remove Transmission Oil Pan Bolts
+      Fig. 265 Converter Clutch Control Valve              1 - TRANSMISSION OIL PAN
+                                                           2 - BOLTS
+1 - CONVERTER CLUTCH
+2 - TORQUE CONVERTER
+3 - LR/CC SOLENOID                                            (1) Disconnect the TRS and solenoid wiring con-
+4 - FROM MANUAL VALVE                                      nectors.
+5 - CONVERTER CLUTCH CONTROL VALVE                            (2) Disconnect the shift cable from the shift lever
+6 - TORQUE CONVERTER REGULATOR VALVE
+7 - CONVERTER CLUTCH SWITCH VALVE                          (at the transmission).
+8 - BYPASS VALVE                                              (3) Move the manual shift lever clockwise as far as
+9 - COOLER                                                 it will go. This should be one position past the L posi-
+                                                           tion. Then remove the manual shift lever.
+  The converter clutch control valve (5) (Fig. 265)
+controls the back (on) side of the torque converter        NOTE: One of the oil pan bolts has a sealing patch
+clutch (1). When the controller energizes or modu-         applied from the factory. Separate this bolts for
+lates the LR/CC solenoid to apply the converter            reuse.
+clutch piston, both the converter clutch control valve
+(5) and the converter control valve move, allowing           (4) Remove transmission pan bolts (2) (Fig. 266).
+pressure to be applied to the back side of the clutch.
+
+T / C REGULATOR VALVE
+  The torque converter regulator valve slightly regu-
+lates the flow of fluid to the torque converter.
+
+LOW / REVERSE SWITCH VALVE
+   The low/reverse clutch is applied from different
+sources, depending on whether low (1st) gear or
+reverse is selected. The low/reverse switch valve
+alternates positions depending on from which direc-
+tion fluid pressure is applied. By design, when the
+valve is shifted by fluid pressure from one channel,
+the opposing channel is blocked. The switch valve
+alienates the possibility of a sticking ball check, thus
+providing consistent application of the low/reverse
+clutch under these operating conditions.                          Fig. 267 Remove Transmission Oil Pan
+                                                           1 - TRANSMISSION OIL PAN
+

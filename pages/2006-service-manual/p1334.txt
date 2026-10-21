@@ -1,0 +1,43 @@
+21 - 144     AUTOMATIC TRANSMISSION - 42RLE                                                                  TJ
+
+doesn’t close, it is tested again. If the switch fails to     (4) Remove Solenoid/Pressure Switch Assembly (1)
+close the second time, the appropriate Diagnostic           and screen from valve body (2) (Fig. 240).
+Trouble Code (DTC) will set.
+                                                            INSTALLATION
+REMOVAL
+                                                            NOTE: If the Solenoid/Pressure Switch assembly is
+NOTE: If the Solenoid/Pressure Switch Assembly is           being replaced, the Quick Learn Procedure must be
+being replaced, the Quick Learn Procedure must be           performed. (Refer to 8 - ELECTRICAL/ELECTRONIC
+performed. (Refer to 8 - ELECTRICAL/ELECTRONIC              CONTROL MODULES/TRANSMISSION CONTROL
+CONTROL MODULES/TRANSMISSION CONTROL                        MODULE - STANDARD PROCEDURE)
+MODULE - STANDARD PROCEDURE)
+
+
+
+
+                                                             Fig. 241 Solenoid/Pressure Switch Assembly and
+         Fig. 239 Solenoid Retaining Screws
+                                                                                  Screen
+1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+2 - RETAINING SCREWS                                        1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+                                                            2 - VALVE BODY
+                                                            3 - SCREEN
+  (1) Raise vehicle on hoist.
+  (2) Remove valve body assembly from transmis-               (1) Install Solenoid/Pressure Switch Assembly (1)
+sion. (Refer to 21 - TRANSMISSION/AUTOMATIC -               (Fig. 241) and screen (3) to the separator and trans-
+42RLE/VALVE BODY - REMOVAL)                                 fer plates.
+  (3) Remove Solenoid/Pressure Switch Assembly
+retaining screws (2) from solenoid (Fig. 239).
+
+
+
+
+                                                                    Fig. 242 Solenoid Retaining Screws
+                                                            1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+                                                            2 - RETAINING SCREWS
+ Fig. 240 Solenoid/Pressure Switch Assembly and
+                      Screen                                  (2) Install and tighten retaining screws (2) (Fig.
+1 - SOLENOID/PRESSURE SWITCH ASSEMBLY                       242) to 5.5 N·m (50 in. lbs.) torque.
+2 - VALVE BODY
+3 - SCREEN
+

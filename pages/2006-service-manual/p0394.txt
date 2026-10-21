@@ -1,0 +1,57 @@
+8E - 18    ELECTRONIC CONTROL MODULES                                                                          TJ
+
+             Schedule                            Condition                       Expected Operation
+- No EMCC
+Warm                                 Oil temperature at start-up above    - Normal operation (upshift, kick-
+                                     2° C (36° F) and below 27° C (80°    downs, and coastdowns)
+                                     F)
+- No EMCC
+Hot                                  Oil temperature at start-up above    - Normal operation (upshift, kick-
+                                     27° C (80° F)                        downs, and coastdowns)
+
+
+- Full EMCC, no PEMCC except to
+engage FEMCC (except at closed
+throttle at speeds above 70-83
+mph)
+Overheat                             Oil temperature above 115° C         - Delayed 2-3 upshift (25-32 mph)
+                                     (240° F) or engine coolant temper-   - Delayed 3-4 upshift (41-48 mph)
+                                     ature above 118° C (244° F)
+                                                                          - 3rd gear FEMCC from 30-48 mph
+                                                                          - 3rd gear PEMCC from 27-31 mph
+Super Overheat                       Oil temperature above 127° C         - All “Overheat” shift schedule fea-
+                                     (260° F)                             tures apply
+                                                                          - 2nd gear PEMCC above 22 mph
+                                                                          - Above 22 mph the torque con-
+                                                                          verter will not unlock unless the
+                                                                          throttle is closed or if a wide open
+                                                                          throttle 2nd PEMCC to 1 kickdown
+                                                                          is made
+
+
+STANDARD PROCEDURE - TCM QUICK LEARN                      • The shift lever position must stay in overdrive
+                                                        after the Shift to Overdrive prompt until the scan
+  The quick learn procedure requires the use of the
+                                                        tool indicates the procedure is complete.
+scan tool.
+                                                          • The calculated oil temperature must be above
+  This program allows the electronic transmission
+                                                        60° and below 200°
+system to recalibrate itself. This will provide the
+proper transmission operation. The quick learn pro-
+cedure should be performed if any of the following
+procedures are performed:
+  • Transmission Assembly Replacement
+  • Transmission Control Module Replacement
+  • Solenoid Pack Replacement
+  • Clutch Plate and/or Seal Replacement
+  • Valve Body Replacement or Recondition
+  To perform the Quick Learn Procedure, the follow-
+ing conditions must be met:
+  • The brakes must be applied
+  • The engine speed must be above 500 rpm
+  • The throttle angle (TPS) must be less than 3
+degrees
+  • The shift lever position must stay in PARK until
+prompted to shift to overdrive
+

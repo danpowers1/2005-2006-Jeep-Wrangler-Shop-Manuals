@@ -1,0 +1,61 @@
+TJ                                                                                 IGNITION CONTROL         8I - 5
+
+                                                           This is the On position. Terminal 87 supplies voltage
+                                                           to the rest of the circuit.
+                                                             The following procedure applies to the ASD and
+                                                           fuel pump relays.
+                                                             (1) Remove relay from connector before testing.
+                                                             (2) With the relay removed from the vehicle, use
+                                                           an ohmmeter to check the resistance between termi-
+                                                           nals 85 and 86. The resistance should be 75 ohms +/-
+                                                           5 ohms.
+                                                             (3) Connect the ohmmeter between terminals 30
+                                                           and 87A. The ohmmeter should show continuity
+                                                           between terminals 30 and 87A.
+Fig. 2 ASD and Fuel Pump Relay Terminals—Type 1              (4) Connect the ohmmeter between terminals 87
+30 - COMMON FEED                                           and 30. The ohmmeter should not show continuity at
+85 - COIL GROUND                                           this time.
+86 - COIL BATTERY                                            (5) Connect one end of a jumper wire (16 gauge or
+87 - NORMALLY OPEN
+87A - NORMALLY CLOSED                                      smaller) to relay terminal 85. Connect the other end
+                                                           of the jumper wire to the ground side of a 12 volt
+                                                           power source.
+                                                             (6) Connect one end of another jumper wire (16
+                                                           gauge or smaller) to the power side of the 12 volt
+                                                           power source. Do not attach the other end of the
+                                                           jumper wire to the relay at this time.
+
+                                                           WARNING: DO NOT ALLOW OHMMETER TO CON-
+                                                           TACT TERMINALS 85 OR 86 DURING THIS TEST.
+                                                           DAMAGE TO OHMMETER MAY RESULT.
+
+                                                              (7) Attach the other end of the jumper wire to
+                                                           relay terminal 86. This activates the relay. The ohm-
+                                                           meter should now show continuity between relay ter-
+                                                           minals 87 and 30. The ohmmeter should not show
+                                                           continuity between relay terminals 87A and 30.
+                                                              (8) Disconnect jumper wires.
+                                                              (9) Replace the relay if it did not pass the continu-
+Fig. 3 ASD and Fuel Pump Relay Terminals—Type 2            ity and resistance tests. If the relay passed the tests,
+30 - COMMON FEED
+                                                           it operates properly. Check the remainder of the ASD
+85 - COIL GROUND                                           and fuel pump relay circuits. Refer to 8, Wiring Dia-
+86 - COIL BATTERY                                          grams.
+87 - NORMALLY OPEN
+87A - NORMALLY CLOSED
+                                                           REMOVAL
+  • Terminal number 30 is connected to battery volt-         The ASD relay is located in the Power Distribution
+age. For both the ASD and fuel pump relays, termi-         Center (PDC) (Fig. 4). Refer to label on PDC cover
+nal 30 is connected to battery voltage at all times.       for relay location.
+  • The PCM grounds the coil side of the relay
+through terminal number 85.
+  • Terminal number 86 supplies voltage to the coil
+side of the relay.
+  • When the PCM de-energizes the ASD and fuel
+pump relays, terminal number 87A connects to termi-
+nal 30. This is the Off position. In the off position,
+voltage is not supplied to the rest of the circuit. Ter-
+minal 87A is the center terminal on the relay.
+  • When the PCM energizes the ASD and fuel
+pump relays, terminal 87 connects to terminal 30.
+

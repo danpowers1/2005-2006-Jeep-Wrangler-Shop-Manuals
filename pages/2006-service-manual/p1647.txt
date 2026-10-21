@@ -1,0 +1,61 @@
+TJ                                                                                        CONTROLS        24 - 11
+
+  (5) The A/C compressor clutch coil is acceptable if      A / C CLUTCH INSPECTION
+the current draw is 2.0 to 3.7 amperes. Specifications
+apply for a work area temperature of 21° C (70° F). If     NOTE: The A/C clutch can be serviced in the vehi-
+voltage is more than 12.5 volts, add electrical loads      cle. The refrigerant system can remain fully-charged
+by turning on electrical accessories until voltage         during compressor clutch, pulley and bearing
+reads below 12.5 volts.                                    assembly, or coil replacement.
+    (a) If the A/C clutch coil current reading is zero,
+  the coil is open and must be replaced.                      Examine the friction surfaces of the clutch pulley
+    (b) If the A/C clutch coil current reading is above    and the clutch plate for wear (Fig. 3). The pulley and
+  specifications, the coil is shorted and must be          plate should be replaced if there is excessive wear or
+  replaced.                                                scoring.
+                                                              If the friction surfaces are oily, inspect the shaft
+                                                           and nose area of the A/C compressor for refrigerant
+STANDARD PROCEDURE                                         oil. If refrigerant oil is found, the compressor shaft
+                                                           seal is leaking and the A/C compressor must be
+DIODE REPLACEMENT                                          replaced.
+  (1) Disconnect and isolate the negative battery             Check the clutch pulley bearing for roughness or
+cable.                                                     excessive leakage of grease. Replace the pulley and
+  (2) Locate the diode in the A/C clutch wire harness      bearing assembly, if required.
+and remove the protective covering.
+  (3) Remove the diode from the wire harness while
+paying attention to the current flow direction (Fig. 2).
+  (4) Remove the insulation from the wires in the
+harness. Only remove enough insulation to solder in
+the new diode.
+  (5) Install the new diode in the harness, making
+sure current flow is correct. If necessary refer to the
+appropriate wiring diagram for current flow.
+
+CAUTION: To prevent damage to the diode and wir-
+ing, DO NOT use acid core solder.
+
+  (6) Solder the connections together using rosin
+core type solder only.
+  (7) Tape the diode to the harness using electrical
+tape making, sure the diode is completely sealed
+from the elements.
+  (8) Reconnect the negative battery cable, and test
+A/C clutch operation.
+
+
+                                                                      Fig. 3 Clutch Plate and Shim(s)
+                                                           1 - A/C COMPRESSOR SHAFT
+                                                           2 - CLUTCH PLATE
+                                                           3 - SHIM
+
+                                                           A / C CLUTCH BREAK - IN
+                                                             After a new A/C compressor clutch has been
+                                                           installed, cycle the compressor clutch approximately
+                                                           twenty times (five seconds on, then five seconds off).
+                                                           During this procedure, set the A/C-heater controls to
+                                                           the A/C Recirculation Mode, the blower motor in the
+                                                           highest speed position, and the engine speed at 1500
+                                                           to 2000 rpm. This procedure (burnishing) will seat
+              Fig. 2 Diode Identification                  the opposing friction surfaces and provide a higher
+1 - CURRENT FLOW                                           compressor clutch torque capability.
+2 - BAND INDICATES CURRENT FLOW
+3 - DIODE AS SHOWN IN WIRE DIAGRAMS
+

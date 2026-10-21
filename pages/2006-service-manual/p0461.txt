@@ -1,0 +1,52 @@
+TJ                                                                              IGNITION CONTROL         8I - 13
+
+      (f) Remove small screwdriver, or, factory align-
+  ment pin from housing and install plastic cover
+  (two screws).
+  (7) Install CMP sensor to oil pump drive.
+  (8) Install sensor mounting bolt and tighten to 2
+N·m (15 in. lbs.) torque.
+  (9) Connect CMP electrical connector to engine
+wiring harness.
+  (10) If removed, install spark plug and ignition coil
+rail.
+  (11) Connect DRB scan tool to data link connector.
+The data link connector is located in passenger com-
+partment, below steering column.
+  (12) Gain access to “CAM/CRANK RELEARN”
+screen on DRB scan tool.
+
+
+COIL RAIL - 4.0L
+DESCRIPTION
+  A one-piece coil rail assembly containing three           Fig. 23 Ignition Coil Assembly—4.0L 6–Cylinder
+individual coils is used on the 4.0L 6–cylinder engine                            Engine
+(Fig. 23). The coil rail must be replaced as one          1 - CYL. #6
+assembly. The bottom of the coil is equipped with 6       2 - CYL. #5
+individual rubber boots (Fig. 23) to seal the 6 spark     3 - CYL. #4
+                                                          4 - CYL. #3
+plugs to the coil. Inside each rubber boot is a spring.   5 - CYL. #2
+The spring is used for a mechanical contact between       6 - CYL. #1
+                                                          7 - COILS (3)
+the coil and the top of the spark plug. These rubber      8 - MOUNTING BOLTS (4)
+boots and springs are a permanent part of the coil        9 - BOLT BASES (4)
+and are not serviced separately.                          10 - RUBBER BOOTS (6)
+  (1) The coil is bolted directly to the cylinder head
+(Fig. 24). One electrical connector (located at rear of
+coil) is used for all three coils.
+
+
+
+
+                                                                   Fig. 24 Coil Location—4.0L Engine
+                                                          1 - COIL RAIL
+                                                          2 - COIL MOUNTING BOLTS (4)
+                                                          3 - COIL
+                                                          4 - COIL ELECTRICAL CONNECTION
+
+                                                          OPERATION
+                                                            Although cylinder firing order is the same as 4.0L
+                                                          Jeep engines of previous years, spark plug firing is
+                                                          not. The 3 coils dual-fire the spark plugs on cylinders
+                                                          1-6, 2-5 and/or 3-4. When one cylinder is being fired
+

@@ -1,0 +1,61 @@
+TJ                                                                      FRONT WIPERS/WASHERS             8R - 21
+
+features it provides. The switch receives battery cur-     NOSIS AND TESTING). Refer to the appropriate
+rent on a fused ignition switch output (run-acc) cir-      wiring information. The wiring information includes
+cuit from a fuse in the Power Distribution Center          wiring diagrams, proper wire and connector repair
+(PDC) and the wiper and washer system fuse in the          procedures, details of wire harness routing and
+fuse block whenever the ignition switch is in the On       retention, connector pin-out information and location
+or Accessory positions. The electronic intermittent        views for the various wire harness connectors, splices
+wipe logic circuit within the switch receives a logic      and grounds.
+ground at all times through the body wire harness
+from a take out with an eyelet terminal connector          WARNING: TO AVOID PERSONAL INJURY OR
+secured under a ground screw on the left inner cowl        DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+side panel, below the left end of the instrument           DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+panel.                                                     TEM BEFORE ATTEMPTING ANY STEERING
+  Following are descriptions of how the right multi-       WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+function switch control stalk and control knob are         MENT PANEL COMPONENT DIAGNOSIS OR SER-
+operated to control the functions and features they        VICE. DISCONNECT AND ISOLATE THE BATTERY
+provide. Refer to the owner’s manual in the vehicle        NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+glove box for more information on the features, use        MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+and operation of the right multi-function switch.          CHARGE BEFORE PERFORMING FURTHER DIAG-
+  • Front Wash Mode - Pulling the control stalk of         NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+the right multi-function switch towards the steering       TO DISABLE THE SUPPLEMENTAL RESTRAINT
+wheel actuates the momentary single pole, single           SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+throw front washer switch and operates the front           CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+washer pump/motor.                                         BAG DEPLOYMENT.
+  • Front Wipe Modes - Moving the control stalk
+of the right multi-function switch up or down to one          (1) Disconnect and isolate the battery negative
+of four detent positions actuates the triple pole, qua-    cable.
+druple throw front wiper switch and selects the Off,          (2) Remove the right multi-function switch from
+Low, High, or Delay front wiper operating mode.            the steering column and disconnect the body wire
+Moving the control stalk downward from the Off             harness connector for the switch from the switch con-
+position actuates a momentary single pole, single          nector receptacle.
+throw switch that selects the Mist operating mode.            (3) Using an ohmmeter, check the right multi-func-
+  • Intermittent Front Wipe Delay Intervals -              tion switch continuity at the terminals (Fig. 20) in
+Rotating the control knob on the end of the control        the switch connector receptacle as shown in the
+stalk actuates the front wiper delay variable resistor     Right Multi-Function Switch Tests table.
+and selects the wiper delay interval when the Delay
+mode is selected with the front wiper switch control
+stalk.
+  The intermittent wipe logic circuit within the right
+multi-function switch monitors inputs from the front
+wiper switch circuitry, the front washer switch cir-
+cuitry, the front wiper delay variable resistor, and the
+front wiper motor park switch. The programming of
+the logic circuit then determines the proper outputs
+to the front wiper motor. The low current logic circuit       Fig. 20 Right Multi-Function Switch Connector
+controls the high current front wiper motor by pull-                            Receptacle
+ing the control coil of the integral wiper motor relay          RIGHT MULTI-FUNCTION SWITCH TESTS
+to ground. The wiper motor relay switches a circuit
+that feeds battery current to the low speed or high                                    CONTINUITY BETWEEN
+                                                              SWITCH POSITION
+speed brush of the front wiper motor through the                                              PINS
+appropriate right multi-function switch circuits.                     OFF                        1 & 6
+                                                                     *LOW                       4 & 6
+DIAGNOSIS AND TESTING - RIGHT MULTI -                                *MIST                      4 & 6
+FUNCTION SWITCH                                                      HIGH                       4 & 5
+  Be certain to perform the diagnosis for the front
+wiper system and/or front washer system before test-                 WASH                       3 & 4
+ing the right multi-function switch. (Refer to 8 -                  *DELAY                      1 & 6
+ELECTRICAL/FRONT WIPERS/WASHERS - DIAG-
+

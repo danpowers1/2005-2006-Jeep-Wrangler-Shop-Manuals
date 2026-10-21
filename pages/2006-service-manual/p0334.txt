@@ -1,0 +1,50 @@
+7 - 22        ENGINE                                                                                                                               TJ
+
+                                                                  ENGINE
+
+                                                             TABLE OF CONTENTS
+                                                                   page                                                                          page
+
+COOLANT                                                                       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+ DESCRIPTION                                                                  DIAGNOSIS AND TESTING - RADIATOR
+   DESCRIPTION - ENGINE COOLANT . . . . . . . 23                                COOLANT FLOW . . . . . . . . . . . . . . . . . . . . . . 33
+   DESCRIPTION - HOAT COOLANT . . . . . . . . . 23                            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 24           CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+COOLANT RECOVERY CONTAINER                                                    INSPECTION          . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 36
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 24          WATER PUMP - 2.4L
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25         DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 36
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25            OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+ENGINE BLOCK HEATER                                                           DIAGNOSIS AND TESTING
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 25               WATER PUMP . . . . . . . . . . . . . . . . . . . . . . . . 36
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 25           REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . . . 37
+ REMOVAL                                                                      INSTALLATION - 2.4L . . . . . . . . . . . . . . . . . . . . 37
+   REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . 25             WATER PUMP - 4.0L
+   REMOVAL - 4.0L . . . . . . . . . . . . . . . . . . . . . . 25              DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 37
+ INSTALLATION                                                                 OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+   INSTALLATION - 2.4L              . . . . . . . . . . . . . . . . . . 26    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+   INSTALLATION 4.0L              . . . . . . . . . . . . . . . . . . . 26    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+ENGINE COOLANT TEMPERATURE SENSOR                                            RADIATOR PRESSURE CAP
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 27             DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 27           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27         DIAGNOSIS AND TESTING
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 27              DIAGNOSIS AND TESTING - RADIATOR
+ENGINE COOLANT THERMOSTAT                                                         CAP-TO-FILLER NECK SEAL . . . . . . . . . . . . . 41
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 28               DIAGNOSIS AND TESTING - RADIATOR
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 28               CAP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+ REMOVAL                                                                      CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+   2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28    INSPECTION          . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+   4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28   RADIATOR FAN
+ INSTALLATION                                                                 DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 42
+   2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29    REMOVAL
+   4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29      2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+FAN DRIVE VISCOUS CLUTCH                                                        4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 30             CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 31           INSPECTION          . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ DIAGNOSIS AND TESTING                                                        INSTALLATION
+   VISCOUS FAN DRIVE . . . . . . . . . . . . . . . . . . 31                     2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32           4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 32           RADIATOR FAN RELAY
+RADIATOR                                                                      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+

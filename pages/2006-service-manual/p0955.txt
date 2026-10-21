@@ -1,0 +1,56 @@
+TJ                               8W-97 POWER DISTRIBUTION                                      8W - 97 - 9
+
+                                                      PDC RELAY WEDGE REMOVAL
+                                                        (1) Remove the PDC housing lower cover.
+                                                        (2) Remove each of the relays from the PDC relay
+                                                      wedge to be removed.
+                                                        (3) From the bottom of the PDC housing, use a
+                                                      small screwdriver or a terminal pick tool (Special
+                                                      Tool Kit 6680) to release the two latches (yellow) that
+                                                      secure the relay wedge to the PDC relay cassette.
+                                                        (4) From the top of the PDC housing, remove the
+                                                      relay wedge from the PDC relay cassette (Fig. 12).
+
+
+
+
+     Fig. 10 PDC B(+) Terminal Module Latches
+1 - FROM SPECIAL TOOL KIT 6680
+2 - PDC HOUSING
+3 - LATCHES
+4 - BUS BAR
+5 - B+ TERMINAL STUDS
+
+  (3) Gently and evenly press the two B(+) terminal
+studs down through the bus bar in the PDC.
+  (4) From the bottom of the PDC housing, remove
+the B(+) terminal module from the PDC (Fig. 11).
+
+
+
+                                                       Fig. 12 PDC Relay Wedge Remove/Install - Typical
+                                                      1 - RELAY WEDGE
+                                                      2 - PDC HOUSING
+
+                                                      PDC RELAY CASSETTE REMOVAL
+                                                        (1) Remove the relay wedge from the PDC relay
+                                                      cassette to be removed.
+
+                                                      NOTE: It may be necessary to remove relay cas-
+                                                      settes that are not being serviced from the PDC
+                                                      housing in order to obtain sufficient clearance to
+                                                      service the faulty relay cassette. The same service
+                                                      procedure is repeated as necessary to remove each
+                                                      of the interfering relay wedges and relay cassettes
+                                                      from the PDC housing.
+
+                                                        (2) From the top of the PDC housing, use a small
+                                                      screwdriver or a terminal pick tool (Special Tool Kit
+                                                      6680) to release the two latches that secure the relay
+                                                      cassette in the PDC (Fig. 13).
+ Fig. 11 PDC B(+) Terminal Module Remove/Install
+1 - PDC HOUSING
+2 - LATCHES
+3 - B+ TERMINAL MODULE
+4 - BUS BAR
+

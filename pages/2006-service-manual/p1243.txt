@@ -1,0 +1,52 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE              21 - 53
+
+TORQUE CONVERTER LEAKAGE
+
+
+
+
+       Fig. 12 Converter Leak Points - Typical
+1 - OUTSIDE DIAMETER WELD
+2 - TORQUE CONVERTER HUB WELD
+3 - STARTER RING GEAR
+4 - LUG
+
+  Possible sources of torque converter leakage are:
+  • Torque converter weld leaks at the outside diam-
+eter weld. (Fig. 12)                                                Fig. 13 Crankshaft Position Sensor
+  • Torque converter hub weld. (Fig. 12)                   1 - CRANKSHAFT POSITION SENSOR
+                                                           2 - MOUNTING BOLT
+STANDARD PROCEDURE - ALUMINUM                              3 - ELECTRICAL CONNECTOR
+                                                           4 - TRANSMISSION BELLHOUSING
+THREAD REPAIR
+  Damaged or worn threads in the aluminum trans-             (7) If transmission is being removed for overhaul,
+mission case and valve body can be repaired by the         remove transmission oil pan, drain fluid and reinstall
+use of Heli-Coilst, or equivalent. This repair consists    pan. (Refer to 21 - TRANSMISSION/AUTOMATIC -
+of drilling out the worn-out damaged threads. Then         42RLE/FLUID - STANDARD PROCEDURE)
+tap the hole with a special Heli-Coilt tap, or equiva-       (8) Remove torque converter access cover.
+lent, and installing a Heli-Coilt insert, or equivalent,     (9) Rotate crankshaft in clockwise direction until
+into the hole. This brings the hole back to its original   converter bolts are accessible. Then remove bolts one
+thread size.                                               at a time. Rotate crankshaft with socket wrench on
+  Heli-Coilt, or equivalent, tools, and inserts are        dampener bolt.
+readily available from most automotive parts suppli-         (10) Mark propeller shaft and axle yokes for
+ers.                                                       assembly alignment. Then disconnect and remove
+                                                           propeller shafts. (Refer to 3 - DIFFERENTIAL &
+REMOVAL                                                    DRIVELINE/PROPELLER              SHAFT/PROPELLER
+  (1) Disconnect battery negative cable.                   SHAFT - REMOVAL)
+  (2) Raise and support vehicle.                             (11) Disconnect wires from the input and output
+  (3) Disconnect and lower or remove necessary             speed sensors (Fig. 14).
+exhaust components.                                          (12) Disconnect wires from the transmission range
+  (4) Remove engine-to-transmission bending braces         sensor (Fig. 14) and the solenoid/pressure switch
+or engine collar.                                          assembly (Fig. 15).
+  (5) Remove starter motor. (Refer to 8 - ELECTRI-
+CAL/STARTING/STARTER MOTOR - REMOVAL)
+  (6) On 4.0L engine equipped vehicles, disconnect
+and remove crankshaft position sensor (Fig. 13).
+Retain sensor attaching bolt.
+
+CAUTION: The crankshaft position sensor can be
+damaged during transmission removal (or installa-
+tion) if the sensor is left in place. To avoid damage,
+remove the sensor before removing the transmis-
+sion.
+

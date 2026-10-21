@@ -1,0 +1,63 @@
+TJ                                                                     REAR WIPERS/WASHERS            8R - 41
+
+  The rear wiper motor cannot be adjusted or
+repaired. If any component of the motor is faulty or
+damaged, the entire rear wiper motor unit must be
+replaced. The motor output shaft grommet, washer
+and nut are available for individual service replace-
+ment.
+
+OPERATION
+   The rear wiper motor operation is controlled by the
+vehicle operator through battery current inputs
+received by the rear wiper motor from the rear wiper
+and washer switch on the instrument panel, and the
+rear wiper motor park switch, which control current
+flow to the wiper motor brushes. An internal diode
+protects the motor from feedback through the park
+switch when the switch is closed to the fused ignition
+                                                                Fig. 19 Rear Wiper Motor Output Shaft
+switch output (run) circuit. An internal circuit
+breaker protects the motor from overloads.               1 - WASHER
+                                                         2 - NUT
+   The park switch is a single pole, single throw,       3 - GROMMET
+momentary switch within the wiper motor that is          4 - STUD
+mechanically actuated by the wiper motor transmis-       5 - LIFTGLASS
+                                                         6 - REAR WASHER NOZZLE
+sion components. The park switch alternately closes      7 - REAR WIPER MOTOR OUTPUT SHAFT
+the wiper motor brush to the rear wiper and washer
+switch output or to a fused ignition switch output          (4) Remove the washer from the rear wiper motor
+(run) circuit, depending upon the position of the        output shaft sleeve.
+wiper on the glass. This feature allows the motor to        (5) Remove the trim cover from the rear wiper
+complete its current wipe cycle after the wiper sys-     motor on the inside of the liftglass. (Refer to 8 -
+tem has been turned Off, and to park the wiper blade     ELECTRICAL/REAR           WIPERS/WASHERS/REAR
+in the uppermost portion of the wipe pattern.            WIPER MOTOR TRIM COVER - REMOVAL).
+   The wiper motor transmission converts the rotary         (6) Disconnect the hardtop wire harness connector
+output of the wiper motor to the back and forth wip-     for the rear wiper motor from the motor pigtail wire
+ing motion of the rear wiper arm and blade on the        connector.
+liftglass. The rear wiper motor may be diagnosed            (7) Remove the nut and washer that secures the
+using conventional diagnostic tools and methods.         rear wiper motor bracket insulator to the stud on the
+                                                         liftglass (Fig. 20).
+REMOVAL
+  (1) Disconnect and isolate the battery negative
+cable.
+  (2) Remove the rear wiper arm from the rear
+wiper motor output shaft. (Refer to 8 - ELECTRI-
+CAL/REAR WIPERS/WASHERS/REAR WIPER ARM
+- REMOVAL).
+  (3) Remove the nut that secures the threaded
+sleeve of the rear wiper motor output shaft to the
+outside of the liftglass (Fig. 19).
+
+
+
+
+                                                                  Fig. 20 Rear Wiper Motor Bracket
+                                                         1 - BRACKET
+                                                         2 - INSULATOR
+                                                         3 - RIGHT LIFTGLASS HINGE
+                                                         4 - LIFTGLASS
+                                                         5 - WASHER
+                                                         6 - STUD
+                                                         7 - NUT
+

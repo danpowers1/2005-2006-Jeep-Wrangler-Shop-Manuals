@@ -1,0 +1,37 @@
+8W - 80 - 30   8W-80 CONNECTOR PIN-OUTS                                                        TJ
+
+
+                                               FUEL INJECTOR NO. 6 (4.0L) - 2 WAY
+                CAV                  CIRCUIT                                        FUNCTION
+                 1    K334 18BR                               ASD RELAY OUTPUT
+                 2    K58 18BR/VT                             INJECTOR CONTROL NO. 6
+
+
+
+
+                                                  FUEL PUMP MODULE - 4 WAY
+                CAV                  CIRCUIT                                        FUNCTION
+                 1    Z987 18BK                               GROUND
+                 2    N4 20DB/WT                              FUEL LEVEL SENSOR SIGNAL
+                 3    K900 20DB/DG                            SENSOR GROUND
+                 4    A109 18OR/RD                            FUEL PUMP RELAY OUTPUT
+
+
+
+
+                                                       G-SWITCH - 3 WAY
+                CAV                  CIRCUIT                                        FUNCTION
+                 1    G119 20VT                               G-SWITCH TEST SIGNAL
+                 2    G117 20VT/LG                            G-SWITCH NO. 1 SENSE
+                 3    G118 20VT/YL                            G-SWITCH NO. 2 SENSE
+
+
+
+
+                                                   GENERATOR - BLACK 2 WAY
+                CAV                  CIRCUIT                                        FUNCTION
+                 1    K125 18BR/DG (EXCEPT MAN 6 SPD          GEN FIELD CONTROL
+                      TRANS)
+                 1    K125 20BR/DG (MAN 6 SPD TRANS)          GEN FIELD CONTROL
+                 2    Z20 18BR/BK                             GROUND
+

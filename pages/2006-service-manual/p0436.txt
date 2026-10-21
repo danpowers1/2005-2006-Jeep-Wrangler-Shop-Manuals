@@ -1,0 +1,64 @@
+8F - 42    STARTING                                                                                           TJ
+
+                                                          with an automatic transmission, it is grounded
+                                                          through park/neutral position switch only when gear-
+                                                          shift selector lever is in Park or Neutral positions.
+                                                          Check for continuity to ground at cavity for relay ter-
+                                                          minal 85. If not OK with a manual transmission,
+                                                          repair open park/neutral position switch sense circuit
+                                                          to ground as required. If not OK with an automatic
+                                                          transmission, check for an open or shorted park/neu-
+                                                          tral position switch sense circuit to park/neutral posi-
+                                                          tion switch and repair, as required. If park/neutral
+                                                          position switch sense circuit checks OK, refer to
+                                                          Park/Neutral Position Switch.
+                Fig. 14 Starter Relay
+                                                          REMOVAL
+30 - COMMON FEED
+85 - COIL GROUND
+                                                            (1) Disconnect and isolate battery negative cable.
+86 - COIL BATTERY                                           (2) Unlatch and open cover on Power Distribution
+87 - NORMALLY OPEN                                        Center (PDC) (Fig. 15).
+87A - NORMALLY CLOSED
+
+RELAY CIRCUIT TEST
+   (1) The relay common feed terminal cavity (30) is
+connected to battery voltage and should be hot at all
+times. If OK, go to Step 2. If not OK, repair open cir-
+cuit to fused B(+) fuse in PDC as required.
+   (2) The relay normally closed terminal (87A) is
+connected to terminal 30 in de-energized position,
+but is not used for this application. Go to Step 3.
+   (3) The relay normally open terminal (87) is con-
+nected to the common feed terminal (30) in energized
+position. This terminal supplies battery voltage to
+starter solenoid field coil. There should be continuity
+between cavity for relay terminal 87 and starter sole-
+noid terminal at all times. If OK, go to Step 4. If not             Fig. 15 Power Distribution Center
+OK, repair open engine starter motor relay output         1 - POWER DISTRIBUTION CENTER (PDC)
+circuit to starter solenoid as required.                  2 - LATCHES
+                                                          3 - COVER
+   (4) The coil battery terminal (86) is connected to     4 - RIGHT FRONT FENDER
+electromagnet in relay. It is energized when ignition
+switch is held in Start position. On vehicles with a         (3) See fuse and relay layout label affixed to
+manual transmission, the clutch pedal must be             underside of PDC cover for starter relay identifica-
+blocked in fully depressed position for this test.        tion and location.
+Check for battery voltage at cavity for relay terminal       (4) Remove starter relay from PDC.
+86 with ignition switch in Start position, and no volt-
+age when ignition switch is released to On position.      INSTALLATION
+If OK, go to Step 5. If not OK with a manual trans-          (1) See fuse and relay layout label affixed to
+mission, disconnect clutch pedal position switch wire     underside of PDC cover for proper starter relay loca-
+harness connector and install a jumper wire between       tion.
+two cavities in body half of connector and check for         (2) Position starter relay in proper receptacle in
+battery voltage again at cavity for relay terminal 86.    PDC.
+If now OK, replace faulty clutch pedal position              (3) Align starter relay terminals with terminal
+switch. If still not OK with a manual transmission or     cavities in PDC receptacle.
+if not OK with an automatic transmission, check for          (4) Push down firmly on starter relay until termi-
+open or shorted fused ignition switch output (start)      nals are fully seated in terminal cavities in PDC
+circuit to ignition switch and repair, as required. If    receptacle.
+fused ignition switch output (start) circuit is OK,          (5) Close and latch PDC cover.
+refer to Ignition Switch and Key Lock Cylinder.              (6) Connect negative battery cable.
+   (5) The coil ground terminal (85) is connected to
+electromagnet in relay. On vehicles with a manual
+transmission, it is grounded at all times. On vehicles
+

@@ -1,0 +1,61 @@
+TJ                                                                                     ENGINE 2.4L        9-5
+
+           CONDITION                        POSSIBLE CAUSE                          CORRECTION
+
+ENGINE LOSS OF POWER               1. Dirty or incorrectly gapped         1. Clean plugs and set gap.
+                                   plugs.
+
+                                   2. Contamination in fuel system.       2. Clean system and replace fuel
+                                                                          filter.
+                                   3. Faulty fuel pump.                   3. Test and replace as necessary.
+                                                                          (Refer to Appropriate Diagnostic
+                                                                          Information)
+                                   4. Incorrect valve timing.             4. Correct valve timing.
+                                   5. Leaking cylinder head gasket.       5. Replace cylinder head gasket.
+                                   6. Low compression.                    6. Test compression of each cylin-
+                                                                          der.
+                                   7. Burned, warped, or pitted           7. Replace valves.
+                                   valves.
+                                   8. Plugged or restricted exhaust       8. Perform exhaust restriction test.
+                                   system.                                (Refer to 11 - EXHAUST SYSTEM
+                                                                          - DIAGNOSIS AND TESTING) In-
+                                                                          stall new parts, as necessary.
+                                   9. Faulty ignition coil(s).            9. Test and replace as necessary.
+                                                                          (Refer to Appropriate Diagnostic
+                                                                          Information)
+
+ENGINE MISSES ON ACCELERA-         1. Dirty or incorrectly gapped spark   1. Clean spark plugs and set gap.
+TION                               plugs.
+
+                                   2. Contamination in Fuel System.       2. Clean fuel system and replace
+                                                                          fuel filter.
+                                   3. Burned, warped, or pitted           3. Replace valves.
+                                   valves.
+                                   4. Faulty ignition coil(s).            4. Test and replace as necessary.
+                                                                          (Refer to Appropriate Diagnostic
+                                                                          Information)
+
+ENGINE MISSES AT HIGH SPEED        1. Dirty or incorrect spark plug       1. Clean spark plugs and set gap.
+                                   gap.
+                                   2. Faulty ignition coil(s).            2. Test and replace as necessary.
+                                                                          (Refer to Appropriate Diagnostic
+                                                                          Information)
+                                   3. Dirty fuel injector(s).             Test and replace as necessary.
+                                                                          (Refer to Appropriate Diagnostic
+                                                                          Information)
+                                   4. Contamination in fuel system.       4. Clean system and replace fuel
+                                                                          filter.
+
+
+CYLINDER COMBUSTION PRESSURE LEAKAGE                       • Leaks between adjacent cylinders or into water
+                                                         jacket.
+TEST
+                                                           • Any causes for combustion/compression pressure
+  The combustion pressure leakage test provides an
+                                                         loss.
+accurate means for determining engine condition.
+  Combustion pressure leakage testing will detect:       WARNING: DO NOT REMOVE THE PRESSURE CAP
+  • Exhaust and intake valve leaks (improper seat-       WITH THE SYSTEM HOT AND UNDER PRESSURE
+ing).                                                    BECAUSE SERIOUS BURNS FROM COOLANT CAN
+                                                         OCCUR.
+

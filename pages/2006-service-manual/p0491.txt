@@ -1,0 +1,80 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 23
+
+   • Park Brake Switch Input - Each time the               NOSIS AND TESTING). If the brake indicator stays
+cluster detects ground on the red brake warning indi-      on with the ignition switch in the On position and
+cator driver circuit (park brake switch closed = park      the park brake released, or comes on while driving,
+brake applied or not fully released) the brake indica-     (Refer to 5 - BRAKES - DIAGNOSIS AND TEST-
+tor is illuminated solid. If a vehicle speed message is    ING). If no brake system problem is found, the fol-
+received by the cluster from the PCM over the PCI          lowing procedures will help to locate a shorted or
+data bus indicating the vehicle is moving while the        open circuit, or a faulty switch input. Refer to the
+red brake warning indicator driver input is                appropriate wiring information. The wiring informa-
+grounded, the brake indicator is flashed on and off        tion includes wiring diagrams, proper wire and con-
+repeatedly. Whether illuminated solid or flashing, the     nector repair procedures, details of wire harness
+indicator remains illuminated until the red brake          routing and retention, connector pin-out information
+warning indicator driver input to the cluster is an        and location views for the various wire harness con-
+open circuit (park brake switch open = park brake          nectors, splices and grounds.
+fully released), or until the ignition switch is turned
+to the Off position, whichever occurs first.               WARNING: TO AVOID PERSONAL INJURY OR
+   • Brake Hydraulic System Malfunction - Each             DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+time the cluster detects ground on the red brake           DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+warning indicator driver circuit (brake warning indi-      TEM BEFORE ATTEMPTING ANY STEERING
+cator switch closed = pressures in the two halves of       WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+the split brake hydraulic system are unequal) the          MENT PANEL COMPONENT DIAGNOSIS OR SER-
+brake indicator is illuminated solid. The indicator        VICE. DISCONNECT AND ISOLATE THE BATTERY
+remains illuminated until the red brake warning            NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+indicator driver input to the cluster is an open circuit   MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+(brake warning indicator switch open = brake               CHARGE BEFORE PERFORMING FURTHER DIAG-
+hydraulic system pressures are equal), or until the        NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+ignition switch is turned to the Off position, which-      TO DISABLE THE SUPPLEMENTAL RESTRAINT
+ever occurs first.                                         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+   • Actuator Test - Each time the instrument clus-        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+ter is put through the actuator test, the brake indi-      BAG DEPLOYMENT.
+cator will be turned on, then off again during the
+bulb check portion of the test to confirm the function-
+                                                           INDICATOR ILLUMINATES DURING BULB TEST, BUT DOES
+ality of the LED and the cluster control circuitry.        NOT WHEN PARK BRAKE APPLIED
+   The park brake switch and the brake warning
+                                                              (1) Disconnect and isolate the battery negative
+pressure switch are each connected in parallel
+                                                           cable. Disconnect the floor wire harness connector for
+between ground and the red brake warning indicator
+                                                           the park brake switch from the switch terminal.
+driver input to the instrument cluster so that each of
+                                                           Apply the parking brake. Check for continuity
+their inputs will illuminate the indicator indepen-
+                                                           between the park brake switch terminal and a good
+dently of the other. The park brake switch and brake
+                                                           ground. There should be continuity. If OK, go to Step
+warning indicator switch inputs to the instrument
+                                                           2. If not OK, replace the faulty park brake switch.
+cluster can be diagnosed using conventional diagnos-
+                                                              (2) Disconnect the headlamp and dash wire har-
+tic tools and methods. (Refer to 5 - BRAKES/PARK-
+                                                           ness connector for the brake warning indicator
+ING BRAKE - OPERATION). (Refer to 5 - BRAKES/
+                                                           switch from the switch terminals. Check for continu-
+ELECTRICAL/BRAKE PRESSURE SWITCH -
+                                                           ity between the red brake warning indicator driver
+OPERATION).
+                                                           (G9) circuit cavities of the floor wire harness connec-
+   For further diagnosis of the brake indicator or the
+                                                           tor for the park brake switch and the headlamp and
+instrument cluster circuitry that controls the LED,
+                                                           dash wire harness connector for the brake warning
+(Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-
+                                                           indicator switch. There should be continuity. If not
+TER - DIAGNOSIS AND TESTING). For proper
+                                                           OK, repair the open red brake warning indicator
+diagnosis of the PCM, the PCI data bus, or the mes-
+                                                           driver (G9) circuit between the park brake switch
+sage inputs to the instrument cluster that control the
+                                                           and the brake warning indicator switch as required.
+brake indicator, a DRBIIIt scan tool is required.
+Refer to the appropriate diagnostic information.           INDICATOR REMAINS ILLUMINATED - BRAKE SYSTEM
+                                                           CHECKS OK
+DIAGNOSIS AND TESTING - BRAKE INDICATOR                      (1) Disconnect and isolate the battery negative
+  The diagnosis found here addresses an inoperative        cable. Remove the instrument cluster from the
+brake indicator condition. If there are problems with      instrument panel. Disconnect the instrument panel
+several indicators in the instrument cluster, (Refer to
+8 - ELECTRICAL/INSTRUMENT CLUSTER - DIAG-
+

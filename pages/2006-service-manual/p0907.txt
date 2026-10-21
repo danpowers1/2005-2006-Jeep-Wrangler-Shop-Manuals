@@ -1,0 +1,49 @@
+TJ                      8W-91 CONNECTOR/GROUND/SPLICE LOCATION                                     8W - 91 - 7
+
+Connector Name/            Location                                                       Fig.
+Number
+G203 (RHD)                 Left Rear of Instrument Panel                                  27
+G204                       Center of Instrument Panel                                     25, 27
+G300 (LHD)                 Left Kick Panel                                                22
+G300 (RHD)                 Right Kick Panel                                               23
+G301 (LHD)                 At Base of Center Stack                                        20
+G301 (RHD)                 Left Kick Panel                                                21
+G302 (LHD)                 Left Kick Panel                                                22
+G302 (RHD)                 Right Kick Panel                                               23
+G303                       Near Steering Column Mounting Bracket                          30
+
+
+                                                 SPLICES
+
+Splice Number           Location                                                     Fig.
+S101                    Near T/O for Power Distribution Center                       10, 12
+S102                    Near T/O for G100 or Daytime Running Lamp Module             10
+S103                    Near T/O for G101                                            10, 12
+S105                    Left Cowl Panel                                              22
+S106                    Near T/O for G100                                            10
+S108                    Near T/O for Powertrain Control Module                       10, 12
+S111                    Near T/O for Battery Temperature Sensor or Power Distribu-   10
+                        tion Center
+S117                    Near T/O for Horn                                            1
+S122 (Left)             Near Grommet for Left Front Turn Signal Lamp, See Right      2
+S123 (2.4L)             Near T/O for Ignition Coil Pack                              N/S
+S123 (4.0L)             Near T/O for G105                                            N/S
+S125 (Export) (Right)   Near Grommet for Right Front Turn Signal Lamp                2
+S126                    Near T/O for C104                                            7
+S127                    Rear Engine Compartment                                      9, 17
+S128 (4.0L)             Between Fuel Injector NO. 2 and Fuel Injector NO. 3          5
+S128 (2.4L)             Near T/O for C103 on Engine Harness                          N/S
+S129                    Rear of Engine                                               4, 7, 35
+S130 (2.4L)             Near T/O for C103 on Engine Harness                          N/S
+S130 (4.0L)             Left Rear of Engine                                          5
+S131                    Left Rear Engine                                             7
+S132 (2.4L)             Near T/O for Engine Starter Solenoid                         4
+S132 (4.0L)             Top of Transmission                                          7, 35
+S133 (2.4L)             Near T/O for Input Speed Sensor                              4
+S133 (4.0L) (A/T)       Trans Harness                                                7
+S134 (4.0L)             Top Front of Engine                                          5
+S134 (2.4L)             Between Engine Starter Solenoid and C182                     N/S
+S135 (2.4L)             Rear of Engine                                               4
+S135 (4.0L)             In T/O for PCM                                               9
+S136                    In Battery harness near PDC                                  N/S
+

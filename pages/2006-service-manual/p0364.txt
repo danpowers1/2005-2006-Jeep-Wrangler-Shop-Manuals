@@ -1,0 +1,58 @@
+8A - 6     AUDIO/VIDEO                                                                                       TJ
+
+  (3) Install the three screws retaining the antenna        (1) Disconnect and isolate the battery negative
+body base to right outer cowl side panel. Tighten the     cable.
+screws to 3.3 N·m (30 in. lbs.).                            (2) Remover the antenna cover. (Fig. 3)
+  (4) Snap on the antenna base trim cover to the            (3) Disconnect electrical connectors.
+antenna body base.                                          (4) Remove mounting bolt.
+  (5) Install antenna mast. Tighten to 5 N·m (46 in.
+lbs.). Ensure that the antenna mast is fully              INSTALLATION
+seated on antenna base and that there is no gap
+between the mast and base.                                NOTE: A battery reconnect procedure must be per-
+  (6) Reach through the glove box opening and con-        formed anytime the battery has been disconnected.
+nect the two antenna coaxial cables in line connector.    (Refer to 8 - ELECTRICAL/BATTERY SYSTEM -
+  (7) Install the glove box to the instrument panel       STANDARD PROCEDURE).
+(Refer to 23 - BODY/INSTRUMENT PANEL/GLOVE
+BOX - INSTALLATION).                                        (1) Install mounting bolt.
+  (8) Connect the battery negative cable.                   (2) Connect electrical connectors.
+                                                            (3) Install antenna cover.
+                                                            (4) Connect the battery negative cable.
+ANTENNA - SATELLITE RADIO
+OPERATION                                                 RADIO
+   The satellite radio antenna receives signals from
+orbiting satellites and sends these signals to the sat-   DESCRIPTION
+ellite receiver module. The satellite radio antenna          Available factory-installed radio receivers for this
+must have open space in which to operate. Items car-      model include:
+ried on the roof, parking inside etc. can have an            • AM/FM/cassette with CD changer control fea-
+effect on the antenna’s ability to receive signals.       ture (RBB sales code)
+                                                             • AM/FM/CD with CD changer control feature
+REMOVAL                                                   (RBK sales code)
+                                                             • AM/FM/cassette/CD/ with CD changer control
+NOTE: A battery reconnect procedure must be per-          feature (RAD, RBT or RBY sales code) - export only
+formed anytime the battery has been disconnected.            All factory-installed radio receivers can communi-
+(Refer to 8 - ELECTRICAL/BATTERY SYSTEM -                 cate on the Programmable Communications Interface
+STANDARD PROCEDURE).                                      (PCI) data bus network. All factory-installed receiv-
+                                                          ers are stereo Electronically Tuned Radios (ETR) and
+                                                          include an electronic digital clock function.
+                                                             These radio receivers can only be serviced by an
+                                                          authorized radio repair station. See the latest War-
+                                                          ranty Policies and Procedures manual for a current
+                                                          listing of authorized radio repair stations.
+
+                                                          OPERATION
+                                                             The radio receiver operates on ignition switched
+                                                          battery current that is available only when the igni-
+                                                          tion switch is in the On or Accessory positions. The
+                                                          electronic digital clock function of the radio operates
+                                                          on fused battery current supplied through the IOD
+                                                          fuse, regardless of the ignition switch position.
+
+
+
+
+         Fig. 3 ANTENNA - SATELLITE RADIO
+          1 - Antenna Cover
+          2 - Antenna
+          3 - Mounting Bolt
+          4 - Electrical Connectors
+

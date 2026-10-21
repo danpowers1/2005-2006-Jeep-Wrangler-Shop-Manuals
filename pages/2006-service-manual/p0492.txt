@@ -1,0 +1,60 @@
+8J - 24    INSTRUMENT CLUSTER                                                                                 TJ
+
+wire harness connector (Connector C2) for the instru-      gauges indicator is serviced as a unit with the instru-
+ment cluster from the connector receptacle on the          ment cluster.
+back of the cluster housing. Disconnect the headlamp
+and dash wire harness connector for the brake warn-        OPERATION
+ing indicator switch from the switch terminals.               The check gauges indicator gives an indication to
+Check for continuity between the red brake warning         the vehicle operator when certain instrument cluster
+indicator driver circuit (G99) cavity of the headlamp      gauge readings reflect a condition requiring immedi-
+and dash wire harness connector for the brake warn-        ate attention. This indicator is controlled by a tran-
+ing indicator switch and a good ground. There should       sistor on the instrument cluster circuit board based
+be no continuity. If OK, go to Step 2. If not OK,          upon cluster programming and electronic messages
+repair the shorted red brake warning indicator driver      received by the cluster from the Powertrain Control
+circuit (G99) between the brake warning indicator          Module (PCM) over the Programmable Communica-
+switch and the instrument cluster as required.             tions Interface (PCI) data bus. The check gauges
+   (2) Disconnect the floor wire harness connector for     indicator Light Emitting Diode (LED) is completely
+the park brake switch from the switch terminal.            controlled by the instrument cluster logic circuit, and
+Check for continuity between the red brake warning         that logic will only allow this indicator to operate
+indicator driver circuit (G9) cavity of the headlamp       when the instrument cluster receives a battery cur-
+and dash wire harness connector for the brake warn-        rent input on the fused ignition switch output (run-
+ing indicator switch and a good ground. There should       start) circuit. Therefore, the LED will always be off
+be no continuity. If OK, go to Step 3. If not OK,          when the ignition switch is in any position except On
+repair the shorted red brake warning indicator driver      or Start. The LED only illuminates when it is pro-
+circuit (G9) between the brake warning indicator           vided a path to ground by the instrument cluster
+switch and the park brake switch as required.              transistor. The instrument cluster will turn on the
+   (3) Check for continuity between each of the two        check gauges indicator for the following reasons:
+terminals of the brake warning indicator switch and           • Bulb Test - Each time the ignition switch is
+a good ground. In each case, there should be no con-       turned to the On position the check gauges indicator
+tinuity. If OK, go to Step 4. If not OK, replace the       is illuminated for about two seconds as a bulb test.
+faulty brake warning indicator switch.                        • Engine Temperature High Message - Each
+   (4) Check for continuity between the terminal of        time the cluster receives a message from the PCM
+the park brake switch and a good ground. There             indicating the engine coolant temperature is about
+should be no continuity with the park brake released,      127° C (261° F) or higher, the check gauges indicator
+and continuity with the park brake applied. If not         will be illuminated. The indicator remains illumi-
+OK, replace the faulty park brake switch.                  nated until the cluster receives a message from the
+                                                           PCM indicating that the engine temperature is about
+                                                           124° C (255° F) or lower, or until the ignition switch
+CHECK GAUGES INDICATOR                                     is turned to the Off position, whichever occurs first.
+                                                              • Engine Oil Pressure Low Message - Each
+DESCRIPTION                                                time the cluster receives a message from the PCM
+                                                           indicating the engine oil pressure of a 2.4L engine is
+                                                           below about 0.2 kg/cm2 (3 psi), or of any engine other
+           Fig. 10 Check Gauges Indicator                  than a 2.4L is below about 0.4 kg/cm2 (6 psi), the
+                                                           check gauges indicator will be illuminated. The indi-
+  A check gauges indicator is standard equipment on        cator remains illuminated until the cluster receives a
+all instrument clusters (Fig. 10). The check gauges        message from the PCM indicating that the engine oil
+indicator is located on the lower edge of the instru-      pressure of a 2.4L engine is above about 0.2 kg/cm2
+ment cluster, to the right of center. The check gauges     (3 psi), or of any engine other than a 2.4L is above
+indicator consists of a stencil-like cutout of the words   about 0.4 kg/cm2 (6 psi), or until the ignition switch
+“CHECK GAUGES” in the opaque layer of the                  is turned to the Off position, whichever occurs first.
+instrument cluster overlay. The dark outer layer of        The cluster will only turn the indicator on in
+the overlay prevents the indicator from being clearly      response to an engine oil pressure low message if the
+visible when it is not illuminated. A red Light Emit-      engine speed is 300 rpm or greater for more than
+ting Diode (LED) behind the cutout in the opaque           about five seconds.
+layer of the overlay causes the “CHECK GAUGES”                • System Voltage Low (Charge Fail) Message
+text to appear in red through the translucent outer        - Each time the cluster receives a message from the
+layer of the overlay when the indicator is illuminated     PCM indicating the electrical system voltage is about
+from behind by the LED, which is soldered onto the         9.0 volts or lower (charge fail condition), the check
+instrument cluster electronic circuit board. The check     gauges indicator will be illuminated. The indicator
+

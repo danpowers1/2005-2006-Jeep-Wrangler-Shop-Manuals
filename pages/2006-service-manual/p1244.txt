@@ -1,0 +1,56 @@
+21 - 54    AUTOMATIC TRANSMISSION - 42RLE                                                                 TJ
+
+
+
+
+   Fig. 14 Input and Output Speed Sensors and                 Fig. 16 Transmission Mount - Automatic
+            Transmission Range Sensor                                      Transmission
+1 - INPUT SPEED SENSOR                                  1 - TRANSMISSION SUPPORT BRACKET
+2 - OUTPUT SPEED SENSOR                                 2 - AUTOMATIC TRANSMISSION
+3 - TRANSMISSION RANGE SENSOR                           3 - SKID PLATE
+                                                        4 - FRAME
+                                                        5 - TRANSMISSION MOUNT SUPPORT BRACKET
+                                                        6 - CUSHION
+
+                                                          (19) Disconnect transfer case vent hose.
+                                                          (20) Remove transfer case. (Refer to 21 - TRANS-
+                                                        MISSION/TRANSFER CASE - REMOVAL)
+                                                          (21) Remove fill tube bracket bolts and pull tube
+                                                        out of transmission. Retain fill tube seal. Remove the
+                                                        bolt attaching transfer case vent tube to converter
+                                                        housing.
+                                                          (22) Disconnect fluid cooler lines at transmission.
+                                                          (23) Remove all converter housing bolts.
+                                                          (24) Carefully work transmission and torque con-
+                                                        verter assembly rearward off engine block dowels.
+                                                          (25) Hold torque converter in place during trans-
+                                                        mission removal.
+                                                          (26) Lower transmission and remove assembly
+                                                        from under the vehicle.
+    Fig. 15 Solenoid/Pressure Switch Assembly             (27) To remove torque converter, carefully slide
+1 - SOLENOID/PRESSURE SWITCH ASSEMBLY CONNECTOR         torque converter out of the transmission.
+  (13) Disconnect gearshift cable from transmission
+manual valve lever.
+                                                        DISASSEMBLY
+  (14) Disconnect shift rod from transfer case shift
+                                                        NOTE: If the transmission is being reconditioned
+lever or remove shift lever from transfer case.
+                                                        (clutch/seal replacement) or replaced, it is neces-
+  (15) Support rear of engine with safety stand or
+                                                        sary to perform the Quick Learn Procedure using
+jack.
+                                                        the DRBIIIT Scan Tool (Refer to 8 - ELECTRICAL/
+  (16) Raise transmission slightly with service jack
+                                                        ELECTRONIC CONTROL MODULES/TRANSMISSION
+to relieve load on skid plate and transmission sup-
+                                                        CONTROL MODULE - STANDARD PROCEDURE).
+port.
+  (17) Remove bolts securing rear support (Fig. 16)       Before disassembling transmission, move the shift
+and cushion to transmission and skid plate. Raise       lever clockwise as far as it will go and then remove
+transmission slightly, slide exhaust hanger arm from    the shift lever.
+bracket and remove rear support.
+  (18) Remove bolts attaching skid plate (Fig. 16) to   NOTE: Tag all clutch pack assemblies, as they are
+frame and remove skid plate. (Refer to 13 - FRAME       removed, for reassembly identification.
+& BUMPERS/FRAME/TRANSFER CASE SKID
+PLATE - REMOVAL)
+

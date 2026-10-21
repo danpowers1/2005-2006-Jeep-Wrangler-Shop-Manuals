@@ -1,0 +1,47 @@
+21 - 242    TRANSFER CASE - NV241                                                                            TJ
+
+OPERATION
+
+                                OPERATING MODE VERSUS RESISTANCE
+
+        SENSOR POSITION                        OPERATING MODE                   SENSOR RESISTANCE (ohms)
+                 1                                      2H                                1124-1243
+                 2                                      4H                                 650-719
+                 3                                NEUTRAL                                  389-431
+                 4                                      4L                                 199-221
+                 5                                NOT USED                                  57-64
+
+
+
+
+                                  Fig. 101 Position Sensor Linear Movement
+1 - POSITION 1 - 10mm ±0.5mm
+2 - POSITION 2 - 12mm ±0.5mm
+3 - POSITION 3 - 14mm ±0.5mm
+4 - POSITION 4 - 16mm ±0.5mm
+5 - POSITION 5 - 18mm ±0.5mm
+6 - POSITION 6 - 20mm±0.5mm - FULL EXTENSION
+
+
+  During normal vehicle operation, the Powertrain              (3) Engage the transfer case position sensor con-
+Control Module (PCM) monitors the transfer case              nector to the position sensor.
+position sensor return voltage to determine the oper-          (4) Lower vehicle.
+ating mode of the transfer case. Refer to the Operat-          (5) Verify proper sensor operation.
+ing Mode Versus Resistance table for the correct
+resistance (1-6) (Fig. 101) for each position.
+                                                             SHIFT LEVER
+REMOVAL
+  (1) Raise and support the vehicle.                         REMOVAL
+  (2) Disengage the transfer case position sensor               (1) Shift transfer case into 4L.
+connector from the position sensor.                             (2) Raise vehicle.
+  (3) Remove the position sensor from the transfer              (3) Loosen adjusting trunnion locknut and slide
+case.                                                        shift rod out of trunnion (Fig. 102). If rod lacks
+                                                             enough travel to come out of trunnion, push trunnion
+INSTALLATION                                                 out of torque shaft.
+  (1) Inspect the o-ring seal on the transfer case              (4) Lower vehicle.
+position sensor. Replace the o-ring if necessary.               (5) Remove console. (Refer to 23 - BODY/INTERI-
+  (2) Install the transfer case position sensor into         OR/FLOOR CONSOLE - REMOVAL)
+the transfer case. Torque the sensor to 20-34 N·m               (6) Remove screws attaching lever assembly to
+(15-25 ft.lbs.).                                             floorpan and remove assembly and shift rod (if left
+                                                             attached).
+

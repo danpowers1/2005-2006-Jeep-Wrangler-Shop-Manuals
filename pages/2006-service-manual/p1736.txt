@@ -1,0 +1,63 @@
+25 - 16    EVAPORATIVE EMISSIONS                                                                               TJ
+
+NATURAL VACUUM LEAK                                           A vent valve seals the canister vent during engine
+                                                           off conditions. If the vapor system has a leak of less
+DETECTION ASSEMBLY                                         than the failure threshold, the evaporative system
+                                                           will be pulled into a vacuum, either due to the cool
+DESCRIPTION                                                down from operating temperature or diurnal ambient
+                                                           temperature cycling. The diurnal effect is considered
+                                                           one of the primary contributors to the leak determi-
+                                                           nation by this diagnostic. When the vacuum in the
+                                                           system exceeds about 1” H2O (0.25 KPA), a vacuum
+                                                           switch closes. The switch closure sends a signal to
+                                                           the NGC. The NGC, via appropriate logic strategies,
+                                                           utilizes the switch signal, or lack thereof, to make a
+                                                           determination of whether a leak is present.
+                                                              The NVLD device is designed with a normally open
+                                                           vacuum switch, a normally closed solenoid, and a
+                                                           seal, which is actuated by both the solenoid and a
+                                                           diaphragm. The NVLD is located on the atmospheric
+                                                           vent side of the canister. The NVLD assembly may
+                                                           be mounted on top of the canister outlet, or in-line
+                                                           between the canister and atmospheric vent filter. The
+                                                           normally open vacuum switch will close with about
+                                                           1” H2O (0.25 KPA) vacuum in the evaporative sys-
+                                                           tem. The diaphragm actuates the switch. This is
+                                                           above the opening point of the fuel inlet check valve
+                                                           in the fill tube so cap off leaks can be detected. Sub-
+                                                           merged fill systems must have recirculation lines
+                                                           that do not have the in-line normally closed check
+             Fig. 11 ORVR VAPOR LINE                       valve that protects the system from failed nozzle liq-
+1 - EVAP CANISTER                                          uid ingestion, in order to detect cap off conditions.
+2 - NVLD FILTER
+3 - NVLD PUMP
+                                                              The normally closed valve in the NVLD is intended
+4 - VAPOR LINES                                            to maintain the seal on the evaporative system dur-
+5 - FLOW VALVE                                             ing the engine off condition. If vacuum in the evapo-
+6 - TOP OF FUEL TANK)
+                                                           rative system exceeds 3” to 6” H2O (0.75 to 1.5 KPA),
+  The Natural Vacuum Leak Detection (NVLD)                 the valve will be pulled off the seat, opening the seal.
+pump (3) (Fig. 11) is located behind the right-rear        This will protect the system from excessive vacuum
+wheel and system.                                          as well as allowing sufficient purge flow in the event
+                                                           that the solenoid was to become inoperative.
+OPERATION                                                     The solenoid actuates the valve to unseal the can-
+   The Natural Vacuum Leak Detection (NVLD) sys-           ister vent while the engine is running. It also will be
+tem is the next generation evaporative leak detection      used to close the vent during the medium and large
+system that will first be used on vehicles equipped        leak tests and during the purge flow check. This sole-
+with the Next Generation Controller (NGC). This            noid requires an initial 1.5 amps of current to pull
+new system replaces the leak detection pump as the         the valve open, but after 100 mili-seconds, will be
+method of evaporative system leak detection. This is       duty cycled down to an average of about 150 mA for
+to detect a leak equivalent to a 0.020” (0.5 mm) hole.     the remainder of the drive cycle.
+This system has the capability to detect holes of this        Another feature in the device is a diaphragm that
+size very dependably.                                      will open the seal in the NVLD with pressure in the
+   The basic leak detection theory employed with           evaporative system. The device will “blow off” at
+NVLD is the “Gas Law”. This is to say that the pres-       about 0.5” H2O (0.12 KPA) pressure to permit the
+sure in a sealed vessel will change if the temperature     venting of vapors during refueling. An added benefit
+of the gas in the vessel changes. The vessel will only     to this is that it will also allow the tank to “breathe”
+see this effect if it is indeed sealed. Even small leaks   during increasing temperatures, thus limiting the
+will allow the pressure in the vessel to come to equi-     pressure in the tank to this low level. This is benefi-
+librium with the ambient pressure. In addition to the      cial because the induced vacuum during a subse-
+detection of very small leaks, this system has the         quent declining temperature will achieve the switch
+capability of detecting medium as well as large evap-      closed (pass threshold) sooner than if the tank had to
+orative system leaks.                                      decay from a built up pressure.
+

@@ -1,0 +1,61 @@
+25 - 4    EMISSIONS CONTROL                                                                                   TJ
+
+not functioning in some respect. The LDP is again         gen content (lean mixture). A high voltage indicates a
+turned off and the test is ended.                         low content of oxygen (rich mixture).
+                                                            When the upstream O2S detects a lean condition,
+MISFIRE MONITOR                                           there is an abundance of oxygen in the exhaust gas.
+  Excessive engine misfire results in increased cata-     A functioning converter would store this oxygen so it
+lyst temperature and causes an increase in HC emis-       can use it for the oxidation of HC and CO. As the
+sions. Severe misfires could cause catalyst damage.       converter absorbs the oxygen, there will be a lack of
+To prevent catalytic convertor damage, the PCM            oxygen downstream of the converter. The output of
+monitors engine misfire.                                  the downstream O2S will indicate limited activity in
+  The Powertrain Control Module (PCM) monitors            this condition.
+for misfire during most engine operating conditions         As the converter loses the ability to store oxygen,
+(positive torque) by looking at changes in the crank-     the condition can be detected from the behavior of
+shaft speed. If a misfire occurs the speed of the         the downstream O2S. When the efficiency drops, no
+crankshaft will vary more than normal.                    chemical reaction takes place. This means the con-
+                                                          centration of oxygen will be the same downstream as
+FUEL SYSTEM MONITOR                                       upstream. The output voltage of the downstream
+   To comply with clean air regulations, vehicles are     O2S copies the voltage of the upstream sensor. The
+equipped with catalytic converters. These converters      only difference is a time lag (seen by the PCM)
+reduce the emission of hydrocarbons, oxides of nitro-     between the switching of the O2S’s.
+gen and carbon monoxide. The catalyst works best            To monitor the system, the number of lean-to-rich
+when the Air Fuel (A/F) ratio is at or near the opti-     switches of upstream and downstream O2S’s is
+mum of 14.7 to 1.                                         counted. The ratio of downstream switches to
+   The PCM is programmed to maintain the optimum          upstream switches is used to determine whether the
+air/fuel ratio of 14.7 to 1. This is done by making       catalyst is operating properly. An effective catalyst
+short term corrections in the fuel injector pulse width   will have fewer downstream switches than it has
+based on the O2S sensor output. The programmed            upstream switches i.e., a ratio closer to zero. For a
+memory acts as a self calibration tool that the engine    totally ineffective catalyst, this ratio will be one-to-
+controller uses to compensate for variations in engine    one, indicating that no oxidation occurs in the device.
+specifications, sensor tolerances and engine fatigue        The system must be monitored so that when cata-
+over the life span of the engine. By monitoring the       lyst efficiency deteriorates and exhaust emissions
+actual fuel-air ratio with the O2S sensor (short term)    increase to over the legal limit, the MIL will be illu-
+and multiplying that with the program long-term           minated.
+(adaptive) memory and comparing that to the limit,
+it can be determined whether it will pass an emis-        TRIP DEFINITION
+sions test. If a malfunction occurs such that the PCM        The term “Trip” has different meanings depending
+cannot maintain the optimum A/F ratio, then the           on what the circumstances are. If the MIL (Malfunc-
+MIL will be illuminated.                                  tion Indicator Lamp) is OFF, a Trip is defined as
+                                                          when the Oxygen Sensor Monitor and the Catalyst
+CATALYST MONITOR                                          Monitor have been completed in the same drive cycle.
+  To comply with clean air regulations, vehicles are         When any Emission DTC is set, the MIL on the
+equipped with catalytic converters. These converters      dash is turned ON. When the MIL is ON, it takes 3
+reduce the emission of hydrocarbons, oxides of nitro-     good trips to turn the MIL OFF. In this case, it
+gen and carbon monoxide.                                  depends on what type of DTC is set to know what a
+  Normal vehicle miles or engine misfire can cause a      “Trip” is.
+catalyst to decay. This can increase vehicle emissions       For the Fuel Monitor or Mis-Fire Monitor (contin-
+and deteriorate engine performance, driveability and      uous monitor), the vehicle must be operated in the
+fuel economy.                                             “Similar Condition Window” for a specified amount of
+  The catalyst monitor uses dual oxygen sensors           time to be considered a Good Trip.
+(O2S’s) to monitor the efficiency of the converter. The      If a Non-Contiuous OBDII Monitor fails twice in a
+dual O2S’s sensor strategy is based on the fact that      row and turns ON the MIL, re-running that monitor
+as a catalyst deteriorates, its oxygen storage capacity   which previously failed, on the next start-up and
+and its efficiency are both reduced. By monitoring        passing the monitor, is considered to be a Good Trip.
+the oxygen storage capacity of a catalyst, its effi-      These will include the following:
+ciency can be indirectly calculated. The upstream            • Oxygen Sensor
+O2S is used to detect the amount of oxygen in the            • Catalyst Monitor
+exhaust gas before the gas enters the catalytic con-         • Purge Flow Monitor
+verter. The PCM calculates the A/F mixture from the          • Leak Detection Pump Monitor (if equipped)
+output of the O2S. A low voltage indicates high oxy-         • EGR Monitor (if equipped)
+

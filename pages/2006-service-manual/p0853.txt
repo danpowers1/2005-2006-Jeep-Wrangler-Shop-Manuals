@@ -1,0 +1,48 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                            8W - 80 - 13
+
+
+                    C181 (2.4L) - BLACK (ENGINE SIDE)
+              CAV                    CIRCUIT
+               1      K334 18BR
+               2      C3 20DB/BK
+               3      Z987 20BK
+               4      K11 18BR/YL (EXCEPT MAN 6 SPD
+                      TRANS)
+               4      K11 20BR/YL (MAN 6 SPD TRANS)
+               5      K12 18BR/DB (EXCEPT MAN 6 SPD
+                      TRANS)
+               5      K12 20BR/DB (MAN 6 SPD TRANS)
+               6      K13 18BR/LB (EXCEPT MAN 6 SPD
+                      TRANS)
+               6      K13 20BR/LB (MAN 6 SPD TRANS)
+               7      K14 18BR/TN (EXCEPT MAN 6 SPD
+                      TRANS)
+               7      K14 20BR/TN (MAN 6 SPD TRANS)
+               8      K44 18DB/GY (EXCEPT MAN 6 SPD
+                      TRANS)
+               8      K44 20DB/GY (MAN 6 SPD TRANS)
+               9      K900 18DB/DG (EXCEPT MAN 6 SPD
+                      TRANS)
+               9      K900 20DB/DG (MAN 6 SPD TRANS)
+              10      -
+
+
+
+
+              C182 (2.4L) - BLACK (ENGINE INTAKE SIDE)
+              CAV                    CIRCUIT
+               1      -
+               2      -
+               3      K61 20VT/GY
+               4      K961 20BR/VT
+               5      K21 20BR/VT
+               6      K2 20VT/OR
+               7      K1 20VT/BR
+               8      K22 20BR/OR
+               9      F856 20YL/PK
+              10      G6 20VT/GY
+              11      -
+              12      F855 20PK/YL
+              13      -
+              14      -
+

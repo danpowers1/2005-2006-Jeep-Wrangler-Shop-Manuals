@@ -1,0 +1,62 @@
+14 - 36    FUEL INJECTION                                                                                   TJ
+
+sensor return circuit to the PCM, and an input cir-      upstream oxygen sensor voltage and changes fuel
+cuit from the sensor back to the PCM to detect sen-      delivery until the upstream sensor voltage changes
+sor operation.                                           enough to correct the downstream sensor voltage
+  Oxygen Sensor Heater Relay: If the vehicle is          (oxygen content).
+equipped with 4 oxygen sensors, a separate oxygen           The downstream oxygen sensor also provides an
+sensor relay is used to supply voltage to the sensor     input to determine catalytic convertor efficiency.
+heating elements. This particular relay is used only        Upstream Sensors - Engine Equipped With 4
+for the 1/2 and 2/2 downstream sensors. Voltage for      Sensors: Two upstream sensors are used (1/1 and
+the other 2 sensor heating elements is supplied          2/1). The 1/1 sensor is the first sensor to receive
+directly from the ASD relay. Refer to 8, Wiring Dia-     exhaust gases from the #1 cylinder. They provide an
+grams to determine which relay is used.                  input voltage to the PCM. The input tells the PCM
+  To avoid the large simultaneous current surge          the oxygen content of the exhaust gas. The PCM uses
+needed to operate all 4 sensors, power is delayed to     this information to fine tune fuel delivery to main-
+the 2 downstream heater elements by the PCM for          tain the correct oxygen content at the downstream
+approximately 2 seconds.                                 oxygen sensors. The PCM will change the air/fuel
+  Oxygen Sensor Heater Elements:                         ratio until the upstream sensors input a voltage that
+  The O2 sensor uses a Positive Thermal Co-efficient     the PCM has determined will make the downstream
+(PTC) heater element. As temperature increases,          sensors output (oxygen content) correct.
+resistance increases. At ambient temperatures               The upstream oxygen sensors also provide an input
+around 70°F, the resistance of the heating element is    to determine mini-catalyst efficiency. Main catalytic
+approximately 4.5 ohms. As the sensor’s temperature      convertor efficiency is not calculated with this pack-
+increases, resistance in the heater element increases.   age.
+This allows the heater to maintain the optimum              Downstream Sensors - Engine Equipped With
+operating temperature of approximately 930°-1100°F       4 Sensors: Two downstream sensors are used (1/2
+(500°-600° C). Although the sensors operate the          and 2/2). The downstream sensors are used to deter-
+same, there are physical differences, due to the envi-   mine the correct air-fuel ratio. As the oxygen content
+ronment that they operate in, that keep them from        changes at the downstream sensor, the PCM calcu-
+being interchangeable.                                   lates how much air-fuel ratio change is required. The
+  Maintaining correct sensor temperature at all          PCM then looks at the upstream oxygen sensor volt-
+times allows the system to enter into closed loop        age, and changes fuel delivery until the upstream
+operation sooner. Also, it allows the system to remain   sensor voltage changes enough to correct the down-
+in closed loop operation during periods of extended      stream sensor voltage (oxygen content).
+idle.                                                       The downstream oxygen sensors also provide an
+  In Closed Loop operation, the PCM monitors cer-        input to determine mini-catalyst efficiency. Main cat-
+tain O2 sensor input(s) along with other inputs, and     alytic convertor efficiency is not calculated with this
+adjusts the injector pulse width accordingly. During     package.
+Open Loop operation, the PCM ignores the O2 sensor          Engines equipped with either a downstream sen-
+input. The PCM adjusts injector pulse width based        sor(s), or a post-catalytic sensor, will monitor cata-
+on preprogrammed (fixed) values and inputs from          lytic convertor efficiency. If efficiency is below
+other sensors.                                           emission standards, the Malfunction Indicator Lamp
+  Upstream Sensor - Engine Equipped With 2               (MIL) will be illuminated and a Diagnostic Trouble
+Sensors: The upstream sensor (1/1) provides an           Code (DTC) will be set. Refer to Monitored Systems
+input voltage to the PCM. The input tells the PCM        in Emission Control Systems for additional informa-
+the oxygen content of the exhaust gas. The PCM uses      tion.
+this information to fine tune fuel delivery to main-
+tain the correct oxygen content at the downstream
+oxygen sensor. The PCM will change the air/fuel          REMOVAL
+ratio until the upstream sensor inputs a voltage that
+the PCM has determined will make the downstream          2.4L
+sensor output (oxygen content) correct.
+  The upstream oxygen sensor also provides an input      CAUTION: Never apply any type of grease to the
+to determine catalytic convertor efficiency.             oxygen sensor electrical connector, or attempt any
+  Downstream Sensor - Engine Equipped With               soldering of the sensor wiring harness.
+2 Sensors: The downstream oxygen sensor (1/2) is
+                                                           Refer to (Fig. 21) for O2S (oxygen sensor) location.
+also used to determine the correct air-fuel ratio. As
+the oxygen content changes at the downstream sen-
+sor, the PCM calculates how much air-fuel ratio
+change is required. The PCM then looks at the
+

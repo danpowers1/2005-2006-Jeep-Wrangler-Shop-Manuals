@@ -1,0 +1,59 @@
+8F - 38      STARTING                                                                                           TJ
+
+SPECIFICATIONS
+STARTER
+                                             Starter Motor and Solenoid
+Engine Application                                                                   2.4L, 4.0L
+                                                                    2.4L - 1.4 Kilowatt (1.9 Horsepower)
+Power Rating
+                                                                    4.0L - 1.4 Kilowatt (1.9 Horsepower)
+Voltage                                                                               12 Volts
+** Number of Permanent Magnets                                                           6
+Number of Brushes                                                                        4
+Drive Type                                                                    Planetary Gear Reduction
+Free Running Test Voltage                                                            11.2 Volts
+Free Running Test Maximum Amperage Draw                                             90 Amperes
+                                                                                 2.4L - 24400 rpm
+Free Running Test Minimum Speed
+                                                                                 4.0L - 2500 rpm
+Solenoid Closing Maximum Voltage Required                                            7.8 Volts
+                                                                                2.4L - 160 Amperes
+*Cranking Amperage Draw Test
+                                                                                4.0L - 160 Amperes
+* Test at operating temperature. Cold engine, tight (new) engine, or heavy oil will increase starter amperage
+draw.
+** The starter is equipped with permanent magnets. Never strike the starter case to attempt to loosen a stick-
+ing/stuck armature as permanent magnets may crack or break.
+
+TORQUE
+      DESCRIPTION                       N-m                        Ft. Lbs.                          In. Lbs.
+ Starter Solenoid B+ Ter-               11.3                              -                            100
+         minal Nut
+  Starter Mounting Bolts                54                            40                                 -
+          (2.4L)
+    Starter Heat Shield                  6                                -                            55
+      Mounting Bolts
+Starter Mounting Bolt (for-             41                            30                                 -
+     ward facing 4.0L)
+   Starter Mounting Bolt                48                            35                                 -
+  (rearward facing 4.0L)
+
+
+STARTER MOTOR                                              reverse polarity. This starter motor must never be
+                                                           clamped in a vise by starter field frame. The starter
+                                                           should only be clamped by mounting flange. Do not
+DIAGNOSIS AND TESTING - STARTER
+                                                           reverse battery cable connections to starter motor
+MOTOR / SOLENOID                                           when testing. The permanent magnets may be dam-
+  Correct starter motor operation can be confirmed         aged and starter rendered unserviceable if it is sub-
+by performing the following free running bench test.       jected to any of these conditions.
+This test can only be performed with starter motor
+removed from vehicle. Refer to starter motor specifi-      STARTER MOTOR TESTING
+cations.                                                     (1) Remove starter motor from vehicle. Refer to
+                                                           Starter Motor Removal / Installation.
+CAUTION: Permanent magnets are used in the
+                                                             (2) Mount starter motor securely in a soft-jawed
+starter. Permanent magnet starters are highly sensi-
+                                                           bench vise. The vise jaws should be clamped on
+tive to hammering, shocks, external pressure and
+

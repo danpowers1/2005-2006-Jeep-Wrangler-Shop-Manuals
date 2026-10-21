@@ -1,0 +1,36 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                      8W - 80 - 57
+
+
+                                      THROTTLE POSITION SENSOR (2.4L) - 3 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    F855 20PK/YL                       5 VOLT SUPPLY
+               2    K900 20DB/DG                       SENSOR GROUND
+               3    K22 20BR/OR                        TP NO. 1 SIGNAL
+
+
+
+
+                                      THROTTLE POSITION SENSOR (4.0L) - 3 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    F855 20PK/YL                       5 VOLT SUPPLY
+               2    K900 20DB/DG                       SENSOR GROUND
+               3    K22 18BR/OR                        TP NO. 1 SIGNAL
+
+
+
+
+                                  TORQUE CONVERTER CLUTCH SOLENOID - BLACK 2 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               A    F12 20RD/LG                        FUSED IGNITION SWITCH OUTPUT (RUN-START)
+               B    T23 18OR/LG                        TRANSMISSION LOW/OVERDRIVE SOLENOID
+
+
+
+
+                                      TOW/HAUL OVERDRIVE OFF SWITCH - 4 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    Z1 20BK                            GROUND
+               2    T6 20DG                            TOW/HAUL OVERDRIVE OFF SWITCH SENSE
+               3    T56 20DB/LB                        OVERDRIVE OFF SWITCH INDICATOR
+               4    E2 20OR/BR                         PANEL LAMPS FEED
+

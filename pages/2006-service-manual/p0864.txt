@@ -1,0 +1,42 @@
+8W - 80 - 24   8W-80 CONNECTOR PIN-OUTS                                                       TJ
+
+
+                                          CONTROLLER ANTILOCK BRAKE - 25 WAY
+                CAV                  CIRCUIT                              FUNCTION
+                 1    B1 18DG/OR                         RIGHT REAR WHEEL SPEED SENSOR (-)
+                 2    B3 18DG/YL                         LEFT REAR WHEEL SPEED SENSOR (-)
+                 3    B7 18DG/VT                         RIGHT FRONT WHEEL SPEED SENSOR (+)
+                 4    B9 18DG/LG                         LEFT FRONT WHEEL SPEED SENSOR (+)
+                 5    -                                  -
+                 6    G117 18VT/LG                       G-SWITCH NO. 1 SENSE
+                 7    G118 18VT/YL                       G-SWITCH NO. 2 SENSE
+                 8    Z127 12BK/DG                       GROUND
+                 9    A111 12DG/RD                       FUSED B(+)
+                 10   B4 18DG/GY                         LEFT REAR WHEEL SPEED SENSOR (+)
+                 11   B8 18DG/TN                         LEFT FRONT WHEEL SPEED SENSOR (-)
+                 12   L50 18WT/TN                        BRAKE LAMP SWITCH OUTPUT
+                 13   G119 18VT                          G-SWITCH TEST SIGNAL
+                 14   -                                  -
+                 15   -                                  -
+                 16   G83 18VT/WT                        ABS RELAY CONTROL
+                 17   B2 18DG/LB                         RIGHT REAR WHEEL SPEED SENSOR (+)
+                 18   B6 18DG/WT                         RIGHT FRONT WHEEL SPEED SENSOR (-)
+                 19   -                                  -
+                 20   D21 18WT/BR                        SCI TRANSMIT
+                 21   -                                  -
+                 22   -                                  -
+                 23   F102 18PK/DB                       FUSED IGNITION SWITCH OUTPUT (RUN)
+                 24   Z107 12BK/DG                       GROUND
+                 25   A107 12TN/RD                       FUSED B(+)
+
+
+
+
+                                       CRANKSHAFT POSITION SENSOR - BLACK 3 WAY
+                CAV                  CIRCUIT                              FUNCTION
+                 1    F855 20PK/YL                       5 VOLT SUPPLY
+                 2    K900 20DB/DG                       SENSOR GROUND
+                 3    K24 18BR/LB (EXCEPT MAN 6 SPD      CKP SIGNAL
+                      TRANS)
+                 3    K24 20BR/LB (MAN 6 SPD TRANS)      CKP SIGNAL
+

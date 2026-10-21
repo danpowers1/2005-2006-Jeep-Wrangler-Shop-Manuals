@@ -1,0 +1,60 @@
+TJ                                                                                          PLUMBING         24 - 73
+
+line between the A/C condenser and the A/C evapora-        indicate that the A/C orifice tube is obstructed or
+tor. This restriction established the pressure differen-   missing, the A/C liquid line must be replaced.
+tial between the high and low-pressure sides of the          (1) Confirm that the refrigerant system is properly
+A/C system.                                                charged (Refer to 24 - HEATING & AIR CONDI-
+   The inlet end of the fixed A/C orifice tube has a       TIONING - DIAGNOSIS AND TESTING - A/C PER-
+nylon mesh filter screen, which filters the refrigerant    FORMANCE TEST).
+and helps to reduce the potential for blockage of the        (2) Start the engine. Turn on the A/C system and
+metering orifice by refrigerant system contaminants        confirm that the compressor clutch is engaged.
+(Fig. 13). The outlet end of the tube has a nylon            (3) Allow the A/C system to operate for five min-
+mesh diffuser screen. The O-rings on the plastic body      utes.
+of the tube seal it to the inside of the liquid line and     (4) Lightly and cautiously touch the A/C liquid line
+prevent the refrigerant from bypassing the fixed           near the condenser outlet at the front of the engine
+metering orifice.                                          compartment. The liquid line should be hot to the
+                                                           touch.
+                                                             (5) Touch the A/C liquid line near the evaporator
+                                                           inlet at the rear of the engine compartment. The liq-
+                                                           uid line should be cold to the touch.
+                                                             (6) If there is a distinct temperature differential
+                                                           between the two ends of the A/C liquid line, the A/C
+                                                           orifice tube is in good condition. If there is little or no
+                                                           detectable temperature differential between the two
+                                                           ends of the A/C liquid line, the A/C orifice tube is
+                                                           obstructed or missing and the A/C liquid line must be
+       Fig. 13 Fixed A/C Orifice Tube - Typical
+                                                           replaced (Refer to 24 - HEATING & AIR CONDI-
+1 - DIFFUSER SCREEN                                        TIONING/PLUMBING/A/C             LIQUID        LINE       -
+2 - O-RING SEALS
+3 - INLET FILTER SCREEN                                    REMOVAL).
+4 - ORIFICE
+
+OPERATION                                                  ACCUMULATOR
+  The fixed A/C orifice tube is used to meter the flow
+of liquid refrigerant into the A/C evaporator. The         DESCRIPTION
+high-pressure liquid refrigerant from the A/C con-           The A/C accumulator (Fig. 14) is mounted in the
+denser expands into a low-pressure liquid as it            engine compartment between the A/C evaporator and
+passes through the metering orifice and diffuser           the A/C compressor. An integral mounting bracket is
+screen of the A/C orifice tube.                            used to secure the A/C accumulator to the frame rail.
+  The A/C orifice tube is not serviceable. It cannot be    The A/C low pressure switch is mounted on a fitting
+repaired, and if faulty or plugged, it must be replaced    located on the top of the A/C accumulator.
+as part of the A/C liquid line (Refer to 24 - HEATING        The A/C accumulator cannot be repaired and, if
+& AIR CONDITIONING/PLUMBING/LIQUID LINE                    faulty or damaged, it must be replaced. The rubber
+- REMOVAL).                                                O-rings used on accumulator connections and the A/C
+                                                           low pressure switch are available for service replace-
+                                                           ment.
+DIAGNOSIS AND TESTING
+A / C ORIFICE TUBE
+WARNING: The A/C liquid line between the A/C con-
+denser and the A/C orifice tube can become hot
+enough to burn the skin. Use extreme caution when
+performing the following test to prevent possible
+personal injury.
+
+
+NOTE: The A/C orifice tube can be checked for
+proper operation using the following procedure.
+However, the A/C orifice tube is only serviced as a
+part of the A/C liquid line. If the results of this test
+

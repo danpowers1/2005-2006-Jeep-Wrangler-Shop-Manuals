@@ -1,0 +1,52 @@
+8P - 2     SPEED CONTROL                                                                                        TJ
+
+momentary switch activation of the RES/ACCEL                  should include attention to the speedometer. Speed-
+switch.                                                       ometer operation should be smooth and without flut-
+   A “tap down” feature is used to decelerate without         ter at all speeds.
+disengaging the speed control system. To decelerate              Flutter in the speedometer indicates a problem
+from an existing recorded target speed, momentarily           which might cause surging in the speed control sys-
+depress the COAST switch. For each switch activa-             tem. The cause of any speedometer problems should
+tion, speed will be lowered approximately 1 mph.              be corrected before proceeding. Refer to Group 8J,
+                                                              Instrument Cluster for speedometer diagnosis.
+OVERSHOOT / UNDERSHOOT                                           If a road test verifies a system problem and the
+   If the vehicle operator repeatedly presses and             speedometer operates properly, check for:
+releases the SET button with their foot off of the               • A Diagnostic Trouble Code (DTC). If a DTC
+accelerator (referred to as a “lift foot set”), the vehicle   exists, conduct tests per the Powertrain Diagnostic
+may accelerate and exceed the desired set speed by            Procedures service manual.
+up to 5 mph (8 km/h). It may also decelerate to less             • A misadjusted brake (stop) lamp switch. This
+than the desired set speed, before finally achieving          could also cause an intermittent problem.
+the desired set speed.                                           • Loose, damaged or corroded electrical connec-
+   The Speed Control System has an adaptive strat-            tions at the servo. Corrosion should be removed from
+egy that compensates for vehicle-to-vehicle variations        electrical terminals and a light coating of Mopar
+in speed control cable lengths. When the speed con-           MultiPurpose Grease, or equivalent, applied.
+trol is set with the vehicle operators foot off of the           • Leaking vacuum reservoir.
+accelerator pedal, the speed control thinks there is             • Loose or leaking vacuum hoses or connections.
+excessive speed control cable slack and adapts                   • Defective one-way vacuum check valve.
+accordingly. If the “lift foot sets” are continually used,       • Secure attachment of both ends of the speed con-
+a speed control overshoot/undershoot condition will           trol servo cable.
+develop.                                                         • Smooth operation of throttle linkage and throttle
+   To “unlearn” the overshoot/undershoot condition,           body air valve.
+the vehicle operator has to press and release the set            • Failed speed control servo. Do the servo vacuum
+button while maintaining the desired set speed using          test.
+the accelerator pedal (not decelerating or accelerat-
+ing), and then turning the cruise control switch to           CAUTION: When test probing for voltage or conti-
+the OFF position (or press the CANCEL button if               nuity at electrical connectors, care must be taken
+equipped) after waiting 10 seconds. This procedure            not to damage connector, terminals or seals. If
+must be performed approximately 10–15 times to                these components are damaged, intermittent or
+completely unlearn the overshoot/undershoot condi-            complete system failure may occur.
+tion.
+
+DIAGNOSIS AND TESTING - ROAD TEST
+  Perform a vehicle road test to verify reports of
+speed control system malfunction. The road test
+
+SPECIFICATIONS
+TORQUE
+       DESCRIPTION                         N-m                        Ft. Lbs.                    In. Lbs.
+ Servo Mounting Bracket-                    8.5                          -                           75
+      to-Servo Nuts
+   Speed Control Switch                     1.5                          -                           14
+     Mounting Screws
+ Vacuum Reservoir Mount-                    1.2                          -                           10
+     ing Bolt (screw)
+

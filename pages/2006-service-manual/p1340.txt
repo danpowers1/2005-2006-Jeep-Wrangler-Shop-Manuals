@@ -1,0 +1,42 @@
+21 - 150     AUTOMATIC TRANSMISSION - 42RLE                                                                     TJ
+
+
+
+
+                                    Fig. 249 Torque Converter Fluid Operation
+1 - APPLY PRESSURE                                           3 - RELEASE PRESSURE
+2 - THE PISTON MOVES SLIGHTLY FORWARD                        4 - THE PISTON MOVES SLIGHTLY REARWARD
+
+
+TURBINE                                                      cause it to lock-up is no longer doing so. In this con-
+  As the fluid that was put into motion by the impel-        dition of operation, the stator begins to free wheel
+ler blades strikes the blades of the turbine, some of        and the converter acts as a fluid coupling.
+the energy and rotational force is transferred into the
+turbine and the input shaft. This causes both of them
+(turbine and input shaft) to rotate in a clockwise
+direction following the impeller. As the fluid is leav-
+ing the trailing edges of the turbine’s blades it con-
+tinues in a “hindering” direction back toward the
+impeller. If the fluid is not redirected before it strikes
+the impeller, it will strike the impeller in such a
+direction that it would tend to slow it down.
+
+STATOR
+   Torque multiplication is achieved by locking the
+stator’s over-running clutch to its shaft (Fig. 250).
+Under stall conditions (the turbine is stationary), the
+oil leaving the turbine blades strikes the face of the
+stator blades and tries to rotate them in a counter-                       Fig. 250 Stator Operation
+clockwise direction. When this happens the overrun-
+                                                              1 - DIRECTION STATOR WILL FREE WHEEL DUE TO OIL
+ning clutch of the stator locks and holds the stator          PUSHING ON BACKSIDE OF VANES
+from rotating. With the stator locked, the oil strikes        2 - FRONT OF ENGINE
+                                                              3 - INCREASED ANGLE AS OIL STRIKES VANES
+the stator blades and is redirected into a “helping”          4 - DIRECTION STATOR IS LOCKED UP DUE TO OIL PUSHING
+direction before it enters the impeller. This circula-        AGAINST STATOR VANES
+tion of oil from impeller to turbine, turbine to stator,
+and stator to impeller, can produce a maximum                TORQUE CONVERTER CLUTCH (TCC)
+torque multiplication of about 2.4:1. As the turbine           The torque converter clutch is hydraulically
+begins to match the speed of the impeller, the fluid         applied and is released when fluid is vented from the
+that was hitting the stator in such as way as to             hydraulic circuit by the torque converter control
+

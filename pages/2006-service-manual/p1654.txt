@@ -1,0 +1,63 @@
+24 - 18   CONTROLS                                                                                TJ
+
+A - NOT USED
+B - DEFROST ACTUATOR, FULL POSITION (YELLOW)
+C - FLOOR ACTUATOR (BROWN)
+D - DEFROST ACTUATOR, MID-POSITION (BLUE)
+E - VACUUM SUPPLY, RESERVOIR (BLACK)
+F - PANEL ACTUATOR (RED)
+G - NOT USED
+
+
+
+
+                                                  (4) Disconnect and plug the vacuum line from the
+                                               component (fitting, actuator, valve, switch, or reser-
+                                               voir) on the other end of the leaking circuit. Instru-
+                                               ment panel disassembly or removal may be necessary
+                                               to gain access to some components. See the appropri-
+                                               ate service procedures.
+                                                  (5) Connect the test set hose or probe to the open
+                                               end of the leaking circuit. The test set gauge should
+                                               return to the 27 kPa (8 in. Hg.) setting shortly after
+                                               each connection is made. If OK, replace the faulty
+                                               disconnected component. If not OK, go to Step 6.
+                                                  (6) To locate a leak in a vacuum line, leave one
+                                               end of the line plugged and connect the test set hose
+                                               or probe to the other end of the line. Run your fin-
+                                               gers slowly along the line while watching the test set
+                                               gauge. The vacuum reading will fluctuate when your
+                                               fingers contact the source of the leak. To repair the
+                                               vacuum line, cut out the leaking section of the line.
+                                               Then, insert the loose ends of the line into a suitable
+                                               length of 3 millimeter (0.125 inch) inside diameter
+                                               rubber hose.
+
+                                               REMOVAL
+                                               WARNING: On vehicles equipped with airbags, dis-
+                                               able the airbag system before attempting any steer-
+                                               ing wheel, steering column, or instrument panel
+                                               component diagnosis or service. Disconnect and
+                                               isolate the negative battery (ground) cable, then
+                                               wait two minutes for the airbag system capacitor to
+                                               discharge before performing further diagnosis or
+                                               service. This is the only sure way to disable the air-
+                                               bag system. Failure to take the proper precautions
+                                               could result in accidental airbag deployment and
+                                               possible personal injury or death.
+
+                                                 (1) Disconnect and isolate the battery negative
+                                               cable.
+                                                 (2) Remove the center bezel from the instrument
+                                               panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+                                               INSTRUMENT         PANEL     CENTER      BEZEL      -
+                                               REMOVAL).
+                                                 (3) Remove the glove box from the instrument
+                                               panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+                                               GLOVE BOX - REMOVAL).
+                                                 (4) Reach through the glove box opening and dis-
+                                               connect the two halves of the A/C-heater control vac-
+                                               uum harness connector (Fig. 16).
+                                                 (5) Remove the two screws that secure the A/C-
+                                               heater control to the instrument panel.
+

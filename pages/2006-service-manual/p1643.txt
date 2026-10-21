@@ -1,0 +1,62 @@
+TJ                                                                 HEATING & AIR CONDITIONING           24 - 7
+
+   If the floor outlet air temperature is insufficient,                      A/C SYSTEM
+check that the cooling system is operating to specifi-
+                                                               Item           Description          Notes
+cations (Refer to 7 - COOLING/ENGINE - DIAGNO-
+SIS AND TESTING). Both heater hoses should be             A/C Compres-       Denso 10PA17     ND-8 PAG Oil
+HOT to the touch (the coolant return hose should be       sor
+slightly cooler than the supply hose). If the coolant     Freeze–up Con-     A/C low pres-    Input to PCM,
+return hose is much cooler than the supply hose,          trol               sure switch      accumulator
+locate and repair the engine coolant flow obstruction                                         mounted - cy-
+in heater system.                                                                             cles A/C clutch
+                                                                                              off below 172
+OBSTRUCTED COOLANT FLOW                                                                       kPa (25 psi) -
+   Possible locations or causes of obstructed coolant                                         cycles back on
+flow are as follows:                                                                          above 276 kPa
+   • Pinched or kinked heater hoses.                                                          (40 psi)
+   • Improper heater hose routing.                        Low psi Control    A/C low pres-    Input to PCM,
+                                                                             sure switch      opens below
+  • Plugged heater hoses or supply and return ports
+                                                                                              172 kPa (25
+at the cooling system connections.
+                                                                                              psi) - resets
+  • Plugged heater core.                                                                      above 276 kPa
+  If proper coolant flow through the cooling system is                                        (40 psi)
+verified, and heater outlet air temperature is insuffi-   High psi Control   A/C high pres-   Input to PCM,
+cient, a mechanical problem may exist.                                       sure switch      A/C discarge
+                                                                             (4.0L engine)    line mounted -
+MECHANICAL PROBLEMS
+                                                                                              opens at dis-
+  Possible causes of insufficient heat due to mechan-                                         charge pressure
+ical problems are as follows:                                                                 above 3100 -
+  • Faulty engine thermostat.                                                                 3375 kPa (450
+                                                                                              - 490 psi) - re-
+  • Faulty blend door actuator.
+                                                                                              sets at 1860 -
+  • Obstructed fresh air intake.                                                              2275 kPa (270
+  • Obstructed heater system outlets.                                                         - 330 psi)
+  • Faulty blend-air door.                                                   A/C pressure     Input to PCM,
+                                                                             transducer       A/C discarge
+TEMPERATURE CONTROL                                                          (2,4L engine)    line mounted -
+  If the heater outlet air temperature cannot be                                              opens at dis-
+adjusted with the temperature control on the A/C-                                             charge pressure
+heater control panel, the following could require ser-                                        above 2971
+vice:                                                                                         kPa (431 psi)
+  • Faulty blend door actuator.                                                               and below 206
+                                                                                              kPa (30 psi)
+  • Faulty A/C-heater control.
+                                                          Refrigerant        Refer to the     R-134a refriger-
+  • Faulty related wiring harness or connectors.
+                                                          Charge Capaci-     A/C Underhood    ant
+  • Faulty blend-air door.                                ty                 Specification
+                                                                             Label located
+                                                                             in the engine
+SPECIFICATIONS                                                               compartment
+HEATING - A / C SYSTEM                                    A/C Clutch Coil    2.0 - 3.7 amps   @ 12V ± 0.5V
+                                                          Draw                                @ 21° C (70°
+                                                                                              F)
+                                                          A/C Clutch Air     0.35 - 0.65 mm
+                                                          Gap                (0.014 - 0.026
+                                                                             in)
+

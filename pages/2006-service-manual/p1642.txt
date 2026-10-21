@@ -1,0 +1,59 @@
+24 - 6    HEATING & AIR CONDITIONING                                                                                 TJ
+
+          Condition                    Possible Causes                                  Correction
+                                3. Refrigerant system over-         3. See Refrigerant System Charge in this group.
+                                charged.                            Recover the refrigerant from the refrigerant sys-
+                                                                    tem. Charge the refrigerant system to the prop-
+                                                                    er level, if required.
+                                4. Air in the refrigerant sys-      4. See Refrigerant System Leaks in this group.
+                                tem.                                Test the refrigerant system for leaks. Repair,
+                                                                    evacuate and charge the refrigerant system, if
+                                                                    required.
+                                5. Engine overheating.              5. Test the engine cooling system and repair, if
+                                                                    required. Refer to Group 7.
+The low side pressure is too    1. Accessory drive belt slip-       1. Inspect the accessory drive belt condition
+high, and the high side pres-   ping.                               and tension. Tighten or replace the accessory
+sure is too low.                                                    drive belt, if required. Refer to Group 7.
+                                2. Faulty A/C orifice tube.         2. See A/C Orifice Tube in this group. Replace
+                                                                    the liquid line, if required.
+                                3. Faulty A/C compressor.           3. See A/C Compressor in this group. Replace
+                                                                    the A/C compressor, if required.
+The low side pressure is too    1. Restricted refrigerant flow      1. See Liquid Line and Suction and Discharge
+low, and the high side pres-    through the refrigerant lines.      Line in this group. Inspect the refrigerant lines
+sure is too high.                                                   for kinks, tight bends or improper routing. Cor-
+                                                                    rect the routing or replace the refrigerant line, if
+                                                                    required.
+                                2. Restricted refrigerant flow      2. See A/C Orifice Tube in this group. Replace
+                                through the A/C orifice tube.       the liquid line, if required.
+                                3. Restricted refrigerant flow      3. See A/C Condenser in this group. Replace
+                                through the A/C condenser.          the restricted condenser, if required.
+
+
+HEATER PERFORMANCE                                            the cap and turn it to the first safety stop. Allow
+                                                              pressure to escape through the overflow tube. When
+WARNING: Review safety precautions and warnings               the system pressure stabilizes, remove the cap com-
+in this group before performing this procedure                pletely.
+(Refer to 24 - HEATING & AIR CONDITIONING/
+PLUMBING - WARNINGS) and (Refer to 24 - HEAT-                 MAXIMUM HEATER OUTPUT: TEST AND ACTION
+ING & AIR CONDITIONING/PLUMBING - CAUTIONS).                     Engine coolant is provided to the heater system by
+Failure to follow the warnings and cautions could             two heater hoses. With the engine idling at normal
+result in possible personal injury or death.                  operating temperature, set the temperature control
+                                                              to maximum heat, the mode control to the floor posi-
+  Check the coolant level, drive belt tension, radiator       tion, and the blower in the highest speed position.
+air flow and fan operation. Start engine and allow to         Using a test thermometer, check the temperature of
+warm up to normal operating temperature.                      the air being discharged from the floor outlets. Com-
+                                                              pare the test thermometer reading to the Heater
+WARNING: Do not remove radiator cap when engine               Temperature Reference chart.
+is hot, personal injury can result.
+
+  If vehicle has been run recently, wait 15 minutes
+before removing the radiator cap. Place a rag over
+
+                                  HEATER TEMPERATURE REFERENCE
+
+                                         15.5° C                 21.1° C             26.6° C               32.2° C
+Ambient Air Temperature
+                                         (60° F)                 (70° F)             (80° F)               (90° F)
+Minimum Air Temperature at               62.2° C                 63.8° C             65.5° C              67.2° C
+Floor Outlet                             (144° F)                (147° F)            (150° F)             (153° F)
+

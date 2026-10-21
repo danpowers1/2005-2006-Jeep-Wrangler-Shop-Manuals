@@ -1,0 +1,61 @@
+TJ                                                                                         PLUMBING   24 - 59
+
+refrigerant system (Refer to 24 - HEATING & AIR           SAE Standard J2210 must be used (Fig. 1). Contact
+CONDITIONING/PLUMBING - STANDARD PRO-                     an automotive service equipment supplier for refrig-
+CEDURE - REFRIGERANT SYSTEM CHARGE) and                   erant recovery/recycling/charging equipment. See the
+proceed to Step 1 of the System Low procedure.            operating instructions supplied by the equipment
+                                                          manufacturer for proper care and use of this equip-
+SYSTEM LOW                                                ment.
+  (1) Position the vehicle in a wind-free work area.
+This will aid in detecting small leaks.
+  (2) Operate the heating-A/C system with the
+engine at idle under the following conditions for at
+least five minutes.
+  • Doors or windows open
+  • Transmission in Park or Neutral with the park-
+ing brake set (depending on application)
+  • A/C-heater controls set to outside air, full cool,
+panel mode, high blower and with A/C compressor
+engaged
+
+CAUTION: A leak detector only designed for R-12
+refrigerant will not detect leaks in a R-134a refriger-
+ant system.
+
+  (3) Shut the vehicle Off and wait 2-7 minutes.            Fig. 1 Refrigerant Recovery/Recycling Station -
+Then use an electronic leak detector that is designed                           Typical
+to detect R-134a refrigerant and search for leaks. Fit-   1 - R-134a REFRIGERANT STATION
+tings, lines or components that appear to be oily usu-
+ally indicate a refrigerant leak. To inspect the A/C      MANIFOLD GAUGE SET
+evaporator for leaks, insert the leak detector probe        A manifold gauge set may be needed with some
+into the drain tube opening or an air outlet. A dye for   recovery/recycling/charging equipment (Fig. 2). The
+R-134a is available to aid in leak detection. Use only    service hoses on the gauge set being used should
+DaimlerChrysler approved refrigerant dye.                 have manual (turn wheel), or automatic back-flow
+                                                          valves at the service port connector ends. This will
+                                                          prevent refrigerant from being released into the
+STANDARD PROCEDURE                                        atmosphere.
+
+REFRIGERANT SYSTEM SERVICE EQUIPMENT
+WARNING: Refer to the applicable warnings and
+cautions for this system before performing the fol-
+lowing operation (Refer to 24 - HEATING & AIR
+CONDITIONING/PLUMBING - WARNINGS) and (Refer
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+CAUTIONS). Failure to follow the warnings and cau-
+tions could result in possible personal injury or
+death.
+
+
+WARNING: Eye protection must be worn when ser-
+vicing an air conditioning refrigerant system. Turn
+off (rotate clockwise) all valves on the equipment
+being used, before connecting to or disconnecting
+from the refrigerant system. Failure to observe
+these warnings may result in personal injury or
+death.
+
+
+RECOVERY / RECYCLING STATION
+  When servicing the A/C system, a R-134a refriger-
+ant recovery/recycling/charging station that meets
+

@@ -1,0 +1,59 @@
+8P - 4    SPEED CONTROL                                                                                       TJ
+
+                                                           SERVO
+                                                           DESCRIPTION
+                                                             The servo unit consists of a solenoid valve body,
+                                                           and a vacuum chamber. The solenoid valve body con-
+                                                           tains three solenoids:
+                                                             • Vacuum
+                                                             • Vent
+                                                             • Dump
+                                                             The vacuum chamber contains a diaphragm with a
+                                                           cable attached to control the throttle linkage.
+
+                                                           OPERATION
+                                                             The Powertrain Control Module (PCM) controls the
+                                                           solenoid valve body. The solenoid valve body controls
+                                                           the application and release of vacuum to the dia-
+                                                           phragm of the vacuum servo. The servo unit cannot
+                                                           be repaired and is serviced only as a complete assem-
+                                                           bly.
+                                                             Power is supplied to the servo’s by the PCM
+                                                           through the brake switch. The PCM controls the
+                         Fig. 2                            ground path for the vacuum and vent solenoids.
+                                                             The dump solenoid is energized anytime it receives
+INSTALLATION                                               power. If power to the dump solenoid is interrupted,
+                                                           the solenoid dumps vacuum in the servo. This pro-
+2.4L                                                       vides a safety backup to the vent and vacuum sole-
+   (1) Install end of cable to speed control servo.        noids.
+Refer to Servo Removal/Installation.                         The vacuum and vent solenoids must be grounded
+   (2) Slide speed control cable plastic mount into        at the PCM to operate. When the PCM grounds the
+throttle body bracket.                                     vacuum servo solenoid, the solenoid allows vacuum
+   (3) Install speed control cable connector onto throt-   to enter the servo and pull open the throttle plate
+tle body bellcrank pin (push rearward to snap into         using the cable. When the PCM breaks the ground,
+location).                                                 the solenoid closes and no more vacuum is allowed to
+   (4) Slide throttle (accelerator) cable plastic mount    enter the servo. The PCM also operates the vent sole-
+into throttle body bracket. Continue sliding until         noid via ground. The vent solenoid opens and closes a
+cable release tab is aligned to hole in throttle body      passage to bleed or hold vacuum in the servo as
+mounting bracket.                                          required.
+   (5) While holding throttle to wide open position,         The PCM duty cycles the vacuum and vent sole-
+place throttle cable pin into throttle body bellcrank.     noids to maintain the set speed, or to accelerate and
+   (6) Connect negative battery cable at battery.          decelerate the vehicle. To increase throttle opening,
+   (7) Before starting engine, operate accelerator         the PCM grounds the vacuum and vent solenoids. To
+pedal to check for any binding.                            decrease throttle opening, the PCM removes the
+                                                           grounds from the vacuum and vent solenoids. When
+4.0L                                                       the brake is released, if vehicle speed exceeds 30
+  (1) Attach end of cable to speed control servo.          mph to resume, 35 mph to set, and the RES/ACCEL
+Refer to Servo Removal/Installation.                       switch has been depressed, ground for the vent and
+  (2) Install cable into cable bracket (snaps in).         vacuum circuits is restored.
+  (3) Install cable connector at throttle body
+bellcrank pin (snaps on).                                  REMOVAL
+  (4) Clip cable to cable guide at valve cover.              (1) Disconnect negative battery cable at battery.
+  (5) Connect negative battery cable to battery.             (2) Disconnect vacuum line at servo (Fig. 3).
+  (6) Before starting engine, operate accelerator            (3) Disconnect electrical connector at servo.
+pedal to check for any binding.                              (4) Disconnect servo cable at throttle body. Refer to
+                                                           Cable Removal/Installation.
+                                                             (5) Remove three bracket mounting bolts (Fig. 3).
+                                                             (6) Remove 2 mounting nuts holding servo cable
+                                                           sleeve to bracket (Fig. 4).
+

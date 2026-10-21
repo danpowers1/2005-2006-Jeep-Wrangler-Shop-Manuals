@@ -1,0 +1,59 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 49
+
+DIAGNOSIS AND TESTING - HYDRAULIC                        TEST TWO - SELECTOR IN MANUAL 2 (Second
+PRESSURE TESTS                                           Gear)
+                                                         NOTE: This test checks the underdrive clutch
+                                                         hydraulic circuit as well as the shift schedule.
+
+                                                           (1) Attach gauge to the underdrive clutch tap.
+                                                           (2) Move selector lever to the MANUAL 2 position.
+                                                           (3) Allow vehicle wheels to turn and increase
+                                                         throttle opening to achieve an indicated vehicle speed
+                                                         of 30 mph.
+                                                           (4) In second gear the underdrive clutch pressure
+                                                         should read 110 to 145 psi.
+
+                                                         TEST TWO A - SELECTOR IN DRIVE (OD ON -
+                                                         Fourth Gear)
+                                                         NOTE: This test checks the underdrive clutch
+                Fig. 8 Pressure Taps                     hydraulic circuit as well as the shift schedule.
+1 - TORQUE CONVERTER CLUTCH OFF                            (1) Attach gauge to the underdrive clutch tap.
+2 - REVERSE
+3 - LOW/REVERSE                                            (2) Move selector lever to the DRIVE position.
+4 - 2/4                                                  Verfy that the OD switch is ON.
+5 - UNDERDRIVE                                             (3) Allow wheels to rotate freely and increase
+6 - TORQUE CONVERTER CLUTCH ON
+7 - OVERDRIVE                                            throttle opening to achieve an indicated speed of 40
+                                                         mph.
+   Pressure testing is a very important step in the        (4) Underdrive clutch pressure should read below
+diagnostic procedure. These tests usually reveal the     5 psi. If not, than either the solenoid assembly or
+cause of most transmission problems.                     controller is at fault.
+   Before performing pressure tests, be certain that
+fluid level and condition, and shift cable adjustments   TEST THREE - SELECTOR IN DRIVE (OD OFF -
+have been checked and approved. Fluid must be at         Third and Second Gear)
+operating temperature (150 to 200 degrees F.).
+  Install an engine tachometer, raise vehicle on hoist   NOTE: This test checks the overdrive clutch
+which allows the wheels to turn, and position            hydraulic circuit as well as the shift schedule.
+tachometer so it can be read.
+                                                           (1) Attach gauge to the overdrive clutch tap.
+  Using special adapters L-4559, attach 300 psi            (2) Move selector lever to the DRIVE position.
+gauge(s) C-3293SP to the port(s) required for test         (3) Allow vehicle wheels to turn and increase
+being conducted.                                         throttle opening to achieve an indicated vehicle speed
+  Test port locations are shown in the Pressure Taps     of 20 mph.
+graphic. (Fig. 8)                                          (4) Overdrive clutch pressure should read 74 to 95
+                                                         psi.
+TEST ONE - SELECTOR IN MANUAL 1 (1st Gear)                 (5) Move selector lever to the DRIVE position and
+                                                         increase indicated vehicle speed to 30 mph.
+NOTE: This test checks pump output, pressure reg-          (6) The vehicle should be in second gear and over-
+ulation and condition of the low/reverse clutch          drive clutch pressure should be less than 5 psi.
+hydraulic circuit and shift schedule.
+                                                         TEST FOUR - SELECTOR IN DRIVE (OD ON -
+  (1) Attach pressure gauge to the low/reverse clutch    Fourth Gear)
+tap.
+  (2) Move selector lever to the MANUAL 1 position.      NOTE: This test checks the 2/4 clutch hydraulic cir-
+  (3) Allow vehicle wheels to turn and increase          cuit.
+throttle opening to achieve an indicated vehicle speed
+to 20 mph.                                                 (1) Attach gauge to the 2/4 clutch tap.
+  (4) Low/reverse clutch pressure should read 115 to       (2) Move selector lever to the DRIVE position.
+145 psi.
+

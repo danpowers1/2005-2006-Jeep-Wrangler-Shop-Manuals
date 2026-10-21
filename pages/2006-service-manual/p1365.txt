@@ -1,0 +1,63 @@
+TJ                                                                         TRANSFER CASE - NV231           21 - 175
+
+             Condition                         Possible Cause                              Correction
+
+Transfer case noisy while in, or      1) Transfer case not completely         1) Slow vehicle, shift transfer case
+jumps out of, 4L mode.                engaged in 4L position.                 to the Neutral position, and then
+                                                                              shift into the 4L mode.
+
+                                      2) Transfer case shift linkage out      2) Adjust linkage as necessary.
+                                      of adjustment.
+                                      3) Transfer case shift linkage loose    3) Repair, replace, or tighten link-
+                                      or binding.                             age components as necessary.
+                                      4) Range fork damaged, inserts          4) Repair or replace components
+                                      worn, or fork is binding on the shift   as necessary.
+                                      rail.
+                                      5) Low range gear worn or dam-          5) Repair or replace components
+                                      aged.                                   as necessary.
+
+Lubricant leaking from transfer       1) Transfer case overfilled.            1) Drain lubricant to the correct
+case seals or vent.                                                           level.
+
+                                      2) Transfer case vent closed or         2) Clean or replace vent as neces-
+                                      restricted.                             sary.
+                                      3) Transfer case seals damaged or       3) Replace suspect seal.
+                                      installed incorrectly.
+
+Abnormal tire wear.                   1) Extended operation in 4H mode        1) Operate vehicle in 2H mode on
+                                      on dry surfaces,                        dry surfaces.
+
+
+REMOVAL
+  (1) Shift transfer case into NEUTRAL.
+  (2) Raise vehicle.
+  (3) Drain transfer case lubricant.
+  (4) Mark front and rear propeller shaft yokes for
+alignment reference.
+  (5) Support transmission with jack stand.
+  (6) Remove rear crossmember, or skid plate.
+  (7) Disconnect front/rear propeller shafts at trans-
+fer case.
+  (8) Disconnect vehicle speed sensor wires.
+  (9) Disconnect transfer case linkage rod from
+range lever.
+  (10) Disconnect transfer case vent hose (Fig. 2)
+and indicator switch harness, if necessary.
+  (11) Support transfer case with transmission jack.                  Fig. 2 Transfer Case Mounting
+  (12) Secure transfer case to jack with chains.           1 - VENT TUBE
+  (13) Remove nuts attaching transfer case to trans-       2 - TRANSFER CASE
+                                                           3 - TRANSMISSION
+mission.
+  (14) Pull transfer case and jack rearward to disen-     DISASSEMBLY
+gage transfer case.
+                                                            Position transfer case on shallow drain pan.
+  (15) Remove transfer case from under vehicle.
+                                                          Remove drain plug and drain lubricant remaining in
+                                                          case.
+
+                                                          REAR RETAINER AND OIL PUMP
+                                                            (1) Remove the speedometer adapter.
+                                                            (2) Spread band clamp which holds output shaft
+                                                          boot to the output shaft slinger, or output shaft
+                                                          damper, with a suitable awl, or equivalent.
+

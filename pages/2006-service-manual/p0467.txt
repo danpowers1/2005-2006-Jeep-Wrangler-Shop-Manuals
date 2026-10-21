@@ -1,0 +1,68 @@
+TJ                                                                                IGNITION CONTROL          8I - 19
+
+CLEANING SPARK PLUGS                                          Special care should be taken when installing spark
+   The plugs may be cleaned using commercially              plugs into the cylinder head spark plug wells. Be
+available spark plug cleaning equipment. After clean-       sure the plugs do not drop into the plug wells as elec-
+ing, file the center electrode flat with a small point      trodes can be damaged.
+file or jewelers file before adjusting gap.                   Always tighten spark plugs to the specified torque.
+                                                            Over tightening can cause distortion resulting in a
+CAUTION: Never use a motorized wire wheel brush             change in the spark plug gap or a cracked porcelain
+to clean the spark plugs. Metallic deposits will            insulator.
+remain on the spark plug insulator and will cause             (1) Start the spark plug into the cylinder head by
+plug misfire.                                               hand to avoid cross threading.
+                                                              (2) Tighten spark plugs to 30 ±5 N·m (22 ±4 ft.
+                                                            lbs.).
+                                                              (3) Install coil rail. (Refer to 9 - ENGINE/ENGINE
+INSTALLATION                                                BLOCK/STRUCTURAL COVER - REMOVAL).
+
+2.4L
+  Always tighten spark plugs to the specified torque.       SPARK PLUG CABLE
+Over tightening can cause distortion. This may result
+in a change in the spark plug gap, or a cracked por-        DESCRIPTION
+celain insulator.                                             Spark plug cables are used only on the 2.4L 4–cyl-
+  When replacing the spark plug and ignition coil           inder engine. They are sometimes referred to as sec-
+cables, route the cables correctly and secure them in       ondary ignition wires.
+the appropriate retainers. Failure to route the cables
+properly can cause the radio to reproduce ignition          OPERATION
+noise. It could cause cross ignition of the spark plugs,      2.4L 4–cylinder engine only: The spark plug cables
+or short circuit the cables to ground.                      transfer electrical current from the ignition coil(s)
+                                                            and/or distributor, to individual spark plugs at each
+CAUTION: Spark plug tightening on the 2.4L is
+                                                            cylinder. The resistive spark plug cables are of non-
+torque critical. The plugs are equipped with tapered
+                                                            metallic construction. The cables provide suppression
+seats. Do not exceed 15 ft. lbs. torque.
+                                                            of radio frequency emissions from the ignition sys-
+  Special care should be taken when installing spark        tem.
+plugs into the cylinder head spark plug wells. Be
+sure the plugs do not drop into the plug wells as elec-     DIAGNOSIS AND TESTING
+trodes can be damaged.                                        Check the spark plug cable connections for good
+  Always tighten spark plugs to the specified torque.       contact at the coil(s) and spark plugs. Terminals
+Over tightening can cause distortion resulting in a         should be fully seated. The insulators should be in
+change in the spark plug gap or a cracked porcelain         good condition and should fit tightly on the coil and
+insulator.                                                  spark plugs. Spark plug cables with insulators that
+  (1) Start the spark plug into the cylinder head by        are cracked or torn must be replaced.
+hand to avoid cross threading.                                Clean high voltage ignition cables with a cloth
+  (2) Tighten spark plugs to 15 N·m (11 ft. lbs.).          moistened with a non-flammable solvent. Wipe the
+  (3) Install throttle body (if necessary). (Refer to 9 -   cables dry. Check for brittle or cracked insulation.
+ENGINE/ENGINE BLOCK/STRUCTURAL COVER -                        When testing secondary cables for damage with an
+REMOVAL).                                                   oscilloscope, follow the instructions of the equipment
+  (4) Install air cleaner tube and housing.                 manufacturer.
+                                                              If an oscilloscope is not available, spark plug cables
+4.0L                                                        may be tested as follows:
+  Always tighten spark plugs to the specified torque.
+                                                            CAUTION: Do not leave any one spark plug cable
+Over tightening can cause distortion. This may result
+                                                            disconnected for longer than necessary during test-
+in a change in the spark plug gap, or a cracked por-
+                                                            ing. This may cause possible heat damage to the
+celain insulator.
+                                                            catalytic converter. Total test time must not exceed
+  When replacing the spark plug and ignition coil
+                                                            ten minutes.
+cables, route the cables correctly and secure them in
+the appropriate retainers. Failure to route the cables        With the engine running, remove spark plug cable
+properly can cause the radio to reproduce ignition          from spark plug (one at a time) and hold next to a
+noise. It could cause cross ignition of the spark plugs,    good engine ground. If the cable and spark plug are
+or short circuit the cables to ground.                      in good condition, the engine rpm should drop and
+

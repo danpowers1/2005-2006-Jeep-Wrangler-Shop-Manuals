@@ -1,0 +1,62 @@
+8J - 34    INSTRUMENT CLUSTER                                                                               TJ
+
+traveled. This indicator is controlled by the instru-    DRBIIIt scan tool is required. Refer to the appropri-
+ment cluster circuitry based upon cluster program-       ate diagnostic information.
+ming and electronic messages received by the cluster
+from the Powertrain Control Module (PCM) over the
+Programmable Communications Interface (PCI) data         OIL PRESSURE GAUGE
+bus. The odometer and trip odometer information is
+displayed by the instrument cluster Vacuum Fluores-      DESCRIPTION
+cent Display (VFD). The VFD will display the odom-
+eter information whenever the driver door is opened
+with the ignition switch in the Off or Accessory posi-
+                                                                        Fig. 20 Engine Oil Icon
+tions, and will display the last previously selected        An oil pressure gauge is standard equipment on all
+odometer or trip odometer information when the igni-     instrument clusters. The oil pressure gauge is located
+tion switch is turned to the On or Start positions.      in the upper right quadrant of the instrument clus-
+The instrument cluster circuitry controls the VFD        ter, above the engine coolant temperature gauge. The
+and provides the following features:                     oil pressure gauge consists of a movable gauge needle
+   • Odometer/Trip Odometer Display Toggling -           or pointer controlled by the instrument cluster cir-
+Actuating the trip odometer reset switch button          cuitry and a fixed 90 degree scale on the cluster over-
+momentarily with the VFD illuminated will toggle         lay that reads left-to-right from “L” (or Low) to “H”
+the display between the odometer and trip odometer       (or High). An International Control and Display Sym-
+information. Each time the VFD is illuminated with       bol icon for “Engine Oil” is located on the cluster
+the ignition switch in the On or Start positions, the    overlay, in the center of the gauge directly above the
+display will automatically return to the last mode       hub of the gauge needle (Fig. 20). The oil pressure
+previously selected (odometer or trip odometer).         gauge graphics are white and blue against a black
+   • Trip Odometer Reset - When the trip odome-          field, making them clearly visible within the instru-
+ter reset switch button is pressed and held for longer   ment cluster in daylight. When illuminated from
+than about two seconds with the ignition switch in       behind by the panel lamps dimmer controlled cluster
+the On or Start positions, trip odometer will be reset   illumination lighting with the exterior lamps turned
+to 0.0 kilometers (miles). The VFD must be display-      On, the white graphics appear white, and the blue
+ing the trip odometer information in order for the       graphics appear blue. The orange gauge needle is
+trip odometer information to be reset.                   internally illuminated. Gauge illumination is pro-
+   • Communication Error - If the cluster fails to       vided by replaceable incandescent bulb and bulb
+receive a distance message during normal operation,      holder units located on the instrument cluster elec-
+it will hold and display the last data received until    tronic circuit board. The oil pressure gauge is ser-
+the ignition switch is turned to the Off position. If    viced as a unit with the instrument cluster.
+the cluster does not receive a distance message
+within one second after the ignition switch is turned    OPERATION
+to the On position, it will display the last distance       The oil pressure gauge gives an indication to the
+message stored in the cluster memory. If the cluster     vehicle operator of the engine oil pressure. This
+is unable to display distance information due to an      gauge is controlled by the instrument cluster circuit
+error internal to the cluster, either “888888”will be    board based upon cluster programming and elec-
+displayed in the VFD or the VFD will be blank.           tronic messages received by the cluster from the
+   • Actuator Test - Each time the cluster is put        Powertrain Control Module (PCM) over the Program-
+through the actuator test, the number “8” will be        mable Communications Interface (PCI) data bus. The
+scrolled across the VFD from right-to-left, then the     oil pressure gauge is an air core magnetic unit that
+trip odometer decimal point “.” will be illuminated in   receives battery current on the instrument cluster
+order to confirm the functionality of each of the VFD    electronic circuit board through the fused ignition
+segments and the cluster control circuitry.              switch output (run-start) circuit whenever the igni-
+   The PCM continually monitors the vehicle speed        tion switch is in the On or Start positions. The clus-
+pulse information received from the vehicle speed        ter is programmed to move the gauge needle back to
+sensor, then sends the proper distance messages to       the low end of the scale after the ignition switch is
+the instrument cluster. For further diagnosis of the     turned to the Off position. The instrument cluster
+odometer/trip odometer or the instrument cluster cir-    circuitry controls the gauge needle position and pro-
+cuitry that controls these functions, (Refer to 8 -      vides the following features:
+ELECTRICAL/INSTRUMENT CLUSTER - DIAGNO-                     • Engine Oil Pressure Message - Each time the
+SIS AND TESTING). For proper diagnosis of the            cluster receives a message from the PCM indicating
+vehicle speed sensor, the PCM, the PCI data bus, or      the engine oil pressure of a 2.4L engine is above
+the electronic message inputs to the instrument clus-    about 0.2 kg/cm2 (3 psi), or of any engine other than
+ter that control the odometer/trip odometer, a           a 2.4L is above about 0.4 kg/cm2 (6 psi), the cluster
+

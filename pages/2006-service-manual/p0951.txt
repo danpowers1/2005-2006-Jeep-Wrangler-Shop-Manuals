@@ -1,0 +1,60 @@
+TJ                                 8W-97 POWER DISTRIBUTION                                        8W - 97 - 5
+
+for the location of the body wire harness connector       OPERATION
+locations.                                                   The term ignition-off draw identifies a normal con-
+  (6) Install the instrument panel assembly onto the      dition where power is being drained from the battery
+dash panel (Refer to 23 - BODY/INSTRUMENT PAN-            with the ignition switch in the Off position. The IOD
+EL/INSTRUMENT PANEL ASSEMBLY - INSTAL-                    fuse feeds the memory and sleep mode functions for
+LATION).                                                  many of the electronic modules in the vehicle as well
+  (7) Reconnect the battery negative cable.               as various other accessories that require battery cur-
+                                                          rent when the ignition switch is in the Off position,
+                                                          including the clock. The only reason the IOD fuse is
+IOD FUSE                                                  removed is to reduce the normal IOD of the vehicle
+                                                          electrical system during new vehicle transportation
+DESCRIPTION                                               and pre-delivery storage to reduce battery depletion,
+  All vehicles are equipped with an Ignition-Off          while still allowing vehicle operation so that the
+Draw (IOD) fuse (Fig. 5) that is removed from its         vehicle can be loaded, unloaded and moved as needed
+cavity in the Power Distribution Center (PDC) when        by both vehicle transportation company and dealer
+the vehicle is shipped from the factory. Dealer per-      personnel.
+sonnel are to remove the IOD fuse from the storage           The IOD fuse is removed from PDC fuse cavity #15
+location and install it into PDC fuse cavity 15 as part   when the vehicle is shipped from the assembly plant.
+of the preparation procedures performed just prior to     Dealer personnel must install the IOD fuse when the
+new vehicle delivery.                                     vehicle is being prepared for delivery in order to
+                                                          restore full electrical system operation. Once the
+                                                          vehicle is prepared for delivery, the IOD function of
+                                                          this fuse becomes transparent and the fuse that has
+                                                          been assigned the IOD designation becomes only
+                                                          another Fused B(+) circuit fuse. The IOD fuse serves
+                                                          no useful purpose to the dealer technician in the ser-
+                                                          vice or diagnosis of any vehicle system or condition,
+                                                          other than the same purpose as that of any other
+                                                          standard circuit protection device.
+                                                             The IOD fuse can be used by the vehicle owner as
+                                                          a convenient means of reducing battery depletion
+                                                          when a vehicle is to be stored for periods not to
+                                                          exceed about thirty days. However, it must be
+                                                          remembered that removing the IOD fuse will not
+                                                          eliminate IOD, but only reduce this normal condition.
+                                                          If a vehicle will be stored for more than about thirty
+                                                          days, the battery negative cable should be discon-
+                                                          nected to eliminate normal IOD; and, the battery
+                                                          should be tested and recharged at regular intervals
+                                                          during the vehicle storage period to prevent the bat-
+                                                          tery from becoming discharged or damaged.
+            Fig. 5 Ignition-Off Draw Fuse                 REMOVAL
+1 - IGNITION-OFF DRAW FUSE                                  The Ignition-Off Draw (IOD) fuse is removed from
+2 - IGNITION-OFF DRAW FUSE STORAGE LOCATION
+3 - POWER DISTRIBUTION CENTER                             Power Distribution Center (PDC) fuse cavity #15
+                                                          when the vehicle is shipped from the assembly plant.
+  The PDC has a molded plastic cover that can be          Dealer personnel must install the IOD fuse when the
+unlatched and opened to provide service access to all     vehicle is being prepared for delivery in order to
+of the fuses and relays in the PDC. An integral latch     restore full electrical system operation.
+and hinge tabs are molded into the PDC cover for            (1) Turn the ignition switch to the Off position.
+easy removal. A fuse layout map is integral to the          (2) Unlatch and open the cover from the PDC.
+underside of the PDC cover to ensure proper fuse            (3) Remove the IOD fuse from fuse cavity #15 of
+and relay identification. The IOD fuse is a 50 ampere     the PDC.
+cartridge-type fuse and, when removed, it is stored in      (4) Store the removed IOD fuse by inserting the
+the empty fuse cavity 11 of the PDC.                      terminal blades of the fuse into the empty fuse cavity
+                                                          #11 of the PDC.
+                                                            (5) Close and latch the cover onto the PDC.
+

@@ -1,0 +1,65 @@
+8W - 01 - 6                            8W-01 WIRING DIAGRAM INFORMATION                                     TJ
+
+splices serves. Section 8W-70 only contains splice dia-   general warnings that should be followed any time a
+grams that are not shown in their entirety some-          vehicle is being serviced.
+where else in the wiring diagrams.
+                                                          WARNING: Always wear safety glasses for eye pro-
+  Section 8W-80 shows each connector and the cir-
+                                                          tection.
+cuits involved with that connector. The connectors
+are identified using the name/number on the dia-
+gram pages.                                               WARNING: Use safety stands anytime a procedure
+                                                          requires being under a vehicle.
+DESCRIPTION - CONNECTOR, GROUND AND
+SPLICE INFORMATION
+                                                          WARNING: Be sure that the ignition switch always
+CAUTION: Not all connectors are serviced. Some            is in the off position, unless the procedure requires
+connectors are serviced only with a harness. A typ-       it to be on.
+ical example might be the Supplemental Restraint
+System connectors. Always check parts availability        WARNING: Set the parking brake when working on
+before attempting a repair.                               any vehicle. An automatic transmission should be
+                                                          in park. A manual transmission should be in neu-
+IDENTIFICATION                                            tral.
+
+   In-line connectors are identified by a number, as
+follows:                                                  WARNING: Operate the engine only in a well-venti-
+  • In-line connectors located in the engine compart-     lated area.
+ment are C100 series numbers.
+  • In-line connectors located in the instrument          WARNING: Keep away from moving parts when the
+panel area are C200 series numbers.                       engine is running, especially the fan and belts.
+  • In-line connectors located in the body are C300
+series numbers.
+                                                          WARNING: To prevent serious burns, avoid contact
+  • Jumper harness connectors are C400 series             with hot parts such as the radiator, exhaust mani-
+numbers.                                                  fold(s), tail pipe, catalytic converter and muffler.
+  • Grounds and ground connectors are identified
+with a “G” and follow the same series numbering as
+the in-line connectors.                                   WARNING: Do not allow flame or sparks near the
+                                                          battery. Gases are always present in and around the
+  • Splices are identified with an “S” and follow the
+                                                          battery.
+same series numbering as the in-line connectors. In
+addition, S001–S099 numbers are located in the
+engine compartment.                                       WARNING: Always remove rings, watches, loose
+  • Component connectors are identified by the com-       hanging jewelry and avoid loose clothing.
+ponent name instead of a number. Multiple connec-
+tors on a component use a C1, C2, etc. identifier.
+                                                          DIAGNOSIS AND TESTING - WIRING HARNESS
+LOCATIONS
+  Section 8W-91 contains connector/ground/splice
+                                                          TROUBLESHOOTING TOOLS
+location illustrations. The illustrations contain the       When diagnosing a problem in an electrical circuit
+connector name (or number)/ground number/splice           there are several common tools necessary. These tools
+number and component identification. Connector/           are listed and explained below.
+ground/splice location charts in section 8W-91 refer-       • Jumper Wire - This is a test wire used to con-
+ence the figure numbers of the illustrations.             nect two points of a circuit. It can be used to bypass
+  The abbreviation T/O is used in the component           an open in a circuit.
+location section to indicate a point in which the wir-
+ing harness branches out to a component. The abbre-       WARNING: Never use a jumper wire across a load,
+viation N/S means Not Shown in the illustrations          such as a motor, connected between a battery feed
+                                                          and ground.
+WARNINGS - GENERAL
+                                                            • Voltmeter - Used to check for voltage on a cir-
+  WARNINGS provide information to prevent per-            cuit. Always connect the black lead to a known good
+sonal injury and vehicle damage. Below is a list of
+

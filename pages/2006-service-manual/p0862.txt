@@ -1,0 +1,43 @@
+8W - 80 - 22   8W-80 CONNECTOR PIN-OUTS                                                                TJ
+
+
+                                        CIGAR LIGHTER/POWER OUTLET - RED 3 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    A207 18RD/LG                          FUSED CIGAR LIGHTER/ACCESSORY RELAY OUTPUT
+                 2    -                                     -
+                 3    Z1 18BK                               GROUND
+
+
+
+
+                                               CIRCUIT BREAKER - GRAY 2 WAY
+                CB                   AMPS                       FUSED CIRCUIT               FUNCTION
+                NO.
+                 1    25A                                   A940 12RD                 FUSED B(+)
+                 2    25A                                   A333 14WT/RD              FUSED B(+)
+
+
+
+
+                                                  CLOCKSPRING C1 - 4 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    X3 20RD/YL                            HORN RELAY CONTROL
+                 2    V37 20VT                              S/C SWITCH NO. 1 SIGNAL
+                 3    K900 20DB/DG                          SENSOR GROUND
+                 4    -                                     -
+
+
+
+
+                                               CLOCKSPRING C2 - YELLOW 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    R43 18LG/BR                           DRIVER SQUIB 1 LINE 1
+                 2    R45 18LG/OR                           DRIVER SQUIB 1 LINE 2
+
+
+
+
+                                                  CLOCKSPRING C3 - 1 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    X3 20RD/YL                            HORN RELAY CONTROL
+

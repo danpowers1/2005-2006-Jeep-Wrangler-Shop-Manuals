@@ -1,0 +1,60 @@
+8A - 8    AUDIO/VIDEO                                                                                        TJ
+
+RADIO NOISE SUPPRESSION                                       Reroute the spark plug wires or replace the faulty
+                                                           components as required.
+COMPONENTS                                                    If the source of the RFI or EMI noise is identified
+                                                           as two-way mobile radio or telephone equipment,
+DESCRIPTION                                                check the equipment installation for the following:
+  Radio Frequency Interference (RFI) and Electro-             • Power connections should be made directly to
+Magnetic Interference (EMI) noise suppression is           the battery, and fused as closely to the battery as
+accomplished primarily through circuitry internal to       possible.
+the radio receivers. These internal suppression               • The antenna should be mounted on the roof or
+devices are only serviced as part of the radio receiver.   toward the rear of the vehicle. Remember that mag-
+  External suppression devices that are used on this       netic antenna mounts on the roof panel can adversely
+vehicle to control RFI or EMI noise include the fol-       affect the operation of an overhead console compass,
+lowing:                                                    if the vehicle is so equipped.
+  • Radio antenna base ground                                 • The antenna cable should be fully shielded coax-
+  • Radio receiver chassis ground wire                     ial cable, should be as short as is practical, and
+  • Engine-to-body ground strap                            should be routed away from the factory-installed
+  • Resistor-type spark plugs                              vehicle wire harnesses whenever possible.
+  • Radio suppression-type secondary ignition wir-            • The antenna and cable must be carefully
+ing.                                                       matched to ensure a low Standing Wave Ratio
+                                                           (SWR).
+DIAGNOSIS AND TESTING - RADIO NOISE
+SUPPRESSION COMPONENTS                                     REMOVAL
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                    ENGINE - TO - BODY GROUND STRAP
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)
+BEFORE ATTEMPTING ANY STEERING WHEEL,                      WARNING: ON VEHICLES EQUIPPED WITH AIR-
+STEERING COLUMN, OR INSTRUMENT PANEL                       BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE                    ATTEMPTING ANY STEERING WHEEL, STEERING
+TO TAKE THE PROPER PRECAUTIONS COULD                       COLUMN, OR INSTRUMENT PANEL COMPONENT
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT                     DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+AND POSSIBLE PERSONAL INJURY.                              LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+                                                           THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+   For complete circuit diagrams, refer to the appro-      TEM CAPACITOR TO DISCHARGE BEFORE PER-
+priate wiring information. The wiring information          FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+includes wiring diagrams, proper wire and connector        IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+repair procedures, further details on wire harness         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+routing and retention, as well as pin-out and location     CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+views for the various wire harness connectors, splices     BAG DEPLOYMENT AND POSSIBLE PERSONAL
+and grounds. Inspect the ground paths and connec-          INJURY.
+tions at the following locations:
+   • Blower motor                                            (1) Remove the screw that secures the engine-to-
+   • Electric fuel pump                                    body ground strap eyelet to the hood panel center
+   • Engine-to-body ground strap                           reinforcement.
+   • Generator                                               (2) Remove the screw that secures the engine-to-
+   • Ignition module                                       body ground strap eyelet to the dash panel.
+   • Radio antenna base ground                               (3) Remove the nut that secures the engine-to-body
+   • Radio receiver chassis ground wire or strap           ground strap eyelet to the stud on the left upper rear
+   • Wiper motor.                                          corner of the engine cylinder head.
+   If the source of RFI or EMI noise is identified as a      (4) Remove the engine-to-body ground strap eyelet
+component on the vehicle (i.e., generator, blower          from the stud on the left upper rear corner of the
+motor, etc.), the ground path for that component           engine cylinder head.
+should be checked. If excessive resistance is found in       (5) Remove the engine-to-body ground strap from
+any ground circuit, clean, tighten, or repair the          the engine compartment.
+ground circuits or connections to ground as required
+before considering any component replacement.
+   • Ignition coil
+   • Spark plugs
+   • Spark plug wire routing and condition.
+

@@ -1,0 +1,61 @@
+TJ                                                                           REAR AXLE - 216RBI          3 - 141
+
+                                                          (26) Install side bearing shims on differential case
+                                                        hubs.
+                                                          (27) Install new side bearing cones and cups on
+                                                        differential case.
+                                                          (28) Install spreader W-129-B on the housing and
+                                                        spread axle opening enough to receive differential
+                                                        case.
+                                                          (29) Install differential case in the housing.
+                                                          (30) Install differential bearing caps loosely.
+                                                          (31) Remove spreader from the housing.
+                                                          (32) Tighten bearing caps bolts to 108 N·m (80 ft.
+                                                        lbs.).
+                                                          (33) Rotate the differential case several times to
+                                                        seat the side bearings.
+                                                          (34) Position the indicator plunger against a ring
+          Fig. 18 ZERO DIAL INDICATOR                   gear tooth (Fig. 20).
+                                                          (35) Push and hold ring gear upward while not
+1 - DIAL INDICATOR FACE
+2 - DIFFERENTIAL CASE TO PINION GEAR SIDE               allowing the pinion gear to rotate and zero dial indi-
+3 - PINION GEAR                                         cator.
+4 - DIFFERENTIAL HOUSING                                  (36) Push and hold ring gear downward while not
+5 - DIFFERENTIAL CASE
+                                                        allowing the pinion gear to rotate. Dial indicator
+  (21) Push and hold differential case to ring gear     reading should be between 0.12 mm - 0.20 mm (0.005
+side of the housing and record dial indicator reading   in. - 0.008 in.). If backlash is not within specifications
+(Fig. 19).                                              transfer the necessary amount of shim thickness
+                                                        from one side of the housing to the other (Fig. 21).
+                                                          (37) Verify differential case and ring gear runout
+                                                        by measuring ring to pinion gear backlash at eight
+                                                        locations around the ring gear. Readings should not
+                                                        vary more than 0.05 mm (0.002 in.). If readings vary
+                                                        more than specified, the ring gear or the differential
+                                                        case is defective.
+                                                          After the proper backlash is achieved, perform
+                                                        Gear Contact Pattern Analysis procedure.
+
+
+
+
+     Fig. 19 RECORD DIAL INDICATOR READING
+1 - DIAL INDICATOR
+2 - DIFFERENTIAL CASE TO RING GEAR SIDE
+3 - PINION GEAR
+4 - DIFFERENTIAL HOUSING
+5 - DIFFERENTIAL CASE
+
+  (22) Subtract 0.05 mm (0.002 in.) from the dial
+indicator reading to compensate for backlash between
+ring and pinion gears. This total is the thickness
+shim required to achieve proper backlash.                 Fig. 20 RING GEAR BACKLASH MEASUREMENT
+  (23) Subtract the backlash shim thickness from        1 - DIAL INDICATOR
+the total preload shim thickness. The remainder is
+the shim thickness required on the pinion side of the
+housing.
+  (24) Rotate dial indicator out of the way on pilot
+stud.
+  (25) Remove differential case and dummy bearings
+from the housing.
+

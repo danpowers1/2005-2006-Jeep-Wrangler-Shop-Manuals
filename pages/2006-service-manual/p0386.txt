@@ -1,0 +1,36 @@
+8E - 10   ELECTRONIC CONTROL MODULES                                                                      TJ
+
+INSTALLATION                                            (3) Check pin connectors in PCM and four electri-
+  Use the drb scan tool to reprogram the new         cal connectors for corrosion or damage. Also check
+powertrain control module (pcm) with the vehi-       pin heights in connectors. Pin heights should all be
+cles original identification number (vin) and        the same. Repair as necessary before installing elec-
+the vehicles original mileage. If this step is not   trical connectors.
+done, a diagnostic trouble code (dtc) may be            (4) Install four electrical connectors (3) (Fig. 7) or
+set.                                                 (Fig. 8) to PCM.
+                                                        (5) Install plastic shield to electrical connectors.
+                                                     Shields snap to connectors.
+                                                        (6) Install battery cable.
+                                                        (7) Use a scan tool to reprogram new PCM with
+                                                     vehicles original Vehicle Identification Number (VIN)
+                                                     and original vehicle mileage.
+
+
+
+
+    Fig. 7 PCM MOUNTING - LEFT HAND DRIVE
+1 - MOUNTING SCREWS (3)
+2 - PCM
+3 - PCM ELECTRICAL CONNECTORS
+
+
+
+
+   Fig. 8 PCM MOUNTING - RIGHT HAND DRIVE
+1 - PCM
+2 - MOUNTING SCREWS (3)
+3 - PCM ELECTRICAL CONNECTORS
+
+  (1) Install PCM and three mounting screws to
+vehicle.
+  (2) Tighten screws to 4 N·m (35 in. lbs.).
+

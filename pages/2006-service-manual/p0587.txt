@@ -1,0 +1,63 @@
+TJ                                                                                     RESTRAINTS        8O - 33
+
+used to secure the switch to the back of the molded      wise stop (the key actuator slot will be aligned with
+plastic accessory switch bezel with three small          the Off indicator), the Off indicator is illuminated
+screws. The accessory switch bezel is secured to the     and the passenger airbag is disabled. When the
+instrument panel with four screws. A molded plastic      switch is rotated to its counterclockwise stop (the key
+connector receptacle on the back of the switch hous-     actuator slot will be in a vertical position), the Off
+ing connects the switch to the vehicle electrical sys-   indicator will be extinguished and the passenger air-
+tem through a dedicated take out of the body wire        bag is enabled.
+harness. The molded plastic harness connector insu-        The passenger airbag on/off switch connects one of
+lator is keyed and latched to ensure proper and          two internal resistors in series between the passen-
+secure switch electrical connections. The passenger      ger airbag mux switch sense and passenger airbag
+airbag on/off switch cannot be adjusted or repaired      mux switch return circuits of the Airbag Control
+and, if faulty or damaged, the switch must be            Module (ACM). The ACM continually monitors the
+replaced.                                                resistance in these circuits to determine the switch
+                                                         position that has been selected. When the switch is
+                                                         in the Off position, the ACM provides a ground input
+                                                         to the switch through the passenger airbag indicator
+                                                         driver circuit, which energizes the Light-Emitting
+                                                         Diode (LED) that illuminates the Off indicator of the
+                                                         switch.
+                                                           The ACM will also illuminate the Off indicator of
+                                                         the switch for about seven seconds each time the
+                                                         ignition switch is turned to the On position as a bulb
+                                                         test. The ACM will store a Diagnostic Trouble Code
+                                                         (DTC) for any fault it detects in the passenger airbag
+                                                         on/off switch or Off indicator circuits, and will illumi-
+                                                         nate the airbag indicator in the instrument cluster if
+                                                         a fault is detected. For proper diagnosis of the pas-
+                                                         senger airbag on/off switch or the ACM, a DRBIIIt
+                                                         scan tool is required. Refer to the appropriate diag-
+      Fig. 36 Passenger Airbag On/Off Switch             nostic information.
+1 - HOUSING
+2 - CONNECTOR RECEPTACLE
+3 - MOUNTING TAB (3)
+                                                         REMOVAL
+4 - OFF INDICATOR
+5 - KEY CYLINDER ACTUATOR                                WARNING: TO AVOID PERSONAL INJURY OR
+                                                         DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+OPERATION                                                DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+   The passenger airbag on/off switch allows the cus-    TEM BEFORE ATTEMPTING ANY STEERING
+tomer to turn the passenger airbag function On or        WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+Off to accommodate certain uses of the right front       MENT PANEL COMPONENT DIAGNOSIS OR SER-
+seating position where airbag protection may not be      VICE. DISCONNECT AND ISOLATE THE BATTERY
+desired. See the owner’s manual in the vehicle glove     NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+box for specific recommendations on when to enable       MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+or disable the passenger airbag. The Off indicator of    CHARGE BEFORE PERFORMING FURTHER DIAG-
+the switch will be illuminated whenever the switch is    NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+turned to the Off position and the ignition switch is    TO DISABLE THE SUPPLEMENTAL RESTRAINT
+in the On position.                                      SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+   The ignition key is the only key or object that       CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+should ever be inserted into the key cylinder actuator   BAG DEPLOYMENT.
+of the switch. The on/off switch requires only a par-
+tial key insertion to fully depress a spring-loaded        (1) Disconnect and isolate the battery negative
+locking plunger. The spring-loaded locking plunger       cable. Wait two minutes for the system capacitor to
+prevents the user from leaving the key in the switch.    discharge before further service.
+The key will be automatically ejected when force is        (2) Remove the passenger airbag on/off switch and
+not applied. To actuate the passenger airbag on/off      accessory switch bezel from the instrument panel as
+switch, insert the ignition key into the switch key      a unit. (Refer to 23 - BODY/INSTRUMENT PANEL/
+actuator far enough to fully depress the plunger, then   ACCESSORY SWITCH BEZEL - REMOVAL).
+rotate the actuator to the desired switch position.        (3) From the back of the accessory switch bezel,
+When the switch key actuator is rotated to its clock-    remove the three screws that secure the passenger
+

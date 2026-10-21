@@ -1,0 +1,61 @@
+TJ                                 8W-97 POWER DISTRIBUTION                                        8W - 97 - 7
+
+POWER DISTRIBUTION CEN-                                   are only serviced as a unit with the dash wire har-
+                                                          ness. If the PDC main housing unit, fuse wedges or
+TER                                                       the bus bars are faulty or damaged, the dash wire
+                                                          harness unit must be replaced.
+DESCRIPTION
+  All of the electrical current distributed throughout    OPERATION
+this vehicle is directed through the standard equip-        All of the current from the battery and the gener-
+ment Power Distribution Center (PDC) (Fig. 7). The        ator output enters the PDC through two cables and a
+molded plastic PDC housing is located on the right        single two-holed eyelet that is secured with nuts to
+side of the engine compartment, forward of the bat-       the two PDC B(+) terminal studs near the back of
+tery on the top of the right front inner fender shield.   the PDC housing. The molded plastic PDC cover is
+The PDC houses up to fifteen maxi-type cartridge          unlatched and opened to access the battery and gen-
+fuses, which replace all in-line fusible links. The PDC   erator output connection B(+) terminal studs. Inter-
+also houses up to thirteen blade-type mini fuses, and     nal connection of all of the PDC circuits is
+up to twelve International Standards Organization         accomplished by an intricate combination of hard
+(ISO) relays (four standard-type and eight micro-         wiring and bus bars. Refer to the Wiring section of
+type).                                                    this service manual for wiring diagrams.
+
+                                                          REMOVAL
+                                                            The Power Distribution Center (PDC) main hous-
+                                                          ing unit, the PDC fuse wedges and the PDC bus bars
+                                                          cannot be repaired and are only serviced as a unit
+                                                          with the dash wire harness. If the PDC main housing
+                                                          unit, the fuse wedges or the bus bars are faulty or
+                                                          damaged, the entire PDC and dash wire harness unit
+                                                          must be replaced.
+                                                            (1) Disconnect and isolate the battery negative
+                                                          cable.
+                                                            (2) Disconnect each of the dash wire harness con-
+                                                          nectors. Refer to Connector Locations in the Wir-
+                                                          ing section of this service manual for the location of
+     Fig. 7 Power Distribution Center Location            the dash wire harness connector locations.
+1 - POWER DISTRIBUTION CENTER (PDC)                         (3) Remove all of the fasteners that secure each of
+2 - LATCHES                                               the dash wire harness ground eyelets to the vehicle
+3 - COVER                                                 body and chassis components. Refer to Connector
+4 - RIGHT FRONT FENDER
+                                                          Locations in the Wiring section of this service man-
+  The PDC housing is secured in the engine compart-       ual for the location of the ground eyelet locations.
+ment at four points. Integral mounts on both sides of       (4) Disengage each of the retainers that secure the
+the PDC housing engage and latch to stanchions that       dash wire harness to the vehicle body and chassis
+are integral to the stamped steel PDC bracket. The        components. Refer to Connector Locations in the
+PDC bracket is secured to the top of the right front      Wiring section of this service manual for the location
+inner fender shield with three screws, two at the         of the dash wire harness retainer locations.
+front of the bracket and one at the rear. The PDC is        (5) Unlatch and open the PDC cover (Fig. 8).
+integral to the dash wire harness, which exits from
+the bottom of the PDC housing. The PDC housing
+has a molded plastic cover that includes two integral
+latches at the rear and pivot hooks at the front that
+snap over a hinge pin on the front of the PDC hous-
+ing. The PDC cover is easily opened or removed for
+service access and has a convenient fuse and relay
+layout map integral to the inside surface of the cover
+to ensure proper component identification.
+  The PDC cover, the PDC housing lower cover, the
+PDC relay wedges, the PDC relay cassettes and the
+PDC B(+) terminal stud module are available for ser-
+vice replacement. The PDC main housing unit, the
+fuse wedges and the bus bars cannot be repaired and
+

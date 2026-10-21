@@ -1,0 +1,61 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 25
+
+remains illuminated until the cluster receives a mes-     mination intensity of the cruise indicator is one-step
+sage from the PCM indicating the electrical system        dimmable. When the exterior lighting is turned On,
+voltage is greater than about 12.0 volts (but less than   the indicator is dimmed; and, when the exterior
+16.0 volts), or until the ignition switch is turned to    lighting is turned Off, the indicator is illuminated at
+the Off position, whichever occurs first.                 full intensity. The cruise indicator is serviced as a
+   • System Voltage High Message - Each time              unit with the instrument cluster.
+the cluster receives a message from the PCM indicat-
+ing the electrical system voltage is greater than         OPERATION
+about 16.0 volts, the check gauges indicator will be         The cruise indicator gives an indication to the vehi-
+illuminated. The indicator remains illuminated until      cle operator when the speed control system is turned
+the cluster receives a message from the PCM indicat-      On, regardless of whether the speed control is
+ing the electrical system voltage is less than about      engaged. This indicator is controlled by the instru-
+16.0 volts (but higher than 9.0 volts), or until the      ment cluster circuit board based upon cluster pro-
+ignition switch is turned to the Off position, which-     gramming and electronic messages received by the
+ever occurs first.                                        cluster from the Powertrain Control Module (PCM)
+   • Actuator Test - Each time the cluster is put         over the Programmable Communications Interface
+through the actuator test, the check gauges indicator     (PCI) data bus. The cruise indicator Light Emitting
+will be turned on, then off again during the bulb         Diode (LED) is completely controlled by the instru-
+check portion of the test in order to confirm the func-   ment cluster logic circuit, and that logic will only
+tionality of the LED and the cluster control circuitry.   allow this indicator to operate when the instrument
+   The PCM continually monitors the engine temper-        cluster receives a battery current input on the fused
+ature, oil pressure, and electrical system voltage,       ignition switch output (run-start) circuit. Therefore,
+then sends the proper messages to the instrument          the LED will always be off when the ignition switch
+cluster. For further diagnosis of the check gauges        is in any position except On or Start. The LED only
+indicator or the instrument cluster circuitry that con-   illuminates when it is provided a path to ground by
+trols the LED, (Refer to 8 - ELECTRICAL/INSTRU-           the instrument cluster transistor. The instrument
+MENT CLUSTER - DIAGNOSIS AND TESTING).                    cluster will turn on the cruise indicator for the fol-
+For proper diagnosis of the PCM, the PCI data bus,        lowing reasons:
+or the electronic message inputs to the instrument           • Cruise Lamp-On Message - Each time the
+cluster that control the check gauges indicator, a        cluster receives a cruise lamp-on message from the
+DRBIIIt scan tool is required. Refer to the appropri-     PCM indicating the speed control system has been
+ate diagnostic information.                               turned On, the cruise indicator is illuminated. The
+                                                          indicator remains illuminated until the cluster
+                                                          receives a cruise lamp-off message from the PCM or
+CRUISE INDICATOR                                          until the ignition switch is turned to the Off position,
+                                                          whichever occurs first.
+DESCRIPTION                                                  • Actuator Test - Each time the cluster is put
+                                                          through the actuator test, the cruise indicator will be
+                                                          turned on, then off again during the bulb check por-
+               Fig. 11 Cruise Indicator                   tion of the test in order to confirm the functionality
+                                                          of the LED and the cluster control circuitry.
+  A cruise indicator is standard equipment on all            The PCM continually monitors the speed control
+instrument clusters (Fig. 11). However, on vehicles       switches to determine the proper outputs to the
+not equipped with the optional speed control system,      speed control servo. The PCM then sends the proper
+this indicator is electronically disabled. The cruise     cruise indicator lamp-on and lamp-off messages to
+indicator is located near the upper edge of the instru-   the instrument cluster. For further diagnosis of the
+ment cluster, to the left of center. The cruise indica-   cruise indicator or the instrument cluster circuitry
+tor consists of a stencil-like cutout of the word         that controls the indicator, (Refer to 8 - ELECTRI-
+“CRUISE” in the opaque layer of the instrument            CAL/INSTRUMENT CLUSTER - DIAGNOSIS AND
+cluster overlay. The dark outer layer of the overlay      TESTING). For proper diagnosis of the speed control
+prevents the indicator from being clearly visible         system, the PCM, the PCI data bus, or the electronic
+when it is not illuminated. A green Light Emitting        message inputs to the instrument cluster that control
+Diode (LED) behind the cutout in the opaque layer of      the cruise indicator, a DRBIIIt scan tool is required.
+the overlay causes the “CRUISE” text to appear in         Refer to the appropriate diagnostic information.
+green through the translucent outer layer of the
+overlay when the indicator is illuminated from
+behind by the LED, which is soldered onto the
+instrument cluster electronic circuit board. The illu-
+

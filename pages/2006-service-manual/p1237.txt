@@ -1,0 +1,41 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE               21 - 47
+
+REVERSE GEAR POWERFLOW
+
+
+
+
+                                         Fig. 7 Reverse Gear Powerflow
+1 - LOW-REVERSE CLUTCH APPLIED (Holds Rear Annulus Front   2 - REVERSE CLUTCH APPLIED (Turns Front Sun)
+Carrier)
+
+
+
+  In reverse, input (Fig. 7) power is through the            42RLE automatic transmission malfunctions may
+reverse clutch (1). When applied, the reverse clutch       be caused by these general conditions:
+drives the front sun gear through the overdrive hub          • Poor engine performance
+and shaft. The L/R clutch (2) is applied to hold the
+                                                             • Improper adjustments
+front carrier/rear annulus assembly stationary. The
+front carrier is being held by the L/R clutch so the         • Hydraulic malfunctions
+pinions are forced to rotate the front annulus/rear          • Mechanical malfunctions
+carrier assembly in the reverse direction. Output            • Electronic malfunctions
+torque is provided, in reverse, with a gear ratio of
+                                                             When diagnosing a problem always begin with
+2.21:1.
+                                                           recording the complaint. The complaint should be
+                                                           defined as specific as possible. Include the following
+DIAGNOSIS AND TESTING                                      checks:
+                                                             • Temperature at occurrence (cold, hot, both)
+DIAGNOSIS AND TESTING - AUTOMATIC                            • Dynamic conditions (acceleration, deceleration,
+TRANSMISSION                                               upshift, cornering)
+                                                             • Elements in use when condition occurs (what
+CAUTION: Before attempting any repair on the               gear is transmission in during condition)
+42RLE Four Speed Automatic Transmission, always
+                                                             • Road and weather conditions
+check for proper shift cable adjustment. Also check
+for diagnostic trouble codes with the DRBT scan              • Any other useful diagnostic information.
+tool and the 42RLE Transmission Diagnostic Proce-            After noting all conditions, check the easily acces-
+dure Manual.                                               sible variables:
+                                                             • Fluid level and condition
+

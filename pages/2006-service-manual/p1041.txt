@@ -1,0 +1,44 @@
+TJ                                                                                     ENGINE 4.0L       9 - 81
+
+  (12) Remove the radiator (Refer to 7 - COOLING/           (20) Disconnect the fuel supply line at the injector
+ENGINE/RADIATOR - REMOVAL) or radiator/con-               rail (Refer to 14 - FUEL SYSTEM/FUEL DELIVERY/
+denser (if equipped with A/C).                            QUICK CONNECT FITTING - STANDARD PROCE-
+  (13) Disconnect the heater hoses at the engine          DURE).
+thermostat housing and water pump (Fig. 6).
+
+
+
+
+                                                            Fig. 7 Accelerator Cable, Vehicle Speed Control
+   Fig. 6 Upper Radiator Hose, Coolant Recovery                     Cable, Automatic Transmission
+                 Hose, Fan Shroud                         1 - ACCELERATOR CABLE
+                                                          2 - SPEED CONTROL CABLE
+1 - UPPER RADIATOR HOSE                                   3 - QUICK-CONNECT FUEL LINES
+2 - HEATER HOSES                                          4 - AUTOMATIC TRANSMISSION CONTROL CABLE
+3 - FAN SHROUD
+4 - COOLANT RECOVERY HOSE
+                                                            (21) Remove the fuel line bracket from the intake
+   (14) Disconnect the accelerator cable, transmission    manifold.
+line pressure cable and speed control cable (if             (22) Remove the air cleaner assembly (Fig. 8).
+equipped) from the throttle body (Fig. 7).                  (23) Disconnect the hoses from the fittings at the
+   (15) Remove cables from the bracket and secure         steering gear.
+out of the way.                                             (24) Drain the pump reservoir.
+   (16) Disconnect the body ground at the engine.           (25) Cap the fittings on the hoses and steering
+   (17) Disconnect the following connectors and           gear to prevent foreign objects from entering the sys-
+secure their harness out of the way.                      tem.
+   • Power steering pressure switch
+   • Coolant temperature sensor
+   • Six (6) fuel injector connectors
+   • Intake air temperature sensor
+   • Throttle position sensor
+   • Map sensor
+   • Crankshaft position sensor
+   • Oxygen sensor
+   • Camshaft position sensor
+   • Generator connector and B+ terminal wire
+   (18) Disconnect the coil rail electrical connections
+and the oil pressure switch connector.
+   (19) Perform the fuel pressure release procedure
+(Refer to 14 - FUEL SYSTEM/FUEL DELIVERY -
+STANDARD PROCEDURE).
+

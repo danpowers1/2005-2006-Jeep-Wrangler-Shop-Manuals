@@ -1,0 +1,50 @@
+24 - 36     DISTRIBUTION                                                                                     TJ
+
+  (1) Using a trim stick C-4755 or equivalent (Fig.
+2), gently pry the panel air outlet out of the panel
+outlet housing as required.
+
+
+
+
+                                                                       Fig. 3 Blower Motor - Typical
+                                                           1 - BLOWER MOTOR
+                                                           2 - BLOWER WHEEL
+                                                           3 - MOTOR SHAFT
+          Fig. 2 Instrument Panel Air Outlets
+1 - TRIM STICK                                             OPERATION
+2 - PANEL AIR OUTLETS (4)                                     The blower motor is used to control the velocity of
+3 - PANEL OUTLET HOUSING
+                                                           air moving through the HVAC housing by spinning
+INSTALLATION                                               the blower wheel within the HVAC air inlet housing
+                                                           at the selected speed.
+CAUTION: The instrument panel air outlets can only            The blower motor will operate whenever the igni-
+be installed in one direction. If an air outlet is not     tion switch is in the On position and the blower
+properly oriented prior to installation, damage to         motor control in any position except Off. Blower
+the outlet will occur.                                     motor speed is controlled by regulating the path to
+                                                           ground through the blower motor resistor and
+                                                           through the blower motor control located within the
+NOTE: Each air outlet is retained into the outlet          A/C-heater control.
+opening by two pivot shafts. One pivot shaft is               The blower motor and blower motor wheel are fac-
+larger than the other. The air outlet must be first        tory balanced and cannot be adjusted or repaired. If
+installed onto the larger pivot shaft, then snapped        faulty or damaged, the blower motor and blower
+into place over the smaller pivot shaft.                   wheel must be replaced as an assembly.
+
+  (1) Install the air outlet onto the larger pivot shaft
+located in the instrument panel outlet opening.            DIAGNOSIS AND TESTING
+  (2) Gently push the air outlet onto the smaller
+pivot shaft until it snaps into position.                  BLOWER MOTOR
+                                                           WARNING: On vehicles equipped with airbags, dis-
+BLOWER MOTOR                                               able the airbag system before attempting any steer-
+                                                           ing wheel, steering column, or instrument panel
+DESCRIPTION                                                component diagnosis or service. Disconnect and
+  The blower motor (Fig. 3) is a 12-volt, direct cur-      isolate the negative battery (ground) cable, then
+rent (DC) motor mounted within a plastic housing           wait two minutes for the airbag system capacitor to
+with an integral wire connector and squirrel cage-         discharge before performing further diagnosis or
+type blower wheel that is secured to the blower            service. Failure to take the proper precautions
+motor shaft. The blower motor wheel is located in the      could result in accidental airbag deployment and
+HVAC air inlet housing which is mounted to the pas-        possible personal injury or death.
+senger side end of the HVAC housing.
+  The blower motor can be accessed for service from
+underneath the instrument panel.
+

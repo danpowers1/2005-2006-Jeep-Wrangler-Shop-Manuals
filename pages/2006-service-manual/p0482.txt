@@ -1,0 +1,77 @@
+8J - 14    INSTRUMENT CLUSTER                                                                                 TJ
+
+WARNING: TO AVOID PERSONAL INJURY OR                        (5) Check for continuity between the driver and/or
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                 passenger door ajar switch sense circuit cavities of
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                   the instrument panel wire harness connector (Con-
+TEM BEFORE ATTEMPTING ANY STEERING                        nector C2) for the instrument cluster and the body
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                wire harness connector for the driver and/or passen-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                    ger door ajar switches. There should be continuity. If
+VICE. DISCONNECT AND ISOLATE THE BATTERY                  OK, use a DRBIIIt scan tool to complete the diagno-
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                    sis of the instrument cluster interior lighting control.
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                  Refer to the appropriate diagnostic information. If
+CHARGE BEFORE PERFORMING FURTHER DIAG-                    not OK, repair the open driver and/or passenger door
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY               ajar switch sense circuits between the instrument
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                     cluster and the driver and/or passenger door ajar
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                   switches as required.
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT.                                           AXLE LOCKER CONTROL DIAGNOSIS
+                                                             If the problem being diagnosed involves a rear or
+                                                          front lock indicator in the instrument cluster that is
+NOTE: The following tests may not prove conclu-           blinking on and off, be certain to complete inspection
+sive in the diagnosis of this system. The most reli-      of the appropriate front or rear axle locker relays,
+able, efficient, and accurate means to diagnose the       locker pumps, pneumatic lines, locker indicator
+Interior Lighting Control function of the instrument      switches, and axle locker mechanisms before per-
+cluster requires the use of a DRBIIIT scan tool.          forming the following tests. If the problem being
+Refer to the appropriate diagnostic information.          diagnosed involves a rear or front lock indicator in
+                                                          the instrument cluster that stays on when it should
+   (1) Check the door ajar switch output fuse (Fuse 4
+                                                          be off, or stays off when it should be on, complete the
+- 10 ampere) in the fuse block. If OK, go to Step 2. If
+                                                          testing of the axle locker switch before performing
+not OK, repair the shorted circuit or component as
+                                                          the following tests.
+required and replace the faulty fuse.
+                                                             These tests will establish the integrity of the hard
+   (2) Check for continuity between the door ajar
+                                                          wired circuits related to the axle locker control func-
+switch output fuse (Fuse 4 - 10 ampere) in the fuse
+                                                          tion of the instrument cluster. However, proper test-
+block and a good ground. There should be continuity.
+                                                          ing of the instrument cluster programming and the
+If OK, go to Step 3. If not OK, repair the open
+                                                          electronic vehicle speed and transfer case shift posi-
+ground circuit between the fuse block and ground
+                                                          tion messages received by the cluster over the PCI
+(G300) as required.
+                                                          data bus requires the use of a DRBIIIt scan tool.
+   (3) Disconnect and isolate the battery negative
+                                                          Refer to the appropriate diagnostic information.
+cable. Disconnect the body wire harness connector for
+                                                          Refer to the appropriate wiring information. The wir-
+the driver and/or passenger door ajar switch from the
+                                                          ing information includes wiring diagrams, proper
+switch connector receptacle. Check for continuity
+                                                          wire and connector repair procedures, details of wire
+between the door ajar switch output circuit cavity of
+                                                          harness routing and retention, connector pin-out
+the driver or passenger door ajar switch and a good
+                                                          information and location views for the various wire
+ground. There should be continuity. If OK, go to Step
+                                                          harness connectors, splices and grounds.
+4. If not OK, repair the open door ajar switch output
+circuit between the driver or passenger door ajar         WARNING: ON VEHICLES EQUIPPED WITH AIR-
+switch and the fuse block as required.                    BAGS, DISABLE THE SUPPLEMENTAL RESTRAINT
+   (4) Remove the instrument cluster from the instru-     SYSTEM BEFORE ATTEMPTING ANY STEERING
+ment panel. Disconnect the instrument panel wire          WHEEL, STEERING COLUMN, DRIVER AIRBAG,
+harness connector (Connector C2) for the instrument       PASSENGER AIRBAG, OR INSTRUMENT PANEL
+cluster from the cluster connector receptacle. Check      COMPONENT DIAGNOSIS OR SERVICE. DISCON-
+for continuity between the driver and/or passenger        NECT AND ISOLATE THE BATTERY NEGATIVE
+door ajar switch sense circuit cavities of the instru-    (GROUND) CABLE, THEN WAIT TWO MINUTES FOR
+ment panel wire harness connector (Connector C2)          THE SYSTEM CAPACITOR TO DISCHARGE BEFORE
+for the instrument cluster and a good ground. There       PERFORMING FURTHER DIAGNOSIS OR SERVICE.
+should be no continuity. If OK, go to Step 5. If not      THIS IS THE ONLY SURE WAY TO DISABLE THE
+OK, repair the shorted driver and/or passenger door       SUPPLEMENTAL RESTRAINT SYSTEM. FAILURE TO
+ajar switch sense circuits between the instrument         TAKE THE PROPER PRECAUTIONS COULD
+cluster and the driver and/or passenger door ajar         RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+switches as required.                                     AND POSSIBLE PERSONAL INJURY.
+

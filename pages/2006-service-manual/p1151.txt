@@ -1,0 +1,62 @@
+TJ                                                                               FUEL INJECTION        14 - 33
+
+                                                        MAP SENSOR
+                                                        DESCRIPTION
+                                                        2.4L
+                                                          The Manifold Absolute Pressure (MAP) sensor is
+                                                        mounted into the rear of the intake manifold with 1
+                                                        screw.
+
+                                                        4.0L
+                                                          The Manifold Absolute Pressure (MAP) sensor is
+                                                        attached to the side of the engine throttle body with
+                                                        1 screw. The sensor is connected to the throttle body
+                                                        with a rubber L-shaped fitting.
+
+                                                        OPERATION
+                                                           The MAP sensor is used as an input to the Power-
+                                                        train Control Module (PCM). It contains a silicon
+                                                        based sensing unit to provide data on the manifold
+                                                        vacuum that draws the air/fuel mixture into the com-
+                                                        bustion chamber. The PCM requires this information
+             Fig. 17 IAT SENSOR - 4.0L                  to determine injector pulse width and spark advance.
+1 - MOUNTING BOLTS (4)
+                                                        When manifold absolute pressure (MAP) equals
+2 - THROTTLE BODY                                       Barometric pressure, the pulse width will be at max-
+3 - IAC MOTOR                                           imum.
+4 - ELEC. CONN.
+5 - TPS
+                                                           A 5 volt reference is supplied from the PCM and
+6 - MAP SENSOR                                          returns a voltage signal to the PCM that reflects
+7 - ELEC. CONN.                                         manifold pressure. The zero pressure reading is 0.5V
+8 - IAT SENSOR
+9 - ELEC. CONN.                                         and full scale is 4.5V. For a pressure swing of 0–15
+                                                        psi, the voltage changes 4.0V. To operate the sensor,
+  (1) Disconnect electrical connector from IAT sen-     it is supplied a regulated 4.8 to 5.1 volts. Ground is
+sor.                                                    provided through the low-noise, sensor return circuit
+  (2) Remove sensor from intake manifold.               at the PCM.
+                                                           The MAP sensor input is the number one contrib-
+                                                        utor to fuel injector pulse width. The most important
+INSTALLATION                                            function of the MAP sensor is to determine baromet-
+                                                        ric pressure. The PCM needs to know if the vehicle is
+2.4L                                                    at sea level or at a higher altitude, because the air
+  (1) Check condition of sensor o-ring.                 density changes with altitude. It will also help to cor-
+  (2) Clean sensor mounting hole in intake manifold.    rect for varying barometric pressure. Barometric
+  (3) Position sensor into intake manifold and rotate   pressure and altitude have a direct inverse correla-
+clockwise until past release tab.                       tion; as altitude goes up, barometric goes down. At
+  (4) Install electrical connector.                     key-on, the PCM powers up and looks at MAP volt-
+                                                        age, and based upon the voltage it sees, it knows the
+4.0L                                                    current barometric pressure (relative to altitude).
+  (1) Install IAT sensor into intake manifold.          Once the engine starts, the PCM looks at the voltage
+Tighten sensor to 28 N·m (20 ft. lbs.) torque.          again, continuously every 12 milliseconds, and com-
+  (2) Connect electrical connector to sensor.           pares the current voltage to what it was at key-on.
+                                                        The difference between current voltage and what it
+                                                        was at key-on, is manifold vacuum.
+                                                           During key-on (engine not running) the sensor
+                                                        reads (updates) barometric pressure. A normal range
+                                                        can be obtained by monitoring a known good sensor.
+                                                           As the altitude increases, the air becomes thinner
+                                                        (less oxygen). If a vehicle is started and driven to a
+                                                        very different altitude than where it was at key-on,
+                                                        the barometric pressure needs to be updated. Any
+

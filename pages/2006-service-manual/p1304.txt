@@ -1,0 +1,43 @@
+21 - 114    AUTOMATIC TRANSMISSION - 42RLE                                                                 TJ
+
+FLUID LEVEL CHECK USING DRB
+
+
+
+
+                                 Fig. 152 42RLE Fluid Temperature Chart
+
+NOTE: Engine and Transmission should be at nor-        pan.
+mal operating temperature before performing this
+procedure.
+
+  (1) Start engine and apply parking brake.
+  (2) Connect DRBIIIt scan tool and select transmis-
+sion.
+  (3) Select sensors.
+  (4) Read the transmission temperature value.
+  (5) Compare the fluid temperature value with the
+chart.
+  (6) Adjust transmission fluid level shown on the
+dipstick according to the 42RLE Fluid Temperature
+Chart (Fig. 152). Use only Mopart ATF+4, Automatic
+Transmission Fluid.
+  (7) Check transmission for leaks.
+
+STANDARD PROCEDURE - FLUID / FILTER
+SERVICE
+NOTE: Only fluids of the type labeled MoparT
+ATF+4, Automatic Transmission Fluid, should be
+used in the transmission sump. A filter change
+should be made at the time of the transmission oil                    Fig. 153 Pan Fastener
+change. The magnet (on the inside of the oil pan)      1 - FRONT DRIVESHAFT
+should also be cleaned with a clean, dry cloth.        2 - PRESSURE PORTS
+                                                       3 - TRANSMISSION CASE
+                                                       4 - TRANSMISSION OIL PAN
+                                                       5 - SECOND TRANSMISSION OIL PAN BOLT ON LEFT SIDE
+NOTE: If the transmission is disassembled for any      6 - FIRST TRANSMISSION OIL PAN BOLT
+reason, the fluid and filter should be changed.
+                                                       NOTE: One of the oil pan bolts (5) has a sealing
+  (1) Raise vehicle on a hoist. Place a drain con-     patch applied from the factory. Separate this bolt
+tainer with a large opening, under transmission oil    for reuse.
+

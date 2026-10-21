@@ -1,0 +1,61 @@
+8J - 28    INSTRUMENT CLUSTER                                                                                   TJ
+
+feed circuit cavity of the instrument panel wire har-      The cluster can illuminate the LED solid, or flash it
+ness connector (Connector C1) for the instrument           on and off at two different rates, slow or fast. The
+cluster. If OK, replace the faulty instrument cluster.     slow rate is about one flash per second, while the fast
+If not OK, repair the open front/rear fog lamp feed        rate is about two flashes per second. The LED only
+circuit between the fog lamp relay and the instru-         illuminates when it is provided a path to ground by
+ment cluster as required.                                  the instrument cluster transistor. The instrument
+                                                           cluster will turn on the front lock indicator for the
+                                                           following reasons:
+FRONT LOCK INDICATOR                                          • Front Axle Lock Request Input - Each time
+                                                           the cluster detects ground on the front axle lock
+DESCRIPTION                                                request circuit from the axle lock switch (front axle
+                                                           lock request circuit ground = front axle lock request
+                                                           active) while the key is in the ignition lock cylinder,
+                                                           the front lock indicator flashes on and off at a slow
+                                                           rate. The indicator continues to flash until the front
+             Fig. 14 Front Lock Indicator                  axle lock request input to the cluster is an open cir-
+   A front lock indicator is standard equipment on all     cuit (front axle lock request circuit open = front axle
+instrument clusters, but is only functional on vehi-       lock request inactive), or until the cluster detects a
+cles equipped with the optional off-road package (Fig.     change in the inputs from the front locker indicator
+14). The front lock indicator is located near the upper    switch or the key-in ignition switch, whichever occurs
+edge of the instrument cluster, to the right of center.    first.
+The front lock indicator consists of a stencil-like cut-      • Front Locker Indicator Switch Input - Each
+out of the words “FRONT LOCK” in the opaque layer          time the cluster detects ground on the front locker
+of the instrument cluster overlay. The dark outer          indicator switch sense circuit (front locker indicator
+layer of the overlay prevents the indicator from being     switch closed = front axle locker engaged) while the
+clearly visible when it is not illuminated. A amber        front axle lock request is active and the key is in the
+Light Emitting Diode (LED) behind the cutout in the        ignition lock cylinder, the front lock indicator is illu-
+opaque layer of the overlay causes the “FRONT              minated solid. The indicator remains illuminated
+LOCK” text to appear in amber through the translu-         solid until the front locker indicator switch input to
+cent outer layer of the overlay when the indicator is      the cluster is an open circuit (front locker indicator
+illuminated from behind by the LED, which is sol-          switch open = front axle locker disengaged), or until
+dered onto the instrument cluster electronic circuit       the cluster detects a change in the inputs from the
+board. The illumination intensity of the front lock        axle lock switch or the key-in ignition switch, which-
+indicator is one-step dimmable. When the exterior          ever occurs first.
+lighting is turned On, the indicator is dimmed; and,          • Front Lock Request/Feedback Mismatch -
+when the exterior lighting is turned Off, the indicator    Each time the cluster detects that the inputs from
+is illuminated at full intensity. The front lock indica-   the axle lock switch (request) on the front axle lock
+tor is serviced as a unit with the instrument cluster.     request circuit and from the front locker indicator
+                                                           switch (feedback) on the front locker indicator switch
+OPERATION                                                  sense circuit are mismatched, the front lock indicator
+   The front lock indicator gives an indication to the     flashes on and off at a slow rate. This condition
+vehicle operator of the status of the locker mecha-        occurs when the lock request is active but the axle
+nism in the front axle of vehicles equipped with the       locker remains disengaged, or when the lock request
+optional off-road package. The front lock indicator        is inactive but the axle locker remains engaged. The
+can also give an indication when certain faults are        indicator continues to flash until the request and the
+detected in the axle locker system. This indicator is      feedback are matching.
+controlled by a transistor on the instrument cluster          • Key-In Ignition Switch Input - Each time the
+electronic circuit board based upon cluster program-       cluster detects that the key has been removed from
+ming, and hard wired inputs to the cluster from the        the ignition lock cylinder (key-in ignition switch open
+key-in ignition switch, the axle lock switch, and the      = key is not in ignition switch) while the front axle
+front locker indicator switch. The front lock indicator    lock request is still active, the front lock indicator
+Light Emitting Diode (LED) is completely controlled        flashes at a fast rate and three chime tones are
+by the instrument cluster logic circuit, and that logic    sounded. The indicator will continue to flash at this
+will allow this indicator to operate whenever the          rate until the key is replaced in the ignition lock cyl-
+instrument cluster receives a battery current input        inder (key-in ignition switch closed = key is in igni-
+on the fused B(+) circuit. Therefore, the LED can be       tion switch) while the front axle lock request is still
+illuminated regardless of the ignition switch position.    active, or until the front axle lock request input is
+                                                           deactivated, whichever occurs first.
+

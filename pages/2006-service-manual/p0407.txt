@@ -1,0 +1,63 @@
+TJ                                                                                 BATTERY SYSTEM          8F - 13
+
+from the Power Distribution Center (PDC). This will         each fuse and circuit breaker, disconnect the wire
+reduce battery discharging.                                 harness from the generator. If the amperage reading
+   Excessive IOD can be caused by:                          now becomes very low or nonexistent, refer to Charg-
+                                                            ing System for the proper charging system diagnosis
+   • Electrical items left on.
+                                                            and testing procedures. After the high-amperage IOD
+   • Faulty or improperly adjusted switches.                has been corrected, switch the multi-meter to pro-
+   • Faulty or shorted electronic modules and compo-        gressively lower amperage scales and, if necessary,
+nents.                                                      repeat the fuse and circuit breaker remove-and-re-
+   • An internally shorted generator.                       place process to identify and correct all sources of
+                                                            excessive IOD. It is now safe to select the lowest mil-
+   • Intermittent shorts in the wiring.
+                                                            liampere scale of the multi-meter to check the low-
+   If the IOD is over thirty-five milliamperes, the         amperage IOD.
+problem must be found and corrected before replac-
+ing a battery. In most cases, the battery can be            CAUTION: Do not open any doors, or turn on any
+charged and returned to service after the excessive         electrical accessories with the lowest milliampere
+IOD condition has been corrected.                           scale selected, or the multi-meter may be damaged.
+   (1) Verify that all electrical accessories are off.
+Turn off all lamps, remove the ignition key, and close         (6) Observe the multi-meter reading. The low-am-
+all doors. If the vehicle is equipped with an illumi-       perage IOD should not exceed thirty-five milliam-
+nated entry system or an electronically tuned radio,        peres (0.035 ampere). If the current draw exceeds
+allow the electronic timer function of these systems        thirty-five milliamperes, isolate each circuit using the
+to automatically shut off (time out). This may take         fuse and circuit breaker remove-and-replace process
+up to three minutes.                                        in Step 5. The multi-meter reading will drop to
+   (2) Determine that the underhood lamp is operat-         within the acceptable limit when the source of the
+ing properly, then disconnect the lamp wire harness         excessive current draw is disconnected. Repair this
+connector or remove the lamp bulb.                          circuit as required; whether a wiring short, incorrect
+   (3) Disconnect the battery negative cable.               switch adjustment, or a component failure is at fault.
+   (4) Set an electronic digital multi-meter to its
+highest amperage scale. Connect the multi-meter             STANDARD PROCEDURE - USING MICRO 420
+between the disconnected battery negative cable ter-        BATTERY TESTER
+minal clamp and the battery negative terminal post.
+Make sure that the doors remain closed so that the
+illuminated entry system is not activated. The multi-
+meter amperage reading may remain high for up to
+three minutes, or may not give any reading at all
+while set in the highest amperage scale, depending
+upon the electrical equipment in the vehicle. The
+multi-meter leads must be securely clamped to the
+battery negative cable terminal clamp and the bat-
+tery negative terminal post. If continuity between the
+battery negative terminal post and the negative cable
+terminal clamp is lost during any part of the IOD
+test, the electronic timer function will be activated
+and all of the tests will have to be repeated.
+   (5) After about three minutes, the high-amperage
+IOD reading on the multi-meter should become very
+low or nonexistent, depending upon the electrical
+equipment in the vehicle. If the amperage reading
+remains high, remove and replace each fuse or circuit
+breaker in the Power Distribution Center (PDC) and
+then in the Junction Block (JB), one at a time until
+the amperage reading becomes very low, or nonexist-
+ent. Refer to the appropriate wiring information in                 Fig. 9 MICRO 420 BATTERY TESTER
+this service manual for complete PDC and JB fuse,             Always use the Micro 420 Instruction Manual that
+circuit breaker, and circuit identification. This will      was supplied with the tester as a reference. If the
+isolate each circuit and identify the circuit that is the   Instruction Manual is not available the following pro-
+source of the high-amperage IOD. If the amperage            cedure can be used:
+reading remains high after removing and replacing
+

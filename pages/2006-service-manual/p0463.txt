@@ -1,0 +1,41 @@
+TJ                                                                              IGNITION CONTROL          8I - 15
+
+
+
+
+                                                                      Fig. 28 IGNITION COIL - 2.4L
+                                                          1 - IGNITION COIL
+                                                          2 - MOUNTING BOLTS (4)
+  Fig. 27 Ignition Coil Electrical Connector—4.0L
+                 6–Cylinder Engine                        OPERATION
+                                                            The coil fires two spark plugs simultaneously. One
+1 - REAR OF VALVE COVER
+2 - COIL RAIL                                             plug is under compression, the other plug fires on the
+3 - SLIDE TAB                                             exhaust stroke (lost spark). Coil number one fires
+4 - RELEASE LOCK                                          cylinders 1 and 4, and coil number two fires cylinders
+5 - COIL CONNECTOR
+                                                          2 and 3.
+INSTALLATION                                                The Auto Shutdown (ASD) relay provides battery
+  (1) Connect engine harness connector to coil by         voltage to the ignition coil. The PCM provides a
+snapping into position. Move slide tab towards            ground contact (circuit) for energizing the coil(s). The
+engine (Fig. 27) for a positive lock.                     PCM will de-energize the ASD relay if it does not
+  (2) Position ignition coil rubber boots to all spark    receive the crankshaft position sensor and camshaft
+plugs. Push down on coil assembly until bolt bases        position sensor inputs.
+have contacted cylinder head                                Base ignition timing is not adjustable. By con-
+  (3) Install 4 coil mounting bolts. Loosely tighten 4    trolling the coil ground circuit, the PCM is able to set
+bolts just enough to allow bolt bases to contact cylin-   the base timing and adjust the ignition timing
+der head. Do a final tightening of each bolt in steps     advance. This is done to meet changing engine oper-
+down to 29 N·m (250 in. lbs.) torque. Do not apply        ating conditions.
+full torque to any bolt first.                              The ignition coil is not oil filled. The windings are
+  (4) Connect negative battery cable to battery.          embedded in an epoxy compound. This provides heat
+                                                          and vibration resistance that allows the ignition coil
+                                                          to be mounted on the engine.
+IGNITION COIL - 2.4L                                        Spark plug cables (secondary wires or cables) are
+                                                          used with the 2.4L engine.
+DESCRIPTION
+  The coil assembly consists of 2 different coils         REMOVAL
+molded together. The assembly is mounted to the top         (1) Disconnect electrical connector at rear of coil.
+of the engine (Fig. 28).                                    (2) Remove all secondary cables from coil.
+                                                            (3) Remove 4 coil mounting bolts (Fig. 29).
+                                                            (4) Remove coil from vehicle.
+

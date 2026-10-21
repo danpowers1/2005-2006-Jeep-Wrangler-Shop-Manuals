@@ -1,0 +1,63 @@
+TJ                                                                                        ENGINE 4.0L        9 - 77
+
+            CONDITION                        POSSIBLE CAUSES                            CORRECTION
+
+OIL LEAKS                             1. Misaligned or deteriorated gas-      1. Replace gasket
+                                      kets
+
+                                      2. Loose fastener, broken or po-        2. Tighten, repair or replace the
+                                      rous metal part                         part
+                                      3. Front or rear crankshaft oil seal    3. Replace seal
+                                      leaking
+                                      4. Leaking oil gallery plug or cup      4. Remove and reseal threaded
+                                      plug                                    plug. Replace cup style plug
+
+EXCESSIVE OIL CONSUMPTION             1. CCV System malfunction               1. (Refer to 25 - EMISSIONS
+OR SPARK PLUGS OIL FOULED                                                     CONTROL/EVAPORATIVE EMIS-
+                                                                              SIONS - DESCRIPTION) for cor-
+                                                                              rect operation
+                                      2. Defective valve stem seal(s)         2. Repair or replace seal(s)
+                                      3. Worn or broken piston rings          3. Hone cylinder bores. Install new
+                                                                              rings
+                                      4. Scuffed pistons/cylinder walls       4. Hone cylinder bores and replace
+                                                                              pistons as required
+                                      5. Carbon in oil control ring groove    5. Remove rings and de-carbon
+                                                                              piston
+                                      6. Worn valve guides                    6. Inspect/replace valve guides as
+                                                                              necessary
+                                      7. Piston rings fitted too tightly in   7. Remove rings and check ring
+                                      grooves                                 end gap and side clearance. Re-
+                                                                              place if necessary
+
+
+DIAGNOSIS AND TESTING — CYLINDER COM-                      DIAGNOSIS AND TESTING - CYLINDER COM-
+PRESSION PRESSURE                                          BUSTION PRESSURE LEAKAGE
+   The results of a cylinder compression pressure test       The combustion pressure leakage test provides an
+can be utilized to diagnose several engine malfunc-        accurate means for determining engine condition.
+tions.                                                       Combustion pressure leakage testing will detect:
+                                                             • Exhaust and intake valve leaks (improper seat-
+   Ensure the battery is completely charged and the
+                                                           ing).
+engine starter motor is in good operating condition.
+                                                             • Leaks between adjacent cylinders or into water
+Otherwise, the indicated compression pressures may
+                                                           jacket.
+not be valid for diagnosis purposes.
+                                                             • Any causes for combustion/compression pressure
+   (1) Clean the spark plug recesses with compressed       loss.
+air.                                                         (1) Check the coolant level and fill as required. DO
+   (2) Remove the spark plugs (Refer to 8 - ELEC-          NOT install the radiator cap.
+TRICAL/IGNITION CONTROL/SPARK PLUG -                         (2) Start and operate the engine until it attains
+REMOVAL).                                                  normal operating temperature, then turn the engine
+   (3) Secure the throttle in the wide-open position.      OFF.
+   (4) Disconnect the ignition coil.                         (3) Remove the spark plugs (Refer to 8 - ELEC-
+   (5) Insert a compression pressure gauge and rotate      TRICAL/IGNITION CONTROL/SPARK PLUG -
+the engine with the engine starter motor for three         REMOVAL).
+revolutions.                                                 (4) Remove the oil filler cap.
+   (6) Record the compression pressure on the third          (5) Remove the air cleaner.
+revolution. Continue the test for the remaining cylin-       (6) Calibrate the tester according to the manufac-
+ders.                                                      turer’s instructions. The shop air source for testing
+   (Refer to 9 - ENGINE - SPECIFICATIONS) for the          should maintain 483 kPa (70 psi) minimum, 1,379
+correct engine compression pressures.                      kPa (200 psi) maximum and 552 kPa (80 psi) recom-
+                                                           mended.
+

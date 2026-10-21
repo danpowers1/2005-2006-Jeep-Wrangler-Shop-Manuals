@@ -1,0 +1,57 @@
+TJ                                                                                               STARTING      8F - 33
+
+operating unless the automatic transmission gear              lever to disengage the overrunning clutch and pinion
+selector is in the Neutral or Park positions.                 gear from the starter ring gear.
+  When the starter relay coil is energized, the nor-
+mally open relay contacts close. The relay contacts           DIAGNOSIS AND TESTING - STARTING SYS-
+connect the relay common feed terminal to the relay           TEM
+normally open terminal. The closed relay contacts               The battery, starting system and charging system
+energize the starter solenoid coil windings.                  in the vehicle operate with one another, and must be
+  The energized solenoid pull-in coil pulls in the sole-      tested as a complete system. In order for the engine
+noid plunger. The solenoid plunger pulls the shift            to start and the battery to charge properly, all of the
+lever in the starter motor. This engages the starter          components that are used in these systems must per-
+overrunning clutch and pinion gear with the starter           form within specifications. The service information
+ring gear on the manual transmission flywheel or on           for these systems has been separated within this ser-
+the automatic transmission torque converter or                vice manual to make it easier to locate the specific
+torque converter drive plate.                                 information you are seeking. However, when
+  As the solenoid plunger reaches the end of its              attempting to diagnose any of these systems, it is
+travel, the solenoid contact disc completes the high-         important that you keep their interdependency in
+amperage starter feed circuit and energizes the sole-         mind.
+noid plunger hold-in coil. Current now flows between            The diagnostic procedures used for the battery,
+the solenoid battery terminal and the starter motor,          starting system and charging system include the
+energizing the starter.                                       most basic conventional diagnostic methods, to the
+  Once the engine starts, the overrunning clutch pro-         more sophisticated On-Board Diagnostics (OBD) built
+tects the starter motor from damage by allowing the           into the Powertrain Control Module (PCM). Use of an
+starter pinion gear to spin faster than the pinion            induction-type milliampere ammeter, a volt/ohmme-
+shaft. When the driver releases the ignition switch to        ter, a battery charger, a carbon pile rheostat (load
+the On position, the starter relay coil is de-energized.      tester) and a 12-volt test lamp may be required. All
+This causes the relay contacts to open. When the              OBD-sensed systems are monitored by the PCM.
+relay contacts open, the starter solenoid plunger             Each monitored circuit is assigned a Diagnostic Trou-
+hold-in coil is de-energized.                                 ble Code (DTC). The PCM will store a DTC in elec-
+  When the solenoid plunger hold-in coil is de-ener-          tronic memory for any failure it detects. Refer to
+gized, the solenoid plunger return spring returns the         Charging System, On-Board Diagnostic Test for
+plunger to its relaxed position. This causes the con-         on-board diagnostic test procedures.
+tact disc to open the starter feed circuit, and the shift
+
+                                             Starting System Diagnosis
+         Condition                Possible Cause                                    Correction
+Starter fails to operate.    1. Battery discharged or       1. Refer to 8, Battery. Replace faulty battery as re-
+                             faulty.                        quired.
+                             2. Starting circuit wiring     2. Refer to Wiring. Test and repair faulty starter feed
+                             faulty.                        and/or control circuits, as required.
+                             3. Starter relay faulty.       3. Refer to Starter Relay. Replace faulty starter relay as
+                                                            required.
+                             4. Ignition switch faulty.     4. Refer to Ignition Switch and Key Lock Cylinder. Re-
+                                                            place faulty ignition switch as required.
+                             5. Clutch pedal position       5. Refer to Clutch Pedal Position Switch. Replace faulty
+                             switch faulty.                 clutch hydraulic linkage unit as required.
+                             6. Park/Neutral position       6. Refer to Park/Neutral Position Switch. Replace faulty
+                             switch faulty or misad-        park/neutral position switch as required.
+                             justed.
+                             7. Starter solenoid faulty.    7. Refer to Starter Motors. Replace faulty starter motor
+                                                            as required.
+                             8. Starter motor faulty.       8. Refer to Starter Motor. Replace faulty starter motor
+                                                            as required.
+Starter engages, fails to    1. Battery discharged or       1. Refer to Battery. Replace faulty battery as required.
+turn engine.                 faulty.
+

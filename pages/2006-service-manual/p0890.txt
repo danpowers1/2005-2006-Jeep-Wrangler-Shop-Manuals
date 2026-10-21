@@ -1,0 +1,39 @@
+8W - 80 - 50   8W-80 CONNECTOR PIN-OUTS                                                       TJ
+
+
+                                      REAR WASHER PUMP (HARD TOP) - BLACK 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 A    Z913 18BK                          GROUND
+                 B    W20 18BR/YL                        REAR WASHER MOTOR CONTROL
+
+
+
+
+                                   REAR WINDOW DEFOGGER SWITCH (HARD TOP) - 4 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    Z1 20BK                            GROUND
+                 2    C80 20DB                           REAR WINDOW DEFOGGER SWITCH SENSE
+                 3    C515 20LB/OR                       FUSED REAR WINDOW DEFOGGER RELAY OUTPUT
+                 4    E2 20OR/BR                         PANEL LAMPS FEED
+
+
+
+
+                                      REAR WIPER MOTOR (HARD TOP) - BLACK 3 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    F302 18GY/PK                       FUSED IGNITION SWITCH OUTPUT (RUN)
+                 2    Z913 16BK                          GROUND
+                 3    W13 18BR/LG                        REAR WIPER MOTOR CONTROL
+
+
+
+
+                                  REAR WIPER/WASHER SWITCH (HARD TOP) - WHITE 6 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    Z1 18BK                            GROUND
+                 2    W20 18BR/YL                        REAR WASHER MOTOR CONTROL
+                 3    E2 20OR/BR                         PANEL LAMPS FEED
+                 4    W13 18BR/LG                        REAR WIPER MOTOR CONTROL
+                 5    F302 18GY/PK                       FUSED IGNITION SWITCH OUTPUT (RUN)
+                 6    -                                  -
+

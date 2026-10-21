@@ -1,0 +1,60 @@
+8I - 16    IGNITION CONTROL                                                                                   TJ
+
+                                                          Replace spark plugs at the intervals recommended in
+                                                          Group O, Lubrication and Maintenance
+                                                            Spark plugs that have low mileage may be cleaned
+                                                          and reused if not otherwise defective, carbon or oil
+                                                          fouled. Also refer to Spark Plug Conditions.
+
+                                                          CAUTION: Never use a motorized wire wheel brush
+                                                          to clean the spark plugs. Metallic deposits will
+                                                          remain on the spark plug insulator and will cause
+                                                          plug misfire.
+
+
+                                                          DIAGNOSIS AND TESTING - SPARK PLUG
+                                                          CONDITIONS
+                                                          NORMAL OPERATING
+                                                             The few deposits present on the spark plug will
+                                                          probably be light tan or slightly gray in color. This is
+                                                          evident with most grades of commercial gasoline
+            Fig. 29 IGNITION COIL - 2.4L
+                                                          (Fig. 30). There will not be evidence of electrode
+1 - IGNITION COIL                                         burning. Gap growth will not average more than
+2 - MOUNTING BOLTS (4)
+                                                          approximately 0.025 mm (.001 in) per 3200 km (2000
+INSTALLATION                                              miles) of operation. Spark plugs that have normal
+   (1) Position coil to engine.                           wear can usually be cleaned, have the electrodes
+   (2) Install 4 mounting bolts. Refer to torque speci-   filed, have the gap set and then be installed.
+fications.
+   (3) Install secondary cables.
+   (4) Install electrical connector at rear of coil.
+   (5) Install air cleaner tube and housing.
+
+
+SPARK PLUG
+DESCRIPTION
+  Resistor type spark plugs are used.
+  Spark plug resistance values range from 6,000 to
+20,000 ohms (when checked with at least a 1000 volt
+spark plug tester). Do not use an ohmmeter to
+check the resistance values of the spark plugs.
+Inaccurate readings will result.
+
+OPERATION                                                 Fig. 30 Normal Operation and Cold (Carbon) Fouling
+  To prevent possible pre-ignition and/or mechanical      1 - NORMAL
+                                                          2 - DRY BLACK DEPOSITS
+engine damage, the correct type/heat range/number         3 - COLD (CARBON) FOULING
+spark plug must be used.
+  Always use the recommended torque when tighten-           Some fuel refiners in several areas of the United
+ing spark plugs. Incorrect torque can distort the         States have introduced a manganese additive (MMT)
+spark plug and change plug gap. It can also pull the      for unleaded fuel. During combustion, fuel with MMT
+plug threads and do possible damage to both the           causes the entire tip of the spark plug to be coated
+spark plug and the cylinder head.                         with a rust colored deposit. This rust color can be
+  Remove the spark plugs and examine them for             misdiagnosed as being caused by coolant in the com-
+burned electrodes and fouled, cracked or broken por-      bustion chamber. Spark plug performance may be
+celain insulators. Keep plugs arranged in the order       affected by MMT deposits.
+in which they were removed from the engine. A sin-
+gle plug displaying an abnormal condition indicates
+that a problem exists in the corresponding cylinder.
+

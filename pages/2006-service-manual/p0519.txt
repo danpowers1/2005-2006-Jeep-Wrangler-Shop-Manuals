@@ -1,0 +1,60 @@
+TJ                                                              LAMPS/LIGHTING - EXTERIOR           8L - 7
+
+switch contacts open, the CAB receives the brake       (3) Rotate the switch approximately 30° in coun-
+applied signal. The CAB then monitors the ABS sys-   terclockwise direction. Then pull the switch rearward
+tem to anticipate the need for a ABS stop.           and out of bracket.
+                                                       (4) Disconnect the switch harness and remove the
+DIAGNOSIS AND TESTING - BRAKE LAMP                   switch (Fig. 2).
+SWITCH
+  The brake lamp switch operation can be tested
+with an ohmmeter. The ohmmeter is used to check
+continuity between the pin terminals (Fig. 1).
+
+SWITCH CIRCUIT IDENTIFICATION
+  • Terminals 1 and 2: brake sensor circuit
+  • Terminals 3 and 4: speed control circuit if
+equipped
+  • Terminals 5 and 6: brake lamp circuit
+
+
+
+
+                                                                  Fig. 2 Brake Lamp Switch
+                                                     1 - RETAINER
+                                                     2 - TERMINALS
+                                                     3 - SWITCH PLUNGER
+
+                                                     INSTALLATION
+                                                       (1) Pull the switch plunger all of the way out, to
+                                                     fully extended position.
+                                                       (2) Connect the harness connector to the switch.
+                                                       (3) Press and hold the brake pedal in the applied
+                                                     position.
+                                                       (4) Align the tab on the switch with the notch in
+ Fig. 1 Brake Lamp Switch Terminal Identification    the switch bracket. Then insert the switch in the
+1 - TERMINAL PINS                                    bracket and turn it clockwise about 30° to lock it in
+2 - PLUNGER TEST POSITIONS
+                                                     place.
+SWITCH CONTINUITY TEST                                 (5) Release the brake pedal, then pull the pedal
+                                                     fully rearward. Pedal will set the plunger to the cor-
+NOTE: Disconnect switch harness before testing       rect position as the pedal pushes the plunger into the
+switch continuity.                                   switch body. The switch will make a ratcheting sound
+                                                     as it self-adjusts.
+  With the switch plunger retracted, attach test
+leads to terminal pins 1 and 2. Replace switch if    ADJUSTMENTS
+meter indicates no continuity.
+  With the switch plunger retracted, attach test     ADJUSTMENT
+leads to terminal pins 3 and 4. Replace switch if      (1) Press and hold brake pedal in applied position.
+meter indicates no continuity.                         (2) Pull switch plunger all the way out to fully
+  With the switch plunger extended, attach test      extended position.
+leads to terminal pins 5 and 6. Replace switch if      (3) Release brake pedal. Then pull pedal lightly
+meter indicates no continuity.                       rearward. Pedal will set plunger to correct position
+                                                     as pedal pushes plunger into switch body. Switch will
+REMOVAL                                              make a ratcheting sound as it self-adjusts.
+  (1) Remove the steering column cover and the
+                                                     CAUTION: Booster damage may occur if the pedal
+lower trim panel.
+                                                     pull exceeds 20 lbs.
+  (2) Press the brake pedal downward to fully
+applied position.
+

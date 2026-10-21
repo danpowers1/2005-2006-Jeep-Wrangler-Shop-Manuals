@@ -1,0 +1,63 @@
+8W - 97 - 2                                   8W-97 POWER DISTRIBUTION                                        TJ
+
+also prove useful for the sourcing of additional elec-        The cigar lighter knob and heating element are
+trical circuits that may be required to provide the        encased within a spring-loaded housing, which also
+electrical current needed to operate many accessories      features a sliding protective heat shield. When the
+that the vehicle owner may choose to have installed        knob and heating element are inserted in the recep-
+in the aftermarket.                                        tacle shell, the heating element resistor coil is
+                                                           grounded through its housing to the receptacle shell.
+                                                           If the cigar lighter knob is pushed inward, the heat
+SPECIAL TOOLS                                              shield slides up toward the knob exposing the heat-
+                                                           ing element, and the heating element extends from
+POWER DISTRIBUTION SYSTEMS                                 the housing toward the insulated contact in the bot-
+                                                           tom of the receptacle shell.
+                                                              Two small spring-clip retainers are located on
+                                                           either side of the insulated contact inside the bottom
+                                                           of the receptacle shell. These clips engage and hold
+                                                           the heating element of the cigar lighter against the
+                                                           insulated contact long enough for the resistor coil to
+                                                           heat up. When the heating element is engaged with
+                                                           the contact, battery current can flow through the
+                                                           resistor coil to ground, causing the resistor coil to
+                                                           heat.
+                                                              When the resistor coil becomes sufficiently heated,
+                                                           excess heat radiates from the heating element caus-
+                                                           ing the spring-clips to expand. Once the spring-clips
+                                                           expand far enough to release the heating element,
+                Terminal Pick Kit 6680                     the spring-loaded housing forces the knob and heat-
+                                                           ing element to pop back outward to their relaxed
+CIGAR LIGHTER OUTLET                                       position. When the cigar lighter knob and element
+                                                           are pulled out of the receptacle shell, the protective
+DESCRIPTION                                                heat shield slides downward on the housing so that
+  An instrument panel cigar lighter outlet is stan-        the heating element is recessed and shielded around
+dard factory-installed equipment on some models.           its circumference for safety.
+Models equipped with the optional smoker’s package
+will include a cigar lighter knob and heating ele-         DIAGNOSIS AND TESTING - CIGAR LIGHTER
+ment. Models without the smoker’s package are              OUTLET
+equipped with a snap fit plastic cap and the outlet is
+treated as an extra accessory power outlet. The out-        For complete circuit diagrams, refer to Wiring
+let is installed in the instrument panel accessory         Diagrams.
+switch bezel, which is located near the bottom of the
+                                                           WARNING: REFER TO THE RESTRAINTS SECTION
+instrument panel center bezel area, below the heater
+                                                           OF THE SERVICE MANUAL BEFORE ATTEMPTING
+and air conditioner controls.
+                                                           ANY STEERING WHEEL, STEERING COLUMN, OR
+  The cigar lighter outlet is serviced only as a part of   INSTRUMENT PANEL COMPONENT DIAGNOSIS OR
+the accessory switch bezel unit. If the base is faulty     SERVICE. FAILURE TO TAKE THE PROPER PRE-
+or damaged, the accessory switch bezel unit must be        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+replaced. The cigar lighter knob and heating element       BAG DEPLOYMENT AND POSSIBLE PERSONAL
+unit is available for service. This component cannot       INJURY.
+be repaired and, if faulty or damaged, it must be
+replaced.                                                     (1) Remove the cigar lighter knob and element
+                                                           from the cigar lighter receptacle shell. Check for con-
+OPERATION                                                  tinuity between the inside circumference of the cigar
+   The cigar lighter base or receptacle shell is con-      lighter receptacle shell and a good ground. there
+nected to ground, and an insulated contact in the          should be continuity. If OK, go to Step 2. If not OK,
+bottom of the shell is connected to battery current.       go to Step 3.
+The cigar lighter receives battery voltage from a fuse        (2) Turn the ignition switch to the On position.
+(f13) in the Power Distribution Center (PDC) through       Check for battery voltage at the insulated contact
+the ignition switch, only when in the Accessory or On      located at the back of the cigar lighter receptacle
+position and through a fuse (f19) in the fuseblock.8       shell. If OK, replace the faulty cigar lighter knob and
+                                                           element. If not OK, go to Step 3.
+

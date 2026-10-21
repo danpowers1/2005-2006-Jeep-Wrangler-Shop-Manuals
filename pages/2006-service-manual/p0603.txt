@@ -1,0 +1,93 @@
+TJ                                                                                        VEHICLE THEFT SECURITY                   8Q - 1
+
+                                      VEHICLE THEFT SECURITY
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                    page
+
+VEHICLE THEFT SECURITY                                                   SPECIFICATIONS
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1         VEHICLE THEFT/SECURITY SYSTEMS                        .....5
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    SKIS INDICATOR
+ DIAGNOSIS AND TESTING - SENTRY KEY                                      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+   IMMOBILIZER SYSTEM . . . . . . . . . . . . . . . . . . 2              OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+ STANDARD PROCEDURE                                                     TRANSPONDER KEY
+   STANDARD PROCEDURE - SKIS                                             DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+     INITIALIZATION . . . . . . . . . . . . . . . . . . . . . . . . 3    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   STANDARD PROCEDURE - SENTRY KEY
+     TRANSPONDER PROGRAMMING . . . . . . . . . . 4
+
+VEHICLE THEFT SECURITY                                                  cuits are integral to several wire harnesses, which
+                                                                        are routed throughout the vehicle and retained by
+                                                                        many different methods. These circuits may be con-
+DESCRIPTION
+                                                                        nected to each other, to the vehicle electrical system
+   The Sentry Key Immobilizer System (SKIS) is
+                                                                        and to the SKIS components through the use of a
+available as a factory-installed option on this model.
+                                                                        combination of soldered splices, splice block connec-
+Vehicles equipped with this option can be readily
+                                                                        tors, and many different types of wire harness termi-
+identified by the presence of an amber SKIS indica-
+                                                                        nal connectors and insulators. Refer to the
+tor in the instrument cluster that will illuminate for
+                                                                        appropriate wiring information. The wiring informa-
+about three seconds each time the ignition switch is
+                                                                        tion includes wiring diagrams, proper wire and con-
+turned to the On position, or by a gray molded rub-
+                                                                        nector repair procedures, further details on wire
+ber cap on the head of the ignition key. Models not
+                                                                        harness routing and retention, as well as pin-out and
+equipped with SKIS still have a SKIS indicator in
+                                                                        location views for the various wire harness connec-
+the cluster, but it will not illuminate when the igni-
+                                                                        tors, splices and grounds.
+tion switch is turned to the On position. Also, models
+not equipped with the SKIS have a black molded
+rubber cap on the head of the ignition key.
+                                                                        OPERATION
+                                                                          The Sentry Key Immobilizer System (SKIS) is
+   The SKIS includes the following major components,
+                                                                        designed to provide passive protection against unau-
+which are described in further detail elsewhere in
+                                                                        thorized vehicle use by disabling the engine, after
+this service manual:
+                                                                        about two seconds of running, whenever any method
+   • Powertrain Control Module (PCM) - The
+                                                                        other than a valid Sentry Key is used to start the
+PCM is located on the right side of the dash panel in
+                                                                        vehicle. The SKIS is considered a passive protection
+the engine compartment.
+                                                                        system because it is always active when the ignition
+   • Sentry Key Immobilizer Module (SKIM) -
+                                                                        system is energized and does not require any cus-
+The SKIM is located on the steering column near the
+                                                                        tomer intervention. The SKIS uses Radio Frequency
+ignition lock cylinder housing and an integral molded
+                                                                        (RF) communication to obtain confirmation that the
+plastic antenna ring circles the ignition lock cylinder
+                                                                        key in the ignition switch is a valid key for operating
+like a halo. The SKIM and its antenna are concealed
+                                                                        the vehicle. The microprocessor-based SKIS hard-
+beneath the steering column shrouds.
+                                                                        ware and software also uses electronic messages to
+   • Sentry Key Transponder - The Sentry Key
+                                                                        communicate with other electronic modules in the
+transponder is molded into the head of the ignition
+                                                                        vehicle over the Programmable Communications
+key, and concealed by a gray molded rubber cap.
+                                                                        Interface (PCI) data bus (Refer to 8 - ELECTRICAL/
+   • SKIS Indicator - The SKIS indicator is located
+                                                                        ELECTRONIC CONTROL MODULES/COMMUNI-
+in the upper left corner of the instrument cluster
+                                                                        CATION - OPERATION).
+overlay.
+                                                                          Pre-programmed Sentry Key transponders are pro-
+   Except for the Sentry Key transponders, which rely
+                                                                        vided with the vehicle from the factory. Each Sentry
+upon Radio Frequency (RF) communication, hard
+                                                                        Key Immobilizer Module (SKIM) will recognize a
+wired circuitry connects the SKIS components to the
+                                                                        maximum of eight Sentry Keys. If the customer
+electrical system of the vehicle. These hard wired cir-
+                                                                        would like additional keys other than those provided
+

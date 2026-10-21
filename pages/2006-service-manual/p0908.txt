@@ -1,0 +1,47 @@
+8W - 91 - 8              8W-91 CONNECTOR/GROUND/SPLICE LOCATION                         TJ
+
+Splice Number   Location                                               Fig.
+S137            Near T/O for Throttle Position Sensor                  N/S
+S138            Left Engine Compartment                                13, 14
+S140            Near T/O for C104                                      N/S
+S141 (Left)     Near T/O for Left Front Turn Signal Lamp, See Right    2
+S142 (Right)    Near T/O for Right Front Turn Signal Lamp              2
+S143            Rear of Engine Compartment                             10, 12
+S144            Near T/O for Right Front Park/Turn Signal Lamp         N/S
+S147            Between T/O’s for Underhood Lamp and C103, C104        10, 12
+S150            Near Right Turn Signal Lamp T/O                        2
+S150 (RHD)      Right Headlamp T/O                                     2
+S151            Left Rear Engine Compartment                           14
+S151 (RHD)      Left Side Engine Compartment                           13
+S152            Left Rear Engine Compartment                           14
+S152 (RHD)      Right Rear Engine Compartment                          12
+S153            Rear Engine Compartment                                7, 17
+S155            Left Rear Engine Compartment                           10, 12
+S156            Near T/O for ABS Pump Motor                            10
+S158 (2.4L)     Near T/O For Power Steering Pressure Switch            N/S
+S159            In T/O for PCM                                         4, 9
+S160 (2.4L)     Left Rear Engine Compartment                           4
+S160 (4.0L)     Front of Transmission                                  7
+S161            Rear of Engine Compartment                             9, 17
+S162 (2.4L)     Near T/O for Oxygen Sensor 1/1 Upstream                N/S
+S164            Near T/O For Rer Locker Indicator Switch Inline C116   32
+S170            Rear of Engine Compartment                             10, 12
+S172            Between G100 and C103                                  10, 12
+S173            Near G100                                              10, 12
+S176            In Fuel InjectorHarness                                N/S
+S177            Rear of Engine Compartment                             7, 17
+S178            Near T/O for C103 on Engine Harness                    N/S
+S180 (LHD)      In PDC                                                 10
+S180 (RHD)      Left Rear Engine Compartment                           12
+S184            Left Side of Engine                                    5
+S185            Rear of Engine                                         7
+S202 (LHD)      Center of Instrument Panel                             24, 26
+S202 (RHD)      Center Rear of Instrument Panel                        27
+S204            Center Rear of Instrument Panel                        26, 27
+S206            Center Rear of Instrument Panel                        26, 27
+S207            Near Cigar Lighter T/O                                 26, 29
+S208            Near Blower Motor                                      N/S
+S209            Near T/O for C202, C203, and C204                      24, 26, 27, 28
+S210            Near T/O for A/C Heater Control C3                     26, 29
+S211            Near T/O for C202                                      N/S
+

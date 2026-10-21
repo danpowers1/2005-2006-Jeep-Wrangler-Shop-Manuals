@@ -1,0 +1,66 @@
+TJ                                                                                                        ENGINE SYSTEMS                  8F - 1
+
+                                                  ENGINE SYSTEMS
+                                                     TABLE OF CONTENTS
+
+                                                                page                                                                        page
+
+BATTERY SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . 1        STARTING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+CHARGING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+                                                  BATTERY SYSTEM
+
+                                                          TABLE OF CONTENTS
+                                                                page                                                                        page
+
+BATTERY SYSTEM                                                               STANDARD PROCEDURE - IGNITION-OFF
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1            DRAW TEST . . . . . . . . . . . . . . . . . . . . . . . . . 12
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2         STANDARD PROCEDURE - USING MICRO
+ DIAGNOSIS AND TESTING - BATTERY                                              420 BATTERY TESTER . . . . . . . . . . . . . . . . . 13
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+ CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ INSPECTION . . . . . . . . . . . . . . . . . . . . . . . . . . . 6       BATTERY HOLDDOWN
+ SPECIFICATIONS                                                            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+   BATTERY SYSTEM SPECIFICATIONS . . . . . . . 6                           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+   TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ SPECIAL TOOLS                                                             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 16
+   BATTERY SYSTEM SPECIAL TOOLS . . . . . . . 8                           BATTERY CABLES
+BATTERY                                                                    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 8         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8       DIAGNOSIS AND TESTING - BATTERY
+ DIAGNOSIS AND TESTING - BATTERY . . . . . . . 9                             CABLES   . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ STANDARD PROCEDURE                                                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+   STANDARD PROCEDURE - BATTERY                                            INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 19
+    CHARGING . . . . . . . . . . . . . . . . . . . . . . . . . . . 9      BATTERY TRAY
+   STANDARD PROCEDURE - BUILT-IN                                           DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 20
+    INDICATOR TEST . . . . . . . . . . . . . . . . . . . . . 11            OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+   STANDARD PROCEDURE - OPEN-CIRCUIT                                       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+    VOLTAGE TEST . . . . . . . . . . . . . . . . . . . . . . . 12          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+BATTERY SYSTEM                                                              • Battery Cable - The battery cables connect the
+                                                                          battery terminal posts to the vehicle electrical sys-
+                                                                          tem.
+DESCRIPTION
+                                                                            • Battery Holddown - The battery holddown
+  A single 12-volt battery is standard factory-in-
+                                                                          hardware secures the battery in the battery tray in
+stalled equipment on this model. All of the compo-
+                                                                          the engine compartment.
+nents of the battery system are located within the
+                                                                            • Battery Tray - The battery tray provides a
+engine compartment of the vehicle. The battery sys-
+                                                                          secure mounting location in the vehicle for the bat-
+tem for this vehicle covers the following related com-
+                                                                          tery and an anchor point for the battery holddown
+ponents, which are covered in further detail later in
+                                                                          hardware.
+this section of the service manual:
+                                                                            For battery system maintenance schedules and
+  • Battery - The storage battery provides a reli-
+                                                                          jump starting procedures, see the owner’s manual in
+able means of storing a renewable source of electrical
+                                                                          the vehicle glove box. Optionally, refer to the Lubri-
+energy within the vehicle.
+                                                                          cation and Maintenance section of this manual for
+                                                                          the recommended battery maintenance schedules and
+

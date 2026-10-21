@@ -1,0 +1,58 @@
+25 - 10       EVAPORATIVE EMISSIONS                                                                                                     TJ
+
+                                       EVAPORATIVE EMISSIONS
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                    page
+
+EVAPORATIVE EMISSIONS                                                    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+ DESCRIPTION - EVAPORATION CONTROL                                       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10    ORVR
+ SPECIFICATIONS                                                          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+   TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+CCV SYSTEM                                                              NATURAL VACUUM LEAK DETECTION
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 11        ASSEMBLY
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 11      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 11                OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+PCV VALVE                                                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 11        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 12     VACUUM LINES
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 19
+EVAP/PURGE SOLENOID                                                     VAPOR CANISTER
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 13        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 20
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 13      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 14       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 20
+FUEL FILLER CAP
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+EVAPORATIVE EMISSIONS                                                   EVAP purge solenoid. Refer to Duty-Cycle EVAP
+                                                                        Canister Purge Solenoid.
+DESCRIPTION - EVAPORATION CONTROL SYS-                                    An ORVR system is used. This system is part of
+                                                                        the EVAP Control System. Refer to On-Board Refuel-
+TEM
+                                                                        ing Vapor Recovery (ORVR) for information.
+   The evaporation control system prevents the emis-
+                                                                          When equipped with certain emissions packages, a
+sion of fuel tank vapors into the atmosphere. When
+                                                                        Leak Detection Pump (LDP) will be used as part of
+fuel evaporates in the fuel tank, the vapors pass
+                                                                        the evaporative system for OBD II requirements.
+through vent hoses or tubes to a charcoal filled evap-
+                                                                        Also refer to Leak Detection Pump.
+orative canister. The canister temporarily holds the
+vapors. The Powertrain Control Module (PCM) allows                      NOTE: The evaporative system uses specially man-
+intake manifold vacuum to draw vapors into the com-                     ufactured lines/hoses. If replacement becomes nec-
+bustion chambers during certain operating condi-                        essary, only use fuel resistant hose.
+tions.
+   All engines use a duty-cycle purge system. The
+PCM controls vapor flow by operating the duty-cycle
+
+SPECIFICATIONS
+TORQUE
+        DESCRIPTION                               N-m                             Ft. Lbs.                            In. Lbs.
+  EVAP Canister Mounting                            9                                 -                                  80
+          Nuts
+ Leak Detection Pump Fil-                           7                                 -                                  65
+    ter Mounting Bolt
+

@@ -1,0 +1,60 @@
+8R - 28     REAR WIPERS/WASHERS                                                                               TJ
+
+the left side of the vehicle with the body wire har-      is secured to the top of the left front fender wheel
+ness from the washer reservoir in the engine com-         house within the engine compartment of the vehicle.
+partment, through the dash into the passenger               Hard wired circuitry connects the rear wiper and
+compartment, and back to the left rear corner of the      washer system components to the electrical system of
+body. The rear check valve splices the body wire har-     the vehicle. These hard wired circuits are integral to
+ness half of the washer hose to the hardtop wire har-     several wire harnesses, which are routed throughout
+ness half of the hose at the left rear corner of the      the vehicle and retained by many different methods.
+body. The hardtop wire harness and washer hose are        These circuits may be connected to each other, to the
+routed up the left rear corner of the hardtop and over    vehicle electrical system and to the rear wiper and
+the upper liftglass opening header to the rear washer     washer system components through the use of a com-
+nozzle in the upper right corner of the rear liftglass.   bination of soldered splices, splice block connectors,
+A molded plastic washer hose cap is secured by an         and many different types of wire harness terminal
+integral bail strap to the body wire harness half of      connectors and insulators. Refer to the appropriate
+the rear washer hose near the left rear corner of the     wiring information. The wiring information includes
+body. This cap serves to plug the rear washer hose        wiring diagrams, proper wire and connector repair
+when the hardtop is removed from the vehicle.             procedures, further details on wire harness routing
+   • Rear Washer Pump/Motor - The rear washer             and retention, as well as pin-out and location views
+pump/motor unit is located in a dedicated hole on the     for the various wire harness connectors, splices and
+lower inboard side of the washer reservoir, on the top    grounds.
+of the left front fender wheel house in the engine
+compartment. The optional rear washer pump is             OPERATING MODES
+located just behind and above the standard front             The components of the rear wiper and washer sys-
+washer pump/motor unit on the reservoir.                  tem are designed to work in concert to provide the
+   • Rear Wiper and Washer Switch - The rear              following operating modes:
+wiper and washer switch is located in the accessory          • Continuous Wipe Mode - When the rear wiper
+switch bezel near the bottom of the center stack area     and washer switch rocker is moved to the Wipe posi-
+on the instrument panel. Only the switch rocker but-      tion, the rear wiper will be operated in a continuous
+ton is visible through the lower opening of the instru-   manner at a fixed wipe cycle speed until the switch
+ment panel center bezel, the remainder of the switch      is moved to the Off position. When the Off position is
+is concealed behind the accessory switch bezel within     selected, the rear wiper motor will continue to oper-
+the instrument panel. The rear wiper and washer           ate until the current wipe cycle is complete, then
+switch is dedicated to providing all of the driver con-   park the wiper blade in a horizontal position near
+trols for both the rear wiper and the rear washer sys-    the top of the liftglass.
+tems.                                                        • Washer Mode - The rear wiper and washer
+   • Rear Wiper Arm - The single rear wiper arm is        switch rocker must first be moved to the Wipe detent
+secured by a nut directly to the rear wiper motor out-    in order to access the momentary Wash position and
+put shaft, which extends through a mounting hole in       operate the rear washer system. When the Wash
+the liftglass inboard of the upper right liftglass        position is selected, the rear washer system will dis-
+hinge.                                                    pense washer fluid onto the liftglass and the rear
+   • Rear Wiper Blade - The single rear wiper             wiper motor will operate in a continuous mode for as
+blade is secured to the rear wiper arm with an inte-      long as the switch is held closed. The rear wiper and
+gral latch, and is parked in a horizontal position near   washer switch rocker must be manually moved back
+the top of the liftglass when the rear wiper system is    to the Off position following rear washer operation in
+not in operation.                                         order to turn the rear wiper system off.
+   • Rear Wiper Motor - The rear wiper motor out-
+put shaft is the only visible component of the rear       OPERATION
+wiper motor. The remainder of the motor is concealed        The rear wiper and washer system is designed to
+behind a plastic trim cover on the inside of the lift-    provide the vehicle operator with a convenient, safe,
+glass near the upper right liftglass hinge. The rear      and reliable means of maintaining visibility through
+wiper motor includes the motor bracket, the rear          the rear liftglass. The various components of this sys-
+wiper motor, an internal automatic resetting circuit      tem are designed to convert electrical energy pro-
+breaker, a diode, and the rear wiper motor park           duced by the vehicle electrical system into the
+switch.                                                   mechanical action of the wiper blade to wipe the out-
+   • Washer Reservoir - The rear washer system            side surface of the glass, as well as into the hydraulic
+shares a single reservoir with the front washer sys-      action of the washer system to apply washer fluid
+tem, but has its own dedicated washer pump/motor          stored in an on-board reservoir to the area of the
+unit and unique plumbing provisions. The reservoir        glass to be wiped. When combined, these components
+

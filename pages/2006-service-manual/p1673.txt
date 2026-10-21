@@ -1,0 +1,65 @@
+TJ                                                                                 DISTRIBUTION        24 - 37
+
+NOTE: For circuit descriptions and diagrams, refer         (2) Disconnect the wire harness connector from the
+to Air Conditioning/Heater in Group 8W - Wiring          blower motor (Fig. 4).
+Diagrams.                                                  (3) Release the locking tab that secures the blower
+                                                         motor to the HVAC housing and rotate blower motor
+                                                         counterclockwise.
+OPERATION                                                  (4) Rotate and tilt the blower motor as needed for
+  Possible causes of an inoperative blower motor or      clearance to remove the blower motor and wheel
+blower motor not operating in all speeds include:        from the HVAC housing.
+  • Faulty fuse
+  • Faulty blower motor resistor
+  • Faulty blower motor switch
+  • Faulty blower motor
+  • Faulty blower motor circuit wiring or wire har-
+ness connectors
+
+VIBRATION
+  Possible causes of blower motor vibration include:
+  • Improper blower motor mounting
+  • Improper blower wheel mounting
+  • Deformed blower wheel
+  • Out of balance blower wheel due to foreign
+material in the wheel
+  • Faulty blower motor
+
+NOISE
+  To determine if the blower motor is the source of
+the noise, simply switch the blower motor from Off to
+On. To verify that the blower motor is the source of
+the noise, unplug the blower motor wire harness con-
+nector and operate the heating-A/C system. If the
+noise goes away, possible causes include:                   Fig. 4 Blower Motor - LHD shown, RHD similar
+  • Foreign material in the HVAC air inlet housing       1 - HVAC HOUSING
+  • Improper blower motor mounting                       2 - BLOWER MOTOR
+  • Improper blower wheel mounting                       3 - RETAINER-LOCKING TAB
+                                                         4 - WIRE HARNESS CONNECTOR
+  • Faulty blower motor
+                                                         INSTALLATION
+REMOVAL
+                                                         NOTE: Failure to install the blower motor assembly
+WARNING: On vehicles equipped with airbags, dis-
+                                                         correctly could result in an air leak or the blower
+able the airbag system before attempting any steer-
+                                                         motor assembly becoming completely disengaged
+ing wheel, steering column, or instrument panel
+                                                         from the HVAC housing.
+component diagnosis or service. Disconnect and
+isolate the battery negative (ground) cable, then          (1) Align and install the blower motor into the
+wait two minutes for the airbag system capacitor to      HVAC housing.
+discharge before performing further diagnosis or           (2) Rotate the blower motor until all of the locking
+service. This is the only sure way to disable the air-   tabs have secured the blower motor assembly to the
+bag system. Failure to take the proper precautions       HVAC housing.
+could result in an accidental airbag deployment and        (3) Connect the wire harness connector to the
+possible personal injury or death.                       blower motor.
+                                                           (4) Reconnect the battery negative cable.
+NOTE: The blower motor is located on the passen-           (5) Test the blower motor for proper installation by
+ger side of the vehicle under the instrument panel.      turning the blower motor speed to its fastest position
+The blower motor can be removed without having           and checking around the outer edges of the blower
+to remove the instrument panel or the HVAC hous-         assembly for air leaks. If any air leaks are found,
+ing.                                                     remove and reinstall the blower motor.
+
+  (1) Disconnect and isolate the negative battery
+cable.
+

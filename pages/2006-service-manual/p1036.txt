@@ -1,0 +1,57 @@
+9 - 76   ENGINE 4.0L                                                                            TJ
+
+          CONDITION           POSSIBLE CAUSES                            CORRECTION
+
+CONNECTING ROD NOISE   1. Insufficient oil supply            1. Check engine oil level.
+
+                       2. Low oil pressure                   2. Check engine oil level. If ok,
+                                                             Perform oil pressure test. (Refer to
+                                                             9 - ENGINE/LUBRICATION - DI-
+                                                             AGNOSIS AND TESTING) engine
+                                                             oil pressure test/specifications
+                       3. Thin or diluted oil                3. Change oil to correct viscosity.
+                                                             (Refer to 9 - ENGINE/LUBRICA-
+                                                             TION/OIL - STANDARD PROCE-
+                                                             DURE) for correct procedure/en-
+                                                             gine oil specifications
+                       4. Excessive connecting rod bear-     4. Measure bearings for correct
+                       ing clearance                         clearance with plasti-gage. Repair
+                                                             as necessary
+                       5. Connecting rod journal out of      5. Replace crankshaft or grind jour-
+                       round                                 nals
+                       6. Misaligned connecting rods         6. Replace bent connecting rods
+
+MAIN BEARING NOISE     1. Insufficient oil supply            1. Check engine oil level.
+
+                       2. Low oil pressure                   2. Check engine oil level. If ok,
+                                                             Perform oil pressure test. (Refer to
+                                                             9 - ENGINE/LUBRICATION - DI-
+                                                             AGNOSIS AND TESTING)
+                       3. Thin or diluted oil                3. Change oil to correct viscosity.
+                       4. Excessive main bearing clear-      4. Measure bearings for correct
+                       ance                                  clearance. Repair as necessary
+                       5. Excessive end play                 5. Check crankshaft thrust bearing
+                                                             for excessive wear on flanges
+                       6. Crankshaft main journal out of     6. Grind journals or replace crank-
+                       round or worn                         shaft
+                       7. Loose flywheel or torque con-      7. Inspect crankshaft, flexplate/fly-
+                       verter                                wheel and bolts for damage. Tight-
+                                                             en to correct torque
+
+LOW OIL PRESSURE       1. Low oil level                      1. Check oil level and fill if neces-
+                                                             sary
+
+                       2. Faulty oil pressure sending unit   2. Install new sending unit
+                       3. Clogged oil filter                 3. Install new oil filter
+                       4. Worn oil pump                      4. Replace oil pump assembly.
+                       5. Thin or diluted oil                5. Change oil to correct viscosity.
+                       6. Excessive bearing clearance        6. Measure bearings for correct
+                                                             clearance
+                       7. Oil pump relief valve stuck        7. Remove valve to inspect, clean
+                                                             and reinstall
+                       8. Oil pickup tube loose, broken,     8. Inspect oil pickup tube and
+                       bent or clogged                       pump, and clean or replace if nec-
+                                                             essary
+                       9. Oil pump cover warped or           9. Install new oil pump
+                       cracked
+

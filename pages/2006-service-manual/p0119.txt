@@ -1,0 +1,53 @@
+TJ                                                                               FRONT AXLE - 216FBI      3 - 63
+
+ Original
+  Pinion                          Replacement Pinion Gear Depth Variance
+  Gear
+  Depth      24           23    22        21           0          +1        +2         +3       +4
+ Variance
+        21           +0.003    +0.002   +0.001         0       20.001     20.002     20.003   20.004    20.005
+        22           +0.002    +0.001      0      20.001       20.002     20.003     20.004   20.005    20.006
+        23           +0.001      0      20.001    20.002       20.003     20.004     20.005   20.006    20.007
+        24                0    20.001   20.002    20.003       20.004     20.005     20.006   20.007    20.008
+
+
+PINION DEPTH MEASUREMENT AND ADJUSTMENT
+  Measurements are taken with pinion bearing cups
+and pinion bearings installed in the housing. Take
+measurements with Pinion Gauge Set and Dial Indi-
+cator C-3339 (Fig. 10).
+
+
+
+
+                                                                       Fig. 11 PINION HEIGHT BLOCK
+                                                           1 - PINION BLOCK
+                                                           2 - PINION HEIGHT BLOCK
+
+                                                              (4) Place Arbor Disc 6732 on Arbor D-115-3 in posi-
+                                                           tion in the housing side bearing cradles (Fig. 12).
+
+                                                           NOTE: Arbor Discs 6732 has different step diame-
+                                                           ters to fit other axles. Choose proper step for axle
+                                                           being serviced.
+
+                                                             (5) Install differential bearing caps on arbor discs
+     Fig. 10 PINION GEAR DEPTH GAUGE TOOLS                 and install bearing cap bolts. Tighten bearing cap
+1 - DIAL INDICATOR                                         bolts to 108 N·m (80 ft. lbs.).
+2 - ARBOR
+3 - PINION HEIGHT BLOCK
+4 - CONE
+5 - SCREW
+6 - PINION BLOCK
+7 - SCOOTER BLOCK
+8 - ARBOR DISC
+
+  (1) Assemble Pinion Height Block 6739, Pinion
+Block 6734 and rear pinion bearing onto Screw 6741
+(Fig. 10).
+  (2) Insert assembled height gauge components,
+rear bearing and screw into the housing through pin-
+ion bearing cups (Fig. 11).
+  (3) Install front pinion bearing and Cone-nut 6740
+hand tight.
+

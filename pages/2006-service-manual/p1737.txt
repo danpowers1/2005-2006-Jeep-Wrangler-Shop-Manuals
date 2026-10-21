@@ -1,0 +1,50 @@
+TJ                                                                       EVAPORATIVE EMISSIONS           25 - 17
+
+  The device itself has 3 wires: Switch sense, sole-
+noid driver and ground. It also includes a resistor to
+protect the switch from a short to battery or a short
+to ground. The NGC utilizes a high-side driver to
+energize and duty-cycle the solenoid.
+
+REMOVAL
+
+
+
+
+                                                                Fig. 13 EVAP CANISTER / LDP LOCATION
+                                                           1 - RIGHT / REAR FENDER (WHEELHOUSE)
+                                                           2 - VERTICAL SUPPORT BRACKET
+                                                           3 - EVAP CANISTER
+
+                                                             (3) Remove vertical support bracket (2) (Fig. 13) to
+                                                           gain access to ORVR vapor lines.
+
+             Fig. 12 ORVR VAPOR LINE
+1 - EVAP CANISTER
+2 - NVLD FILTER
+3 - NVLD PUMP
+4 - VAPOR LINES
+5 - FLOW VALVE
+6 - TOP OF FUEL TANK)
+
+   The Natural Vacuum Leak Detection (NVLD)
+pump (3) (Fig. 12) and EVAP canister (1) are
+attached to a common support bracket. This support
+assembly is located to the rear of the right / rear tire
+under the plastic wheelhouse liner. The NVLD pump
+filter is also located near the EVAP canister. The
+pump and filter are replaced (serviced) as one unit.
+   (1) Remove right/rear tire/wheel.
+   (2) Remove wheelhouse liner at right/rear wheel.
+
+
+
+
+                                                                        Fig. 14 ORVR VAPOR LINE
+                                                           1 - EVAP CANISTER
+                                                           2 - NVLD FILTER
+                                                           3 - NVLD PUMP
+                                                           4 - VAPOR LINES
+                                                           5 - FLOW VALVE
+                                                           6 - TOP OF FUEL TANK)
+

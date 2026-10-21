@@ -1,0 +1,65 @@
+TJ                                                                                 BATTERY SYSTEM          8F - 11
+
+is faulty and must be replaced. If the charging cur-        STANDARD PROCEDURE - BUILT - IN INDICA-
+rent is measurable during the charging time, the bat-
+                                                            TOR TEST
+tery may be good and the charging should be
+completed in the normal manner.                               An indicator (hydrometer) built into the top of the
+                                                            battery case provides visual information for battery
+                 CHARGE RATE TABLE                          testing (Fig. 6). Like a hydrometer, the built-in indi-
+           Voltage                        Hours             cator measures the specific gravity of the battery
+                                                            electrolyte. The specific gravity of the electrolyte
+     16.0 volts maximum               up to 4 hours         reveals the battery state-of-charge; however, it will
+      14.0 to 15.9 volts              up to 8 hours         not reveal the cranking capacity of the battery. A load
+      13.9 volts or less              up to 16 hours        test must be performed to determine the battery
+                                                            cranking capacity. Refer to Standard Procedures for
+CHARGING TIME REQUIRED                                      the proper battery load test procedures.
+
+  The time required to charge a battery will vary,
+depending upon the following factors:
+  • Battery Capacity - A completely discharged
+heavy-duty battery requires twice the charging time
+of a small capacity battery.
+   • Temperature - A longer time will be needed to
+charge a battery at -18° C (0° F) than at 27° C (80°
+F). When a fast battery charger is connected to a cold
+battery, the current accepted by the battery will be
+very low at first. As the battery warms, it will accept
+a higher charging current rate (amperage).                               Fig. 6 Built-In Test Indicator
+   • Charger Capacity - A battery charger that              1 - SIGHT GLASS
+supplies only five amperes will require a longer            2 - BATTERY TOP
+                                                            3 - GREEN BALL
+charging time. A battery charger that supplies              4 - PLASTIC ROD
+twenty amperes or more will require a shorter charg-
+ing time.                                                      Before testing, visually inspect the battery for any
+   • State-Of-Charge - A completely discharged bat-         damage (a cracked case or cover, loose posts, etc.)
+tery requires more charging time than a partially           that would cause the battery to be faulty. In order to
+discharged battery. Electrolyte is nearly pure water        obtain correct indications from the built-in indicator,
+in a completely discharged battery. At first, the           it is important that the battery be level and have a
+charging current (amperage) will be low. As the bat-        clean sight glass. Additional light may be required to
+tery charges, the specific gravity of the electrolyte       view the indicator. Do not use open flame as a
+will gradually rise.                                        source of additional light.
+   The Battery Charging Time Table gives an indica-            To read the built-in indicator, look into the sight
+tion of the time required to charge a typical battery       glass and note the color of the indication (Fig. 7). The
+at room temperature based upon the battery state-of-        battery condition that each color indicates is
+charge and the charger capacity.                            described in the following list:
+                                                               • Green - Indicates 75% to 100% battery state-of-
+          BATTERY CHARGING TIME TABLE                       charge. The battery is adequately charged for further
+  Charging Amper-                       10                  testing or return to service. If the starter will not
+                           5 Amps                 20 Amps   crank for a minimum of fifteen seconds with a fully-
+        age                            Amps
+ Open Circuit Volt-        Hours Charging @ 21° C (70°      charged battery, the battery must be load tested.
+      age                               F)                  Refer to Standard Procedures for the proper battery
+                                                            load test procedures.
+   12.25 to 12.49          6 hours    3 hours       1.5
+                                                               • Black or Dark - Indicates 0% to 75% battery
+                                                   hours
+                                                            state-of-charge. The battery is inadequately charged
+   12.00 to 12.24          10 hours   5 hours       2.5     and must be charged until a green indication is visi-
+                                                   hours    ble in the sight glass (12.4 volts or more), before the
+   10.00 to 11.99          14 hours   7 hours       3.5     battery is tested further or returned to service. Refer
+                                                   hours    to Standard Procedures for the proper battery charg-
+     Below 10.00           18 hours   9 hours       4.5     ing procedures. Also refer to Diagnosis and Testing
+                                                   hours    for more information on the possible causes of the
+                                                            discharged battery condition.
+

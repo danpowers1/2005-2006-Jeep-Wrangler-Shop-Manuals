@@ -1,0 +1,64 @@
+5 - 46    BRAKES - ABS                                                                                   TJ
+
+OPERATION                                               REMOVAL
+  Accumulators in the valve body store extra fluid        (1) Install prop rod on the brake pedal to keep
+released to the system for ABS mode operation. The      pressure on the brake system.
+pump provides the fluid volume needed and is oper-        (2) Remove negative battery cable from the bat-
+ated by a DC type motor. The motor is controlled by     tery.
+the CAB.                                                  (3) Pull up on the CAB harness connector release
+  The valves modulate brake pressure during             (Fig. 8) and remove connector.
+antilock braking and are controlled by the CAB.
+  The HCU provides three channel pressure control
+to the front and rear brakes. One channel controls
+the rear wheel brakes in tandem. The two remaining
+channels control the front wheel brakes individually.
+  During antilock braking, the solenoid valves are
+opened and closed as needed. The valves are not
+static. They are cycled rapidly and continuously to
+modulate pressure and control wheel slip and decel-
+eration.
+  During normal braking, the HCU solenoid valves
+and pump are not activated. The master cylinder and
+power booster operate the same as a vehicle without
+an ABS brake system.
+  During antilock braking, solenoid valve pressure
+modulation occurs in three stages, pressure increase,         Fig. 8 CAB Harness Connector Release
+pressure hold, and pressure decrease. The valves are
+                                                        1 - CAB
+all contained in the valve body portion of the HCU.     2 - CAB HARNESS RELEASE
+
+PRESSURE DECREASE                                         (4) Remove brake lines from the HCU.
+  The outlet valve is opened and the inlet valve is       (5) Remove HCU/CAB mounting nuts and bolt
+closed during the pressure decrease cycle.              (Fig. 9) and remove HCU/CAB.
+  A pressure decrease cycle is initiated when speed
+sensor signals indicate high wheel slip at one or
+more wheels. At this point, the CAB closes the inlet
+then opens the outlet valve, which also opens the
+return circuit to the accumulators. Fluid pressure is
+allowed to bleed off (decrease) as needed to prevent
+wheel lock.
+  Once the period of high wheel slip has ended, the
+CAB closes the outlet valve and begins a pressure
+increase or hold cycle as needed.
+
+PRESSURE HOLD
+  Both solenoid valves are closed in the pressure
+hold cycle. Fluid apply pressure in the control chan-
+nel is maintained at a constant rate. The CAB main-
+tains the hold cycle until sensor inputs indicate a                  Fig. 9 HCU/CAB Mounting
+pressure change is necessary.
+                                                        1 - HCU
+                                                        2 - CAB
+PRESSURE INCREASE                                       3 - HCU/CAB BRACKET
+   The inlet valve is open and the outlet valve is      4 - MOTOR
+closed during the pressure increase cycle. The pres-
+sure increase cycle is used to counteract unequal       INSTALLATION
+wheel speeds. This cycle controls re-application of
+                                                        NOTE: If the CAB is being replaced with a new CAB
+fluid apply pressure due to changing road surfaces or
+                                                        is must be reprogrammed with the use of a DRB III.
+wheel speed.
+                                                          (1) Install HCU/CAB on the mounting studs.
+                                                          (2) Install mounting nuts and bolt. Tighten to 11.5
+                                                        N·m (102 in. lbs.).
+

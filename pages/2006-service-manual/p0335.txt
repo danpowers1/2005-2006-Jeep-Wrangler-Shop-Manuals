@@ -1,0 +1,79 @@
+TJ                                                                                            ENGINE      7 - 23
+
+COOLANT                                                   tors, causing damage to the various cooling system
+                                                          components. Also, once ethylene-glycol and propy-
+                                                          lene-glycol based coolants are mixed in the vehicle,
+DESCRIPTION                                               conventional methods of determining freeze point will
+                                                          not be accurate. Both the refractive index and spe-
+DESCRIPTION - ENGINE COOLANT                              cific gravity differ between ethylene glycol and propy-
+                                                          lene glycol.
+ETHYLENE - GLYCOL MIXTURES
+                                                          DESCRIPTION - HOAT COOLANT
+CAUTION: Richer antifreeze mixtures cannot be
+measured with normal field equipment and can              WARNING: ANTIFREEZE IS AN ETHYLENE GLYCOL
+cause problems associated with 100 percent ethyl-         BASE COOLANT AND IS HARMFUL IF SWAL-
+ene-glycol.                                               LOWED OR INHALED. IF SWALLOWED, DRINK
+                                                          TWO GLASSES OF WATER AND INDUCE VOMIT-
+   The required ethylene-glycol (antifreeze) and water    ING. IF INHALED, MOVE TO FRESH AIR AREA.
+mixture depends upon the climate and vehicle oper-        SEEK MEDICAL ATTENTION IMMEDIATELY. DO NOT
+ating conditions. The recommended mixture of 50/50        STORE IN OPEN OR UNMARKED CONTAINERS.
+ethylene-glycol and water will provide protection         WASH SKIN AND CLOTHING THOROUGHLY AFTER
+against freezing to -37 deg. C (-35 deg. F). The anti-    COMING IN CONTACT WITH ETHYLENE GLYCOL.
+freeze concentration must always be a minimum of          KEEP OUT OF REACH OF CHILDREN. DISPOSE OF
+44 percent, year-round in all climates. If percentage     GLYCOL BASE COOLANT PROPERLY, CONTACT
+is lower than 44 percent, engine parts may be             YOUR DEALER OR GOVERNMENT AGENCY FOR
+eroded by cavitation, and cooling system com-             LOCATION OF COLLECTION CENTER IN YOUR
+ponents may be severely damaged by corrosion.             AREA. DO NOT OPEN A COOLING SYSTEM WHEN
+Maximum protection against freezing is provided           THE ENGINE IS AT OPERATING TEMPERATURE OR
+with a 68 percent antifreeze concentration, which         HOT UNDER PRESSURE, PERSONAL INJURY CAN
+prevents freezing down to -67.7 deg. C (-90 deg. F). A    RESULT. AVOID RADIATOR COOLING FAN WHEN
+higher percentage will freeze at a warmer tempera-        ENGINE COMPARTMENT RELATED SERVICE IS
+ture. Also, a higher percentage of antifreeze can         PERFORMED, PERSONAL INJURY CAN RESULT.
+cause the engine to overheat because the specific
+heat of antifreeze is lower than that of water.
+   Use of 100 percent ethylene-glycol will cause for-     CAUTION: Use of Propylene Glycol based coolants
+mation of additive deposits in the system, as the cor-    is not recommended, as they provide less freeze
+rosion inhibitive additives in ethylene-glycol require    protection and less corrosion protection.
+the presence of water to dissolve. The deposits act as
+                                                             The cooling system is designed around the coolant.
+insulation, causing temperatures to rise to as high as
+                                                          The coolant must accept heat from engine metal, in
+149 deg. C (300) deg. F). This temperature is hot
+                                                          the cylinder head area near the exhaust valves and
+enough to melt plastic and soften solder. The
+                                                          engine block. Then coolant carries the heat to the
+increased temperature can result in engine detona-
+                                                          radiator where the tube/fin radiator can transfer the
+tion. In addition, 100 percent ethylene-glycol freezes
+                                                          heat to the air.
+at 22 deg. C (-8 deg. F ).
+                                                             The use of aluminum cylinder blocks, cylinder
+                                                          heads, and water pumps requires special corrosion
+PROPYLENE - GLYCOL MIXTURES
+                                                          protection.      Mopart      Antifreeze/Coolant,    5
+  It’s overall effective temperature range is smaller
+                                                          Year/100,000 Mile Formula (MS-9769), or the equiva-
+than that of ethylene-glycol. The freeze point of 50/50
+                                                          lent ethylene glycol base coolant with organic corro-
+propylene-glycol and water is -32 deg. C (-26 deg. F).
+                                                          sion inhibitors (called HOAT, for Hybrid Organic
+5 deg. C higher than ethylene-glycol’s freeze point.
+                                                          Additive Technology) is recommended. This coolant
+The boiling point (protection against summer boil-
+                                                          offers the best engine cooling without corrosion when
+over) of propylene-glycol is 125 deg. C (257 deg. F )
+                                                          mixed with 50% Ethylene Glycol and 50% distilled
+at 96.5 kPa (14 psi), compared to 128 deg. C (263
+                                                          water to obtain a freeze point of -37°C (-35°F). If it
+deg. F) for ethylene-glycol. Use of propylene-glycol
+                                                          loses color or becomes contaminated, drain, flush,
+can result in boil-over or freeze-up on a cooling sys-
+                                                          and replace with fresh properly mixed coolant solu-
+tem designed for ethylene-glycol. Propylene glycol
+                                                          tion.
+also has poorer heat transfer characteristics than
+ethylene glycol. This can increase cylinder head tem-
+peratures under certain conditions.
+  Propylene-glycol/ethylene-glycol    Mixtures      can
+cause the destabilization of various corrosion inhibi-
+

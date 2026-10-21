@@ -1,0 +1,60 @@
+TJ                                                                              SPEED CONTROL         8P - 5
+
+  (7) Pull speed control cable sleeve and servo away
+from servo mounting bracket to expose cable retain-
+ing clip (Fig. 4) and remove clip. Note: The servo
+mounting bracket displayed in (Fig. 4) is a typical
+bracket and may/may not be applicable to this model
+vehicle.
+  (8) Remove servo from mounting bracket. While
+removing, note orientation of servo to bracket.
+
+
+
+
+                                                         Fig. 4 SERVO CABLE CLIP REMOVE/INSTALL -
+                                                                         TYPICAL
+                                                       1 - SERVO MOUNTING NUTS (2)
+                                                       2 - SERVO
+                                                       3 - CABLE RETAINING CLIP
+                                                       4 - SERVO CABLE AND SLEEVE
+
+                                                       INSTALLATION
+                                                         (1) Position servo to mounting bracket.
+                                                         (2) Align hole in cable connector with hole in servo
+                                                       pin. Install cable-to-servo retaining clip.
+                                                         (3) Insert servo mounting studs through holes in
+                                                       servo mounting bracket.
+                                                         (4) Install servo mounting nuts and tighten to 8.5
+                                                       N·m (75 in. lbs.).
+     Fig. 3 SPEED CONTROL SERVO LOCATION
+                                                         (5) Connect vacuum line at servo.
+1 - BRAKE POWER BOOSTER
+2 - VACUUM LINE
+                                                         (6) Connect electrical connector at servo.
+3 - SERVO                                                (7) Connect servo cable to throttle body. Refer to
+4 - BRACKET BOLTS (3)                                  Cable Removal/Installation.
+5 - SERVO MOUNTING BRACKET
+                                                         (8) Connect negative battery cable to battery.
+                                                         (9) Before starting engine, operate accelerator
+                                                       pedal to check for any binding.
+
+
+                                                       SWITCH
+                                                       DESCRIPTION
+                                                         There are two separate switch pods that operate
+                                                       the speed control system. The steering-wheel-
+                                                       mounted switches use multiplexed circuits to provide
+                                                       inputs to the PCM for ON, OFF, RESUME, ACCEL-
+                                                       ERATE, SET, DECEL and CANCEL modes. Refer to
+                                                       the owner’s manual for more information on speed
+                                                       control switch functions and setting procedures.
+                                                         The individual switches cannot be repaired. If one
+                                                       switch fails, the entire switch module must be
+                                                       replaced.
+
+                                                       OPERATION
+                                                         When speed control is selected by depressing the
+                                                       ON, OFF switch, the PCM allows a set speed to be
+                                                       stored in its RAM for speed control. To store a set
+

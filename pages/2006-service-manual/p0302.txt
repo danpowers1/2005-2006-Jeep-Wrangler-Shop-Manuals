@@ -1,0 +1,53 @@
+6-2      CLUTCH                                                                                                  TJ
+
+Also worn/loose release fork, pivot stud, clutch disc,      the flywheel face with a dial indicator. Mount the
+pressure plate or release bearing.                          indicator on a stud installed in place of one of the fly-
+  Engagement problems can result in slip, chatter/          wheel bolts.
+shudder and noisy operation. The causes may be                 Common causes of runout are:
+clutch disc contamination, wear, distortion or fly-            • heat warpage
+wheel damage. Visually inspect to determine the                • improper machining
+actual cause of the problem.                                   • incorrect bolt tightening
+                                                               • improper seating on crankshaft flange shoulder
+CLUTCH MISALIGNMENT                                            • foreign material on crankshaft flange
+  Clutch components must be in proper alignment                Flywheel machining is not recommended. The fly-
+with the crankshaft and transmission input shaft.           wheel clutch surface is machined to a unique contour
+Misalignment caused by excessive runout or warpage          and machining will negate this feature. Minor fly-
+of any clutch component will cause grab, chatter and        wheel scoring can be cleaned up by hand with 180
+improper clutch release.                                    grit emery or with surface grinding equipment.
+                                                            Remove only enough material to reduce scoring
+PRESSURE PLATE AND DISC RUNOUT                              (approximately 0.001 - 0.003 in.). Heavy stock
+   Check the clutch disc before installation. Axial         removal is not recommended. Replace the flywheel
+(face) runout of a new disc should not exceed 0.50          if scoring is severe and deeper than 0.076 mm (0.003
+mm (0.020 in.). Measure runout about 6 mm (1/4 in.)         in.). Excessive stock removal can result in flywheel
+from the outer edge of the disc facing. Obtain              cracking or warpage after installation; it can also
+another disc if runout is excessive.                        weaken the flywheel and interfere with proper clutch
+   Check condition of the clutch before installation. A     release.
+warped cover or diaphragm spring will cause grab               Clean the crankshaft flange before mounting the
+and incomplete release or engagement. Be careful            flywheel. Dirt and grease on the flange surface may
+when handling the cover and disc. Impact can distort        cock the flywheel causing excessive runout. Use new
+the cover, diaphragm spring, release fingers and the        bolts when remounting a flywheel and secure the
+hub of the clutch disc.                                     bolts with Mopar Lock And Seal or equivalent.
+   Use an alignment tool when positioning the disc on       Tighten flywheel bolts to specified torque only. Over-
+the flywheel. The tool prevents accidental misalign-        tightening can distort the flywheel hub causing
+ment which could result in cover distortion and disc        runout.
+damage.
+   A frequent cause of clutch cover distortion (and         DIAGNOSIS CHART
+consequent misalignment) is improper bolt tighten-            The diagnosis charts Diagnosis Chart describe
+ing.                                                        common clutch problems, causes and correction. Con-
+                                                            ditions, causes and corrective action are outlined in
+FLYWHEEL RUNOUT                                             the indicated columns.
+  Check flywheel runout whenever misalignment is
+suspected. Flywheel runout should not exceed 0.08
+mm (0.003 in.). Measure runout at the outer edge of
+
+                                             DIAGNOSIS CHART
+
+            CONDITION                         POSSIBLE CAUSES                             CORRECTION
+
+Disc facing worn out                   1. Normal wear.                          1. Replace cover and disc.
+                                       2. Driver frequently rides (slips) the   2. Replace cover and disc.
+                                       clutch. Results in rapid overheating
+                                       and wear.
+                                       3. Insufficient clutch cover dia-        3. Replace cover and disc.
+                                       phragm spring tension.
+

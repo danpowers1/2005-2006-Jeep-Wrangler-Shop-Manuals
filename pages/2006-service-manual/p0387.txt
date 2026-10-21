@@ -1,0 +1,40 @@
+TJ                                                           ELECTRONIC CONTROL MODULES              8E - 11
+
+SENTRY KEY IMMOBILIZER MODULE
+DESCRIPTION
+
+
+
+
+                               Fig. 9 Sentry Key Immobilizer Module - Typical
+1 - UPPER SHROUD                                        5 - IGNITION LOCK CYLINDER
+2 - STEERING COLUMN                                     6 - SCREW
+3 - WIRE HARNESS CONNECTOR                              7 - LOWER SHROUD
+4 - SENTRY KEY IMMOBILIZER MODULE                       8 - STEERING WHEEL
+
+
+
+  The Sentry Key Immobilizer Module (SKIM) is the       result in Sentry Key transponder-related faults. The
+primary component of the Sentry Key Immobilizer         SKIM also communicates over the Programmable
+System (SKIS) (Fig. 9). The SKIM is located in the      Communications Interface (PCI) data bus with the
+steering column, below the ignition lock cylinder       Powertrain Control Module (PCM), the ElectroMe-
+housing. The SKIM has an integral halo-like antenna     chanical Instrument Cluster (EMIC) and/or the
+ring that extends from one end. When the SKIM is        DRBIIIt scan tool.
+properly installed on the steering column, the             The SKIM retains in memory the ID numbers of
+antenna ring is oriented around the circumference of    any Sentry Key transponder that is programmed into
+the ignition lock cylinder housing.                     it. A maximum of eight Sentry Key transponders can
+  The SKIM cannot be adjusted or repaired. If faulty    be programmed into the SKIM. For added system
+or damaged, the entire SKIM unit must be replaced.      security, each SKIM is programmed with a unique
+                                                        Secret Key code. This code is stored in memory, sent
+OPERATION                                               over the PCI data bus to the PCM, and is encoded to
+  The Sentry Key Immobilizer Module (SKIM) con-         the transponder of every Sentry Key that is pro-
+tains a Radio Frequency (RF) transceiver and a          grammed into the SKIM. Therefore, the Secret Key
+microprocessor. The SKIM transmits RF signals to,       code is a common element that is found in every com-
+and receives RF signals from the Sentry Key tran-       ponent of the Sentry Key Immobilizer System (SKIS).
+sponder through a tuned antenna enclosed within the     Another security code, called a PIN, is used to gain
+molded plastic antenna ring integral to the SKIM        access to the SKIM Secured Access Mode. The
+housing. If this antenna ring is not mounted properly   Secured Access Mode is required during service to
+around the ignition lock cylinder housing, communi-     perform the SKIS initialization and Sentry Key tran-
+cation problems between the SKIM and the transpon-      sponder programming procedures. The SKIM also
+der may arise. These communication problems will        stores the Vehicle Identification Number (VIN) in its
+

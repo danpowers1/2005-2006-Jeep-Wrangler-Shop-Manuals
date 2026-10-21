@@ -1,0 +1,75 @@
+TJ                                                                                     RESTRAINTS       8O - 17
+
+                                                          spring case is positioned and secured to the upper
+                                                          steering column housing near the top of the steering
+                                                          column. The connector receptacles on the tail of the
+                                                          fixed clockspring case connect the clockspring to the
+                                                          vehicle electrical system through two take outs with
+                                                          connectors from the body wire harness.
+                                                             The clockspring rotor is movable and is keyed by
+                                                          two flats molded into the rotor hub to two flats that
+                                                          are cast into the lower surface of the steering wheel
+                                                          armature. The two lobes on the turn signal cancel
+                                                          cam on the lower surface of the clockspring rotor hub
+                                                          contact a turn signal cancel actuator of the multi-
+                                                          function switch to provide automatic turn signal can-
+                                                          cellation. The pigtail wires on the upper surface of
+                                                          the clockspring rotor connect the clockspring to the
+                                                          driver airbag, the horn switch, and the two speed
+          Fig. 16 Turn Signal Cancel Cam
+                                                          control switches if the vehicle is so equipped.
+1 - AIRBAG PIGTAIL                                           Like the clockspring in a timepiece, the clockspring
+2 - LOCKING PIN
+3 - LATCH (2)                                             tape has travel limits and can be damaged by being
+4 - CANCEL CAM                                            wound too tightly during full stop-to-stop steering
+5 - LOWER CONNECTOR RECEPTACLE (2)
+6 - HORN SWITCH FEED PIGTAIL
+                                                          wheel rotation. To prevent this from occurring, the
+7 - SPEED CONTROL SWITCH PIGTAIL (2)                      clockspring is centered when it is installed on the
+                                                          steering column. Centering the clockspring indexes
+  The lower surface of the rotor hub has a molded         the clockspring tape to the movable steering compo-
+plastic turn signal cancel cam consisting of two lobes    nents so that the tape can operate within its
+that are molded into the rotor. Within the plastic        designed travel limits. However, if the clockspring is
+case and wound around the rotor spool is a long rib-      removed from the steering column or if the steering
+bon-like tape that consists of several thin copper wire   shaft is disconnected from the steering gear, the
+leads sandwiched between two thin plastic mem-            clockspring spool can change position relative to the
+branes. The outer end of the tape terminates at the       movable steering components. The clockspring must
+connector receptacles that face the instrument panel,     be re-centered following completion of this service or
+while the inner end of the tape terminates at the pig-    the tape may be damaged.
+tail wires on the hub of the clockspring rotor that          Service replacement clocksprings are shipped pre-
+face the steering wheel.                                  centered and with a plastic locking pin installed.
+  Service replacement clocksprings are shipped pre-       This locking pin should not be disengaged until the
+centered and with a molded plastic locking pin that       clockspring has been installed on the steering col-
+snaps into a receptacle in the rotor and has a tab        umn. If the locking pin is removed or damaged before
+that is engaged between two ribs on the upper sur-        the clockspring is installed on a steering column, the
+face of the clockspring case. The locking pin secures     clockspring centering procedure must be performed.
+the centered clockspring rotor to the clockspring case    (Refer to 8 - ELECTRICAL/RESTRAINTS/CLOCK-
+during shipment, but the locking pin must be              SPRING - STANDARD PROCEDURE - CLOCK-
+removed from the clockspring after it is installed on     SPRING CENTERING).
+the steering column. (Refer to 8 - ELECTRICAL/RE-
+STRAINTS/CLOCKSPRING - STANDARD PROCE-                    STANDARD PROCEDURE - CLOCKSPRING
+DURE - CLOCKSPRING CENTERING).
+                                                          CENTERING
+  The clockspring cannot be repaired. If the clock-
+                                                             The clockspring is designed to wind and unwind
+spring is faulty, damaged, or if the driver airbag has
+                                                          when the steering wheel is rotated, but is only
+been deployed, the clockspring must be replaced.
+                                                          designed to rotate the same number of turns (about
+                                                          five complete rotations) as the steering wheel can be
+OPERATION                                                 turned from stop to stop. Centering the clockspring
+  The clockspring is a mechanical electrical circuit
+                                                          indexes the clockspring tape to other steering compo-
+component that is used to provide continuous electri-
+                                                          nents so that it can operate within its designed
+cal continuity between the fixed body wire harness
+                                                          travel limits. The rotor of a centered clockspring can
+on the steering column and the electrical components
+                                                          be rotated two and one-half turns in either direction
+mounted on or in the rotating steering wheel. On this
+                                                          from the centered position, without damaging the
+model the rotating electrical components include the
+                                                          clockspring tape.
+driver airbag, the horn switch, and the speed control
+switches if the vehicle is so equipped. The clock-
+

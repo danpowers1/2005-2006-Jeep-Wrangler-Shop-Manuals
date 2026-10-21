@@ -1,0 +1,49 @@
+24 - 32     CONTROLS                                                                                       TJ
+
+ (5) Install the airbag control module (Refer to 8 -     isolate the battery negative (ground) cable, then
+ELECTRICAL/RESTRAINTS/AIRBAG             CONTROL         wait two minutes for the airbag system capacitor to
+MODULE - INSTALLATION).                                  discharge before performing further diagnosis or
+                                                         service. This is the only sure way to disable the air-
+                                                         bag system. Failure to take the proper precautions
+RECIRCULATION DOOR ACTU-                                 could result in accidental airbag deployment and
+ATOR                                                     possible personal injury or death.
+
+                                                         NOTE: The recirculation-air door and actuator are
+DESCRIPTION                                              used only on models equipped with A/C.
+   When equipped with A/C, a vacuum operated recir-
+culation door actuator is used to control the move-        (1) Disconnect and isolate the negative battery
+ment of the recirculation-air door within the HVAC       cable.
+housing (Fig. 33).                                         (2) Remove the glove box (Refer to 23 - BODY/IN-
+   When vacuum is supplied by the A/C-heater control     STRUMENT PANEL/GLOVE BOX - REMOVAL).
+to the recirculation door actuator, the actuator link-     (3) Remove the right front speaker bezel and
+age is pulled into the actuator, which moves the         speaker (Refer to 8 - ELECTRICAL/AUDIO/
+recirculation door lever and recirculation door to the   SPEAKER - REMOVAL).
+Recirculation position. The recirculation door actua-      (4) Using a small flat bladed tool, gently pry the
+tor is spring loaded, so when vacuum is released         actuator latch while pulling firmly outwards on the
+from the actuator, the linkage moves the recircula-      actuator (Fig. 34). Rotate and tilt the actuator as
+tion-air door back to its static position (fresh air).   required to remove the actuator from the HVAC air
+   The recirculation door actuator can be accessed for   inlet housing mount.
+service through the glove box opening in the instru-       (5) Disengage the actuator rod from the push-pin
+ment panel.                                              type retainer located on the end of the recirculation
+   The recirculation door actuator cannot be adjusted    door actuator lever.
+or repaired and, if faulty or damaged, it must be          (6) Disconnect the vacuum harness from the recir-
+replaced.                                                culation door actuator and remove the actuator from
+                                                         the vehicle.
+
+
+
+
+          Fig. 33 Recirculation Door Actuator
+1 - RECIRCULATION DOOR ACTUATOR                                  Fig. 34 Recirculation Door Actuator
+2 - VACUUM CONNECTOR RECEPTACLE
+3 - ACTUATOR ROD                                         1 - VACUUM HARNESS
+4 - ACTUATOR MOUNT                                       2 - ACTUATOR LATCH
+                                                         3 - RECIRCULATION DOOR ACTUATOR LEVER
+                                                         4 - HVAC AIR INLET HOUSING
+REMOVAL                                                  5 - RECIRCULATION DOOR ACTUATOR
+
+WARNING: On vehicles equipped with airbags, dis-         INSTALLATION
+able the airbag system before attempting any steer-
+ing wheel, steering column, or instrument panel          NOTE: The recirculation-air door and actuator are
+component diagnosis or service. Disconnect and           used only on models equipped with A/C.
+

@@ -1,0 +1,61 @@
+8J - 8    INSTRUMENT CLUSTER                                                                                  TJ
+
+appropriate PCI message inputs for that optional sys-     data bus requires the use of a DRBIIIt scan tool.
+tem or equipment. Once a configurable indicator is        Refer to the appropriate diagnostic information.
+enabled by the EMIC, it is learned and stored in
+cluster memory for the remainder of the cluster life.     AUDIO SYSTEM CABIN EQUALIZATION
+  The hard wired indicator inputs may be diagnosed           Each time the EMIC receives an electronic cabin
+using conventional diagnostic methods. However, the       equalization request message from the radio over the
+EMIC circuitry and PCI bus message controlled indi-       PCI data bus, it provides an electronic response to
+cators are diagnosed using the EMIC self-diagnostic       the radio containing the appropriate equalization
+actuator test. (Refer to 8 - ELECTRICAL/INSTRU-           curve information. Because there are numerous
+MENT CLUSTER - DIAGNOSIS AND TESTING).                    optional radios which are common to many platforms
+Proper testing of the PCI data bus and the electronic     and available with various speaker architectures,
+message inputs to the EMIC that control an indicator      each radio contains a Digital Signal Processing (DSP)
+requires the use of a DRBIIIt scan tool. Refer to the     microprocessor chip. This DSP chip uses the equal-
+appropriate diagnostic information. Specific details of   ization curve information to optimize the radio’s
+the operation for each indicator may be found else-       sound output characteristics for the unique cabin and
+where in this service information.                        speaker architecture found within the particular
+                                                          vehicle into which the radio has been installed.
+CLUSTER ILLUMINATION                                         Proper testing of the PCI data bus and the elec-
+   The EMIC has several illumination lamps that are       tronic data bus message inputs to and outputs from
+illuminated when the exterior lighting is turned on       the EMIC that control audio system cabin equaliza-
+with the headlamp switch circuitry of the left multi-     tion requires the use of a DRBIIIt scan tool. Refer to
+function switch. The illumination intensity of these      the appropriate diagnostic information.
+lamps is adjusted when the interior lamps control
+ring on the left multi-function switch control stalk is   AXLE LOCKER CONTROL
+rotated (downward to dim, upward to brighten). In            The EMIC contains a logic circuit and program-
+response to that input, an analog/digital (A/D) con-      ming to perform the axle locker control functions for
+verter in the EMIC converts the analog panel lamps        models equipped with the optional off-road package.
+dimmer resistor multiplexed input from the left           The EMIC monitors hard wired inputs from the igni-
+multi-function switch into a digital dimming level        tion switch on the fused ignition switch output (run-
+message and a 12-volt Pulse-Width Modulated               start) circuit and the key-in ignition switch on the
+(PWM) output. The EMIC uses the PWM output to             key-in ignition switch sense circuit. The EMIC also
+power the cluster illumination lamps and the VFD          monitors vehicle speed and transfer case shift posi-
+unit on the EMIC circuit board, then provides a syn-      tion switch electronic message inputs received from
+chronized PWM output on the hard wired fused              the Powertrain Control Module (PCM) over the PCI
+panel lamp feed output circuit to control and syn-        data bus. The internal programming of the EMIC
+chronize the illumination intensity of other incandes-    then determines whether to activate or deactivate
+cent illumination lamps in the vehicle. The cluster       the axle locker function by enabling or disabling the
+illumination lamps are grounded at all times.             axle lock switch located in the instrument panel
+   The EMIC also sends electronic dimming level           accessory switch bezel.
+messages over the PCI data bus to other electronic           The EMIC programming controls the axle lock
+modules in the vehicle to control and synchronize the     switch through two separate axle lock switch enable
+illumination intensity of their VFD units with that of    circuits, enable 1 and enable 2. In all cases, the
+the EMIC VFD unit. In addition, the interior lamps        EMIC will not activate either enable circuit if there
+control ring on the left multi-function switch control    are any transfer case shift position switch or vehicle
+stalk has a Parade Mode position to provide a parade      speed sensor faults present. Whenever the ignition
+mode. The EMIC monitors the request for this mode         switch is in the On or Start positions, the key is in
+from the left multi-function switch, then sends an        the ignition lock cylinder, the transfer case is in 4 X
+electronic dimming level message over the PCI data        4 Low range, and the vehicle speed is less than about
+bus to illuminate all VFD units in the vehicle at full    72 kilometers per hour (45 miles per hour) the first
+(daytime) intensity for easier visibility when driving    enable (enable 1) circuit is activated. The second
+in daylight with the exterior lighting turned on.         enable (enable 2) circuit is activated only if the vehi-
+   The hard wired left multi-function switch cluster      cle speed is less than about 16 kilometers per hour
+illumination inputs and the EMIC fused panel lamp         (10 miles per hour). When both enable circuits are
+feed output may be diagnosed using conventional           activated, the axle lock switch becomes functional.
+diagnostic methods. However, proper testing of the           Once activated, the enable 1 circuit is automati-
+PWM control of the EMIC and the electronic dim-           cally deactivated whenever the transfer case is
+ming level messages sent by the EMIC over the PCI         moved out of the 4 X 4 Low range, or if the vehicle
+                                                          speed is greater than about 72 kilometers per hour
+

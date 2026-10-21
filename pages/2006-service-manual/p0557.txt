@@ -1,0 +1,61 @@
+TJ                                                                                      RESTRAINTS        8O - 3
+
+buckle secured to the inboard side of each front seat
+track. The front seat belt buckle for the driver side of
+all models includes an integral seat belt switch that
+electrically detects whether the driver seat belt has
+been fastened.
+   • Rear Seat Belts - On models equipped with a
+rear seat, both rear seating positions are equipped
+with three-point seat belt systems. The rear seating
+position belts employ a lower sport bar mounted iner-
+tia latch-type retractor, fixed upper sport bar
+mounted turning loops, a fixed lower seat belt anchor
+secured to the inner rear wheelhouse panel, and a
+fixed end-release seat belt buckle secured to the rear
+floor panel.
+   • Child Restraint Anchors - All vehicles without
+a rear seat are equipped with a single, fixed-position,
+                                                                             Fig. 2 SRS Logo
+child seat upper tether anchor and two fixed lower
+anchors for the front passenger seat. The upper               The supplemental restraint system includes the
+anchor is integral to the seat riser bracket and is        following major components, which are described in
+accessed from behind the front seat. The two lower         further detail elsewhere in this service information:
+anchors are also integral to the seat riser bracket,          • Airbag Control Module - The Airbag Control
+but are accessed from the front of the seat where the      Module (ACM) is located on a mount on the floor
+seat back meets the seat cushion. Vehicles equipped        panel transmission tunnel, below the center of the
+with a rear seat have two fixed-position, child seat       instrument panel.
+upper tether anchors on the rear floor panel behind           • Airbag Indicator - The airbag indicator is inte-
+the rear seat just forward of the tailgate opening,        gral to the ElectroMechanical Instrument Cluster
+and four lower anchors that are integral to the rear       (EMIC), which is located on the instrument panel in
+seat back. The inboard rear seat lower anchors are         front of the driver.
+accessed from the front of the seat where the seat            • Clockspring - The clockspring is located near
+back meets the seat cushion. The outboard rear seat        the top of the steering column, directly beneath the
+lower anchors are accessed between the seat hinge          steering wheel.
+bracket on each outboard end of the rear seat, just           • Driver Airbag - The driver airbag is located in
+above the seat back pivot. The child seat tether and       the center of the steering wheel, beneath the driver
+lower anchors for the front passenger seat are             airbag trim cover.
+deleted on models equipped with a rear seat.                  • Driver Knee Blocker - The driver knee blocker
+                                                           is a molded plastic structural unit secured to the
+PASSIVE RESTRAINTS                                         back side of and integral to the instrument panel
+   The passive restraints available for this model         steering column opening cover.
+include Next Generation driver and front passenger            • Passenger Airbag - The passenger airbag is
+airbags. This airbag system is a passive, inflatable,      located on the instrument panel, beneath the passen-
+Supplemental Restraint System (SRS) and vehicles           ger airbag door on the instrument panel above the
+with this equipment can be readily identified by the       glove box on the passenger side of the vehicle.
+“SRS - AIRBAG” logo molded into the driver airbag             • Passenger Airbag On/Off Switch - Models
+trim cover in the center of the steering wheel and         without a rear seat are equipped with a passenger
+also into the passenger airbag door on the instru-         airbag on/off switch, which is located in a dedicated
+ment panel above the glove box (Fig. 2). Vehicles          opening on the passenger side of the accessory switch
+with the airbag system can also be identified by the       bezel in the lower center stack area of the instru-
+airbag indicator, which will illuminate in the instru-     ment panel.
+ment cluster for about seven seconds as a bulb test           • Passenger Knee Blocker - The passenger knee
+each time the ignition switch is turned to the On          blocker is a structural reinforcement that is integral
+position.                                                  to and concealed within the glove box door.
+                                                              The ACM and the EMIC each contain a central
+                                                           processing unit and programming that allow them to
+                                                           communicate with each other using the Programma-
+                                                           ble Communication Interface (PCI) data bus network.
+                                                           This method of communication is used by the ACM
+                                                           for control of the airbag indicator on all models
+

@@ -1,0 +1,61 @@
+TJ                                                                              REAR AXLE - 194RBI         3 - 103
+
+  (18) Position the dial indicator plunger on a flat         transfer the necessary amount of shim thickness
+surface between the ring gear bolt heads (Fig. 16).          from one side of the differential housing to the other
+  (19) Push and hold differential case toward pinion         (Fig. 20).
+gear.                                                          (35) Verify differential case and ring gear runout
+  (20) Zero dial indicator face to pointer.                  by measuring ring to pinion gear backlash at eight
+  (21) Push and hold differential case to ring gear          locations around the ring gear. Readings should not
+side of the housing and record dial indicator reading.       vary more than 0.05 mm (0.002 in.). If readings vary
+  (22) Subtract 0.002 in. (0.05 mm) from the dial            more than specified, the ring gear or the differential
+indicator reading to compensate for backlash between         case is defective.
+ring and pinion gears. This total is the thickness of          After the proper backlash is achieved, perform the
+shim required to achieve proper backlash.                    Gear Contact Pattern Analysis procedure.
+  (23) Subtract the backlash shim thickness from
+the total preload shim thickness. The remainder is
+the shim thickness required on the pinion side of the
+housing.
+  (24) Rotate dial indicator out of the way on pilot
+stud.
+  (25) Remove differential case and dummy bearings
+from the housing.
+  (26) Install new side bearing cones and cups on
+differential case.
+  (27) Install spreader W-129-B and some compo-
+nents of Adapter Set 6987 on differential housing and
+spread axle opening enough to receive differential
+case.
+  (28) Place side bearing shims into the housing
+against the differential bearing bore.
+  (29) Install differential case in the housing.
+  (30) Rotate the differential case several times to
+seat the side bearings.
+  (31) Position the indicator plunger against a ring
+gear tooth (Fig. 19).
+
+                                                                   Fig. 20 BACKLASH SHIM ADJUSTMENT
+                                                             GEAR CONTACT PATTERN
+                                                                The ring gear and pinion teeth contact patterns
+                                                             will show if the pinion depth is correct in the hous-
+                                                             ing. It will also show if the ring gear backlash has
+                                                             been adjusted correctly. The backlash can be adjusted
+                                                             within specifications to achieve desired tooth contact
+                                                             patterns.
+                                                                The TOP LAND of the gear tooth is the top surface
+                                                             of the tooth. The PROFILE of the gear tooth is the
+                                                             depth of the tooth. The TOE of the gear is the por-
+                                                             tion of the tooth surface at the end towards the cen-
+                                                             ter. The HEEL of the gear is the portion of the tooth
+                                                             at the outer-end. The ROOT of the gear tooth is the
+                                                             lowest portion of the tooth (Fig. 21).
+           Fig. 19 RING GEAR BACKLASH
+1 - DIAL INDICATOR                                           NOTE: If the PROFILE across the tooth is the same
+                                                             it is a 3 Axis cut gear. If the PROFILE across the
+  (32) Push and hold ring gear upward while not              tooth is tapered it is a 2 Axis cut gear.
+allowing the pinion gear to rotate.
+  (33) Zero dial indicator face to pointer.
+  (34) Push and hold ring gear downward while not
+allowing the pinion gear to rotate. Dial indicator
+reading should be between 0.12 mm - 0.20 mm (0.005
+in. - 0.008 in.). If backlash is not within specifications
+

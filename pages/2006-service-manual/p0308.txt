@@ -1,0 +1,67 @@
+6-8      CLUTCH                                                                                             TJ
+
+OPERATION                                                   PILOT BEARING
+  The flywheel serves to dampen the engine firing
+pulses. The heavy weight of the flywheel relative to        REMOVAL
+the rotating mass of the engine components serves to          (1) Remove transmission.
+stabilize the flow of power to the remainder of the           (2) Remove pressure plate and clutch disc.
+drivetrain. The crankshaft has the tendency to                (3) Remove pilot bearing with an internal (blind
+attempt to speed up and slow down in response to            hole) puller.
+the cylinder firing pulses. The flywheel dampens
+these impulses by absorbing energy when the crank-          INSTALLATION
+shaft speeds and releasing the energy back into the           (1) Lubricate new bearing with Mopar high tem-
+system when the crankshaft slows down.                      perature bearing grease or equivalent.
+  On a Dual Mass Flywheel the additional secondary            (2) Start new bearing into crankshaft by hand.
+mass coupled to the transmission lowers the natural         Then seat bearing with clutch alignment tool (Fig.
+frequency of the transmission rotating elements. This       6).
+decreases the transmission gear rattle. The damper
+springs between the two flywheel masses replace the
+clutch disc damper springs and assist in a smooth
+transfer of torque to the transmission.
+
+CAUTION: The Dual Mass Flywheel is serviced as
+an assembly only and should never be taken apart.
+Failure to heed caution may result in damage.
+
+
+DIAGNOSIS AND TESTING
+   Check flywheel runout whenever misalignment is
+suspected. Flywheel runout should not exceed 0.08
+mm (0.003 in.). Measure runout at the outer edge of
+the flywheel face with a dial indicator. Mount the
+indicator on a stud installed in place of one of the fly-
+wheel bolts.                                                        Fig. 6 PILOT BEARING INSTALLER
+   Common causes of runout are:                             1 - PILOT BEARING
+   • heat warpage                                           2 - ALIGNMENT TOOL
+   • improper machining
+   • incorrect bolt tightening                                (3) Lightly scuff sand flywheel surface with 180
+   • improper seating on crankshaft flange shoulder         grit emery cloth. Then clean surface with wax and
+   • foreign material on crankshaft flange                  grease remover.
+   Flywheel machining is not recommended. The fly-            (4) Install clutch disc and pressure plate.
+wheel clutch surface is machined to a unique contour          (5) Install transmission.
+and machining will negate this feature. Minor fly-
+wheel scoring can be cleaned up by hand with 180
+grit emery or with surface grinding equipment.
+                                                            LINKAGE
+Remove only enough material to reduce scoring
+(approximately 0.001 - 0.003 in.). Heavy stock              REMOVAL
+removal is not recommended. Replace the flywheel
+                                                            NOTE: Clutch master cylinder, slave cylinder and
+if scoring is severe and deeper than 0.076 mm (0.003
+                                                            connecting line are serviced as an assembly only.
+in.). Excessive stock removal can result in flywheel
+                                                            Components cannot be overhauled or serviced sep-
+cracking or warpage after installation; it can also
+                                                            arately. Cylinders and connecting line are sealed
+weaken the flywheel and interfere with proper clutch
+                                                            units.
+release.
+   Clean the crankshaft flange before mounting the            Removal/installation procedures for right and left
+flywheel. Dirt and grease on the flange surface may         hand drive models are basically the same.
+cock the flywheel causing excessive runout. Use new           (1) With vehicle in neutral, position vehicle on
+bolts when remounting a flywheel and secure the             hoist
+bolts with Mopar Lock And Seal or equivalent.                 (2) Remove fasteners attaching slave cylinder to
+Tighten flywheel bolts to specified torque only. Over-      clutch housing.
+tightening can distort the flywheel hub causing
+runout.
+

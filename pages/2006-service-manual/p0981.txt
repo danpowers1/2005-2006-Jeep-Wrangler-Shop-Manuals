@@ -1,0 +1,49 @@
+TJ                                                                                  ENGINE 2.4L       9 - 21
+
+                                                      per cylinder (Fig. 7). The valves are arrange in two
+                                                      in-line banks. The intake valves face toward the left
+                                                      side of the vehicle. The exhaust valves face the right
+                                                      side. The cylinder head incorporates powdered metal
+                                                      valve guides and seats. The cylinder head is sealed to
+                                                      the block using a multi-layer steel head gasket and
+                                                      retaining bolts.
+                                                        Integral oil galleries providing lubrication passages
+                                                      to the hydraulic lash adjusters, camshafts, and valve
+                                                      mechanisms.
+
+
+
+
+       Fig. 6 AIR CLEANER ELEMENT - 2.4L
+1 - COVER
+2 - HOUSING
+3 - CLAMP
+4 - SPRING CLIPS                                              Fig. 7 Cylinder Head and Camshafts
+5 - HOUSING MOUNTING NUT
+                                                      1 - CAMSHAFT BEARING CAPS
+  (6) Remove vent hose.                               2 - PLUG
+                                                      3 - CAMSHAFT
+  (7) Remove the housing mounting nut.                4 - CYLINDER HEAD
+  (8) Remove the air cleaner housing.                 5 - CAMSHAFT OIL SEAL
+
+INSTALLATION                                          OPERATION
+  (1) Install the air cleaner housing mounting           The cylinder head closes the combustion chamber,
+bracket.                                              allowing the pistons to compress the fuel/air mixture
+  (2) Install the air cleaner housing and mounting    for ignition. The valves are actuated by the lobe pro-
+nut. Tighten nut to 4.5 N·m ( 40 in. lbs.).           files on the camshaft to open and close at specified
+  (3) Install vent hose.                              duration to either allow clean air in the combustion
+  (4) Install air cleaner element into the housing.   chamber or the exhaust gases out; depending on the
+  (5) Position the housing cover into the locating    stroke of the engine.
+tabs on the housing and install the cover.
+  (6) Pry up the spring clips and lock the cover in
+place.                                                DIAGNOSIS AND TESTING
+  (7) Install the air intake duct. (Fig. 6)
+  (8) Install the air outlet duct.                    CYLINDER HEAD GASKET
+                                                        A cylinder head gasket leak can be located between
+                                                      adjacent cylinders or between a cylinder and the
+CYLINDER HEAD                                         adjacent water jacket.
+                                                        Possible indications of the cylinder head gasket
+DESCRIPTION                                           leaking between adjacent cylinders are:
+  The cross flow designed, aluminum cylinder head       • Loss of engine power
+contains dual over-head camshafts with four valves      • Engine misfiring
+

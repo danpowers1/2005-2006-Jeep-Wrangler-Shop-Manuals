@@ -1,0 +1,55 @@
+TJ                                                                                      PLUMBING       24 - 69
+
+  (11) If equipped, install the upper condenser/radia-    REMOVAL
+tor air seal.
+  (12) Install the radiator cooling fan and fan shroud    2.4L ENGINE
+(Refer to 7 - COOLING/ENGINE/FAN DRIVE VIS-
+COUS CLUTCH - INSTALLATION).                              WARNING: Refer to the applicable warnings and
+  (13) Connect the upper radiator hose to the radia-      cautions for this system before performing the fol-
+tor and install the hose clamp (Refer to 7 - COOL-        lowing operation (Refer to 24 - HEATING & AIR
+ING - OPERATION - HOSE CLAMPS).                           CONDITIONING/PLUMBING - WARNINGS) and (Refer
+  (14) Install the coolant recovery container (Refer to   to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+7 - COOLING/ENGINE/COOLANT RECOVERY                       CAUTIONS). Failure to follow the warnings and cau-
+CONTAINER - INSTALLATION).                                tions could result in possible personal injury or
+  (15) Reconnect the battery negative cable.              death.
+  (16) Fill the engine cooling system (Refer to 7 -
+COOLING - STANDARD PROCEDURE - COOLING                       (1) Disconnect and isolate the negative battery
+SYSTEM REFILLING)                                         cable.
+  (17) Evacuate the refrigerant system (Refer to 24 -        (2) Recover the refrigerant from the refrigerant
+HEATING & AIR CONDITIONING/PLUMBING -                     system (Refer to 24 - HEATING & AIR CONDITION-
+STANDARD PROCEDURE - REFRIGERANT SYS-                     ING/PLUMBING - STANDARD PROCEDURE -
+TEM EVACUATE).                                            REFRIGERANT SYSTEM RECOVERY).
+  (18) Charge the refrigerant system (Refer to 24 -          (3) Disconnect the wire harness connector from the
+HEATING & AIR CONDITIONING/PLUMBING -                     A/C pressure transducer located on the A/C discharge
+STANDARD PROCEDURE - REFRIGERANT SYS-                     line (Fig. 9).
+TEM CHARGE).                                                 (4) Remove the nut that secures the A/C discharge
+                                                          line to the A/C compressor.
+                                                             (5) Disconnect the A/C discharge line from the A/C
+A / C DISCHARGE LINE                                      compressor and remove and discard the O-ring seal.
+                                                             (6) Install plug in, or tape over the opened dis-
+DESCRIPTION                                               charge line fitting and the compressor port.
+  The A/C discharge line is the refrigerant line that        (7) Remove the nut that secures theA/C discharge
+carries refrigerant from the A/C compressor to the        line to the A/C condenser.
+A/C condenser. The A/C discharge line includes the           (8) Disconnect the A/C discharge line from the A/C
+high-side service port.                                   condenser and remove discard the O-ring seal.
+  The A/C discharge line on models equipped with             (9) Install plug in, or tape over the opened dis-
+the 2.4L engine include a fitting for the A/C pressure    charge line fitting and the condenser port.
+transducer. For more information refer to 24 - HEAT-         (10) Remove the A/C discharge line from the
+ING & AIR CONDITIONING/CONTROLS/A/C                       engine compartment and if required, remove the A/C
+PRESSURE TRANSDUCER - DESCRIPTION.                        pressure transducer from the A/C discharge line.
+  The A/C discharge line on models equipped with
+the 4.0L engine include a fitting for the A/C high
+pressure switch. For more information refer to 24 -
+HEATING & AIR CONDITIONING/CONTROLS/A/C
+HIGH PRESSURE SWITCH - DESCRIPTION.
+
+CAUTION: Use only seals specified for the vehicle.
+Failure to use the correct seals will cause the refrig-
+erant system connections to leak.
+
+   The A/C discharge line has no serviceable parts
+except for the O-ring seals and high-side service port
+valve and it’s protective cap.
+   If the A/C discharge line is found to be leaking or
+is damaged, it must be replaced.
+

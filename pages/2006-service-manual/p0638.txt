@@ -1,0 +1,61 @@
+8R - 30     REAR WIPERS/WASHERS                                                                              TJ
+
+   (1) Check the rear wiper and washer fuse (Fuse 6 -     Step 9. If not OK, repair the shorted rear wiper
+20 ampere) in the fuse block. If OK, go to Step 2. If     motor control circuit between the rear wiper motor
+not OK, repair the shorted circuit or component as        and the rear wiper and washer switch as required.
+required and replace the faulty fuse.                        (9) Check for continuity between the rear wiper
+   (2) Turn the ignition switch to the On position.       motor control circuit cavities of the hardtop wire har-
+Check for battery voltage at rear wiper and washer        ness connector for the rear wiper motor and the
+fuse (Fuse 6 - 20 ampere) in the fuse block. If OK, go    instrument panel wire harness connector for the rear
+to Step 3. If not OK, repair the open fused ignition      wiper and washer switch. There should be continuity.
+switch output (run) circuit between the fuse block        If OK, replace the faulty rear wiper motor. If not OK,
+and the ignition switch as required.                      repair the open rear wiper motor control circuit
+   (3) Turn the ignition switch to the Off position.      between the rear wiper motor and the rear wiper and
+Disconnect and isolate the battery negative cable.        washer switch as required.
+Disconnect the instrument panel wire harness con-
+nector for the rear wiper and washer switch from the      WASHER SYSTEM
+switch connector receptacle. Reconnect the battery           The diagnosis found here addresses an electrically
+negative cable. Turn the ignition switch to the On        inoperative rear washer system. If the rear washer
+position. Check for battery voltage at the fused igni-    pump/motor operates, but no washer fluid is emitted
+tion switch output (run) circuit cavity of the instru-    from the rear washer nozzle, be certain to check the
+ment panel wire harness connector for the rear wiper      fluid level in the reservoir. Also inspect the rear
+and washer switch. If OK, go to Step 4. If not OK,        washer system components as required. (Refer to 8 -
+repair the open fused ignition switch output (run) cir-   ELECTRICAL/REAR WIPERS/WASHERS - INSPEC-
+cuit between the rear wiper and washer switch and         TION). Refer to the appropriate wiring information.
+the fuse block as required.                               The wiring information includes wiring diagrams,
+   (4) Turn the ignition switch to the Off position.      proper wire and connector repair procedures, details
+Disconnect and isolate the battery negative cable.        of wire harness routing and retention, connector pin-
+Check for continuity between the ground circuit cav-      out information and location views for the various
+ity of the instrument panel wire harness connector        wire harness connectors, splices and grounds.
+for the rear wiper and washer switch and a good
+ground. There should be continuity. If OK, go to Step     WARNING: TO AVOID PERSONAL INJURY OR
+5. If not OK, repair the open ground circuit to ground    DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+(G200) as required.                                       DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+   (5) Test the rear wiper and washer switch continu-     TEM BEFORE ATTEMPTING ANY STEERING
+ity. (Refer to 8 - ELECTRICAL/REAR WIPERS/                WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+WASHERS/REAR WIPER/WASHER SWITCH -                        MENT PANEL COMPONENT DIAGNOSIS OR SER-
+DIAGNOSIS AND TESTING). If OK, go to Step 6. If           VICE. DISCONNECT AND ISOLATE THE BATTERY
+not OK, replace the faulty rear wiper and washer          NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+switch.                                                   MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+   (6) Disconnect the hardtop wire harness connector      CHARGE BEFORE PERFORMING FURTHER DIAG-
+for the rear wiper motor from the motor pigtail wire      NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+connector. Reconnect the battery negative cable. Turn     TO DISABLE THE SUPPLEMENTAL RESTRAINT
+the ignition switch to the On position. Check for bat-    SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+tery voltage at the fused ignition switch output (run)    CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+circuit cavity of the hardtop wire harness connector      BAG DEPLOYMENT.
+for the rear wiper motor. If OK, go to Step 7. If not
+OK, repair the open fused ignition switch output            (1) Turn the ignition switch to the On position.
+(run) circuit between the rear wiper motor and the        Place the rear wiper and washer switch rocker in the
+fuse block as required.                                   Wipe position. Check whether the rear wiper is oper-
+   (7) Turn the ignition switch to the Off position.      ating. If OK, go to Step 2. If not OK, repair the wiper
+Disconnect and isolate the battery negative cable.        system as required before you proceed with washer
+Check for continuity between the ground circuit cav-      system diagnosis. Refer to WIPER SYSTEM.
+ity of the hardtop wire harness connector for the rear      (2) Turn the ignition switch to the Off position.
+wiper motor and a good ground. There should be con-       Disconnect and isolate the battery negative cable.
+tinuity. If OK, go to Step 8. If not OK, repair the       Disconnect the body wire harness connector for the
+open ground circuit to ground (G302) as required.         rear washer pump/motor from the pump/motor con-
+   (8) Check for continuity between the rear wiper        nector receptacle. Check for continuity between the
+motor control circuit cavity of the hardtop wire har-     ground circuit cavity of the body wire harness con-
+ness connector for the rear wiper motor and a good        nector for the rear washer pump/motor and a good
+ground. There should be no continuity. If OK, go to       ground. There should be continuity. If OK, go to Step
+

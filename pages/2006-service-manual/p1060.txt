@@ -1,0 +1,53 @@
+9 - 100    ENGINE 4.0L                                                                                        TJ
+
+                                                          INSPECTION
+                                                            (1) It is mandatory to use a dial bore gauge to
+                                                          measure each cylinder bore diameter (Fig. 32). To
+                                                          correctly select the proper size piston, a cylinder bore
+                                                          gauge, capable of reading in 0.003 mm (.0001 in.)
+                                                          INCREMENTS is required. If a bore gauge is not
+                                                          available, do not use an inside micrometer.
+
+
+
+
+               Fig. 31 Valve and Valve
+1 - VALVE LOCKS (3–BEAD)
+2 - RETAINER
+3 - VALVE STEM OIL SEAL
+4 - INTAKE VALVE
+5 - EXHAUST VALVE
+6 - VALVE SPRING
+
+  (4) Release air pressure and disconnect the air
+hose. Remove the adaptor from the spark plug hole
+                                                                   Fig. 32 Cylinder Bore Measurement
+and install the spark plug.
+  (5) Repeat the procedures for each remaining valve        (2) Measure the inside diameter of the cylinder
+spring to be removed.                                     bore at three levels below top of bore. Start perpen-
+  (6) Install the push rods. Ensure the bottom end of     dicular (across or at 90 degrees) to the axis of the
+each rod is centered in the plunger cap seat of the       crankshaft and then take two additional reading.
+hydraulic valve tappet.                                     (3) Measure the cylinder bore diameter crosswise
+  (7) Install the rocker arms, pivots and bridge          to the cylinder block near the top of the bore. Repeat
+(Refer to 9 - ENGINE/CYLINDER HEAD/ROCKER                 the measurement near the middle of the bore, then
+ARM / ADJUSTER ASSY - INSTALLATION) at their              repeat the measurement near the bottom of the bore.
+original location.                                          (4) Determine taper by subtracting the smaller
+  (8) Install the engine cylinder head cover (Refer to    diameter from the larger diameter.
+9 - ENGINE/CYLINDER HEAD/CYLINDER HEAD                      (5) Rotate measuring device 90° and repeat steps
+COVER(S) - INSTALLATION).                                 above.
+                                                            (6) Determine out-of-roundness by comparing the
+                                                          difference between each measurement.
+ENGINE BLOCK                                                (7) If cylinder bore taper does not exceed 0.025
+                                                          mm (0.001 inch) and out-of-roundness does not
+CLEANING                                                  exceed 0.025 mm (0.001 inch), the cylinder bore can
+  Thoroughly clean the oil pan and engine block gas-      be honed. If the cylinder bore taper or out- of-round
+ket surfaces.                                             condition exceeds these maximum limits, the cylinder
+  Use compressed air to clean out:                        must be bored and then honed to accept an oversize
+  • The galley at the oil filter adaptor hole.            piston. A slight amount of taper always exists in the
+  • The front and rear oil galley holes.                  cylinder bore after the engine has been in use for a
+  • The feed holes for the crankshaft main bearings.      period of time.
+  Once the block has been completely cleaned, apply
+Loctite PST pipe sealant with Teflon 592 to the
+threads of the front and rear oil galley plugs. Tighten
+the plugs to 34 N·m (25 ft. lbs.) torque.
+

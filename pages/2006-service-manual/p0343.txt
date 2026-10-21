@@ -1,0 +1,61 @@
+TJ                                                                                             ENGINE      7 - 31
+
+OPERATION                                                 DIAGNOSIS AND TESTING
+  A thermostatic bimetallic spring coil is located on
+the front face of the viscous fan drive unit (a typical   VISCOUS FAN DRIVE
+viscous unit is shown in (Fig. 15) (Fig. 16). This
+spring coil reacts to the temperature of the radiator     NOISE
+discharge air. It engages the viscous fan drive for
+higher fan speed if the air temperature from the          NOTE: It is normal for fan noise to be louder (roar-
+radiator rises above a certain point. Until additional    ing) when:
+engine cooling is necessary, the fan will remain at a
+reduced rpm regardless of engine speed.                     • The under hood temperature is above the
+  Only when sufficient heat is present, will the vis-     engagement point for the viscous drive coupling. This
+cous fan drive engage. This is when the air flowing       may occur when ambient (outside air temperature) is
+through the radiator core causes a reaction to the        very high.
+bimetallic coil. It then increases fan speed to provide     • Engine loads and temperatures are high such as
+the necessary additional engine cooling.                  when towing a trailer.
+  Once the engine has cooled, the radiator discharge        • Cool silicone fluid within the fan drive unit is
+temperature will drop. The bimetallic coil again          being redistributed back to its normal disengaged
+reacts and the fan speed is reduced to the previous       (warm) position. This can occur during the first 15
+disengaged speed.                                         seconds to one minute after engine start-up on a cold
+                                                          engine.
+
+                                                          LEAKS
+                                                             Viscous fan drive operation is not affected by small
+                                                          oil stains near the drive bearing. If leakage appears
+                                                          excessive, replace the fan drive unit.
+
+                                                          TESTING
+                                                            If the fan assembly free-wheels without drag (the
+                                                          fan blades will revolve more than five turns when
+                                                          spun by hand), replace the fan drive. This spin test
+                                                          must be performed when the engine is cool.
+                                                            For the following test, the cooling system must be
+                                                          in good condition. It also will ensure against exces-
+      Fig. 15 Viscous Fan Drive - 2.5L Engine             sively high coolant temperature.
+1 - VISCOUS FAN DRIVE
+2 - MOUNTING HUB                                          WARNING: BE SURE THAT THERE IS ADEQUATE
+3 - THERMOSTATIC SPRING                                   FAN BLADE CLEARANCE BEFORE DRILLING.
+
+                                                             (1) Drill a 3.18 mm (1/8 in.) diameter hole in the
+                                                          top center of the fan shroud.
+                                                             (2) Obtain a dial thermometer with an 8 inch stem
+                                                          (or equivalent). It should have a range of -18° - 105°C
+                                                          (-4°- 220° F). Insert thermometer through the hole in
+                                                          the shroud. Be sure that there is adequate clearance
+                                                          from the fan blades.
+                                                             (3) Connect a tachometer and an engine ignition
+                                                          timing light (timing light is to be used as a strobe
+                                                          light).
+                                                             (4) Block the air flow through the radiator. Secure
+                                                          a sheet of plastic in front of the radiator (or air con-
+                                                          ditioner condenser). Use tape at the top to secure the
+                                                          plastic and be sure that the air flow is blocked.
+                                                             (5) Be sure that the air conditioner (if equipped) is
+                                                          turned off.
+      Fig. 16 Viscous Fan Drive - 4.0L Engine
+1 - VISCOUS FAN DRIVE
+2 - THERMOSTATIC SPRING
+3 - MOUNTING NUT TO WATER PUMP HUB
+

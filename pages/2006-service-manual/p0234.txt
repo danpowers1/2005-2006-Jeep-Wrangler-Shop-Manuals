@@ -1,0 +1,51 @@
+4-4      VEHICLE QUICK REFERENCE                     TJ
+
+Cavity          Fuse/Color         Description
+6               30 Amp             Starter
+                Pink
+7               Open
+8               40 Amp             ABS Motor
+                Green
+9               20 Amp             ASD
+                Yellow
+10              40 Amp             HD/LP
+                Green
+11              Open               IOD Storage
+12              30 Amp             ABS Valve
+                Pink
+13              40 Amp             Accessories
+                Green
+14              Open
+15              50 Amp             IOD
+                Red
+16              Open
+17              20 Amp             Power
+                Yellow
+18              20 Amp             Horn
+                Yellow
+19              20 Amp             Fog Lights
+                Yellow
+20              15 Amp             Radio
+                Lt. Blue
+21              10 Amp             A/C Clutch
+                Red
+22              25 Amp             Ignition Switch
+                Natural
+23              20 Amp             Fuel
+                Yellow
+24              20 Amp             Off Road
+                Yellow
+25              Open
+26              10 Amp             Accessories
+                Red
+27              20 Amp             MFSW
+                Yellow
+28              10 Amp             Clutch Override
+                Red
+29              Relay              ASD
+30              Relay              A/C Clutch
+31              Relay              Transmission
+32              Relay              Starter
+33              Relay              ABS
+34              Open
+

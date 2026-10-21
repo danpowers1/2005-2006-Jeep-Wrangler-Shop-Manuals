@@ -1,0 +1,61 @@
+TJ                                                                                          ENGINE 2.4L       9-9
+
+            CONDITION                         POSSIBLE CAUSES                            CORRECTION
+
+OIL LEAKS                              1. Misaligned or deteriorated gas-     1. Replace gasket(s).
+                                       kets.
+
+                                       2. Loose fastener, broken or po-       2. Tighten, repair or replace the
+                                       rous metal part.                       part.
+                                       3. Misaligned or deteriorated cup      3. Replace as necessary.
+                                       or threaded plug.
+
+OIL CONSUMPTION OR SPARK               1. PCV system malfunction.             1. Check system and repair as
+PLUGS FOULED                                                                  necessary. (Refer to 25 - EMIS-
+                                                                              SIONS CONTROL/EVAPORATIVE
+                                                                              EMISSIONS/PCV VALVE - DIAG-
+                                                                              NOSIS AND TESTING)
+                                       2. Worn, scuffed or broken rings.      2. Hone cylinder bores. Install new
+                                                                              rings.
+                                       3. Carbon in oil ring slots.           3. Install new rings.
+                                       4. Rings fitted too tightly in         4. Remove rings and check
+                                       grooves.                               grooves. If groove is not proper
+                                                                              width, replace piston.
+                                       5. Worn valve guide(s).                5. Replace cylinder head assembly.
+                                       6. Valve stem seal(s) worn or          6. Replace seal(s).
+                                       damaged.
+
+
+STANDARD PROCEDURE                                            (3) Place a shop towel around the spark plugs
+                                                            when removing them from the engine. This will catch
+REPAIR OF DAMAGED OR WORN THREADS                           any fluid that may possibly be in the cylinder under
+                                                            pressure.
+  Damaged or worn threads (excluding spark plug               (4) With all spark plugs removed, rotate engine
+and camshaft bearing cap attaching threads) can be          crankshaft using a breaker bar and socket.
+repaired. Essentially, this repair consists of drilling       (5) Identify the fluid in the cylinder(s) (i.e., cool-
+out worn or damaged threads, tapping the hole with          ant, fuel, oil or other).
+a special Heli-Coil Tap, (or equivalent) and installing       (6) Make sure all fluid has been removed from the
+an insert into the tapped hole. This brings the hole        cylinders. Inspect engine for damage (i.e., connecting
+back to its original thread size.                           rods, pistons, valves, etc.)
+                                                              (7) Repair engine or components as necessary to
+CAUTION: Be sure that the tapped holes maintain
+                                                            prevent this problem from re-occurring.
+the original center line.
+                                                            CAUTION: Squirt approximately one teaspoon of oil
+  Heli-Coil tools and inserts are readily available         into the cylinders, rotate engine to lubricate the cyl-
+from automotive parts jobbers.                              inder walls to prevent damage on restart.
+
+HYDROSTATIC LOCKED ENGINE                                      (8) Install new spark plugs.
+   When an engine is suspected to be hydrostatically           (9) Drain engine oil and remove oil filter.
+locked, regardless of what caused the problem, the             (10) Install a new oil filter.
+following steps should be used.                                (11) Fill engine with specified amount of approved
+                                                            oil.
+CAUTION: DO NOT use starter motor to rotate the                (12) Connect negative battery cable.
+engine, severe damage may occur.                               (13) Start engine and check for any leaks.
+
+  (1) Inspect air cleaner, induction system and             ENGINE CORE AND OIL GALLERY PLUGS
+intake manifold to insure system is dry and clear of          Using a blunt tool such as a drift and a hammer,
+foreign material.                                           strike the bottom edge of the cup plug. With the cup
+  (2) Remove negative battery cable.                        plug rotated, grasp firmly with pliers or other suit-
+                                                            able tool and remove plug (Fig. 2).
+

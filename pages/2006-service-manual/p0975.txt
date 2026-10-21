@@ -1,0 +1,54 @@
+TJ                                                                                    ENGINE 2.4L           9 - 15
+
+                  CRANKSHAFT                                                 CAMSHAFT
+
+DESCRIPTION               SPECIFICATION              DESCRIPTION                    SPECIFICATION
+                      Metric          Standard                                  Metric               Standard
+Connecting Rod       49.984 -      1.968 - 1.9685    Journal Diame-            25.976 -             1.022 - 1.023
+Journal Diame-      50.000 mm            in.         ter No. 1 - 6            25.995 mm                  in.
+ter                                                  Bearing Clear-
+                                                                             0.025 - 0.065      0.0009 - 0.0025
+Main Bearing         59.992 -      2.362 - 2.3625    ance - Diametri-
+                                                                                  mm                  in.
+Journal Diame-      60.008 mm            in.         cal
+ter                                                  End Play               0.05 - 0.17 mm      0.0019 - 0.0066
+Journal Out-of-     0.0035 mm        0.0003 in.                                                       in.
+Round (Max.)                                         Lift (Zero Lash)
+Journal Taper       0.007 mm         0.0001 in.                   Intake       8.25 mm                0.324 in.
+(Max.)
+                                                                Exhaust        6.60 mm                0.259 in.
+End Play          0.09 - 0.24 mm   0.0035 - 0.0094
+                                         in.         Intake Valve
+                                                     Timing*
+     Wear Limit      0.38 mm          0.015 in.
+                                                      Closes (ABDC)                          44.3°
+Main Bearing       0.018 - 0.062   0.0007 - 0.0024
+Diametrical             mm               in.          Opens (ATDC)                           6.2°
+Clearance                                                       Duration                  218.1°
+                                                     Exhaust Valve
+        HYDRAULIC LASH ADJUSTER
+                                                     Timing*
+DESCRIPTION               SPECIFICATION               Closes (ATDC)                          0.8°
+                      Metric          Standard        Opens (BBDC)                           39.9°
+Body Diameter        15.901 -      0.626 - 0.6264               Duration                  220.7°
+                    15.913 mm            in.
+                                                     Valve Overlap                           5.4°
+Plunger Travel       3.0 mm           0.118 in.
+                                                     *
+Minimum (Dry)
+                                                     All reading in crankshaft degrees at 0.5 mm (0.019
+                                                     in.) valve lift.
+CYLINDER HEAD CAMSHAFT BEARING BORE
+              DIAMETER
+                                                                           CYLINDER HEAD
+DSECRIPTION               SPECIFICATION
+                                                     DESCRIPTION                    SPECIFICATION
+                      Metric          Standard
+                                                                                Metric               Standard
+Journals No.1 -      26.020 -       1.024 - 1.025
+                                                     Material                        Cast Aluminum
+6                   26.041 mm            in.
+                                                     Gasket Thick-             0.71 mm                0.028 in.
+                                                     ness (Com-
+                                                     pressed)
+

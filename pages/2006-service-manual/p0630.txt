@@ -1,0 +1,67 @@
+8R - 22    FRONT WIPERS/WASHERS                                                                                TJ
+
+     RIGHT MULTI-FUNCTION SWITCH TESTS
+                              CONTINUITY BETWEEN
+   SWITCH POSITION
+                                     PINS
+*The intermittent wipe logic circuit within the right
+multi-function switch contains active electronic ele-
+ments, which cannot be tested using conventional
+diagnostic tools. In addition, the function of the nor-
+mally open contacts of the wiper relay internal to the
+switch cannot be tested properly unless the switch is
+connected to battery current (Pin 4) and ground (Pin
+2). If all circuits and functions of the front wiper sys-
+tem and the right multi-function switch are operative
+except for the intermittent wipe, wipe-after-wash fea-
+ture, and/or the front wipers will not park, replace
+the right multi-function switch with a known good unit
+and test system operation again.
+   (4) If the right multi-function switch fails any of
+the continuity checks, replace the faulty switch. If
+the switch is OK, test and repair the front wiper and
+washer system circuits between the right multi-func-
+tion switch and the front wiper motor or the front           Fig. 21 Steering Column Shrouds Remove/Install
+washer pump/motor as required.                              1 - LEFT MULTI-FUNCTION SWITCH
+                                                            2 - UPPER SHROUD
+REMOVAL                                                     3 - RIGHT MULTI-FUNCTION SWITCH
+                                                            4 - CLOCKSPRING
+                                                            5 - IGNITION LOCK CYLINDER HOUSING
+WARNING: TO AVOID PERSONAL INJURY OR                        6 - LOWER SHROUD
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                   7 - SCREW (2)
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                              (4) If the vehicle is equipped with the optional tilt
+TEM BEFORE ATTEMPTING ANY STEERING
+                                                            steering column, move the tilt steering column to the
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                            fully lowered position and leave the tilt release lever
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                            in the released (down) position.
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                              (5) Remove both the upper and lower shrouds from
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                            the steering column.
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                              (6) Disconnect the body wire harness connector for
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+                                                            the left multi-function switch from the connector
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+                                                            receptacle on the back of the switch.
+TO DISABLE THE SUPPLEMENTAL RESTRAINT
+                                                              (7) Disconnect the body wire harness connector for
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                            the right multi-function switch from the connector
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                            receptacle on the back of the switch.
+BAG DEPLOYMENT.
+                                                              (8) Remove the two screws that secure the multi-
+  (1) Disconnect and isolate the battery negative           function switch assembly to the upper steering col-
+cable.                                                      umn housing (Fig. 22).
+  (2) Remove the steering column opening cover
+from the instrument panel. (Refer to 23 - BODY/IN-
+STRUMENT PANEL/STEERING COLUMN OPEN-
+ING COVER - REMOVAL).
+  (3) From below the steering column, remove the
+two screws that secure the lower steering column
+shroud to the upper shroud (Fig. 21).
+

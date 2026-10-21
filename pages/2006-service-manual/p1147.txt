@@ -1,0 +1,66 @@
+TJ                                                                                   FUEL INJECTION        14 - 29
+
+                                                              The nozzle (outlet) ends of the injectors are posi-
+                                                           tioned into openings in the intake manifold just
+                                                           above the intake valve ports of the cylinder head.
+                                                           The engine wiring harness connector for each fuel
+                                                           injector is equipped with an attached numerical tag
+                                                           (INJ 1, INJ 2 etc.). This is used to identify each fuel
+                                                           injector.
+                                                              The injectors are energized individually in a
+                                                           sequential order by the powertrain control module
+                                                           (PCM). The PCM will adjust injector pulse width by
+                                                           switching the ground path to each individual injector
+                                                           on and off. Injector pulse width is the period of time
+                                                           that the injector is energized. The PCM will adjust
+                                                           injector pulse width based on various inputs it
+         Fig. 10 FUEL INJECTOR - TYPICAL                   receives.
+1 - FUEL INJECTOR                                             Battery voltage is supplied to the injectors through
+2 - NOZZLE                                                 the ASD relay.
+3 - TOP (FUEL ENTRY)
+                                                              The PCM determines injector pulse width based on
+OPERATION                                                  various inputs.
+
+OPERATION - PCM OUTPUT                                     REMOVAL
+                                                             (1) Remove fuel rail. Refer to Fuel Injector Rail
+  The nozzle ends of the injectors are positioned into
+                                                           Removal in this section.
+openings in the intake manifold just above the intake
+                                                             (2) Disconnect clip(s) that retain fuel injector(s) to
+valve ports of the cylinder head. The engine wiring
+                                                           fuel rail (Fig. 11).
+harness connector for each fuel injector is equipped
+with an attached numerical tag (INJ 1, INJ 2 etc.).
+This is used to identify each fuel injector with its
+respective cylinder number.
+  The injectors are energized individually in a
+sequential order by the Powertrain Control Module
+(PCM). The PCM will adjust injector pulse width by
+switching the ground path to each individual injector
+on and off. Injector pulse width is the period of time
+that the injector is energized. The PCM will adjust
+injector pulse width based on various inputs it
+receives.
+  Battery voltage (12 volts +) is supplied to the injec-
+tors through the ASD relay. The ASD relay will shut-
+down the 12 volt power source to the fuel injectors if
+the PCM senses the ignition is on, but the engine is
+not running. This occurs after the engine has not                   Fig. 11 FUEL INJECTOR MOUNTING
+been running for approximately 1.8 seconds.                1 - INLET FITTING
+  The PCM determines injector on-time (pulse width)        2 - FUEL INJECTOR RAIL
+based on various inputs.                                   3 - CLIP
+                                                           4 - FUEL INJECTOR
+
+OPERATION - FUEL INJECTOR                                  INSTALLATION
+   The top (fuel entry) end of the injector (Fig. 10) is     (1) Install fuel injector(s) into fuel rail assembly
+attached into an opening on the fuel rail.                 and install retaining clip(s).
+   The fuel injectors are electrical solenoids. The          (2) If same injector(s) is being reinstalled, install
+injector contains a pintle that closes off an orifice at   new o-ring(s). Two different o-rings are being used.
+the nozzle end. When electric current is supplied to       These can be easily identified by color. Install black
+the injector, the armature and needle move a short         o-ring at intake manifold end of injector. Install red/
+distance against a spring, allowing fuel to flow out       rust colored o-ring at fuel rail end of injector.
+the orifice. Because the fuel is under high pressure, a      (3) Apply a small amount of clean engine oil to
+fine spray is developed in the shape of a pencil           each injector o-ring. This will aid in installation.
+stream. The spraying action atomizes the fuel, add-          (4) Install fuel rail. Refer to Fuel Rail Installation.
+ing it to the air entering the combustion chamber.           (5) Start engine and check for fuel leaks.
+

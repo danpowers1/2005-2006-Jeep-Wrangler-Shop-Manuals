@@ -1,0 +1,27 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                 8W - 80 - 45
+                             POWERTRAIN CONTROL MODULE C2 - BLACK/ORANGE 38 WAY
+              CAV                CIRCUIT                             FUNCTION
+              29    F855 18PK/YL (EXCEPT MAN 6 SPD   5 VOLT SUPPLY
+                    TRANS)
+              29    F855 20PK/YL (MAN 6 SPD TRANS)   5 VOLT SUPPLY
+              30    K21 20DB/LG (2.4L)               IAT SIGNAL
+              30    K21 18BK/RD (4.0L)               IAT SIGNAL
+              31    K41 18DB/LB (EXCEPT MAN 6 SPD    O2 1/1 SIGNAL
+                    TRANS)
+              31    K41 20DB/LB (MAN 6 SPD TRANS)    O2 1/1 SIGNAL
+              32    K904 18DB/DG (EXCEPT MAN 6 SPD   O2 RETURN (DOWNSTREAM)
+                    TRANS)
+              32    K904 20DB/DG (MAN 6 SPD TRANS)   O2 RETURN (DOWNSTREAM)
+              33    K43 18DB/LG (4.0L)               O2 2/1 SIGNAL
+              34    K44 18DB/GY (EXCEPT MAN 6 SPD    CMP SIGNAL
+                    TRANS)
+              34    K44 20DB/GY (MAN 6 SPD TRANS)    CMP SIGNAL
+              35    K24 18BR/LB (EXCEPT MAN 6 SPD    CKP SIGNAL
+                    TRANS)
+              35    K24 20BR/LB (MAN 6 SPD TRANS)    CKP SIGNAL
+              36    -                                -
+              37    -                                -
+              38    K61 18VT/GY (EXCEPT MAN 6 SPD    IAC CONTROL
+                    TRANS)
+              38    K61 20VT/GY (MAN 6 SPD TRANS)    IAC CONTROL
+

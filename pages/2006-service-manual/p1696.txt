@@ -1,0 +1,77 @@
+24 - 60     PLUMBING                                                                                         TJ
+
+                                                           CAUTIONS). Failure to follow the warnings and cau-
+                                                           tions could result in possible personal injury or
+                                                           death.
+                                                              A R-134a refrigerant recovery/recycling/charging
+                                                           station that meets SAE Standard J2210 must be
+                                                           used to recover the refrigerant from an R-134a refrig-
+                                                           erant system. Refer to the operating instructions sup-
+                                                           plied by the equipment manufacturer for the proper
+                                                           care and use of this equipment.
+
+                                                           REFRIGERANT SYSTEM EVACUATE
+                                                           NOTE: Special effort must be used to prevent mois-
+                                                           ture from entering the A/C system oil. Moisture in
+                                                           the oil is very difficult to remove and will cause a
+                                                           reliability problem with the A/C compressor.
+
+                                                              If an A/C compressor designed to use R-134a refrig-
+                                                           erant is left open to the atmosphere for an extended
+                                                           period of time. It is recommended that the refriger-
+                                                           ant oil be drained and replaced with new oil or a new
+                                                           A/C compressor be used. This will eliminate the pos-
+          Fig. 2 Manifold Gauge Set - Typical
+                                                           sibility of contaminating the refrigerant system.
+1 - HIGH PRESSURE GAUGE
+2 - VALVE
+                                                              If the refrigerant system has been open to the
+3 - VACUUM/REFRIGERANT HOSE (YELLOW W/BLACK                atmosphere, it must be evacuated before the refriger-
+STRIPE)                                                    ant system can be filled. Moisture and air mixed
+4 - HIGH PRESSURE HOSE (RED W/BLACK STRIPE)
+5 - LOW PRESSURE HOSE (BLUE W/BLACK STRIPE)                with the refrigerant system will raise the compressor
+6 - VALVE                                                  head pressure above acceptable operating levels. This
+7 - LOW PRESSURE GAUGE                                     will reduce the performance of the A/C system and
+                                                           damage the A/C compressor. Moisture will boil at
+MANIFOLD GAUGE SET CONNECTIONS
+                                                           near room temperature when exposed to vacuum. A
+                                                           R-134a refrigerant recovery/recycling/charging sta-
+CAUTION: Do not use an R-12 manifold gauge set
+                                                           tion that meets SAE Standard J2210 must be used to
+on an R-134a system. The refrigerants are not com-
+                                                           evacuate the refrigerant system. See the operating
+patible and system damage will result.
+                                                           instructions supplied by the equipment manufacturer
+   • LOW PRESSURE GAUGE HOSE - The low                     for proper care and use of this equipment. To evacu-
+pressure hose (Blue with Black stripe) attaches to         ate the refrigerant system, use the following proce-
+the suction (low-side) service port. This port is          dure:
+located on the A/C liquid line.
+                                                           NOTE: When connecting the service equipment
+   • HIGH PRESSURE GAUGE HOSE - The high
+                                                           couplings to the refrigerant system service ports,
+pressure hose (Red with Black stripe) attaches to the
+                                                           be certain that the valve of each coupling is fully
+discharge (high-side) service port. This port is located
+                                                           closed. This will reduce the amount of effort
+on the A/C discharge line.
+                                                           required to make the connection.
+   • RECOVERY, RECYCLING, EVACUATION
+AND CHARGING HOSE - The center manifold                      (1) Connect a suitable charging station, refrigerant
+hose (Yellow, or White, with Black stripe) is used to      recovery machine or a manifold gauge set with vac-
+recover, evacuate, and charge the refrigerant system.      uum pump and refrigerant recovery equipment
+When the low or high pressure valves on the mani-          (Refer to 24 - HEATING & AIR CONDITIONING/
+fold gauge set are opened, the refrigerant in the sys-     PLUMBING - STANDARD PROCEDURE - REFRIG-
+tem will escape through this hose.                         ERANT SYSTEM SERVICE EQUIPMENT).
+                                                             (2) Recover the refrigerant system (Refer to 24 -
+REFRIGERANT SYSTEM RECOVERY                                HEATING & AIR CONDITIONING/PLUMBING -
+                                                           STANDARD PROCEDURE - REFRIGERANT SYS-
+WARNING: Refer to the applicable warnings and
+                                                           TEM RECOVERY).
+cautions for this system before performing the fol-
+                                                             (3) Open the suction and discharge valves and
+lowing operation (Refer to 24 - HEATING & AIR
+                                                           start the vacuum pump. The vacuum pump should
+CONDITIONING/PLUMBING - WARNINGS) and (Refer
+                                                           run a minimum of 45 minutes prior to charge to
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+

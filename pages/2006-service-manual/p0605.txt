@@ -1,0 +1,61 @@
+TJ                                                                       VEHICLE THEFT SECURITY           8Q - 3
+
+repair procedures, details of wire harness routing        SKIS INDICATOR FLASHES OR LIGHTS SOLID FOLLOWING
+and retention, connector pin-out information and          BULB TEST
+location views for the various wire harness connec-         A SKIS indicator that flashes following a successful
+tors, splices and grounds.                                bulb test indicates that an invalid key has been
+                                                          detected, or that a key-related fault has been set. A
+NOTE: The following tests may not prove conclu-           SKIS indicator that lights solid following a successful
+sive in the diagnosis of this system. The most reli-      bulb test indicates that the SKIM has detected a sys-
+able, efficient, and accurate means to diagnose the       tem malfunction or that the SKIS is inoperative. In
+Sentry Key Immobilizer System requires the use of         either case, fault information will be stored in the
+a DRBIIIT scan tool. Refer to the appropriate diag-       SKIM memory. For retrieval of this fault information
+nostic information.                                       and further diagnosis of the SKIS, the PCI data bus,
+                                                          the SKIM message outputs to the instrument cluster
+  (1) Check the B(+) fuse (Fuse 1 - 20 ampere) in the     that control the SKIS indicator and/or chime service,
+fuse block. If OK, go to Step 2. If not OK, repair the    or the message inputs and outputs between the
+shorted circuit or component as required and replace      SKIM and the Powertrain Control Module (PCM)
+the faulty fuse.                                          that control engine operation, a DRBIIIt scan tool is
+  (2) Check for battery voltage at the B(+) fuse          required. Refer to the appropriate diagnostic infor-
+(Fuse 1 - 20 ampere) in the fuse block. If OK, go to      mation. Following are preliminary troubleshooting
+Step 3. If not OK, repair the open B(+) circuit           guidelines to be followed during diagnosis using a
+between the fuse block and the battery as required.       DRBIIIt scan tool:
+  (3) Check the ignition switch output (run-start)          (1) Using the DRBIIIt scan tool, read and record
+fuse (Fuse 12 - 10 ampere) in the fuse block. If OK,      the faults as they exist in the SKIM when you first
+go to Step 4. If not OK, repair the shorted circuit or    begin your diagnosis of the vehicle. It is important to
+component as required and replace the faulty fuse.        document these faults because the SKIM does not
+  (4) Turn the ignition switch to the On position.        differentiate between historical faults (those that
+Check for battery voltage at the fused ignition switch    have occurred in the past) and active faults (those
+output (run-start) fuse (Fuse 12 - 10 ampere) in the      that are currently present). If this problem turns out
+fuse block. If OK, go to Step 5. If not OK, repair the    to be an intermittent condition, this information may
+open fused ignition switch output (run-start) circuit     become invaluable to your diagnosis.
+between the fuse block and the ignition switch as           (2) Using the DRBIIIt scan tool, erase all of the
+required.                                                 faults from the SKIM.
+  (5) Disconnect and isolate the battery negative           (3) Cycle the ignition switch to the Off position,
+cable. Disconnect the instrument panel wire harness       then back to the On position.
+connector for the Sentry Key Immobilizer Module             (4) Using the DRBIIIt scan tool, read any faults
+(SKIM) from the SKIM connector receptacle. Check          that are now present in the SKIM. These are the
+for continuity between each of the two ground circuit     active faults.
+cavities of the instrument panel wire harness connec-       (5) Using this active fault information, refer to the
+tor for the SKIM and a good ground. There should be       proper procedure in the appropriate diagnostic infor-
+continuity. If OK, go to Step 6. If not OK, repair the    mation for the additional specific diagnostic steps.
+open ground circuit(s) to ground (G105 and G302) as
+required.
+  (6) Reconnect the battery negative cable. Check for     STANDARD PROCEDURE
+battery voltage at the fused B(+) circuit cavity of the
+instrument panel wire harness connector for the           STANDARD PROCEDURE - SKIS INITIALIZA-
+SKIM. If OK, go to Step 7. If not OK, repair the open     TION
+fused B(+) circuit between the SKIM and the fuse            The Sentry Key Immobilizer System (SKIS) must
+block as required.                                        be initialized following a Sentry Key Immobilizer
+  (7) Turn the ignition switch to the On position.        Module (SKIM) replacement. SKIS initialization
+Check for battery voltage at the fused ignition switch    requires the use of a DRBIIIt scan tool. Initialization
+output (run-start) circuit cavity of the instrument       will also require that you have access to the unique
+panel wire harness connector for the SKIM. If OK,         four-digit PIN code that was assigned to the original
+use a DRBIIIt scan tool to complete the diagnosis of      SKIM. The PIN code must be used to enter the
+the SKIS. Refer to the appropriate diagnostic infor-      Secured Access Mode in the SKIM. This PIN number
+mation. If not OK, repair the open fused ignition         may be obtained from the vehicle owner, from the
+switch output (run-start) circuit between the SKIM        original vehicle invoice, or from the DaimlerChrysler
+and the fuse block as required.                           Customer Center. (Refer to 8 - ELECTRICAL/ELEC-
+                                                          TRONIC CONTROL MODULES - STANDARD PRO-
+                                                          CEDURE - PCM/SKIM PROGRAMMING).
+

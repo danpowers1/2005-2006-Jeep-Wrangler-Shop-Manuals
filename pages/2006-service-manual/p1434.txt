@@ -1,0 +1,50 @@
+21 - 244    TRANSFER CASE - NV241                                                                          TJ
+
+
+
+
+                                                                    Fig. 104 Speedometer Sensor
+                                                        1 - EXTENSION HOUSING
+                                                        2 - SPEEDOMETER SENSOR
+
+                                                        OPERATION
+                                                          The VSS is a 3-circuit (3–wire), magnetic, hall-ef-
+                                                        fect sensor.
+                                                          The 3 circuits are:
+                                                          • A 5-volt power supply from the Powertrain Con-
+                                                        trol Module (PCM).
+               Fig. 103 Shift Linkage                     • A ground is provided for the sensor though a
+1 - TRANSFER CASE SHIFT LEVER SHAFT
+                                                        low-noise sensor return circuit in the PCM.
+2 - SEAL                                                  • An input to the PCM is used to determine vehi-
+3 - TRANSFER CASE SHIFT LEVER ASSEMBLY                  cle speed and distance traveled.
+4 - FLOORPAN
+5 - TRUNNION LOCK BOLT
+                                                          The speed sensor generates 8 pulses per sensor
+6 - SHIFT ROD                                           revolution. These signals, in conjunction with a
+7 - ADJUSTING TRUNNION                                  closed throttle signal from the throttle position sen-
+8 - TORQUE SHAFT BRACKET
+9 - RANGE LEVER
+                                                        sor, indicate a closed throttle deceleration to the
+10 - TORQUE SHAFT ROD                                   PCM. When the vehicle is stopped at idle, a closed
+11 - TORQUE SHAFT                                       throttle signal is received by the PCM (but a speed
+12 - LINKAGE BRACKET
+                                                        sensor signal is not received).
+                                                          Under deceleration conditions, the PCM adjusts
+VEHICLE SPEED SENSOR                                    the Idle Air Control (IAC) motor to maintain a
+                                                        desired MAP value. Under idle conditions, the PCM
+DESCRIPTION                                             adjusts the IAC motor to maintain a desired engine
+  The 3-wire Vehicle Speed Sensor (VSS) (Fig. 104) is   speed.
+located in the transfer case rear extension.
+                                                        REMOVAL
+                                                          The Vehicle Speed Sensor (VSS) is located in the
+                                                        transfer case rear extension.
+                                                          (1) Raise and support vehicle.
+                                                          (2) Disconnect electrical connector from sensor by
+                                                        pushing slide tab. After slide tab has been positioned,
+                                                        push in on secondary release lock on side of connec-
+                                                        tor and pull connector from sensor.
+                                                          (3) Remove sensor mounting bolt.
+                                                          (4) Remove sensor (pull straight out) from rear
+                                                        extension.
+

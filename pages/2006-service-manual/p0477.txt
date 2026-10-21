@@ -1,0 +1,61 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 9
+
+(45 miles per hour). If the enable 1 circuit is deacti-   chime tones or repeated chime tones at two different
+vated after the rear or the front and rear axle lockers   rates: a slow rate of about fifty chime tones per
+are engaged, all outputs from the axle lock switch        minute, and a fast rate of about 180 chime tones per
+are dropped causing both axles to unlock. The enable      minute. The internal programming of the EMIC
+2 circuit is automatically deactivated whenever the       determines the priority of each chime tone request
+vehicle speed is greater than about 16 kilometers per     input that is received, as well as the rate and dura-
+hour (10 miles per hour). If the enable 2 circuit is      tion of each chime tone that is to be generated.
+deactivated after the rear or the front and rear axle        The EMIC relies upon hard wired inputs from the
+lockers are engaged, the outputs from the axle lock       door ajar switches, the left multi-function switch, the
+switch are unaffected and the locked axles remain         ignition switch, and the park brake/brake warning
+locked. However, an unlocked axle cannot be locked        indicator switches to provide chime service for the
+until the vehicle speed is reduced and the enable 2       driver/passenger door ajar warning, the head/park
+circuit is again activated.                               lights-on reminder, and the key-in ignition reminder.
+   In addition, once activated, both enable circuits      For the remaining chime warning functions, the
+will remain active regardless of the status of the        EMIC uses a combination of hard wired inputs, elec-
+ignition switch input. Therefore, any locked axle will    tronic message inputs received from other modules
+remain locked and the various components of the           over the PCI data bus, and internal programming.
+axle locker system will remain functional after the       (Refer to 8 - ELECTRICAL/CHIME/BUZZER -
+ignition switch is turned to the Off position. How-       OPERATION).
+ever, while the currently selected axle locker mode          The hard wired chime inputs to the EMIC may be
+remains active with the ignition switch turned Off, if    diagnosed using conventional diagnostic methods.
+the key is removed from the ignition lock cylinder,       However, proper testing of the EMIC programming
+Off is the only other axle locker mode that can be        and the electronic chime request messages received
+selected with the axle lock switch. For as long as the    by the EMIC over the PCI data bus requires the use
+key is removed from the ignition lock cylinder, the       of a DRBIIIt scan tool. Refer to the appropriate diag-
+cluster logic will interpret any revision to the input    nostic information.
+status of either request circuit from the axle lock
+switch as a cancellation request and will deactivate      ELECTRONIC PINION FACTOR
+the enable 1 circuit and all outputs from the axle          Each time the EMIC receives an electronic pinion
+lock switch are dropped, causing both axles to            factor request message from the Powertrain Control
+unlock. Otherwise, once locked, any locked axle will      Module (PCM) over the PCI data bus, it provides a
+remain locked until the axle lock switch is deacti-       response to the PCM containing the appropriate elec-
+vated (enable 1 circuit is deactivated), or until the     tronic pinion factor information. Because there are
+Off mode is manually selected by moving the axle          numerous optional combinations of tire size, axle
+lock switch rocker to the Off position. The EMIC also     ratio, and transfer case type which are available for
+provides the vehicle operator with distinct visual        this vehicle, the electronic pinion factor needs to be
+and/or audible indications as to the current status of    considered for accurate processing of the vehicle
+the axle locker system through chime warnings and         speed and distance information. The instrument clus-
+illumination of the rear/front lock indicators in the     ter stores the electronic pinion factor information and
+cluster as outlined elsewhere in this service informa-    broadcasts it over the PCI data bus upon request by
+tion.                                                     the PCM. Using this factor and the Vehicle Speed
+   The hard wired input and output circuits of the        Sensor (VSS) input, the PCM then calculates the
+EMIC axle locker control may be diagnosed using           proper vehicle speed and distance information, and
+conventional diagnostic methods. However, proper          transmits the appropriate electronic vehicle speed
+testing of the EMIC programming and the electronic        messages over the PCI data bus for use by other elec-
+vehicle speed and transfer case shift position switch     tronic modules in the vehicle.
+messages received by the EMIC over the PCI data             Proper testing of the PCI data bus and the elec-
+bus requires the use of a DRBIIIt scan tool. Refer to     tronic data bus message inputs to and outputs from
+the appropriate diagnostic information.                   the EMIC that control the electronic pinion factor
+                                                          function requires the use of a DRBIIIt scan tool.
+CHIME SERVICE                                             Refer to the appropriate diagnostic information.
+  The EMIC is equipped with hardware and software
+to provide chime service for all available features in    INTERIOR LIGHTING CONTROL
+the chime warning system. Upon receiving the proper         The EMIC contains an integral timer and logic cir-
+chime inputs, the EMIC activates an integral              cuit to perform both timer and control functions for
+on-board audible tone generator to provide audible        the interior courtesy lamps. The EMIC uses hard
+chime tones to the vehicle operator. The chime tone       wired inputs from the ignition switch, both door ajar
+generator in the EMIC is capable of producing single      switches on separate driver and passenger door ajar
+

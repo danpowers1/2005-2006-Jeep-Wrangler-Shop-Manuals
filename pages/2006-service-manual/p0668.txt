@@ -1,0 +1,22 @@
+8W - 01 - 12                          8W-01 WIRING DIAGRAM INFORMATION                                  TJ
+
+
+
+
+                                        Fig. 11 TERMINAL REMOVAL
+1 - TYPICAL CONNECTOR                                   7 - MOLEX CONNECTOR
+2 - PICK FROM SPECIAL TOOL KIT 6680                     8 - SPECIAL TOOL 6742
+3 - APEX CONNECTOR                                      9 - THOMAS AND BETTS CONNECTOR
+4 - PICK FROM SPECIAL TOOL KIT 6680                     10 - SPECIAL TOOL 6934
+5 - AUGAT CONNECTOR                                     11 - TYCO CONNECTOR
+6 - SPECIAL TOOL 6932                                   12 - SPECIAL TOOL 8638
+
+
+  (6) Position the connector locking finger away from     (2) Repeat steps for each terminal in the connec-
+the terminal using the proper special tool. Pull on     tor, being sure that all wires are inserted into the
+the wire to remove the terminal from the connector.     proper cavities. For additional connector pin-out
+                                                        identification, refer to the wiring diagrams.
+INSTALLATION                                              (3) When the connector is re-assembled, the sec-
+  (1) Insert the removed terminal in the same cavity    ondary terminal lock must be placed in the locked
+on the repair connector.                                position to prevent terminal push out.
+

@@ -1,0 +1,46 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                        8W - 80 - 31
+
+
+                                    HEADLAMP LEVELING SWITCH (EXPORT) - 6 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    -                                     -
+               2    L45 20WT/OR                           FUSED HEADLAMP SWITCH OUTPUT
+               3    -                                     -
+               4    Z1 20BK                               GROUND
+               5    L13 20WT/YL                           HEADLAMP ADJUST SIGNAL
+               6    -                                     -
+
+
+
+
+                                                HEATER CONTROL - 10 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    Z134 20BK/LG                          GROUND
+               2    C71 18DB/BR                           BLOWER MOTOR LOW DRIVER
+               3    C72 16DB/OR                           BLOWER MOTOR M1 DRIVER
+               4    C73 14DB/VT                           BLOWER MOTOR M2 DRIVER
+               5    F504 20GY/PK                          FUSED IGNITION SWITCH OUTPUT (RUN)
+               6    C132 20DB/YL                          BLEND DOOR FEEDBACK SIGNAL
+               7    C75 12DB/GY                           BLOWER MOTOR HIGH DRIVER
+               8    A502 12RD/LG                          FUSED B(+)
+               9    -                                     -
+              10    Z1 20BK                               GROUND
+
+
+
+
+                                                  HORN - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    Z950 18BK                             GROUND
+               2    X2 18DG/OR                            HORN RELAY OUTPUT
+
+
+
+
+                                             IDLE AIR CONTROL MOTOR - 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    K961 20BR/VT (2.4L)                   IAC SIGNAL
+               1    K961 18BR/VT (4.0L)                   IAC SIGNAL
+               2    K61 20VT/GY (2.4L)                    IAC CONTROL
+               2    K61 18VT/GY (4.0L)                    IAC CONTROL
+

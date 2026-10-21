@@ -1,0 +1,48 @@
+TJ                                                           ELECTRONIC CONTROL MODULES                8E - 15
+
+   (7) Install and tighten the screws that secure the     (10) Reconnect the battery negative cable.
+lower steering column shroud to the upper shroud.
+Tighten the screws to 2 N·m (20 in. lbs.).              NOTE: If the SKIM has been replaced with a new
+   (8) Move the tilt steering column to the fully       unit, the Sentry Key Immobilizer System (SKIS)
+raised position and secure it in place by moving the    MUST be initialized before the vehicle can be oper-
+tilt release lever back to the locked (up) position.    ated. (Refer to 8 - ELECTRICAL/VEHICLE THEFT
+   (9) Reinstall the steering column opening cover.     SECURITY - STANDARD PROCEDURE - SKIS INI-
+(Refer to 23 - BODY/INSTRUMENT PANEL/STEER-             TIALIZATION).
+ING COLUMN OPENING COVER - INSTALLA-
+TION).
+
+SPECIFICATIONS
+TORQUE
+       DESCRIPTION                     N·m                      Ft. Lbs.                    In. Lbs.
+  Screws, Multi-Function                2                          -                           20
+     Switch Mounting
+ Screws, Steering Column                2                          -                           20
+     Shroud Mounting
+
+
+TRANSMISSION CONTROL
+MODULE
+DESCRIPTION
+
+
+
+
+                                                           Fig. 13 PCM MOUNTING - RIGHT HAND DRIVE
+                                                        1 - PCM
+                                                        2 - MOUNTING SCREWS (3)
+                                                        3 - PCM ELECTRICAL CONNECTORS
+
+                                                          The PCM (1) is located on the left side of the dash
+     Fig. 12 PCM MOUNTING - LEFT HAND DRIVE             panel in the engine compartment (Fig. 13) on right
+1 - MOUNTING SCREWS (3)                                 hand drive vehicles.
+2 - PCM
+3 - PCM ELECTRICAL CONNECTORS
+                                                        OPERATION
+   The Transmission Control Module (TCM) is a sub-        The TCM is the controlling unit for all electronic
+module within the Powertrain Control Module (PCM)       operations of the transmission. The TCM receives
+(2).                                                    information regarding vehicle operation from both
+   The PCM (2) is located on the right side of the      direct and indirect inputs, and selects the operational
+dash panel in the engine compartment (Fig. 12) on       mode of the transmission. Direct inputs are hard-
+left hand drive vehicles. The PCM is referred to as     wired to, and used specifically by the TCM. Indirect
+the NGC.
+

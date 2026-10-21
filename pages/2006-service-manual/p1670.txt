@@ -1,0 +1,49 @@
+24 - 34     CONTROLS                                                                                     TJ
+
+VACUUM RESERVOIR
+DESCRIPTION
+  The vacuum reservoir (Fig. 37) is mounted to the
+rear of the right front inner fender in the engine
+compartment, under the battery tray.
+  The vacuum reservoir can be accessed for service
+by removing the battery and battery tray.
+
+
+
+
+                                                                Fig. 38 Vacuum Reservoir - Typical
+                                                       1 - SCREW
+                                                       2 - VACUUM CHECK VALVE (2)
+                                                       3 - VACUUM LINE RETAINER (2)
+                                                       4 - ACCESSORY VACUUM SUPPLY LINE
+                                                       5 - ENGINE VACUUM FITTING
+                                                       6 - HVAC VACUUM SUPPLY LINE
+          Fig. 37 Vacuum Reservoir - Typical           7 - INNER FENDER
+                                                       8 - VACUUM RESERVOIR
+1 - VACUUM RESERVOIR
+2 - VACUUN LINE CONNECTION
+                                                       INSTALLATION
+OPERATION                                                (1) Position the vacuum reservoir into the engine
+  Engine vacuum is stored in the vacuum reservoir.     compartment.
+The stored vacuum is used to operate the vacuum-         (2) Install the screw that secures the vacuum res-
+controlled vehicle accessories during periods of low   ervoir to the inner fender panel. Tighten the screw to
+engine vacuum such as when the vehicle is climbing     2 N·m (17 in. lbs.).
+a steep grade, or under other high engine load oper-     (3) Connect the vacuum supply line to the vacuum
+ating conditions.                                      reservoir.
+  The vacuum reservoir cannot be repaired and, if        (4) Install the battery tray and battery (Refer to 8
+faulty or damaged, it must be replaced.                -    ELECTRICAL/BATTERY           SYSTEM/TRAY        -
+                                                       INSTALLATION) and (Refer to 8 - ELECTRICAL/
+                                                       BATTERY SYSTEM/BATTERY - INSTALLATION).
+REMOVAL
+  (1) Remove the battery and battery tray from the
+engine compartment (Refer to 8 - ELECTRICAL/BAT-
+TERY SYSTEM/BATTERY - REMOVAL) and (Refer
+to 8 - ELECTRICAL/BATTERY SYSTEM/TRAY -
+REMOVAL).
+  (2) Disconnect the vacuum supply line from the
+vacuum reservoir (Fig. 38).
+  (3) Remove the screw that secures the vacuum res-
+ervoir to the inner fender.
+  (4) Remove the vacuum reservoir from the engine
+compartment.
+

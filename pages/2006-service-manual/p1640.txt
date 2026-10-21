@@ -1,0 +1,55 @@
+24 - 4    HEATING & AIR CONDITIONING                                                                             TJ
+
+                                                             and the A/C compressor discharge pressure (high
+                                                             side) to the A/C Performance Temperature and Pres-
+                                                             sure chart. The compressor clutch may cycle, depend-
+                                                             ing upon the ambient temperature and humidity. If
+                                                             the clutch cycles, use the readings obtained before
+                                                             the clutch disengaged.
+
+
+
+
+     Fig. 3 A/C Low Pressure Switch - Typical
+1 - A/C LOW PRESSURE SWITCH
+2 - ACCUMULATOR
+
+  (6) With the A/C compressor clutch engaged, com-
+pare the air temperature at the center panel outlet
+
+
+                         A/C PERFORMANCE TEMPERATURE AND PRESSURE
+
+Ambient Air Tempera-             21° C              27° C            32° C           38° C             43° C
+ture                            (70° F)            (80° F)          (90° F)         (100° F)          (110° F)
+Air Temperature at           -3 to 3° C           1 to 7° C        3 to 9° C       6 to 13° C        10 to 18° C
+Center Panel Outlet        (27 to 38° F)        (33 to 44° F)    (37 to 48° F)    (43 to 55° F)     (50 to 64° F)
+                             179 to 241           221 to 283       262 to 324       303 to 365
+Evaporator Inlet Pres-                                                                             345 to 414 kPa
+                                kPa                  kPa              kPa              kPa
+sure at Charge Port                                                                                 (50 to 60 psi)
+                           (26 to 35 psi)       (32 to 41 psi)   (38 to 47 psi)   (44 to 53 psi)
+                           1240 to 1655         1380 to 1790     1720 to 2070     1860 to 2345      2070 to 2690
+Compressor Dis-                 kPa                  kPa              kPa              kPa               kPa
+charge Pressure             (180 to 240          (200 to 260      (250 to 300      (270 to 340       (300 to 390
+                                psi)                 psi)             psi)             psi)              psi)
+
+
+  (7) If the air outlet temperature fails to meet the
+specifications in the A/C Performance Temperature
+and Pressure chart, or if the A/C compressor dis-
+charge pressure is high, refer to the A/C System
+Diagnosis chart.
+
+                                            A/C SYSTEM DIAGNOSIS
+
+          Condition                       Possible Causes                            Correction
+Rapid A/C clutch cycling (ten    1. Low refrigerant system        1. See Refrigerant System Leaks in this group.
+or more cycles per minute).      charge.                          Test the refrigerant system for leaks. Repair,
+                                                                  evacuate and charge the refrigerant system, if
+                                                                  required.
+Equal pressures, but the A/C     1. No refrigerant in the re-     1. See Refrigerant System Leaks in this group.
+clutch does not engage.          frigerant system.                Test the refrigerant system for leaks. Repair,
+                                                                  evacuate and charge the refrigerant system, if
+                                                                  required.
+

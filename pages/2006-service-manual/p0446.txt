@@ -1,0 +1,59 @@
+8H - 2    HORN                                                                                                TJ
+
+                                                           the two electrically conductive grids and opens the
+                                                           switch circuit.
+
+                                                           DIAGNOSIS AND TESTING - HORN SWITCH
+                                                             For complete circuit diagrams, refer to the appro-
+                                                           priate wiring information.
+
+                                                           WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                           BAGS, REFER TO ELECTRICAL, RESTRAINTS
+                                                           BEFORE ATTEMPTING ANY STEERING WHEEL,
+                                                           STEERING COLUMN, OR INSTRUMENT PANEL
+                                                           COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+                                                           TO TAKE THE PROPER PRECAUTIONS COULD
+                                                           RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+                                                           AND POSSIBLE PERSONAL INJURY.
+                     Fig. 1 HORN                              (1) Disconnect and isolate the battery negative
+  (3) Remove the screw that secures the horn and           cable. Remove the steering column opening cover
+mounting bracket to the left front inner fender            from the instrument panel.
+shield.                                                       (2) Check for continuity between the metal steer-
+  (4) Remove the horn and mounting bracket from            ing column jacket and a good ground. There should
+the left front inner fender shield.                        be continuity. If OK, go to Step 3. If not OK, refer to
+                                                           Steering, Column for proper installation of the steer-
+INSTALLATION                                               ing column.
+  (1) Position the horn and mounting bracket onto             (3) Remove the driver side airbag module from the
+the left front inner fender shield.                        steering wheel. Disconnect the horn switch wire har-
+  (2) Install the mounting screw. Tighten the screw        ness connectors from the driver side airbag module.
+to 8.5 N·m (75 in. lbs.).                                     (4) Remove the horn relay from the Power Distri-
+  (3) Reconnect the wire harness connector.                bution Center (PDC). Check for continuity between
+  (4) Connect the battery negative cable.                  the steering column half of the horn switch feed wire
+                                                           harness connector and a good ground. There should
+                                                           be no continuity. If OK, go to Step 5. If not OK,
+HORN SWITCH                                                repair the shorted horn relay control circuit to the
+                                                           horn relay in the PDC as required.
+DESCRIPTION                                                   (5) Check for continuity between the steering col-
+  A center-blow, normally open, resistive membrane-        umn half of the horn switch feed wire harness con-
+type horn switch is secured in a plastic tray that is      nector and the horn relay control circuit cavity for
+inserted in a pocket sewn on the front of the driver       the horn relay in the PDC. There should be continu-
+side airbag retainer strap. The horn switch is con-        ity. If OK, go to Step 6. If not OK, repair the open
+cealed behind the driver side airbag module trim           horn relay control circuit to the horn relay in the
+cover.                                                     PDC as required.
+  The steering wheel and steering column must be              (6) Check for continuity between the horn switch
+properly grounded in order for the horn switch to          feed wire and the horn switch ground wire on the
+function properly. The horn switch and plastic tray        driver side airbag module. There should be no conti-
+are serviced as a unit. If the horn switch is damaged      nuity. If OK, go to Step 7. If not OK, replace the
+or faulty, or if the driver side airbag is deployed, the   faulty horn switch.
+horn switch and tray must be replaced as a unit.              (7) Depress the center of the driver side airbag
+                                                           module trim cover and check for continuity between
+OPERATION                                                  the horn switch feed wire and the horn switch
+  When the center area of the driver side airbag trim      ground wire on the driver side airbag module. There
+cover is depressed, the electrically conductive grids      should now be continuity. If not OK, replace the
+on the facing surfaces of the horn switch membranes        faulty horn switch.
+contact each other, closing the switch circuit. The
+completed horn switch circuit provides a ground for
+the control coil side of the horn relay, which activates
+the relay. When the horn switch is released, the
+resistive tension of the convex membrane separates
+

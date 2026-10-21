@@ -1,0 +1,57 @@
+8O - 8    RESTRAINTS                                                                                          TJ
+
+                                                           (4) Check to be certain that nobody is in the vehi-
+                                                        cle, then reconnect the battery negative cable.
+                                                           (5) Using the DRBIIIt, read and record the active
+                                                        (current) Diagnostic Trouble Code (DTC) data.
+                                                           (6) Next, use the DRBIIIt to read and record any
+                                                        stored (historical) DTC data.
+                                                           (7) If any DTC is found in Step 5 or Step 6, refer
+                                                        to the appropriate diagnostic information.
+                                                           (8) Use the DRBIIIt to erase the stored DTC data.
+                                                        If any problems remain, the stored DTC data will not
+                                                        erase. Refer to the appropriate diagnostic informa-
+                                                        tion to diagnose any stored DTC that will not erase.
+                                                        If the stored DTC information is successfully erased,
+                                                        go to Step 9.
+                                                           (9) Turn the ignition switch to the Off position for
+                                                        about fifteen seconds, and then back to the On posi-
+                                                        tion. Observe the airbag indicator in the instrument
+                                                        cluster. It should illuminate for six to eight seconds,
+                                                        and then go out. This indicates that the supplemen-
+                                                        tal restraint system is functioning normally and that
+                                                        the repairs are complete. If the airbag indicator fails
+                                                        to light, or lights and stays on, there is still an active
+    Fig. 5 16-Way Data Link Connector - Typical
+                                                        supplemental restraint system fault or malfunction.
+1 - 16–WAY DATA LINK CONNECTOR                          Refer to the appropriate diagnostic information to
+2 - BOTTOM OF INSTRUMENT PANEL
+                                                        diagnose the problem.
+  (3) Turn the ignition switch to the On position and
+exit the vehicle with the DRBIIIt scan tool.
+
+SPECIFICATIONS
+RESTRAINT SYSTEMS
+
+                                       TORQUE SPECIFICATIONS
+
+      DESCRIPTION                      N·m                      Ft. Lbs.                       In. Lbs.
+  Airbag Control Module                 14                          -                            125
+     Mounting Screws
+ Rear Seat Upper Tether                 26                         19                             -
+ Anchor Mounting Screw
+ Steering Column Shroud                 2                           -                            18
+    Mounting Screws
+ Driver Airbag Trim Cover               7                           -                            60
+       Retainer Nuts
+  Driver Airbag Mounting                10                          -                            90
+          Screws
+ Front Seat Belt Retractor              43                         32                             -
+ and Lower Anchor Mount-
+        ing Screw
+  Front Seat Belt Turning               43                         32                             -
+   Loop Mounting Screw
+  Front Seat Belt Buckle                43                         32                             -
+  Lower Anchor Mounting
+          Screw
+

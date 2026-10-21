@@ -1,0 +1,37 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                        8W - 80 - 59
+
+
+                           TRANSMISSION SOLENOID/PRESSURE SWITCH ASSEMBLY - 10 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    T60 16YL/GY                          OD SOLENOID CONTROL
+               2    T59 16YL/LB                          UD SOLENOID CONTROL
+               3    T16 16YL/OR                          TRANSMISSION CONTROL RELAY OUTPUT
+               4    T19 16YL/DB                          2-4 SOLENOID CONTROL
+               5    T47 18YL/DG                          2-4 PRESSURE SWITCH SENSE
+               6    T9 18DG/TN                           OD PRESSURE SWITCH SENSE
+               7    T20 16DG/WT                          L/R SOLENOID CONTROL
+               8    -                                    -
+               9    -                                    -
+              10    T50 18YL/TN                          L/R PRESSURE SWITCH SENSE
+
+
+
+
+                                             UNDERHOOD LAMP - BLACK 2 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    Z901 18BK                            GROUND
+               2    M21 20YL/BR                          FUSED B(+)
+
+
+
+
+                                        VEHICLE SPEED SENSOR - BLACK 3 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    F856 18YL/PK (EXCEPT MAN 6 SPD       5 VOLT SUPPLY
+                    TRANS)
+               1    F856 20YL/PK (MAN 6 SPD TRANS)       5 VOLT SUPPLY
+               2    K900 20DB/DG                         SENSOR GROUND
+               3    K75 18DB/OR (EXCEPT MAN 6 SPD        VEHICLE SPEED SENSOR SIGNAL
+                    TRANS)
+               3    K75 20DB/OR (MAN 6 SPD TRANS)        VEHICLE SPEED SENSOR SIGNAL
+

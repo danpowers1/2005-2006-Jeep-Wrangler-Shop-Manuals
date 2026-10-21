@@ -1,0 +1,75 @@
+TJ                                                                      FRONT WIPERS/WASHERS             8R - 5
+
+  The logic circuit responds to the Delay mode            DIAGNOSIS AND TESTING - FRONT WIPER &
+request inputs by calculating the correct delay inter-
+                                                          WASHER SYSTEM
+val. The logic circuit then energizes the wiper motor
+relay by pulling the relay control coil to ground. The
+                                                          WIPER SYSTEM
+energized wiper motor relay directs battery current
+                                                            The diagnosis found here addresses an electrically
+from the normally open relay terminal through the
+                                                          inoperative front wiper system. If the front wiper
+common feed relay terminal and the Delay mode
+                                                          motor operates, but the wipers do not move on the
+wiper switch circuitry to the low speed brush of the
+                                                          windshield, replace the faulty front wiper module. If
+wiper motor. The logic circuit monitors the front
+                                                          the wipers operate, but chatter, lift, or do not clear
+wiper motor operation through the wiper park switch
+                                                          the glass, clean and inspect the front wiper system
+sense circuit, which allows the logic circuit to deter-
+                                                          components as required. (Refer to 8 - ELECTRICAL/
+mine the proper timing to begin the next wiper blade
+                                                          FRONT WIPERS/WASHERS - CLEANING) and
+sweep.
+                                                          (Refer to 8 - ELECTRICAL/FRONT WIPERS/WASH-
+MIST MODE                                                 ERS - INSPECTION). Refer to the appropriate wir-
+                                                          ing information. The wiring information includes
+  When the control stalk of the right multi-function
+                                                          wiring diagrams, proper wire and connector repair
+switch is moved to the momentary Mist position, the
+                                                          procedures, details of wire harness routing and
+Mist mode circuitry within the switch directs battery
+                                                          retention, connector pin-out information and location
+current to the low speed brush of the front wiper
+                                                          views for the various wire harness connectors, splices
+motor, which causes the front wipers to cycle at low
+                                                          and grounds.
+speed for as long as the switch is held in the Mist
+position. When the control stalk is released, the         WARNING: TO AVOID PERSONAL INJURY OR
+wiper motor completes the current wipe cycle then         DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+parks the wiper blades near the base of the wind-         DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+shield.                                                   TEM BEFORE ATTEMPTING ANY STEERING
+                                                          WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+WASH MODE
+                                                          MENT PANEL COMPONENT DIAGNOSIS OR SER-
+   When the momentary Wash position of the right          VICE. DISCONNECT AND ISOLATE THE BATTERY
+multi-function switch control stalk is selected while     NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+the front wiper system is operating, the Wash mode        MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+circuitry within the switch directs battery current to    CHARGE BEFORE PERFORMING FURTHER DIAG-
+the front washer pump/motor for as long as the Wash       NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+mode circuitry within the switch remains closed.          TO DISABLE THE SUPPLEMENTAL RESTRAINT
+When the control stalk is released the Wash mode          SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+circuitry within the switch opens and the front           CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+washer pump/motor ceases operation.                       BAG DEPLOYMENT.
+WIPE - AFTER - WASH MODE                                    (1) Check the front wiper and washer system fuse
+   When the washer switch is closed with the front        (Fuse 14 - 25 ampere) in the fuse block. If OK, go to
+wiper system turned Off, the intermittent wipe logic      Step 2. If not OK, repair the shorted circuit or com-
+circuit operates the front wiper motor through the        ponent as required and replace the faulty fuse.
+wiper motor relay in the same manner as it does to          (2) Turn the ignition switch to the On position.
+provide the Delay mode operation, but uses the Off        Check for battery voltage at the front wiper and
+mode circuitry of the wiper switch to feed battery        washer system fuse (Fuse 14 - 25 ampere) in the fuse
+current to the low speed brush of the front wiper         block. If OK, go to Step 3. If not OK, repair the open
+motor. When the Wash mode circuitry state changes         fused ignition switch output (run-acc) circuit between
+to open, the intermittent wipe logic circuit de-ener-     the fuse block and the ignition switch as required.
+gizes the front washer pump/motor unit, but allows          (3) Disconnect and isolate the battery negative
+the wiper motor to operate for several additional         cable. Disconnect the body wire harness connector for
+wipe cycles before it de-energizes the wiper motor        the right multi-function switch from the switch con-
+and parks the wiper blades near the base of the           nector receptacle. Check for continuity between the
+windshield. The intermittent wipe logic circuit moni-     ground circuit cavity of the body wire harness con-
+tors the front wiper motor through the wiper park         nector for the right multi-function switch and a good
+switch sense circuit, which allows the logic circuit to   ground. There should be continuity. If OK, go to Step
+count the number of wiper blade sweeps.                   4. If not OK, repair the open ground circuit to ground
+                                                          (G300) as required.
+

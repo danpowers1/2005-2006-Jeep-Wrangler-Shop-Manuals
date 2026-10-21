@@ -1,0 +1,57 @@
+TJ                                                                           INSTRUMENT PANEL          23 - 41
+
+  (6) Turn the ignition to the OFF position. Discon-
+nect and isolate the negative battery cable. Remove
+the axle Lock switch. Disconnect the switch harness
+connector. Check for continuity between each of the
+Request circuits, between the switch harness connec-
+tor and each of the Locker relays in the PDC. If OK,
+refer to Axle Lock Indicator Problems in the Instru-
+ment Cluster section of the appropriate Body Manual
+or the Chassis Diagnostic Manual and perform the
+appropriate symptom. If not OK, repair the circuit(s)
+as required.
+
+REMOVAL
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE SUPPLEMENTAL RESTRAINT
+                                                                Fig. 2 ACCESSORY SWITCH REMOVE
+SYSTEM BEFORE ATTEMPTING ANY STEERING
+                                                         1 - TRIM STICK
+WHEEL, STEERING COLUMN, DRIVER AIRBAG,                   2 - REAR WIPER/WASHER SWITCH
+PASSENGER AIRBAG, OR INSTRUMENT PANEL                    3 - OVERDRIVE-OFF SWITCH
+COMPONENT DIAGNOSIS OR SERVICE. DISCON-                  4 - AXLE LOCKER SWITCH
+                                                         5 - ACCESSORY SWITCH BEZEL
+NECT AND ISOLATE THE BATTERY NEGATIVE                    6 - REAR WINDOW DEFOGGER SWITCH
+(GROUND) CABLE, THEN WAIT TWO MINUTES FOR
+THE SYSTEM CAPACITOR TO DISCHARGE BEFORE                 INSTALLATION
+PERFORMING FURTHER DIAGNOSIS OR SERVICE.
+THIS IS THE ONLY SURE WAY TO DISABLE THE                 WARNING: ON VEHICLES EQUIPPED WITH AIR-
+SUPPLEMENTAL RESTRAINT SYSTEM. FAILURE TO                BAGS, DISABLE THE SUPPLEMENTAL RESTRAINT
+TAKE THE PROPER PRECAUTIONS COULD                        SYSTEM BEFORE ATTEMPTING ANY STEERING
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT                   WHEEL, STEERING COLUMN, DRIVER AIRBAG,
+AND POSSIBLE PERSONAL INJURY.                            PASSENGER AIRBAG, OR INSTRUMENT PANEL
+                                                         COMPONENT DIAGNOSIS OR SERVICE. DISCON-
+   (1) Disconnect and isolate the battery negative       NECT AND ISOLATE THE BATTERY NEGATIVE
+cable.                                                   (GROUND) CABLE, THEN WAIT TWO MINUTES FOR
+   (2) Remove the accessory switch bezel from the        THE SYSTEM CAPACITOR TO DISCHARGE BEFORE
+instrument panel center bezel from the instrument        PERFORMING FURTHER DIAGNOSIS OR SERVICE.
+panel (Refer to 23 - BODY/INSTRUMENT PANEL/              THIS IS THE ONLY SURE WAY TO DISABLE THE
+ACCESSORY SWITCH BEZEL - REMOVAL)                        SUPPLEMENTAL RESTRAINT SYSTEM. FAILURE TO
+   (3) Using a trim stick or another suitable wide       TAKE THE PROPER PRECAUTIONS COULD
+flat-bladed tool, gently pry the latch tabs at the top   RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+and bottom of the axle lock switch on the back of the    AND POSSIBLE PERSONAL INJURY.
+accessory switch bezel far enough to disengage the
+snap features on the switch housing then pull the          (1) Position the axle lock switch over the proper
+switch out of the receptacle (Fig. 2).                   receptacle on the back of the accessory switch bezel
+                                                         (Fig. 2).
+                                                           (2) Evenly push the axle lock switch into the
+                                                         receptacle until the snap features on the top and bot-
+                                                         tom of the switch housing are fully engaged to the
+                                                         receptacle.
+                                                           (3) Reinstall the accessory switch bezel onto the
+                                                         instrument panel (Refer to 23 - BODY/INSTRU-
+                                                         MENT PANEL/ACCESSORY SWITCH BEZEL -
+                                                         INSTALLATION).
+                                                           (4) Reconnect the battery negative cable.
+

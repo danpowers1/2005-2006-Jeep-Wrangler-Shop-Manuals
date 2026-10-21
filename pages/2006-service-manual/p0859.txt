@@ -1,0 +1,49 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                        8W - 80 - 19
+
+
+                   C301 - (HEADLAMP AND DASH SIDE)
+              CAV                   CIRCUIT
+               1     A8 14RD
+               2     A940 12RD
+               3     A991 12RD
+               4     C15 12BK/WT
+               5     A906 12RD
+               6     A333 14WT/RD
+               7     L4 14WT/LG
+               8     -
+               9     A1 16RD
+              10     F26 16PK/OR
+              11     W10 16BR
+              12     A39 18RD/DG
+              13     A701 18BR/RD
+              14     D25 18WT/VT
+              15     G117 18VT/LG
+              16     G118 18VT/YL
+              17     G119 18VT
+              18     L7 18WT/YL
+              19     L50 18WT/TN
+              20     L60 18WT/TN
+              21     L61 18WT/LG
+              22     L139 18WT/YL
+              23     T141 18YL/OR
+              24     B15 20DG/WT
+              25     F1 20PK/WT
+              26     F102 20PK/DB
+              27     F960 20PK/LG
+              28     G9 20GY/BK
+              29     G93 20VT/LB
+              30     K106 20VT/LB
+              31     K107 20VT/WT
+              32     -
+              33     L1 20WT/LG
+              34     L45 20WT/OR
+              35     M21 20YL/BR
+              36     V30 20VT/WT
+              37     V32 20VT/YL
+              38     V37 20VT
+              39     X3 20RD/YL
+              40     -
+              41     -
+              42     K900 20DB/DG
+              43     L300 14LG/WT
+

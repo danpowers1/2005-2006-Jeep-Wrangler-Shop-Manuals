@@ -1,0 +1,39 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                            8W - 80 - 7
+
+
+                                       BLOWER MOTOR RESISTOR BLOCK - 4 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C71 18DB/BR                           BLOWER MOTOR LOW DRIVER
+               2    C72 16DB/OR                           BLOWER MOTOR M1 DRIVER
+               3    C73 14DB/VT                           BLOWER MOTOR M2 DRIVER
+               4    C75 12DB/GY                           BLOWER MOTOR HIGH DRIVER
+
+
+
+
+                                             BRAKE LAMP SWITCH - GRAY 6 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    B15 20DG/WT                           BRAKE SWITCH NO. 1 SIGNAL
+               1    B15 20DG/WT                           BRAKE SWITCH NO. 1 SIGNAL
+               2    Z249 20BK/OR                          GROUND
+               3    V32 20VT/YL (EXCEPT POSTAL)           S/C SUPPLY
+               4    V30 20VT/WT (EXCEPT POSTAL)           S/C BRAKE SWITCH OUTPUT
+               5    A103 18GY/RD                          FUSED B(+)
+               6    L50 18WT/TN                           BRAKE LAMP SWITCH OUTPUT
+
+
+
+
+                          BRAKE TRANSMISSION SHIFT INTERLOCK SOLENOID - WHITE 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    B15 20DG/WT                           BRAKE SWITCH NO. 1 SIGNAL
+               2    F505 20PK/YL                          FUSED IGNITION SWITCH OUTPUT (RUN-START)
+
+
+
+
+                                   BRAKE WARNING INDICATOR SWITCH - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    G9 20GY/BK                            BRAKE WARNING INDICATOR DRIVER
+               2    B83 20DG/WT                           BRAKE WARNING INDICATOR DRIVER
+

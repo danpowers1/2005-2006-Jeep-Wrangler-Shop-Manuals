@@ -1,0 +1,43 @@
+TJ                                                                                 FUEL INJECTION        14 - 39
+
+
+
+
+Fig. 24 THROTTLE BODY MOUNTING BOLTS - 2.4L
+1 - THROTTLE BODY
+2 - IGNITION COIL
+3 - MOUNTING BOLTS (3)
+                                                                                 Fig. 25
+4.0L                                                      INSTALLATION
+   A (factory adjusted) set screw is used to mechani-
+cally limit the position of the throttle body throttle    2.4L
+plate. Never attempt to adjust the engine idle               (1) Check condition of throttle body-to-intake man-
+speed using this screw. All idle speed functions are      ifold o-ring. Replace as necessary.
+controlled by the Powertrain Control Module (PCM).           (2) Clean mating surfaces of throttle body and
+   (1) Remove air cleaner tube at throttle body.          intake manifold.
+   (2) Disconnect throttle body electrical connectors        (3) Install throttle body-to-intake manifold o-ring.
+at MAP sensor, IAC motor and TPS (Fig. 25).                  (4) Install throttle body to intake manifold.
+   (3) Remove all control cables from throttle body          (5) Install 3 mounting bolts. Tighten bolts to 12
+(lever) arm. Refer to the Accelerator Pedal and Throt-    N·m (105 in. lbs.) torque.
+tle Cable section of this group for additional informa-      (6) Install control cables.
+tion.                                                        (7) Install electrical connectors.
+   (4) Remove four throttle body mounting bolts.             (8) Install necessary vacuum lines.
+   (5) Remove throttle body from intake manifold.            (9) Install air cleaner duct at throttle body.
+   (6) Discard old throttle body-to-intake manifold
+gasket.                                                   4.0L
+                                                            A (factory adjusted) set screw is used to mechani-
+                                                          cally limit the position of the throttle body throttle
+                                                          plate. Never attempt to adjust the engine idle
+                                                          speed using this screw. All idle speed functions are
+                                                          controlled by the Powertrain Control Module (PCM).
+                                                            (1) Clean mating surfaces of throttle body and
+                                                          intake manifold.
+                                                            (2) Install new throttle body-to-intake manifold
+                                                          gasket.
+                                                            (3) Install throttle body to intake manifold.
+                                                            (4) Install four mounting bolts. Tighten bolts to 11
+                                                          N·m (100 in. lbs.) torque.
+                                                            (5) Install control cables.
+                                                            (6) Install electrical connectors.
+                                                            (7) Install air cleaner at throttle body.
+

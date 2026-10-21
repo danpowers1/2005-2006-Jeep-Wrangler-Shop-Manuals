@@ -1,0 +1,62 @@
+24 - 28    CONTROLS                                                                                        TJ
+
+DIAGNOSIS AND TESTING                                    resistors to cool before performing diagnosis or
+                                                         service. Failure to take this precaution can result in
+BLOWER MOTOR RESISTOR                                    possible personal injury.
+                                                           (1) Disconnect and isolate the negative battery
+WARNING: On vehicles equipped with airbags, dis-         cable.
+able the airbag system before attempting any steer-        (2) Remove the glove box (Refer to 23 - BODY/IN-
+ing wheel, steering column, or instrument panel          STRUMENT PANEL/GLOVE BOX - REMOVAL).
+component diagnosis or service. Disconnect and             (3) Unlock the blower motor resistor wire harness
+isolate the negative battery (ground) cable, then        connector and disconnect the connector from the
+wait two minutes for the airbag system capacitor to      blower motor resistor (Fig. 27).
+discharge before performing further diagnosis or           (4) Reach through the glove box opening and
+service. This is the only sure way to disable the air-   remove the upper screw that secures the blower
+bag system. Failure to take the proper precautions       motor resistor to the HVAC housing.
+could result in accidental airbag deployment and           (5) From under the instrument panel, remove the
+possible personal injury or death.                       lower screw that secures the blower motor resistor to
+                                                         the HVAC housing and remove the resistor.
+
+NOTE: For circuit descriptions and diagrams, refer
+to the appropriate wiring information. The wiring
+information includes wiring diagrams, proper wire
+and connector repair procedures, further details on
+wire harness routing and retention, as well as pin-
+out and location views for the various wire harness
+connectors, splices and grounds.
+
+  (1) Disconnect and isolate the negative battery
+cable.
+  (2) Disconnect the wire harness connector from the
+blower motor resistor (Refer to 24 - HEATING & AIR
+CONDITIONING/CONTROLS/BLOWER                 MOTOR
+RESISTOR - REMOVAL).
+  (3) Using an ohmmeter, check for continuity
+between all of the blower motor resistor terminals. In
+each case there should be continuity. If OK, repair
+the wire harness circuits between the blower motor
+switch and the blower motor resistor or blower motor            Fig. 27 Blower Motor Resistor-R and I
+as required. If not OK, replace the faulty blower        1 - WIRE HARNESS CONNECTOR
+motor resistor.                                          2 - BLOWER MOTOR RESISTOR
+                                                         3 - SCREW (2)
+                                                         4 - HVAC HOUSING
+REMOVAL
+WARNING: On vehicles equipped with airbags, dis-
+                                                         INSTALLATION
+able the airbag system before attempting any steer-        (1) From under the instrument panel, position the
+ing wheel, steering column, or instrument panel          blower motor resistor into the HVAC housing.
+component diagnosis or service. Disconnect and             (2) From under the instrument panel, install the
+isolate the negative battery (ground) cable, then        lower screw that secures the blower motor resistor to
+wait two minutes for the airbag system capacitor to      the HVAC housing. Tighten the screw to 2 N·m (17
+discharge before performing further diagnosis or         in. lbs.).
+service. This is the only sure way to disable the air-     (3) Reach through the glove box opening and
+bag system. Failure to take the proper precautions       install the upper screw that secures the blower motor
+could result in accidental airbag deployment and         resistor to the HVAC housing. Tighten the screw to 2
+possible personal injury or death.                       N·m (17 in. lbs.).
+                                                           (4) Connect the wire harness connector to the
+                                                         blower motor resistor and engage the connector lock.
+WARNING: The blower motor resistor may get very            (5) Install the glove box (Refer to 23 - BODY/IN-
+hot during normal operation. If the blower motor         STRUMENT PANEL/GLOVE BOX - INSTALLA-
+was turned on prior to servicing the blower motor        TION).
+resistor, wait five minutes to allow the blower motor      (6) Reconnect the negative battery cable.
+

@@ -1,0 +1,64 @@
+TJ                                                        AUTOMATIC TRANSMISSION - 42RLE               21 - 143
+
+SOLENOID / PRESSURE                                      valve shifts, and a fluid passage is opened or closed
+                                                         (vented or applied), depending on its default operat-
+SWITCH ASSY                                              ing state. The result is an apply or release of a fric-
+                                                         tional element.
+DESCRIPTION                                                 The 2/4 and UD solenoids are normally applied,
+                                                         which allows fluid to pass through in their relaxed or
+                                                         “off” state. By design, this allows transmission
+                                                         limp-in (P,R,N,2) in the event of an electrical failure.
+                                                            The continuity of the solenoids and circuits are
+                                                         periodically tested. Each solenoid is turned on or off
+                                                         depending on its current state. An inductive spike
+                                                         should be detected by the TCM during this test. If no
+                                                         spike is detected, the circuit is tested again to verify
+                                                         the failure. In addition to the periodic testing, the
+                                                         solenoid circuits are tested if a speed ratio or pres-
+                                                         sure switch error occurs.
+
+                                                         PRESSURE SWITCHES
+                                                            The TCM relies on three pressure switches to mon-
+                                                         itor fluid pressure in the L/R, 2/4, and OD hydraulic
+                                                         circuits. The primary purpose of these switches is to
+                                                         help the TCM detect when clutch circuit hydraulic
+                                                         failures occur. The range for the pressure switch clos-
+                                                         ing and opening points is 11-23 psi. Typically the
+                                                         switch opening point will be approximately one psi
+                                                         lower than the closing point. For example, a switch
+                                                         may close at 18 psi and open at 17 psi. The switches
+           Fig. 238 Valve Body Assembly                  are continuously monitored by the TCM for the cor-
+1 - SOLENOID/PRESSURE SWITCH ASSEMBLY                    rect states (open or closed) in each gear as shown in
+2 - TRS
+3 - TRANSFER PLATE
+                                                         the following chart:
+4 - SEPARATOR PLATE
+5 - VALVE BODY                                                      PRESSURE SWITCH STATES
+
+  The Solenoid/Pressure Switch Assembly (1) (Fig.           GEAR            L/R           2/4           OD
+238) is inside the transmission and mounted to the
+valve body assembly. The assembly consists of four            R             OP            OP            OP
+solenoids that control hydraulic pressure to the L/R,        P/N            CL            OP            OP
+2/4, OD, and UD friction elements (transmission               1st           CL            OP            OP
+clutches), and the torque converter clutch. The
+reverse clutch is controlled by line pressure from the       2nd            OP            CL            OP
+manual valve in the valve body. The solenoids are             D             OP            OP            CL
+contained within the Solenoid/Pressure Switch                OD             OP            CL            CL
+Assembly, and can only be serviced by replacing the
+                                                                              OP = OPEN
+assembly.
+  The solenoid assembly also contains pressure                               CL = CLOSED
+switches that monitor and send hydraulic circuit            A Diagnostic Trouble Code (DTC) will set if the
+information to the TCM. Likewise, the pressure           TCM senses any switch open or closed at the wrong
+switches can only be service by replacing the assem-     time in a given gear.
+bly.                                                        The TCM also tests the 2/4 and OD pressure
+                                                         switches when they are normally off (OD and 2/4 are
+OPERATION                                                tested in 1st gear, OD in 2nd gear, and 2/4 in 3rd
+                                                         gear). The test simply verifies that they are opera-
+SOLENOIDS                                                tional, by looking for a closed state when the corre-
+  The solenoids receive electrical power from the        sponding element is applied. Immediately after a
+Transmission Control Relay through a single wire.        shift into 1st, 2nd, or 3rd gear with the engine speed
+The TCM energizes or operates the solenoids individ-     above 1000 rpm, the TCM momentarily turns on ele-
+ually by grounding the return wire of the solenoid       ment pressure to the 2/4 and/or OD clutch circuits to
+needed. When a solenoid is energized, the solenoid       identify that the appropriate switch has closed. If it
+

@@ -1,0 +1,63 @@
+21 - 140     AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+
+                                                          sion case. The planetary geartrain consists of two
+                                                          sun gears, two planetary carriers, two annulus (ring)
+                                                          gears, and one output shaft (Fig. 235).
+
+                                                          OPERATION
+                                                            The planetary geartrain utilizes two planetary gear
+                                                          sets that connect the transmission input shaft to the
+                                                          output shaft. Input and holding clutches drive or lock
+                                                          different planetary members to change output ratio
+                                                          or direction.
+
+
+                                                          OIL PUMP SEAL
+                                                          REMOVAL
+                                                            (1) Remove the transmission from the vehicle
+            Fig. 234 Overdrive Off Switch                 (Refer to 21 - TRANSMISSION/AUTOMATIC -
+1 - ACCESSORY SWITCH BEZEL                                42RLE - REMOVAL).
+2 - OVERDRIVE OFF SWITCH
+                                                            (2) Remove the torque converter from the trans-
+  (2) Remove the overdrive off switch from the acces-     mission bellhousing.
+sory switch bezel.                                          (3) Use special tool C-3981B to remove oil pump
+                                                          seal.
+INSTALLATION
+  (1) Install the overdrive off switch to the accessory   INSTALLATION
+switch bezel.                                               (1) Clean and inspect oil pump seal seat. Then
+  (2) Install the accesory switch bezel (Refer to 23 -    install seal using special tool C-4193-A.
+BODY/INSTRUMENT                  PANEL/ACCESSORY            (2) Clean and inspect torque converter hub. If
+SWITCH BEZEL - INSTALLATION).                             nicks, scratches or hub wear are found, torque con-
+                                                          verter replacement will be required.
+
+PLANETARY GEARTRAIN                                       CAUTION: If the torque converter is being replaced,
+                                                          apply a light coating of grease to the crankshaft
+DESCRIPTION                                               pilot hole. Also inspect the engine drive plate for
+                                                          cracks. If any cracks are found replace the drive
+                                                          plate. Do not attempt to repair a cracked drive plate.
+                                                          Always use new torque converter to drive plate
+                                                          bolts.
+
+                                                            (3) Apply a light film of transmission oil to the
+                                                          torque converter hub and oil seal lips. Then install
+                                                          torque converter into transmission. Be sure that the
+                                                          hub lugs mesh with the front pump lugs when
+                                                          installing.
+                                                            (4) Reinstall the transmission into the vehicle.
+                                                          (Refer to 21 - TRANSMISSION/TRANSAXLE/AUTO-
+                                                          MATIC - 42RLE - INSTALLATION)
+
+
+                                                          SHIFT MECHANISM
+            Fig. 235 Planetary Geartrain
+                                                          DESCRIPTION
+1 - FRONT SUN GEAR ASSEMBLY
+2 - #6 THRUST BEARING                                        The shift mechanism is cable operated and pro-
+3 - #7 THRUST BEARING                                     vides six shift positions. The shift indicator is located
+4 - REAR CARRIER FRONT ANNULUS ASSEMBLY                   on the console next to the gear shift. The shift posi-
+5 - REAR SUN GEAR
+6 - FRONT CARRIER REAR ANNULUS ASSEMBLY                   tions are:
+                                                             • Park (P)
+  The planetary geartrain is located between the             • Reverse (R)
+input clutch assembly and the rear of the transmis-          • Neutral (N)
+

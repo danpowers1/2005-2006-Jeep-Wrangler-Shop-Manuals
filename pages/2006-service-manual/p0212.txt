@@ -1,0 +1,59 @@
+3 - 156    REAR AXLE - 216RBI                                                                             TJ
+
+                                                         ver will pump lubricant through the clutches. This
+                                                         will correct the condition in most instances. If the
+                                                         chatter persists, clutch damage could have occurred.
+
+                                                         DIFFERENTIAL TEST
+                                                           The differential can be tested without removing the
+                                                         differential case by measuring rotating torque. Make
+                                                         sure brakes are not dragging during this measure-
+                                                         ment.
+                                                           (1) Place blocks in front and rear of both front
+                                                         wheels.
+                                                           (2) Raise one rear wheel until it is completely off
+                                                         the ground.
+                                                           (3) Engine off, transmission in neutral, and park-
+                                                         ing brake off.
+                                                           (4) Remove wheel and bolt Special Tool 6790 or
+                                                         equivalent tool to studs.
+                                                           (5) Use torque wrench on special tool to rotate
+                                                         wheel and read rotating torque (Fig. 49).
+
+
+
+
+  Fig. 48 TRAC-LOK LIMITED SLIP DIFFERENTIAL
+1 - CASE
+2 - RING GEAR
+3 - DRIVE PINION
+4 - PINION GEAR
+5 - MATE SHAFT
+6 - CLUTCH PACK
+7 - SIDE GEAR
+8 - CLUTCH PACK
+                                                                  Fig. 49 ROTATING TORQUE TEST
+  This design provides the differential action needed
+                                                         1 - SPECIAL TOOL WITH BOLT IN CENTER HOLE
+for turning corners and for driving straight ahead       2 - TORQUE WRENCH
+during periods of unequal traction. When one wheel
+looses traction, the clutch packs transfer additional      (6) If rotating torque is less than 41 N·m (56 ft.
+torque to the wheel having the most traction. This       lbs.) or more than 271 N·m (200 ft. lbs.) on either
+differential resist wheel spin on bumpy roads and        wheel the unit should be serviced.
+provide more pulling power when one wheel looses
+traction. Pulling power is provided continuously until   DISASSEMBLY
+both wheels loose traction. If both wheels slip due to     (1) Clamp side gear Fixture 6965 in a vise and set
+unequal traction, Trac-lokt operation is normal. In      differential case on the fixture (Fig. 50).
+extreme cases of differences of traction, the wheel
+with the least traction may spin.
+
+DIAGNOSIS AND TESTING
+   The most common problem is a chatter noise when
+turning corners. Before removing the unit for repair,
+drain, flush and refill the axle with the specified
+lubricant. A container of Mopar Trac-lokt Lubricant
+(friction modifier) should be added after repair ser-
+vice or during a lubricant change.
+   After changing the lubricant, drive the vehicle and
+make 10 to 12 slow, figure-eight turns. This maneu-
+

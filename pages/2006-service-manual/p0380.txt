@@ -1,0 +1,57 @@
+8E - 4    ELECTRONIC CONTROL MODULES                                                                     TJ
+
+of the steering column. It is mounted to bracket with
+one bolt. The bracket is mounted to the front upper
+cowl panel.
+
+OPERATION
+  The CAB voltage source is through the ignition
+switch in the RUN position. The CAB contains dual
+microprocessors. A logic block in each microprocessor
+receives identical sensor signals. These signals are
+processed and compared simultaneously. The CAB
+contains a self check program that illuminates the
+ABS warning light when a system fault is detected.
+Faults are stored in a diagnostic program memory
+and are accessible with the DRB scan tool. ABS
+faults remain in memory until cleared, or until after
+the vehicle is started approximately 50 times. Stored
+                                                                   Fig. 2 CONTROLLER AND HCU
+faults are not erased if the battery is disconnected.
+                                                         1 - CONTROLLER ANTILOCK BRAKE MODULE
+
+REMOVAL                                                  2 - HYDRAULIC CONTROL UNIT (H.C.U)
+  (1) Remove the negative battery cable from the         3 - ELECTRICAL CONNECTOR
+battery.
+  (2) Pull up on the CAB harness connector release         (4) Install the wiring harness connector to the
+(Fig. 1) and remove connector.                           CAB and push down on the release to secure the con-
+                                                         nector.
+                                                           (5) Install negative battery cable to the battery.
+
+
+                                                         DATA LINK CONNECTOR
+                                                         DESCRIPTION - DATA LINK CONNECTOR
+                                                           The data link connector (DLC) is located at the
+                                                         lower edge of the instrument panel near the steering
+                                                         column.
+
+                                                         OPERATION - DATA LINK CONNECTOR
+                                                           The 16-way data link connector (diagnostic scan
+                                                         tool connector) links the Diagnostic Readout Box
+                                                         (DRB) scan tool or the Mopar Diagnostic System
+                                                         (MDS) with the Powertrain Control Module (PCM).
+   Fig. 1 CAB HARNESS CONNECTOR RELEASE
+1 - ABS MODULE
+2 - ELECTRICAL CONNECTOR
+
+  (3) Remove the pump connector from the CAB.
+  (4) Remove the CAB mounting bolts.
+  (5) Remove the CAB from the HCU (Fig. 2).
+
+INSTALLATION
+  (1) Install CAB to the HCU (Fig. 2).
+  (2) Install mounting bolts. Tighten to 2 N·m (16 in.
+lbs.).
+  (3) Install the pump electircal connector to the
+CAB (Fig. 2).
+

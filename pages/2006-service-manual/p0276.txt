@@ -1,0 +1,54 @@
+5 - 24    BRAKES - BASE                                                                                TJ
+
+DIAGNOSIS AND TESTING - MASTER CYLIN-
+DER / POWER BOOSTER
+   (1) Start engine and check booster vacuum hose
+connections. A hissing noise indicates vacuum leak.
+Correct any vacuum leak before proceeding.
+   (2) Stop engine and shift transmission into Neu-
+tral.
+   (3) Pump brake pedal until all vacuum reserve in
+booster is depleted.
+   (4) Press and hold brake pedal under light foot
+pressure. The pedal should hold firm, if the pedal
+falls away master cylinder is faulty (internal leak-
+age).
+   (5) Start engine and note pedal action. It should
+fall away slightly under light foot pressure then hold
+firm. If no pedal action is discernible, power booster,
+vacuum supply, or vacuum check valve is faulty. Pro-
+ceed to the POWER BOOSTER VACUUM TEST.
+   (6) If the POWER BOOSTER VACUUM TEST
+passes, rebuild booster vacuum reserve as follows:
+Release brake pedal. Increase engine speed to 1500         Fig. 42 Typical Booster Vacuum Test Connections
+rpm, close the throttle and immediately turn off igni-    1 - TEE FITTING
+                                                          2 - SHORT CONNECTING HOSE
+tion to stop engine.                                      3 - CHECK VALVE
+   (7) Wait a minimum of 90 seconds and try brake         4 - CHECK VALVE HOSE
+action again. Booster should provide two or more vac-     5 - CLAMP TOOL
+                                                          6 - INTAKE MANIFOLD
+uum assisted pedal applications. If vacuum assist is      7 - VACUUM GAUGE
+not provided, booster is faulty.
+                                                          POWER BOOSTER CHECK VALVE TEST
+POWER BOOSTER VACUUM TEST                                   (1) Disconnect vacuum hose from check valve.
+   (1) Connect vacuum gauge to booster check valve          (2) Remove check valve and valve seal from
+with short length of hose and T-fitting (Fig. 42).        booster.
+   (2) Start and run engine at curb idle speed for one      (3) Use a hand operated vacuum pump for test.
+minute.                                                     (4) Apply 15-20 inches vacuum at large end of
+   (3) Observe the vacuum supply. If vacuum supply        check valve (Fig. 43).
+is not adequate, repair vacuum supply.                      (5) Vacuum should hold steady. If gauge on pump
+   (4) Clamp hose shut between vacuum source and          indicates vacuum loss, check valve is faulty and
+check valve.                                              should be replaced.
+   (5) Stop engine and observe vacuum gauge.
+   (6) If vacuum drops more than one inch HG (33
+millibars) within 15 seconds, booster diaphragm or
+check valve is faulty.
+
+
+
+
+                                                                Fig. 43 Vacuum Check Valve And Seal
+                                                          1 - BOOSTER CHECK VALVE
+                                                          2 - APPLY TEST VACUUM HERE
+                                                          3 - VALVE SEAL
+

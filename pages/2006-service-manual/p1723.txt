@@ -1,0 +1,61 @@
+TJ                                                                              EMISSIONS CONTROL            25 - 3
+
+  Response rate is the time required for the sensor to        Immediately after a cold start, between predeter-
+switch from lean to rich once it is exposed to a richer    mined temperature thresholds limits, the three port
+than optimum A/F mixture or vice versa. As the sen-        solenoid is briefly energized. This initializes the
+sor starts malfunctioning, it could take longer to         pump by drawing air into the pump cavity and also
+detect the changes in the oxygen content of the            closes the vent seal. During non test conditions the
+exhaust gas.                                               vent seal is held open by the pump diaphragm
+  The output voltage of the O2S ranges from 0 to 1         assembly which pushes it open at the full travel posi-
+volt. A good sensor can easily generate any output         tion. The vent seal will remain closed while the
+voltage in this range as it is exposed to different con-   pump is cycling due to the reed switch triggering of
+centrations of oxygen. To detect a shift in the A/F        the three port solenoid that prevents the diaphragm
+mixture (lean or rich), the output voltage has to          assembly from reaching full travel. After the brief
+change beyond a threshold value. A malfunctioning          initialization period, the solenoid is de-energized
+sensor could have difficulty changing beyond the           allowing atmospheric pressure to enter the pump
+threshold value.                                           cavity, thus permitting the spring to drive the dia-
+                                                           phragm which forces air out of the pump cavity and
+OXYGEN SENSOR HEATER MONITOR                               into the vent system. When the solenoid is energized
+   If there is an oxygen sensor (O2S) shorted to volt-     and de energized, the cycle is repeated creating flow
+age DTC, as well as a O2S heater DTC, the O2S              in typical diaphragm pump fashion. The pump is con-
+fault MUST be repaired first. Before checking the          trolled in 2 modes:
+O2S fault, verify that the heater circuit is operating        Pump Mode: The pump is cycled at a fixed rate to
+correctly.                                                 achieve a rapid pressure build in order to shorten the
+   Effective control of exhaust emissions is achieved      overall test length.
+by an oxygen feedback system. The most important              Test Mode: The solenoid is energized with a fixed
+element of the feedback system is the O2S. The O2S         duration pulse. Subsequent fixed pulses occur when
+is located in the exhaust path. Once it reaches oper-      the diaphragm reaches the Switch closure point.
+ating temperature 300° to 350°C (572 ° to 662°F), the         The spring in the pump is set so that the system
+sensor generates a voltage that is inversely propor-       will achieve an equalized pressure of about 7.5”
+tional to the amount of oxygen in the exhaust. The         water. The cycle rate of pump strokes is quite rapid
+information obtained by the sensor is used to calcu-       as the system begins to pump up to this pressure. As
+late the fuel injector pulse width. This maintains a       the pressure increases, the cycle rate starts to drop
+14.7 to 1 Air Fuel (A/F) ratio. At this mixture ratio,     off. If there is no leak in the system, the pump would
+the catalyst works best to remove hydrocarbons (HC),       eventually stop pumping at the equalized pressure. If
+carbon monoxide (CO) and nitrogen oxide (NOx) from         there is a leak, it will continue to pump at a rate rep-
+the exhaust.                                               resentative of the flow characteristic of the size of the
+   The voltage readings taken from the O2S sensor          leak. From this information we can determine if the
+are very temperature sensitive. The readings are not       leak is larger than the required detection limit (cur-
+accurate below 300°C. Heating of the O2S sensor is         rently set at.040” orifice by CARB). If a leak is
+done to allow the engine controller to shift to closed     revealed during the leak test portion of the test, the
+loop control as soon as possible. The heating element      test is terminated at the end of the test mode and no
+used to heat the O2S sensor must be tested to ensure       further system checks will be performed.
+that it is heating the sensor properly.                       After passing the leak detection phase of the test,
+   The O2S sensor circuit is monitored for a drop in       system pressure is maintained by turning on the
+voltage. The sensor output is used to test the heater      LDP’s solenoid until the purge system is activated.
+by isolating the effect of the heater element on the       Purge activation in effect creates a leak. The cycle
+O2S sensor output voltage from the other effects.          rate is again interrogated and when it increases due
+                                                           to the flow through the purge system, the leak check
+LEAK DETECTION PUMP MONITOR (IF EQUIPPED)                  portion of the diagnostic is complete.
+   The leak detection assembly incorporates two pri-          The canister vent valve will unseal the system
+mary functions: it must detect a leak in the evapora-      after completion of the test sequence as the pump
+tive system and seal the evaporative system so the         diaphragm assembly moves to the full travel position.
+leak detection test can be run.                               Evaporative system functionality will be verified by
+   The primary components within the assembly are:         using the stricter evap purge flow monitor. At an
+A three port solenoid that activates both of the func-     appropriate warm idle the LDP will be energized to
+tions listed above; a pump which contains a switch,        seal the canister vent. The purge flow will be clocked
+two check valves and a spring/diaphragm, a canister        up from some small value in an attempt to see a
+vent valve (CVV) seal which contains a spring loaded       shift in the 02 control system. If fuel vapor, indicated
+vent seal valve.                                           by a shift in the 02 control, is present the test is
+                                                           passed. If not, it is assumed that the purge system is
+

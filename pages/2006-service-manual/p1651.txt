@@ -1,0 +1,54 @@
+TJ                                                                                       CONTROLS         24 - 15
+
+                                                             The A/C-heater control cannot be repaired and, if
+                                                          faulty or damaged, it must be replaced. The blower
+                                                          motor and mode control switch, control knobs and
+                                                          illumination lamps are available for service replace-
+                                                          ment.
+
+
+
+
+  Fig. 10 Power Distribution Center - LHD shown,
+                   RHD similar
+1 - BATTERY POSITIVE CABLE
+2 - BATTERY NEGATIVE CABLE
+3 - DASH PANEL
+4 - INNER FENDER
+5 - POWER DISTRIBUTION CENTER (PDC)
+6 - NUT                                                            Fig. 11 A/C-Heater Control - Typical
+                                                          1 - BLOWER SPEED CONTROL
+INSTALLATION                                              2 - TEMPERATURE SELECT COPNTROL
+                                                          3 - MODE SELECT CONTROL
+NOTE: Refer to the fuse and relay layout map on
+the inside of the power distribution center (PDC)         DIAGNOSIS AND TESTING
+cover for A/C clutch relay location.
+                                                          VACUUM CONTROL SYSTEM
+  (1) Position the A/C clutch relay into the receptacle      Vacuum control is used to operate the mode-air
+of the PDC.                                               doors within the HVAC housing. Testing the opera-
+  (2) Align the A/C clutch relay terminals with the       tion of the heating-only and heating-A/C system
+terminal cavities in the PDC receptacle and push          mode control will determine if the vacuum and
+down firmly on the relay until the terminals are fully    mechanical controls are functioning. However, it is
+seated.                                                   possible that a vacuum control system that operates
+  (3) Close the cover of the PDC.                         correctly at engine idle (high engine vacuum) may
+  (4) Reconnect the negative battery cable.               not function properly at high engine speeds or loads
+                                                          (low engine vacuum). This can be caused by leaks
+                                                          within the vacuum system, or a faulty vacuum check
+A / C - HEATER CONTROL                                    valve.
+                                                             A vacuum system test will help to identify the
+DESCRIPTION                                               source of poor vacuum system performance or vac-
+   The A/C-heater control (Fig. 11) for both the man-     uum system leaks. Before starting this test, stop the
+ual temperature control (MTC) single zone heating-        engine and make certain that the problem is not a
+only and the heating-A/C system allows one                disconnected vacuum supply line at the engine intake
+temperature setting for the entire vehicle. All con-      manifold vacuum tap or at the vacuum reservoir.
+trols are identified by ISO graphic symbols.                 Use an adjustable vacuum test set (Special Tool
+   The A/C-heater control is located in the instrument    C-3707-B) and a suitable vacuum pump to test the
+panel and contains:                                       HVAC vacuum control system. With a finger placed
+   • a rotary control knob for blower fan speed selec-    over the end of the vacuum test hose probe (Fig. 12),
+tion.                                                     adjust the bleed valve on the test set gauge to obtain
+   • a rotary control knob for recirculation and mode     a vacuum of exactly 27 kPa (8 in. Hg.). Release and
+control of the discharged air.                            block the end of the probe several times to verify that
+   • a rotary control knob for temperature control of     the vacuum reading returns to the exact 27 kPa (8
+the discharged air and turning the heating-A/C sys-       in. Hg.) setting. Otherwise, a false reading will be
+tem off.
+

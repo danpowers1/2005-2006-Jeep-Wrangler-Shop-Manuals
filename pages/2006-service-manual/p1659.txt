@@ -1,0 +1,51 @@
+TJ                                                                                      CONTROLS        24 - 23
+
+
+
+
+                                                                   Fig. 20 A/C Pressure Transducer
+     Fig. 19 A/C Low Pressure Switch - Typical           1 - A/C PRESSURE TRANSDUCER
+1 - WIRE HARNESS CONNECTOR
+2 - ACCUMULATOR                                          OPERATION
+3 - A/C LOW PRESSURE SWITCH                                 The A/C pressure transducer monitors the pres-
+                                                         sures in the high side of the refrigerant system
+INSTALLATION                                             through its connection to a fitting on the A/C dis-
+                                                         charge line. The A/C pressure transducer will change
+NOTE: Use only the specified O-ring as it is made        its internal resistance in response to the pressures it
+of special material for R-134a. Use only refrigerant     monitors. A Schrader-type valve in the discharge line
+oil of the type required for the A/C compressor.         fitting permits the A/C pressure transducer to be
+                                                         removed or installed without disturbing the refriger-
+  (1) Lubricate a new rubber O-ring seal with clean
+                                                         ant in the A/C system.
+refrigerant oil and install it on the A/C low pressure
+                                                            The powertrain control module (PCM) provides a
+switch fitting.
+                                                         five volt reference signal and a sensor ground to the
+  (2) Install the A/C low pressure switch on the
+                                                         A/C pressure transducer, then monitors the output
+accumulator. Hand-tightened the switch securely.
+                                                         voltage of the A/C pressure transducer on a sensor
+  (3) Connect the wire harness connector to the A/C
+                                                         return circuit to determine refrigerant pressure. The
+low pressure switch.
+                                                         PCM is programmed to respond to the A/C pressure
+  (4) Reconnect the negative battery cable.
+                                                         transducer and other sensor inputs by controlling the
+                                                         operation of the A/C compressor clutch and the radi-
+A / C PRESSURE TRANS-                                    ator cooling fan to help optimize A/C system perfor-
+                                                         mance and to protect the system components from
+DUCER                                                    damage PCM will disengage the A/C compressor
+                                                         clutch when high side pressure rises above 2971 kPa
+DESCRIPTION                                              (431 psi) or fall below 206 kPa (30 psi). The A/C pres-
+   The A/C pressure transducer (Fig. 20) is a switch     sure transducer input to the PCM will also prevent
+that is installed on a fitting located on the A/C dis-   the A/C compressor clutch from engaging when ambi-
+charge line when equipped with the 2.4L gasoline         ent temperatures are below about 1.0° C (50° F) due
+engine. An internally threaded fitting on the A/C        to the pressure/temperature relationship of the
+pressure transducer connect it to the externally         refrigerant.
+threaded Schrader-type fitting on the A/C discharge         The A/C pressure transducer is diagnosed using a
+line. A rubber O-ring seals the connection between       DRBIIIt scan tool. Refer to the appropriate diagnos-
+the A/C pressure transducer and the discharge line       tic information.
+fitting. The A/C pressure transducer is connected to        The A/C pressure transducer cannot be adjusted or
+the vehicle electrical system by a molded plastic con-   repaired and, if faulty or damaged, it must be
+nector with three terminals.                             replaced.
+

@@ -1,0 +1,53 @@
+TJ                                                                          FRONT AXLE - 181FBI          3 - 29
+
+                                                           (17) Seat ring gear side dummy bearing (Fig. 17).
+                                                           (18) Position the dial indicator plunger on a flat
+                                                         surface between the ring gear bolt heads (Fig. 18).
+                                                           (19) Push and hold differential case toward pinion
+                                                         gear and zero the dial indicator (Fig. 21).
+
+
+
+
+        Fig. 19 DIAL INDICATOR LOCATION
+1 - FORCE DIFFERENTIAL CASE TO PINION GEAR SIDE
+2 - PILOT STUD
+3 - DIAL INDICATOR
+4 - ZERO DIAL INDICATOR FACE
+
+  (11) Push and hold differential case to ring gear                Fig. 21 ZERO DIAL INDICATOR
+side of the housing and record the dial indicator
+                                                         1 - ZERO DIAL INDICATOR FACE
+reading (Fig. 20).                                       2 - FORCE DIFFERENTIAL CASE TO PINION GEAR SIDE
+                                                         3 - PINION GEAR
+                                                         4 - DIFFERENTIAL HOUSING
+                                                         5 - DIFFERENTIAL CASE
+
+                                                           (20) Push and hold differential case to ring gear
+                                                         side of the housing and record dial indicator reading
+                                                         (Fig. 22).
+
+
+
+
+           Fig. 20 READ DIAL INDICATOR
+1 - READ DIAL INDICATOR
+2 - DIFFERENTIAL CASE TO RING GEAR SIDE
+3 - DIFFERENTIAL HOUSING
+
+  (12) Add 0.008 in. (0.2 mm) to the zero end play
+total. This new total represents the thickness of
+shims to compress or preload the new bearings when         Fig. 22 DIFFERENTIAL CASE RING GEAR SIDE
+the differential is installed.                           1 - READ DIAL INDICATOR
+  (13) Rotate dial indicator out of the way on the       2 - FORCE DIFFERENTIAL CASE TO RING GEAR SIDE
+pilot stud.                                              3 - PINION GEAR
+                                                         4 - DIFFERENTIAL HOUSING
+  (14) Remove differential case and dummy bearings       5 - DIFFERENTIAL CASE
+from the housing.
+  (15) Install the pinion gear in the housing. Install     (21) Subtract 0.05 mm (0.002 in.) from the dial
+the pinion yoke and establish the correct pinion         indicator reading to compensate for backlash between
+rotating torque.                                         ring and pinion gears. This total is the thickness
+  (16) Install differential case and dummy bearings      shim required to achieve proper backlash.
+D-348 in the housing (without shims), install bearing      (22) Subtract the backlash shim thickness from
+caps and tighten bolts snug.                             the total preload shim thickness. The remainder is
+

@@ -1,0 +1,64 @@
+TJ                                                                                       EMISSIONS CONTROL                25 - 1
+
+                                        EMISSIONS CONTROL
+                                               TABLE OF CONTENTS
+
+                                                         page                                                               page
+
+EMISSIONS CONTROL                                                    TRIP DEFINITION . . . . . . . . . . . . . . . . . . . . . . 4
+ DESCRIPTION                                                         COMPONENT MONITORS . . . . . . . . . . . . . . . . 5
+   EMISSION CONTROL SYSTEM . . . . . . . . . . . . 1                 NON-MONITORED CIRCUITS . . . . . . . . . . . . . 5
+   STATE DISPLAY TEST MODE . . . . . . . . . . . . . 1               HIGH AND LOW LIMITS       .................6
+   CIRCUIT ACTUATION TEST MODE . . . . . . . . . 2                   LOAD VALUE    .........................6
+   DIAGNOSTIC TROUBLE CODES . . . . . . . . . . . 2                OPERATION
+   TASK MANAGER . . . . . . . . . . . . . . . . . . . . . . . 2      TASK MANAGER . . . . . . . . . . . . . . . . . . . . . . . 6
+   MONITORED SYSTEMS . . . . . . . . . . . . . . . . . 2          EVAPORATIVE EMISSIONS . . . . . . . . . . . . . . . . . 10
+
+EMISSIONS CONTROL                                                   Technicians must retrieve stored DTC’s by connect-
+                                                                  ing the DRB scan tool (or an equivalent scan tool) to
+                                                                  the 16–way data link connector (Fig. 1).
+DESCRIPTION
+                                                                  NOTE: Various diagnostic procedures may actually
+EMISSION CONTROL SYSTEM                                           cause a diagnostic monitor to set a DTC. For
+   The Powertrain Control Module (PCM) monitors                   instance, pulling a spark plug wire to perform a
+many different circuits in the fuel injection, ignition,          spark test may set the misfire code. When a repair
+emission and engine systems. If the PCM senses a                  is completed and verified, connect the DRB scan
+problem with a monitored circuit often enough to                  tool to the 16–way data link connector to erase all
+indicate an actual problem, it stores a Diagnostic                DTC’s and extinguish the MIL.
+Trouble Code (DTC) in the PCM’s memory. If the
+code applies to a non-emissions related component or
+system, and the problem is repaired or ceases to
+exist, the PCM cancels the code after 40 warm-up
+cycles. Diagnostic trouble codes that affect vehicle
+emissions illuminate the Malfunction Indicator Lamp
+(MIL). The MIL is displayed as an engine icon on the
+instrument panel. Refer to Malfunction Indicator
+Lamp (MIL) in this section.
+   Certain criteria must be met before the PCM
+stores a DTC in memory. The criteria may be a spe-
+cific range of engine RPM, engine temperature,
+and/or input voltage to the PCM.
+   The PCM might not store a DTC for a monitored
+circuit even though a malfunction has occurred. This
+may happen because one of the DTC criteria for the
+circuit has not been met. For example, assume the
+diagnostic trouble code criteria requires the PCM to
+monitor the circuit only when the engine operates                    Fig. 1 DATA LINK (DIAGNOSTIC) CONNECTOR
+between 750 and 2000 RPM. Suppose the sensor’s                                        LOCATION
+output circuit shorts to ground when engine operates
+                                                                  1 - 16–WAY DATA LINK CONNECTOR
+above 2400 RPM (resulting in 0 volt input to the
+PCM). Because the condition happens at an engine                  STATE DISPLAY TEST MODE
+speed above the maximum threshold (2000 rpm), the
+                                                                    The switch inputs to the Powertrain Control Mod-
+PCM will not store a DTC.
+                                                                  ule (PCM) have two recognized states; HIGH and
+   There are several operating conditions for which
+                                                                  LOW. For this reason, the PCM cannot recognize the
+the PCM monitors and sets DTC’s. Refer to Moni-
+                                                                  difference between a selected switch position versus
+tored Systems, Components, and Non-Monitored Cir-
+                                                                  an open circuit, a short circuit, or a defective switch.
+cuits in this section.
+                                                                  If the State Display screen shows the change from
+

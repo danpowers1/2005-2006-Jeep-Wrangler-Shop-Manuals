@@ -1,0 +1,41 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                        8W - 80 - 49
+
+
+                                         RADIO C2 (SATELLITE RADIO) - 10 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    X40 18GY/WT                           AUDIO OUT RIGHT
+               2    X140 18GY/OR                          COMMON AUDIO
+               3    X235 18NA                             AUDIO RETURN
+               4    D25 18WT/VT                           PCI BUS
+               5    X112 18DG/GY                          FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+               6    X41 18DG/WT                           AUDIO OUT LEFT
+               7    Z515 18BK                             GROUND
+               8    -
+               9    -
+              10    X160 18GY/YL                          FUSED B(+)
+
+
+
+
+                                             REAR FOG LAMP (EXPORT) - 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    L36 18WT/DB                           FOG LAMP FEED
+               2    Z1 20BK                               GROUND
+
+
+
+
+                        REAR LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    Z987 20BK                             GROUND
+               2    G301 20VT/LB                          REAR LOCKER INDICATOR SWITCH SENSE
+
+
+
+
+                                REAR LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    Z987 18BK                             GROUND
+               2    -                                     -
+               3    A850 18RD/WT                          REAR LOCKER RELAY OUTPUT
+

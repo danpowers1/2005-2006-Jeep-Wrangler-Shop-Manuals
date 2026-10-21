@@ -1,0 +1,58 @@
+TJ                                                                                       ENGINE 2.4L       9 - 31
+
+                                                          HYDRAULIC LIFTERS
+
+                                                          DIAGNOSIS AND TESTING
+                                                          LASH ADJUSTER (TAPPET) NOISE DIAGNOSIS
+                                                             A tappet-like noise may be produced from several
+                                                          items. Check the following items.
+                                                             (1) Engine oil level too high or too low. This may
+                                                          cause aerated oil to enter the adjusters and cause
+                                                          them to be spongy.
+                                                             (2) Insufficient running time after rebuilding cylin-
+                                                          der head. Low speed running up to 1 hour may be
+          Fig. 30 Valve Stem Oil Seal Tool
+                                                          required.
+1 - VALVE SEAL TOOL                                          (3) During this time, turn engine off and let set for
+2 - VALVE STEM
+                                                          a few minutes before restarting. Repeat this several
+  (3) Install valve springs and retainers. Compress       times after engine has reached normal operating
+valve springs only enough to install locks, taking        temperature.
+care not to misalign the direction of compression.           (4) Low oil pressure.
+Nicked valve stems may result from misalignment of           (5) The oil restrictor (integral to the head gasket)
+the valve spring compressor.                              in the vertical oil passage to the cylinder head is
+                                                          plugged with debris.
+CAUTION: When depressing the valve spring retain-            (6) Air ingested into oil due to broken or cracked
+ers with valve spring compressor the locks can            oil pump pick up.
+become dislocated. Ensure both locks are in the              (7) Worn valve guides.
+correct location after removing tool.                        (8) Rocker arm ears contacting valve spring
+                                                          retainer.
+  (4) Check the valve spring installed height B after        (9) Rocker arm loose, adjuster stuck or at maxi-
+refacing the valve and seat (Fig. 31). Make sure mea-     mum extension and still leaves lash in the system.
+surements are taken from top of spring seat to the           (10) Faulty lash adjuster.
+bottom surface of spring retainer. If height is greater      a. Check lash adjusters for sponginess while
+than 38.75 mm (1.525 in.), install a 0.762 mm (0.030      installed in cylinder head. Depress part of rocker
+in.) spacer under the valve spring seat to bring          arm over adjuster. Normal adjusters should feel very
+spring height back within specification.                  firm. Spongy adjusters can be bottomed out easily.
+                                                             b. Remove suspected lash adjusters, and replace as
+                                                          necessary.
+
+                                                          REMOVAL
+                                                          NOTE: This procedure is for in-vehicle service with
+                                                          camshafts installed.
+
+                                                             (1) Remove cylinder head cover. (Refer to 9 -
+                                                          ENGINE/CYLINDER           HEAD/CYLINDER          HEAD
+                                                          COVER(S) - REMOVAL)
+Fig. 31 Checking Spring Installed Height and Valve           (2) Remove the camshafts (Refer to 9 - ENGINE/
+              Tip Height Dimensions                       CYLINDER HEAD/CAMSHAFT(S) - REMOVAL).
+                                                             (3) Remove rocker arm. (Refer to 9 - ENGINE/
+1 - GARTER SPRING
+2 - VALVE SPRING SEAT                                     CYLINDER HEAD/ROCKER ARMS - REMOVAL)
+3 - CYLINDER HEAD SURFACE                                    (4) Remove hydraulic lifter (Fig. 32).
+                                                             (5) Repeat removal procedure for each hydraulic
+                                                          lifter.
+                                                             (6) If reusing, mark each hydraulic lifter for reas-
+                                                          sembly in original position. Lifters are serviced as an
+                                                          assembly.
+

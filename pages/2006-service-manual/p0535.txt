@@ -1,0 +1,56 @@
+TJ                                                                     LAMPS/LIGHTING - EXTERIOR           8L - 23
+
+INSTALLATION                                               NOTE: Headlamps must be operating properly and
+  (1) Position the headlamp leveling switch in front       the battery must be completely charged (12.4v)
+of the steering column cover access hole and connect       prior to testing. It may also be necessary to install
+the switch electrical connector (Fig. 23).                 battery charger on the vehicles electrical system
+  (2) Properly seat the headlamp leveling switch into      when performing this test. Refer to the Battery sec-
+the steering column cover.                                 tion of the service manual for detailed information.
+  (3) Reconnect negative battery cable.
+
+
+HEADLAMP LEVELING MOTOR
+DIAGNOSIS AND TESTING - HEADLAMP LEV-
+ELING SYSTEM
+  The following test is designed to diagnosis a faulty
+headlamp leveling system. Refer to Wiring Diagrams
+for a complete system schematic.
+
+          CONDITION                         POSSIBLE CAUSES                            CORRECTION
+
+   ONE MOTOR DOES NOT               1. Poor electrical connection at mo-      1. Check for proper electrical
+        OPERATE                     tor.                                      harness connection and circuit
+                                                                              terminal tension at the motor.
+                                    2. Open or high resistance in the         2. Repair the open or high re-
+                                    battery positive voltage circuit to the   sistance in the leveling motor
+                                    inoperative leveling motor.               battery positive voltage circuit.
+                                    3. Open, high resistance in the in-       3. Repair the open, high resis-
+                                    operative leveling motor ground cir-      tance in the leveling motor
+                                    cuit.                                     ground circuit.
+                                    4. Open, high resistance, short to        4. Repair the open, high resis-
+                                    voltage or short to ground in the         tance, short to voltage or short
+                                    inoperative leveling motor sense cir-     to ground in the motor sense
+                                    cuit.                                     circuit.
+                                    5. Inoperative/Damaged motor.             5. Replace leveling motor.
+
+   BOTH MOTORS DO NOT               1. No battery positive voltage to the     1. Repair the open circuit or
+         OPERATE                    headlamp leveling switch.                 high resistance in the head-
+                                                                              lamp leveling switch battery
+                                                                              positive voltage circuit.
+                                    2. No battery positive voltage to the     2. Repair the open circuit or
+                                    headlamp leveling motor.                  high resistance in the head-
+                                                                              lamp leveling motor battery
+                                                                              positive voltage circuit.
+                                    3. Open, high resistance in the           3. Repair the open, high resis-
+                                    headlamp leveling switch ground           tance or short to voltage in the
+                                    circuit.                                  headlamp leveling switch
+                                                                              ground circuit.
+                                    4. Open, high resistance in the           4. Repair the open, high resis-
+                                    headlamp leveling motor ground cir-       tance or short to voltage in the
+                                    cuit.                                     headlamp leveling motor
+                                                                              ground circuit.
+                                    5. Open, high resistance, short to        5. Repair the open, high resis-
+                                    voltage or short to ground in the         tance, short to voltage or short
+                                    leveling motor sense circuit.             to ground in the motor sense
+                                                                              circuit.
+

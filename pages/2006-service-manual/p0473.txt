@@ -1,0 +1,45 @@
+TJ                                                                          INSTRUMENT CLUSTER           8J - 5
+
+
+
+
+                                          Fig. 3 Gauges & Indicators
+1 - FOG LAMP INDICATOR                                    14 - 4WD INDICATOR
+2 - VOLTAGE GAUGE                                         15 - NOT APPLICABLE
+3 - CRUISE INDICATOR                                      16 - ENGINE TEMPERATURE GAUGE
+4 - SKIS INDICATOR                                        17 - AIRBAG INDICATOR
+5 - TACHOMETER                                            18 - CHECK GAUGES INDICATOR
+6 - LEFT TURN INDICATOR                                   19 - MALFUNCTION INDICATOR LAMP
+7 - HIGH BEAM INDICATOR                                   20 - ODOMETER/TRIP ODOMETER SWITCH BUTTON
+8 - SEATBELT INDICATOR                                    21 - ODOMETER/TRIP ODOMETER DISPLAY
+9 - RIGHT TURN INDICATOR                                  22 - ABS INDICATOR
+10 - SPEEDOMETER                                          23 - BRAKE INDICATOR
+11 - FRONT LOCK INDICATOR                                 24 - LOW FUEL INDICATOR
+12 - REAR LOCK INDICATOR                                  25 - FUEL GAUGE
+13 - OIL PRESSURE GAUGE
+
+
+  The EMIC high beam indicator is illuminated by a        mation. The wiring information includes wiring dia-
+dedicated incandescent bulb. Each remaining indica-       grams, proper wire and connector repair procedures,
+tor in the EMIC is illuminated by a dedicated LED         further details on wire harness routing and reten-
+that is soldered onto the EMIC electronic circuit         tion, as well as pin-out and location views for the
+board. The LED units are not available for service        various wire harness connectors, splices and grounds.
+replacement and, if damaged or faulty, the entire            The EMIC modules for this model are serviced only
+EMIC must be replaced. Cluster illumination is            as complete units. The EMIC module cannot be
+accomplished by dimmable incandescent back light-         adjusted or repaired. If a gauge, an LED indicator, a
+ing, which illuminates the gauges for visibility when     VFD unit, the electronic circuit board, the circuit
+the exterior lighting is turned on. Each of the incan-    board hardware, the cluster overlay, or the EMIC
+descent bulbs is secured by an integral bulb holder to    housing are damaged or faulty, the entire EMIC mod-
+the electronic circuit board from the back of the clus-   ule must be replaced. The cluster lens, the cluster
+ter housing.                                              hood and mask unit, the cluster housing rear cover,
+  Hard wired circuitry connects the EMIC to the           the odometer/trip odometer switch button boot, and
+electrical system of the vehicle. These hard wired cir-   the incandescent lamp bulbs with holders are avail-
+cuits are integral to several wire harnesses, which       able for individual service replacement.
+are routed throughout the vehicle and retained by
+many different methods. These circuits may be con-        OPERATION
+nected to each other, to the vehicle electrical system      The ElectroMechanical Instrument Cluster (EMIC)
+and to the EMIC through the use of a combination of       in this model also includes the hardware and soft-
+soldered splices, splice block connectors, and many       ware necessary to serve as the electronic body control
+different types of wire harness terminal connectors       module. The following information deals primarily
+and insulators. Refer to the appropriate wiring infor-    with the instrument cluster functions of this unit.
+

@@ -1,0 +1,68 @@
+TJ                                                                          INSTRUMENT CLUSTER           8J - 11
+
+HARD WIRED OUTPUTS                                         and other information critical to proper cluster
+   The hard wired outputs of the EMIC include the          operation into electronic memory. This embedded
+following:                                                 information is learned through electronic messages
+   • Courtesy Lamp Feed                                    received from other electronic modules in the vehi-
+   • Axle Lock Switch Enable 1 (w/Off-Road                 cle over the Programmable Communications Inter-
+Package Only)                                              face (PCI) data bus, and through certain hard wired
+   • Axle Lock Switch Enable 2 (w/Off-Road                 inputs received when the cluster is connected to
+Package Only)                                              the vehicle electrically. Once configured, the instru-
+   • Panel Lamp Feed                                       ment cluster memory may be irreparably damaged
+   • Rear Window Defogger Relay Control                    and certain irreversible configuration errors may
+   Refer to the appropriate wiring information for         occur if the cluster is connected electrically to
+additional details.                                        another vehicle; or, if an electronic module from
+                                                           another vehicle is connected that provides data to
+GROUNDS                                                    the instrument cluster (including odometer values)
+  The EMIC receives a ground path through the fol-         that conflicts with that which was previously
+lowing hard wired circuit:                                 learned and stored. Therefore, the practice of
+  • Ground - G201                                          exchanging (swapping) instrument clusters and
+  Refer to the appropriate wiring information for          other electronic modules in this vehicle with those
+additional details.                                        removed from another vehicle must always be
+                                                           avoided. Failure to observe this caution may result
+COMMUNICATION                                              in instrument cluster damage, which is not reim-
+   The EMIC has the following data bus communica-          bursable under the terms of the product warranty.
+tion circuit:                                              Service replacement instrument clusters are pro-
+   • PCI Data Bus                                          vided with the correct VIN, and the certified odom-
+   Refer to the appropriate wiring information for         eter value embedded into cluster memory, but will
+additional details.                                        otherwise be automatically configured for compati-
+                                                           bility with the features and optional equipment in
+DIAGNOSIS AND TESTING - INSTRUMENT                         the vehicle in which they are initially installed.
+CLUSTER                                                    NOTE: Certain indicators in this instrument cluster
+  If all of the instrument cluster gauges and/or indi-
+                                                           are automatically configured. This feature allows
+cators are inoperative, refer to PRELIMINARY
+                                                           those indicators to be activated for deactivated for
+DIAGNOSIS. If an individual gauge or Programma-
+                                                           compatibility with certain optional equipment. If the
+ble Communications Interface (PCI) data bus mes-
+                                                           problem being diagnosed involves improper illumi-
+sage-controlled indicator is inoperative, refer to
+                                                           nation of the airbag indicator, the cruise indicator,
+ACTUATOR TEST. If an individual hard wired indi-
+                                                           or the SKIM indicator when the vehicle does not
+cator is inoperative, refer to the diagnosis and testing
+                                                           have this equipment, the instrument cluster must
+information for that specific indicator. If the instru-
+                                                           be replaced with a new unit.
+ment cluster interior lighting control function is inop-
+erative, refer to INTERIOR LIGHTING CONTROL
+DIAGNOSIS. If the axle locker control is inoperative,      PRELIMINARY DIAGNOSIS
+refer to AXLE LOCKER CONTROL DIAGNOSIS. If
+the instrument cluster rear window defogger control        WARNING: TO AVOID PERSONAL INJURY OR
+function is inoperative, refer to REAR WINDOW              DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DEFOGGER CONTROL DIAGNOSIS.                                DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+  Refer to the appropriate wiring information. The         TEM BEFORE ATTEMPTING ANY STEERING
+wiring information includes wiring diagrams, proper        WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+wire and connector repair procedures, details of wire      MENT PANEL COMPONENT DIAGNOSIS OR SER-
+harness routing and retention, connector pin-out           VICE. DISCONNECT AND ISOLATE THE BATTERY
+information and location views for the various wire        NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+harness connectors, splices and grounds.                   MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                           CHARGE BEFORE PERFORMING FURTHER DIAG-
+CAUTION: Instrument clusters used in this model            NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+automatically configure themselves for compatibil-         TO DISABLE THE SUPPLEMENTAL RESTRAINT
+ity with the features and optional equipment in the        SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+vehicle in which they are initially installed. The         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+instrument cluster is programmed to do this by             BAG DEPLOYMENT.
+embedding the Vehicle Identification Number (VIN)
+

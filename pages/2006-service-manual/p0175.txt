@@ -1,0 +1,47 @@
+TJ                                                                           REAR AXLE - 194RBI         3 - 119
+
+
+
+
+        Fig. 47 BEARING CAP REFERENCE
+1 - REFERENCE LETTERS
+2 - REFERENCE LETTERS
+
+  (7) Loosely install differential bearing cap bolts.
+  (8) Remove axle housing spreader.
+  (9) Tighten bearing cap bolts to 77 N·m (57 ft.
+lbs.).
+  (10) Install axle shafts.
+  (11) Install cover and identification tag.
+
+
+DIFFERENTIAL - TRAC - LOK                                   Fig. 48 TRAC-LOK LIMITED SLIP DIFFERENTIAL
+                                                          1 - CASE
+DESCRIPTION                                               2 - RING GEAR
+   The Trac-Lokt differential has a one-piece differen-   3 - DRIVE PINION
+tial case, and similar internal components as a stan-     4 - PINION GEAR
+                                                          5 - MATE SHAFT
+dard differential, plus two clutch disc packs.            6 - CLUTCH PACK
+Differential bearing preload and ring gear backlash       7 - SIDE GEAR
+are adjusted with shims located between the differ-       8 - CLUTCH PACK
+ential case bearing cups and housing. Pinion bearing        This design provides the differential action needed
+preload is set and maintained by the use of a collaps-    for turning corners and for driving straight ahead
+ible spacer.                                              during periods of unequal traction. When one wheel
+                                                          looses traction, the clutch packs transfer additional
+OPERATION                                                 torque to the wheel having the most traction. This
+  This differentials clutches are engaged by two con-     differential resist wheel spin on bumpy roads and
+current forces. The first being the preload force         provide more pulling power when one wheel looses
+exerted through Belleville spring washers within the      traction. Pulling power is provided continuously until
+clutch packs. The second is the separating forces gen-    both wheels loose traction. If both wheels slip due to
+erated by the side gears as torque is applied through     unequal traction, Trac-lokt operation is normal. In
+the ring gear (Fig. 48).                                  extreme cases of differences of traction, the wheel
+                                                          with the least traction may spin.
+
+                                                          DIAGNOSIS AND TESTING
+                                                             The most common problem is a chatter noise when
+                                                          turning corners. Before removing the unit for repair,
+                                                          drain, flush and refill the axle with the specified
+                                                          lubricant. A container of Mopar Trac-lokt Lubricant
+                                                          (friction modifier) should be added after repair ser-
+                                                          vice or during a lubricant change.
+

@@ -1,0 +1,61 @@
+8J - 16    INSTRUMENT CLUSTER                                                                                TJ
+
+   (1) Disconnect and isolate the battery negative        no exterior lighting system problems are found, the
+cable. Remove the rear window defogger relay from         following procedure will help locate a short or open
+the receptacle in the Power Distribution Center           in the cluster illumination lamp circuit. Refer to the
+(PDC). Disconnect the instrument panel wire harness       appropriate wiring information. The wiring informa-
+connector for the rear window defogger switch from        tion includes wiring diagrams, proper wire and con-
+the switch connector receptacle. Remove the instru-       nector repair procedures, details of wire harness
+ment cluster from the instrument panel.                   routing and retention, connector pin-out information
+   (2) Check for continuity between the rear window       and location views for the various wire harness con-
+defogger switch sense circuit cavity of the instrument    nectors, splices and grounds.
+panel wire harness connector (Connector C2) for the
+instrument cluster and a good ground. There should        WARNING: TO AVOID PERSONAL INJURY OR
+be no continuity. If OK, go to Step 3. If not OK,         DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+repair the shorted rear window defogger switch sense      DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+circuit between the instrument cluster and the rear       TEM BEFORE ATTEMPTING ANY STEERING
+window defogger switch as required.                       WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+   (3) Check for continuity between the rear window       MENT PANEL COMPONENT DIAGNOSIS OR SER-
+defogger switch sense circuit cavities of the instru-     VICE. DISCONNECT AND ISOLATE THE BATTERY
+ment panel wire harness connectors for the instru-        NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+ment cluster (Connector C2) and the rear window           MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+defogger switch. There should be continuity. If OK,       CHARGE BEFORE PERFORMING FURTHER DIAG-
+go to Step 4. If not OK, repair the open rear window      NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+defogger switch sense circuit between the instrument      TO DISABLE THE SUPPLEMENTAL RESTRAINT
+cluster and the rear window defogger switch as            SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+required.                                                 CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+   (4) Check for continuity between the rear window       BAG DEPLOYMENT.
+defogger relay control circuit cavity of the instrument
+panel wire harness connector (Connector C2) for the          (1) Disconnect and isolate the battery negative
+instrument cluster and a good ground. There should        cable. Disconnect the body wire harness connector for
+be no continuity. If OK, go to Step 5. If not OK,         the left multi-function switch from the switch connec-
+repair the shorted rear window defogger relay control     tor receptacle. Check for continuity between the
+circuit between the instrument cluster and the PDC        ground circuit cavity of the body wire harness con-
+as required.                                              nector for the left multi-function switch and a good
+   (5) Check for continuity between the rear window       ground. There should be continuity. If OK, go to Step
+defogger relay control circuit cavities of the instru-    2. If not OK, repair the open ground circuit to ground
+ment panel wire harness connector (Connector C2)          (G300) as required.
+for the instrument cluster and the rear window               (2) Remove the instrument cluster from the instru-
+defogger relay receptacle in the PDC. There should        ment panel. Disconnect the instrument panel wire
+be continuity. If OK, replace the faulty instrument       harness connector (Connector C2) for the instrument
+cluster. If not OK, repair the open rear window           cluster from the cluster connector receptacle. Check
+defogger relay control circuit between the instrument     for continuity between the panel lamp dimmer signal
+cluster and the PDC as required.                          circuit cavity of the instrument panel wire harness
+                                                          connector (Connector C2) for the instrument cluster
+CLUSTER ILLUMINATION DIAGNOSIS                            and a good ground. There should be no continuity. If
+   The diagnosis found here addresses an inoperative      OK, go to Step 3. If not OK, repair the shorted panel
+instrument cluster illumination lamp condition. If        lamp dimmer signal circuit between the instrument
+the problem being diagnosed is a single inoperative       cluster and the left multi-function switch as required.
+illumination lamp, be certain that the bulb and bulb         (3) Check for continuity between the panel lamp
+holder unit are properly installed in the instrument      dimmer signal circuit cavities of the instrument
+cluster electronic circuit board. If no installation      panel wire harness connector (Connector C2) for the
+problems are found replace the faulty bulb and bulb       instrument cluster and the body wire harness con-
+holder unit. If all of the cluster illumination lamps     nector for the left multi-function switch. There
+are inoperative and the problem being diagnosed           should be continuity. If OK, use a DRBIIIt scan tool
+includes inoperative exterior lighting controlled by      to complete the diagnosis of the instrument cluster
+the left multi-function switch, that system needs to      illumination lighting. Refer to the appropriate diag-
+be repaired first. If the exterior lamps controlled by    nostic information. If not OK, repair the open panel
+the left multi-function switch are inoperative, (Refer    lamp dimmer signal circuit between the instrument
+to 8 - ELECTRICAL/LAMPS/LIGHTING - EXTERI-                cluster and the left multi-function switch as required.
+OR/HEADLAMP - DIAGNOSIS AND TESTING). If
+

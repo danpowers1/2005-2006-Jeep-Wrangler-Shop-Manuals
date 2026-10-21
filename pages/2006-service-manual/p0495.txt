@@ -1,0 +1,71 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 27
+
+engine coolant temperature messages to the instru-        nates when it is provided battery current by the fog
+ment cluster. For further diagnosis of the engine cool-   lamp switch circuitry of the left multi-function
+ant temperature gauge or the instrument cluster           switch.
+circuitry that controls the gauge, (Refer to 8 - ELEC-       The fog lamp switch circuitry of the left multi-func-
+TRICAL/INSTRUMENT CLUSTER - DIAGNOSIS                     tion switch is connected in series between a fused
+AND TESTING). If the instrument cluster turns on          B(+) fuse in the Power Distribution Center (PDC)
+the check gauges indicator due to a high or critical      and the front or rear fog lamp feed input to the
+engine temperature gauge reading, it may indicate         instrument cluster through the fog lamp relay, which
+that the engine or the engine cooling system requires     is also in the PDC. The fog lamp switch input to the
+service. For proper diagnosis of the engine coolant       instrument cluster can be diagnosed using conven-
+temperature sensor, the PCM, the PCI data bus, or         tional diagnostic tools and methods. For proper diag-
+the electronic message inputs to the instrument clus-     nosis of the fog lamp switch and circuits, (Refer to 8
+ter that control the engine coolant temperature           - ELECTRICAL/LAMPS/LIGHTING - EXTERIOR/
+gauge, a DRBIIIt scan tool is required. Refer to the      LEFT MULTI-FUNCTION SWITCH - DIAGNOSIS
+appropriate diagnostic information.                       AND TESTING).
+
+                                                          DIAGNOSIS AND TESTING - FRONT / REAR
+FOG LAMP INDICATOR                                        FOG LAMP INDICATOR
+                                                            The diagnosis found here addresses an inoperative
+DESCRIPTION                                               front/rear fog lamp indicator condition. Before begin-
+                                                          ning this test, confirm the functionality of the front
+                                                          or rear fog lamp system. If no fog lamp system prob-
+             Fig. 13 Fog Lamp Indicator                   lem is found, the following procedure will help to
+   A fog lamp indicator is standard equipment on all      locate an open in the front or rear fog lamp feed cir-
+instrument clusters, but is only functional on vehi-      cuit between the fog lamp relay and the instrument
+cles equipped with the optional front and/or rear fog     cluster. Refer to the appropriate wiring information.
+lamps (Fig. 13). The fog lamp indicator is located        The wiring information includes wiring diagrams,
+near the upper edge of the instrument cluster, to the     proper wire and connector repair procedures, details
+left of center. The fog lamp indicator consists of a      of wire harness routing and retention, connector pin-
+stencil-like cutout of the International Control and      out information and location views for the various
+Display Symbol icon for “Fog Lamps” in the opaque         wire harness connectors, splices and grounds.
+layer of the instrument cluster overlay. The dark
+                                                          WARNING: TO AVOID PERSONAL INJURY OR
+outer layer of the overlay prevents the indicator from
+                                                          DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+being clearly visible when it is not illuminated. A
+                                                          DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+green Light Emitting Diode (LED) behind the cutout
+                                                          TEM BEFORE ATTEMPTING ANY STEERING
+in the opaque layer of the overlay causes the icon to
+                                                          WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+appear in green through the translucent outer layer
+                                                          MENT PANEL COMPONENT DIAGNOSIS OR SER-
+of the overlay when the indicator is illuminated from
+                                                          VICE. DISCONNECT AND ISOLATE THE BATTERY
+behind by the LED, which is soldered onto the
+                                                          NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+instrument cluster electronic circuit board. The fog
+                                                          MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+lamp indicator is serviced as a unit with the instru-
+                                                          CHARGE BEFORE PERFORMING FURTHER DIAG-
+ment cluster.
+                                                          NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+                                                          TO DISABLE THE SUPPLEMENTAL RESTRAINT
+OPERATION                                                 SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+   The fog lamp indicator gives an indication to the      CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+vehicle operator whenever the optional front and/or       BAG DEPLOYMENT.
+rear fog lamps are illuminated. The availability of
+the front fog lamps, or rear fog lamps options varies       (1) Disconnect and isolate the battery negative
+by the market for which the vehicle is manufactured.      cable. Remove the instrument cluster from the
+This indicator is controlled by a hard wired input to     instrument panel. Disconnect the instrument panel
+the cluster from the fog lamp switch circuitry of the     wire harness connector (Connector C1) for the instru-
+left multi-function switch. The fog lamp indicator        ment cluster from the connector receptacle on the
+Light Emitting Diode (LED) is grounded on the             back of the cluster housing.
+instrument cluster electronic circuit board at all          (2) Reconnect the battery negative cable. Turn the
+times. Therefore, the LED will be on any time the         fog lamps on by pulling out the control knob on the
+front or rear fog lamps are illuminated, regardless of    end of the left-multi-function switch control stalk.
+the ignition switch position. The LED only illumi-        Check for battery voltage at the front/rear fog lamp
+

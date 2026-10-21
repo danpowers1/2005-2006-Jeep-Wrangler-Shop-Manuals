@@ -1,0 +1,39 @@
+TJ                                                       AUTOMATIC TRANSMISSION - 42RLE            21 - 155
+
+
+
+
+                                       Fig. 259 Valve Body - Exploded
+1 - VALVE BODY                                          5 - MANUAL VALVE
+2 - T/C REGULATOR VALVE                                 6 - CONVERTER CLUTCH SWITCH VALVE
+3 - L/R SWITCH VALVE                                    7 - SOLENOID SWITCH VALVE
+4 - CONVERTER CLUTCH CONTROL VALVE                      8 - REGULATOR VALVE
+
+
+  The valves contained within the valve body (1)        THERMAL VALVE
+include the following (Fig. 259):
+  • Regulator valve(2)
+  • Solenoid switch valve(7)
+  • Manual valve(5)
+  • Converter clutch switch valve(6)
+  • Converter clutch control valve(4)
+  • Torque converter regulator valve(2)
+  • Low/Reverse switch valve(3)
+  In addition, the valve body also contains the ther-
+mal valve, #2, 3, 4 & 5 check balls and the 2/4 accu-
+mulator assembly.
+
+OPERATION
+NOTE: (Refer to 21 - TRANSMISSION/AUTOMATIC -
+42RLE - SCHEMATICS AND DIAGRAMS) for a visual
+aid in determining valve location, operation and
+design.                                                                 Fig. 260 Thermal Valve
+                                                        1 - THERMAL VALVE
+                                                        2 - U1 ORIFICE
+                                                        3 - NUMBER 2 CHECK BALL
+
+                                                           The thermal valve (1) (Fig. 260) is a bi-metallic
+                                                        shudder valve that helps control the venting rate of
+                                                        oil pressure in the underdrive clutch passage during
+                                                        release of the clutch. When the oil temperature is
+

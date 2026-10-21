@@ -1,0 +1,62 @@
+8O - 22      RESTRAINTS                                                                                     TJ
+
+before removing the airbag from the vehicle. (Refer to      (3) Pull the driver airbag away from the steering
+8 - ELECTRICAL/RESTRAINTS - STANDARD PRO-                wheel far enough to access the two electrical connec-
+CEDURE - SERVICE AFTER A SUPPLEMENTAL                    tions at the back of the airbag housing.
+RESTRAINT DEPLOYMENT).                                      (4) Disconnect the clockspring pigtail wire connec-
+                                                         tor for the horn switch from the horn switch feed pig-
+WARNING: TO AVOID PERSONAL INJURY OR                     tail wire connector located on the back of the driver
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                airbag.
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+TEM BEFORE ATTEMPTING ANY STEERING                       CAUTION: Do not pull on the clockspring pigtail
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-               wires to disengage the connector from the driver
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                   airbag inflator connector receptacle. Improper
+VICE. DISCONNECT AND ISOLATE THE BATTERY                 removal of these pigtail wires and their connector
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                   insulators can result in damage to the airbag cir-
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                 cuits or connector insulators.
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                 (5) The clockspring driver airbag pigtail wire con-
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                    nector is secured by a tight snap fit into the airbag
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                  inflator connector receptacle, which is located on the
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                 back of the driver airbag housing. Firmly grasp and
+BAG DEPLOYMENT.                                          pull or gently pry on the clockspring driver airbag
+                                                         pigtail wire connector insulator and pull the insula-
+                                                         tor straight out from the airbag inflator to disconnect
+WARNING: TO AVOID PERSONAL INJURY OR                     it from the connector receptacle.
+DEATH, WHEN REMOVING A DEPLOYED AIRBAG,                     (6) Remove the driver airbag from the steering
+RUBBER GLOVES, EYE PROTECTION, AND A                     wheel.
+LONG-SLEEVED SHIRT SHOULD BE WORN. THERE                    (7) If the driver airbag has been deployed, the
+MAY BE DEPOSITS ON THE AIRBAG CUSHION AND                clockspring must be replaced. (Refer to 8 - ELECTRI-
+OTHER INTERIOR SURFACES. IN LARGE DOSES,                 CAL/RESTRAINTS/CLOCKSPRING - REMOVAL).
+THESE DEPOSITS MAY CAUSE IRRITATION TO THE
+SKIN AND EYES.                                           DISASSEMBLY
+                                                           The following procedures can be used to replace
+  (1) Disconnect and isolate the battery negative        the driver airbag trim cover and/or to access the horn
+cable. Wait two minutes for the system capacitor to      switch unit for service. If the driver airbag is faulty
+discharge before further service.                        or deployed, the entire driver airbag, trim cover, and
+  (2) From the underside of the steering wheel,          horn switch must be replaced as a unit.
+remove the two screws that secure the driver airbag
+to the steering wheel armature (Fig. 22).                WARNING: TO AVOID PERSONAL INJURY OR
+                                                         DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                         DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                         TEM BEFORE ATTEMPTING ANY STEERING
+                                                         WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                         MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                         VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                         NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                         MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                         CHARGE BEFORE PERFORMING FURTHER DIAG-
+                                                         NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+                                                         TO DISABLE THE SUPPLEMENTAL RESTRAINT
+                                                         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                         BAG DEPLOYMENT.
+
+
+          Fig. 22 Driver Airbag Remove/Install
+1 - STEERING WHEEL
+2 - CLOCKSPRING PIGTAIL WIRE (HORN SWITCH)
+3 - DRIVER AIRBAG
+4 - CLOCKSPRING PIGTAIL WIRE (AIRBAG)
+5 - SCREW (2)
+

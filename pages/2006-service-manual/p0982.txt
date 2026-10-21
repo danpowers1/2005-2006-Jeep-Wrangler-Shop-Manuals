@@ -1,0 +1,65 @@
+9 - 22    ENGINE 2.4L                                                                                     TJ
+
+  • Poor fuel economy                                    FUEL SYSTEM/FUEL DELIVERY - SPECIFICA-
+  Possible indications of the cylinder head gasket       TIONS)
+leaking between a cylinder and an adjacent water           (2) Disconnect battery negative cable.
+jacket are:                                                (3) Drain cooling system. (Refer to 7 - COOLING -
+  • Engine overheating                                   STANDARD PROCEDURE)
+  • Loss of coolant                                        (4) Remove air filter housing and inlet tube.
+  • Excessive steam (white smoke) emitting from            (5) Remove intake manifold.
+exhaust                                                    (6) Remove heater tube support bracket from cyl-
+  • Coolant foaming                                      inder head.
+                                                           (7) Disconnect radiator upper and heater supply
+CYLINDER - TO - CYLINDER LEAKAGE TEST                    hoses from water outlet connections.
+  To determine if an engine cylinder head gasket is        (8) Remove accessory drive belts. (Refer to 7 -
+leaking between adjacent cylinders, follow the proce-    COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+dures in Cylinder Compression Pressure Test (Refer       REMOVAL)
+to 9 - ENGINE - DIAGNOSIS AND TESTING). An                 (9) Raise vehicle and remove exhaust pipe from
+engine cylinder head gasket leaking between adja-        manifold.
+cent cylinders will result in approximately a 50 - 70%     (10) Remove power steering pump and set aside.
+reduction in compression pressure.                       Do not disconnect lines.
+                                                           (11) Remove accessory drive bracket
+CYLINDER - TO - WATER JACKET LEAKAGE TEST                  (12) Remove ignition coil and wires from engine.
+                                                           (13) Disconnect cam sensor and fuel injector wir-
+WARNING: USE EXTREME CAUTION WHEN THE                    ing connectors.
+ENGINE IS OPERATING WITH COOLANT PRES-                     (14) Remove timing belt and camshaft sprockets.
+SURE CAP REMOVED.                                        (Refer to 9 - ENGINE/VALVE TIMING/TIMING
+                                                         BELT/CHAIN AND SPROCKETS - REMOVAL)
+                                                           (15) Remove timing belt idler pulley and rear tim-
+VISUAL TEST METHOD
+                                                         ing belt cover. (Refer to 9 - ENGINE/VALVE TIM-
+  With the engine cool, remove the coolant pressure      ING/TIMING BELT / CHAIN COVER(S) -
+cap. Start the engine and allow it to warm up until      REMOVAL)
+thermostat opens.                                          (16) Remove cylinder head cover. (Refer to 9 -
+  If a large combustion/compression pressure leak        ENGINE/CYLINDER          HEAD/CYLINDER        HEAD
+exists, bubbles will be visible in the coolant.          COVER(S) - REMOVAL)
+                                                           (17) Remove camshafts (Refer to 9 - ENGINE/
+COOLING SYSTEM TESTER METHOD
+                                                         CYLINDER HEAD/CAMSHAFT(S) - REMOVAL).
+WARNING: WITH COOLING SYSTEM TESTER IN                   NOTE: Identify rocker arm position to ensure cor-
+PLACE, PRESSURE WILL BUILD UP FAST. EXCES-               rect reinstallation in original position, if reused.
+SIVE PRESSURE BUILT UP, BY CONTINUOUS
+ENGINE OPERATION, MUST BE RELEASED TO A                    (18) Remove rocker arms. (Refer to 9 - ENGINE/
+SAFE PRESSURE POINT. NEVER PERMIT PRES-                  CYLINDER HEAD/ROCKER ARMS - REMOVAL).
+SURE TO EXCEED 138 kPa (20 psi).                           (19) Remove cylinder head bolts in REVERSE
+                                                         sequence of tightening.
+  Install Cooling System Tester 7700 or equivalent to      (20) Remove cylinder head from engine block.
+pressure cap neck. Start the engine and observe the        (21) Inspect and clean cylinder head. (Refer to 9 -
+tester’s pressure gauge. If gauge pulsates with every    ENGINE/CYLINDER HEAD - INSPECTION) (Refer
+power stroke of a cylinder a combustion pressure         to 9 - ENGINE/CYLINDER HEAD - CLEANING)
+leak is evident.
+
+CHEMICAL TEST METHOD                                     CLEANING
+                                                           To ensure engine gasket sealing, proper surface
+  Combustion leaks into the cooling system can also
+                                                         preparation must be performed, especially with the
+be checked by using Bloc-Chek Kit C-3685-A or
+                                                         use of aluminum engine components and multi-layer
+equivalent. Perform test following the procedures
+                                                         steel cylinder head gaskets.
+supplied with the tool kit.
+                                                         NOTE: Multi-Layer Steel (MLS) head gaskets require
+REMOVAL - CYLINDER HEAD                                  a scratch free sealing surface.
+  (1) Perform fuel system pressure release procedure
+before attempting any repairs. (Refer to 14 -
+

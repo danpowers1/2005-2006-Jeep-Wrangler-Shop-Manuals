@@ -1,0 +1,61 @@
+TJ                                                                                    RESTRAINTS       8O - 7
+
+                                                         System for proper disposal. Be certain to dispose
+                                                         of all non-deployed and deployed supplemental
+                                                         restraints in a manner consistent with state, provin-
+                                                         cial, local and federal regulations.
+                                                           (3) Next, remove the deployed supplemental
+                                                         restraints from the vehicle. Refer to the appropriate
+                                                         service removal procedures.
+                                                           (4) You may need to vacuum the interior of the
+                                                         vehicle a second time to recover all of the powder.
+
+                                                         STANDARD PROCEDURE - VERIFICATION TEST
+                                                           The following procedure should be performed using
+                                                         a DRBIIIt scan tool to verify proper supplemental
+                                                         restraint system operation following the service or
+                                                         replacement of any supplemental restraint system
+  Fig. 3 Wear Safety Glasses and Rubber Gloves -         component.
+                      Typical
+                                                         WARNING: TO AVOID PERSONAL INJURY OR
+WARNING: TO AVOID PERSONAL INJURY OR                     DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DEATH, IF YOU EXPERIENCE SKIN IRRITATION                 DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+DURING CLEANUP, RUN COOL WATER OVER THE                  TEM BEFORE ATTEMPTING ANY STEERING
+AFFECTED AREA. ALSO, IF YOU EXPERIENCE                   WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+IRRITATION OF THE NOSE OR THROAT, EXIT THE               MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VEHICLE FOR FRESH AIR UNTIL THE IRRITATION               VICE. DISCONNECT AND ISOLATE THE BATTERY
+CEASES. IF IRRITATION CONTINUES, SEE A PHYSI-            NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+CIAN.                                                    MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                         CHARGE BEFORE PERFORMING FURTHER DIAG-
+   (1) Begin the cleanup by using a vacuum cleaner
+                                                         NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+to remove any residual powder from the vehicle inte-
+                                                         TO DISABLE THE SUPPLEMENTAL RESTRAINT
+rior. Clean from outside the vehicle and work your
+                                                         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+way inside, so that you avoid kneeling or sitting on a
+                                                         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+non-cleaned area.
+                                                         BAG DEPLOYMENT.
+   (2) Be certain to vacuum the heater and air condi-
+tioning outlets as well (Fig. 4). Run the heater and       (1) During the following test, the battery negative
+air conditioner blower on the lowest speed setting       cable remains disconnected and isolated, as it was
+and vacuum any powder expelled from the outlets.         during the supplemental restraint system component
+                                                         removal and installation procedures.
+                                                           (2) Be certain that the DRBIIIt scan tool contains
+                                                         the latest version of the proper DRBIIIt software.
+                                                         Connect the DRBIIIt to the 16-way Data Link Con-
+                                                         nector (DLC). The DLC is located on the driver side
+                                                         lower edge of the instrument panel, outboard of the
+                                                         steering column (Fig. 5).
+
+
+
+
+  Fig. 4 Vacuum Heater and A/C Outlets - Typical
+CAUTION: All damaged, faulty, or non-deployed
+supplemental restraints which are replaced on vehi-
+cles are to be handled and disposed of properly. If
+an airbag unit is faulty or damaged and non-de-
+ployed, refer to the Hazardous Substance Control
+

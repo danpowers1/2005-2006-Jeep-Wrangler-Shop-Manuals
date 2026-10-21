@@ -1,0 +1,57 @@
+TJ                                            8W-80 CONNECTOR PIN-OUTS                                                           8W - 80 - 1
+
+                                      8W - 80 CONNECTOR PIN - OUTS
+Component                                                          Page    Component                                                         Page
+A/C Compressor Clutch . . . . . . . . . . . . . . . 8W-80-3                Cigar Lighter/Power Outlet . . . . . . . . . . . 8W-80-22
+A/C High Pressure Switch (4.0L) . . . . . . . . 8W-80-3                    Circuit Breaker . . . . . . . . . . . . . . . . . . . . . 8W-80-22
+A/C Low Pressure Switch . . . . . . . . . . . . . . 8W-80-3                Clockspring C1 . . . . . . . . . . . . . . . . . . . . . 8W-80-22
+A/C Pressure Transducer (2.4L) . . . . . . . . . 8W-80-3                   Clockspring C2 . . . . . . . . . . . . . . . . . . . . . 8W-80-22
+A/C-Heater Control C1 . . . . . . . . . . . . . . . . 8W-80-4              Clockspring C3 . . . . . . . . . . . . . . . . . . . . . 8W-80-22
+A/C-Heater Control C2 . . . . . . . . . . . . . . . . 8W-80-4              Clockspring C4 . . . . . . . . . . . . . . . . . . . . . 8W-80-23
+A/C-Heater Control C3 . . . . . . . . . . . . . . . . 8W-80-4              Clutch Pedal Position Switch (M/T) . . . . . 8W-80-23
+Airbag Control Module . . . . . . . . . . . . . . . . 8W-80-4              Coil Capacitor . . . . . . . . . . . . . . . . . . . . . . 8W-80-23
+Ambient Temperature Sensor (Compass/Tempera-                               Compass/Temperature Mirror . . . . . . . . . . 8W-80-23
+  ture Mirror) . . . . . . . . . . . . . . . . . . . . . . 8W-80-5         Controller Antilock Brake . . . . . . . . . . . . . 8W-80-24
+Ambient Temperature Sensor (Engine) . . . . 8W-80-5                        Crankshaft Position Sensor . . . . . . . . . . . 8W-80-24
+Axle Lock Switch (Off-Road Package) . . . . . 8W-80-5                      Data Link Connector . . . . . . . . . . . . . . . . 8W-80-25
+Backup Lamp Switch (M/T) . . . . . . . . . . . . 8W-80-6                   Daytime Running Lamp Module (Except
+Blend Door Actuator . . . . . . . . . . . . . . . . . . 8W-80-6               Export) . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-25
+Blower Motor . . . . . . . . . . . . . . . . . . . . . . . 8W-80-6         Driver Airbag Squib 1 . . . . . . . . . . . . . . . . 8W-80-25
+Blower Motor Relay . . . . . . . . . . . . . . . . . . 8W-80-6             Driver Door Ajar Switch . . . . . . . . . . . . . . 8W-80-26
+Blower Motor Resistor Block . . . . . . . . . . . 8W-80-7                  Engine Coolant Temperature Sensor . . . . 8W-80-26
+Brake Lamp Switch . . . . . . . . . . . . . . . . . . 8W-80-7              Engine Oil Pressure Switch . . . . . . . . . . . 8W-80-26
+Brake Transmission Shift Interlock                                         EVAP/Purge Solenoid . . . . . . . . . . . . . . . . 8W-80-26
+  Solenoid . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-7       Front Locker Indicator Switch (Off-Road
+Brake Warning Indicator Switch . . . . . . . . 8W-80-7                        Package) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-27
+C102 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-8   Front Locker Pump (Off-Road Package) . . 8W-80-27
+C102 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-8   Front Washer Pump . . . . . . . . . . . . . . . . . 8W-80-27
+C103 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-9   Front Wiper Motor . . . . . . . . . . . . . . . . . . 8W-80-27
+C103 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-9   Fuel Injector No. 1 (2.4L) . . . . . . . . . . . . . 8W-80-28
+C104 (RHD) . . . . . . . . . . . . . . . . . . . . . . . 8W-80-10          Fuel Injector No. 1 (4.0L) . . . . . . . . . . . . . 8W-80-28
+C104 (RHD) . . . . . . . . . . . . . . . . . . . . . . . 8W-80-10          Fuel Injector No. 2 (2.4L) . . . . . . . . . . . . . 8W-80-28
+C109 (A/T) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-10        Fuel Injector No. 2 (4.0L) . . . . . . . . . . . . . 8W-80-28
+C109 (A/T) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-11        Fuel Injector No. 3 (2.4L) . . . . . . . . . . . . . 8W-80-28
+C170 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-11    Fuel Injector No. 3 (4.0L) . . . . . . . . . . . . . 8W-80-29
+C170 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-12    Fuel Injector No. 4 (2.4L) . . . . . . . . . . . . . 8W-80-29
+C181 (2.4L) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-12       Fuel Injector No. 4 (4.0L) . . . . . . . . . . . . . 8W-80-29
+C181 (2.4L) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-13       Fuel Injector No. 5 (4.0L) . . . . . . . . . . . . . 8W-80-29
+C182 (2.4L) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-13       Fuel Injector No. 6 (4.0L) . . . . . . . . . . . . . 8W-80-30
+C182 (2.4L) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-14       Fuel Pump Module . . . . . . . . . . . . . . . . . . 8W-80-30
+C203 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-14    G-Switch . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-30
+C203 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-15    Generator . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-30
+C205 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-15    Headlamp Leveling Switch (Export) . . . . . 8W-80-31
+C205 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-15    Heater Control . . . . . . . . . . . . . . . . . . . . . 8W-80-31
+C300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-16    Horn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-31
+C300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-17    Idle Air Control Motor . . . . . . . . . . . . . . . 8W-80-31
+C301 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-18    Ignition Coil Pack (2.4L) . . . . . . . . . . . . . . 8W-80-32
+C301 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-19    Ignition Coil Pack (4.0L) . . . . . . . . . . . . . . 8W-80-32
+C324 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-20    Ignition Switch . . . . . . . . . . . . . . . . . . . . . 8W-80-32
+C324 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-20    Input Speed Sensor . . . . . . . . . . . . . . . . . 8W-80-33
+C325 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-20    Instrument Cluster C1 . . . . . . . . . . . . . . . 8W-80-33
+C325 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-20    Instrument Cluster C2 . . . . . . . . . . . . . . . 8W-80-33
+C326 (Hard Top) . . . . . . . . . . . . . . . . . . . . 8W-80-20           Intake Air Temperature Sensor (2.4L) . . . 8W-80-34
+C326 (Hard Top) . . . . . . . . . . . . . . . . . . . . 8W-80-21           Intake Air Temperature Sensor (4.0L) . . . 8W-80-34
+C329 (Export) . . . . . . . . . . . . . . . . . . . . . . 8W-80-21         Left Courtesy Lamp . . . . . . . . . . . . . . . . . 8W-80-34
+C329 (Export) . . . . . . . . . . . . . . . . . . . . . . 8W-80-21         Left Dome Lamp . . . . . . . . . . . . . . . . . . . . 8W-80-34
+Camshaft Position Sensor . . . . . . . . . . . . . 8W-80-21                Left Fog Lamp (Except Export) . . . . . . . . 8W-80-35
+

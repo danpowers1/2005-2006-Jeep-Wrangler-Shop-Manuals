@@ -1,0 +1,64 @@
+7-6   COOLING                                                                                             TJ
+
+         CONDITION                    POSSIBLE CAUSES                             CORRECTION
+
+TEMPERATURE GAUGE READS        15. Thermostat partially or com-        15. Check thermostat operation
+HIGH OR THE COOLANT WARN-      pletely shut.                           and replace as necessary. (Refer
+ING LAMP ILLUMINATES. COOL-                                            to 7 - COOLING/ENGINE/ENGINE
+ANT MAY OR MAY NOT BE LOST                                             COOLANT THERMOSTAT - RE-
+OR LEAKING FROM THE COOL-                                              MOVAL).
+ING SYSTEM (continued)
+                               16. Viscous fan drive not operating     16. Check fan drive operation and
+                               properly.                               replace as necessary. (Refer to 7 -
+                                                                       COOLING/ENGINE/FAN DRIVE
+                                                                       VISCOUS CLUTCH - REMOVAL).
+                               17. Cylinder head gasket leaking.       17. Check for cylinder head gasket
+                                                                       leaks. (Refer to 7 - COOLING -
+                                                                       DIAGNOSIS AND TESTING).
+                               18. Heater core leaking.                18. Check heater core for leaks.
+                                                                       (Refer to 24 - HEATING & AIR
+                                                                       CONDITIONING/PLUMBING - DI-
+                                                                       AGNOSIS AND TESTING). Repair
+                                                                       as necessary.
+
+TEMPERATURE GAUGE READING      1. During cold weather operation,       1. During cold weather operation,
+IS INCONSISTANT (FLUCTUATES,   with the heater in the high position,   with the heater in the high position,
+CYCLES, OR IS ERRATIC          the gauge reading may drop slight-      the gauge reading may drop slightly.
+                               ly.
+                               2. Temperature gauge or engine          2. Check operation of gauge and
+                               mounted gauge sensor defective or       repair if necessary. (Refer to 8 -
+                               shorted. Also, corroded or loose        ELECTRICAL/INSTRUMENT CLUS-
+                               wiring in this circuit.                 TER - DIAGNOSIS AND TESTING).
+                               3. Gauge reading rises when vehi-       3. A normal condition. No correction
+                               cle is brought to a stop after heavy    is necessary. Gauge should return
+                               use (engine still running)              to normal range after vehicle is driv-
+                                                                       en.
+                               4. Gauge reading high after re-         4. A normal condition. No correction
+                               starting a warmed up (hot) engine.      is necessary. The gauge should re-
+                                                                       turn to normal range after a few
+                                                                       minutes of engine operation.
+                               5. Coolant level low in radiator (air   5. Check and correct coolant leaks.
+                               will build up in the cooling system     (Refer to 7 - COOLING - DIAGNO-
+                               causing the thermostat to open          SIS AND TESTING).
+                               late).
+                               6. Cylinder head gasket leaking al-     6. (a) Check for cylinder head gas-
+                               lowing exhaust gas to enter cooling     ket leaks. (Refer to 7 - COOLING -
+                               system causing a thermostat to          DIAGNOSIS AND TESTING).
+                               open late.
+                               (b) Check for coolant in the engine
+                               oil. Inspect for white steam emitting
+                               from the exhaust system. Repair as
+                               necessary.
+                               7. Water pump impeller loose on         7. Check water pump and replace
+                               shaft.                                  as necessary. (Refer to 7 - COOL-
+                                                                       ING/ENGINE/WATER PUMP - RE-
+                                                                       MOVAL).
+                               8. Loose accessory drive belt. (wa-     8. (Refer to 7 - COOLING/ACCES-
+                               ter pump slipping)                      SORY DRIVE/DRIVE BELTS - DI-
+                                                                       AGNOSIS AND TESTING). Check
+                                                                       and correct as necessary.
+                               9. Air leak on the suction side of      9. Locate leak and repair as neces-
+                               the water pump allows air to build      sary.
+                               up in cooling system causing ther-
+                               mostat to open late.
+

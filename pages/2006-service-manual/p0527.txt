@@ -1,0 +1,78 @@
+TJ                                                                    LAMPS/LIGHTING - EXTERIOR            8L - 15
+
+FOG LAMP RELAY                                              be generated as the electromagnetic field of the relay
+                                                            coil collapses.
+                                                               The fog lamp relay terminals are connected to the
+DESCRIPTION
+                                                            vehicle electrical system through a connector recepta-
+  The fog lamp relay is located in the Power Distri-
+                                                            cle in the Power Distribution Center (PDC).
+bution Center (PDC) in the engine compartment of
+                                                               The fog lamp relay can be diagnosed using conven-
+the vehicle. The fog lamp relay is a conventional
+                                                            tional diagnostic tools and methods. Refer to the
+International Standards Organization (ISO) micro
+                                                            appropriate wiring information for diagnosis and
+relay (Fig. 12). Relays conforming to the ISO specifi-
+                                                            testing of the fog lamp micro-relay and for complete
+cations have common physical dimensions, current
+                                                            wiring diagrams.
+capacities, terminal patterns, and terminal functions.
+The relay is contained within a small, rectangular,
+molded plastic housing and is connected to all of the
+                                                            REMOVAL
+                                                               (1) Disconnect and isolate the battery negative
+required inputs and outputs by five integral male
+                                                            cable.
+spade-type terminals that extend from the bottom of
+                                                               (2) Remove the cover for the Power Distribution
+the relay base.
+                                                            Center (PDC).
+  The fog lamp relay cannot be adjusted or repaired
+                                                               (3) Remove the fog lamp relay by grasping it
+and, if faulty or damaged, it must be replaced.
+                                                            firmly and pulling it straight out from the receptacle
+                                                            in the PDC.
+
+                                                            INSTALLATION
+                                                              (1) Position the fog lamp relay to the proper recep-
+                                                            tacle in the Power Distribution Center (PDC).
+                                                              (2) Align the fog lamp relay terminals with the
+                                                            terminal cavities in the PDC.
+                                                              (3) Press firmly and evenly on the top of the fog
+                                                            lamp relay until the terminals are fully seated in the
+                                                            PDC.
+                                                              (4) Reconnect the battery negative cable.
+
+
+                                                            FOG LAMP UNIT - REAR
+
+              Fig. 12 ISO MICRO RELAY
+                                                            DESCRIPTION
+                                                               Some vehicles are equipped with a rear fog lamp.
+30 - COMMON FEED
+85 - COIL GROUND                                            The lamp unit can be found mounted to the rear
+86 - COIL BATTERY                                           bumper assembly. The rear fog lamp unit utilizes a
+87 - NORMALLY OPEN                                          red lens with a clear lamp for brightness, and an
+87A - NORMALLY CLOSED
+                                                            illuminated indicator in the instrument cluster.
+OPERATION                                                      Rear fog lamp(s) are standard equipment in certain
+                                                            parts of the world where excessive fog is experienced
+  The fog lamp relay is an electromechanical switch
+                                                            on a regular basis.
+that uses a low current input from the multi-function
+switch to control a high current output to the fog
+lamps. The movable common feed contact point is             OPERATION
+held against the fixed normally closed contact point           Battery positive (B+) voltage is supplied to the left
+by spring pressure. When the relay coil is energized,       multi-function switch. With the headlamp switch in
+an electromagnetic field is produced by the coil wind-      the on position, battery positive voltage is supplied to
+ings. This electromagnetic field draws the movable          the rear fog lamp switch contacts within the multi-
+relay contact point away from the fixed normally            function switch. Pulling the headlamp switch knob
+closed contact point, and holds it against the fixed        outward and then rotating the knob one detent coun-
+normally open contact point. When the relay coil is         terclockwise will activate the rear fog lamp(s) and
+de-energized, spring pressure returns the movable           illuminate the rear fog lamp indicator in the instru-
+contact point back against the fixed normally closed        ment cluster. The rear fog lamp(s) can only be acti-
+contact point. A resistor is connected in parallel with     vated when either the Low Beam or High Beam
+the relay coil in the relay, and helps to dissipate volt-   headlamps are on. Refer to Wiring Diagrams for a
+age spikes and electromagnetic interference that can        complete system schematic.
+

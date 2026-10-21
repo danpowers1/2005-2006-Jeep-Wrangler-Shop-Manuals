@@ -1,0 +1,37 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 27
+
+
+                        FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    Z987 20BK                          GROUND
+               2    G300 20VT/WT                       FRONT LOCKER INDICATOR SWITCH SENSE
+
+
+
+
+                            FRONT LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    Z987 18BK                          GROUND
+               2    -                                  -
+               3    A750 18TN/RD                       FRONT LOCKER RELAY OUTPUT
+
+
+
+
+                                         FRONT WASHER PUMP - BLACK 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               A    W10 16BR                           WASHER PUMP CONTROL SWITCH OUTPUT
+               B    Z950 18BK                          GROUND
+
+
+
+
+                                         FRONT WIPER MOTOR - BLACK 6 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    F300 16OR/PK                       FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+               2    W7 16BR/GY                         WIPER PARK SWITCH SENSE
+               3    -                                  -
+               4    Z902 18BK                          GROUND
+               5    W3 16BR/WT                         LOW SPEED WIPER SWITCH OUTPUT
+               6    W4 16BR/OR                         WIPER SWITCH HIGH SPEED OUTPUT
+

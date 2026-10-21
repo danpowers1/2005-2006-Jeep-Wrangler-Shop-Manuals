@@ -1,0 +1,49 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                         8W - 80 - 33
+
+
+                                               INPUT SPEED SENSOR - 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    T52 18DG/OR                           INPUT SPEED SENSOR SIGNAL
+               2    T13 18DG/VT                           SPEED SENSOR GROUND
+
+
+
+
+                                             INSTRUMENT CLUSTER C1 - 12 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    L61 18WT/LG                           LEFT TURN SIGNAL
+               2    L60 18WT/TN                           RIGHT TURN SIGNAL
+               3    L300 16LG/WT                          DIMMER SWITCH HIGH BEAM OUTPUT
+               4    L39 16WT/OR (EXCEPT EXPORT)           FOG LAMP FEED
+               4    L36 16WT/DB (EXPORT)                  FOG LAMP FEED
+               5    L7 18WT/YL                            HEADLAMP SWITCH OUTPUT
+               6    G305 20VT/LG (OFF-ROAD PACKAGE)       REAR LOCKER REQUEST
+               7    G301 20VT/LB (OFF-ROAD PACKAGE)       REAR LOCKER INDICATOR SWITCH SENSE
+               8    Z18 18BK/LB                           GROUND
+               9    G303 20VT/DG (OFF-ROAD PACKAGE)       LOCKER ENABLE SIGNAL 2
+              10    D16 20WT/OR                           SCI RECEIVE (TCM)
+              11    F505 20PK/YL                          FUSED IGNITION SWITCH OUTPUT (RUN-START)
+              12    M21 20YL/BR                           FUSED B(+)
+
+
+
+
+                                             INSTRUMENT CLUSTER C2 - 16 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C80 20DB (HARD TOP)                   REAR WINDOW DEFOGGER SWITCH SENSE
+               2    G10 20VT/LG                           SEAT BELT SWITCH SENSE
+               3    G76 20VT/YL                           PASSENGER DOOR AJAR SWITCH SENSE
+               4    G75 20VT                              DRIVER DOOR AJAR SWITCH SENSE
+               5    M22 20YL/OR                           COURTESY LAMPS FEED
+               6    E2 20OR/BR                            PANEL LAMPS FEED
+               7    C115 20DB (HARD TOP)                  REAR WINDOW DEFOGGER RELAY CONTROL
+               8    G4 20VT/LB (ABS)                      ABS WARNING INDICATOR DRIVER
+               9    B83 20DG/WT                           BRAKE WARNING INDICATOR DRIVER
+              10    G304 20VT/DB (OFF-ROAD PACKAGE)       FRONT LOCKER REQUEST
+              11    G93 20VT/LB (OFF-ROAD PACKAGE)        4WD INDICATOR
+              12    D25 20WT/VT                           PCI BUS
+              13    G15 20VT/TN                           KEY-IN IGNITION SWITCH SENSE
+              14    G302 20VT/OR (OFF-ROAD PACKAGE)       LOCKER ENABLE SIGNAL 1
+              15    E19 20OR/BR                           PANEL LAMPS DIMMER SIGNAL
+              16    G300 20VT/WT (OFF-ROAD PACKAGE)       FRONT LOCKER INDICATOR SWITCH SENSE
+

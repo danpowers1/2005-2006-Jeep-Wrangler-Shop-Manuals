@@ -1,0 +1,58 @@
+TJ                                                                                                  POWER SYSTEMS                8N - 1
+
+                                                POWER SYSTEMS
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                 page
+
+AUTOMATIC DAY / NIGHT MIRROR                                            STANDARD PROCEDURE
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1        STANDARD PROCEDURE - COMPASS
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1       CALIBRATION . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ DIAGNOSIS AND TESTING - AUTOMATIC                                        STANDARD PROCEDURE - COMPASS
+   DAY/NIGHT MIRROR . . . . . . . . . . . . . . . . . . . . 1              VARIATION ADJUSTMENT . . . . . . . . . . . . . . . . 2
+
+AUTOMATIC DAY / NIGHT MIR-                                                A thin layer of electrochromatic material between
+                                                                       two pieces of conductive glass make up the face of
+ROR                                                                    the mirror. Two photocell sensors are used to monitor
+                                                                       light levels and adjust the reflectance of the mirror.
+DESCRIPTION                                                            The ambient photocell sensor faces forward, to detect
+   The automatic dimming inside day/night rear view                    the outside light levels. The headlamp sensor is
+mirror system is a completely self-contained unit                      located on the mirror housing just to the left of the
+that replaces the standard equipment inside rear                       switch and facing rearward, to detect the light level
+view mirror. This system will automatically change                     received at the rear window side of the mirror. When
+the reflectance of the inside rear view mirror to pro-                 the difference between the two light levels becomes
+tect the driver from the unwanted headlight glare of                   too great (the light level received at the rear of the
+trailing vehicles while driving at night. The auto-                    mirror is much higher than that at the front of the
+matic day/night inside mirror receives ignition                        mirror), the mirror begins to darken.
+switched battery current through a fuse in the junc-
+tion block, and will only operate when the ignition                    DIAGNOSIS AND TESTING - AUTOMATIC DAY /
+switch is in the On position.                                          NIGHT MIRROR
+   Contained within the mirror is a compass/temper-                       For complete circuit diagrams, refer to the appro-
+ature display as well as two LED reading lamps.                        priate wiring information.
+   The automatic day/night mirror sensitivity cannot                      (1) Check for a blown fuse. If OK, go to Step 2. If
+be repaired or adjusted. If any component of this unit                 not OK, repair the shorted circuit or component as
+is inoperative or damaged, the entire automatic day/                   required and replace the faulty fuse.
+night inside rear view mirror unit must be replaced.                      (2) Turn the ignition switch to the On position.
+                                                                       Check for battery voltage at the fuse. If OK, go to
+OPERATION                                                              Step 3. If not OK, repair the open circuit to the igni-
+   The automatic day/night mirror is equipped with                     tion switch as required.
+three buttons: the left switch for the left LED lamp,                     (3) Turn the ignition switch to the Off position.
+the right switch for the right side LED lamp and the                   Disconnect and isolate the battery negative cable.
+center switch for the compass/temperature function.                    Unplug the wire harness connector from the auto-
+Pressing the left and right switch simultaneously will                 matic day/night mirror. Connect the battery negative
+turn the auto dim function on or off. A green light                    cable. Turn the ignition switch to the On position.
+next to the right button will indicate when the dim-                   Check for battery voltage at the fused ignition switch
+ming feature is activated. The mirror also senses the                  output (run/start) circuit cavity of the automatic day/
+backup lamp circuit, and will automatically disable                    night mirror wire harness connector. If OK, go to
+its self-dimming feature whenever the transmission                     Step 4. If not OK, repair the open circuit as required.
+gear selector is in the Reverse position.                                 (4) Turn the ignition switch to the Off position.
+   The compass/temperature display provides the out-                   Disconnect and isolate the battery negative cable.
+side temperature and one of eight compass headings.                    Check for continuity between the ground circuit cav-
+Press and release the center button once within 3                      ity of the automatic day/night mirror wire harness
+seconds to display compass/temperature (Fahren-                        connector and a good ground. There should be conti-
+heit). Press and release the center button twice                       nuity. If OK, go to Step 5. If not OK, repair the cir-
+within 3 seconds to display compass/temperature                        cuit to ground as required.
+(Celsius). Press and release the center button three                      (5) Connect the battery negative cable. Turn the
+times within 3 seconds to deactivate the feature.                      ignition switch to the On position. Set the parking
+                                                                       brake. Place the transmission gear selector lever in
+

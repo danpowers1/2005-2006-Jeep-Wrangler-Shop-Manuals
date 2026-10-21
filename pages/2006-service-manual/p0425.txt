@@ -1,0 +1,53 @@
+TJ                                                                                        CHARGING        8F - 31
+
+
+
+
+                                                              Fig. 19 DECOUPLER INSTALLATION (Litens)
+
+                                                          VOLTAGE REGULATOR
+                                                          DESCRIPTION
+                                                            The Electronic Voltage Regulator (EVR) is not a
+Fig. 18 DECOUPLER INSTALLATION (INA SPLINED)              separate component. It is actually a voltage regulat-
+1 - DRIVER                                                ing circuit located within the Powertrain Control
+2 - TOOL # 8823 (VM.1048)
+3 - BACKUP WRENCH                                         Module (PCM). The EVR is not serviced separately. If
+                                                          replacement is necessary, the PCM must be replaced.
+Litens Decoupler
+                                                          OPERATION
+   (1) Thread decoupler pulley onto generator shaft
+                                                             The amount of DC current produced by the gener-
+by hand (right-hand threads).
+                                                          ator is controlled by EVR circuitry contained within
+   (2) Position Special Tool 8433 (Fig. 15) into decou-
+                                                          the PCM. This circuitry is connected in series with
+pler. Align tool to hex end of generator shaft.
+                                                          the generators second rotor field terminal and its
+   (3) Do not use an adjustable, ratcheting
+                                                          ground.
+“click type” torque wrench. Most “click type”
+                                                             Voltage is regulated by cycling the ground path to
+wrenches will only allow torque to be applied
+                                                          control the strength of the rotor magnetic field. The
+in a clockwise rotation. Use a dial-type or
+                                                          EVR circuitry monitors system line voltage (B+) and
+beam-type wrench. Tighten in counter-clockwise
+                                                          battery temperature (refer to Battery Temperature
+rotation (Fig. 19). Refer to torque specifications.
+                                                          Sensor for more information). It then determines a
+   (4) Install accessory drive belt, and generator.
+                                                          target charging voltage. If sensed battery voltage is
+Refer to Generator Installation.
+                                                          0.5 volts or lower than the target voltage, the PCM
+   (5) Connect negative battery cable.
+                                                          grounds the field winding until sensed battery volt-
+                                                          age is 0.5 volts above target voltage. A circuit in the
+                                                          PCM cycles the ground side of the generator field up
+                                                          to 100 times per second (100Hz), but has the capabil-
+                                                          ity to ground the field control wire 100% of the time
+                                                          (full field) to achieve the target voltage. If the charg-
+                                                          ing rate cannot be monitored (limp-in), a duty cycle
+                                                          of 25% is used by the PCM in order to have some
+                                                          generator output. Also refer to Charging System
+                                                          Operation for additional information.
+

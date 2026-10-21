@@ -1,0 +1,62 @@
+8Q - 2    VEHICLE THEFT SECURITY                                                                                   TJ
+
+with the vehicle, they may be purchased from any             DIAGNOSIS AND TESTING - SENTRY KEY
+authorized dealer. These additional keys must be pro-
+                                                             IMMOBILIZER SYSTEM
+grammed to the SKIM in the vehicle in order for the
+system to recognize them as valid keys. This can be          WARNING: ON VEHICLES EQUIPPED WITH AIR-
+done by the dealer using a DRBIIIt scan tool or, if          BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+Customer Learn programming is an available SKIS              ATTEMPTING ANY STEERING WHEEL, STEERING
+feature in the market where the vehicle was pur-             COLUMN, OR INSTRUMENT PANEL COMPONENT
+chased, the customer can program the additional              DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+keys, as long as at least two valid Sentry Keys are          LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+already available. (Refer to 8 - ELECTRICAL/VEHI-            THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+CLE THEFT SECURITY - STANDARD PROCE-                         TEM CAPACITOR TO DISCHARGE BEFORE PER-
+DURE       -   SENTRY       KEY      TRANSPONDER             FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+PROGRAMMING).                                                IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+   The SKIS performs a self-test each time the igni-         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+tion switch is turned to the On position, and will           CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+store fault information in the form of Diagnostic            BAG DEPLOYMENT AND POSSIBLE PERSONAL
+Trouble Codes (DTC’s) if a system malfunction is             INJURY.
+detected. The SKIS can be diagnosed, and any stored
+DTC’s can be retrieved using a DRBIIIt scan tool.
+Refer to the appropriate diagnostic information.
+
+                               SENTRY KEY IMMOBILIZER SYSTEM DIAGNOSIS
+
+         CONDITION                  POSSIBLE CAUSES                                 CORRECTION
+
+SKIS INDICATOR FAILS TO         1. Indicator faulty.              1. Test and replace the faulty instrument cluster
+LIGHT DURING BULB TEST                                            or bulb as required.
+                                2. Fuse faulty.                   2. Test and replace the SKIM fused B(+) and
+                                                                  fused ignition switch output (run-start) fuses in
+                                                                  the fuse block as required.
+                                3. Ground circuit faulty.         3. Test and repair the SKIM ground circuit as
+                                                                  required.
+                                4. Fused B(+) circuit faulty.     4. Test and repair the SKIM fused B(+) circuit
+                                                                  as required.
+                                5. Fused ignition switch out-     5. Test and repair the SKIM fused ignition switch
+                                put circuit faulty.               output (run-start) circuit as required.
+
+SKIS INDICATOR FLASHES          1. Invalid key in ignition        1. Replace the key with a known valid key.
+WHEN IGNITION SWITCH            switch lock cylinder.
+IS TURNED TO THE “ON”
+POSITION                        2. Key-related fault.             2. Use a DRBIIIT scan tool to diagnose the key-
+                                                                  related fault. Refer to the appropriate diagnostic
+                                                                  information.
+
+SKIS INDICATOR LIGHTS           1. SKIS system malfunction/       1. Use a DRBIIIT scan tool to diagnose the
+SOLID FOLLOWING BULB            fault detected.                   SKIS. Refer to the appropriate diagnostic infor-
+TEST                                                              mation.
+
+
+
+SKIS INDICATOR FAILS TO LIGHT DURING BULB TEST               AND TESTING - ACTUATOR TEST). If the SKIS
+                                                             indicator still fails to light during the bulb test, a
+  If the Sentry Key Immobilizer System (SKIS) indi-          wiring problem resulting in the loss of battery cur-
+cator in the instrument cluster fails to illuminate for      rent or ground to the Sentry Key Immobilizer Module
+about three seconds after the ignition switch is             (SKIM) should be suspected, and the following proce-
+turned to the On position (bulb test), perform the           dure should be used for diagnosis. Refer to the appro-
+instrument cluster actuator test. (Refer to 8 - ELEC-        priate wiring information. The wiring information
+TRICAL/INSTRUMENT CLUSTER - DIAGNOSIS                        includes wiring diagrams, proper wire and connector
+

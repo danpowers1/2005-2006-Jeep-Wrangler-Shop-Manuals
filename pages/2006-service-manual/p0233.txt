@@ -1,0 +1,55 @@
+TJ                                                                     VEHICLE QUICK REFERENCE           4-3
+
+         Cavity                 Fuse                                      Description
+           6          20 Amp                      Rear Wiper
+                      Yellow
+           7          10 Amp                      Back-Up Lights, Rear Window Defroster Relay, ABS
+                      Red
+           8          10 Amp                      HEVAC
+                      Red
+           9          10 Amp                      Airbag
+                      Red
+          10          10 Amp                      Instrument Cluster
+                      Red
+          11          10 Amp                      Solenoids, DRL
+                      Red
+          12          10 Amp                      Power Distribution Relays, Skim (Sentry Key)
+                      Red
+          13          10 Amp                      Turn Signals
+                      Red
+          14          10 Amp                      Radio
+                      Red
+          15          10 Amp                      HBL (Rear Window Defroster) Switch
+                      Red
+          16          10 Amp                      Headlamp Aim (Export Only)
+                      Red
+          17          25 Amp                      Front Wiper
+                      Natural
+          18          20 Amp                      Cigar Lighter
+                      Yellow
+          19          20 Amp                      Spare
+                      Yellow
+          20          20 Amp                      Spare
+                      Yellow
+
+
+Underhood Fuses (Power Distribution Center)               A label inside the latching cover of the center iden-
+                                                       tifies each component for ease of replacement, if nec-
+  Your vehicle is equipped with an electrical power    essary. Cartridge and mini (micro) fuses can be
+distribution center located in the engine compart-     obtained from your authorized dealer.
+ment near the battery. This power center houses
+plug-in “Cartridge” fuses, ISO relays, and Mini
+(Micro) fuses.
+
+Cavity            Fuse/Color                  Description
+1                 40 Amp                      HEVAC
+                  Green
+2                 40 Amp                      HBL (Rear Window Defroster)
+                  Green
+3                 40 Amp                      Exterior Lighting
+                  Green
+4                 40 Amp                      Radiator Fan
+                  Green
+5                 20 Amp                      Transmission
+                  Yellow
+

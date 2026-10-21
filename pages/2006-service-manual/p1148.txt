@@ -1,0 +1,73 @@
+14 - 30    FUEL INJECTION                                                                                   TJ
+
+FUEL PUMP RELAY                                           (2) Install cover to PDC.
+
+DESCRIPTION                                             IDLE AIR CONTROL MOTOR
+  The 5–pin, 12–volt, fuel pump relay is located in
+the Power Distribution Center (PDC). Refer to the
+                                                        DESCRIPTION
+label on the PDC cover for relay location.
+                                                          The IAC stepper motor is mounted to the throttle
+                                                        body, and regulates the amount of air bypassing the
+OPERATION                                               control of the throttle plate. As engine loads and
+   The Powertrain Control Module (PCM) energizes
+                                                        ambient temperatures change, engine rpm changes.
+the electric fuel pump through the fuel pump relay.
+                                                        A pintle on the IAC stepper motor protrudes into a
+The fuel pump relay is energized by first applying
+                                                        passage in the throttle body, controlling air flow
+battery voltage to it when the ignition key is turned
+                                                        through the passage. The IAC is controlled by the
+ON, and then applying a ground signal to the relay
+                                                        Powertrain Control Module (PCM) to maintain the
+from the PCM.
+                                                        target engine idle speed.
+   Whenever the ignition key is turned ON, the elec-
+tric fuel pump will operate. But, the PCM will shut-
+                                                        OPERATION
+down the ground circuit to the fuel pump relay in
+                                                           At idle, engine speed can be increased by retract-
+approximately 1–3 seconds unless the engine is oper-
+                                                        ing the IAC motor pintle and allowing more air to
+ating or the starter motor is engaged.
+                                                        pass through the port, or it can be decreased by
+                                                        restricting the passage with the pintle and diminish-
+REMOVAL                                                 ing the amount of air bypassing the throttle plate.
+  The fuel pump relay is located in the Power Distri-      The IAC is called a stepper motor because it is
+bution Center (PDC) (Fig. 12). Refer to label on PDC    moved (rotated) in steps, or increments. Opening the
+cover for relay location.                               IAC opens an air passage around the throttle blade
+                                                        which increases RPM.
+                                                           The PCM uses the IAC motor to control idle speed
+                                                        (along with timing) and to reach a desired MAP dur-
+                                                        ing decel (keep engine from stalling).
+                                                           The IAC motor has 4 wires with 4 circuits. Two of
+                                                        the wires are for 12 volts and ground to supply elec-
+                                                        trical current to the motor windings to operate the
+                                                        stepper motor in one direction. The other 2 wires are
+                                                        also for 12 volts and ground to supply electrical cur-
+                                                        rent to operate the stepper motor in the opposite
+                                                        direction.
+                                                           To make the IAC go in the opposite direction, the
+                                                        PCM just reverses polarity on both windings. If only
+                                                        1 wire is open, the IAC can only be moved 1 step
+                                                        (increment) in either direction. To keep the IAC
+      Fig. 12 Power Distribution Center (PDC)           motor in position when no movement is needed, the
+                                                        PCM will energize both windings at the same time.
+1 - BATTERY
+2 - POWER DISTRIBUTION CENTER (PDC)                     This locks the IAC motor in place.
+                                                           In the IAC motor system, the PCM will count
+   (1) Remove PDC cover.                                every step that the motor is moved. This allows the
+   (2) Remove relay from PDC.                           PCM to determine the motor pintle position. If the
+   (3) Check condition of relay terminals and PDC       memory is cleared, the PCM no longer knows the
+connector terminals for damage or corrosion. Repair     position of the pintle. So at the first key ON, the
+if necessary before installing relay.                   PCM drives the IAC motor closed, regardless of
+   (4) Check for pin height (pin height should be the   where it was before. This zeros the counter. From
+same for all terminals within the PDC connector).       this point the PCM will back out the IAC motor and
+Repair if necessary before installing relay.            keep track of its position again.
+                                                           When engine rpm is above idle speed, the IAC is
+INSTALLATION                                            used for the following:
+  The fuel pump relay is located in the Power Distri-      • Off-idle dashpot (throttle blade will close quickly
+bution Center (PDC) (Fig. 12). Refer to label on PDC    but idle speed will not stop quickly)
+cover for relay location.                                  • Deceleration air flow control
+  (1) Install relay to PDC.
+

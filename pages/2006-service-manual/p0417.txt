@@ -1,0 +1,52 @@
+TJ                                                                                       CHARGING        8F - 23
+
+   • the voltmeter (if equipped) does not register        form the following inspections before attaching the
+properly                                                  scan tool.
+   • an undercharged or overcharged battery condi-           (1) Inspect the battery condition. Refer to 8, Bat-
+tion occurs.                                              tery for procedures.
+   Remember that an undercharged battery is often            (2) Inspect condition of battery cable terminals,
+caused by:                                                battery posts, connections at engine block, starter
+   • accessories being left on with the engine not        solenoid and relay. They should be clean and tight.
+running                                                   Repair as required.
+   • a faulty or improperly adjusted switch that             (3) Inspect all fuses in both the fuseblock and
+allows a lamp to stay on. Refer to Ignition-Off Draw      Power Distribution Center (PDC) for tightness in
+Test in 8, Battery for more information.                  receptacles. They should be properly installed and
+                                                          tight. Repair or replace as required.
+INSPECTION                                                   (4) Inspect generator mounting bolts for tightness.
+  The Powertrain Control Module (PCM) monitors            Replace or tighten bolts if required. Refer to the Gen-
+critical input and output circuits of the charging sys-   erator Removal/Installation section of this group for
+tem, making sure they are operational. A Diagnostic       torque specifications.
+Trouble Code (DTC) is assigned to each input and             (5) Inspect generator drive belt condition and ten-
+output circuit monitored by the On-Board Diagnostic       sion. Tighten or replace belt as required. Refer to
+(OBD) system. Some charging system circuits are           Belt Tension Specifications in 7, Cooling System.
+checked continuously, and some are checked only              (6) Inspect automatic belt tensioner (if equipped).
+under certain conditions.                                 Refer to 7, Cooling System for information.
+  Refer to Diagnostic Trouble Codes in; Powertrain           (7) Inspect generator electrical connections at gen-
+Control Module; Electronic Control Modules for more       erator field, battery output, and ground terminal (if
+DTC information. This will include a complete list of     equipped). Also check generator ground wire connec-
+DTC’s including DTC’s for the charging system.            tion at engine (if equipped). They should all be clean
+  To perform a complete test of the charging system,      and tight. Repair as required.
+refer to the appropriate Powertrain Diagnostic Proce-
+dures service manual and the DRBt scan tool. Per-
+
+SPECIFICATIONS
+GENERATOR RATINGS
+        TYPE                 RATED SAE AMPS                   ENGINES                    MINIMUM TEST
+                                                                                             AMPS
+       DENSO                         124                         2.4L                           88
+       DENSO                         136                         2.4                            96
+       DENSO                         117                         4.0L                           88
+       DENSO                         81                          4.0L                           57
+       DENSO                         124                         4.0L                           90
+
+TORQUE
+      DESCRIPTION                          N-m                    Ft. Lbs.                    In. Lbs.
+ Generator Mounting Bolts
+                                           57                          42                            -
+          (2.4L)
+ Generator Mounting Bolt                   55                          41                            -
+         (4.0L)
+ Generator Pivot Bolt/Nut                  55                          41                            -
+         (4.0L)
+ Generator B+ Cable Nut                    13                           -                        115
+

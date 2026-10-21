@@ -1,0 +1,74 @@
+24 - 14     CONTROLS                                                                                         TJ
+
+A / C CLUTCH RELAY                                        the power distribution center (PDC). The inputs and
+                                                          outputs of the A/C clutch relay include:
+                                                            • The common feed terminal (A10) receives bat-
+DESCRIPTION
+                                                          tery current through a fuse in the PDC at all times.
+  The A/C clutch relay (Fig. 9) is a International
+                                                            • The coil ground terminal (A8) receives a ground
+Standards Organization (ISO) micro-relay. Relays
+                                                          input from the PCM through the A/C clutch relay
+conforming to the ISO specifications have common
+                                                          control circuit only when the PCM electronically
+physical dimensions, current capacities, terminal
+                                                          pulls the control circuit to ground.
+functions and patterns. The ISO micro-relay terminal
+                                                            • The coil battery terminal (A6) receives battery
+functions are the same as a conventional ISO relay.
+                                                          current through a fuse in the fuse block only when
+However, the ISO micro-relay terminal pattern (or
+                                                          the ignition switch is in the Run or Start position.
+footprint) is different, the current capacity is lower,
+                                                            • The normally open terminal (A9) provides bat-
+and the physical dimensions are smaller than those
+                                                          tery current to the A/C clutch coil through the A/C
+of the conventional ISO relay.
+                                                          clutch relay only when the A/C clutch relay coil is
+  The A/C clutch relay is located in the power distri-
+                                                          energized.
+bution center (PDC) in the engine compartment.
+                                                            • The normally closed terminal (87A) is not con-
+                                                          nected to any circuit in this application, but provides
+                                                          a battery current output only when the A/C clutch
+                                                          relay coil is de-energized.
+                                                            The A/C clutch relay cannot be repaired and, if
+                                                          faulty or damaged, it must be replaced. Refer to the
+                                                          appropriate wiring information for diagnosis and
+                                                          testing of the ISO-standard micro-relay and for com-
+                                                          plete HVAC wiring diagrams.
+
+                                                          REMOVAL
+                                                            (1) Disconnect and isolate the battery negative
+                                                          cable.
+          Fig. 9 A/C Compressor Clutch Relay                (2) Remove the cover from the power distribution
+                                                          center (PDC) (Fig. 10) located in the engine compart-
+30 - COMMON FEED
+85 - COIL GROUND                                          ment.
+86 - COIL BATTERY
+87 - NORMALLY OPEN                                        NOTE: Refer to the fuse and relay layout map on
+87A - NORMALLY CLOSED                                     the inside of the PDC cover for A/C clutch relay
+                                                          location.
+OPERATION
+  The A/C clutch relay is an electromechanical              (3) Remove the A/C clutch relay from the PDC.
+switch that uses a low current input controlled by
+the powertrain control module (PCM) to control the
+high current output to the A/C clutch field coil. The
+movable, common feed relay contact is held against
+the fixed, normally closed relay contact by spring
+pressure. When the electromagnetic relay coil is
+energized, it draws the movable common feed relay
+contact away from the fixed, normally closed relay
+contact and, holds it against the fixed, normally open
+relay contact. This action allows high current to flow
+to the A/C clutch field coil.
+  When the relay coil is de-energized, spring pres-
+sure returns the movable relay contact back against
+the fixed, normally closed contact point. The resistor
+or diode is connected in parallel with the relay coil,
+and helps to dissipate voltage spikes and electromag-
+netic interference that can be generated as the elec-
+tromagnetic field of the relay coil collapses.
+  The A/C clutch relay terminals are connected to
+the vehicle electrical system through a receptacle in
+

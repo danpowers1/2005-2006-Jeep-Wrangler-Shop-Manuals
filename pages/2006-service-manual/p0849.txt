@@ -1,0 +1,51 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                         8W - 80 - 9
+
+
+                    C103 - BLACK (ENGINE SIDE)
+              CAV                  CIRCUIT
+               1    D20 18WT/LG
+               1    D20 20WT/LG (MAN 6 SPD TRANS)
+               2    G31 18VT/LG
+               2    G31 20VT/LG (MAN 6 SPD TRANS)
+               3    C221 20LB/OR (4.0L)
+               4    F856 20YL/PK (2.4L)
+               4    K399 18BR/GY (4.0L)
+               5    K299 18BR/WT
+               5    K299 20BR/WT (MAN 6 SPD TRANS)
+               6    D25 18WT/VT
+               6    D25 20WT/VT (MAN 6 SPD TRANS)
+               7    D21 18WT/BR
+               7    D21 20WT/BR (MAN 6 SPD TRANS)
+               8    K900 20DB/DG
+               9    F1 18PK/WT
+               9    F1 20PK/WT (MAN 6 SPD TRANS)
+              10    Y3 18LG
+              10    Y3 20LG (MAN 6 SPD TRANS)
+              11    Z11 20BK/LG
+              12    K75 20DB/OR
+              13    K66 18DB/WT
+              13    K66 20DB/WT (MAN 6 SPD TRANS)
+              14    C3 20DB/BK (2.4L A/C)
+              14    C3 20DB/YL (4.0L A/C)
+
+
+
+
+              C103 - BLACK (HEADLAMP AND DASH SIDE)
+              CAV                  CIRCUIT
+               1    D20 20WT/LG
+               2    G31 20VT/LG
+               3    C221 20LB/OR (4.0L)
+               4    F856 20YL/PK
+               4    K399 20BR/GY (4.0L)
+               5    K299 20BR/WT
+               6    D25 18WT/VT
+               7    D21 20WT/BR
+               8    K900 20DB/DG
+               9    F1 20PK/WT
+              10    Y3 20LG
+              11    Z11 20BK/LG
+              12    K75 20DB/OR (DRL)
+              13    K66 20DB/WT
+              14    C3 20DB/YL (4.0L A/C)
+

@@ -1,0 +1,60 @@
+24 - 62    PLUMBING                                                                                           TJ
+
+to vent refrigerant from the A/C system to protect            Drive belts are speed sensitive. At different engine
+against damage to the A/C compressor and other A/C         speeds and depending upon drive belt tension, drive
+system components, caused by a restriction in air          belts can develop noises that are mistaken for an A/C
+flow through the A/C condenser or, an overcharge of        compressor noise. Improper drive belt tension can
+refrigerant.                                               cause a misleading noise when the compressor clutch
+                                                           is engaged, which may not occur when the compres-
+                                                           sor clutch is disengaged. Check the accessory drive
+OPERATION                                                  belt condition and tension as described in Cooling
+                                                           before beginning this procedure.
+A / C COMPRESSOR                                              (1) Select a quiet area for testing. Duplicate the
+   The A/C compressor is driven by the engine              complaint conditions as much as possible. Switch the
+through an electric clutch, drive pulley and belt          compressor on and off several times to clearly iden-
+arrangement. The A/C compressor is lubricated by           tify the compressor noise. Listen to the compressor
+refrigerant oil that is circulated throughout the          while the clutch is engaged and disengaged. Probe
+refrigerant system with the refrigerant.                   the compressor with an engine stethoscope or a long
+   The A/C compressor draws in low-pressure refrig-        screwdriver with the handle held to your ear to bet-
+erant vapor from the A/C evaporator through its suc-       ter localize the source of the noise.
+tion port. It then compresses the refrigerant into a          (2) Loosen all of the compressor mounting hard-
+high-pressure, high-temperature refrigerant vapor,         ware and retighten. Tighten the compressor clutch
+which is then pumped to the A/C condenser through          mounting nut. Be certain that the clutch coil is
+the compressor discharge port.                             mounted securely to the compressor, and that the
+   The A/C compressor cannot be repaired and, if           clutch plate and pulley are properly aligned and have
+faulty or damaged, it must be replaced. The compres-       the correct air gap (Refer to 24 - HEATING & AIR
+sor clutch, pulley and bearing assembly, and clutch        CONDITIONING/CONTROLS/A/C               COMPRESSOR
+field coil are available for service.                      CLUTCH - INSTALLATION).
+                                                              (3) To duplicate a high-ambient temperature condi-
+HIGH PRESSURE RELIEF VALVE                                 tion (high head pressure), restrict the air flow
+  The high pressure relief valve vents the A/C sys-        through the condenser. Install a manifold gauge set
+tem when a discharge pressure of 3445 to 4135 kPa          to be certain that the discharge pressure does not
+(500 to 600 psi) or above is reached. The high pres-       exceed 2760 kPa (400 psi).
+sure relief valve closes when a minimum discharge             (4) Check the refrigerant system plumbing for
+pressure of 2756 kPa (400 psi) is reached.                 incorrect routing, rubbing or interference, which can
+  The high pressure relief valve vents only enough         cause unusual noises. Also check the refrigerant lines
+refrigerant to reduce the A/C system pressure, and         for kinks or sharp bends that will restrict refrigerant
+then re-seats itself. The majority of the refrigerant is   flow, which can cause noises (Refer to 24 - HEATING
+conserved in the A/C system. If the valve vents            & AIR CONDITIONING/PLUMBING - DESCRIP-
+refrigerant, it does not mean that the valve is faulty.    TION - REFRIGERANT LINES).
+  The high pressure relief valve is factory-calibrated.       (5) If the noise is from opening and closing of the
+The high pressure relief valve cannot be adjusted or       high pressure relief valve, recover, evacuate and
+repaired, and must not be removed or otherwise dis-        recharge the refrigerant system (Refer to 24 - HEAT-
+turbed. The high pressure relief valve is only ser-        ING & AIR CONDITIONING/PLUMBING - STAN-
+viced as a part of the A/C compressor.                     DARD PROCEDURE - REFRIGERANT SYSTEM
+                                                           RECOVERY), (Refer to 24 - HEATING & AIR CON-
+                                                           DITIONING/PLUMBING - STANDARD PROCE-
+DIAGNOSIS AND TESTING                                      DURE - REFRIGERANT SYSTEM EVACUATE) and
+                                                           (Refer to 24 - HEATING & AIR CONDITIONING/
+A / C COMPRESSOR NOISE                                     PLUMBING - STANDARD PROCEDURE - REFRIG-
+   When investigating an A/C system related noise,         ERANT SYSTEM CHARGE).
+you must first know the conditions under which the            (6) If the noise is from liquid slugging on the suc-
+noise occurs. These conditions include: weather, vehi-     tion line, replace the accumulator (Refer to 24 -
+cle speed, transmission in gear or neutral, engine         HEATING & AIR CONDITIONING/PLUMBING/AC-
+speed, engine temperature, and any other special           CUMULATOR - REMOVAL) and check the refriger-
+conditions. Noises that develop during A/C operation       ant oil level and the refrigerant system charge (Refer
+can often be misleading. For example: What sounds          to 24 - HEATING & AIR CONDITIONING/PLUMB-
+like a failed front engine bearing or connecting rod,      ING/REFRIGERANT OIL - STANDARD PROCE-
+may be caused by loose bolts, nuts, mounting brack-        DURE - REFRIGERANT SYSTEM OIL LEVEL).
+ets or a loose compressor clutch assembly.
+

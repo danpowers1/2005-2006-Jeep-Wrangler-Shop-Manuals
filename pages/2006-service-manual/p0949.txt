@@ -1,0 +1,43 @@
+TJ                                 8W-97 POWER DISTRIBUTION                                        8W - 97 - 3
+
+   (3) Turn the ignition switch to the Off position.      The glove box is rolled down from the instrument
+Disconnect and isolate the battery negative cable.        panel for service access of the fuseblock module
+Remove the instrument panel accessory switch bezel.       fuses. An adhesive-backed fuse layout map (Fig. 2) is
+Check for continuity between the ground circuit cav-      located on the outside of the glove box bin (Fig. 3) to
+ity #3 of the cigar lighter wire harness connector and    ensure proper fuse identification.
+a good ground. There should be continuity. If OK, go
+to Step 4. If not OK, repair the open ground circuit to
+ground as required.
+   (4) Connect the battery negative cable. Turn the
+ignition switch to the Accessory or On positions.
+Check for battery voltage at cavity #1 of the cigar
+lighter wire harness connector. If OK, replace the
+faulty accessory switch bezel unit. If not OK, check
+for blown fuse in the fuseblock (f19) or in the PDC
+(f13). If fuse is blown check for short circuit. Repair
+the circuit as required and replace blown fuse.
+
+
+FUSE BLOCK
+DESCRIPTION
+   An electrical fuseblock module is mounted on the
+dash panel in the passenger compartment of the
+vehicle (Fig. 1). The fuseblock module serves to dis-
+tribute electrical current to many of the accessory
+systems in the vehicle. The fuseblock module houses
+up to twenty blade-type mini fuses.
+                                                                         Fig. 2 Fuseblock Label
+
+
+
+
+         Fig. 1 Fuseblock Module Location
+1 - FUSE BLOCK
+2 - HEATER CASE
+3 - GLOVE BOX OPENING                                               Fig. 3 Fuseblock Label Location
+                                                          1 - GLOVE BOX DOOR
+  The molded plastic fuseblock module housing has         2 - FUSEBLOCK LABEL
+an integral mounting bracket that is secured with         3 - GLOVE BOX BIN
+two screws to a bracket welded on the dash panel
+just above the heater and air conditioner housing.
+

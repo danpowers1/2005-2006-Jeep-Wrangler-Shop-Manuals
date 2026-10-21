@@ -1,0 +1,46 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 25
+
+
+                                        DATA LINK CONNECTOR - BLACK 16 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    -                                  -
+               2    D25 20WT/VT                        PCI BUS
+               3    -                                  -
+               4    Z111 20BK/WT                       GROUND
+               5    Z11 20BK/LG                        GROUND
+               6    -                                  -
+               7    D21 20WT/BR                        SCI TRANSMIT (PCM/CAB)
+               8    -                                  -
+               9    D16 20WT/OR                        SCI RECEIVE (TCM)
+              10    -                                  -
+              11    -                                  -
+              12    D20 20WT/LG                        SCI RECEIVE (PCM)
+              13    -                                  -
+              14    -                                  -
+              15    D15 20WT/DG                        SCI RECEIVE (TCM)
+              16    M21 20YL/BR                        FUSED B(+)
+
+
+
+
+                         DAYTIME RUNNING LAMP MODULE (EXCEPT EXPORT) - BLACK 10 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    L300 14LG/WT                       DIMMER SWITCH HIGH BEAM OUTPUT
+               2    -                                  -
+               3    -                                  -
+               4    L340 14WT/OR                       HIGH BEAM INDICATOR DRIVER
+               5    F960 20PK/LG                       FUSED IGNITION SWITCH OUTPUT (RUN-START)
+               6    A333 14WT/RD                       FUSED B(+)
+               7    K75 20DB/OR                        VEHICLE SPEED SENSOR SIGNAL
+               8    Z901 18BK                          GROUND
+               9    -                                  -
+              10    L4 14WT/LG                         DIMMER SWITCH LOW BEAM OUTPUT
+
+
+
+
+                                       DRIVER AIRBAG SQUIB 1 - YELLOW 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    R45 18DG/LB                        DRIVER SQUIB 1 LINE 2
+               2    R43 18BK/LB                        DRIVER SQUIB 1 LINE 1
+

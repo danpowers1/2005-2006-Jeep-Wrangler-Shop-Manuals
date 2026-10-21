@@ -1,0 +1,31 @@
+21 - 70    AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+
+
+
+
+    Fig. 76 Remove Low/Reverse Clutch Piston                     Fig. 78 Remove Piston Retainer Gasket
+1 - LOW/REVERSE CLUTCH PISTON                              1 - GASKET HOLES MUST LINE UP
+2 - BONDED SEAL                                            2 - LOW/REVERSE CLUTCH PISTON RETAINER GASKET
+3 - BONDED SEAL
+                                                           ASSEMBLY
+  (54) Remove   the   low/reverse      piston   retainer
+screws.                                                    NOTE: If the transmission assembly is being recon-
+  (55) Remove   low/reverse   piston    retainer   (Fig.   ditioned (clutch/seal replacement) or replaced, it is
+77).                                                       necessary to perform the Quick Learn Procedure
+                                                           using the DRBIIIT Scan Tool (Refer to 8 - ELECTRI-
+                                                           CAL/ELECTRONIC CONTROL MODULES/TRANS-
+                                                           MISSION CONTROL MODULE - STANDARD
+                                                           PROCEDURE).
+
+                                                             (1) Install the output bearing cups using Special
+                                                           Tool - 5050A (Fig. 79).
+
+
+
+
+          Fig. 77 Remove Piston Retainer
+1 - LOW/REVERSE CLUTCH PISTON RETAINER                        Fig. 79 Bearing Cup Installation Special Tool -
+2 - GASKET                                                                       5050A
+  (56) Remove the low/reverse piston retainer gasket         (2) Install low/reverse piston retainer gasket (Fig.
+(Fig. 78).                                                 80).
+

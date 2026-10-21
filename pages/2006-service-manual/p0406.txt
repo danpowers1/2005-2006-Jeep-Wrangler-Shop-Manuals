@@ -1,0 +1,63 @@
+8F - 12    BATTERY SYSTEM                                                                                    TJ
+
+   • Clear or Bright - Indicates a low battery elec-
+trolyte level. The electrolyte level in the battery is
+below the built-in indicator. A maintenance-free bat-
+tery with non-removable cell caps must be replaced if
+the electrolyte level is low. Water must be added to a
+low-maintenance battery with removable cell caps
+before it is charged. Refer to Standard Procedures for
+the proper battery filling procedures. A low electro-
+lyte level may be caused by an overcharging condi-
+tion. Refer to Charging System for the proper
+charging system diagnosis and testing procedures.
+
+
+
+
+                                                                   Fig. 8 Testing Open Circuit Voltage
+                                                            See the Open-Circuit Voltage Table. This voltage
+                                                          reading will indicate the battery state-of-charge, but
+                                                          will not reveal its cranking capacity. If a battery has
+                                                          an open-circuit voltage reading of 12.4 volts or
+      Fig. 7 Built-In Test Indicator Sight Glass          greater, it may be load tested to reveal its cranking
+                                                          capacity (Refer to 8 - ELECTRICAL/BATTERY SYS-
+STANDARD PROCEDURE - OPEN - CIRCUIT                       TEM/BATTERY - STANDARD PROCEDURE).
+VOLTAGE TEST
+  A battery open-circuit voltage (no load) test will                OPEN CIRCUIT VOLTAGE TABLE
+show the approximate state-of-charge of a battery.           Open Circuit Voltage        Charge Percentage
+This test can be used in place of the hydrometer test         11.7 volts or less                 0%
+when a hydrometer is not available, or for mainte-
+                                                                  12.0 volts                     25%
+nance-free batteries with non-removable cell caps.
+  Before proceeding with this test, completely charge             12.2 volts                     50%
+the battery (Refer to 8 - ELECTRICAL/BATTERY                      12.4 volts                     75%
+SYSTEM/BATTERY - STANDARD PROCEDURE).                         12.6 volts or more                100%
+  (1) Before measuring the open-circuit voltage, the
+surface charge must be removed from the battery.          STANDARD PROCEDURE - IGNITION - OFF
+Turn on the headlamps for fifteen seconds, then           DRAW TEST
+allow up to five minutes for the battery voltage to
+                                                            The term Ignition-Off Draw (IOD) identifies a nor-
+stabilize.
+                                                          mal condition where power is being drained from the
+  (2) Disconnect and isolate both battery cables, neg-
+                                                          battery with the ignition switch in the Off position. A
+ative cable first.
+                                                          normal vehicle electrical system will draw from five
+  (3) Using a voltmeter connected to the battery
+                                                          to thirty-five milliamperes (0.005 to 0.035 ampere)
+posts (see the instructions provided by the manufac-
+                                                          with the ignition switch in the Off position, and all
+turer of the voltmeter), measure the open-circuit volt-
+                                                          non-ignition controlled circuits in proper working
+age (Fig. 8).
+                                                          order. Up to thirty-five milliamperes are needed to
+                                                          enable the memory functions for the Powertrain Con-
+                                                          trol Module (PCM), digital clock, electronically tuned
+                                                          radio, and other modules which may vary with the
+                                                          vehicle equipment.
+                                                            A vehicle that has not been operated for approxi-
+                                                          mately twenty days, may discharge the battery to an
+                                                          inadequate level. When a vehicle will not be used for
+                                                          twenty days or more (stored), remove the IOD fuse
+

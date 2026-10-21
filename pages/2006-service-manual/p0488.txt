@@ -1,0 +1,63 @@
+8J - 20    INSTRUMENT CLUSTER                                                                                TJ
+
+  (3) Position the instrument cluster into the instru-   NOTE: Certain indicators in this instrument cluster
+ment panel structural support.                           are automatically configured. This feature allows
+  (4) Install and tighten the four screws that secure    those indicators to be activated for deactivated for
+the instrument cluster to the instrument panel struc-    compatibility with certain optional equipment. If the
+tural support. Tighten the screws to 2.2 N·m (20 in.     problem being diagnosed involves improper illumi-
+lbs.).                                                   nation of the airbag indicator, the cruise indicator,
+  (5) Reinstall the cluster bezel onto the instrument    or the SKIM indicator when the vehicle does not
+panel. (Refer to 23 - BODY/INSTRUMENT PANEL/             have this equipment, the instrument cluster must
+CLUSTER BEZEL - INSTALLATION).                           be replaced with a new unit.
+  (6) Reconnect the battery negative cable.
+
+SPECIFICATIONS
+INSTRUMENT CLUSTER
+
+                                        TORQUE SPECIFICATIONS
+
+      DESCRIPTION                      N·m                       Ft. Lbs.                     In. Lbs.
+ Instrument Cluster Mount-              2.2                          -                           20
+        ing Screws
+   Cluster Housing Rear                  2                           -                           20
+  Cover Mounting Screws
+
+
+ABS INDICATOR                                            completely controlled by the Controller Antilock
+                                                         Brake (CAB). The ABS indicator Light Emitting
+                                                         Diode (LED) receives battery current on the instru-
+DESCRIPTION
+                                                         ment cluster electronic circuit board through the
+                                                         fused ignition switch output (run-start) circuit when-
+                                                         ever the ignition switch is in the On or Start posi-
+                Fig. 7 ABS Indicator                     tions; therefore, the LED will always be off when the
+  An Antilock Brake System (ABS) indicator is stan-      ignition switch is in any position except On or Start.
+dard equipment on all instrument clusters (Fig. 7).      The LED only illuminates when it is provided a path
+However, this indicator is only functional on vehicles   to ground by the CAB through the CAB relay in the
+equipped with the ABS option. The ABS indicator is       Power Distribution Center (PDC). The CAB will turn
+located near the lower edge of the instrument cluster,   on the ABS indicator for the following reasons:
+to the left of center. The ABS indicator consists of a      • Bulb Test - Each time the ignition switch is
+stencil-like cutout of the International Control and     turned to the On position the ABS indicator is illu-
+Display Symbol icon for “Failure of Anti-lock Braking    minated by the cluster for about two seconds as a
+System” in the opaque layer of the instrument clus-      bulb test.
+ter overlay. The dark outer layer of the overlay pre-       • ABS Self-Test Fault - Each time the CAB
+vents the indicator from being clearly visible when it   detects a fault in a monitored ABS circuit, the ABS
+is not illuminated. An amber Light Emitting Diode        indicator will be illuminated. The indicator remains
+(LED) behind the cutout in the opaque layer of the       illuminated until the fault condition is corrected, or
+overlay causes the icon to appear in amber through       until the ignition switch is turned to the Off position,
+the translucent outer layer of the overlay when the      whichever occurs first.
+indicator is illuminated from behind by the LED,
+which is soldered onto the instrument cluster elec-        • ABS Diagnostic Test - The ABS indicator is
+tronic circuit board. The ABS indicator is serviced as   blinked on and off by the CAB during the perfor-
+a unit with the instrument cluster.                      mance of the ABS diagnostic tests.
+                                                           The CAB continually monitors the ABS circuits
+OPERATION                                                and sensors to decide whether the system is in good
+                                                         operating condition. If the CAB turns the ABS indi-
+  The ABS indicator gives an indication to the vehi-
+                                                         cator on after the bulb test, it indicates that the CAB
+cle operator when the ABS system is faulty or inop-
+                                                         has detected a system malfunction and/or that the
+erative. This indicator is hard wired on the
+                                                         ABS system has become inoperative. The CAB will
+instrument cluster electronic circuit board, and is
+

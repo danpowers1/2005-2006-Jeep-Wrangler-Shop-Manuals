@@ -1,0 +1,60 @@
+TJ                                                                                          ENGINE     7 - 27
+
+ENGINE COOLANT TEMPERA-
+TURE SENSOR
+DESCRIPTION
+  The Engine Coolant Temperature (ECT) sensor is
+used to sense engine coolant temperature. The sensor
+protrudes into an engine water jacket.
+  The ECT sensor is a two-wire Negative Thermal
+Coefficient (NTC) sensor. Meaning, as engine coolant
+temperature increases, resistance (voltage) in the
+sensor decreases. As temperature decreases, resis-
+tance (voltage) in the sensor increases.
+
+OPERATION
+   At key-on, the Powertrain Control Module (PCM)
+sends out a regulated 5 volt signal to the ECT sensor.
+The PCM then monitors the signal as it passes
+through the ECT sensor to the sensor ground (sensor
+                                                                Fig. 6 ECT SENSOR LOCATION- 2.4L
+return).
+   When the engine is cold, the PCM will operate in      1 - UPPER TIMING BELT COVER
+                                                         2 - ELECTRICAL CONNECTOR (ECT)
+Open Loop cycle. It will demand slightly richer air-     3 - MOUNTING BOLTS (3)
+fuel mixtures and higher idle speeds. This is done
+until normal operating temperatures are reached.
+   The PCM uses inputs from the ECT sensor for the
+following calculations:
+   • For engine coolant temperature gauge operation
+through CCD or PCI (J1850) communications
+   • Injector pulse-width
+   • Spark-advance curves
+   • ASD relay shut-down times
+   • Idle Air Control (IAC) motor key-on steps
+   • Pulse-width prime-shot during cranking
+   • O2 sensor closed loop times
+   • Purge solenoid on/off times
+   • EGR solenoid on/off times (if equipped)
+   • Leak Detection Pump operation (if equipped)
+   • Radiator fan relay on/off times (if equipped)
+   • Target idle speed
+
+REMOVAL
+WARNING: HOT, PRESSURIZED COOLANT CAN
+CAUSE INJURY BY SCALDING. COOLING SYSTEM                        Fig. 7 ECT SENSOR LOCATION - 4.0L
+MUST BE PARTIALLY DRAINED BEFORE REMOV-                  1 - THERMOSTAT HOUSING
+ING ECT (ENGINE COOLANT TEMPERATURE) SEN-                2 - ENGINE COOLANT TEMPERATURE SENSOR
+                                                         3 - ELECTRICAL CONNECTOR
+SOR.
+
+  (1) Partially drain cooling system until coolant
+                                                         INSTALLATION
+level is below cylinder head. (Refer to 7 - COOLING -      (1) Apply sealant to sensor threads (new replace-
+STANDARD PROCEDURE).                                     ment sensors will have sealant already applied).
+  (2) Disconnect ECT (Engine Coolant Temperature)          (2) Install coolant temperature sensor into thermo-
+sensor wire connector (Fig. 6) or (Fig. 7).              stat housing. Tighten to 11 N·m (8 ft. lbs.) torque.
+  (3) Remove sensor from engine.                           (3) Connect wire connector.
+                                                           (4) Fill cooling system. (Refer to 7 - COOLING -
+                                                         STANDARD PROCEDURE).
+

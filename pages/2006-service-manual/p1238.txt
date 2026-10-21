@@ -1,0 +1,58 @@
+21 - 48       AUTOMATIC TRANSMISSION - 42RLE                                                                TJ
+
+  • Shift cable adjustment                               running clutch may be slipping. If acceleration is nor-
+  • Diagnostic trouble code inspection                   mal, but high throttle opening is needed to maintain
+                                                         highway speeds, the converter stator clutch may
+  Then perform a road test to determine if the prob-
+                                                         have seized. Both of these stator defects require
+lem has been corrected or that more diagnosis is nec-
+                                                         replacement of the torque converter and thorough
+essary. If the problem exists after the preliminary
+                                                         transmission cleaning.
+tests and corrections are completed, hydraulic pres-
+sure checks should be performed.                           Slipping clutches can be isolated by comparing the
+                                                         “Elements in Use” chart with clutch operation
+DIAGNOSIS AND TESTING - ROAD TEST                        encountered on a road test. This chart identifies
+                                                         which clutches are applied at each position of the
+   Prior to performing a road test, verify that the      selector lever.
+fluid level, fluid condition, and linkage adjustment
+have been approved.                                        A slipping clutch may also set a DTC and can be
+                                                         determined by operating the transmission in all
+  During the road test, the transmission should be       selector positions.
+operated in each position to check for slipping and
+any variation in shifting.
+  If the vehicle operates properly at highway speeds,
+but has poor acceleration, the converter stator over-
+
+                    ELEMENTS IN USE AT EACH POSITION OF SELECTOR LEVER
+
+ Shift Lever Po-                    INPUT CLUTCHES                                HOLDING CLUTCHES
+      sition          Underdrive         Overdrive          Reverse               2/4          Low/Reverse
+    P - PARK                                                                                         X
+ R - REVERSE                                                    X                                    X
+  N - NEUTRAL                                                                                        X
+  OD - OVER-
+    DRIVE
+      First               X                                                                          X
+     Second               X                                                        X
+      Direct              X                  X
+    Overdrive                                X                                     X
+   D - DRIVE*
+      First               X                                                                          X
+     Second               X                                                        X
+      Direct              X                  X
+    L - LOW*
+      First               X                                                                          X
+     Second               X                                                        X
+      Direct              X                  X
+* Vehicle upshift and downshift speeds are increased when in these selector positions.
+
+
+  The process of elimination can be used to detect
+any unit which slips and to confirm proper operation
+of good units. Road test analysis can diagnose slip-
+ping units, but the cause of the malfunction cannot
+be determined. Practically any condition can be
+caused by leaking hydraulic circuits or sticking
+valves.
+

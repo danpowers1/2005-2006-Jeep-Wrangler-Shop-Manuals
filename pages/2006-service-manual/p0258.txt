@@ -1,0 +1,63 @@
+5-6      BRAKES - BASE                                                                              TJ
+
+  (4) Open up bleeder, then have a helper press               DESCRIPTION        SPECIFICATION
+down the brake pedal. Once the pedal is down close
+the bleeder. Repeat bleeding until fluid stream is        Disc Brake Rotor   Solid
+clear and free of bubbles. Then move to the next          Type
+wheel.                                                    Rear
+                                                          Disc Brake Rotor   279.4 x 23.876 mm (11
+STANDARD PROCEDURE - PRESSURE BLEED-                      Diameter           x 0.94 in.)
+ING                                                       Front
+   Use Mopar brake fluid, or an equivalent quality        Disc Brake Rotor   285 x 12 mm (11 x
+fluid meeting SAE J1703-F and DOT 3 standards             Diameter           0.472 in.)
+only. Use fresh, clean fluid from a sealed container at   Rear
+all times.                                                Disc Brake Rotor   Max. Runout
+   Follow the manufacturers instructions carefully        Ventilated         0.12 mm (0.005 in.)
+when using pressure equipment. Do not exceed the          Front
+tank manufacturers pressure recommendations. Gen-
+                                                          Disc Brake Rotor   Max. Runout
+erally, a tank pressure of 15-20 psi is sufficient for
+                                                          Solid              0.102 mm (0.004 in)
+bleeding.
+                                                          Rear
+   Fill the bleeder tank with recommended fluid and
+purge air from the tank lines before bleeding.            Disc Brake Rotor   Max. Thickness Variation
+   Do not pressure bleed without a proper master cyl-     Ventilated         0.013 mm (0.0005 in.)
+inder adapter. The wrong adapter can lead to leak-        Front
+age, or drawing air back into the system. Use             Disc Brake Rotor   Max Thickness Variation
+adapter provided with the equipment or Adapter            Solid              0.018 mm (0.0007 in)
+6921.                                                     Rear
+                                                          Disc Brake Rotor   Min. Thickness
+SPECIFICATIONS                                            Ventilated         22.7 mm (0.8937 in.)
+                                                          Front
+BRAKE COMPONENTS                                          Disc Brake Rotor   Min. Thickness
+                                                          Solid              11.00 mm (0.433 in.)
+                 SPECIFICATIONS                           Rear
+                                                          Brake Drum         228.6 x 63.5 mm (9 x
+      DESCRIPTION                SPECIFICATION
+                                                          Diameter           2.5 in.)
+Disc Brake Caliper          Sliding
+                                                          Brake Booster      Tandem Diaphragm
+Type
+                                                          Type
+Disc Brake Rotor            Ventilated
+Type
+Front
+
+
+TORQUE CHART
+
+                                         TORQUE SPECIFICATIONS
+
+      DESCRIPTION                        N·m                    Ft. Lbs.             In. Lbs.
+       Brake Pedal                       28                        21                  —
+       Support Bolt
+      Brake Booster                      39                        29                  —
+      Mounting Nuts
+      Master Cylinder                    17                        13                  —
+      Mounting Nuts
+      Master Cylinder                    19                        14                  —
+       Brake Lines
+    Combination Valve                    20                        15                  —
+     Mounting Nuts
+

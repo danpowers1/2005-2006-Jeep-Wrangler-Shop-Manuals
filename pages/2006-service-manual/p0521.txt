@@ -1,0 +1,63 @@
+TJ                                                                    LAMPS/LIGHTING - EXTERIOR             8L - 9
+
+COMBINATION FLASHER                                       tion flasher is believed to be faulty, test the turn sig-
+                                                          nal and hazard warning system prior to replacement.
+                                                          Refer to (Refer to 8 - ELECTRICAL/LAMPS/LIGHT-
+DESCRIPTION
+                                                          ING - EXTERIOR - DIAGNOSIS AND TESTING).
+
+                                                          REMOVAL
+                                                          WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                          BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+                                                          ATTEMPTING ANY STEERING WHEEL, STEERING
+                                                          COLUMN, OR INSTRUMENT PANEL COMPONENT
+                                                          DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+                                                          LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+                                                          THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                          TEM CAPACITOR TO DISCHARGE BEFORE PER-
+                                                          FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+                                                          IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+                                                          SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                          CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+             Fig. 5 Combination Flasher
+                                                          BAG DEPLOYMENT AND POSSIBLE PERSONAL
+1 - COMBINATION FLASHER                                   INJURY.
+2 - LEFT MULTI-FUNCTION SWITCH
+
+   The combination flasher is located to the back of        (1) Disconnect and isolate the battery negative
+the left multi-function switch housing on the top of      cable.
+the steering column, where it is concealed beneath          (2) Remove the steering column cover from the
+the upper steering column shroud (Fig. 5). The com-       instrument panel. (Refer to 23 - BODY/INSTRU-
+bination flasher is a smart relay that functions as       MENT PANEL/STEERING COLUMN OPENING
+both the turn signal system and the hazard warning        COVER - REMOVAL).
+system flasher. The combination flasher contains            (3) Remove the screws that secure the lower steer-
+active electronic Integrated Circuitry (IC) elements.     ing column shroud to the upper shroud (Fig. 6).
+This flasher is designed to handle the current flow
+requirements of the factory-installed lighting. If sup-
+plemental lighting is added to the turn signal lamp
+circuits, such as when towing a trailer with lights,
+the combination flasher will automatically try to
+compensate to keep the flash rate the same.
+   The combination flasher cannot be repaired or
+adjusted and, if faulty or damaged, it must be
+replaced.
+
+OPERATION
+   Constant battery voltage is supplied to the flasher
+so that it can perform the hazard warning function,
+and ignition switched battery voltage is supplied for
+the turn signal function. The Integrated Circuit (IC)
+within the combination flasher contains the logic that
+controls the flasher operation and the flash rate. The
+IC receives sense ground inputs from the multi-func-
+tion switch for the hazard flasher, right turn signal,
+and left turn signal. A special design feature of the
+combination flasher allows it to “sense” that a turn
+signal circuit or bulb is not operating, and provide
+the driver an indication of the condition by flashing
+the remaining bulbs in the affected circuit at a
+higher rate.
+   Because of the active elements within the combina-
+tion flasher, it cannot be tested with conventional
+automotive electrical test equipment. If the combina-
+

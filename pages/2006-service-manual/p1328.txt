@@ -1,0 +1,47 @@
+21 - 138     AUTOMATIC TRANSMISSION - 42RLE                                                                TJ
+
+OUTPUT SPEED SENSOR                                         REMOVAL
+
+DESCRIPTION
+
+
+
+
+                                                               Fig. 231 Input and Output Speed Sensors and
+                                                                        Transmission Range Sensor
+   Fig. 230 Input and Output Speed Sensors and              1 - INPUT SPEED SENSOR
+                                                            2 - OUTPUT SPEED SENSOR
+            Transmission Range Sensor                       3 - TRANSMISSION RANGE SENSOR
+1 - INPUT SPEED SENSOR
+2 - OUTPUT SPEED SENSOR                                       (1) Raise vehicle.
+3 - TRANSMISSION RANGE SENSOR
+                                                              (2) Place a suitable fluid catch pan under the
+   The Input and Output Speed Sensors (Fig. 230) are        transmission.
+two-wire magnetic pickup devices that generate AC             (3) Remove the wiring connector from the output
+signals as rotation occurs. They are mounted in the         speed sensor (2) (Fig. 231).
+left side of the transmission case and are considered
+                                                            NOTE: The speed sensor bolt has a sealing patch
+primary inputs to the Transmission Control Module
+                                                            applied from the factory. Be sure to reuse the same
+(TCM).
+                                                            bolt.
+OPERATION                                                     (4) Remove the bolt holding the output speed sen-
+   The Input Speed Sensor provides information on           sor to the transmission case.
+how fast the input shaft is rotating. As the teeth of         (5) Remove the output speed sensor (2) from the
+the input clutch hub pass by the sensor coil, an AC         transmission case.
+voltage is generated and sent to the TCM. The TCM
+interprets this information as input shaft rpm.
+   The Output Speed Sensor generates an AC signal
+in a similar fashion, though its coil is excited by rota-
+tion of the rear planetary carrier lugs. The TCM
+interprets this information as output shaft rpm.
+   The TCM compares the input and output speed
+signals to determine the following:
+   • Transmission gear ratio
+   • Speed ratio error detection
+   • CVI calculation
+   The TCM also compares the input speed signal and
+the engine speed signal to determine the following:
+   • Torque converter clutch slippage
+   • Torque converter element speed ratio
+

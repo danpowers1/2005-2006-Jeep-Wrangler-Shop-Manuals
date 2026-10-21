@@ -1,0 +1,52 @@
+8W - 80 - 8   8W-80 CONNECTOR PIN-OUTS                    TJ
+
+
+                         C102 - (ENGINE SIDE)
+                CAV                  CIRCUIT
+                 1    A209 18RD
+                 2    F26 16PK/OR
+                 3    G301 20VT/LB (4.0L OFF-ROAD PACK-
+                      AGE)
+                 3    B1 18DG/OR (ABS)
+                 4    A850 18RD/WT (4.0L OFF-ROAD PACK-
+                      AGE)
+                 4    B2 18DG/LB (ABS)
+                 5    C20 20DB/YL (2.4L A/C)
+                 6    G300 20VT/WT (4.0L OFF-ROAD PACK-
+                      AGE)
+                 6    B3 18DG/YL (ABS)
+                 7    A750 18TN/RD (4.0L OFF-ROAD PACK-
+                      AGE)
+                 7    B4 18DG/GY (ABS)
+                 8    N4 20DB/WT
+                 9    L1 20WT/LG
+                10    F102 20PK/DB
+                11    K334 18BR
+                12    T750 14YL/GY
+                13    G93 20VT/LB
+                14    A109 18OR/RD
+
+
+
+
+                C102 - GRAY (HEADLAMP AND DASH SIDE)
+                CAV                  CIRCUIT
+                 1    A209 18RD/YL
+                 2    F26 16PK/OR
+                 3    B1 18DG/OR (ABS)
+                 3    G301 20VT/LB (OFF-ROAD PACKAGE)
+                 4    B2 18DG/LB (ABS)
+                 4    A850 18RD/WT (OFF-ROAD PACKAGE)
+                 5    C20 20DB/YL (2.4L A/C)
+                 6    B3 18DG/YL (ABS)
+                 6    G300 20VT/WT (OFF-ROAD PACKAGE)
+                 7    B4 18DG/GY (ABS)
+                 7    A750 18TN/RD (OFF-ROAD PACKAGE)
+                 8    N4 20DB/WT
+                 9    L1 20WT/LG
+                10    F102 20PK/DB
+                11    K334 18BR
+                12    T750 14YL/GY
+                13    G93 20VT/LB
+                14    A109 18OR/RD
+

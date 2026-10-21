@@ -1,0 +1,62 @@
+TJ                                                                                    AUDIO/VIDEO       8A - 5
+
+   (1) Connect one ohmmeter test lead to the vehicle
+fender. Connect the other test lead to the battery
+negative post.
+   (2) The resistance should be less than one ohm.
+   (3) If the resistance is more than one ohm, check
+the braided ground strap connected to the engine and
+the vehicle body for being loose, corroded, or dam-
+aged. Repair or replace the ground strap connection,
+if required.
+
+TEST 4
+  Test 4 checks the condition of the ground between
+the antenna base and the vehicle body as follows:
+  (1) Connect one ohmmeter test lead to the vehicle
+fender. Connect the other test lead to the outer crimp
+on the antenna coaxial cable connector.
+  (2) The resistance should be less then one ohm.
+  (3) If the resistance is more then one ohm, clean
+and/or tighten the antenna base to fender mounting
+hardware.
+
+REMOVAL                                                             Fig. 2 Antenna Remove/Install
+                                                         1 - RIGHT COWL SIDE PANEL
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                  2 - BASE & CABLE
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)                   3 - GROMMET
+BEFORE ATTEMPTING ANY STEERING WHEEL,                    4 - SCREW
+                                                         5 - COVER
+STEERING COLUMN, OR INSTRUMENT PANEL                     6 - MAST
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+TO TAKE THE PROPER PRECAUTIONS COULD                       (5) Using a trim stick, gently pry the edge of the
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT                   antenna base trim cover to unsnap it from the
+AND POSSIBLE PERSONAL INJURY.                            antenna body base.
+                                                           (6) Remove the three screws that secure the
+   (1) Disconnect and isolate the battery negative       antenna body base to the right outer cowl side panel.
+cable.                                                     (7) From inside the passenger compartment, push
+   (2) Remove the glove box from the instrument          the coaxial cable grommet on the antenna body half
+panel. (Refer to 23 - BODY/INSTRUMENT PANEL/             of the coaxial cable out through the hole in the right
+GLOVE BOX - REMOVAL).                                    inner cowl side panel.
+   (3) Reach through the instrument panel glove box        (8) From the outside of the vehicle, pull the
+opening to unplug the two antenna coaxial cables in      antenna body base and cable assembly out through
+line connector. Unplug the connector by pulling it       the hole in the right outer cowl side panel.
+apart while twisting the metal connector halves. Do
+not pull on the cable.                                   INSTALLATION
+   (4) Unscrew the antenna mast from the antenna
+body base on the right outer cowl side panel (Fig.       WARNING: ON VEHICLES EQUIPPED WITH AIR-
+2).                                                      BAGS, (REFER TO ELECTRICAL/RESTRAINTS)
+                                                         BEFORE ATTEMPTING ANY STEERING WHEEL,
+                                                         STEERING COLUMN, OR INSTRUMENT PANEL
+                                                         COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+                                                         TO TAKE THE PROPER PRECAUTIONS COULD
+                                                         RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+                                                         AND POSSIBLE PERSONAL INJURY.
+
+                                                           (1) From outside the vehicle, feed the antenna
+                                                         cable and base assembly through the outer cowl side
+                                                         panel and into the inner cowl side panel hole.
+                                                           (2) From inside the passenger compartment, pull
+                                                         the cable and grommet into the hole in the inside
+                                                         cowl side panel until the grommet is fully seated.
+

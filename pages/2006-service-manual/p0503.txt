@@ -1,0 +1,62 @@
+TJ                                                                           INSTRUMENT CLUSTER             8J - 35
+
+moves the gauge needle to the middle of the normal         REAR LOCK INDICATOR
+range on the gauge scale to represent the engine oil
+pressure. The gauge needle will continue to be posi-
+                                                           DESCRIPTION
+tioned at the middle of normal range on the gauge
+scale until the cluster receives a message from the
+PCM that indicates the engine oil pressure is low, or
+until the ignition switch is turned to the Off position,
+whichever occurs first.                                                 Fig. 21 Rear Lock Indicator
+   • Engine Oil Pressure Low Message - Each
+time the cluster receives a message from the PCM             A rear lock indicator is standard equipment on all
+indicating the engine oil pressure of a 2.4L engine is     instrument clusters, but is only functional on vehi-
+below about 0.2 kg/cm2 (3 psi), or of any engine other     cles equipped with the optional off-road package (Fig.
+than a 2.4L is below about 0.4 kg/cm2 (6 psi), the         21). The rear lock indicator is located near the upper
+gauge needle is moved to the graduation at the far         edge of the instrument cluster, to the right of center.
+left (low) end of the gauge scale, the check gauges        The rear lock indicator consists of a stencil-like cut-
+indicator is illuminated, and a single chime tone is       out of the words “REAR LOCK” in the opaque layer
+generated. The gauge needle remains at the left end        of the instrument cluster overlay. The dark outer
+of the gauge scale and the check gauges indicator          layer of the overlay prevents the indicator from being
+remains illuminated until the cluster receives a mes-      clearly visible when it is not illuminated. A amber
+sage from the PCM indicating that the engine oil           Light Emitting Diode (LED) behind the cutout in the
+pressure of a 2.4L engine is above about 0.2 kg/cm2        opaque layer of the overlay causes the “REAR LOCK”
+(3 psi), or of any engine other than a 2.4L is above       text to appear in amber through the translucent
+about 0.4 kg/cm2 (6 psi), or until the ignition switch     outer layer of the overlay when the indicator is illu-
+is turned to the Off position, whichever occurs first.     minated from behind by the LED, which is soldered
+The cluster will only turn the check gauges indicator      onto the instrument cluster electronic circuit board.
+on in response to an engine oil pressure low message       The illumination intensity of the rear lock indicator
+if the engine speed message is 300 rpm or greater for      is one-step dimmable. When the exterior lighting is
+more than about five seconds.                              turned On, the indicator is dimmed; and, when the
+   • Communication Error - If the cluster fails to         exterior lighting is turned Off, the indicator is illumi-
+receive an engine oil pressure message, it will hold       nated at full intensity. The rear lock indicator is ser-
+the gauge needle at the last indication about twelve       viced as a unit with the instrument cluster.
+seconds or until the ignition switch is turned to the
+Off position, whichever occurs first. After twelve sec-    OPERATION
+onds, the cluster will move the gauge needle to the           The rear lock indicator gives an indication to the
+left end of the gauge scale.                               vehicle operator of the status of the locker mecha-
+   • Actuator Test - Each time the cluster is put          nism in the rear axle of vehicles equipped with the
+through the actuator test, the gauge needle will be        optional off-road package. The rear lock indicator can
+swept to several calibration points on the gauge scale     also give an indication when certain faults are
+in a prescribed sequence to confirm the functionality      detected in the axle locker system. This indicator is
+of the gauge and the cluster control circuitry.            controlled by a transistor on the instrument cluster
+   The PCM continually monitors the engine oil pres-       electronic circuit board based upon cluster program-
+sure sensor to determine the engine oil pressure. The      ming, and hard wired inputs to the cluster from the
+PCM then sends the proper engine oil pressure mes-         key-in ignition switch, the axle lock switch, and the
+sages to the instrument cluster. For further diagnosis     rear locker indicator switch. The rear lock indicator
+of the oil pressure gauge or the instrument cluster        Light Emitting Diode (LED) is completely controlled
+circuitry that controls the gauge, (Refer to 8 - ELEC-     by the instrument cluster logic circuit, and that logic
+TRICAL/INSTRUMENT CLUSTER - DIAGNOSIS                      will allow this indicator to operate whenever the
+AND TESTING). If the instrument cluster turns on           instrument cluster receives a battery current input
+the check gauges indicator due to a low oil pressure       on the fused B(+) circuit. Therefore, the LED can be
+gauge reading, it may indicate that the engine or the      illuminated regardless of the ignition switch position.
+engine oiling system requires service. For proper          The cluster can illuminate the LED solid, or flash it
+diagnosis of the engine oil pressure sensor, the PCM,      on and off at two different rates, slow or fast. The
+the PCI data bus, or the electronic message inputs to      slow rate is about one flash per second, while the fast
+the instrument cluster that control the oil pressure       rate is about two flashes per second. The LED only
+gauge, a DRBIIIt scan tool is required. Refer to the       illuminates when it is provided a path to ground by
+appropriate diagnostic information.                        the instrument cluster transistor. The instrument
+                                                           cluster will turn on the rear lock indicator for the fol-
+                                                           lowing reasons:
+

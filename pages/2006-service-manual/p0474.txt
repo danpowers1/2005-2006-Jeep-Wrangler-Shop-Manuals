@@ -1,0 +1,61 @@
+8J - 6    INSTRUMENT CLUSTER                                                                                TJ
+
+Additional details of the electronic body control func-   eyelet terminal connector that is secured under a
+tions of this unit may be found within the service        ground screw to the back of the instrument panel
+information for the system or component that the          structural support near the lower left corner of the
+EMIC controls. For example: Additional details of the     instrument panel, just inboard of the left instrument
+audible warning functions of the EMIC are found           panel end bracket.
+within the Chime/Buzzer service information.                The EMIC also has a self-diagnostic actuator test
+   The EMIC is designed to allow the vehicle operator     capability, which will test each of the PCI bus mes-
+to monitor the conditions of many of the vehicle com-     sage-controlled functions of the cluster by lighting
+ponents and operating systems. The gauges and indi-       the appropriate indicators, positioning the gauge nee-
+cators in the EMIC provide valuable information           dles at several predetermined calibration points
+about the various standard and optional powertrains,      across the gauge faces, and illuminating all segments
+fuel and emissions systems, cooling systems, lighting     of the odometer/trip odometer Vacuum-Fluorescent
+systems, safety systems, and many other convenience       Display (VFD) unit. (Refer to 8 - ELECTRICAL/IN-
+items. The EMIC is installed in the instrument panel      STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+so that all of these monitors can be easily viewed by     ING). See the owner’s manual in the vehicle glove
+the vehicle operator when driving, while still allow-     box for more information on the features, use and
+ing relative ease of access for service. The micropro-    operation of the EMIC.
+cessor-based EMIC hardware and software uses
+various inputs to control the gauges and indicators       GAUGES
+visible on the face of the cluster. Some of these            All gauges receive battery current through the
+inputs are hard wired, but most are in the form of        EMIC circuitry only when the ignition switch is in
+electronic messages that are transmitted by other         the On or Start positions. With the ignition switch in
+electronic modules over the Programmable Commuta-         the Off position battery current is not supplied to
+tions Interface (PCI) data bus network. (Refer to 8 -     any gauges, and the EMIC circuitry is programmed
+ELECTRICAL/ELECTRONIC             CONTROL        MOD-     to move all of the gauge needles back to the low end
+ULES/COMMUNICATION - OPERATION).                          of their respective scales. Therefore, the gauges do
+   The EMIC microprocessor smooths the input data         not accurately indicate any vehicle condition unless
+using algorithms to provide gauge readings that are       the ignition switch is in the On or Start positions.
+accurate, stable, and responsive to operating condi-         All of the EMIC gauges are air core magnetic
+tions. These algorithms are designed to provide           units. Two fixed electromagnetic coils are located
+gauge readings during normal operation that are con-      within each gauge. These coils are wrapped at right
+sistent with customer expectations. However, when         angles to each other around a movable permanent
+abnormal conditions exist, such as low/high battery       magnet. The movable magnet is suspended within
+voltage, low oil pressure, or high coolant tempera-       the coils on one end of a pivot shaft, while the gauge
+ture, the algorithm can drive the gauge pointer to an     needle is attached to the other end of the shaft. One
+extreme position and the microprocessor can turn on       of the coils has a fixed current flowing through it to
+the Check Gauges indicator and/or sound a chime           maintain a constant magnetic field strength. Current
+through the on-board tone generator to provide dis-       flow through the second coil changes, which causes
+tinct visual and/or audible indications of a problem to   changes in its magnetic field strength. The current
+the vehicle operator. The instrument cluster circuitry    flowing through the second coil is changed by the
+may also produce audible warnings for other elec-         EMIC circuitry in response to messages received over
+tronic modules in the vehicle based upon electronic       the PCI data bus. The gauge needle moves as the
+tone request messages received over the PCI data          movable permanent magnet aligns itself to the
+bus. Each audible warning is intended to provide the      changing magnetic fields created around it by the
+vehicle operator with an audible alert to supplement      electromagnets.
+a visual indication.                                         The gauges are diagnosed using the EMIC self-di-
+   The EMIC circuitry operates on battery current         agnostic actuator test. (Refer to 8 - ELECTRICAL/
+received through the Ignition-Off Draw (IOD) fuse in      INSTRUMENT CLUSTER - DIAGNOSIS AND
+the Power Distribution Center (PDC) on a non-             TESTING). Proper testing of the PCI data bus and
+switched fused B(+) circuit, and on battery current       the electronic data bus message inputs to the EMIC
+received through a fuse in the fuse block on a fused      that control each gauge require the use of a DRBIIIt
+ignition switch output (run-start) circuit. This          scan tool. Refer to the appropriate diagnostic infor-
+arrangement allows the EMIC to provide some fea-          mation. Specific operation details for each gauge may
+tures regardless of the ignition switch position, while   be found elsewhere in this service information.
+other features will operate only with the ignition
+switch in the On or Start positions. The EMIC cir-        VACUUM - FLUORESCENT DISPLAY
+cuitry is grounded through a ground circuit and take        The Vacuum-Fluorescent Display (VFD) unit is sol-
+out of the instrument panel wire harness with an          dered to the EMIC electronic circuit board. With the
+

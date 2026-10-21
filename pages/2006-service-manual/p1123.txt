@@ -1,0 +1,40 @@
+TJ                                                                                    FUEL DELIVERY        14 - 5
+
+FUEL PUMP MODULE
+DESCRIPTION
+
+
+
+
+                                           Fig. 1 TOP OF FUEL TANK
+1 - FUEL PUMP MODULE LOCKRING                              7 - SKID PLATE
+2 - FUEL SUPPLY LINE                                       8 - FUEL FILL FITTING
+3 - ELECTRICAL CONNECTOR                                   9 - FUEL VENT FITTING
+4 - VAPOR LINE
+5 - FUEL TANK MOUNTING STRAPS (2)
+6 - FUEL PUMP MODULE ASSEMBLY
+
+
+
+  The fuel pump module assembly (6) (Fig. 1) is            Electric Fuel Pump
+located on the top of the fuel tank.                          The electric fuel pump is located inside of the fuel
+  The module assembly (6) contains the following           pump module. A 12 volt, permanent magnet, electric
+components:                                                motor powers the fuel pump. The electric fuel pump
+  • An internal fuel filter                                is not a separate, serviceable component.
+  • A separate fuel pick-up, or inlet filter
+                                                           Fuel Filters
+  • A fuel pressure regulator (4)
+                                                             Two fuel filters are used. One is located at the bot-
+  • An electric fuel pump                                  tom of the fuel pump module. The other is located
+  • A lockring to retain pump module to tank               inside the module. A separate frame mounted fuel fil-
+  • A soft gasket between tank flange and module           ter is not used with any engine.
+  • A fuel gauge sending unit (fuel level sensor)            Both fuel filters are designed for extended service.
+  • Fuel line connection                                   They do not require normal scheduled maintenance.
+                                                           Filters should only be replaced if a diagnostic proce-
+  If the fuel gauge sending unit, electrical fuel pump,    dure indicates to do so.
+primary inlet filter, fuel filter or fuel pressure regu-
+lator require service, the fuel pump module must be        Fuel Pressure Regulator
+replaced.
+                                                             The fuel pressure regulator is located within fuel
+                                                           pump module.
+

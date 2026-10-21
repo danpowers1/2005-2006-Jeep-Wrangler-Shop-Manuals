@@ -1,0 +1,64 @@
+24 - 40    DISTRIBUTION                                                                                   TJ
+
+   (2) Remove the instrument panel (Refer to 23 -
+BODY/INSTRUMENT                PANEL/INSTRUMENT
+PANEL ASSEMBLY - REMOVAL).
+   (3) If the vehicle is not equipped with A/C, go to
+Step 6. If the vehicle is equipped with A/C, recover
+the refrigerant from the refrigerant system (Refer to
+24 - HEATING & AIR CONDITIONING/PLUMBING
+- STANDARD PROCEDURE - REFRIGERANT SYS-
+TEM RECOVERY).
+   (4) Disconnect the A/C liquid and suction lines
+from the A/C evaporator and remove and discard the
+O-ring seals (Refer to 24 - HEATING & AIR CONDI-
+TIONING/PLUMBING/REFRIGERANT LINE COU-
+PLER - REMOVAL).
+   (5) Install plugs in, or tape over the opened suc-
+tion and liquid line fittings and both evaporator
+tubes.
+   (6) Drain the engine cooling system (Refer to 7 -
+COOLING - STANDARD PROCEDURE).
+                                                          Fig. 8 HVAC Housing - LHD shown, RHD similar
+   (7) Disconnect the heater hoses from the heater
+                                                        1 - DASH PANEL
+core tubes. Install plugs in, or tape over the opened   2 - NUT (5)
+heater core tubes.                                      3 - INSTRUMENT PANEL WIRE HARNESS
+   (8) Disconnect the HVAC system vacuum supply         4 - INSTRUMENT PANEL VACUUM HARHESS
+                                                        5 - BOLT
+line connector from the tee fitting near the heater     6 - HVAC HOUSING
+core tubes.                                             7 - NUT (2)
+   (9) Remove the five nuts that secure the HVAC        8 - DEFROSTER DUCT
+housing to the dash panel in the engine compartment
+(Fig. 8). If necessary, loosen the battery hold-downs   AIR INLET HOUSING
+and reposition the battery for additional access
+(Refer to 8 - ELECTRICAL/BATTERY SYSTEM/BAT-            WARNING: Refer to the applicable warnings and
+TERY - REMOVAL).                                        cautions for this system before performing the fol-
+   (10) Remove the two push-nuts that secure the        lowing operation (Refer to 24 - HEATING & AIR
+defroster duct to the dash panel in the passenger       CONDITIONING/PLUMBING - WARNINGS) and (Refer
+compartment and remove the duct.                        to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+   (11) Remove the bolt that secures the HVAC hous-     CAUTIONS). Failure to follow the warnings and cau-
+ing to the bracket located on the dash panel in the     tions could result in possible personal injury or
+passenger compartment.                                  death.
+   (12) Remove the HVAC housing from inside the
+vehicle taking care not to allow any remaining cool-    WARNING: On vehicles equipped with airbags, dis-
+ant to drain on the vehicles interior.                  able the airbag system before attempting any steer-
+                                                        ing wheel, steering column, or instrument panel
+                                                        component diagnosis or service. Disconnect and
+                                                        isolate the negative battery (ground) cable, then
+                                                        wait two minutes for the airbag system capacitor to
+                                                        discharge before performing further diagnosis or
+                                                        service. This is the only sure way to disable the air-
+                                                        bag system. Failure to take the proper precautions
+                                                        could result in accidental airbag deployment and
+                                                        possible personal injury or death.
+
+
+                                                        NOTE: The recirculation-air door and actuator are
+                                                        used only on models equipped with A/C.
+
+
+                                                        NOTE: The air inlet housing must be removed from
+                                                        HVAC housing and disassembled for service of the
+                                                        recirculation-air door.
+

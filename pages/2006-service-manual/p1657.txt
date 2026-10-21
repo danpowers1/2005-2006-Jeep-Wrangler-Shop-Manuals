@@ -1,0 +1,63 @@
+TJ                                                                                      CONTROLS        24 - 21
+
+high pressure switch turns off the A/C compressor if     REMOVAL
+the refrigerant system pressure exceeds 3100 - 3375
+kPa (450 - 490 psi).                                     NOTE: It is not necessary to discharge the refriger-
+  The fitting for the A/C high pressure switch on the    ant system to replace the A/C high pressure switch.
+A/C discharge line is equipped with an O-ring seal
+and contains a Schrader-type valve, which allows the       (1) Disconnect and isolate the negative battery
+switch to be serviced without discharging the refrig-    cable.
+erant system.                                              (2) Disconnect the wire harness connector from the
+                                                         A/C high pressure switch (Fig. 18).
+OPERATION                                                  (3) Remove the A/C high pressure switch from the
+  The A/C high pressure switch is electrically con-      A/C discharge line and remove and discard the
+nected in series with the A/C low pressure switch        O-ring seal.
+between ground and the powertrain control module
+(PCM). The contacts in the A/C high pressure switch
+open and close causing the PCM to turn the A/C com-
+pressor clutch on and off. This prevents A/C compres-
+sor operation when the discharge line pressure
+approaches high levels, and also reduces electrical
+surging from A/C clutch engagement.
+  The A/C high pressure switch contacts open when
+the A/C discharge line pressure rises above 3100 to
+3375 kPa (450 to 490 psi). The A/C high pressure
+switch contacts close when the A/C discharge line
+pressure drops to 1860 to 2275 kPa (270 to 330 psi).
+  The A/C high pressure switch is factory-calibrated
+and cannot be adjusted or repaired and, if faulty or
+damaged, it must be replaced.
+
+                                                              Fig. 18 A/C High Pressure Switch - Typical
+DIAGNOSIS AND TESTING                                    1 - A/C SUCTION LINE
+                                                         2 - SERVICE PORT
+A / C HIGH PRESSURE SWITCH                               3 - A/C HIGH PRESSURE SWITCH
+                                                         4 - A/C COMPRESSOR
+   Before performing diagnosis of the A/C high pres-     5 - MOUNTING BRACKET
+sure switch, verify that the refrigerant system has      6 - A/C DISCHARGE LINE
+the correct refrigerant charge (Refer to 24 - HEAT-
+ING & AIR CONDITIONING/PLUMBING - STAN-                  INSTALLATION
+DARD PROCEDURE - REFRIGERANT SYSTEM
+CHARGE)                                                  NOTE: Use only the specified O-ring as it is made
+   For circuit descriptions and diagrams, refer to the   of special material for R-134a. Use only refrigerant
+appropriate wiring information. The wiring informa-      oil of the type required for the A/C compressor.
+tion includes wiring diagrams, proper wire and con-
+nector repair procedures, further details on wire          (1) Lubricate a new rubber O-ring seal with clean
+harness routing and retention, as well as pin-out and    refrigerant oil and install it on the A/C high pressure
+location views for the various wire harness connec-      switch fitting.
+tors, splices and grounds.                                 (2) Install the A/C high pressure switch onto the
+   (1) Disconnect and isolate the negative battery       A/C discharge line. Hand-tightened the switch
+cable.                                                   securely.
+   (2) Disconnect the wire harness connector from the      (3) Connect the wire harness connector to the A/C
+A/C high pressure switch.                                high pressure switch.
+   (3) Check for continuity between both terminals of      (4) Reconnect the negative battery cable.
+the A/C high pressure switch. There should be conti-
+nuity. If there is not continuity, replace the faulty    A / C LOW PRESSURE SWITCH
+A/C high pressure switch. If there is continuity, test
+the A/C high pressure switch sense circuit (Refer to 8
+- ELECTRICAL/WIRING DIAGRAM INFORMATION
+                                                         DESCRIPTION
+- DIAGNOSIS AND TESTING). Repair as required.              The A/C low pressure switch is a single pole, single
+                                                         throw, pressure actuated switch that is used to con-
+                                                         trol evaporator freeze up.
+

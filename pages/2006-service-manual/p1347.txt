@@ -1,0 +1,32 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE             21 - 157
+
+MANUAL VALVE                                              CONVERTER CLUTCH SWITCH VALVE
+
+
+
+
+                Fig. 263 Manual Valve                           Fig. 264 Converter Clutch Switch Valve
+1 - UD CLUTCH                                             1 - CONVERTER CLUTCH
+2 - LR/CC CLUTCH                                          2 - TORQUE CONVERTER
+3 - REVERSE CLUTCH                                        3 - LR CLUTCH
+4 - MANUAL VALVE                                          4 - DRIBBLERS
+5 - REGULATOR VALVE                                       5 - REGULATOR VALVE
+6 - REGULATOR VALVE                                       6 - SOLENOID SWITCH VALVE
+7 - CONVERTER CLUTCH CONTROL VALVE                        7 - CONVERTER CLUTCH CONTROL VALVE
+8 - 2/4 CLUTCH                                            8 - TORQUE CONVERTER REGULATOR VALVE
+9 - 2/4 - L/R SOLENOID                                    9 - CONVERTER CLUTCH CONTROL VALVE
+10 - L/R CLUTCH                                           10 - CONVERTER CLUTCH SWITCH VALVE
+                                                          11 - BYPASS VALVE
+  The manual valve (4) (Fig. 263) is operated by the      12 - LUBE
+                                                          13 - COOLER
+mechanical shift linkage. Its primary responsibility is
+to send line pressure to the appropriate hydraulic cir-     The main responsibility of the converter clutch
+cuits and solenoids. The valve has three operating        switch valve (10) (Fig. 264) is to control hydraulic
+ranges or positions.                                      pressure applied to the front (off) side of the con-
+                                                          verter clutch piston. Line pressure from the regulator
+                                                          valve (5) is fed to the torque converter regulator
+                                                          valve (8). The pressure is then directed to the con-
+                                                          verter clutch switch valve (10) and to the front side
+                                                          of the converter clutch piston. This pressure pushes
+                                                          the piston back and disengages the converter clutch.
+

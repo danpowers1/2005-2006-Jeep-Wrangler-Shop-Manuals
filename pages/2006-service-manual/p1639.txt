@@ -1,0 +1,61 @@
+TJ                                                                 HEATING & AIR CONDITIONING            24 - 3
+
+NOTE: It is important to keep the air intake opening      the ability of the A/C evaporator to lower the temper-
+clear of debris. Leaf particles and other debris that     ature of the air.
+is small enough to pass through the cowl opening            However, evaporator capacity used to reduce the
+screen can accumulate within the HVAC housing.            amount of moisture in the air is not wasted. Wring-
+The closed, warm, damp and dark environment cre-          ing some of the moisture out of the air entering the
+ated within the housing is ideal for the growth of        vehicle adds to the comfort of the passengers.
+certain molds, mildews and other fungi. Any accu-         Although, an owner may expect too much from their
+mulation of decaying plant matter provides an addi-       A/C system on humid days. A performance test is the
+tional food source for fungal spores, which enter         best way to determine whether the system is per-
+the housing with the fresh intake-air. Excess debris,     forming up to design standards. This test also pro-
+as well as objectionable odors created by decaying        vides valuable clues as to the possible cause of
+plant matter and growing fungi can be discharged          trouble with the A/C system. The ambient air tem-
+into the passenger compartment during heater-A/C          perature in the location where the vehicle will be
+operation if the air intake opening is not kept clear     tested must be a minimum of 21° C (70° F) for this
+of debris.                                                test.
+
+  The A/C system on models so equipped is designed        A / C PERFORMANCE TEST
+for the use of non-CFC, R-134a refrigerant and uses
+an A/C fixed orifice tube located in the liquid line to   WARNING: Refer to the applicable warnings and
+meter the flow of refrigerant to the A/C evaporator.      cautions for this system before performing the fol-
+The A/C evaporator cools and dehumidifies the             lowing operation (Refer to 24 - HEATING & AIR
+incoming air prior to blending it with the heated air.    CONDITIONING/PLUMBING - WARNINGS) and (Refer
+To maintain minimum evaporator temperature and            to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+prevent evaporator freezing, the A/C clutch is cycled     CAUTIONS). Failure to follow the warnings and cau-
+on and off by the A/C low pressure switch mounted         tions could result in possible personal injury or
+on the accumulator.                                       death.
+
+
+DIAGNOSIS AND TESTING                                     NOTE: When connecting the service equipment
+                                                          coupling to the line fitting, verify that the valve of
+A / C PERFORMANCE                                         the coupling is fully closed. This will reduce the
+   The A/C system is designed to provide the passen-      amount of effort required to make the connection.
+ger compartment with low temperature and low
+humidity air. The A/C evaporator, located in the            (1) Check for diagnostic trouble codes using a scan
+HVAC housing is cooled to temperatures near the           tool. If no DTCs are found in the powertrain control
+freezing point. As warm damp air passes over the          module (PCM), go to Step 2. If any DTCs are found,
+fins of the A/C evaporator, the air transfers its heat    repair as required, then proceed to Step 2.
+to the refrigerant in the evaporator coils and the          (2) Connect a tachometer and a manifold gauge set
+moisture in the air condenses on the evaporator fins.     or an A/C recycling/charging station.
+During periods of high heat and humidity, an A/C            (3) Operate the heating-A/C system under the fol-
+system will be more effective in the Recirculation        lowing conditions.
+mode (max-A/C). With the system in the Recircula-           • Engine at 1,000 rpm at operating temperature
+tion mode, only air from the passenger compartment          • Doors or windows open
+passes through the A/C evaporator. As the passenger         • Transmission in Park or Neutral with parking
+compartment air dehumidifies, the A/C system per-         brake set (depending on application)
+formance levels rise.                                       • A/C-heater controls set to Recirculation mode
+   Humidity has an important bearing on the temper-       (max-A/C), full cool, panel mode, high blower and
+ature of the air delivered to the interior of the vehi-   with A/C compressor engaged. If the A/C compressor
+cle. It is important to understand the effect that        does not engage, see the A/C System Diagnosis chart.
+humidity has on the performance of the A/C system.          (4) Insert a thermometer in the driver side center
+When humidity is high, the A/C evaporator has to          panel air outlet and operate the A/C system until the
+perform a double duty. It must lower the air temper-      thermometer temperature stabilizes.
+ature, and it must lower the temperature of the             (5) The A/C clutch may cycle, depending upon the
+moisture in the air that condenses on the evaporator      ambient temperature and humidity. If the A/C clutch
+fins. Condensing the moisture in the air transfers        cycles, disconnect the wire harness connector from
+heat energy into the evaporator fins and coils. This      the A/C low pressure switch located on the top of the
+reduces the amount of heat the A/C evaporator can         accumulator and install a jumper wire across the ter-
+absorb from the air. High humidity greatly reduces        minals of the wire harness connector (Fig. 3).
+

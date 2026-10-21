@@ -1,0 +1,54 @@
+TJ                                                                                                  HEATED SYSTEMS                8G - 1
+
+                                                HEATED SYSTEMS
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                   page
+
+HEATED GLASS . . . . . . . . . . . . . . . . . . . . . . . . . . . 1   HEATED MIRRORS . . . . . . . . . . . . . . . . . . . . . . . . . 8
+
+                                                    HEATED GLASS
+
+                                                        TABLE OF CONTENTS
+                                                              page                                                                   page
+
+HEATED GLASS                                                           REAR WINDOW DEFOGGER SWITCH
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+ DIAGNOSIS AND TESTING                                                  DIAGNOSIS AND TESTING
+   ELECTRIC BACKLIGHT (EBL) SYSTEM                       .....2           REAR WINDOW DEFOGGER SWITCH . . . . . . 5
+REAR WINDOW DEFOGGER RELAY                                              REMOVAL     .............................5
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3   REAR WINDOW DEFOGGER GRID
+ REMOVAL    .............................3                              STANDARD PROCEDURE
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 4       GRID LINE AND TERMINAL REPAIR . . . . . . . . 6
+
+HEATED GLASS
+DESCRIPTION
+CAUTION: Grid lines can be damaged or scraped
+off with sharp instruments. Care should be taken in
+cleaning glass or removing foreign materials,
+decals or stickers. Normal glass cleaning solvents
+or hot water used with rags or toweling is recom-
+mended.
+
+  The rear window defogger system, also known as
+electric backlight (EBL), consists of two vertical bus
+bars linked by a series of grid lines fired onto the
+inside surface of the rear window (Fig. 1).
+  The EBL system is turned On or Off by a control
+switch mounted into the accessory switch bezel in the
+instrument panel and the timer and logic circuitry in
+the instrument cluster assembly (Refer to 8 - ELEC-                                  Fig. 1 Rear Window Defogger
+TRICAL/HEATED GLASS/REAR WINDOW DEFOG-
+                                                                       1 - REAR DEFOGGER GRID
+GER SWITCH - DESCRIPTION).                                             2 - REAR WINDOW
+  Circuit protection is provided by three cartridge
+fuses located in the fuse block. One fuse for the con-                 OPERATION
+trol circuit, another for the heated grid circuit and                    The electric backlight (EBL) system is controlled
+the third fuse for the rear window defogger indicator                  by a momentary switch located in the accessory
+lamp circuit.                                                          switch bezel on the instrument panel (Fig. 2). When
+                                                                       the rear window defogger switch is pressed to the On
+                                                                       position, the instrument cluster energizes the rear
+                                                                       window defogger (EBL) relay, which then directs
+

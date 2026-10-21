@@ -1,0 +1,58 @@
+TJ                                                                         AUTOMATIC TRANSMISSION - 42RLE                               21 - 39
+
+                           AUTOMATIC TRANSMISSION - 42RLE
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                          page
+
+AUTOMATIC TRANSMISSION - 42RLE                                              EFFECTS OF INCORRECT FLUID LEVEL . . 112
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 41           FLUID CONTAMINATION . . . . . . . . . . . . . . . 113
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 42       STANDARD PROCEDURE
+ DIAGNOSIS AND TESTING                                                      STANDARD PROCEDURE - FLUID LEVEL
+   DIAGNOSIS AND TESTING - AUTOMATIC                                         CHECK . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+     TRANSMISSION . . . . . . . . . . . . . . . . . . . . . . 47            STANDARD PROCEDURE - FLUID/FILTER
+   DIAGNOSIS AND TESTING - ROAD TEST . . . 48                                SERVICE . . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+   DIAGNOSIS AND TESTING - HYDRAULIC                                        STANDARD PROCEDURE - TRANSMISSION
+     PRESSURE TESTS . . . . . . . . . . . . . . . . . . . . 49               FILL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+   DIAGNOSIS AND TESTING - CLUTCH AIR                                   GEARSHIFT CABLE
+     PRESSURE TESTS . . . . . . . . . . . . . . . . . . . . 51            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+   DIAGNOSIS AND TESTING - FLUID                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 116
+     LEAKAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . 52   HOLDING CLUTCHES
+ STANDARD PROCEDURE - ALUMINUM                                            DESCRIPTION           . . . . . . . . . . . . . . . . . . . . . . . . 117
+   THREAD REPAIR . . . . . . . . . . . . . . . . . . . . . . 53           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53   INPUT CLUTCH ASSEMBLY
+ DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . 54         DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 117
+ ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70      ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 86      INPUT SPEED SENSOR
+ SCHEMATICS AND DIAGRAMS - 42RLE                                          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 134
+   TRANSMISSION        . . . . . . . . . . . . . . . . . . . . . . 89     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+ SPECIFICATIONS                                                           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+   42RLE AUTOMATIC TRANSMISSION . . . . . . 102                           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 135
+ SPECIAL TOOLS                                                          OIL PUMP
+   42RLE AUTOMATIC TRANSMISSION . . . . . . 103                           DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 136
+ACCUMULATOR                                                               OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 107          DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 136
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 107        ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+ADAPTER HOUSING SEAL                                                    OUTPUT SPEED SENSOR
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 138
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 108         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+BEARINGS                                                                  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 138
+ ADJUSTMENTS                                                              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 139
+   BEARING ADJUSTMENT PROCEDURES . . . 108                              OVERDRIVE SWITCH
+BRAKE TRANSMISSION SHIFT INTERLOCK                                        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 139
+ MECHANISM                                                                OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 108          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 109        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 140
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109    PLANETARY GEARTRAIN
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 111         DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 140
+ ADJUSTMENTS                                                              OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+   ADJUSTMENT - BRAKE TRANSMISSION                                      OIL PUMP SEAL
+     SHIFT INTERLOCK CABLE . . . . . . . . . . . . . 111                  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 140
+DRIVING CLUTCHES                                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 140
+ DESCRIPTION     . . . . . . . . . . . . . . . . . . . . . . . . 112    SHIFT MECHANISM
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 112        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 140
+FLUID AND FILTER                                                          OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 141
+ DIAGNOSIS AND TESTING                                                    DIAGNOSIS AND TESTING - SHIFT
+   DIAGNOSIS AND TESTING - CAUSES OF                                        MECHANISM . . . . . . . . . . . . . . . . . . . . . . . . 141
+     BURNT FLUID . . . . . . . . . . . . . . . . . . . . . . . 112        ADJUSTMENTS - SHIFT MECHANISM . . . . . . 141
+

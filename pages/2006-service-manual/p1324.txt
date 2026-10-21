@@ -1,0 +1,46 @@
+21 - 134    AUTOMATIC TRANSMISSION - 42RLE                                                                   TJ
+
+                                                        INPUT SPEED SENSOR
+                                                        DESCRIPTION
+
+
+
+
+     Fig. 220 Install Overdrive Shaft Assembly
+1 - OVERDRIVE SHAFT ASSEMBLY
+2 - #3 THRUST PLATE
+3 - #3 THRUST WASHER
+
+  (44) Install the overdrive shaft assembly (1) (Fig.      Fig. 222 Input and Output Speed Sensors and
+220).                                                               Transmission Range Sensor
+                                                        1 - INPUT SPEED SENSOR
+                                                        2 - OUTPUT SPEED SENSOR
+                                                        3 - TRANSMISSION RANGE SENSOR
+
+                                                           The Input and Output Speed Sensors (Fig. 222) are
+                                                        two-wire magnetic pickup devices that generate AC
+                                                        signals as rotation occurs. They are mounted in the
+                                                        left side of the transmission case and are considered
+                                                        primary inputs to the Transmission Control Module
+                                                        (TCM).
+
+                                                        OPERATION
+                                                           The Input Speed Sensor provides information on
+                                                        how fast the input shaft is rotating. As the teeth of
+                                                        the input clutch hub pass by the sensor coil, an AC
+                                                        voltage is generated and sent to the TCM. The TCM
+           Fig. 221 Input Clutch Assembly               interprets this information as input shaft rpm.
+1 - INPUT CLUTCH ASSEMBLY                                  The Output Speed Sensor generates an AC signal
+2 - OVERDRIVE SHAFT ASSEMBLY                            in a similar fashion, though its coil is excited by rota-
+  (45) Reinstall overdrive and reverse clutch (Fig.     tion of the rear planetary carrier lugs. The TCM
+221). Rechecking these clutch clearances is not         interprets this information as output shaft rpm.
+necessary.                                                 The TCM compares the input and output speed
+                                                        signals to determine the following:
+                                                           • Transmission gear ratio
+                                                           • Speed ratio error detection
+                                                           • CVI calculation
+                                                           The TCM also compares the input speed signal and
+                                                        the engine speed signal to determine the following:
+                                                           • Torque converter clutch slippage
+                                                           • Torque converter element speed ratio
+

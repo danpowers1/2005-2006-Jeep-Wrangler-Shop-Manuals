@@ -1,0 +1,61 @@
+8J - 10    INSTRUMENT CLUSTER                                                                                TJ
+
+switch sense circuits, from the resistor multiplexed      input turns the system Off, and so forth. Once the
+panel lamps dimmer circuitry of the left multi-func-      rear window defogger system has been turned On, it
+tion switch on the panel lamps dimmer signal circuit      can be turned off manually by depressing the rear
+and its control logic to provide a battery current out-   window defogger switch a second time or by turning
+put to the courtesy lamps on a courtesy lamp feed         the ignition switch to the Off position.
+circuit. The EMIC control provides a theater-type           The timer function of the EMIC will also automat-
+fade-to-off feature that will slowly dim the courtesy     ically turn the rear window defogger system Off. The
+lamps about five seconds after both doors are closed.     timer turns the system Off after about ten minutes of
+   The EMIC interior lighting control programming         operation; however, after the first timed interval has
+provides an illuminated entry/exit feature by moni-       expired, each time the system is turned On again
+toring the door ajar and ignition switch inputs. When     during that same ignition cycle, the timer will auto-
+a door is opened with the ignition switch in the Off      matically turn it Off after about five minutes of oper-
+position, the EMIC turns on the courtesy lamps.           ation.
+When the ignition switch is turned to the On or Start       The hard wired input and output of the EMIC rear
+positions, the EMIC turns the courtesy lamps off          window defogger control may be diagnosed using con-
+immediately with no theater dimming. When the             ventional diagnostic methods; however, there are no
+ignition switch is turned from the On position to the     other diagnostic tools available for the EMIC rear
+Off position, the EMIC turns on the interior lights       window defogger timer and logic circuitry. If the
+for about ten seconds or until the ignition switch is     input and output components and circuits of the rear
+again turned to the On or Start positions, whichever      window defogger system test OK, but the system
+occurs first.                                             fails to operate as designed, the EMIC must be
+   The EMIC interior lighting control programming         replaced.
+also provides a battery saver feature (load shedding)
+for the interior lighting. Unless the engine is run-      INPUT AND OUTPUT CIRCUITS
+ning, the EMIC will automatically turn off the inte-
+rior lights if they are left on for more than about       HARD WIRED INPUTS
+twenty minutes, regardless of the status of the igni-       The hard wired inputs to the EMIC include the fol-
+tion switch, door ajar switch, or left multi-function     lowing:
+switch inputs to the cluster.                               • ABS Warning Indicator Driver
+   The hard wired inputs and output of the EMIC             • Brake Warning Indicator Sense
+interior lighting control may be diagnosed using con-       • Driver Door Ajar Switch Sense
+ventional diagnostic methods; however, there are no         • Fog Lamp Feed
+other diagnostic tools available for the EMIC timer         • Front Axle Lock Request (w/Off-Road Pack-
+and logic circuitry. If the input and output compo-       age Only)
+nents and circuits of the interior lighting system test     • Front Lock Indicator Switch Sense (w/Off-
+OK, but the system fails to operate as designed, the      Road Package Only)
+EMIC must be replaced.                                      • Fused B(+) - Ignition-Off Draw
+                                                            • Fused Ignition Switch Output (Run-Start)
+REAR WINDOW DEFOGGER CONTROL                                • Headlamp Switch Output
+   The EMIC contains an integral timer and logic cir-       • High Beam Indicator Driver
+cuit to perform the rear window defogger timer and          • Key-In Ignition Switch Sense
+control functions for the optional rear window defog-       • Left Turn Signal
+ger system. The EMIC uses a hard wired input from           • Panel Lamps Dimmer Signal
+the rear window defogger switch on the rear window          • Passenger Door Ajar Switch Sense
+defogger switch sense circuit and its control logic to      • Rear Axle Lock Request (w/Off-Road Pack-
+determine the correct output to the rear window           age Only)
+defogger relay. The EMIC controls the ground path of        • Rear Lock Indicator Switch Sense (w/Off-
+the rear window defogger relay control coil through       Road Package Only)
+an output on the rear window defogger relay control         • Rear Window Defogger Switch Sense
+circuit.                                                    • Right Turn Signal
+   The EMIC is programmed to interpret each                 • Seat Belt Switch Sense
+momentary ground signal it receives on the rear win-        • 4WD Switch Sense (w/o Off-Road Package
+dow defogger switch sense circuit as a request to         only)
+change the current state of the output on the rear          Refer to the appropriate wiring information for
+window defogger relay control circuit. Therefore, with    additional details.
+the ignition switch in the On position, the first
+ground input on the rear window defogger switch
+sense circuit turns the system On, the second ground
+

@@ -1,0 +1,67 @@
+9 - 78    ENGINE 4.0L                                                                                          TJ
+
+  (7) Perform the test procedures on each cylinder            FOR EXAMPLE: At 552 kPa (80 psi) input pres-
+according to the tester manufacturer’s instructions.        sure, a minimum of 414 kPa (60 psi) should be main-
+While testing, listen for pressurized air escaping          tained in the cylinder.
+through the throttle body, tailpipe and oil filler cap        Refer to CYLINDER COMBUSTION PRESSURE
+opening. Check for bubbles in the radiator coolant.         LEAKAGE DIAGNOSIS CHART
+  All gauge pressure indications should be equal,
+with no more than 25% leakage.
+
+                 CYLINDER COMBUSTION PRESSURE LEAKAGE DIAGNOSIS CHART
+
+             CONDITION                          POSSIBLE CAUSE                          CORRECTION
+AIR ESCAPES THROUGH THROT-              Intake valve bent, burnt, or not      Inspect valve and valve seat. Re-
+TLE BODY                                seated properly                       face or replace, as necessary
+AIR ESCAPES THROUGH                     Exhaust valve bent, burnt, or not     Inspect valve and valve seat. Re-
+TAILPIPE                                seated properly                       face or replace, as necessary
+AIR ESCAPES THROUGH RADIA-              Head gasket leaking or cracked        Remove cylinder head and inspect.
+TOR                                     cylinder head or block                Replace defective part
+MORE THAN 50% LEAKAGE                   Head gasket leaking or crack in       Remove cylinder head and inspect.
+FROM ADJACENT CYLINDERS                 cylinder head or block between        Replace gasket, head, or block as
+                                        adjacent cylinders                    necessary
+MORE THAN 25% LEAKAGE AND               Stuck or broken piston rings;         Inspect for broken rings or piston.
+AIR ESCAPES THROUGH OIL                 cracked piston; worn rings and/or     Measure ring gap and cylinder di-
+FILLER CAP OPENING ONLY                 cylinder wall                         ameter, taper and out-of-round. Re-
+                                                                              place defective part as necessary
+
+
+STANDARD PROCEDURE                                          MOPART GASKET MAKER
+                                                              Mopart Gasket Maker, normally red in color, is
+STANDARD PROCEDURE - FORM - IN - PLACE                      available in 6 cc tubes. This anaerobic type gasket
+GASKETS                                                     material cures in the absence of air when squeezed
+                                                            between smooth machined metallic surfaces. It will
+  There are several places where form-in-place gas-
+                                                            not cure if left in the uncovered tube. DO NOT use
+kets are used on the engine. DO NOT use form-in-
+                                                            on flexible metal flanges.
+place gasket material unless specified.Care must
+be taken when applying form-in-place gaskets. Bead
+size, continuity and location are of great importance.
+                                                            SURFACE PREPARATION
+Too thin a bead can result in leakage while too much          Parts assembled with form-in-place gaskets may be
+can result in spill-over. A continuous bead of the          disassembled without unusual effort. In some
+proper width is essential to obtain a leak-free joint.      instances, it may be necessary to lightly tap the part
+                                                            with a mallet or other suitable tool to break the seal
+  Two types of form-in-place gasket materials are
+                                                            between the mating surfaces. A flat gasket scraper
+used in the engine area (Mopart Silicone Rubber
+                                                            may also be lightly tapped into the joint but care
+Adhesive Sealant and Mopart Gasket Maker). Each
+                                                            must be taken not to damage the mating surfaces.
+have different properties and cannot be used inter-
+changeably.                                                   Scrape or wire brush all gasket surfaces to remove
+                                                            all loose material. Inspect stamped parts to ensure
+MOPART SILICONE RUBBER ADHESIVE SEALANT                     gasket rails are flat. Flatten rails with a hammer on
+   Mopart Silicone Rubber Adhesive Sealant, nor-            a flat plate, if required. Gasket surfaces must be free
+mally black in color, is available in 3 ounce tubes.        of oil and dirt. Make sure the old gasket material is
+Moisture in the air causes the sealant material to          removed from blind attaching holes.
+cure. This material is normally used on flexible metal
+flanges. It has a shelf life of a year and will not prop-
+                                                            GASKET APPLICATION
+erly cure if over aged. Always inspect the package for        Assembling parts using a form-in-place gasket
+the expiration date before use.                             requires care.
+                                                              Mopart Silicone Rubber Adhesive Sealant should
+                                                            be applied in a continuous bead approximately 3 mm
+                                                            (0.12 inch) in diameter. All mounting holes must be
+

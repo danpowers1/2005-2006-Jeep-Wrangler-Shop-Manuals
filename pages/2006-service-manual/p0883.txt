@@ -1,0 +1,65 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 43
+
+
+                                POWERTRAIN CONTROL MODULE C1 - BLACK/BLACK 38 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    -                                  -
+               2    -                                  -
+               3    -                                  -
+               4    -                                  -
+               5    -                                  -
+               6    -                                  -
+               7    -                                  -
+               8    -                                  -
+               9    Z130 18BK/BR                       GROUND
+              10    C20 20DB/YL (2.4L)                 A/C REQUEST SIGNAL
+              10    C20 18DB/YL (4.0L)                 A/C REQUEST SIGNAL
+              11    F1 18PK/WT (EXCEPT MAN 6 SPD       FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                    TRANS)
+              11    F1 20PK/WT (MAN 6 SPD TRANS)       FUSED IGNITION SWITCH OUTPUT (RUN-START)
+              12    F1 18PK/WT (A/T)                   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+              13    K75 18DB/OR (EXCEPT MAN 6 SPD      VEHICLE SPEED SENSOR SIGNAL
+                    TRANS)
+              13    K75 20DB/OR (MAN 6 SPD TRANS)      VEHICLE SPEED SENSOR SIGNAL
+              14    -                                  -
+              15    -                                  -
+              16    -                                  -
+              17    -                                  -
+              18    Z131 18BK/DG                       GROUND
+              19    -                                  -
+              20    G6 18VT/GY (EXCEPT MAN 6 SPD       OIL PRESSURE SIGNAL
+                    TRANS)
+              20    G6 20VT/GY (MAN 6 SPD TRANS)       OIL PRESSURE SIGNAL
+              21    -                                  -
+              22    G31 18VT/LG (EXCEPT MAN 6 SPD      AAT SIGNAL
+                    TRANS)
+              22    G31 20VT/LG (MAN 6 SPD TRANS)      AAT SIGNAL
+              23    -                                  -
+              24    -                                  -
+              25    D20 18WT/LG (EXCEPT MAN 6 SPD      SCI RECEIVE (PCM)
+                    TRANS)
+              25    D20 20WT/LG (MAN 6 SPD TRANS)      SCI RECEIVE (PCM)
+              26    D16 18WT/OR                        SCI RECEIVE (TCM)
+              27    F856 18YL/PK (EXCEPT MAN 6 SPD     5 VOLT SUPPLY
+                    TRANS)
+              27    F856 20YL/PK (MAN 6 SPD TRANS)     5 VOLT SUPPLY
+              28    T56 18DG/LB                        OVERDRIVE OFF SWITCH INDICATOR
+              29    A209 18RD                          FUSED B(+)
+              30    F26 16PK/OR                        IGNITION SWITCH OUTPUT (START)
+              31    K141 18DB/YL (EXCEPT MAN 6 SPD     O2 1/2 SIGNAL
+                    TRANS)
+              31    K141 20DB/YL (MAN 6 SPD TRANS)     O2 1/2 SIGNAL
+              32    K902 18BR/DG (EXCEPT MAN 6 SPD     O2 RETURN (UPSTREAM)
+                    TRANS)
+              32    K902 20BR/DG (MAN 6 SPD TRANS)     O2 RETURN (UPSTREAM)
+              33    K243 18BR (4.0L)                   O2 2/2 SIGNAL
+              34    -                                  -
+              35    -                                  -
+              36    D21 18WT/BR (EXCEPT MAN 6 SPD      SCI TRANSMIT (PCM/CAB)
+                    TRANS)
+              36    D21 20WT/BR (MAN 6 SPD TRANS)      SCI TRANSMIT (PCM/CAB)
+              37    D15 18WT/DG                        SCI RECEIVE (TCM)
+              38    D25 18WT/VT (EXCEPT MAN 6 SPD      PCI BUS
+                    TRANS)
+              38    D25 20WT/VT (MAN 6 SPD TRANS)      PCI BUS
+

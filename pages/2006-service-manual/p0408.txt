@@ -1,0 +1,66 @@
+8F - 14    BATTERY SYSTEM                                                                                    TJ
+
+WARNING: Always wear appropriate eye protection                        BATTERY TEST RESULTS
+and use extreme caution when working with batter-
+ies.                                                        GOOD - RECHARGE             Fully charge battery and
+                                                                                            return to service
+                                                            CHARGE & RETEST             Fully charge battery and
+BATTERY TESTING                                                                               retest battery
+  (1) If testing the battery OUT-OF-VEHICLE, clean           REPLACE BATTERY            Replace the battery and
+the battery terminals with a wire brush before test-                                    retest complete system
+ing. If the battery is equipped with side post termi-
+nals, install and tighten the supplied lead terminal        BAD-CELL REPLACE            Replace the battery and
+stud adapters. Do not use steel bolts. Failure to prop-                                 retest complete system
+erly install the stud adapters, or using stud adapters
+that are dirty or worn-out may result in false test       NOTE: The SERVICE CODE is required on every
+readings.                                                 warranty claim submitted for battery replacement.
+  (2) If testing the battery IN-THE-VEHICLE, make
+certain all of the vehicle accessory loads are OFF,
+including the ignition. The preferred test position
+                                                          REMOVAL
+is at the battery terminal. If the battery is not           (1) Turn the ignition switch to the Off position. Be
+accessible, you may test using both the positive and      certain that all electrical accessories are turned off.
+negative jumper posts. Select TESTING AT JUMPER             (2) Loosen the battery negative cable terminal
+POST when connecting to that location.                    clamp pinch-bolt hex nut.
+  (3) Connect the tester (Fig. 9) to the battery or         (3) Disconnect the battery negative cable terminal
+jumper posts, the red clamp to positive (+) and the       clamp from the battery negative terminal post. If
+black clamp to negative (–).                              necessary, use a battery terminal puller to remove
+                                                          the terminal clamp from the battery post (Fig. 10).
+NOTE: Multiple batteries connected in parallel must
+have the ground cable disconnected to perform a
+battery test. Failure to disconnect may result in
+false battery test readings.
+
+  (4) Using the ARROW key select in or out of vehi-
+cle testing and press ENTER to make a selection.
+  (5) If not selected, choose the Cold Cranking Amp
+(CCA) battery rating. Or select the appropriate bat-
+tery rating for your area (see menu). The tester will
+then run its self programmed test of the battery and
+display the results. Refer to the test result table
+noted below.                                                Fig. 10 Remove Battery Cable Terminal Clamp -
+                                                                               Typical
+CAUTION: If REPLACE BATTERY is the result of the          1 - BATTERY
+test, this may mean a poor connection between the         2 - BATTERY TERMINAL PULLER
+vehicle’s cables and battery exists. After discon-          (4) Loosen the battery positive cable terminal
+necting the vehicle’s battery cables from the bat-        clamp pinch-bolt hex nut.
+tery, retest the battery using the OUT-OF-VEHICLE           (5) Disconnect the battery positive cable terminal
+test before replacing.                                    clamp from the battery positive terminal post. If nec-
+                                                          essary, use a battery terminal puller to remove the
+  (6) While viewing the battery test result, press the
+                                                          terminal clamp from the battery post.
+CODE button and the tester will prompt you for the
+                                                            (6) Remove the battery holddowns from the bat-
+last 4 digits of the VIN. Use the UP/DOWN arrow
+                                                          tery. Refer to Battery Holddown for the proper bat-
+buttons to scroll to the correct character; then press
+                                                          tery holddown removal procedures.
+ENTER to select and move to the next digit. Then
+press the ENTER button to view the SERVICE                WARNING: Wear a suitable pair of rubber gloves
+CODE. Pressing the CODE button a second time will         (not the household type) when removing a battery
+return you to the test results.                           by hand. Safety glasses should also be worn. If the
+                                                          battery is cracked or leaking, the electrolyte can
+             BATTERY TEST RESULTS
+                                                          burn the skin and eyes.
+    GOOD BATTERY                Return to service
+

@@ -1,0 +1,33 @@
+TJ                                                    8W-11 FUSE BLOCK                                                            8W - 11 - 1
+
+                                                   8W - 11 FUSE BLOCK
+Component                                                          Page    Component                                                          Page
+A/C-Heater Control . . . . . . . . . . . . . . . . . . . 8W-11-6           Fuse 14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-9
+Airbag Control Module . . . . . . . . . . . . . . 8W-11-5, 7               Fuse 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-9
+Antilock Brake Relay . . . . . . . . . . . . . . . . . 8W-11-6             Fuse 16 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-10
+Automatic Shut Down Relay . . . . . . . . . . . 8W-11-7                    Fuse 17 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-10
+Back-Up Lamp Switch . . . . . . . . . . . . . . . . 8W-11-6                Fuse 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-10
+Brake Lamp Switch . . . . . . . . . . . . . . . . . . 8W-11-4              Fuse Block . . . . . . . . . . . 8W-11-2, 4, 5, 6, 7, 8, 9, 10
+Brake Transmission Shift Interlock                                         G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-4
+  Solenoid . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-7       Headlamp Leveling Switch . . . . . . . . . . . . 8W-11-10
+Cigar Lighter/Power Outlet . . . . . . . . . . . 8W-11-10                  Heater Control . . . . . . . . . . . . . . . . . . . . . . 8W-11-6
+Compass/Temperature Mirror . . . . . . . . . . . 8W-11-7                   Ignition Switch . . . . . . . . . . . . . . . . . . . . . 8W-11-10
+Controller Antilock Brake . . . . . . . . . . . . . . 8W-11-6              Instrument Cluster . . . . . . . . . . . . . . . . . . . 8W-11-7
+Daytime Running Lamp Module . . . . . . 8W-11-8, 10                        Left Headlamp . . . . . . . . . . . . . . . . . . . . . 8W-11-10
+Driver Door Ajar Switch . . . . . . . . . . . . . . . 8W-11-4              Left Headlamp Leveling Motor . . . . . . . . . 8W-11-10
+Front Wiper Motor . . . . . . . . . . . . . . . . . . 8W-11-10             Multi-Function Switch . . . . . . . . . . . 8W-11-4, 9, 10
+Fuel Pump Relay . . . . . . . . . . . . . . . . . . . . 8W-11-7            Passenger Airbag On-Off Switch . . . . . . . . 8W-11-7
+Fuse 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-4   Passenger Door Ajar Switch . . . . . . . . . . . . 8W-11-4
+Fuse 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-4   Powertrain Control Module . . . . . . . . . . . . 8W-11-7
+Fuse 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-4   Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-9
+Fuse 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-4   Rear Window Defogger Relay . . . . . . . . . 8W-11-6, 9
+Fuse 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-5   Rear Window Defogger Switch . . . . . . . . . . 8W-11-9
+Fuse 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-5   Rear Wiper Motor . . . . . . . . . . . . . . . . . . . . 8W-11-5
+Fuse 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-6   Rear Wiper/Washer Switch . . . . . . . . . . . . . 8W-11-5
+Fuse 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-6   Right Headlamp . . . . . . . . . . . . . . . . . . . . 8W-11-10
+Fuse 9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-7   Right Headlamp Leveling Motor . . . . . . . . 8W-11-10
+Fuse 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-7    Sentry Key Immobilizer Module . . . . . . . 8W-11-4, 7
+Fuse 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-8    Subwoofer . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-4
+Fuse 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-7    Transmission Range Sensor . . . . . . . . . . . . 8W-11-6
+Fuse 13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-11-9
+

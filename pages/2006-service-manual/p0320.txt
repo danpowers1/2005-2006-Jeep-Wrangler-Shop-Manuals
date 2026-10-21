@@ -1,0 +1,54 @@
+7-8   COOLING                                                                                           TJ
+
+         CONDITION                   POSSIBLE CAUSES                            CORRECTION
+
+INADEQUATE HEATER PERFOR-     1. Has a Diagnostic trouble Code       1. (Refer to 25 - EMISSIONS
+MANCE. THERMOSTAT FAILED IN   (DTC) been set?                        CONTROL - DESCRIPTION) for
+OPEN POSITION                                                        correct procedures and replace
+                                                                     thermostat if necessary
+
+                              2. Coolant level low                   2. (Refer to 7 - COOLING - DIAG-
+                                                                     NOSIS AND TESTING).
+                              3. Obstructions in heater hose/fit-    3. Remove heater hoses at both
+                              tings                                  ends and check for obstructions
+                              4. Heater hose kinked                  4. Locate kinked area and repair
+                                                                     as necessary
+                              5. Water pump is not pumping wa-       5. (Refer to 7 - COOLING/EN-
+                              ter to/through the heater core.        GINE/WATER PUMP - REMOVAL).
+                              When the engine is fully warmed        If a slipping belt is detected, (Refer
+                              up, both heater hoses should be        to 7 - COOLING/ACCESSORY
+                              hot to the touch. If only one of the   DRIVE/DRIVE BELTS - DIAGNO-
+                              hoses is hot, the water pump may       SIS AND TESTING). If heater core
+                              not be operating correctly or the      obstruction is detected, (Refer to
+                              heater core may be plugged. Ac-        24 - HEATING & AIR CONDITION-
+                              cessory drive belt may be slipping     ING/PLUMBING/HEATER CORE -
+                              causing poor water pump opera-         REMOVAL)
+                              tion.
+
+STEAM IS COMING FROM THE      1. During wet weather, moisture        1. Occasional steam emitting from
+FRONT OF VEHICLE NEAR THE     (snow, ice or rain condensation) on    this area is normal. No repair is
+GRILL AREA WHEN WEATHER IS    the radiator will evaporate when       necessary.
+WET, ENGINE IS WARMED UP      the thermostat opens. This open-
+AND RUNNING, AND VEHICLE IS   ing allows heated water into the
+STATIONARY. TEMPERATURE       radiator. When the moisture con-
+GAUGE IS IN NORMAL RANGE      tacts the hot radiator, steam may
+                              be emitted. This usually occurs in
+                              cold weather with no fan or airflow
+                              to blow it away.
+
+COOLANT COLOR                 1. Coolant color is not necessarily    1. (Refer to LUBRICATION &
+                              an indication of adequate corrosion    MAINTENANCE/FLUID TYPES -
+                              or temperature protection. Do not      DESCRIPTION) Adjust coolant mix-
+                              rely on coolant color for determin-    ture as necessary.
+                              ing condition of coolant.
+
+COOLANT LEVEL CHANGES IN      1. Level changes are to be expect-     1. A normal condition. No repair is
+COOLANT RESERVE/OVERFLOW      ed as coolant volume fluctuates        necessary.
+TANK. TEMPERATURE GAUGE IS    with engine temperature. If the lev-
+IN NORMAL RANGE               el in the tank was between the
+                              FULL and ADD marks at normal
+                              operating temperature, the level
+                              should return to within that range
+                              after operation at elevated temper-
+                              atures.
+

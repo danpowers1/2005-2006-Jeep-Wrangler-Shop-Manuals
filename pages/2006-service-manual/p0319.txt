@@ -1,0 +1,61 @@
+TJ                                                                                       COOLING        7-7
+
+         CONDITION                    POSSIBLE CAUSES                             CORRECTION
+
+PRESSURE CAP IS BLOWING        1. Pressure relief valve in radiator     1. Check condition of radiator cap
+OFF STEAM AND/OR COOLANT       cap is defective.                        and cap seals. (Refer to 7 -
+TO COOLANT TANK. TEMPERA-                                               COOLING/ENGINE/RADIATOR
+TURE GAUGE READING MAY BE
+ABOVE NORMAL BUT NOT HIGH.                                              PRESSURE CAP - DIAGNOSIS
+COOLANT LEVEL MAY BE HIGH                                               AND TESTING). Replace cap as
+IN COOLANT RESERVE/OVER-                                                necessary.
+FLOW TANK
+
+COOLANT LOSS TO THE            1. Coolant leaks in radiator, cool-      1. Pressure test and repair as nec-
+GROUND WITHOUT PRESSURE        ing system hoses, water pump or          essary. (Refer to 7 - COOLING -
+CAP BLOWOFF. GAUGE READ-       engine.                                  DIAGNOSIS AND TESTING).
+ING HIGH OR HOT
+
+DETONATION OR PRE-IGNITION     1. Engine overheating.                   1. Check reason for overheating
+(NOT CAUSED BY IGNITION SYS-                                            and repair as necessary.
+TEM). GAUGE MAY OR MAY NOT
+BE READING HIGH                2. Freeze point of coolant not cor-      2. Check coolant concentration.
+                               rect. Mixture is too rich or too         (Refer to LUBRICATION & MAIN-
+                               lean.                                    TENANCE/FLUID TYPES - DE-
+                                                                        SCRIPTION).
+
+HOSE OR HOSES COLLAPSE         1. Vacuum created in cooling sys-        1. (a) Radiator cap relief valve
+WHILE ENGINE IS RUNNING        tem on engine cool-down is not           stuck. (Refer to 7 - COOLING/EN-
+                               being relieved through coolant re-       GINE/RADIATOR PRESSURE CAP
+                               serve/overflow system.                   - DIAGNOSIS AND TESTING). Re-
+                                                                        place if necessary
+
+                                                                        (b) Hose between coolant reserve/
+                                                                        overflow tank and radiator is
+                                                                        kinked. Repair as necessary.
+                                                                        (c) Vent at coolant reserve/overflow
+                                                                        tank is plugged. Clean vent and
+                                                                        repair as necessary.
+                                                                        (d) Reserve/overflow tank is inter-
+                                                                        nally blocked or plugged. Check for
+                                                                        blockage and repair as necessary.
+
+NOISY VISCOUS FAN/DRIVE        1. Fan blades loose.                     1. Replace fan blade assembly.
+                                                                        (Refer to 7 - COOLING/ENGINE/
+                                                                        FAN DRIVE VISCOUS CLUTCH -
+                                                                        REMOVAL).
+                               2. Fan blades striking a surround-       2. Locate point of fan blade contact
+                               ing object.                              and repair as necessary.
+                               3. Air obstructions at radiator or air   3. Remove obstructions and/or
+                               conditioning condenser.                  clean debris or insects from radia-
+                                                                        tor or A/C condenser.
+                               4. Thermal viscous fan drive has         4. Replace fan drive. Bearing is not
+                               defective bearing.                       serviceable. (Refer to 7 - COOL-
+                                                                        ING/ENGINE/FAN DRIVE VIS-
+                                                                        COUS CLUTCH - REMOVAL).
+                               5. A certain amount of fan noise         5. (Refer to 7 - COOLING/EN-
+                               may be evident on models                 GINE/FAN DRIVE VISCOUS
+                               equipped with a thermal viscous          CLUTCH - DESCRIPTION) for an
+                               fan drive. Some of this noise is         explanation of normal fan noise.
+                               normal.
+

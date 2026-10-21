@@ -1,0 +1,64 @@
+TJ                                                                                                                    FUEL SYSTEM                  14 - 1
+
+                                                          FUEL SYSTEM
+                                                        TABLE OF CONTENTS
+
+                                                                    page                                                                             page
+
+FUEL DELIVERY              ..........................1                        FUEL INJECTION               . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+
+                                                        FUEL DELIVERY
+
+                                                              TABLE OF CONTENTS
+                                                                    page                                                                             page
+
+FUEL DELIVERY                                                                     4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1              OPERATION
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1              2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ STANDARD PROCEDURE                                                               4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+   STANDARD PROCEDURE - DRAINING                                                REMOVAL
+     FUEL TANK . . . . . . . . . . . . . . . . . . . . . . . . . . . 2            2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+   FUEL SYSTEM PRESSURE RELEASE . . . . . . 2                                     4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+ SPECIFICATIONS                                                                 INSTALLATION
+   FUEL SYSTEM PRESSURE                       ..............2                     2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+   TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2             4.0L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ SPECIAL TOOLS                                                                FUEL TANK
+   FUEL SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . 3                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 11
+FUEL PRESSURE REGULATOR                                                         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+FUEL LEVEL SEND UNIT AND SENSOR                                                 INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3            INLET FILTER
+FUEL LINES                                                                      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 17
+FUEL PUMP                                                                     QUICK CONNECT FITTING
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4              DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 18
+FUEL PUMP MODULE                                                                STANDARD PROCEDURE - QUICK-CONNECT
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 5                FITTINGS       . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ REMOVAL        .............................6
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+FUEL RAIL/FUEL DAMPER
+ DESCRIPTION
+   2.4L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+FUEL DELIVERY                                                                    • fuel tank
+                                                                                 • fuel tank filler/vent tube assembly
+                                                                                 • fuel tank filler tube cap
+DESCRIPTION
+                                                                                 • check valve(s)
+  The fuel delivery system consists of:
+                                                                                 • accelerator pedal
+  • the fuel pump module containing the electric
+                                                                                 • throttle cable
+fuel pump, fuel filter/fuel pressure regulator, fuel
+gauge sending unit (fuel level sensor) and a separate
+fuel filter located at bottom of pump module
+                                                                              OPERATION
+                                                                                Fuel is returned through the fuel pump module
+  • fuel tubes/lines/hoses
+  • quick-connect fittings                                                    and back into the fuel tank through the fuel filter/
+                                                                              fuel pressure regulator. A separate fuel return line
+  • fuel injector rail
+                                                                              from the engine to the tank is not used.
+  • fuel injectors
+

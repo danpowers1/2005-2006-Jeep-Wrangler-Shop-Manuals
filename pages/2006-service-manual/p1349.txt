@@ -1,0 +1,44 @@
+TJ                                                              AUTOMATIC TRANSMISSION - 42RLE            21 - 159
+
+  (5) Remove transmission oil pan (1) (Fig. 267).
+
+
+
+
+                                                                Fig. 270 Remove Valve Body From Transmission
+        Fig. 268 Remove Transmission Filter                    1 - VALVE BODY
+
+1 - TRANSMISSION FILTER                                        CAUTION: The overdrive and underdrive accumula-
+  (6) Remove oil filter (1) (Fig. 268) from valve body.        tors and springs may fall out when removing the
+It is held in place by two screws.                             valve body.
+
+                                                                 (8) Carefully remove valve body assembly (1) from
+                                                               the transmission (Fig. 270).
+
+                                                               DISASSEMBLY
+                                                               NOTE: If the valve body is being reconditioned or
+                                                               replaced, it is necessary to perform the Quick Learn
+                                                               Procedure using the DRBIIIT Scan Tool (Refer to 8 -
+                                                               ELECTRICAL/ELECTRONIC CONTROL MODULES/
+                                                               TRANSMISSION CONTROL MODULE - STANDARD
+                                                               PROCEDURE)
+
+
+
+
+            Fig. 269 Remove Valve Body Bolts
+1 - BOLTS
+
+  (7) Remove      valve   body   bolts-to-case   (1)   (Fig.
+269).
+
+
+
+
+                                                                     Fig. 271 Manual Shaft Retaining Screw
+                                                               1 - SCREW
+                                                               2 - TRS
+
+                                                                 (1) Remove manual shaft seal.
+                                                                 (2) Remove manual shaft screw (1) (Fig. 271).
+

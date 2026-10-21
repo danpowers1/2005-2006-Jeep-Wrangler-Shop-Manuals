@@ -1,0 +1,75 @@
+9 - 130    ENGINE 4.0L                                                                                        TJ
+
+  (18) Connect negative cable to battery.                  CAUTION: If the oil pump is not to be serviced, DO
+  (19) Fill the oil pan with engine oil to the specified   NOT disturb position of oil inlet tube and strainer
+level.                                                     assembly in pump body. If the tube is moved within
+                                                           the pump body, a replacement tube and strainer
+WARNING: USE EXTREME CAUTION WHEN THE                      assembly must be installed to assure an airtight
+ENGINE IS OPERATING. DO NOT STAND IN A                     seal.
+DIRECT LINE WITH THE FAN. DO NOT PUT YOUR
+HANDS NEAR THE PULLEYS, BELTS OR FAN. DO
+NOT WEAR LOOSE CLOTHING.
+
+  (20) Start the engine and inspect for leaks.
+
+
+ENGINE OIL PRESSURE SEN-
+SOR
+DESCRIPTION
+  The 3 wire, solid-state engine oil pressure sensor
+(sending unit) is located in an engine oil pressure
+gallery.
+
+OPERATION
+  The oil pressure sensor uses three circuits. They
+are:
+  • A 5 volt power supply from the Powertrain Con-
+trol Module (PCM)
+  • A sensor ground through the PCM’s sensor
+return
+  • A signal to the PCM relating to engine oil pres-                    Fig. 88 Oil Pump Assembly
+sure                                                       1 - OIL FILTER ADAPTOR
+  The oil pressure sensor has a 3 wire electrical          2 - BLOCK
+                                                           3 - GASKET
+function very much like the Manifold Absolute Pres-        4 - OIL INLET TUBE
+sure (MAP) sensor. Meaning different pressures             5 - OIL PUMP
+relate to different output voltages.                       6 - STRAINER ASSEMBLY
+                                                           7 - ATTACHING BOLTS
+  A 5 volt supply is sent to the sensor from the PCM
+to power up the sensor. The sensor returns a voltage
+signal back to the PCM relating to engine oil pres-
+                                                           INSTALLATION
+                                                             A gear-type oil pump is mounted at the underside
+sure. This signal is then transferred (bussed) to the
+                                                           of the cylinder block opposite the No.4 main bearing.
+instrument panel on either a CCD or PCI bus circuit
+                                                             (1) Install the oil pump on the cylinder block using
+(depending on vehicle line) to operate the oil pressure
+                                                           a replacement gasket. Tighten the bolts to 23 N·m
+gauge and the check gauges lamp. Ground for the
+                                                           (17 ft. lbs.) torque.
+sensor is provided by the PCM through a low-noise
+                                                             (2) Install the oil pan (Refer to 9 - ENGINE/LU-
+sensor return.
+                                                           BRICATION/OIL PAN - INSTALLATION).
+                                                             (3) Fill the oil pan with oil to the specified level.
+OIL PUMP
+REMOVAL
+                                                           VALVE TIMING
+  A gear-type oil pump is mounted at the underside
+of the cylinder block opposite the No.4 main bearing.
+                                                           STANDARD PROCEDURE - VALVE TIMING
+                                                             (1) Disconnect the spark plug wires and remove
+  (1) Drain the engine oil.
+                                                           the spark plugs.
+  (2) Remove the oil pan (Refer to 9 - ENGINE/LU-
+                                                             (2) Remove the engine cylinder head cover.
+BRICATION/OIL PAN - REMOVAL).
+                                                             (3) Remove the capscrews, bridge and pivot assem-
+  (3) Remove the pump-to-cylinder block attaching
+                                                           bly, and rocker arms from above the No.1 cylinder.
+bolts. Remove the pump assembly with gasket (Fig.
+                                                             (4) Alternately loosen each capscrew, one turn at a
+88).
+                                                           time, to avoid damaging the bridge.
+

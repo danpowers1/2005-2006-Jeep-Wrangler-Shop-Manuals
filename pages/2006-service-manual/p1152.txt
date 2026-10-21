@@ -1,0 +1,63 @@
+14 - 34    FUEL INJECTION                                                                                TJ
+
+time the PCM sees Wide Open Throttle (WOT), based
+upon Throttle Position Sensor (TPS) angle and RPM,
+it will update barometric pressure in the MAP mem-
+ory cell. With periodic updates, the PCM can make
+its calculations more effectively.
+   The PCM uses the MAP sensor input to aid in cal-
+culating the following:
+   • Manifold pressure
+   • Barometric pressure
+   • Engine load
+   • Injector pulse-width
+   • Spark-advance programs
+   • Shift-point strategies (certain automatic trans-
+missions only)
+   • Idle speed
+   • Decel fuel shutoff
+   The MAP sensor signal is provided from a single
+piezoresistive element located in the center of a dia-
+phragm. The element and diaphragm are both made
+                                                                 Fig. 18 MAP SENSOR LOCATION - 2.4L
+of silicone. As manifold pressure changes, the dia-
+phragm moves causing the element to deflect, which        1 - REAR OF INTAKE MANIFOLD
+                                                          2 - MAP SENSOR
+stresses the silicone. When silicone is exposed to        3 - ALIGNMENT PIN
+stress, its resistance changes. As manifold vacuum        4 - MOUNTING BOLT (TORX)
+increases, the MAP sensor input voltage decreases         5 - ELECTRICAL CONNECTOR
+                                                          6 - MAIN ENGINE HARNESS CONNECTORS
+proportionally. The sensor also contains electronics
+that condition the signal and provide temperature
+compensation.
+   The PCM recognizes a decrease in manifold pres-
+sure by monitoring a decrease in voltage from the
+reading stored in the barometric pressure memory
+cell. The MAP sensor is a linear sensor; meaning as
+pressure changes, voltage changes proportionately.
+The range of voltage output from the sensor is usu-
+ally between 4.6 volts at sea level to as low as 0.3
+volts at 26 in. of Hg. Barometric pressure is the pres-
+sure exerted by the atmosphere upon an object. At
+sea level on a standard day, no storm, barometric
+pressure is approximately 29.92 in Hg. For every 100
+feet of altitude, barometric pressure drops 0.10 in.
+Hg. If a storm goes through, it can change baromet-
+ric pressure from what should be present for that
+altitude. You should know what the average pressure
+and corresponding barometric pressure is for your
+area.
+
+
+REMOVAL
+2.4L                                                              Fig. 19 MAP SENSOR O-RING - 2.4L
+  The Manifold Absolute Pressure (MAP) sensor is          1 - MAP SENSOR
+mounted into the rear of the intake manifold (Fig.        2 - O-RING
+18). An o-ring is used to seal the sensor to the intake
+manifold (Fig. 19).                                       4.0L
+  (1) Disconnect electrical connector at sensor.            An L-shaped rubber fitting is used to connect the
+  (2) Clean area around MAP sensor.                       MAP sensor to throttle body (Fig. 20).
+  (3) Remove sensor mounting screw (TORX head).             (1) Remove air cleaner intake tube at throttle
+  (4) Remove MAP sensor from intake manifold.             body.
+  (5) Check condition of sensor o-ring (Fig. 19).
+

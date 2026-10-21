@@ -1,0 +1,10 @@
+TJ                                            8W-18 BUS COMMUNICATIONS                                                           8W - 18 - 1
+
+                                       8W - 18 BUS COMMUNICATIONS
+Component                                                          Page    Component                                                         Page
+Controller Antilock Brake . . . . . . . . . . . . . . 8W-18-4              Instrument Cluster . . . . . . . . . . . . . . . . . . . 8W-18-2
+Data Link Connector . . . . . . . . . . . . . 8W-18-2, 3, 4                Power Distribution Center . . . . . . . . . . . . . 8W-18-3
+Fuse 26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-18-3    Powertrain Control Module . . . . . . . . . . 8W-18-2, 4
+G105 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-18-3   Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-18-2
+G201 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-18-3   Sentry Key Immobilizer Module . . . . . . . . . 8W-18-2
+

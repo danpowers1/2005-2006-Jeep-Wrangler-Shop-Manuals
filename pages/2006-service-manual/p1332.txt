@@ -1,0 +1,64 @@
+21 - 142     AUTOMATIC TRANSMISSION - 42RLE                                                                   TJ
+
+perform hydraulic control functions for the transmis-     tion the solenoid plunger at a desired position some-
+sion and must therefore be durable and tolerant of        where between full ON and full OFF. The constant
+dirt particles. For these reasons, the valves have        ON and duty cycled versions control the voltage
+hardened steel poppets and ball valves. The solenoids     across the solenoid to allow either full flow or no flow
+operate the valves directly, which means that the         through the solenoid’s valve.
+solenoids must have very high outputs to close the
+valves against the sizable flow areas and line pres-      OPERATION
+sures found in current transmissions. Fast response         When an electrical current is applied to the sole-
+time is also necessary to ensure accurate control of      noid coil, a magnetic field is created which produces
+the transmission.                                         an attraction to the plunger, causing the plunger to
+                                                          move and work against the spring pressure and the
+                                                          load applied by the fluid the valve is controlling. The
+                                                          plunger is normally directly attached to the valve
+                                                          which it is to operate. When the current is removed
+                                                          from the coil, the attraction is removed and the
+                                                          plunger will return to its original position due to
+                                                          spring pressure.
+                                                            The plunger is made of a conductive material and
+                                                          accomplishes this movement by providing a path for
+                                                          the magnetic field to flow. By keeping the air gap
+                                                          between the plunger and the coil to the minimum
+                                                          necessary to allow free movement of the plunger, the
+                                                          magnetic field is maximized.
+
+
+
+    Fig. 237 Low Reverse/Converter Clutch and
+               Overdrive Solenoids
+1 - OVERDRIVE CLUTCH
+2 - NO VENT
+3 - OVERDRIVE SOLENOID ENERGIZED
+4 - MANUAL VALVE
+5 - LOW REVERSE/CONVERTER CLUTCH SOLENOID DE-EN-
+ERGIZED
+6 - SOLENOID SWITCH VALVE
+7 - TAPER
+8 - VENT TO SUMP
+9 - ORIFICE
+10 - CHECK BALL
+
+   The strength of the magnetic field is the primary
+force that determines the speed of operation in a par-
+ticular solenoid design. A stronger magnetic field will
+cause the plunger to move at a greater speed than a
+weaker one. There are basically two ways to increase
+the force of the magnetic field:
+   1. Increase the amount of current applied to the
+coil or
+   2. Increase the number of turns of wire in the coil.
+   The most common practice is to increase the num-
+ber of turns by using thin wire that can completely
+fill the available space within the solenoid housing.
+The strength of the spring and the length of the
+plunger also contribute to the response speed possi-
+ble by a particular solenoid design.
+   A solenoid can also be described by the method by
+which it is controlled. Some of the possibilities
+include variable force, pulse-width modulated, con-
+stant ON, or duty cycle. The variable force and pulse-
+width modulated versions utilize similar methods to
+control the current flow through the solenoid to posi-
+

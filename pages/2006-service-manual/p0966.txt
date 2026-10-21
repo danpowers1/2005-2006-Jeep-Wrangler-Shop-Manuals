@@ -1,0 +1,84 @@
+9-6      ENGINE 2.4L                                                                                            TJ
+
+ Check the coolant level and fill as required. DO            • Attach an air hose with pressure gauge and reg-
+NOT install the pressure cap.                              ulator to the dipstick tube.
+ Start and operate the engine until it attains nor-
+                                                           CAUTION: Do not subject the engine assembly to
+mal operating temperature, then turn the engine
+                                                           more than 20.6 kpa (3 PSI) of test pressure.
+OFF.
+ Clean spark plug recesses with compressed air.              • Gradually apply air pressure from 1 psi to 2.5
+  Remove the spark plugs.                                  psi maximum while applying soapy water at the sus-
+  Remove the oil filler cap.                               pected source. Adjust the regulator to the suitable
+                                                           test pressure that provides the best bubbles which
+  Remove the air cleaner.                                  will pinpoint the leak source. If the oil leak is
+  Calibrate the tester according to the manufactur-        detected and identified, repair per service manual
+er’s instructions. The shop air source for testing         procedures.
+should maintain 483 kPa (70 psi) minimum, 1,379              • If the leakage occurs at the crankshaft rear oil
+kPa (200 psi) maximum, with 552 kPa (80 psi) rec-          seal area, refer to the section, Inspection for Rear
+ommended.                                                  Seal Area Leak.
+  Perform the test procedures on each cylinder               (6) If no leaks are detected, turn off the air supply.
+according to the tester manufacturer’s instructions.       Remove the air hose, all plugs, and caps. Install the
+While testing, listen for pressurized air escaping         PCV valve and fresh air hose (make-up air). Proceed
+through the throttle body, tailpipe and oil filler cap     to next step.
+opening. Check for bubbles in the coolant.                   (7) Clean the oil off the suspect oil leak area using
+  All gauge pressure indications should be equal,          a suitable solvent. Drive the vehicle at various
+with no more than 25% leakage per cylinder.                speeds approximately 24 km (15 miles). Inspect the
+                                                           engine for signs of an oil leak by using a black light.
+  FOR EXAMPLE: At 552 kPa (80 psi) input pres-
+sure, a minimum of 414 kPa (60 psi) should be main-        NOTE: If oil leakage is observed at the dipstick tube
+tained in the cylinder.                                    to block location; remove the tube, clean and reseal
+                                                           using MoparT Stud & Bearing Mount (press fit tube
+ENGINE OIL LEAK INSPECTION                                 applications only), and for O-ring style tubes,
+   Begin with a thorough visual inspection of the          remove tube and replace the O-ring seal.
+engine, particularly at the area of the suspected leak.
+If an oil leak source is not readily identifiable, the
+following steps should be followed:                        INSPECTION FOR REAR SEAL AREA LEAKS
+                                                              Since it is sometimes difficult to determine the
+   (1) Do not clean or degrease the engine at this
+                                                           source of an oil leak in the rear seal area of the
+time because some solvents may cause rubber to
+                                                           engine, a more involved inspection is necessary. The
+swell, temporarily stopping the leak.
+                                                           following steps should be followed to help pinpoint
+   (2) Add an oil soluble dye (use as recommended by
+                                                           the source of the leak.
+manufacturer). Start the engine and let idle for
+                                                              If the leakage occurs at the crankshaft rear oil seal
+approximately 15 minutes. Check the oil dipstick to
+                                                           area:
+make sure the dye is thoroughly mixed as indicated
+                                                              (1) Disconnect the battery.
+with a bright yellow color under a black light.
+                                                              (2) Raise the vehicle.
+   (3) Using a black light, inspect the entire engine
+                                                              (3) Remove torque converter or clutch housing
+for fluorescent dye, particularly at the suspected area
+                                                           cover and inspect rear of block for evidence of oil.
+of oil leak. If the oil leak is found and identified,
+                                                           Use a black light to check for the oil leak. If a leak is
+repair as necessary.
+                                                           present in this area, remove transmission for further
+   (4) If dye is not observed, drive the vehicle at var-
+                                                           inspection.
+ious speeds for approximately 24 km (15 miles), and
+                                                                 (a) Circular spray pattern generally indicates
+repeat inspection.
+                                                              seal leakage or crankshaft damage.
+   (5) If the oil leak source is not positively
+                                                                 (b) Where leakage tends to run straight down,
+identified at this time, proceed with the air leak
+                                                              possible causes are a porous block, oil gallery cup
+detection test method as follows:
+                                                              plug, bedplate to cylinder block mating surfaces
+   • Disconnect the fresh air hose (make-up air) at
+                                                              and seal bore. See proper repair procedures for
+the cylinder head cover and plug or cap the nipple on
+                                                              these items.
+the cover.
+                                                              (4) If no leaks are detected, pressurize the crank-
+   • Remove the PCV valve hose from the cylinder
+                                                           case as previously described.
+head cover. Cap or plug the PCV valve nipple on the
+cover.                                                     CAUTION: Do not exceed 20.6 kPa (3 psi).
+

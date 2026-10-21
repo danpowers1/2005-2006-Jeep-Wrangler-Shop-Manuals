@@ -1,0 +1,61 @@
+TJ                               8W-97 POWER DISTRIBUTION                                       8W - 97 - 11
+
+Press the relay cassette up into the PDC until both     Push the wire and terminal up into the relay cassette
+of the latches are fully engaged.                       terminal cavity until it is fully engaged by the latch.
+                                                          (8) Repeat Step 4, Step 5, Step 6 and Step 7 one
+CAUTION: Proper care must be taken to be certain        wire and terminal at a time until each of the wires
+that the wiring and terminals from the faulty PDC       and terminals have been transferred from the faulty
+relay cassette are installed in the correct terminal    PDC relay cassette into the replacement relay cas-
+cavities of the replacement relay cassette. To pre-     sette.
+vent mistakes it is recommended that the wiring           (9) Install the PDC relay wedge into the replace-
+and terminals be removed from the faulty relay cas-     ment PDC relay cassette.
+sette one cavity at a time, repaired or spliced as
+necessary, then installed securely into the correct     INSTALLATION
+cavity of the replacement relay cassette. If you are      The Power Distribution Center (PDC) main hous-
+not absolutely certain into which cavity a terminal     ing unit, the PDC fuse wedges and the PDC bus bars
+should be installed, refer to Power Distribution in     cannot be repaired and are only serviced as a unit
+the index of this service manual for the location of    with the dash wire harness. If the PDC main housing
+complete PDC wiring diagrams.                           unit, the fuse wedges or the bus bars are faulty or
+                                                        damaged, the entire PDC and dash wire harness unit
+  (4) While pulling gently on the wire from the bot-    must be replaced.
+tom of the faulty PDC relay cassette, use a terminal
+pick tool (Special Tool Kit 6680) from the top of the   NOTE: If the PDC is being replaced with a new unit,
+relay cassette to release the latch that secures the    be certain to transfer each of the fuses and relays
+terminal in the relay cassette terminal cavity (Fig.    that have not been included with the replacement
+15).                                                    PDC from the faulty PDC to the proper cavities of
+                                                        the replacement unit. Refer to Power Distribution in
+                                                        the index of this service manual for the location of
+                                                        complete PDC wiring diagrams and cavity assign-
+                                                        ments.
+
+                                                           (1) Position the PDC and the dash wire harness
+                                                        unit in the engine compartment.
+                                                           (2) Engage the mounts on the PDC housing with
+                                                        the stanchions of the PDC bracket and push the unit
+                                                        downward until the mount latches engage the
+                                                        mounting tabs on the PDC bracket.
+                                                           (3) Install the eyelet terminal of the battery posi-
+                                                        tive cable take out and the engine wire harness gen-
+                                                        erator output take out onto the PDC B(+) terminal
+                                                        studs.
+                                                           (4) Install and tighten the two nuts that secure
+                                                        the eyelet terminal of the battery positive cable take
+                                                        out and the engine wire harness generator output
+                                                        take out to the B(+) terminal studs. Tighten the nuts
+Fig. 15 PDC Relay Cassette Terminal Remove/Install      to 11.3 N·m (100 in. lbs.).
+1 - TERMINAL CAVITIES                                      (5) Engage the tabs on the lower edge of the B(+)
+2 - PDC RELAY CASSETTE                                  terminal stud cover in the slots on the back of the
+3 - TERMINAL LATCHES
+4 - FROM SPECIAL TOOL KIT 6680                          PDC housing, then engage the latch on the top of the
+                                                        cover with the latch receptacle on the PDC housing.
+  (5) From the bottom of the faulty PDC relay cas-         (6) Engage each of the retainers that secure the
+sette, remove the wire and terminal from the relay      dash wire harness to the vehicle body and chassis
+cassette terminal cavity.                               components. Refer to Connector Locations in the
+  (6) Make all necessary repairs and splices to the     index of this service manual for the location of more
+wire for the removed terminal. Refer to Wiring          information on the dash wire harness retainer loca-
+Repair in the index of this service manual for the      tions.
+location of the proper wiring repair procedures.           (7) Install all of the fasteners that secure each of
+  (7) From the bottom of the PDC housing, align and     the dash wire harness ground eyelets to the vehicle
+insert the removed wire and terminal into the correct   body and chassis components. Refer to Connector
+terminal cavity of the replacement relay cassette.      Locations in the index of this service manual for the
+

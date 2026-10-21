@@ -1,0 +1,61 @@
+14 - 8    FUEL DELIVERY                                                                                      TJ
+
+fuel pressure regulator. The fuel pressure regulator is       (16) If fuel injectors are to be removed, (Refer to
+not mounted to the fuel rail on any engine. It is           14 - FUEL SYSTEM/FUEL INJECTION/FUEL
+located on the fuel tank mounted fuel pump module.          INJECTOR - REMOVAL).
+Refer to Fuel Filter/Fuel Pressure Regulator for
+information.
+  The fuel rail is not repairable.
+
+
+REMOVAL
+2.4L
+WARNING: The fuel system is under constant pres-
+sure even with engine off. Before servicing fuel rail,
+fuel system pressure must be released.
+
+   The fuel rail can be removed without removing the
+intake manifold if the following procedures are fol-
+lowed.
+   (1) Remove fuel tank filler tube cap.
+   (2) Perform Fuel System Pressure Release Proce-
+dure. (Refer to 14 - FUEL SYSTEM/FUEL DELIV-
+ERY - STANDARD PROCEDURE)                                          Fig. 6 MAP SENSOR LOCATION - 2.4L
+   (3) Remove negative battery cable at battery.
+                                                            1 - REAR OF INTAKE MANIFOLD
+   (4) Remove air duct at throttle body.                    2 - MAP SENSOR
+   (5) Disconnect fuel line latch clip and fuel line at     3 - ALIGNMENT PIN
+fuel rail. A special tool will be necessary for fuel line   4 - MOUNTING BOLT (TORX)
+                                                            5 - ELECTRICAL CONNECTOR
+disconnection. (Refer to 14 - FUEL SYSTEM/FUEL              6 - MAIN ENGINE HARNESS CONNECTORS
+DELIVERY/QUICK CONNECT FITTING - STAN-
+DARD PROCEDURE)
+   (6) Remove necessary vacuum lines at throttle
+body.
+   (7) Drain engine coolant and remove thermostat
+and thermostat housing.
+   (8) Remove PCV hose and valve at valve cover.
+   (9) Remove 3 upper intake manifold mounting
+bolts (Fig. 7), but only loosen 2 lower bolts about 2
+turns.
+   (10) Disconnect 2 main engine harness connectors
+at rear of intake manifold (Fig. 6).
+   (11) Disconnect 2 injection wiring harness clips at
+harness mounting bracket (Fig. 7).
+   (12) Disconnect electrical connectors at all 4 fuel
+injectors. To remove connector refer to (Fig. 8). Push
+red colored slider away from injector (1). While push-
+ing slider, depress tab (2) and remove connector (3)
+from injector. The factory fuel injection wiring har-
+ness is numerically tagged (INJ 1, INJ 2, etc.) for
+injector position identification. If harness is not
+tagged, note wiring location before removal.                        Fig. 7 FUEL RAIL MOUNTING - 2.4L
+   (13) Remove 2 injection rail mounting bolts (Fig.        1 - FUEL RAIL
+4).                                                         2 - INJECTION HARNESS CLIPS
+                                                            3 - LOWER MOUNTING HOLES
+   (14) Gently rock and pull fuel rail until fuel injec-    4 - UPPER MOUNTING HOLES
+tors just start to clear machined holes in intake man-      5 - INTAKE MANIFOLD
+ifold.
+   (15) Remove fuel rail (with injectors attached)
+from intake manifold.
+

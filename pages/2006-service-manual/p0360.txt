@@ -1,0 +1,56 @@
+8A - 2   AUDIO/VIDEO                                                                                          TJ
+
+                                          Audio System Diagnosis
+
+   CONDITION       POSSIBLE CAUSE                                     CORRECTION
+
+NO AUDIO.       1. Fuse inoperative.         1. Check radio fuse and Ignition-Off Draw fuse in Power Distri-
+                                             bution Center. Replace fuses, if required.
+                2. Radio connector dam-      2. Check for loose or corroded radio connector. Repair, if re-
+                aged.                        quired.
+                3. Wiring damaged.           3. Check for battery voltage at radio connector. Repair wiring, if
+                                             required.
+                4. Ground damaged.           4. Check for continuity between radio chassis and a known
+                                             good ground. There should be continuity. Repair ground, if re-
+                                             quired.
+                5. Radio inoperative.        5. Exchange or replace radio, if required.
+                6. Speakers inoperative.     6. Refer to speaker diagnosis.
+
+NO DISPLAY.     1. Fuse inoperative.         1. Check radio fuse and Ignition-Off Draw fuse in Power Distri-
+                                             bution Center. Replace fuses, if required.
+                2. Radio connector dam-      2. Check for loose or corroded radio connector. Repair, if re-
+                aged.                        quired.
+                3. Wiring damaged.           3. Check for battery voltage at radio connector. Repair wiring, if
+                                             required.
+                4. Ground damaged.           4. Check for continuity between radio chassis and a known
+                                             good ground. There should be continuity. Repair ground, if re-
+                                             quired.
+                5. Radio inoperative.        5. Exchange or replace radio, if required.
+
+CLOCK WILL      1. Fuse inoperative.         1. Check ignition-off draw fuse. Replace fuse, if required.
+NOT KEEP SET
+TIME.
+                2. Radio connector dam-      2. Check for loose or corroded radio connector. Repair, if re-
+                aged.                        quired.
+                3. Wiring damaged.           3. Check for battery voltage at radio connector. Repair wiring, if
+                                             required.
+                4. Ground damaged.           4. Check for continuity between radio chassis and a known
+                                             good ground. There should be continuity. Repair ground, if re-
+                                             quired.
+                5. Radio inoperative.        5. Exchange or replace radio, if required.
+
+POOR RADIO      1. Antenna inoperative.      1. See antenna diagnosis, in this group. Repair or replace an-
+RECEPTION.                                   tenna, if required.
+                2. Ground damaged.           2. Check for continuity between radio chassis and a known
+                                             good ground. There should be continuity. Repair ground, if re-
+                                             quired.
+                3. Radio inoperative.        3. Exchange or replace radio, if required.
+
+NO/POOR TAPE    1. Tape damaged.             1. Insert known good tape and test operation.
+OPERATION.
+                2. Foreign objects be-       2. Remove foreign objects and test operation.
+                hind tape door.
+                3. Dirty cassette tape       3. Clean head with Mopar Cassette Head Cleaner.
+                head.
+                4. Radio inoperative         4. Exchange or replace radio, if required.
+

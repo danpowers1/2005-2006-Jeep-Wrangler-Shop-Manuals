@@ -1,0 +1,61 @@
+8B - 2    CHIME/BUZZER                                                                                       TJ
+
+input received from the PCM over the PCI data bus          percent tank full message input received from the
+indicate that the driver door is opened with the igni-     PCM over the PCI data bus indicating that there is
+tion switch in the On position and the engine is not       less than about one-eighth tank of fuel remaining to
+running. The chimes will continue to sound for a           illuminate the low fuel indicator. This chime feature
+duration of about twenty minutes, until the driver         will only occur once in an ignition cycle.
+door is closed, until the ignition switch is turned to        • Low Oil Pressure Warning - The instrument
+the Off position, or until the engine speed message        cluster chime tone generator will generate repetitive
+indicates the engine is running, whichever occurs          chimes at a fast rate when the check gauges indica-
+first.                                                     tor is illuminated for a low oil pressure condition.
+   • Engine Coolant Temperature High Warning               The instrument cluster uses engine speed and oil
+- The instrument cluster chime tone generator will         pressure message inputs received from the PCM over
+generate a single chime tone when the check gauges         the PCI data bus indicating that the engine is run-
+indicator is illuminated for a high or critical engine     ning at greater than 300 rpm and that the oil pres-
+coolant temperature condition. The instrument clus-        sure is low to illuminate the check gauges indicator.
+ter uses engine coolant temperature message inputs         The chimes will continue to sound for five seconds,
+received from the PCM over the PCI data bus to illu-       until the engine oil pressure message indicates that
+minate the check gauges indicator for a coolant tem-       the oil pressure is not low, or until the engine speed
+perature high condition. This chime feature will only      message indicates that the engine is running at less
+occur once in an ignition cycle.                           than 300 rpm, whichever occurs first. This chime
+   • Fasten Seat Belt Warning - The instrument             tone will only occur once in an ignition cycle.
+cluster chime tone generator will generate repetitive         • Overspeed Warning - The instrument cluster
+chimes at a slow rate each time the ignition switch is     chime tone generator will generate repetitive chimes
+turned to the On or Start positions to announce that       at a slow rate to announce that a vehicle speed mes-
+the hard wired inputs from the seat belt switch and        sage input received from the PCM over the PCI data
+the ignition switch indicate that the driver side front    bus indicates that the vehicle speed is above 120
+seat belt is not fastened. The chimes will continue to     kilometers-per-hour (75 miles-per-hour). The chimes
+sound for a duration of about six seconds, until the       will continue to sound until the vehicle speed mes-
+driver side front seat belt is fastened, or until the      sage indicates that the vehicle speed is below 120
+ignition switch is turned to the Off position, which-      kilometers-per-hour (75 miles-per-hour). This feature
+ever occurs first.                                         is only enabled on an instrument cluster that has
+   • Head/Park Lights-On Warning - The instru-             been programmed with a Middle East Gulf Coast
+ment cluster chime tone generator will generate            Country (GCC) country code.
+repetitive chimes at a slow rate to announce that the         • Park Brake Reminder - The instrument clus-
+hard wired inputs from the driver door ajar switch,        ter chime tone generator will generate ten repetitive
+the ignition switch, and the exterior lighting circuitry   chimes at a slow rate to announce that the hard
+of the left multi-function switch indicate that the        wired input from the park brake switch and a vehicle
+exterior lamps are turned On with the driver door          speed message input received from the PCM over the
+opened and the ignition switch in the Off position.        PCI data bus indicates that the park brake is applied
+The chimes will continue to sound for about three          and the vehicle is moving. This chime feature will
+minutes or until the exterior lamps are turned Off,        repeat each time the input conditions are met.
+the driver door is closed, or the ignition switch is          • Passenger Door Ajar Warning - The instru-
+turned to the On position, whichever occurs first.         ment cluster chime tone generator will generate
+   • Key-In-Ignition Warning - The instrument              three sets of two chimes at a slow rate to announce
+cluster chime tone generator will generate repetitive      that the hard wired inputs from the passenger door
+chimes at a slow rate to announce that the hard            ajar switch and the ignition switch as well as an
+wired inputs from the driver door ajar switch, the         engine speed message input received from the PCM
+ignition switch, and the key-in ignition circuitry of      over the PCI data bus indicate that the passenger
+the ignition switch indicate that the key is in the        door is opened with the ignition switch in the On
+ignition lock cylinder with the driver door opened         position and the engine is not running. This chime
+and the ignition switch in the Off position. The           feature will repeat each time the input conditions are
+chimes will continue to sound until the key is             met.
+removed from the ignition lock cylinder, the driver           • Sentry Key Immobilizer System “Customer
+door is closed, or the ignition switch is turned to the    Learn” Mode Announcement - This chime feature
+On position, whichever occurs first.                       is only active on vehicles equipped with the optional
+   • Low Fuel Warning - The instrument cluster             Sentry Key Immobilizer System (SKIS) and sold in
+chime tone generator will generate one chime tone          markets where the optional “Customer Learn” pro-
+when the low fuel indicator is illuminated by the          gramming feature is available. The instrument clus-
+instrument cluster. The instrument cluster uses a          ter chime tone generator will generate one chime to
+

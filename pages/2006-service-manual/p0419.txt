@@ -1,0 +1,51 @@
+TJ                                                                                    CHARGING       8F - 25
+
+OPERATION
+   As the energized rotor begins to rotate within the
+generator, the spinning magnetic field induces a cur-
+rent into the windings of the stator coil. Once the
+generator begins producing sufficient current, it also
+provides the current needed to energize the rotor.
+   The Y type stator winding connections deliver the
+induced AC current to 3 positive and 3 negative
+diodes for rectification. From the diodes, rectified DC
+current is delivered to the vehicle electrical system
+through the generator battery terminal.
+   Although the generators appear the same exter-
+nally, different generators with different output rat-
+ings are used on this vehicle. Be certain that the
+replacement generator has the same output rating
+and part number as the original unit. Refer to Gen-
+erator Ratings in the Specifications section at the
+back of this group for amperage ratings and part
+numbers.                                                       Fig. 2 GENERATOR REMOVE/INSTALL - 4.0L
+   Noise emitting from the generator may be caused          1 - GENERATOR
+by: worn, loose or defective bearings; a loose or defec-    2 - UPPER BOLT
+                                                            3 - LOWER BOLT
+tive drive pulley; incorrect, worn, damaged or misad-
+justed fan drive belt; loose mounting bolts; a
+misaligned drive pulley or a defective stator or diode.
+
+REMOVAL
+WARNING: DISCONNECT NEGATIVE CABLE FROM
+BATTERY BEFORE REMOVING BATTERY OUTPUT
+WIRE (B+ WIRE) FROM GENERATOR. FAILURE TO
+DO SO CAN RESULT IN INJURY OR DAMAGE TO
+ELECTRICAL SYSTEM.
+
+  (1) Disconnect negative battery cable at battery.
+  (2) Remove generator drive belt. Refer to 7, Cool-
+ing System for procedure.
+  (3) Remove generator pivot and mounting bolts/nut
+(Fig. 2), or (Fig. 3). Position generator for access to
+wire connectors.
+  (4) If equipped, unsnap plastic cover from B+ ter-
+minal.
+  (5) Remove B+ cable output terminal mounting
+nut at rear of generator (Fig. 4), (Fig. 5), or (Fig. 6).          Fig. 3 GENERATOR MOUNTING- 2.4L
+Disconnect terminal from generator.
+                                                            1 - UPPER MOUNTING BOLT
+  (6) Disconnect field wire connector at rear of gen-       2 - GENERTOR
+erator by pushing on connector tab.                         3 - LOWER MOUNTING BOLT
+  (7) Remove generator from vehicle.
+

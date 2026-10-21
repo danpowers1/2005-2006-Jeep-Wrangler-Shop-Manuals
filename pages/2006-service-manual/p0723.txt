@@ -1,0 +1,36 @@
+TJ                                           8W-30 FUEL/IGNITION SYSTEM                                                         8W - 30 - 1
+
+                                     8W - 30 FUEL / IGNITION SYSTEM
+Component                                                         Page    Component                                                         Page
+A/C Low Pressure Switch . . . . . . . . . . 8W-30-11, 17                  Fuse 23 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-3
+A/C Pressure Transducer . . . . . . . . . . . 8W-30-4, 17                 Fuse Block . . . . . . . . . . . . . . . . . . . . . . 8W-30-3, 19
+A/C-Heater Control . . . . . . . . . . . . . . . . . . 8W-30-11           G105 . . . . . . . . . . . . . . . . 8W-30-2, 3, 11, 18, 20, 21
+Ambient Temperature Sensor . . . . . . . . . . 8W-30-17                   G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-17
+Automatic Shut Down                                                       G302 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-16
+  Relay . . . . . . . . . . . . . . . . 8W-30-2, 3, 7, 8, 12, 13          Generator . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-17
+Brake Lamp Switch . . . . . . . . . . . . . . . 8W-30-6, 17               High Speed Radiator Fan Relay . . . . . . . . 8W-30-19
+Brake Transmission Shift Interlock                                        Idle Air Control Motor . . . . . . . . . . . . . . . 8W-30-16
+  Solenoid . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-17       Ignition Coil Pack . . . . . . . . . . . . . . . . . 8W-30-7, 12
+Camshaft Position Sensor . . . . . . . . . 8W-30-7, 9, 12                 Ignition Switch . . . . . . . . . . . . . . . . . . . . . . 8W-30-4
+Clockspring . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-6       Intake Air Temperature Sensor . . . . . . 8W-30-9, 14
+Coil Capacitor . . . . . . . . . . . . . . . . . . . . 8W-30-7, 12        Left Speed Control Switch . . . . . . . . . . . . . 8W-30-6
+Crankshaft Position Sensor . . . . . . . . . 8W-30-7, 12                  Low Speed Radiator Fan Relay . . . . . . . . 8W-30-19
+Data Link Connector . . . . . . . . . . . . . . . . . 8W-30-5             Manifold Absolute Pressure Sensor . . . 8W-30-9, 14
+Daytime Running Lamp Module . . . . . 8W-30-10, 15                        Natural Vacuum Leak Detection
+EVAP/Purge Solenoid . . . . . . . . . . . . . . . . 8W-30-16                 Assembly . . . . . . . . . . . . . . . . . . . . . . . 8W-30-16
+Engine Coolant Temperature Sensor . . 8W-30-9, 14                         Oxygen Sensor 1/1 Upstream . . . . . . . 8W-30-18, 20
+Engine Oil Pressure Sensor . . . . . . . . . . . 8W-30-14                 Oxygen Sensor 1/2 Downstream . . . . . 8W-30-18, 21
+Engine Oil Pressure Switch . . . . . . . . . . . . 8W-30-9                Oxygen Sensor 2/1 Upstream . . . . . . . . . . 8W-30-20
+Engine Starter Motor Relay . . . . . . . . . . . . 8W-30-4                Oxygen Sensor 2/2 Downstream . . . . . . . . 8W-30-21
+Fuel Injector No. 1 . . . . . . . . . . . . . . . . 8W-30-8, 13           Power Distribution
+Fuel Injector No. 2 . . . . . . . . . . . . . . . . 8W-30-8, 13              Center . . . . . . . . . . . . . 8W-30-2, 3, 4, 7, 8, 12, 13
+Fuel Injector No. 3 . . . . . . . . . . . . . . . . 8W-30-8, 13           Power Steering Pressure Switch . . . . . . . . 8W-30-11
+Fuel Injector No. 4 . . . . . . . . . . . . . . . . 8W-30-8, 13           Powertrain Control Module . . 8W-30-2, 3, 4, 5, 6, 7,
+Fuel Injector No. 5 . . . . . . . . . . . . . . . . . . 8W-30-13                                               8, 9, 10, 11, 12, 13, 14, 15,
+Fuel Injector No. 6 . . . . . . . . . . . . . . . . . . 8W-30-13                                                        16, 17, 18, 19, 20, 21
+Fuel Pump Module . . . . . . . . . . . . . . . . . . . 8W-30-3            Speed Control Servo . . . . . . . . . . . . . . . . . . 8W-30-6
+Fuel Pump Relay . . . . . . . . . . . . . . . . . . 8W-30-2, 3            Throttle Position Sensor . . . . . . . . . . . 8W-30-10, 15
+Fuse 9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-2    Transfer Case Switch . . . . . . . . . . . . . . . . 8W-30-14
+Fuse 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-19    Vehicle Speed Sensor . . . . . . . . . . 8W-30-10, 12, 15
+Fuse 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-30-3
+

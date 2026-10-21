@@ -1,0 +1,47 @@
+7 - 30    ENGINE                                                                                       TJ
+
+                                                          speed of the fan to a predetermined maximum level
+                                                          at higher engine speeds.
+
+
+
+
+             Fig. 12 Thermostat Recess
+1 - GROOVE
+                                                             Fig. 13 Water Pump Mounted Fan Drive - 2.5L
+  (4) Install replacement gasket and thermostat                                Engine
+housing.                                                  1 - THERMAL VISCOUS FAN DRIVE
+                                                          2 - (4) FAN BLADE-TO-VISCOUS DRIVE BOLTS
+                                                          3 - (4) FAN HUB-TO-PUMP PULLEY STUDS
+CAUTION: Tightening the thermostat housing                4 - WATER PUMP
+unevenly or with the thermostat out of its recess         5 - WATER PUMP PULLEY
+may result in a cracked housing.                          6 - FAN BLADE
+                                                          7 - (4) FAN HUB-TO-PUMP PULLEY NUTS
+
+  (5) Tighten the housing bolts to 20 N·m (15 ft. lbs.)
+torque.
+  (6) Install hoses to thermostat housing.
+  (7) Install electrical connector to coolant tempera-
+ture sensor.
+  (8) Be sure that the radiator draincock is tightly
+closed. Fill the cooling system (Refer to 7 - COOLING
+- STANDARD PROCEDURE).
+  (9) Start and warm the engine. Check for leaks.
+
+
+FAN DRIVE VISCOUS CLUTCH
+DESCRIPTION
+CAUTION: Engines equipped with serpentine drive
+belts have reverse rotating fans and viscous fan
+drives. They are marked with the word REVERSE to
+designate their usage. Installation of the wrong fan
+or viscous fan drive can result in engine overheat-
+ing.                                                         Fig. 14 Water Pump Mounted Fan Drive - 4.0L
+                                                                               Engine
+  The thermal viscous fan drive (Fig. 13) and (Fig.
+14) is a silicone-fluid-filled coupling used to connect   1 - FAN AND FAN DRIVE
+                                                          2 - WATER PUMP PULLEY
+the fan blades to the water pump shaft. The coupling
+allows the fan to be driven in a normal manner. This
+is done at low engine speeds while limiting the top
+

@@ -1,0 +1,28 @@
+8W - 80 - 38   8W-80 CONNECTOR PIN-OUTS                                                TJ
+
+
+                                     LEFT SIDE REPEATER LAMP (EXPORT) - GRAY 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    L61 18WT/LG                        LEFT TURN SIGNAL
+                 2    Z950 18BK                          GROUND
+
+
+
+
+                                          LEFT SPEED CONTROL SWITCH - 4 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    -                                  -
+                 2    K4 20BR/LB                         SENSOR RETURN
+                 3    V37 20VT                           S/C SWITCH NO. 1 SIGNAL
+                 4    -                                  -
+
+
+
+
+                                      MANIFOLD ABSOLUTE PRESSURE SENSOR - 3 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    K1 20VT/BR (2.4L)                  MAP SIGNAL
+                 1    K1 18VT/BR (4.0L)                  MAP SIGNAL
+                 2    K900 20DB/DG                       SENSOR GROUND
+                 3    F856 20YL/PK                       5 VOLT SUPPLY
+

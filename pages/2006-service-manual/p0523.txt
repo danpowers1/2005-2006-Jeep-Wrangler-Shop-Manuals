@@ -1,0 +1,46 @@
+TJ                                                                    LAMPS/LIGHTING - EXTERIOR            8L - 11
+
+more than 1 meter (3 feet) with the headlamp switch        WARNING: ON VEHICLES EQUIPPED WITH AIR-
+in the off position, the DRL module will activate the      BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+HIGH beams at a reduced intensity (36% of full             ATTEMPTING ANY STEERING WHEEL, STEERING
+intensity). When the headlamp switch is placed in          COLUMN, OR INSTRUMENT PANEL COMPONENT
+the LOW beam position the DRL will turn off. When          DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+the headlamp switch is turned to the HIGH beam             LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+position, the high beams will operate normally (full       THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+intensity) and the DRL module will also illuminate         TEM CAPACITOR TO DISCHARGE BEFORE PER-
+the HIGH BEAM indicator in the instrument cluster.         FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+                                                           IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+DIAGNOSIS AND TESTING - DAYTIME RUN-                       SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+NING LAMP SYSTEM                                           CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+  Always begin any diagnosis by testing all of the         BAG DEPLOYMENT AND POSSIBLE PERSONAL
+fuses and circuit breakers in the system. Refer to the     INJURY.
+appropriate wiring information.
+
+            CONDITION                        POSSIBLE CAUSES                            CORRECTION
+
+DAYTIME RUNNING LAMPS (DRL)           1. Headlamp switch in the on posi-     1. Turn the headlamp switch to the
+DO NOT OPERATE                        tion.                                  off position.
+                                      2. Poor connection at DRL mod-         2. Secure connector on DRL mod-
+                                      ule.                                   ule.
+                                      3. Open battery positive voltage       3. Test and repair open circuit.
+                                      circuit to DRL module
+                                      4. Open ignition positive circuit to   4. Test and repair open circuit.
+                                      DLR module.
+                                      5. Headlamp circuit shorted to         5. Test and repair headlamp circuit.
+                                      ground.
+                                      6. Open or high resistance in DLR      6. Test and repair ground circuit.
+                                      module ground circuit.
+                                      7. Open VSS signal circuit.            7. Test and repair VSS signal cir-
+                                                                             cuit.
+                                      8. Defective DRL module.               8. Replace DRL module.
+
+
+REMOVAL
+  (1) Disconnect and isolate the battery negative
+cable.
+  (2) Disconnect the wire harness connector from the
+module.
+  (3) Remove the screws that attach the module to
+the cowl (Fig. 8).
+  (4) Separate the module from the vehicle.
+

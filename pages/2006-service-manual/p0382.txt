@@ -1,0 +1,61 @@
+8E - 6    ELECTRONIC CONTROL MODULES                                                                        TJ
+
+  • The fuel pump is energized through the fuel             • The PCM adjusts engine idle speed through the
+pump relay by the PCM. The fuel pump will operate        idle air control (IAC) motor and adjusts ignition tim-
+for approximately three seconds unless the engine is     ing.
+operating or the starter motor is engaged.                  • The PCM operates the A/C compressor clutch
+  • The O2S sensor heater element is energized via       through the A/C compressor clutch relay. This is done
+the ASD relay. The O2S sensor input is not used by       if A/C has been selected by the vehicle operator and
+the PCM to calibrate air-fuel ratio during this mode     specified pressures are met at the high and low–pres-
+of operation.                                            sure A/C switches. Refer to Group 24, Heating and
+  • The Up-shift Indicator Lamp is illuminated           Air Conditioning for additional information.
+(manual transmission only).                                 • When engine has reached operating tempera-
+                                                         ture, the PCM will begin monitoring O2S sensor
+ENGINE START - UP MODE                                   input. The system will then leave the warm-up mode
+   This is an Open Loop mode. The following actions      and go into closed loop operation.
+occur when the starter motor is engaged.
+   The PCM receives inputs from:                         IDLE MODE
+   • Battery voltage                                        When the engine is at operating temperature, this
+   • Engine coolant temperature sensor                   is a Closed Loop mode. At idle speed, the PCM)
+   • Crankshaft position sensor                          receives inputs from:
+   • Intake manifold air temperature sensor                 • Air conditioning select signal (if equipped)
+   • Manifold absolute pressure (MAP) sensor                • Air conditioning request signal (if equipped)
+   • Throttle position sensor (TPS)                         • Battery voltage
+   • Camshaft position sensor signal                        • Crankshaft position sensor
+   The PCM monitors the crankshaft position sensor.         • Engine coolant temperature sensor
+If the PCM does not receive a crankshaft position           • Intake manifold air temperature sensor
+sensor signal within 3 seconds of cranking the              • Manifold absolute pressure (MAP) sensor
+engine, it will shut down the fuel injection system.        • Throttle position sensor (TPS)
+   The fuel pump is activated by the PCM through            • Camshaft position sensor signal (in the distribu-
+the fuel pump relay.                                     tor)
+   Voltage is applied to the fuel injectors with the        • Battery voltage
+ASD relay via the PCM. The PCM will then control            • Park/neutral switch (gear indicator signal—auto.
+the injection sequence and injector pulse width by       trans. only)
+turning the ground circuit to each individual injector      • Oxygen sensors
+on and off.                                                 • Power steering pressure switch (2.5L engine
+   The PCM determines the proper ignition timing         only)
+according to input received from the crankshaft posi-       Based on these inputs, the following occurs:
+tion sensor.                                                • Voltage is applied to the fuel injectors with the
+                                                         ASD relay via the PCM. The PCM will then control
+ENGINE WARM - UP MODE                                    injection sequence and injector pulse width by turn-
+  This is an Open Loop mode. During engine warm-         ing the ground circuit to each individual injector on
+up, the PCM receives inputs from:                        and off.
+  • Battery voltage                                         • The PCM monitors the O2S sensor input and
+  • Crankshaft position sensor                           adjusts air-fuel ratio by varying injector pulse width.
+  • Engine coolant temperature sensor                    It also adjusts engine idle speed through the idle air
+  • Intake manifold air temperature sensor               control (IAC) motor.
+  • Manifold absolute pressure (MAP) sensor                 • The PCM adjusts ignition timing by increasing
+  • Throttle position sensor (TPS)                       and decreasing spark advance.
+  • Camshaft position sensor signal (in the distribu-       • The PCM operates the A/C compressor clutch
+tor)                                                     through the A/C compressor clutch relay. This is done
+  • Park/neutral switch (gear indicator signal—auto.     if A/C has been selected by the vehicle operator and
+trans. only)                                             specified pressures are met at the high and low–pres-
+  • Air conditioning select signal (if equipped)         sure A/C switches. Refer to Group 24, Heating and
+  • Air conditioning request signal (if equipped)        Air Conditioning for additional information.
+  Based on these inputs the following occurs:               On 2.5L 4–cylinder engines, a power steering pres-
+  • Voltage is applied to the fuel injectors with the    sure switch is used to supply an input to the PCM
+ASD relay via the PCM. The PCM will then control         when steering pump pressure is high. This will raise
+the injection sequence and injector pulse width by       engine speed. Refer to Power Steering Pressure
+turning the ground circuit to each individual injector   Switch in this group for additional information. The
+on and off.                                              4.0L 6–cylinder engine does not use this switch.
+

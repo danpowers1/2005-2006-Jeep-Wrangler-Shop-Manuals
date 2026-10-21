@@ -1,0 +1,46 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                     8W - 80 - 15
+
+
+                         C203 - (I/P SIDE)
+              CAV                  CIRCUIT
+               1    F505 20PK/YL
+               2    Z10 20BK
+               3    L1 20WT/LG
+               4    G231 20VT/YL
+               5    G32 20VT/LB
+               6    M22 20YL/OR
+               7    M21 20YL/BR
+
+
+
+
+                        C205 - (HVAC SIDE)
+              CAV                  CIRCUIT
+               1    Z134 20DB/WT
+               2    C71 14TN
+               3    C72 14LG
+               4    C73 14LB
+               5    F504 20OR
+               6    C132 20YL
+               7    C75 12BK/TN
+               8    A502 12RD/LG
+               9    F504 20DB/WT
+              10    Z1 20BK
+
+
+
+
+                    C205 - LT. GREEN (I/P SIDE)
+              CAV                  CIRCUIT
+               1    Z134 20BK/LG
+               2    C71 18DB/BR
+               3    C72 16DB/OR
+               4    C73 14DB/VT
+               5    F504 20GY/PK
+               5    F504 20GY/PK
+               6    C132 20DB/YL
+               7    C75 12DB/GY
+               8    A502 12RD/LG
+               9    F504 20GY/PK
+              10    Z1 20BK
+

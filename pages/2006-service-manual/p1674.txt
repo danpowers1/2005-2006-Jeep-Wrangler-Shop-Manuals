@@ -1,0 +1,44 @@
+24 - 38    DISTRIBUTION                                                                                    TJ
+
+DEFROSTER DUCT                                           FLOOR DISTRIBUTION DUCT
+REMOVAL                                                  REMOVAL
+WARNING: On vehicles equipped with airbags, dis-         WARNING: On vehicles equipped with airbags, dis-
+able the airbag system before attempting any steer-      able the airbag system before attempting any steer-
+ing wheel, steering column, or instrument panel          ing wheel, steering column, or instrument panel
+component diagnosis or service. Disconnect and           component diagnosis or service. Disconnect and
+isolate the battery negative (ground) cable, then        isolate the battery negative (ground) cable, then
+wait two minutes for the airbag system capacitor to      wait two minutes for the airbag system capacitor to
+discharge before performing further diagnosis or         discharge before performing further diagnosis or
+service. This is the only sure way to disable the air-   service. This is the only sure way to disable the air-
+bag system. Failure to take the proper precautions       bag system. Failure to take the proper precautions
+could result in accidental airbag deployment and         could result in accidental airbag deployment and
+possible personal injury or death.                       possible personal injury or death.
+
+  (1) Remove the instrument panel (Refer to 23 -           (1) Remove the airbag control module (Refer to 8 -
+BODY/INSTRUMENT               PANEL/INSTRUMENT           ELECTRICAL/RESTRAINTS/AIRBAG             CONTROL
+PANEL ASSEMBLY - REMOVAL).                               MODULE - REMOVAL).
+  (2) Remove the two nuts that secure the defroster        (2) Remove the three screws that secure the floor
+duct to the dash panel (Fig. 5).                         distribution duct to the bottom of the HVAC housing
+  (3) Remove the defroster duct from the dash panel      and remove the duct (Fig. 6).
+and disconnect it from the HVAC housing.
+
+
+
+
+                                                                    Fig. 6 Floor Distribution Duct
+                Fig. 5 Defroster Duct                    1 - SCREW (3)
+1 - DEFROSTER DUCT                                       2 - FLOOR DISTRIBUTION DUCT
+2 - NUT (2)                                              3 - HVAC HOUSING
+3 - DASH PANEL
+4 - HVAC HOUSING                                         INSTALLATION
+                                                           (1) Position the floor distribution duct onto the
+INSTALLATION                                             bottom of the HVAC housing.
+  (1) Install the defroster duct onto the top of the       (2) Install the three screws that secure the floor
+HVAC housing and onto the studs located on the           distribution duct to HVAC housing. Tighten the
+dash panel.                                              screws to 2 N·m (17 in. lbs.).
+  (2) Install the two push-nuts that secure the            (3) Install the airbag control module (Refer to 8 -
+defroster duct to the dash panel.                        ELECTRICAL/RESTRAINTS/AIRBAG              CONTROL
+  (3) Install the instrument panel (Refer to 23 -        MODULE - INSTALLATION).
+BODY/INSTRUMENT               PANEL/INSTRUMENT
+PANEL ASSEMBLY - INSTALLATION).
+

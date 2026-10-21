@@ -1,0 +1,60 @@
+8J - 12    INSTRUMENT CLUSTER                                                                                TJ
+
+   (1) Check the fused B(+) fuse (Fuse 24 - 10            CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+ampere) in the Power Distribution Center (PDC). If        BAG DEPLOYMENT.
+OK, go to Step 2. If not OK, repair the shorted circuit      The instrument cluster actuator test will put the
+or component as required and replace the faulty fuse.     instrument cluster into its self-diagnostic mode. In
+   (2) Check for battery voltage at the fused B(+) fuse   this mode the instrument cluster can perform a self-
+(Fuse 24 - 10 ampere) in the PDC. If OK, go to Step       diagnostic test that will confirm that the instrument
+3. If not OK, repair the open B(+) circuit between the    cluster circuitry, the gauges, the PCI data bus mes-
+PDC and the battery as required.                          sage controlled indicators, and the chime tone gener-
+   (3) Disconnect and isolate the battery negative        ator are capable of operating as designed. During the
+cable. Remove the instrument cluster. Reconnect the       actuator test the instrument cluster circuitry will
+battery negative cable. Check for battery voltage at      sound the chime tone generator, position each of the
+the fused B(+) circuit cavity of the instrument panel     gauge needles at various calibration points, illumi-
+wire harness connector (Connector C1) for the instru-     nate all of the segments in the Vacuum-Fluorescent
+ment cluster. If OK, refer to ACTUATOR TEST. If           Display (VFD) unit, turn all of the PCI data bus mes-
+not OK, repair the open fused B(+) circuit between        sage-controlled indicators on and off again, and dis-
+the instrument cluster and the PDC as required.           play messages in the VFD for certain faults that
+   (4) Check the fused ignition switch output (run-       have been set. It is suggested that a note pad and
+start) fuse (Fuse 10 - 10 ampere) in the fuse block. If   pencil be used to write down any fault information
+OK, go to Step 5. If not OK, repair the shorted circuit   that is displayed during the test for reference.
+or component as required and replace the faulty fuse.        Successful completion of the actuator test will con-
+   (5) Turn the ignition switch to the On position.       firm that the instrument cluster is operational. How-
+Check for battery voltage at the fused ignition switch    ever, there may still be a problem with the PCI data
+output (run-start) fuse (Fuse 10 - 10 ampere) in the      bus, the Powertrain Control Module (PCM), the Air-
+fuse block. If OK, go to Step 6. If not OK, repair the    bag Control Module (ACM), the Sentry Key Immobi-
+open fused ignition switch output (run-start) circuit     lizer Module (SKIM), or the inputs to one of these
+between the fuse block and the ignition switch as         electronic control modules. Use a DRBIIIt scan tool
+required.                                                 to diagnose these components. Refer to the appropri-
+   (6) Turn the ignition switch to the On position.       ate diagnostic information.
+Check for battery voltage at the fused ignition switch       If an individual gauge does not respond properly,
+output (run-start) circuit cavity of the instrument       or does not respond at all during the actuator test,
+panel wire harness connector (Connector C1) for the       the instrument cluster should be removed. However,
+instrument cluster. If OK, refer to ACTUATOR TEST.        check that the four screws securing the inoperative
+If not OK, repair the open fused ignition switch out-     gauge to the instrument cluster electronic circuit
+put (run-start) circuit between the instrument cluster    board are properly tightened before considering
+and the fuse block as required.                           instrument cluster replacement. If the gauge mount-
+   (7) Check for continuity between the ground cir-       ing screws check OK, replace the faulty instrument
+cuit cavity of the instrument panel wire harness con-     cluster.
+nector (Connector C1) for the instrument cluster and         (1) Begin the test with the ignition switch in the
+a good ground. There should be continuity. If OK,         Off position.
+refer to ACTUATOR TEST. If not OK, repair the                (2) Depress the odometer/trip odometer switch but-
+open ground circuit to ground (G201) as required.         ton.
+                                                             (3) While still holding the odometer/trip odometer
+ACTUATOR TEST                                             switch button depressed, turn the ignition switch to
+                                                          the On position, but do not start the engine.
+WARNING: TO AVOID PERSONAL INJURY OR                         (4) Release the odometer/trip odometer switch but-
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                 ton.
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                      (5) The instrument cluster will automatically
+TEM BEFORE ATTEMPTING ANY STEERING                        begin the actuator test sequence, as follows:
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                      (a) The cluster will generate a single chime tone
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                       to confirm the functionality of the chime tone gen-
+VICE. DISCONNECT AND ISOLATE THE BATTERY                     erator and the chime control circuitry.
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                          (b) The cluster will scroll the number “8” across
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                     the odometer/trip odometer VFD to confirm the
+CHARGE BEFORE PERFORMING FURTHER DIAG-                       functionality of all VFD segments and their control
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                  circuitry.
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                           (c) The cluster will illuminate the decimal point
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                      in the odometer/trip odometer VFD to confirm the
+

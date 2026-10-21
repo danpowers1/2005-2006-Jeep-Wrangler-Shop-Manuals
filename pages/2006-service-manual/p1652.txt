@@ -1,0 +1,64 @@
+24 - 16    CONTROLS                                                                                        TJ
+
+obtained during testing.                                 ing wheel, steering column, or instrument panel
+                                                         component diagnosis or service. Disconnect and
+                                                         isolate the battery negative (ground) cable, then
+                                                         wait two minutes for the airbag system capacitor to
+                                                         discharge before performing further diagnosis or
+                                                         service. This is the only sure way to disable the air-
+                                                         bag system. Failure to take the proper precautions
+                                                         could result in accidental airbag deployment and
+                                                         possible personal injury or death.
+
+                                                         CAUTION: Do not use lubricant on the switch ports
+                                                         or in the holes of the connector, as lubricant will
+                                                         ruin the vacuum valve in the switch. A drop of clean
+                                                         water in the connector holes will help the connector
+                                                         slide onto the switch ports.
+
+                                                           (1) Disconnect the vacuum harness connector at
+                                                         the back of the A/C-heater control (Refer to 24 -
+      Fig. 12 Adjust Vacuum Test Bleed Valve
+                                                         HEATING & AIR CONDITIONING/CONTROLS/A/C
+1 - VACUUM PUMP TOOL C-4289
+2 - VACUUM TEST SET C-3707
+                                                         HEATER CONTROL - REMOVAL).
+3 - BLEED VALVE                                            (2) Connect the test set vacuum hose probe to each
+4 - PROBE                                                port in the vacuum harness connector, one port at a
+                                                         time, and pause after each connection (Fig. 13). The
+VACUUM CHECK VALVE                                       test set gauge should return to the 27 kPa (8 in. Hg.)
+  (1) Remove the vacuum check valve. The valve is        setting shortly after each connection is made. If OK,
+located in the (black) vacuum supply tube at the         replace the faulty mode control switch. If not OK, go
+intake manifold vacuum tap.                              to Step 3.
+  (2) Connect the test set vacuum supply hose to the
+A/C-heater control side of the vacuum check valve.
+When connected to this side of the check valve, no
+vacuum should pass and the test set gauge should
+return to the 27 kPa (8 in. Hg.) setting. If OK, go to
+Step 3. If not OK, replace the faulty vacuum check
+valve.
+  (3) Connect the test set vacuum supply hose to the
+engine vacuum side of the vacuum check valve.
+When connected to this side of the check valve, vac-
+uum should flow through the check valve without
+restriction. If not OK, replace the faulty vacuum
+check valve.
+
+A / C HEATER CONTROLS
+   (1) Connect the test set vacuum probe to the heat-
+er-A/C vacuum supply (black) tube in the engine
+compartment. Position the test set gauge so that it
+can be viewed from the passenger compartment.
+                                                                     Fig. 13 Vacuum Circuit Test
+   (2) Place the A/C-heater mode control in each
+mode position, one position at a time, and pause            (3) Determine the vacuum line color of the vacuum
+after each selection. The test set gauge should return   circuit that is leaking. To determine the vacuum line
+to the 27 kPa (8 in. Hg.) setting shortly after each     colors, refer to the Vacuum Circuit charts (Fig. 14)
+selection is made. If not OK, a component or vacuum      and (Fig. 15).
+line in the vacuum circuit of the selected mode has a
+leak. See the procedure in Locating Vacuum Leaks.
+
+LOCATING VACUUM LEAKS
+WARNING: On vehicles equipped with airbags, dis-
+able the airbag system before attempting any steer-
+

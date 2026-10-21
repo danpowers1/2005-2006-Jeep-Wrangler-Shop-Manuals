@@ -1,0 +1,30 @@
+TJ                                                     AUTOMATIC TRANSMISSION - 42RLE      21 - 165
+
+
+
+
+                                      Fig. 286 Valve Body Assembly
+1 - VALVE BODY                                         5 - MANUAL VALVE
+2 - T/C REGULATOR VALVE                                6 - CONVERTER CLUTCH SWITCH VALVE
+3 - L/R SWITCH VALVE                                   7 - SOLENOID SWITCH VALVE
+4 - CONVERTER CLUTCH CONTROL VALVE                     8 - REGULATOR VALVE
+
+
+  (17) Remove all valves and springs (Fig. 286).
+  (18) Cleanliness through entire disassembly and
+assembly of the valve body cannot be overempha-
+sized. When disassembling, each part should be
+washed in a suitable solvent, then dried by com-
+pressed air. Do not wipe parts with shop towels.
+All mating surfaces in the valve body are accurately
+machined; therefore, careful handling of all parts
+must be exercised to avoid nicks or burrs.
+
+ASSEMBLY
+NOTE: If the valve body assembly is being recondi-
+tioned or replaced, it is necessary to perform the
+Quick Learn Procedure using the DRBIIIT Scan
+Tool. (Refer to 8 - ELECTRICAL/ELECTRONIC CON-
+TROL MODULES/TRANSMISSION CONTROL MOD-
+ULE - STANDARD PROCEDURE)
+

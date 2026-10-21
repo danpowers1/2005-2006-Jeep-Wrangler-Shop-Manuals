@@ -1,0 +1,50 @@
+8W - 91 - 6                        8W-91 CONNECTOR/GROUND/SPLICE LOCATION                             TJ
+
+Connector Name/Number           Color          Location                                  Fig.
+Seat Belt Switch (LHD Ex-       BK             Near Park Brake Switch                    20
+cept Export)
+Sentry Key Immobilizer Mod-     BK             At Immobilizer                            30
+ule
+Speed Control Servo             BK             Left Side Engine Compartment              13, 14
+Subwoofer                       LT-GY          Floor Pan                                 20
+Throttle Position Sensor        WT             Side of Throttle Body                     5, 18
+Tow/Haul Overdrive Off                         Center of Instrument Panel                26, 28
+Switch
+Transfer Case Switch            BK             Left Side of Transfer Case                16, 36, 37
+Transmission Range Indica-      BK             Between Seats                             20
+tor Illumination (PRNDL)
+Transmission Range Sensor       GN             Left Center of Transmission               16, 36
+Transmission Solensid/Pres-     NAT            Right Center of Transmission              7, 36
+sure Switch Assembly
+Underhood Lamp                  BK             Under Hood                                10, 12, 18
+Variable Line Pressure Sen-                    Left Side of Transmission                 16, 36
+sor
+Vehicle Speed Sensor            BK             Left Rear of Transfer Case                16, 36, 37
+
+
+                                                  GROUNDS
+
+Connector Name/               Location                                                     Fig.
+Number
+G100                          Rear Center of Engine Compartment                            10, 12
+G101                          Rear Center of Engine Compartment                            10, 12
+G102                          Left Radiator Closure Panel                                  1
+G103                          Right Radiator Closure Panel                                 2
+G104                          Near Generator                                               N/S
+G105                          Right Rear of Engine Block (4.0L) Near Left Engine Mount     4, 7
+                              (2.4L)
+G106                          Rear of Engine Compartment                                   3, 11
+G107                          Left Front of Engine Block                                   3, 8, 11
+G108                          Right Rear Engine Block                                      8
+G110 (2.4L)                   Near Left Engine Mount                                       4
+G111                          Near Right Rear of Engine                                    N/S
+G190                          Near Right Headlamp                                          2
+G191                          Near Right Headlamp                                          N/S
+G200 (LHD)                    Left Rear of Instrument Panel                                24
+G200 (RHD)                    Right Rear of Instrument Panel                               27
+G201 (LHD)                    Left Rear of Instrument Panel                                24
+G201 (RHD)                    Right Rear of Instrument Panel                               27
+G202 (LHD)                    Right Rear of Instrument Panel                               25
+G202 (RHD)                    Left Rear of Instrument Panel                                27
+G203 (LHD)                    Right Rear of Instrument Panel                               25
+

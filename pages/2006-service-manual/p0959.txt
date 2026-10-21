@@ -1,0 +1,55 @@
+TJ                                 8W-97 POWER DISTRIBUTION                                        8W - 97 - 13
+
+  (5) Disconnect and isolate the battery negative         engage the tips of the pliers with the retaining
+cable. Remove the power outlet receptacle from the        bosses of the mount.
+instrument panel. Disconnect the wire harness con-          (5) Squeeze the pliers to disengage the mount
+nector from the power outlet receptacle. Check for        retaining bosses from the receptacle base and, using
+continuity between the ground circuit cavity of the       a gentle rocking motion, pull the pliers and the
+power outlet wire harness connector and a good            receptacle base out of the mount.
+ground. There should be continuity. If OK, go to Step       (6) Pull the receptacle base away from the instru-
+6. If not OK, repair the open ground circuit to ground    ment panel far enough to access the instrument
+as required.                                              panel wire harness connector.
+  (6) Connect the battery negative cable. Check for         (7) Disconnect the instrument panel wire harness
+battery voltage at the fused B(+) circuit cavity of the   connector from the cigar lighter or power outlet
+power outlet wire harness connector. If OK, replace       receptacle base connector receptacle.
+the faulty power outlet receptacle. If not OK, repair       (8) Remove the cigar lighter or power outlet mount
+the open fused B(+) circuit to the Power Distribution     from the instrument panel.
+Center fuse as required.
+                                                          INSTALLATION
+REMOVAL                                                      (1) Reconnect the instrument panel wire harness
+  (1) Disconnect and isolate the battery negative         connector to the cigar lighter or power outlet recep-
+cable.                                                    tacle base connector receptacle.
+  (2) Pull the cigar lighter knob and element out of         (2) Install the cigar lighter or power outlet mount
+the cigar lighter receptacle base, or unsnap the pro-     into the instrument panel.
+tective cap from the power outlet receptacle base.           (3) Align the splines on the outside of the cigar
+  (3) Look inside the cigar lighter or power outlet       lighter or power outlet receptacle base connector
+receptacle base and note the position of the rectangu-    receptacle with the grooves on the inside of the
+lar retaining bosses of the mount that secures the        mount.
+receptacle base to the instrument panel (Fig. 17).           (4) Press firmly on the cigar lighter or power out-
+                                                          let receptacle base until the retaining bosses of the
+                                                          mount are fully engaged in their receptacles.
+                                                             (5) Install the cigar lighter knob and element into
+                                                          the cigar lighter receptacle base, or the protective cap
+                                                          into the power outlet receptacle base.
+                                                             (6) Reconnect the battery negative cable.
+
+
+                                                          RELAY
+                                                          DESCRIPTION
+
+
+
+
+  Fig. 17 Cigar Lighter and Power Outlet Remove/
+                        Install                                             Fig. 18 ISO Relay
+1 - KNOB AND ELEMENT                                      30 - COMMON FEED
+2 - RETAINING BOSSES-ENGAGE PLIERS HERE                   85 - COIL GROUND
+3 - BASE                                                  86 - COIL BATTERY
+4 - PARTIALLY REMOVED                                     87 - NORMALLY OPEN
+5 - EXTERNAL SNAP-RING PLIERS                             87A - NORMALLY CLOSED
+6 - MOUNT
+7 - BASE                                                    A relay is an electromechanical device that
+                                                          switches fused battery current to a electrical compo-
+  (4) Insert a pair of external snap ring pliers into     nent when the ignition switch is turned to the Acces-
+the cigar lighter or power outlet receptacle base and     sory or Run positions, or when controlled by a
+

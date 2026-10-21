@@ -1,0 +1,34 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                       8W - 80 - 55
+
+
+                                RIGHT SIDE MARKER LAMP (EXCEPT EXPORT) - GRAY 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    L7 18WT/YL                         HEADLAMP SWITCH OUTPUT
+               2    L60 18WT/TN                        RIGHT TURN SIGNAL
+
+
+
+
+                                  RIGHT SIDE REPEATER LAMP (EXPORT) - GRAY 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    L60 18WT/TN                        RIGHT TURN SIGNAL
+               2    Z962 18BK                          GROUND
+
+
+
+
+                                        RIGHT SPEED CONTROL SWITCH - 4 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    -
+               2    K4 20BR/LB                         SENSOR RETURN
+               3    V37 20VT                           S/C SWITCH NO. 1 SIGNAL
+               4    -
+
+
+
+
+                                             SATELLITE ANTENNA - 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    D106 12WT/LG                       SATELLITE ANTENNA SIGNAL 1
+               2    D126 12WT/TN                       SATELLITE ANTENNA SHIELD 1
+

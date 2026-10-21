@@ -1,0 +1,40 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 109
+
+
+
+
+                                   Fig. 147 Ignition Interlock Cable Routing
+1 - SHIFT MECHANISM                                       5 - SOLENOID
+2 - LOCK-TAB                                              6 - WIRE CONNECTOR
+3 - IGNITION LOCK INTERLOCK                               7 - TIE STRAP
+4 - STEERING COLUMN                                       8 - PARK/BRAKE INTERLOCK CABLE
+
+
+OPERATION
+   The system locks the shifter into the PARK posi-
+tion. The Interlock system is engaged whenever the
+ignition switch is in the LOCK or ACCESSORY posi-
+tion. An additional electrically activated feature will
+prevent shifting out of the PARK position unless the
+brake pedal is depressed at least one-half an inch. A
+magnetic holding device in line with the park/brake
+interlock cable is energized when the ignition is in
+the RUN position. When the key is in the RUN posi-
+tion and the brake pedal is depressed, the shifter is
+unlocked and will move into any position. The inter-             Fig. 148 Ignition Key Cylinder Actuation
+lock system also prevents the ignition switch from         1 - SLIDER LOCKED
+                                                           2 - CAM RETURN SPRING
+being turned to the LOCK or ACCESSORY position             3 - INTERLOCK CABLE
+(Fig. 148) unless the shifter is fully locked into the     4 - CAM
+PARK position.                                             5 - SLIDER
+
+                                                          REMOVAL
+                                                            (1) Remove lower steering column cover. (Refer to
+                                                          23 - BODY/INSTRUMENT PANEL/STEERING COL-
+                                                          UMN OPENING COVER - REMOVAL)
+                                                            (2) Remove lower steering column shroud.
+                                                            (3) Remove tie strap near the solenoid retaining
+                                                          the brake transmission interlock cable to the steering
+                                                          column.
+                                                            (4) Disengage wire connector from solenoid.
+

@@ -1,0 +1,62 @@
+8R - 36     REAR WIPERS/WASHERS                                                                              TJ
+
+INSTALLATION                                               the rearward-most upper mounting hole of the reser-
+   (1) Position the rear washer nozzle and rubber          voir. An integral filter screen is located within the
+gasket to the outside of the liftglass with the orifice    pump inlet nipple. When the pump is installed in the
+of the nozzle aimed at the nozzle alignment arrow-         reservoir a barbed outlet nipple on the pump housing
+head visible on the outside of the glass.                  connects the unit to the washer system through the
+   (2) From the inside of the liftglass, install and       front washer supply hose.
+tighten the plastic nut that secures the threaded nip-        The washer pump/motor unit is retained on the
+ple on the back of the rear washer nozzle to the           reservoir by the interference fit between the barbed
+inside of the liftglass (Fig. 9). Tighten the nut to 1     pump inlet nipple and the grommet seal, which is a
+N·m (8 in. lbs.).                                          light press fit. An integral connector receptacle
+   (3) Reconnect the rear washer supply hose to the        between the motor housing and the pump housing
+barbed nipple of the rear washer nozzle.                   connects the unit to the vehicle electrical system. A
+   (4) Reinstall the trim cover onto the rear wiper        small capacitor internal to the connector receptacle
+motor on the inside of the liftglass. (Refer to 8 -        insulator is connected in parallel with the motor
+ELECTRICAL/REAR             WIPERS/WASHERS/REAR            leads to control ElectroMagnetic Interference (EMI)
+WIPER MOTOR TRIM COVER - INSTALLATION).                    created by washer motor operation. The rear washer
+                                                           pump/motor unit cannot be repaired. If faulty or
+                                                           damaged, the entire washer pump/motor unit must
+REAR WASHER PUMP MOTOR                                     be replaced.
+
+DESCRIPTION                                                OPERATION
+                                                             The rear washer pump/motor unit features a small
+                                                           Direct Current (DC) electric motor. The motor is con-
+                                                           nected to the vehicle electrical system through a sin-
+                                                           gle take out and two-cavity connector of the body
+                                                           wire harness. The motor is grounded at all times
+                                                           through a take out of the body wire harness with a
+                                                           single eyelet terminal connector that is secured
+                                                           under a ground screw to the left cowl side inner
+                                                           panel below the instrument panel in the passenger
+                                                           compartment. The motor receives battery current
+                                                           through the closed contacts of the momentary rear
+                                                           washer switch circuitry within the rear wiper and
+                                                           washer switch unit only when the bottom of the
+                                                           switch rocker is pushed towards the instrument
+                                                           panel.
+                                                             Washer fluid is gravity-fed from the washer reser-
+                                                           voir to the inlet side of the washer pump. When the
+                                                           pump motor is energized, the motor spins the rotor
+                                                           within the rotor-type washer pump. The spinning
+             Fig. 10 Washer Pump/Motor                     pump rotor pressurizes the washer fluid and forces it
+1 - MOTOR                                                  through the pump outlet nipple, the rear washer
+2 - CONNECTOR RECEPTACLE                                   plumbing, and the rear washer nozzle onto the lift-
+3 - OUTLET NIPPLE                                          glass. The rear washer pump/motor unit can be diag-
+4 - INLET NIPPLE
+5 - PUMP                                                   nosed using conventional diagnostic tools and
+                                                           methods.
+  The rear washer pump/motor unit is located on the
+inboard side just behind and above the front washer        REMOVAL
+pump/motor on the washer reservoir (Fig. 10). The            (1) Disconnect and isolate the battery negative
+washer reservoir is located on the top of the left front   cable.
+fender wheel house in the engine compartment. A              (2) Disconnect the washer supply hose from the
+small permanently lubricated and sealed electric           barbed outlet nipple of the rear washer pump/motor
+motor is coupled to the rotor-type washer pump. A          and allow the washer fluid from the washer reservoir
+seal flange with a barbed inlet nipple on the pump         to drain into a clean container for reuse (Fig. 11).
+housing passes through a rubber grommet seal
+installed in a dedicated mounting hole in the sump
+area near the bottom of the washer reservoir. The
+rear washer pump/motor unit is always mounted in
+

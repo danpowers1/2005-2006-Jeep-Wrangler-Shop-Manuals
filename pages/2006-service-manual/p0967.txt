@@ -1,0 +1,54 @@
+TJ                                                                                         ENGINE 2.4L          9-7
+
+  (5) If the leak is not detected, very slowly turn the        These malfunctions may be classified as either
+crankshaft and watch for leakage. If a leak is              mechanical (e.g., a strange noise), or performance
+detected between the crankshaft and seal while              (e.g., engine idles rough and stalls).
+slowly turning the crankshaft, it is possible the              Refer to the Engine Mechanical and the Engine
+crankshaft seal surface is damaged. The seal area on        Performance diagnostic charts, for possible causes
+the crankshaft could have minor nicks or scratches          and corrections of malfunctions (Refer to 9 - ENGINE
+that can be polished out with emery cloth.                  - DIAGNOSIS AND TESTING - MECHANICAL)
+                                                            (Refer to 9 - ENGINE - DIAGNOSIS AND TESTING
+CAUTION: Use extreme caution when crankshaft                - PERFORMANCE).
+polishing is necessary to remove minor nicks and               For fuel system diagnosis, (Refer to 14 - FUEL
+scratches. The crankshaft seal flange is especially         SYSTEM/FUEL DELIVERY - DIAGNOSIS AND
+machined to complement the function of the rear oil         TESTING).
+seal.                                                          Additional tests and diagnostic procedures may be
+                                                            necessary for specific engine malfunctions that can-
+  (6) For bubbles that remain steady with shaft             not be isolated with the Service Diagnosis charts.
+rotation, no further inspection can be done until dis-      Information concerning additional tests and diagno-
+assembled.                                                  sis is provided within the following:
+  (7) After the oil leak root cause and appropriate            • Cylinder Compression Pressure Test
+corrective action have been identified, replace compo-         • Cylinder Combustion Pressure Leakage Test
+nent(s) as necessary.                                          • Engine Cylinder Head Gasket Failure Diagnosis
+                                                               • Intake Manifold Leakage Diagnosis
+ENGINE DIAGNOSIS                                               • Lash Adjuster (Tappet) Noise Diagnosis
+  Engine diagnosis is helpful in determining the               • Engine Oil Leak Inspection
+causes of malfunctions not detected and remedied by
+routine maintenance.
+
+ENGINE MECHANICAL
+            CONDITION                         POSSIBLE CAUSES                           CORRECTION
+
+VALVETRAIN NOISE                       1. High or low oil level in crank-    1. Check and correct engine oil
+                                       case.                                 level.
+
+                                       2. Thin or diluted oil.               2. Change oil to correct viscosity.
+                                       3. Thick oil                          3. (a) Change engine oil and filter.
+                                                                             (b) Run engine to operating tem-
+                                                                             perature.
+                                                                             (c) Change engine oil and filter
+                                                                             again.
+                                       4. Low oil pressure.                  4. Check and correct engine oil
+                                                                             level.
+                                       5. Dirt in tappets/lash adjusters.    5. Replace rocker arm/hydraulic
+                                                                             lash adjuster assembly.
+                                       6. Worn rocker arms.                  6. Inspect oil supply to rocker
+                                                                             arms.
+                                       7. Worn tappets/lash adjusters.       7. Install new rocker arm/hydraulic
+                                                                             lash adjuster assembly.
+                                       8. Worn valve guides.                 8. Replace cylinder head assembly.
+                                       9. Excessive runout of valve seats    9. Grind valve seats and valves.
+                                       on valve faces.
+                                       10. Missing adjuster pivot.           10. Replace rocker arm/hydraulic
+                                                                             lash adjuster assembly.
+

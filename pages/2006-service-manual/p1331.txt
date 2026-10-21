@@ -1,0 +1,62 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 141
+
+  • Drive (D)                                               (7) Verify positive engagement of transmission
+  • Manual Second (2)                                     park lock by attempting to rotate propeller shaft.
+  • Manual Low (1)                                        Shaft will not rotate when park lock is engaged.
+                                                            (8) Snap cable eyelet onto transmission shift lever.
+OPERATION                                                   (9) Lower vehicle
+  Manual low (1) range provides first gear only. Over       (10) Tighten the shift cable adjustment screw to 12
+run braking is also provided in this range. Manual        N·m (105 in.lbs.).
+second (2) range provides first and second gear only.       (11) Verify correct operation.
+Drive range provides first, second, and third gear          (12) Install any floor console components removed
+ranges.                                                   for access. (Refer to 23 - BODY/INTERIOR/FLOOR
+                                                          CONSOLE - INSTALLATION)
+DIAGNOSIS AND TESTING - SHIFT MECHA-
+NISM                                                      SOLENOID
+  (1) The floor shifter lever and gate positions
+should be in alignment with all transmission PARK,
+NEUTRAL, and gear detent positions.
+                                                          DESCRIPTION
+  (2) Engine starts must be possible with floor shift        The typical electrical solenoid used in automotive
+lever in PARK or NEUTRAL gate positions only.             applications is a linear actuator. It is a device that
+Engine starts must not be possible in any other gear      produces motion in a straight line. This straight line
+position.                                                 motion can be either forward or backward in direc-
+  (3) With floor shift lever handle push-button not       tion, and short or long distance.
+depressed and lever in:                                      A solenoid is an electromechanical device that uses
+    (a) PARK position - Apply forward force on cen-       a magnetic force to perform work. It consists of a coil
+  ter of handle and remove pressure. Engine starts        of wire, wrapped around a magnetic core made from
+  must be possible.                                       steel or iron, and a spring loaded, movable plunger,
+    (b) PARK position - Apply rearward force on cen-      which performs the work, or straight line motion.
+  ter of handle and remove pressure. Engine starts
+  must be possible.
+    (c) NEUTRAL position - Normal position. Engine
+  starts must be possible.
+    (d) NEUTRAL position - Engine running and
+  brakes applied, apply forward force on center of
+  shift handle. Transmission shall not be able to shift
+  from NEUTRAL to REVERSE.
+
+ADJUSTMENTS - SHIFT MECHANISM
+  Check adjustment by starting the engine in PARK
+and NEUTRAL. Adjustment is CORRECT if the
+engine starts only in these positions. Adjustment is
+INCORRECT if the engine starts in one but not both
+positions. If the engine starts in any position other
+than PARK or NEUTRAL, or if the engine will not                Fig. 236 2/4 - Low Reverse and Underdrive
+start at all, the TRS may be faulty.                                            Solenoids
+                                                          1 - MANUAL VALVE
+Gearshift Adjustment Procedure                            2 - LINE PRESSURE
+  (1) Shift transmission into PARK.                       3 - 2/4 - LOW REVERSE SOLENOID ENERGIZED
+  (2) Remove floor console as necessary for access to     4 - UNDERDRIVE SOLENOID DE-ENERGIZED
+                                                          5 - UNDERDRIVE CLUTCH
+the shift cable adjustment. (Refer to 23 - BODY/IN-
+TERIOR/FLOOR CONSOLE - REMOVAL)                             The solenoids used in transmission applications
+  (3) Loosen the shift cable adjustment nut.              are attached to valves which can be classified as nor-
+  (4) Raise vehicle.                                      mally open (Fig. 236) or normally closed (Fig.
+  (5) Unsnap cable eyelet from transmission shift         237). The normally open solenoid valve is defined
+lever.                                                    as a valve which allows hydraulic flow when no cur-
+  (6) Verify transmission shift lever is in PARK          rent or voltage is applied to the solenoid. The nor-
+detent by moving lever fully rearward. Last rearward      mally closed solenoid valve is defined as a valve
+detent is PARK position.                                  which does not allow hydraulic flow when no current
+                                                          or voltage is applied to the solenoid. These valves
+

@@ -1,0 +1,60 @@
+TJ                                                                                             ENGINE      7 - 43
+
+                                                            (3) Inspect fan assembly for cracks, bends, loose
+                                                          rivets or broken welds. Replace fan if any damage is
+                                                          found.
+
+
+                                                          INSTALLATION
+                                                          2.4L
+                                                            (1) Position the cooling fan assembly.
+                                                            (2) Install four mounting screws. Tighten to 5.5
+                                                          N·m (50 in. lbs.)
+                                                            (3) Connect the electrical connector.
+                                                            (4) Install the power steering reservoir.
+                                                            (5) Install the coolant recovery bottle.
+
+                                                          4.0L
+                                                            (1) Position the fan blade on the thermal viscous
+                                                          fan drive.
+                                                            (2) Install four mounting bolts. Tighten to 23 N·M
+                                                          (210 in. lbs.).
+                                                            (3) Install the thermal viscous fan drive (Refer to 7
+                                                          -   COOLING/ENGINE/FAN           DRIVE       VISCOUS
+            Fig. 37 Electrical Connector
+                                                          CLUTCH - INSTALLATION).
+1 - ELECTRICAL CONNECTOR
+2 - MOUNTING SCREW
+
+4.0L                                                      RADIATOR FAN RELAY
+  (1) Remove the thermal viscous fan drive/fan blade
+assembly (Refer to 7 - COOLING/ENGINE/FAN                 DESCRIPTION
+DRIVE VISCOUS CLUTCH - REMOVAL).                            The electric cooling fan HI and LOW relays are
+  (2) Remove the four fan retaining bolts.                located in the Power Distribution Center (PDC) in
+  (3) Separate the fan blade from the thermal vis-        the engine compartment. See the fuse and relay lay-
+cous fan drive.                                           out label affixed to the inside surface of the PDC
+                                                          cover for cooling fan relay identification and location.
+CLEANING                                                    The HI and LOW cooling fan relays cannot be
+ Clean the fan blades using a mild soap and water.        adjusted or repaired. If the HI or LOW relay is dam-
+Do not use an abrasive to clean the blades.               aged or faulty, it must be replaced.
+
+INSPECTION
+WARNING: Do not attempt to bend or straighten fan
+blades if fan is not within specifications.
+
+
+CAUTION: If fan blade assembly is replaced
+because of mechanical damage, water pump and
+viscous fan drive should also be inspected. These
+components could have been damaged due to
+excessive vibration.
+
+   (1) Remove fan blade assembly from viscous fan
+drive unit (four bolts).
+   (2) Lay fan on a flat surface with leading edge fac-
+ing down. With tip of blade touching flat surface,
+replace fan if clearance between opposite blade and
+surface is greater than 2.0 mm (.090 inch). Rocking
+motion of opposite blades should not exceed 2.0 mm
+(.090 inch). Test all blades in this manner.
+

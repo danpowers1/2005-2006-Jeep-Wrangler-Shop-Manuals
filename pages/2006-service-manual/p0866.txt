@@ -1,0 +1,36 @@
+8W - 80 - 26   8W-80 CONNECTOR PIN-OUTS                                                  TJ
+
+
+                                      DRIVER DOOR AJAR SWITCH - NATURAL 3 WAY
+                CAV                 CIRCUIT                                 FUNCTION
+                 1    M23 20YL/DG                        DOOR AJAR SWITCH OUTPUT
+                 2    -                                  -
+                 3    G75 20VT                           DRIVER DOOR AJAR SWITCH SENSE
+
+
+
+
+                                 ENGINE COOLANT TEMPERATURE SENSOR - BLACK 2 WAY
+                CAV                 CIRCUIT                                 FUNCTION
+                 1    K900 20DB/DG (2.4L)                SENSOR GROUND
+                 1    K2 18VT/OR (4.0L)                  ECT SIGNAL
+                 2    K2 20VT/OR (2.4L)                  ECT SIGNAL
+                 2    K900 20DB/DG (4.0L)                SENSOR GROUND
+
+
+
+
+                                      ENGINE OIL PRESSURE SWITCH - BLACK 2 WAY
+                CAV                 CIRCUIT                                 FUNCTION
+                 1    G6 20VT/GY (2.4L)                  OIL PRESSURE SIGNAL
+                 1    G6 18VT/GY (4.0L)                  OIL PRESSURE SIGNAL
+                 2    -                                  -
+
+
+
+
+                                              EVAP/PURGE SOLENOID - 2 WAY
+                CAV                 CIRCUIT                                 FUNCTION
+                 1    K70 20DB/BR                        EVAP/PURGE SOL SIGNAL
+                 2    K52 20DB/WT                        EVAP/PURGE SOL CONTROL
+

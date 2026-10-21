@@ -1,0 +1,62 @@
+8P - 6     SPEED CONTROL                                                                                        TJ
+
+speed, depress the SET switch while the vehicle is          cuit). Now, if a resistor is added to a switch, then the
+moving at a speed between approximately 35 and 85           PCM will measure some voltage proportional to the
+mph. In order for the speed control to engage, the          size of the resistor. By adding a different resistor to
+brakes cannot be applied, nor can the gear selector         each switch, the PCM will see a different voltage
+be indicating the transmission is in Park or Neutral.       depending on which switch is pushed.
+  The speed control can be disengaged manually by:            Another resistor has been added to the ’at rest cir-
+  • Stepping on the brake pedal                             cuit’ causing the PCM to never see 5 volts. This was
+  • Depressing the OFF switch                               done for diagnostic purposes. If the switch circuit
+  • Depressing the CANCEL switch.                           should open (bad connection), then the PCM will see
+  The speed control can be disengaged also by any of        the 5 volts and know the circuit is bad. The PCM will
+the following conditions:                                   then set an open circuit fault.
+  • An indication of Park or Neutral
+  • The VSS signal increases at a rate of 10 mph            REMOVAL
+per second (indicates that the co-efficient of friction
+between the road surface and tires is extremely low)        WARNING: BEFORE ATTEMPTING TO DIAGNOSE,
+  • Depressing the clutch pedal.                            REMOVE OR INSTALL ANY AIRBAG SYSTEM OR
+  • Excessive engine rpm (indicates that the trans-         RELATED STEERING WHEEL AND STEERING COL-
+mission may be in a low gear)                               UMN COMPONENTS, YOU MUST FIRST DISCON-
+  • The VSS signal decreases at a rate of 10 mph            NECT AND ISOLATE THE BATTERY NEGATIVE
+per second (indicates that the vehicle may have             (GROUND) CABLE. WAIT 2 MINUTES FOR SYSTEM
+decelerated at an extremely high rate)                      CAPACITOR TO DISCHARGE BEFORE FURTHER
+  • If the actual speed is not within 20 mph of the         SYSTEM SERVICE. FAILURE TO DO SO COULD
+set speed                                                   RESULT IN ACCIDENTAL DEPLOYMENT AND POS-
+  The previous disengagement conditions are pro-            SIBLE PERSONAL INJURY.
+grammed for added safety.
+  Once the speed control has been disengaged,                 (1) Disconnect and isolate negative battery cable
+depressing the ACCEL switch restores the vehicle to         from battery.
+the target speed that was stored in the PCM’s RAM.            (2) Remove airbag module. Refer to 8, Passive
+                                                            Restraint Systems.
+NOTE: Depressing the OFF switch will erase the set            (3) From underside of steering wheel, remove
+speed stored in the PCM’s RAM.                              speed control switch mounting screw (Fig. 5).
+                                                              (4) Remove switch from steering wheel and unplug
+  If, while the speed control is engaged, the driver        electrical connector.
+wishes to increase vehicle speed, the PCM is pro-
+grammed for an acceleration feature. With the
+ACCEL switch held closed, the vehicle accelerates
+slowly to the desired speed. The new target speed is
+stored in the PCM’s RAM when the ACCEL switch is
+released. The PCM also has a “tap-up” feature in
+which vehicle speed increases at a rate of approxi-
+mately 2 mph for each momentary switch activation
+of the ACCEL switch.
+  The PCM also provides a means to decelerate with-
+out disengaging speed control. To decelerate from an
+existing recorded target speed, depress and hold the
+COAST switch until the desired speed is reached.
+Then release the switch. The ON, OFF switch oper-
+ates two components: the PCM’s ON, OFF input, and
+the battery voltage to the brake switch, which powers
+the speed control servo.
+
+Multiplexing
+  The PCM sends out 5 volts through a fixed resistor
+and monitors the voltage change between the fixed
+resistor and the switches. If none of the switches are        Fig. 5 Speed Control Switches - Remove / Install
+depressed, the PCM will measure 5 volts at the sen-
+                                                            1 - MOUNTING SCREW
+sor point (open circuit). If a switch with no resistor is   2 - SPEED CONTROL SWITCHES
+closed, the PCM will measure 0 volts (grounded cir-
+

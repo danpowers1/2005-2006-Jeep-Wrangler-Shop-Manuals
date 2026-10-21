@@ -1,0 +1,64 @@
+TJ                           8W-01 WIRING DIAGRAM INFORMATION                                     8W - 01 - 7
+
+ground and the red lead to the positive side of the        • Wire insulation that has rubbed through causing
+circuit.                                                 a short to ground
+                                                           • Some or all of the wiring strands broken inside
+CAUTION: Most of the electrical components used          of the insulation
+in today’s vehicles are Solid State. When checking
+voltages in these circuits, use a meter with a 10 -        • Wiring broken inside of the insulation
+megohm or greater impedance rating.
+                                                         TROUBLESHOOTING WIRING PROBLEMS
+  • Ohmmeter - Used to check the resistance                When troubleshooting wiring problems there are
+between two points of a circuit. Low or no resistance    six steps which can aid in the procedure. The steps
+in a circuit means good continuity.                      are listed and explained below. Always check for non-
+                                                         factory items added to the vehicle before doing any
+CAUTION: Most of the electrical components used          diagnosis. If the vehicle is equipped with these items,
+in today’s vehicles are Solid State. When checking       disconnect them to verify these add-on items are not
+resistance in these circuits use a meter with a 10 -     the cause of the problem.
+megohm or greater impedance rating. In addition,           (1) Verify the problem.
+make sure the power is disconnected from the cir-          (2) Verify any related symptoms. Do this by per-
+cuit. Circuits that are powered up by the vehicle’s      forming operational checks on components that are
+electrical system can cause damage to the equip-         in the same circuit. Refer to the wiring diagrams.
+ment and provide false readings.                           (3) Analyze the symptoms. Use the wiring dia-
+                                                         grams to determine what the circuit is doing, where
+                                                         the problem most likely is occurring and where the
+                                                         diagnosis will continue.
+                                                           (4) Isolate the problem area.
+                                                           (5) Repair the problem area.
+                                                           (6) Verify the proper operation. For this step,
+                                                         check for proper operation of all items on the
+                                                         repaired circuit. Refer to the wiring diagrams.
+
+
+               Fig. 4 PROBING TOOL                       STANDARD PROCEDURE
+1 - SPECIAL TOOL 6801
+2 - PROBING END                                          STANDARD PROCEDURE - ELECTROSTATIC
+                                                         DISCHARGE (ESD) SENSITIVE DEVICES
+  • Probing Tools - These tools are used for probing
+terminals in connectors. Select the proper size tool
+from Special Tool Package 6807, and insert the prob-
+ing end (2) into the terminal being tested. Use the
+other end of the tool (1) to insert the meter probe.
+
+INTERMITTENT AND POOR CONNECTIONS
+  Most intermittent electrical problems are caused
+by faulty electrical connections or wiring. It is also
+possible for a sticking component or relay to cause a
+problem. Before condemning a component or wiring            Fig. 5 ELECTROSTATIC DISCHARGE SYMBOL
+assembly, check the following items.
+                                                           All ESD sensitive components are solid state and a
+  • Connectors are fully seated                          symbol is used to indicate this. When handling any
+  • Spread terminals, or terminal push out               component with this symbol, comply with the follow-
+  • Terminals in the wiring assembly are fully           ing procedures to reduce the possibility of electro-
+seated into the connector/component and locked into      static charge build up on the body and inadvertent
+position                                                 discharge into the component. If it is not known
+                                                         whether the part is ESD sensitive, assume that it is.
+  • Dirt or corrosion on the terminals. Any amount
+                                                           (1) Always touch a known good ground before han-
+of corrosion or dirt could cause an intermittent prob-
+                                                         dling the part. This should be repeated while han-
+lem
+                                                         dling the part and more frequently after sliding
+  • Damaged connector/component casing exposing          across a seat, sitting down from a standing position,
+the item to dirt or moisture                             or walking a distance.
+

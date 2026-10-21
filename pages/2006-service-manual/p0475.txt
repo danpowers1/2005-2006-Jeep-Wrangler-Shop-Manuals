@@ -1,0 +1,61 @@
+TJ                                                                         INSTRUMENT CLUSTER            8J - 7
+
+ignition switch in the Off or Accessory positions, the   tronic circuit board. The antilock brake system indi-
+odometer display is activated when either door is        cator, headlamp high beam indicator, fog lamp
+opened (Rental Car mode) and is deactivated after        indicator, and turn signal indicators operate based
+both doors are closed. If a door is left open with the   upon hard wired inputs to the EMIC. The brake indi-
+ignition switch in any position except On or Start,      cator is controlled by the EMIC programming and
+the VFD will remain illuminated until the interior       hard wired park brake and brake warning indicator
+lights control battery saver (load shedding) timer       switch inputs to the EMIC. In vehicles without the
+expires after about twenty minutes. Otherwise, the       optional off-road package the four-wheel drive indica-
+display unit is active when the ignition switch is in    tor is controlled by a hard wired input from the
+the On or Start positions, and inactive when the igni-   transfer case switch, while in vehicles equipped with
+tion switch is in the Off or Accessory positions.        the off-road package this indicator is controlled by
+   The illumination intensity of the VFD unit is con-    PCI data bus messages from the Powertrain Control
+trolled by the EMIC circuitry based upon an input        Module (PCM). The rear and front lock indicators are
+from the headlamp switch circuitry and a dimming         controlled by the EMIC programming and hard wired
+level input received from the panel lamp dimmer          inputs from the axle locker switch and the rear/front
+switch circuitry. The EMIC synchronizes the illumi-      locker indicator switches. The seatbelt indicator is
+nation intensity of other VFD units with that of the     controlled by the EMIC programming and a hard
+unit in the EMIC by sending electronic dimming           wired seat belt switch input to the EMIC. The Mal-
+level messages to other electronic modules in the        function Indicator Lamp (MIL) is normally controlled
+vehicle over the PCI data bus.                           by PCI data bus messages from the PCM; however, if
+   The EMIC VFD unit has several display capabili-       the EMIC loses PCI data bus communications, the
+ties including odometer, trip odometer, software ver-    EMIC circuitry will automatically turn the MIL on
+sion, and can display various diagnostic information     and display the message “no BuS” in the odometer
+when certain fault conditions exist. An odometer/trip    VFD unit until PCI data bus communication is
+odometer switch on the EMIC circuit board is used to     restored. The EMIC uses PCI data bus messages
+control some of the display modes. This switch is        from the PCM, Airbag Control Module (ACM), and
+actuated manually by depressing the odometer/trip        the Sentry Key Immobilizer Module (SKIM) to con-
+odometer switch button that extends through the          trol all of the remaining indicators.
+lower edge of the cluster lens, just right of center.      The various EMIC indicators are controlled by dif-
+Actuating this switch momentarily with the ignition      ferent strategies; some receive fused ignition switch
+switch in the On position will toggle the VFD            output from the EMIC circuitry and have a switched
+between the odometer and trip odometer modes.            ground, others are grounded through the EMIC cir-
+Depressing the switch button for about two seconds       cuitry and have a switched battery feed. However, all
+while the VFD is in the trip odometer mode will          indicators except those for the antilock brake system,
+reset the trip odometer value to zero. Holding this      turn signals, and fog lamps are completely controlled
+switch depressed while turning the ignition switch       by the EMIC microprocessor based upon various hard
+from the Off position to the On position will initiate   wired and electronic message inputs. The cruise,
+the EMIC self-diagnostic actuator test. Refer to the     four-wheel drive and both axle lock indicators are
+appropriate diagnostic information for additional        one-step dimmable based upon an input to the EMIC
+details on this VFD function. The EMIC microproces-      from the headlamp switch circuitry. When the exte-
+sor remembers which display mode is active when          rior lamps are off, these indicators are illuminated at
+the ignition switch is turned to the Off position, and   a fixed maximum intensity; and, when the exterior
+returns the VFD display to that mode when the igni-      lamps are on, these indicators are dimmed by the
+tion switch is turned On again.                          EMIC to a fixed lower intensity. All remaining indi-
+   The VFD is diagnosed using the EMIC self-diag-        cators are illuminated at a fixed intensity, which is
+nostic actuator test. (Refer to 8 - ELECTRICAL/IN-       not affected by the status of the exterior lighting or
+STRUMENT CLUSTER - DIAGNOSIS AND                         the selected illumination intensity of the EMIC gen-
+TESTING). Proper testing of the PCI data bus and         eral illumination lamps.
+the electronic data bus message inputs to the EMIC         In addition, certain indicators in this instrument
+that control some of the VFD functions requires the      cluster are automatically configured or self-config-
+use of a DRBIIIt scan tool. Refer to the appropriate     ured. This feature allows the configurable indicators
+diagnostic information. Specific operation details for   to be enabled by the EMIC circuitry for compatibility
+the odometer and trip odometer functions of the VFD      with certain optional equipment. The airbag indica-
+may be found elsewhere in this service information.      tor, cruise indicator, and the Sentry Key Immobilizer
+                                                         System (SKIS) indicator are automatically config-
+INDICATORS                                               ured. The automatically configured or self-configured
+  Indicators are located in various positions within     indicators remain latent in each EMIC at all times
+the EMIC and are all connected to the EMIC elec-         and will be active only when the EMIC receives the
+

@@ -1,0 +1,61 @@
+25 - 2    EMISSIONS CONTROL                                                                                  TJ
+
+HIGH to LOW or LOW to HIGH, assume the entire            the diagnostic systems are operating properly. The
+switch circuit to the PCM functions properly. Connect    software designed to carry out these responsibilities
+the DRB scan tool to the data link connector and         is referred to as the ’Task Manager’.
+access the state display screen. Then access either
+State Display Inputs and Outputs or State Display        MONITORED SYSTEMS
+Sensors.                                                    There are new electronic circuit monitors that
+                                                         check fuel, emission, engine and ignition perfor-
+CIRCUIT ACTUATION TEST MODE                              mance. These monitors use information from various
+   The Circuit Actuation Test Mode checks for proper     sensor circuits to indicate the overall operation of the
+operation of output circuits or devices the Powertrain   fuel, engine, ignition and emission systems and thus
+Control Module (PCM) may not internally recognize.       the emissions performance of the vehicle.
+The PCM attempts to activate these outputs and              The fuel, engine, ignition and emission systems
+allow an observer to verify proper operation. Most of    monitors do not indicate a specific component prob-
+the tests provide an audible or visual indication of     lem. They do indicate that there is an implied prob-
+device operation (click of relay contacts, fuel spray,   lem within one of the systems and that a specific
+etc.). Except for intermittent conditions, if a device   problem must be diagnosed.
+functions properly during testing, assume the device,       If any of these monitors detect a problem affecting
+its associated wiring, and driver circuit work cor-      vehicle emissions, the Malfunction Indicator Lamp
+rectly. Connect the DRB scan tool to the data link       (MIL) will be illuminated. These monitors generate
+connector and access the Actuators screen.               Diagnostic Trouble Codes that can be displayed with
+                                                         the MIL or a scan tool.
+DIAGNOSTIC TROUBLE CODES                                    The following is a list of the system monitors:
+   A Diagnostic Trouble Code (DTC) indicates the            • Misfire Monitor
+PCM has recognized an abnormal condition in the             • Fuel System Monitor
+system.                                                     • Oxygen Sensor Monitor
+   Remember that DTC’s are the results of a sys-            • Oxygen Sensor Heater Monitor
+tem or circuit failure, but do not directly iden-           • Catalyst Monitor
+tify the failed component or components.                    • Leak Detection Pump Monitor (if equipped)
+                                                            All these system monitors require two consecutive
+BULB CHECK                                               trips with the malfunction present to set a fault.
+  Each time the ignition key is turned to the ON            Refer to the appropriate Powertrain Diagnos-
+position, the malfunction indicator (check engine)       tics Procedures manual for diagnostic proce-
+lamp on the instrument panel should illuminate for       dures.
+approximately 2 seconds then go out. This is done for       The following is an operation and description of
+a bulb check.                                            each system monitor:
+
+OBTAINING DTC’S                                          OXYGEN SENSOR (O2S) MONITOR
+   (1) Obtain the applicable Powertrain Diagnostic          Effective control of exhaust emissions is achieved
+Information.                                             by an oxygen feedback system. The most important
+   (2) Obtain the appropriate scan tool.                 element of the feedback system is the O2S. The O2S
+   (3) Connect the appropriate scan tool to the data     is located in the exhaust path. Once it reaches oper-
+link (diagnostic) connector. This connector is located   ating temperature 300° to 350°C (572° to 662°F), the
+in the passenger compartment; at the lower edge of       sensor generates a voltage that is inversely propor-
+instrument panel; near the steering column.              tional to the amount of oxygen in the exhaust. The
+   (4) Turn the ignition switch on and access the        information obtained by the sensor is used to calcu-
+“Read Fault” screen.                                     late the fuel injector pulse width. This maintains a
+   (5) Record all the DTC’s and “freeze frame” infor-    14.7 to 1 Air Fuel (A/F) ratio. At this mixture ratio,
+mation shown on the appropriate scan tool.               the catalyst works best to remove hydrocarbons (HC),
+   (6) To erase DTC’s, use the “Erase Trouble Code”      carbon monoxide (CO) and nitrogen oxide (NOx) from
+data screen on the appropriate scan tool. Do not         the exhaust.
+erase any DTC’s until problems have been                    The O2S is also the main sensing element for the
+investigated and repairs have been performed.            Catalyst and Fuel Monitors.
+                                                            The O2S can fail in any or all of the following
+TASK MANAGER                                             manners:
+  The PCM is responsible for efficiently coordinating       • slow response rate
+the operation of all the emissions-related compo-           • reduced output voltage
+nents. The PCM is also responsible for determining if       • dynamic shift
+                                                            • shorted or open circuits
+

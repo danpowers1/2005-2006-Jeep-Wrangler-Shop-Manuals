@@ -1,0 +1,68 @@
+TJ                                                                                    RESTRAINTS       8O - 25
+
+                                                         service after a supplemental restraint deployment
+                                                         before removing the airbag from the vehicle. (Refer to
+                                                         8 - ELECTRICAL/RESTRAINTS - STANDARD PRO-
+                                                         CEDURE - SERVICE AFTER A SUPPLEMENTAL
+                                                         RESTRAINT DEPLOYMENT).
+
+                                                         WARNING: TO AVOID PERSONAL INJURY OR
+                                                         DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                         DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                         TEM BEFORE ATTEMPTING ANY STEERING
+                                                         WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                         MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                         VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                         NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                         MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                         CHARGE BEFORE PERFORMING FURTHER DIAG-
+                                                         NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+                                                         TO DISABLE THE SUPPLEMENTAL RESTRAINT
+                                                         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                         BAG DEPLOYMENT.
+
+  Fig. 26 Driver Airbag Trim Cover Locking Blocks
+                      Engaged                            WARNING: TO AVOID PERSONAL INJURY OR
+1 - LIP
+                                                         DEATH, USE EXTREME CARE TO PREVENT ANY
+2 - TRIM COVER                                           FOREIGN MATERIAL FROM ENTERING THE DRIVER
+3 - HORN SWITCH                                          AIRBAG, OR BECOMING ENTRAPPED BETWEEN
+4 - AIRBAG HOUSING
+5 - LOCKING BLOCK
+                                                         THE DRIVER AIRBAG CUSHION AND THE DRIVER
+                                                         AIRBAG TRIM COVER. FAILURE TO OBSERVE THIS
+   (4) Reinstall the horn switch ground pigtail wire     WARNING COULD RESULT IN OCCUPANT INJURIES
+eyelet terminal over the upper right inflator stud on    UPON AIRBAG DEPLOYMENT.
+the back of the driver airbag housing.
+   (5) Reinstall the upper and lower airbag trim cover
+retainers over the inflator studs on the back of the     WARNING: TO AVOID PERSONAL INJURY OR
+driver airbag housing. Be certain that the tabs on       DEATH, THE DRIVER AIRBAG TRIM COVER MUST
+each retainer are engaged in the slots of the upper      NEVER BE PAINTED. REPLACEMENT AIRBAGS
+and lower trim cover locking blocks (Fig. 25).           ARE SERVICED WITH TRIM COVERS IN THE ORIG-
+   (6) Install and tighten the four nuts that secure     INAL COLORS. PAINT MAY CHANGE THE WAY IN
+the trim cover retainers to the inflator studs on the    WHICH THE MATERIAL OF THE TRIM COVER
+back of the driver airbag housing. Tighten the nuts      RESPONDS TO AN AIRBAG DEPLOYMENT. FAIL-
+to 7 N·m (60 in. lbs.).                                  URE TO OBSERVE THIS WARNING COULD RESULT
+   (7) Engage the horn switch feed pigtail wire con-     IN OCCUPANT INJURIES UPON AIRBAG DEPLOY-
+nector retainer in the mounting hole in the upper        MENT.
+trim cover retainer.
+                                                            (1) Position the driver airbag close enough to the
+   (8) Reinstall the driver airbag onto the steering
+                                                         steering wheel to reconnect the two electrical connec-
+wheel. (Refer to 8 - ELECTRICAL/RESTRAINTS/
+                                                         tions at the back of the airbag housing.
+DRIVER AIRBAG - INSTALLATION).
+                                                            (2) When installing the driver airbag, reconnect
+                                                         the clockspring driver airbag pigtail wire connector
+INSTALLATION                                             to the airbag inflator connector receptacle by press-
+  The following procedure is for replacement of a        ing straight in on the connector (Fig. 22). You can be
+faulty or damaged driver airbag. If the airbag is        certain that the connector is fully engaged in its
+faulty or damaged, but not deployed, review the rec-     receptacle by listening carefully for a distinct, audi-
+ommended procedures for handling non-deployed            ble click as the connector snaps into place.
+supplemental restraints. (Refer to 8 - ELECTRICAL/          (3) Reconnect the clockspring horn switch pigtail
+RESTRAINTS - STANDARD PROCEDURE - HAN-                   wire connector to the horn switch feed pigtail wire
+DLING       NON-DEPLOYED           SUPPLEMENTAL          connector located on the back of the driver airbag
+RESTRAINTS). If the driver airbag has been               housing.
+deployed, review the recommended procedures for
+

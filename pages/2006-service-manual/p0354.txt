@@ -1,0 +1,61 @@
+7 - 42    ENGINE                                                                                            TJ
+
+   Operate tester pump to bring pressure to 117 kPa        may cause severe damage to the electric cooling
+(17 psi) on gauge. If pressure cap fails to hold pres-     fan assembly.
+sure of at least 110 kPa (16 psi) replace cap. Refer to
+the following CAUTION.
+   The pressure cap may test properly while posi-          REMOVAL
+tioned on tool 7700 (or equivalent). It may not hold
+pressure or vacuum when installed on radiator. If so,      2.4L
+inspect radiator filler neck and cap’s top gasket for        (1) Remove the coolant recovery bottle and position
+damage. Also inspect for dirt or distortion that may       out of the way (Fig. 36).
+prevent cap from sealing properly.
+
+CAUTION: Radiator pressure testing tools are very
+sensitive to small air leaks, which will not cause
+cooling system problems. A pressure cap that does
+not have a history of coolant loss should not be
+replaced just because it leaks slowly when tested
+with this tool. Add water to tool. Turn tool upside
+down and recheck pressure cap to confirm that cap
+needs replacement.
+
+
+CLEANING
+  Use only a mild soap and water to clean the radi-
+ator cap. Using any type solvent may cause damage
+to the seal in the radiator cap.
+
+INSPECTION
+   Hold cap at eye level, right side up. The vent valve
+(Fig. 34) at bottom of cap should open. If rubber gas-
+ket has swollen and prevents vent valve from open-
+ing, replace cap.
+   Hold cap at eye level, upside down. If any light can              Fig. 36 Coolant Recovery Bottle
+be seen between vent valve and rubber gasket,              1 - COOLANT RECOVERY BOTTLE
+replace cap. Do not use a replacement cap that             2 - COOLING FAN ASSEMBLY
+                                                           2 - POWER STEERING RESERVOIR
+has a spring to hold vent shut. A replacement cap
+must be the type designed for a coolant reserve/over-        (2) Remove and position the power steering reser-
+flow system with a completely sealed diaphragm             voir out of the way.
+spring and a rubber gasket. This gasket is used to           (3) Disconnect the electrical connector.
+seal to radiator filler neck top surface. Use of proper      (4) Remove the mounting screws.
+cap will allow coolant return to radiator.                   (5) Remove the cooling fan assembly (Fig. 37).
+
+
+RADIATOR FAN
+DESCRIPTION
+  The electric cooling fan replaces the engine driven
+mechanical fan. The electric cooling fan is integral to
+the fan shroud and is located between the radiator
+and the engine.
+  The electric fan is controlled by the electronic con-
+trol module (ECM).
+  The electric cooling fan is not serviceable. Any fail-
+ure of the fan blade, electric motor or fan shroud
+requires replacement of the fan module.
+
+CAUTION: Do not attempt to service the electric
+cooling fan or fan blades separately, replace the
+cooling module as an assembly. Failure to do so
+

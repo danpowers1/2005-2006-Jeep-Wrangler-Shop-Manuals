@@ -1,0 +1,64 @@
+8R - 18    FRONT WIPERS/WASHERS                                                                           TJ
+
+transmission components. The park switch alter-           (7) Remove the front wiper module from the cowl
+nately closes the wiper park switch sense circuit to    plenum panel as a unit.
+ground or to battery current, depending upon the
+position of the wipers on the glass. This feature       DISASSEMBLY
+allows the motor to complete its current wipe cycle       The front wiper motor and its rubber boot are
+after the wiper system has been turned Off, and to      available for service replacement. Following are the
+park the wiper blades in the lowest portion of the      procedures for disassembling these components from
+wipe pattern. The automatic resetting circuit breaker   the front wiper module unit.
+protects the motor from overloads. The wiper motor        (1) Remove the front wiper module from the cowl
+crank arm, the two wiper linkage members, and the       plenum. (Refer to 8 - ELECTRICAL/FRONT WIP-
+two wiper pivots mechanically convert the rotary out-   ERS/WASHERS/FRONT           WIPER      MODULE      -
+put of the wiper motor to the back and forth wiping     REMOVAL).
+motion of the wiper arms and blades on the glass.         (2) Release the retainer that secures the wiper
+                                                        motor pigtail wire connector to the front wiper mod-
+REMOVAL                                                 ule bracket.
+  (1) Remove the front wiper arms from the wiper          (3) Turn the front wiper module over and remove
+pivots. (Refer to 8 - ELECTRICAL/FRONT WIPERS/          the nut that secures the wiper motor crank arm to
+WASHERS/FRONT WIPER ARM - REMOVAL).                     the wiper motor output shaft.
+  (2) Unlatch, open and support the hood.                 (4) Remove the three screws that secure the wiper
+  (3) Disconnect and isolate the battery negative       motor to the front wiper module mounting bracket.
+cable.                                                    (5) Remove the wiper motor from the front wiper
+  (4) Remove the cowl plenum cover/grille panel         module bracket.
+from over the cowl plenum. (Refer to 23 - BODY/EX-
+TERIOR/COWL          GRILLE   AND      SCREEN      -    ASSEMBLY
+REMOVAL).                                                 The front wiper motor and its rubber boot are
+  (5) Disconnect the body wire harness connector for    available for service replacement. Following are the
+the front wiper motor from the motor pigtail wire       procedures for reassembling these components onto
+connector (Fig. 18).                                    the front wiper module unit.
+                                                          (1) Position the wiper motor onto the front wiper
+                                                        module bracket.
+                                                          (2) Install and tighten the three screws that secure
+                                                        the wiper motor to the front wiper module bracket.
+                                                        Tighten the screws to 8 N·m (70 in. lbs.).
+                                                          (3) Position the wiper motor crank arm onto the
+                                                        front wiper motor output shaft.
+                                                          (4) Install and tighten the nut that secures the
+                                                        wiper motor crank arm to the front wiper motor out-
+                                                        put shaft. Tighten the nut to 12 N·m (101 in. lbs.).
+                                                          (5) Engage the wiper motor pigtail wire connector
+                                                        retainer in the locating hole on the front wiper mod-
+                                                        ule bracket.
+                                                          (6) Reinstall the front wiper module into the cowl
+                                                        plenum. (Refer to 8 - ELECTRICAL/FRONT WIP-
+                                                        ERS/WASHERS/FRONT            WIPER      MODULE       -
+                                                        INSTALLATION).
+
+                                                        INSTALLATION
+                                                          (1) Position the front wiper module into the cowl
+                                                        plenum as a unit (Fig. 18).
+                                                          (2) Install and tighten the three screws that secure
+     Fig. 18 Front Wiper Module Remove/Install
+                                                        the front wiper module mounting bracket to the cowl
+1 - SCREW (3)                                           plenum panel. Tighten the screws to 12 N·m (105 in.
+2 - MODULE BRACKET
+3 - WIRE HARNESS CONNECTOR                              lbs.).
+4 - WIPER MOTOR                                           (3) Reconnect the body wire harness connector for
+                                                        the front wiper motor to the motor pigtail wire con-
+  (6) Remove the three screws that secure the front
+                                                        nector.
+wiper module mounting bracket to the cowl plenum
+panel.
+

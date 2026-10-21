@@ -1,0 +1,48 @@
+3 - 62      FRONT AXLE - 216FBI                                                                         TJ
+
+
+
+
+             Fig. 9 PINION PRELOAD SHIMS
+1 - PRELOAD SHIMS
+2 - FRONT BEARING CUP
+3 - SLINGER
+4 - PINION YOKE
+5 - WASHER
+6 - PINION NUT
+7 - PINION OIL SEAL
+8 - FRONT PINION BEARING
+
+   If a new gear set is being installed, note the depth
+variance etched into both the original and replace-
+ment pinion. Add or subtract this number from the
+thickness of the original depth shim/oil slinger to
+compensate for the difference in the depth variances.
+Refer to the Depth Variance chart.
+   Note where Old and New Pinion Marking columns
+intersect. Intersecting figure represents plus or
+minus the amount needed.
+   Note the etched number on the face of the pinion
+gear head (–1, –2, 0, +1, +2, etc.). The numbers rep-
+resent thousands of an inch deviation from the stan-
+dard. If the number is negative, add that value to the
+required thickness of the depth shims. If the number
+is positive, subtract that value from the thickness of
+the depth shim. If the number is 0 no change is nec-
+essary.
+
+
+
+                                     PINION GEAR DEPTH VARIANCE
+
+ Original
+  Pinion                            Replacement Pinion Gear Depth Variance
+  Gear
+  Depth        24       23        22         21           0    +1       +2       +3       +4
+ Variance
+         +4           +0.008    +0.007     +0.006    +0.005   +0.004   +0.003   +0.002   +0.001     0
+         +3           +0.007    +0.006     +0.005    +0.004   +0.003   +0.002   +0.001     0      20.001
+         +2           +0.006    +0.005     +0.004    +0.003   +0.002   +0.001     0      20.001   20.002
+         +1           +0.005    +0.004     +0.003    +0.002   +0.001     0      20.001   20.002   20.003
+         0            +0.004    +0.003     +0.002    +0.001     0      20.001   20.002   20.003   20.004
+

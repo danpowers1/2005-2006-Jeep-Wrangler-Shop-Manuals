@@ -1,0 +1,39 @@
+TJ                                                                                    CONTROLS        24 - 27
+
+
+
+
+   Fig. 25 Blower Motor Relay - LHD shown, RHD
+                      similar
+1 - AIR INTAKE
+2 - RECIRCULATION DOOR LINKAGE                                     Fig. 26 Blower Motor Resistor
+3 - RECIRCULATION DOOR ACTUATOR
+4 - BLOWER MOTOR RELAY                                  1 - MOUNTING PLATE
+5 - HVAC ELECTRICAL CONNECTOR                           2 - WIRE HARNESS CONNECTOR
+6 - HVAC VACUUM CONNECTOR                               3 - RESISTOR CIRCUIT BOARD
+7 - HVAC HOUSING
+                                                        OPERATION
+INSTALLATION                                              The blower motor resistor is connected to the vehi-
+  (1) Align the blower motor relay terminals with       cle electrical system through a dedicated wire lead
+the terminal cavities in the wire harness connector.    and connector of the HVAC wire harness. The blower
+  (2) Push down firmly on the blower motor relay        motor resistor has multiple resistor circuits, each of
+until the terminals are fully seated in the connector   which will reduce the current flow through the
+receptacles.                                            blower motor to change the blower motor speed.
+  (3) Install the glove box (Refer to 23 - BODY/IN-       The blower motor switch in the MTC heating-A/C
+STRUMENT PANEL/GLOVE BOX - INSTALLA-                    system directs the ground path for the blower motor
+TION).                                                  through the correct resistor circuit to obtain the
+  (4) Reconnect the negative battery cable.             selected speed. With the blower motor control in the
+                                                        lowest speed position, the ground path for the blower
+                                                        motor is applied through all of the resistor circuits.
+BLOWER MOTOR RESISTOR                                   Each higher speed selected with the blower motor
+                                                        control applies the blower motor ground path
+DESCRIPTION                                             through fewer of the resistor circuits, increasing the
+   The blower motor resistor (Fig. 26) is mounted to    blower motor speed. When the blower motor control
+the rear of the HVAC housing, near the glove box.       is in the highest speed position, the blower motor
+The blower motor resistor consists of a molded plas-    resistor is bypassed and the blower motor receives a
+tic mounting plate with an integral wire connector      direct path to ground.
+receptacle. Concealed behind the mounting plate is        The blower motor resistor cannot be adjusted or
+the resistor circuit board.                             repaired and, if faulty or damaged, it must be
+   The blower motor resistor can be accessed for ser-   replaced.
+vice from under the instrument panel.
+

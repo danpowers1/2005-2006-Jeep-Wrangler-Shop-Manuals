@@ -1,0 +1,48 @@
+8I - 6     IGNITION CONTROL                                                                              TJ
+
+
+
+
+         Fig. 4 Power Distribution Center (PDC)
+1 - BATTERY
+2 - POWER DISTRIBUTION CENTER (PDC)
+                                                                    Fig. 5 CMP LOCATION - 2.4L
+   (1) Remove PDC cover.
+   (2) Remove relay from PDC.                            1 - CMP SENSOR
+                                                         2 - ELECTRICAL CONNECTOR
+   (3) Check condition of relay terminals and PDC        3 - SLOTTED HOLES
+connector terminals for damage or corrosion. Repair      4 - MOUNTING BOLTS (2)
+if necessary before installing relay.
+   (4) Check for pin height (pin height should be the    4.0L
+same for all terminals within the PDC connector).          The CMP (Camshaft Position Sensor) sensor (2)
+Repair if necessary before installing relay.             (Fig. 6) is bolted to the side of the oil pump drive
+                                                         assembly (5). The assembly is located on the right
+INSTALLATION                                             side of the engine near the oil filter (Fig. 6).
+  The ASD relay is located in the Power Distribution
+Center (PDC) (Fig. 4). Refer to label on PDC cover
+for relay location.
+  (1) Install relay to PDC.
+  (2) Install cover to PDC.
+
+
+CAMSHAFT POSITION SEN-
+SOR
+
+DESCRIPTION
+2.4L
+  The Camshaft Position Sensor (CMP) on the 2.4L
+4–cylinder engine is bolted to the right-front side of
+the cylinder head (Fig. 5).
+
+
+
+
+                                                                   Fig. 6 4.0L CMP LOCATION (’05)
+                                                         1 - OIL PUMP DRIVE ASSEMBLY
+                                                         2 - CMP
+                                                         3 - CMP ELECTRICAL CONNECTOR
+                                                         4 - HOUSING HOLD DOWN BOLT
+                                                         5 - HOUSING
+                                                         6 - PLASTIC COVER
+                                                         7 - COVER SCREWS (2)
+

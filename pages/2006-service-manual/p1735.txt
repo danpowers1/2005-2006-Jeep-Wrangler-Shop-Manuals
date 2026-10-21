@@ -1,0 +1,40 @@
+TJ                                                                         EVAPORATIVE EMISSIONS          25 - 15
+
+
+
+
+                                           Fig. 10 TOP OF FUEL TANK
+1 - FUEL PUMP MODULE LOCKRING                              7 - SKID PLATE
+2 - FUEL SUPPLY LINE                                       8 - FUEL FILL FITTING
+3 - ELECTRICAL CONNECTOR                                   9 - FUEL VENT FITTING
+4 - VAPOR LINE
+5 - FUEL TANK MOUNTING STRAPS (2)
+6 - FUEL PUMP MODULE ASSEMBLY
+
+
+OPERATION                                                  the large diameter vent path to the EVAP canister.
+   The ORVR (On-Board Refueling Vapor Recovery)            At this point in the refueling process, fuel tank pres-
+system is used to remove excess fuel tank vapors.          sure increases, the check valve closes (preventing liq-
+This is done while the vehicle is being refueled.          uid fuel from spiting back at the operator), and fuel
+   Fuel flowing into the fuel filler tube (approx. 1”      then rises up the fuel filler tube to shut off the dis-
+I.D.) creates an aspiration effect drawing air into the    pensing nozzle.
+fuel fill tube. During refueling, the fuel tank is
+vented to the EVAP canister to capture escaping
+vapors. With air flowing into the filler tube, there are
+no fuel vapors escaping to the atmosphere. Once the
+refueling vapors are captured by the EVAP canister,
+the vehicle’s computer controlled purge system draws
+vapor out of the canister for the engine to burn. The
+vapor flow is metered by the purge solenoid so that
+there is no, or minimal impact on driveability or
+tailpipe emissions.
+   As fuel starts to flow through the fuel fill tube, it
+opens the normally closed check valve and enters the
+fuel tank. Vapor or air is expelled from the tank
+through the control valve and on to the vapor canis-
+ter. Vapor is absorbed in the EVAP canister until
+vapor flow in the lines stops. This stoppage occurs
+following fuel shut-off, or by having the fuel level in
+the tank rise high enough to close the control valve.
+This control valve contains a float that rises to seal
+

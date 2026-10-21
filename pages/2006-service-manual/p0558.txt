@@ -1,0 +1,61 @@
+8O - 4    RESTRAINTS                                                                                          TJ
+
+equipped with dual front airbags. (Refer to 8 - ELEC-     during the bulb test, it indicates that there is a prob-
+TRICAL/ELECTRONIC            CONTROL       MODULES/       lem in the supplemental restraint system electrical
+COMMUNICATION - DESCRIPTION).                             circuits. Such a problem may cause airbags not to
+   Hard wired circuitry connects the supplemental         deploy when required, or to deploy when not
+restraint system components to each other through         required.
+the electrical system of the vehicle. These hard wired       Deployment of the supplemental restraints
+circuits are integral to several wire harnesses, which    depends upon the angle and severity of an impact.
+are routed throughout the vehicle and retained by         Deployment is not based upon vehicle speed; rather,
+many different methods. These circuits may be con-        deployment is based upon the rate of deceleration as
+nected to each other, to the vehicle electrical system,   measured by the forces of gravity (G force) upon the
+and to the supplemental restraint system compo-           impact sensors. When an impact is severe enough,
+nents through the use of a combination of soldered        the microprocessor in the ACM signals the inflator of
+splices, splice block connectors, and many different      the appropriate airbag units to deploy their airbag
+types of wire harness terminal connectors and insu-       cushions. During a frontal vehicle impact, the knee
+lators. Refer to the appropriate wiring information.      blockers work in concert with properly fastened and
+The wiring information includes wiring diagrams,          adjusted seat belts to restrain both the driver and
+proper wire and connector repair procedures, further      the front seat passenger in the proper position for an
+details on wire harness routing and retention, as well    airbag deployment. The knee blockers also absorb
+as pin-out and location views for the various wire        and distribute the crash energy from the driver and
+harness connectors, splices and grounds.                  the front seat passenger to the structure of the
+                                                          instrument panel.
+OPERATION                                                    Typically, the vehicle occupants recall more about
+                                                          the events preceding and following a collision than
+ACTIVE RESTRAINTS                                         they do of an airbag deployment itself. This is
+  The primary passenger restraints in this or any         because the airbag deployment and deflation occur
+other vehicle are the standard equipment factory-in-      very rapidly. In a typical 48 kilometer-per-hour (30
+stalled seat belts and child restraint anchors. Seat      mile-per-hour) barrier impact, from the moment of
+belts and child restraint anchors are referred to as      impact until the airbags are fully inflated takes
+an active restraint because the vehicle occupants are     about 40 milliseconds. Within one to two seconds
+required to physically fasten and properly adjust         from the moment of impact, the airbags are almost
+these restraints in order to benefit from them. See       entirely deflated. The times cited for these events are
+the owner’s manual in the vehicle glove box for more      approximations, which apply only to a barrier impact
+information on the features, use and operation of all     at the given speed. Actual times will vary somewhat,
+of the factory-installed active restraints.               depending upon the vehicle speed, impact angle,
+                                                          severity of the impact, and the type of collision.
+PASSIVE RESTRAINTS                                           When the ACM monitors a problem in any of the
+   The passive restraints are referred to as a supple-    supplemental restraint system circuits or compo-
+mental restraint system because they were designed        nents, it stores a fault code or Diagnostic Trouble
+and are intended to enhance the protection for the        Code (DTC) in its memory circuit and sends an elec-
+occupants of the vehicle only when used in conjunc-       tronic message to the EMIC to turn on the airbag
+tion with the seat belts. They are referred to as pas-    indicator. Proper testing of the supplemental
+sive restraints because the vehicle occupants are not     restraint system components, the Programmable
+required to do anything to make them operate; how-        Communication Interface (PCI) data bus, the elec-
+ever, the vehicle occupants must be wearing their         tronic message inputs to and outputs from the EMIC
+seat belts in order to obtain the maximum safety          or the ACM, as well as the retrieval or erasure of a
+benefit from the factory-installed supplemental           DTC from the ACM or EMIC requires the use of a
+restraint system.                                         DRBIIIt scan tool. Refer to the appropriate diagnos-
+   The supplemental restraint system electrical cir-      tic information.
+cuits are continuously monitored and controlled by a         See the owner’s manual in the vehicle glove box for
+microprocessor and software contained within the          more information on the features, use and operation
+Airbag Control Module (ACM). An airbag indicator in       of all of the factory-installed passive restraints.
+the ElectroMechanical Instrument Cluster (EMIC)
+illuminates for about seven seconds as a bulb test
+each time the ignition switch is turned to the On or
+Start positions. Following the bulb test, the airbag
+indicator is turned on or off by the ACM to indicate
+the status of the supplemental restraint system. If
+the airbag indicator comes on at any time other than
+

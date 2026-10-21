@@ -1,0 +1,61 @@
+9 - 114    ENGINE 4.0L                                                                                         TJ
+
+                                                             (9) Observe the leak-down time interval from the
+                                                          instant the pointer aligns with the START mark on
+                                                          the scale until the pointer aligns with the 0.125
+                                                          mark. A normally functioning tappet will require
+                                                          20-110 seconds to leak-down. Discard tappets with
+                                                          leak-down time interval not within this specifica-
+                                                          tion.
+
+
+
+
+  Fig. 56 HYDRAULIC VALVE TAPPET REMOVAL -
+                     4.0L
+1 - HYDRAULIC TAPPET REMOVAL TOOL
+2 - CYLINDER BLOCK
+
+CLEANING
+  Clean each tappet assembly in cleaning solvent to
+remove all varnish, gum and sludge deposits.
+
+INSPECTION
+   Inspect for indications of scuffing on the side and
+base of each tappet body.
+   Inspect each tappet base for concave wear with a                     Fig. 57 Leak-Down Tester
+straightedge positioned across the base. If the base is   1 - POINTER
+concave, the corresponding lobe on the camshaft is        2 - WEIGHTED ARM
+also worn. Replace the camshaft and tappets.              3 - RAM
+                                                          4 - CUP
+   After cleaning and inspection, test each tappet for    5 - HANDLE
+specified leak-down rate tolerance to ensure zero-lash    6 - PUSH ROD
+operation (Fig. 57).
+   Swing the weighted arm of the hydraulic valve tap-     INSTALLATION
+pet tester away from the ram of the Leak-Down                Retain all the components in the same order as
+Tester.                                                   removed.
+   (1) Place a 7.925-7.950 mm (0.312-0.313 inch)             It is not necessary to charge the tappets with
+diameter ball bearing on the plunger cap of the tap-      engine oil. They will charge themselves within a very
+pet.                                                      short period of engine operation.
+   (2) Lift the ram and position the tappet (with the        (1) Dip each tappet in Mopart Engine Oil Supple-
+ball bearing) inside the tester cup.                      ment, or equivalent.
+   (3) Lower the ram, then adjust the nose of the ram        (2) Use Hydraulic Valve Tappet Removal/Installa-
+until it contacts the ball bearing. DO NOT tighten        tion Tool to install each tappet in the same bore from
+the hex nut on the ram.                                   where it was originally removed.
+   (4) Fill the tester cup with hydraulic valve tappet       (3) Install the cylinder head (Refer to 9 - ENGINE/
+test oil until the tappet is completely submerged.        CYLINDER HEAD - INSTALLATION).
+   (5) Swing the weighted arm onto the push rod and          (4) Install the push rods in their original locations.
+pump the tappet plunger up and down to remove air.           (5) Install the rocker arms and bridge and pivot
+When the air bubbles cease, swing the weighted arm        assemblies at their original locations. Loosely install
+away and allow the plunger to rise to the normal          the capscrews at each bridge.
+position.                                                    (6) Tighten the capscrews alternately, one turn at
+   (6) Adjust the nose of the ram to align the pointer    a time, to avoid damaging the bridges. Tighten the
+with the SET mark on the scale of the tester and          capscrews to 28 N·m (21 ft. lbs.) torque.
+tighten the hex nut.                                         (7) Pour the remaining Mopart Engine Oil Supple-
+   (7) Slowly swing the weighted arm onto the push        ment, or equivalent over the entire valve actuating
+rod.                                                      assembly. The Mopart Engine Oil Supplement, or
+   (8) Rotate the cup by turning the handle at the        equivalent must remain with the engine oil for at
+base of the tester clockwise one revolution every 2       least 1 609 km (1,000 miles). The oil supplement
+seconds.                                                  need not be drained until the next scheduled oil
+                                                          change.
+

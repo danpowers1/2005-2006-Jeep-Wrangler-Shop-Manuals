@@ -1,0 +1,39 @@
+TJ                                                       AUTOMATIC TRANSMISSION - 42RLE            21 - 55
+
+CAUTION: Do not intermix clutch discs or plates as
+the unit might then fail.
+
+ (1) Remove the torque converter from the trans-
+mission input shaft (Fig. 17).
+
+
+
+
+                                                         Fig. 18 Measure Input Shaft End Play Using End
+         Fig. 17 Remove Torque Converter                             Play Set 8266 - Typical
+1 - TORQUE CONVERTER
+                                                       1 - TOOL 8266-8
+2 - TRANSMISSION
+                                                       2 - TOOL 8266-2
+3 - INPUT SHAFT
+                                                       3 - TOOL C-3339
+  (2) Measure input shaft end play using End Play      NOTE: The four bolts along the bottom of the
+Set 8266. Set up the required pieces from End Play     adapter housing have a sealing patch applied from
+Set 8266 and a dial indicator as shown in (Fig. 18).   the factory. Note the locations of these bolts and
+Move input shaft in and out to obtain end play read-   seperate these bolts for reuse.
+ing. End play specifications are 0.127 to 0.635 mm
+(0.005 to 0.025 inch). Record indicator reading for      (3) Remove the bolts (Fig. 19) that hold the
+reference when reassembling the transmission. If       adapter housing onto the transmission case.
+endplay exceeds the specified range, the #4 thrust       (4) Remove the adapter (Fig. 21) housing from the
+plate needs to be inspected and changed if neces-      transmission case. There are two pry slots (Fig. 20)
+sary.                                                  located near the bottom corners of the housing for
+                                                       separating the housing from the transmission case.
+
+
+
+
+                                                             Fig. 19 Remove Adapter Housing Bolts
+                                                       1 - TRANSMISSION CASE
+                                                       2 - ADAPTER HOUSING
+                                                       3 - BOLTS
+

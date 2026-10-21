@@ -1,0 +1,57 @@
+TJ                                                                                    CONTROLS       24 - 33
+
+   (1) Connect the vacuum harness to the recircula-      uum through the intake manifold during extended
+tion door actuator.                                      heavy engine load (low engine vacuum) operation.
+   (2) Engage the actuator rod to the push-pin type         The vacuum check valves cannot be repaired and,
+retainer located on the end of the recirculation door    if faulty or damaged, must be replaced.
+actuator lever.
+   (3) Rotate and tilt the recirculation door actuator   REMOVAL
+as required to install the actuator mount onto the
+HVAC air inlet housing mounting boss. Push the           NOTE: Note the orientation of the check valves in
+actuator onto the mount until it snaps into the          the vacuum supply line for correct reinstallation.
+locked position.
+   (4) Install the right front speaker and speaker          (1) Disconnect the vacuum check valve from the
+bezel (Refer to 8 - ELECTRICAL/AUDIO/SPEAKER -           fitting at the engine intake manifold and the acces-
+INSTALLATION).                                           sory vacuum supply line (Fig. 36) and remove the
+   (5) Install the glove box (Refer to 23 - BODY/IN-     valve.
+STRUMENT PANEL/GLOVE BOX - INSTALLA-                        (2) Disconnect the vacuum check valve from the
+TION).                                                   HVAC vacuum supply line fitting and the accessory
+   (6) Reconnect the negative battery cable.             vacuum supply line and remove the valve.
+
+
+VACUUM CHECK VALVE
+DESCRIPTION
+  Two vacuum check valves (Fig. 35) are installed in
+the accessory vacuum supply system. One is on the
+accessory vacuum supply line in the engine compart-
+ment, near the vacuum tap on the engine intake
+manifold. A second vacuum check valve is located at
+the HVAC system takeout. The vacuum check valves
+are designed to allow vacuum to flow in only one
+direction through the vacuum supply circuits.
+
+
+
+
+                                                               Fig. 36 Vacuum Check Valves - Typical
+                                                         1 - SCREW
+                                                         2 - VACUUM CHECK VALVE (2)
+                                                         3 - VACUUM LINE RETAINER (2)
+                                                         4 - ACCESSORY VACUUM SUPPLY LINE
+                                                         5 - ENGINE VACUUM FITTING
+                                                         6 - HVAC VACUUM SUPPLY LINE
+                                                         7 - INNER FENDER
+                                                         8 - VACUUM RESERVOIR
+
+                                                         INSTALLATION
+                                                           (1) Using the orientation noted during Removal,
+       Fig. 35 Vacuum Check Valve - Typical              connect the vacuum check valve to the HVAC vac-
+1 - VACUUM CHECK VALVE                                   uum supply line fitting and the accessory vacuum
+2 - DIRECTION OF AIR FLOW                                supply line.
+                                                           (2) Using the orientation noted during Removal,
+OPERATION                                                connect the vacuum check valve to the fitting at the
+  The use of the two vacuum check valves help to         engine intake manifold and the accessory vacuum
+maintain the system vacuum needed to retain the          supply line.
+selected A/C-heater mode settings. The check valves
+prevent the engine from bleeding down system vac-
+

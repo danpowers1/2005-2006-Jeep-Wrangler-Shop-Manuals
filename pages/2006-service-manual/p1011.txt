@@ -1,0 +1,60 @@
+TJ                                                                                      ENGINE 2.4L       9 - 51
+
+                                                          sure (MAP) sensor. Meaning different pressures
+                                                          relate to different output voltages.
+                                                            A 5 volt supply is sent to the sensor from the PCM
+                                                          to power up the sensor. The sensor returns a voltage
+                                                          signal back to the PCM relating to engine oil pres-
+                                                          sure. This signal is then transferred (bussed) to the
+                                                          instrument panel on either a CCD or PCI bus circuit
+                                                          (depending on vehicle line) to operate the oil pressure
+                                                          gauge and the check gauges lamp. Ground for the
+                                                          sensor is provided by the PCM through a low-noise
+                                                          sensor return.
+
+
+                                                          OIL PUMP
+                                                          REMOVAL
+                                                            (1) Disconnect negative cable from battery.
+                                                            (2) Remove timing belt. (Refer to 9 - ENGINE/
+                                                          VALVE     TIMING/TIMING        BELT/CHAIN     AND
+                                                          SPROCKETS - REMOVAL)
+                                                            (3) Remove timing belt rear cover. (Refer to 9 -
+                                                          ENGINE/VALVE TIMING/TIMING BELT / CHAIN
+      Fig. 82 OIL PAN GASKET INSTALLATION
+                                                          COVER(S) - REMOVAL)
+1 - SEALER LOCATION                                         (4) Remove oil pan. (Refer to 9 - ENGINE/LUBRI-
+  (3) Install pan and tighten the screws to 12 N·m        CATION/OIL PAN - REMOVAL)
+(105 in. lbs.).                                             (5) Remove crankshaft sprocket using Special
+  (4) Lower engine, and remove Special Tool 8534.         Tools 6793 and C-4685-C2 (Fig. 83).
+  (5) Tighten engine mount thru bolts.                      (6) Remove crankshaft key (Fig. 84).
+  (6) Raise the front axle into position, and reinstall
+front axle mounting bolts. If equipped.
+  (7) Reconnect exhaust pipe to manifold.
+  (8) Install structural collar, if equipped.
+  (9) Lower vehicle.
+  (10) Fill engine crankcase with proper oil to cor-
+rect level.
+  (11) Reinstall air cleaner assembly.
+
+
+OIL PRESSURE SENSOR /
+SWITCH
+                                                                 Fig. 83 Crankshaft Sprocket - Removal
+DESCRIPTION                                               1 - SPECIAL TOOL 6793
+  The 3–wire, electrical/mechanical engine oil pres-      2 - SPECIAL TOOL C-4685–C2
+sure sensor (sending unit) is located in an engine oil    3 - CRANKSHAFT SPROCKET
+pressure gallery.
+
+OPERATION
+  The oil pressure sensor uses three circuits. They
+are:
+  • A 5 volt power supply from the Powertrain Con-
+trol Module (PCM)
+  • A sensor ground through the PCM’s sensor
+return
+  • A signal to the PCM relating to engine oil pres-
+sure
+  The oil pressure sensor has a 3 wire electrical
+function very much like the Manifold Absolute Pres-
+

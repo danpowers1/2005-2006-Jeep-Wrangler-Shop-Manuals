@@ -1,0 +1,38 @@
+TJ                                                                                         CHARGING        8F - 27
+
+GENERATOR DECOUPLER                                        OPERATION
+                                                              The generator decoupler is used only with
+PULLEY                                                     certain engines. The decoupler (Fig. 7) is a one-way
+                                                           clutch designed to help reduce belt tension fluctua-
+DESCRIPTION                                                tion, vibration, reduce fatigue loads, improve belt life,
+  The generator decoupler is used only with                reduce hubloads on components, and reduce noise.
+certain engines. The decoupler is used in place of         Dry operation is used (no grease or lubricants). The
+the standard generator drive pulley (Fig. 7).              decoupler is not temperature sensitive and also has a
+                                                           low sensitivity to electrical load. The decoupler is a
+                                                           non-serviceable item and is to be replaced as an
+                                                           assembly.
+
+
+
+
+      Fig. 7 GENERATOR DECOUPLER PULLEY
+
+DIAGNOSIS AND TESTING - GENERATOR DECOUPLER
+           CONDITION                       POSSIBLE CAUSES                               CORRECTION
+     Does not drive generator                  Internal failure                        Replace decoupler
+     (generator not charging)
+
+   Noise coming from decou-                    Internal failure                        Replace decoupler
+             pler
+
+
+REMOVAL
+  The generator decoupler is used only with
+certain engines.
+  Two different type generator decoupler pulleys are
+used. One can be identified by the use of machined
+splines (Fig. 8). The other can be identified by a hex
+opening (Fig. 9) and will not use splines.
+  Different special tools are required to service each
+different decoupler. Refer to following procedure.
+

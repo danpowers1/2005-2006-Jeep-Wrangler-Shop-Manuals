@@ -1,0 +1,43 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                       8W - 80 - 35
+
+
+                                       LEFT FOG LAMP (EXCEPT EXPORT) - 2 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    Z950 18BK                          GROUND
+               2    L39 18WT/OR                        FOG LAMP FEED
+
+
+
+
+                                  LEFT FRONT PARK/ TURN SIGNAL LAMP - BLACK 3 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    L61 18WT/LG                        LEFT TURN SIGNAL
+               2    L7 18WT/YL (EXCEPT EXPORT)         HEADLAMP SWITCH OUTPUT
+               3    Z950 18BK                          GROUND
+
+
+
+
+                                  LEFT FRONT POSITION LAMP (EXPORT) - BLACK 2 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    L7 18WT/YL                         HEADLAMP SWITCH OUTPUT
+               2    Z950 20BK                          GROUND
+
+
+
+
+                                         LEFT FRONT SPEAKER - BLACK 3 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    X53 18DG                           LEFT FRONT SPEAKER (+)
+               2    -                                  -
+               3    X55 18DG/BR                        LEFT FRONT SPEAKER (-)
+
+
+
+
+                                LEFT FRONT TURN SIGNAL LAMP (EXPORT) - BLACK 3 WAY
+              CAV                  CIRCUIT                                  FUNCTION
+               1    L61 18WT/LG                        LEFT TURN SIGNAL
+               2    -                                  -
+               3    Z950 18BK                          GROUND
+

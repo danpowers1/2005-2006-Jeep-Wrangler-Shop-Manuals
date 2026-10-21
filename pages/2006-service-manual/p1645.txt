@@ -1,0 +1,61 @@
+TJ                                                                                                               CONTROLS            24 - 9
+
+                                                          CONTROLS
+
+                                                         TABLE OF CONTENTS
+                                                               page                                                                    page
+
+A/C COMPRESSOR CLUTCH                                                    BLEND DOOR ACTUATOR
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 9       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 10      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+  DIAGNOSIS AND TESTING                                                   REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+    A/C COMPRESSOR CLUTCH COIL . . . . . . . . 10                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+  STANDARD PROCEDURE                                                     BLOWER MOTOR RELAY
+    DIODE REPLACEMENT . . . . . . . . . . . . . . . . . 11                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 26
+    A/C CLUTCH INSPECTION . . . . . . . . . . . . . . 11                  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+    A/C CLUTCH BREAK-IN             . . . . . . . . . . . . . . . . 11    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 13      BLOWER MOTOR RESISTOR
+A/C CLUTCH RELAY                                                          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 14      DIAGNOSIS AND TESTING
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14      BLOWER MOTOR RESISTOR . . . . . . . . . . . . 28
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 15       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+A/C-HEATER CONTROL                                                        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 15       BLOWER MOTOR SWITCH
+  DIAGNOSIS AND TESTING                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 29
+    VACUUM CONTROL SYSTEM . . . . . . . . . . . . 15                      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18    DIAGNOSIS AND TESTING
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 20         BLOWER MOTOR SWITCH . . . . . . . . . . . . . . 29
+A/C HIGH PRESSURE SWITCH                                                  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 20        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 21     MODE DOOR ACTUATORS
+  DIAGNOSIS AND TESTING                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+    A/C HIGH PRESSURE SWITCH . . . . . . . . . . . 21                     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 21      RECIRCULATION DOOR ACTUATOR
+A/C LOW PRESSURE SWITCH                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 21        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 22      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  DIAGNOSIS AND TESTING                                                  VACUUM CHECK VALVE
+    A/C LOW PRESSURE SWITCH . . . . . . . . . . . 22                      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 23       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+A/C PRESSURE TRANSDUCER                                                   INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 23       VACUUM RESERVOIR
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 23      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  DIAGNOSIS AND TESTING                                                   OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+    A/C PRESSURE TRANSDUCER . . . . . . . . . . 24                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+A / C COMPRESSOR CLUTCH                                                  ley bearing and pulley assembly, and a clutch plate
+                                                                         (Fig. 1). These components provide the means to
+                                                                         engage and disengage the A/C compressor from the
+DESCRIPTION
+                                                                         engine accessory drive belt.
+  The A/C compressor clutch assembly consists of a
+                                                                           The A/C clutch field coil and the pulley bearing
+stationary electromagnetic A/C clutch field coil, a pul-
+                                                                         and pulley assembly are both retained on the nose of
+

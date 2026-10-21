@@ -1,0 +1,60 @@
+8L - 6     LAMPS/LIGHTING - EXTERIOR                                                                             TJ
+
+          CONDITION                   POSSIBLE CAUSES                                 CORRECTION
+
+                               4. Faulty headlamp dimmer (multi-        4. Replace multi-function switch.
+                               function) switch.
+                               5. Broken connector terminal or          5. Repair connector terminal or wire splice.
+                               wire splice in headlamp circuit.
+                               6. Both headlamp bulbs faulty.           6. Replace both headlamp bulbs.
+
+*Canada vehicles must have lamps ON.
+
+
+SPECIFICATIONS                                                          LAMP                        BULB
+                                                            License (Export Only)         W5W
+LAMPS / LIGHTING - EXTERIOR
+                                                            Park/Turn Signal              3157 or P27/7W
+              BULB SPECIFICATIONS                           Position                      T4W
+                                                            Rear Fog                      P21W
+           LAMP                       BULB
+                                                            Repeater                      W3W
+Back-Up                       1156 or P21W
+                                                            Tail/Stop                     1157 or P21/5W
+Center High Mounted           921 or W16W
+Stop Lamp (CHMSL)                                           Underhood                     W5W
+Front Fog                     H3                            Underhood (Retractable)       105
+Front Side Marker             168 or W3W
+Headlamp/Sealed Beam          H6024 or H4
+
+                                         TORQUE SPECIFICATIONS
+
+         DESCRIPTION                    N·m                        Ft. Lbs.                       In. Lbs.
+ Steering Column Shroud                     2                            -                           18
+    Mounting Screws
+   Right Multi-Function                     2                            -                           17
+ Switch Mounting Screws
+ Left Multi-Function Switch                 2                            -                           17
+      Mounting Screws
+
+
+SPECIAL TOOLS                                              controllers. The primary function of the switch is to
+                                                           illuminate the brake lamps. The brake lamp switch
+HEADLAMP ALIGNMENT                                         is adjustable and mounted on the brake pedal mount-
+                                                           ing bracket under the instrument panel.
+
+                                                           OPERATION
+                                                             Vehicles equipped with the speed control option use
+                                                           a multiple function brake lamp switch. The PCM
+                                                           monitors the state of the brake lamp switch. Refer to
+                                                           the Brake section for more information on brake
+                                                           lamp switch service and adjustment procedures.
+            Headlamp Aiming Kit C-4466-A                     The primary function of the brake switch is to turn
+                                                           on the brake lamps during braking. The switch is
+BRAKE LAMP SWITCH                                          also used to send signals to components that must
+                                                           know when the brakes are applied, such as the Pow-
+DESCRIPTION                                                ertrain Control Module (PCM), which uses the signal
+  The brake lamp switch consists of multiple switch        to cancel speed control. The Controller Antilock
+contacts either normally open or closed. The switch        Brake (CAB) uses the brake switch signal to monitor
+contacts provide brake pedal status to the various         brake pedal application. When the normally closed
+

@@ -1,0 +1,60 @@
+TJ                                                                                    AUDIO/VIDEO       8A - 9
+
+INSTALLATION                                             INSTALLATION
+ENGINE - TO - BODY GROUND STRAP                          NOTE: A battery reconnect procedure must be per-
+   (1) Position the engine-to-body ground strap in the   formed anytime the battery has been disconnected.
+engine compartment.                                      (Refer to 8 - ELECTRICAL/BATTERY SYSTEM -
+   (2) Position the engine-to-body ground strap eyelet   STANDARD PROCEDURE).
+over the stud on the left upper rear corner of the
+engine cylinder head.                                      (1) Install the mounting bolts.
+   (3) Install and tighten the nut that secures the        (2) Connect the electrical connectors
+engine-to-body ground strap eyelet to the stud on the      (3) Connect the battery negative cable.
+left upper rear corner of the engine cylinder head.
+Tighten the nut to 5.6 N·m (50 in. lbs.).
+   (4) Install and tighten the screw that secures the
+                                                         SPEAKER
+engine-to-body ground strap eyelet to the dash panel.
+Tighten the screw to 48.5 N·m (430 in. lbs.).            DESCRIPTION
+   (5) Install and tighten the screw that secures the      The standard equipment speaker system includes
+engine-to-body ground strap eyelet to the hood panel     four full-range speakers. The two front speakers are
+center reinforcement. Tighten the screw to 1.9 N·m       mounted behind a removable bezel located on each
+(17 in. lbs.).                                           outboard end of the lower instrument panel. With the
+                                                         premium speaker system, the standard front speak-
+                                                         ers are replace with an enclosure assembly that
+RECEIVER - SATELLITE RADIO                               includes a 4 inch speaker and a 1 inch tweeter. The
+                                                         two rear speakers are mounted behind a grille
+REMOVAL                                                  located on each outboard end of the sport bar, above
+                                                         the rear seating area of the vehicle.
+NOTE: A battery reconnect procedure must be per-
+formed anytime the battery has been disconnected.        OPERATION
+(Refer to 8 - ELECTRICAL/BATTERY SYSTEM -                  Two wires connected to each speaker, one feed cir-
+STANDARD PROCEDURE).                                     cuit (+) and one return circuit (–), allow the audio
+                                                         output signal electrical current to flow through the
+                                                         speaker voice coil.
+
+                                                         DIAGNOSIS AND TESTING - SPEAKER
+                                                           Any diagnosis of the Audio system should
+                                                         begin with the use of the DRB IIIt diagnostic
+                                                         tool. For information on the use of the DRB
+                                                         IIIt, refer to the appropriate Diagnostic Service
+                                                         Manual.
+                                                           For complete circuit diagrams, refer to the appro-
+                                                         priate wiring information.
+
+                                                         WARNING: Disable the airbag system before
+                                                         attempting any steering wheel, steering column,
+                                                         seat belt tensioner, side airbag, or instrument panel
+                                                         component diagnosis or service. Disconnect and
+                                                         isolate the battery negative (ground) cable, then
+                                                         wait two minutes for the airbag system capacitor to
+                                                         discharge before performing further diagnosis or
+       Fig. 5 RECEIVER - SATELLITE RADIO                 service. This is the only sure way to disable the air-
+         1 - Satellite Receiver                          bag system. Failure to take the proper precautions
+         2 - Electrical Connector                        could result in accidental airbag deployment and
+         3 - Mounting Bolts                              possible personal injury.
+
+  (1) Disconnect and isolate the battery negative        CAUTION: The speaker output of the radio is a
+cable.                                                   “floating ground” system. Do not allow any speaker
+  (2) Disconnect the electrical connectors. (Fig. 5)     lead to short to ground, as damage to the radio
+  (3) Remove the mounting bolts.                         may result.
+

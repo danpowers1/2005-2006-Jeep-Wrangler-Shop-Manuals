@@ -1,0 +1,60 @@
+25 - 6    EMISSIONS CONTROL                                                                                   TJ
+
+PCM CONNECTOR ENGAGEMENT                                   the device. If the input voltage is not within limits
+  The PCM may not be able to determine spread or           and other criteria are met, the PCM stores a diagnos-
+damaged connector pins. However, it might store            tic trouble code in memory. Other diagnostic trouble
+diagnostic trouble codes as a result of spread connec-     code criteria might include engine RPM limits or
+tor pins.                                                  input voltages from other sensors or switches that
+                                                           must be present before verifying a diagnostic trouble
+HIGH AND LOW LIMITS                                        code condition.
+  The PCM compares input signal voltages from each
+input device with established high and low limits for
+
+LOAD VALUE
+      ENGINE                    IDLE/NEUTRAL                                2500 RPM/NEUTRAL
+    All Engines           2% to 8% of Maximum Load                     9% to 17% of Maximum Load
+
+
+OPERATION                                                  Task Manager postpones monitors pending resolu-
+                                                           tion of the original fault. The Task Manager does not
+TASK MANAGER                                               run the test until the problem is remedied.
+                                                           For example, when the MIL is illuminated for an
+  The Task Manager determines which tests happen           Oxygen Sensor fault, the Task Manager does not run
+when and which functions occur when. Many of the           the Catalyst Monitor until the Oxygen Sensor fault is
+diagnostic steps required by OBD II must be per-           remedied. Since the Catalyst Monitor is based on sig-
+formed under specific operating conditions. The Task       nals from the Oxygen Sensor, running the test would
+Manager software organizes and prioritizes the diag-       produce inaccurate results.
+nostic procedures. The job of the Task Manager is to
+determine if conditions are appropriate for tests to be       • Conflict
+run, monitor the parameters for a trip for each test,      There are situations when the Task Manager does
+and record the results of the test. Following are the      not run a test if another monitor is in progress. In
+responsibilities of the Task Manager software:             these situations, the effects of another monitor run-
+                                                           ning could result in an erroneous failure. If this con-
+  • Test Sequence                                          flict is present, the monitor is not run until the
+  • MIL Illumination                                       conflicting condition passes. Most likely the monitor
+  • Diagnostic Trouble Codes (DTCs)                        will run later after the conflicting monitor has
+  • Trip Indicator                                         passed.
+                                                           For example, if the Fuel System Monitor is in
+  • Freeze Frame Data Storage                              progress, the Task Manager does not run the EGR
+  • Similar Conditions Window                              Monitor. Since both tests monitor changes in air/fuel
+                                                           ratio and adaptive fuel compensation, the monitors
+Test Sequence                                              will conflict with each other.
+  In many instances, emissions systems must fail              • Suspend
+diagnostic tests more than once before the PCM illu-       Occasionally the Task Manager may not allow a two
+minates the MIL. These tests are know as ’two trip         trip fault to mature. The Task Manager will sus-
+monitors.’ Other tests that turn the MIL lamp on           pend the maturing of a fault if a condition exists
+after a single failure are known as ’one trip moni-        that may induce an erroneous failure. This prevents
+tors.’ A trip is defined as ’start the vehicle and oper-   illuminating the MIL for the wrong fault and allows
+ate it to meet the criteria necessary to run the given     more precis diagnosis.
+monitor.’                                                  For example, if the PCM is storing a one trip fault
+  Many of the diagnostic tests must be performed           for the Oxygen Sensor and the EGR monitor, the
+under certain operating conditions. However, there         Task Manager may still run the EGR Monitor but
+are times when tests cannot be run because another         will suspend the results until the Oxygen Sensor
+test is in progress (conflict), another test has failed    Monitor either passes or fails. At that point the Task
+(pending) or the Task Manager has set a fault that         Manager can determine if the EGR system is actu-
+may cause a failure of the test (suspend).                 ally failing or if an Oxygen Sensor is failing.
+  • Pending
+Under some situations the Task Manager will not
+run a monitor if the MIL is illuminated and a fault is
+stored from another monitor. In these situations, the
+

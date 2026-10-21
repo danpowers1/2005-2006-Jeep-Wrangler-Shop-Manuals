@@ -1,0 +1,58 @@
+TJ                                                                                         ENGINE 4.0L           9 - 73
+
+not be isolated with the Service Diagnosis charts.         • (Refer to 9 - ENGINE - DIAGNOSIS AND TEST-
+Information concerning additional tests and diagno-      ING) (MECHANICAL)
+sis is provided within the following diagnosis:
+  • (Refer to 9 - ENGINE - DIAGNOSIS AND TEST-
+ING) (PERFORMANCE)
+
+DIAGNOSIS AND TESTING - ENGINE DIAGNOSIS - PERFORMANCE
+
+                            ENGINE PERFORMANCE DIAGNOSIS CHART
+
+           CONDITION                       POSSIBLE CAUSES                               CORRECTION
+
+ENGINE WILL NOT CRANK               1. Weak or dead battery                   1. Charge/Replace Battery. (Refer
+                                                                              to 8 - ELECTRICAL/BATTERY
+                                                                              SYSTEM/BATTERY - STANDARD
+                                                                              PROCEDURE), for correct proce-
+                                                                              dures. Check charging system.
+                                                                              (Refer to 8 - ELECTRICAL/
+                                                                              CHARGING - DIAGNOSIS AND
+                                                                              TESTING), for correct procedures.
+
+                                    2. Corroded or loose battery con-         2. Clean/tighten suspect battery/
+                                    nections                                  starter connections
+                                    3. Faulty starter or related circuit(s)   3. Check starting system. (Refer to
+                                                                              8 - ELECTRICAL/STARTING - DI-
+                                                                              AGNOSIS AND TESTING), for cor-
+                                                                              rect diagnostics/procedures
+                                    4. Siezed accessory drive compo-          4. Remove accessory drive belt
+                                    nent                                      and attempt to start engine. If en-
+                                                                              gine starts, repair/replace siezed
+                                                                              component.
+                                    5. Engine internal mechanical fail-       5. (Refer to 9 - ENGINE - DIAG-
+                                    ure or hydro-static lock                  NOSIS AND TESTING), for correct
+                                                                              diagnostics/procedures
+
+ENGINE CRANKS BUT WILL NOT          1. No spark                               1. Check for spark. (Refer to 8 -
+START                                                                         ELECTRICAL/IGNITION CONTROL
+                                                                              - SPECIFICATIONS), for correct
+                                                                              procedures.
+
+                                    2. No fuel                                2. Perform fuel pressure test (Refer
+                                                                              to 14 - FUEL SYSTEM/FUEL DE-
+                                                                              LIVERY/FUEL PUMP - DIAGNOSIS
+                                                                              AND TESTING), and if necessary,
+                                                                              inspect fuel injector(s) and driver
+                                                                              circuits. (Refer to 14 - FUEL SYS-
+                                                                              TEM/FUEL INJECTION/FUEL IN-
+                                                                              JECTOR - DIAGNOSIS AND
+                                                                              TESTING), for correct procedures.
+                                    3. Low or no engine compression           3. Perform cylinder compression
+                                                                              pressure test. (Refer to 9 - EN-
+                                                                              GINE - DIAGNOSIS AND TEST-
+                                                                              ING).
+
+ENGINE LOSS OF POWER                1. Worn or burned distributor rotor       1. Install new distributor rotor
+

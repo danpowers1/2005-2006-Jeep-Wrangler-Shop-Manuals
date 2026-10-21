@@ -1,0 +1,59 @@
+8A - 10    AUDIO/VIDEO                                                                                    TJ
+
+NOTE: If poor sound quality is noted in the audio         FRONT
+system, check the Cabin Equalization curve pro-             (1) Disconnect and isolate the battery negative
+grammed in the instrument cluster. Make sure a            cable.
+base speaker system has the Base Cabin Equaliza-            (2) Remove the two screws that secure the out-
+tion Curve programmed to the vehicle. If the vehicle      board end of the speaker bezel to the instrument
+has a premium speaker system, make sure the Pre-          panel (Fig. 6).
+mium Cabin Equalization Curve is programmed to
+the vehicle
+
+  (1) If all speakers are inoperative, check the fuses
+in the Power Distribution Center (PDC). If OK, go to
+Step 2. If not OK, repair the shorted circuit or com-
+ponent as required and replace the faulty fuse.
+  (2) Turn the ignition switch to the ON position.
+Turn the radio receiver ON. Adjust the balance and
+fader control controls to check the performance of
+each individual speaker. Note the speaker locations
+that are not performing correctly. Go to Step 3.
+  (3) Turn the radio receiver OFF. Turn the ignition
+OFF. Disconnect and isolate the battery negative
+cable. Remove the radio receiver. Go to Step 4.
+  (4) Check both the speaker feed (+) circuit and
+return (-) circuit cavities for the inoperative speaker     Fig. 6 Instrument Panel Speaker Bezel Remove/
+at the radio receiver wire harness connector for con-                           Install
+tinuity to ground. There should be no continuity. If      1 - PRY HERE
+OK, go to Step 5. If not OK, repair the shorted           2 - SPEAKER BEZEL
+speaker feed (+) and/or return (-) circuits(s) to the     3 - PRY HERE
+                                                          4 - MOUNTING SCREWS
+speaker as required.
+  (5) Disconnect wire harness connector at the inop-        (3) Using a trim stick, gently pry at the top and
+erative speaker. Check for continuity between the         bottom edges of the speaker bezel to release the two
+speaker feed (+) circuit cavities of the radio receiver   snap clip retainers that secure the bezel to the
+wire harness connector and the speaker wire harness       instrument panel.
+connector. Repeat the check between the speaker             (4) Remove the speaker bezel from the instrument
+return (-) circuit cavities of the radio receiver wire    panel.
+harness connector and the speaker wire harness con-         (5) Remove the four screws that secure the
+nector. In each case, there should be continuity. If      speaker to the instrument panel (Fig. 7).
+OK, replace the faulty speaker. If not OK, repair the
+open speaker feed (+) and/or return (-) circuits(s) as
+required.
+
+REMOVAL
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+ATTEMPTING ANY STEERING WHEEL, STEERING
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                     Fig. 7 Instrument Panel Speaker Remove/Install
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                  1 - INSTRUMENT PANEL
+BAG DEPLOYMENT AND POSSIBLE PERSONAL                      2 - SPEAKER
+INJURY.                                                   3 - SCREW
+

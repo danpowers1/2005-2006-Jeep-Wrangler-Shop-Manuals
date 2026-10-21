@@ -1,0 +1,65 @@
+8Q - 6    VEHICLE THEFT SECURITY                                                                            TJ
+
+TRANSPONDER KEY                                            engine to continue running. If the PCM receives an
+                                                           invalid key message, or receives no message from the
+                                                           SKIM over the PCI data bus, the engine will be dis-
+DESCRIPTION
+                                                           abled after about two seconds of operation. The Elec-
+                                                           troMechanical Instrument Cluster (EMIC) will also
+                                                           respond to the invalid key message on the PCI data
+                                                           bus by flashing the SKIS indicator on and off.
+                                                              Each Sentry Key has a unique transponder identi-
+                                                           fication code permanently programmed into it by the
+                                                           manufacturer. Likewise, the SKIM has a unique
+                                                           Secret Key code programmed into it by the manufac-
+                                                           turer. When a Sentry Key is programmed into the
+                                                           memory of the SKIM, the SKIM stores the transpon-
+                                                           der identification code from the Sentry Key, and the
+                                                           Sentry Key learns the Secret Key code from the
+                                                           SKIM. Once the Sentry Key learns the Secret Key
+                                                           code of the SKIM, it is permanently stored in the
+                                                           memory of the transponder. Therefore, once a Sentry
+                                                           Key has been programmed to a particular vehicle, it
+                                                           cannot be used on any other vehicle. (Refer to 8 -
+                                                           ELECTRICAL/VEHICLE THEFT SECURITY -
+     Fig. 1 Sentry Key Immobilizer Transponder
+                                                           STANDARD PROCEDURE - SENTRY KEY TRAN-
+1 - MOLDED CAP
+2 - TRANSPONDER CHIP
+                                                           SPONDER PROGRAMMING).
+3 - MOLDED CAP REMOVED                                        The SKIS performs a self-test each time the igni-
+4 - TRANSPONDER KEY
+                                                           tion switch is turned to the On position, and will
+   Each ignition key used in the Sentry Key Immobi-        store key-related fault information in the form of
+lizer System (SKIS) has an integral transponder chip       Diagnostic Trouble Codes (DTC’s) in SKIM memory if
+(Fig. 1). Ignition keys with this feature can be readily   a Sentry Key transponder problem is detected. The
+identified by a gray rubber cap molded onto the head       Sentry Key transponder chip can be diagnosed, and
+of the key, while conventional ignition keys have a        any stored DTC’s can be retrieved using a DRBIIIt
+black molded rubber cap. The transponder chip is           scan tool. Refer to the appropriate diagnostic
+concealed beneath the molded rubber cap, where it is       information.
+molded within a plastic mount into the head of the
+metal key. In addition to being cut to match the
+mechanical coding of the ignition lock cylinder, each
+new Sentry Key has a unique transponder identifica-
+tion code permanently programmed into it by the
+manufacturer. The Sentry Key transponder cannot be
+adjusted or repaired. If faulty or damaged, the entire
+key must be replaced.
+
+OPERATION
+   When the ignition switch is turned to the On posi-
+tion, the Sentry Key Immobilizer Module (SKIM)
+communicates through its antenna with the Sentry
+Key transponder using a Radio Frequency (RF) sig-
+nal. The SKIM then listens for a RF response from
+the transponder through the same antenna. The Sen-
+try Key transponder chip is within the range of the
+SKIM transceiver antenna ring when it is inserted
+into the ignition lock cylinder. The SKIM determines
+whether a valid key is present in the ignition lock
+cylinder based upon the response from the transpon-
+der. If a valid key is detected, that fact is communi-
+cated by the SKIM to the Powertrain Control Module
+(PCM) over the Programmable Communications
+Interface (PCI) data bus, and the PCM allows the
+

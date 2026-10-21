@@ -1,0 +1,30 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                       8W - 80 - 5
+
+
+                        AMBIENT TEMPERATURE SENSOR (COMPASS/TEMPERATURE MIRROR) - 2 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    G231 20VT/YL                      AAT SIGNAL
+               2    G32 20VT/LB                       SENSOR GROUND
+
+
+
+
+                                   AMBIENT TEMPERATURE SENSOR (ENGINE) - 2 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    G31 20VT/LG                       AAT SIGNAL
+               2    K900 20DB/DG                      SENSOR GROUND
+
+
+
+
+                                   AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    Z1 18BK                           GROUND
+               2    E2 20OR/BR                        PANEL LAMPS FEED
+               3    M21 20YL/BR                       FUSED B(+)
+               4    G302 20VT/OR                      LOCKER ENABLE SIGNAL 1
+               5    G303 20VT/DG                      LOCKER ENABLE SIGNAL 2
+               6    G305 20VT/LG                      REAR LOCKER REQUEST
+               7    G304 20VT/DB                      FRONT LOCKER REQUEST
+               8    -                                 -
+

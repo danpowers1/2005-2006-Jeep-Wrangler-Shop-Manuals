@@ -1,0 +1,67 @@
+23 - 40    INSTRUMENT PANEL                                                                                 TJ
+
+accessory switches and the cigar lighter/power outlet      With the transfer case in the 4WD Low Range and
+on the back of the accessory switch bezel.               the vehicle speed below 10 MPH (16kph), a momen-
+  (6) Remove the accessory switch bezel from the         tary push to the lower portion of the rocker switch to
+instrument panel.                                        Lock:
+                                                           • 1st Push: Rear Axle Locked
+INSTALLATION                                               • 2nd Push: Rear and Front Axle Locked
+                                                           Momentary pushes, will toggle between Rear Axle
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                  Locked or Rear/Front Axle Locked. A momentary
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                   push to the upper portion of the rocker switch to
+ATTEMPTING ANY STEERING WHEEL, STEERING                  “OFF”, (both axles unlocked).
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                DIAGNOSIS AND TESTING - AXLE LOCK
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                SWITCH
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-                   WARNING: ON VEHICLES EQUIPPED WITH AIR-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS               BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG               ATTEMPTING ANY STEERING WHEEL, STEERING
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                  COLUMN, OR INSTRUMENT PANEL COMPONENT
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                 DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL                     LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+INJURY.                                                  THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                         TEM CAPACITOR TO DISCHARGE BEFORE PER-
+  (1) Position the accessory switch bezel to the
+                                                         FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+instrument panel.
+                                                         IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+  (2) Reconnect the instrument panel wire harness
+                                                         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+connectors to the connector receptacles for the acces-
+                                                         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+sory switches and the cigar lighter/power outlet on
+                                                         BAG DEPLOYMENT AND POSSIBLE PERSONAL
+the back of the accessory switch bezel.
+                                                         INJURY.
+  (3) Position the accessory switch bezel onto the
+instrument panel.                                          (1) Check the fused B(+) fuse in the Power Distri-
+  (4) Install and tighten the four screws that secure    bution Center (PDC). If OK, go to step 2. If not,
+the accessory switch bezel to the instrument panel.      repair the shorted circuit or component required and
+Tighten the screws to 2 N·m (20 in. lbs.).               replace the fuse.
+  (5) Reinstall the center bezel onto the instrument       (2) Check for battery voltage at the fused B(+) fuse
+panel. (Refer to 23 - BODY/INSTRUMENT PANEL/             in the PDC. If OK, go to step 3. If not, repair the
+CENTER BEZEL - INSTALLATION).                            open B(+) circuit to the fuse.
+  (6) Reconnect the battery negative cable.                (3) Turn the ignition to the off position. Disconnect
+                                                         and isolate the negative battery cable. Remove the
+                                                         Axle Lock switch. Disconnect the switch harness con-
+AXLE LOCK SWITCH                                         nector. Check for continuity between the fuse cavity
+                                                         in the PDC and the Fused B(+) circuit in the switch
+DESCRIPTION                                              harness connector. If OK got to step 4. If not OK,
+  If equipped, the Axle Lock switch is located in the    repair the open Fused B(+) circuit.
+Accessory Switch Bezel, below the HVAC controls.           (4) Turn the ignition to the off position. Disconnect
+The switch will activate the Rear Axle locker and        and isolate the negative battery cable. Remove the
+Rear/Front Axle locker. The switch is a double-action    Axle Lock switch. disconnect the switch harness con-
+momentary rocker type. The Axle Lock Switch is           nector. check for continuity between the switch
+secured by a snap fit within the bezel. The axle Lock    ground and a known good ground. If OK got to step
+Switch cannot be repaired and, if faulty or damaged,     5. If not OK, repair open ground circuit.
+the entire switch must be replaced.                        (5) Turn the ignition to the OFF position. Discon-
+                                                         nect and isolate the negative battery cable. Remove
+OPERATION                                                the Instrument Cluster. Disconnect the cluster har-
+   The Axle Lock switch receives battery current on a    ness connectors C1 and C2. Check for continuity
+fused B(+) circuit from a fuse in the Power Distribu-    between each of the Enable circuits and each of the
+tion Center (PDC). The switch is grounded at all         request circuits between the switch harness connec-
+times. The Axle Lock switch is only operational when     tor and the cluster harness connectors. If OK go to
+the instrument cluster sends an activation signal to     step 6. If not OK, repair the circuits as required.
+the switch logic.
+

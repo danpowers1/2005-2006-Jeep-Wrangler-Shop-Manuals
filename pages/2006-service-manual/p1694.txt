@@ -1,0 +1,65 @@
+24 - 58    PLUMBING                                                                                          TJ
+
+CAUTION: The use of A/C system sealers may                CAUTION: Do not overcharge the refrigerant sys-
+result in damage to A/C refrigerant recovery/evacu-       tem. Overcharging will cause excessive compressor
+ation/recharging equipment and/or A/C system.             head pressure and can cause compressor noise
+Many federal, state/provincial and local regulations      and A/C system failure.
+prohibit the recharge of A/C systems with known
+leaks. DaimlerChrysler recommends the detection
+of A/C system leaks through the use of approved
+leak detectors and fluorescent leak detection dyes.
+                                                          DIAGNOSIS AND TESTING
+Vehicles found with A/C system sealers should be
+treated as contaminated and replacement of the            REFRIGERANT SYSTEM LEAKS
+entire A/C refrigerant system is recommended. A/C
+                                                          WARNING: R-134a service equipment or vehicle A/C
+systems found to be contaminated with A/C system
+                                                          system should not be pressure tested or leak tested
+sealers, A/C stop-leak products or seal conditioners
+                                                          with compressed air. Mixture of air and R-134a can
+voids the warranty for the A/C system.
+                                                          be combustible at elevated pressures. These mix-
+                                                          tures are potentially dangerous and may result in
+CAUTION: Recover the refrigerant before opening           fire or explosion causing property damage, per-
+any fitting or connection. Open the fittings with         sonal injury or death.
+caution, even after the system has been dis-              Avoid breathing A/C refrigerant and lubricant vapor
+charged. Never open or loosen a connection before         or mist. Exposure may irritate eyes, nose and
+recovering the refrigerant.                               throat. Use only approved service equipment meet-
+                                                          ing SAE requirements to discharge R-134a system.
+                                                          If accidental system discharge occurs, ventilate
+CAUTION: If equipped, do not remove the second-           work area before resuming service.
+ary retention clip from any spring-lock coupler con-
+nection while the refrigerant system is under                If the A/C system is not cooling properly, determine
+pressure. Recover the refrigerant before removing         if the refrigerant system is fully charged with
+the secondary retention clip. Open the fittings with      R-134a. This is accomplished by performing a Refrig-
+caution, even after the system has been dis-              erant System Charge Level test (Refer to 24 - HEAT-
+charged. Never open or loosen a connection before         ING & AIR CONDITIONING/PLUMBING -
+recovering the refrigerant.                               DIAGNOSIS AND TESTING - REFRIGERANT SYS-
+                                                          TEM CHARGE LEVEL) or by completely evacuating
+                                                          and recharging the A/C system. If the A/C liquid line
+CAUTION: The internal parts of the A/C system will        pressure is found to be less than 345 kPa (50 psi)
+remain stable as long as moisture-free refrigerant        while performing the Refrigerant System Charge
+and refrigerant oil is used. Abnormal amounts of          Level test, proceed to the System Empty procedure
+dirt, moisture or air can upset the chemical stability.   below. If liquid line pressure is found to be greater
+This may cause operational troubles or even seri-         than 345 kPa (50 psi), proceed to the System Low
+ous damage if present in more than very small             procedure. If the refrigerant system is empty or low
+quantities. Before disconnecting a component,             in refrigerant charge, a leak at any line fitting or
+clean the outside of the fittings thoroughly to pre-      component seal is likely. A review of the fittings,
+vent contamination from entering the refrigerant          lines and components for oily residue is an indication
+system. Keep service tools and the work area clean.       of the leak location. To detect a leak in the refriger-
+Do not open the refrigerant system or uncap a             ant system, perform one of the following procedures
+replacement component until you are ready to ser-         as indicated by the symptoms.
+vice the system. Immediately after disconnecting a
+component from the refrigerant system, seal the           SYSTEM EMPTY
+open fittings with a cap or plug. This will prevent         (1) Evacuate the refrigerant system to the lowest
+contamination from entering the A/C system.               degree of vacuum possible (approximately -88 kPa (-
+                                                          26 in. Hg) or greater vacuum) (Refer to 24 - HEAT-
+CAUTION: Refrigerant oil will absorb moisture from        ING & AIR CONDITIONING/PLUMBING - STAN-
+the atmosphere if left uncapped. Do not open a            DARD PROCEDURE - REFRIGERANT SYSTEM
+container of refrigerant oil until you are ready to       EVACUATE). Determine if the system holds a vac-
+use it. Replace the cap on the oil container immedi-      uum for 15 minutes. If vacuum is held, a leak is
+ately after using. Store refrigerant oil only in a        probably not present. If system will not maintain
+clean, airtight, and moisture-free container.             vacuum level, proceed to Step 2.
+                                                            (2) Prepare and dispense 0.284 kilograms (10
+                                                          ounces) of R-134a refrigerant into the evacuated
+

@@ -1,0 +1,48 @@
+TJ                                                          AUTOMATIC TRANSMISSION - 42RLE              21 - 103
+
+           DESCRIPTION                             METRIC                           STANDARD
+     Inner Gear Side Clearance                  0.020-0.046 mm                    0.0008-0.0018 in.
+
+
+                                           TORQUE SPECIFICATIONS
+
+                Description                          N·m               Ft. Lbs.                 In. Lbs.
+        Bolt, Converter-to-Driveplate                88                   65                       -
+       Bolt, Fluid Filter-to-Valve Body               5                    -                      45
+      Bolt, L/R Clutch Retainer-to-Case               5                    -                      45
+       Bolt, Adapter/Extension Housing               54                   40                       -
+ Bolt, Manual Valve Lever-to-Manual Valve             5                    -                      45
+            Bolt, Oil Pan-to-Case                    20                  14.5                      -
+           Bolt, Oil Pump-to-Case                    30                    -                      265
+          Bolt, Park Sprag Retainer                  4.5                   -                      40
+     Bolt, Reaction Shaft Support Halves             28                    -                      250
+  Bolt, Solenoid/Pressure Switch Assy-to-
+                                                     5.5                   -                      50
+                Valve Body
+          Bolt, Valve Body-to-Case                   12                    -                      105
+      Bolt, Valve Body-to-Transfer Plate              5                    -                      45
+             Fitting, Cooler Line                    47.5                 35                       -
+              Nut, Output Shaft                      271                 200                       -
+             Plug, Pressure Tap                       5                    -                      45
+      Bolt, Input Speed-to-Case Sensor                9                    -                      80
+     Bolt, Output Speed-to-Case Sensor                9                    -                      80
+
+
+SPECIAL TOOLS
+42RLE AUTOMATIC TRANSMISSION
+
+
+
+
+                                                                      Hammer, Slide - C-3752
+
+
+
+          Pressure Gauge (High) C-3293SP
+
+
+
+
+                                                                       Puller, Seal - C-3981B
+                Dial Indicator C-3339
+

@@ -1,0 +1,54 @@
+8F - 24    CHARGING                                                                                        TJ
+
+SPECIAL TOOLS                                              The BTS is also used for OBD II diagnostics. Cer-
+                                                         tain faults and OBD II monitors are either enabled
+                                                         or disabled, depending upon BTS input (for example,
+                                                         disable purge and enable Leak Detection Pump
+                                                         (LDP) and O2 sensor heater tests). Most OBD II
+                                                         monitors are disabled below 20 degrees F.
+
+                                                         REMOVAL
+
+
+
+
+      GENERATOR DECOUPLER TOOL #8433
+
+
+
+
+                                                          Fig. 1 Battery Temperature Sensor Remove/Install
+                                                         1 - BATTERY TEMPERATURE SENSOR
+                                                         2 - BATTERY TRAY
+
+                                                           The battery temperature sensor is located under
+                                                         the vehicle battery (Fig. 1) and is attached to a
+                                                         mounting hole on battery tray.
+                                                           (1) Remove battery. Refer to 8, Battery for proce-
+                                                         dures.
+                                                           (2) Disconnect sensor pigtail harness from engine
+                                                         wire harness.
+                                                           (3) Pry sensor straight up from battery tray
+      GENERATOR DECOUPLER TOOL #8823                     mounting hole.
+
+BATTERY TEMPERATURE SEN-                                 INSTALLATION
+SOR                                                        The battery temperature sensor is located under
+                                                         the vehicle battery and is attached to a mounting
+                                                         hole on battery tray.
+DESCRIPTION                                                (1) Feed pigtail harness through hole in top of bat-
+  The Battery Temperature Sensor (BTS) is attached       tery tray and press sensor into top of battery tray.
+to the battery tray located under the battery.             (2) Connect pigtail harness.
+                                                           (3) Install battery. Refer to 8, Battery for proce-
+OPERATION                                                dures.
+  The BTS is used to determine the battery temper-
+ature and control battery charging rate. This temper-
+ature data, along with data from monitored line          GENERATOR
+voltage, is used by the PCM to vary the battery
+charging rate. System voltage will be higher at colder   DESCRIPTION
+temperatures and is gradually reduced at warmer            The generator is belt-driven by the engine using a
+temperatures.                                            serpentine type drive belt. It is serviced only as a
+  The PCM sends 5 volts to the sensor and is             complete assembly. If the generator fails for any rea-
+grounded through the sensor return line. As temper-      son, the entire assembly must be replaced.
+ature increases, resistance in the sensor decreases
+and the detection voltage at the PCM increases.
+

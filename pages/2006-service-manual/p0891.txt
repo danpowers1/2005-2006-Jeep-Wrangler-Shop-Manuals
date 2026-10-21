@@ -1,0 +1,42 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                          8W - 80 - 51
+
+
+                                             RECEIVER-SATELLITE C1 - 12 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    X41 18DG/WT                           AUDIO OUT LEFT
+               2    -                                     -
+               3    -                                     -
+               4    Z515 18BK                             GROUND
+               5    X112 18DG/GY                          FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+               6    X160 18GY/YL                          FUSED B(+)
+               7    X40 18GY/WT                           AUDIO OUT RIGHT
+               8    X140 18GY/OR                          COMMON AUDIO
+               9    -                                     -
+              10    -                                     -
+              11    -                                     -
+              12    D25 18WT/VT                           PCI BUS
+
+
+
+
+                                              RECEIVER-SATELLITE C2 - 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    D106 12WT/LG                          SATELLITE ANTENNA SIGNAL 1
+               2    D126 12WT/TN                          SATELLITE ANTENNA SHIELD 1
+
+
+
+
+                                        RIGHT COURTESY LAMP - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    M21 20YL/BR                           FUSED B(+)
+               2    M22 20YL/OR                           COURTESY LAMPS DRIVER
+
+
+
+
+                                             RIGHT DOME LAMP - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    M21 20YL/BR                           FUSED B(+)
+               2    M22 20YL/OR                           COURTESY LAMPS DRIVER
+

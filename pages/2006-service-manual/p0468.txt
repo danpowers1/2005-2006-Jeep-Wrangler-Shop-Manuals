@@ -1,0 +1,46 @@
+8I - 20   IGNITION CONTROL                               TJ
+
+the engine will run poorly. If engine rpm does not
+drop, the cable and/or spark plug may not be operat-
+ing properly and should be replaced. Also check
+engine cylinder compression.
+  With the engine not running, connect one end of a
+test probe to a good ground. Start the engine and run
+the other end of the test probe along the entire
+length of all spark plug cables. If cables are cracked
+or punctured, there will be a noticeable spark jump
+from the damaged area to the test probe. Cracked,
+damaged or faulty cables should be replaced with
+resistance type cable. This can be identified by the
+words ELECTRONIC SUPPRESSION printed on the
+cable jacket.
+  Use an ohmmeter to test for open circuits, exces-
+sive resistance or loose terminals. Remove the cable
+at ignition coil, and from spark plug. Connect ohm-
+meter to each end of cable. Resistance should be 250
+to 1000 Ohms per inch of cable. If resistance is not
+within specifications as found in the SPARK PLUG
+CABLE RESISTANCE chart, replace the cable. Test
+all spark plug cables in this manner.
+
+REMOVAL - 2.4L
+CAUTION: When disconnecting a high voltage cable
+from a spark plug or from the distributor cap, twist
+the rubber boot slightly (1/2 turn) to break it loose
+(Fig. 37).
+
+  (1) Grasp the boot (not the cable) and pull it off
+with a steady, even force.
+
+
+
+
+             Fig. 37 CABLE REMOVAL
+1 - SPARK PLUG CABLE AND BOOT
+2 - SPARK PLUG BOOT PULLER
+3 - TWIST AND PULL
+4 - SPARK PLUG
+
+INSTALLATION
+  (1) Push the cable firmly onto the sparkplug.
+

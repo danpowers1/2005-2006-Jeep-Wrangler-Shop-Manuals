@@ -1,0 +1,46 @@
+3 - 136    REAR AXLE - 216RBI                                                                                TJ
+
+                                                            Compensation for pinion depth variance is
+                                                          achieved with select shims. The shims are placed
+                                                          under the inner pinion bearing on the pinion shaft.
+                                                            If a new gear set is being installed, note the depth
+                                                          variance etched into both the original and replace-
+                                                          ment pinion gear. Add or subtract the thickness of
+                                                          the original depth shims to compensate for the differ-
+                                                          ence in the depth variances. Refer to the Depth Vari-
+                                                          ance charts.
+                                                            Note where Old and New Pinion Marking columns
+                                                          intersect. The intersecting figure represents plus or
+                                                          minus the amount needed.
+                                                            Note the etched number on the face of the drive
+                                                          pinion gear (–1, –2, 0, +1, +2, etc.). The numbers rep-
+                                                          resent thousands of an inch deviation from the stan-
+  Fig. 4 UPPER AND LOWER SUSPENSION ARMS                  dard. If the number is negative, add that value to the
+                                                          required thickness of the depth shim(s). If the num-
+1 - UPPER SUSPENSION ARM
+2 - REAR AXLE                                             ber is positive, subtract that value from the thickness
+3 - LOWER SUSPENSION ARM                                  of the depth shim(s). If the number is 0 no change is
+                                                          necessary. Refer to the Pinion Gear Depth Variance
+  (14) Tighten track bar bolts to torque specification.   Chart.
+ADJUSTMENTS
+RING AND PINION GEAR
+   Ring and pinion gears are supplied as matched
+sets only. The identifying numbers for the ring and
+pinion gear are etched into the face of each gear (Fig.
+5). A plus (+) number, minus (–) number or zero (0) is
+etched into the face of the pinion gear. This number
+is the amount (in thousandths of an inch) the depth
+varies from the standard depth setting of a pinion
+etched with a (0). The standard depth provides the
+best teeth contact pattern. Refer to Backlash and
+Contact Pattern Analysis Paragraph in this section
+for additional information.
+
+
+
+
+          Fig. 5 PINION GEAR ID NUMBERS
+1 - PRODUCTION NUMBERS
+2 - DRIVE PINION GEAR DEPTH VARIANCE
+3 - GEARS MATCHING NUMBER
+

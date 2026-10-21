@@ -1,0 +1,47 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 139
+
+INSTALLATION
+
+
+
+
+                                                                      Fig. 233 Overdrive Off Switch
+   Fig. 232 Input and Output Speed Sensors and            1 - ACCESSORY SWITCH BEZEL
+                                                          2 - OVERDRIVE OFF SWITCH
+            Transmission Range Sensor
+1 - INPUT SPEED SENSOR
+2 - OUTPUT SPEED SENSOR
+                                                          OPERATION
+3 - TRANSMISSION RANGE SENSOR                                At key-on, overdrive operation is allowed. Pressing
+                                                          the switch once causes the overdrive OFF mode to be
+  (1) Install the output speed sensor (2) (Fig. 232)      entered and the overdrive OFF switch lamp to be
+into the transmission case.                               illuminated. Pressing the switch a second time
+                                                          causes normal overdrive operation to be restored and
+NOTE: Before installing the speed sensor bolt, it         the overdrive lamp to be turned off. The overdrive
+will be necessary to replentish the sealing patch on      OFF mode defaults to ON after the ignition switch is
+the bolt using MoparT Lock & Seal Adhesive.               cycled OFF and ON. The normal position for the con-
+                                                          trol switch is the ON position. The switch must be in
+  (2) Install the bolt to hold the output speed sensor
+                                                          this position to energize the solenoid and allow a 3-4
+into the transmission case. Tighten the bolt to 9 N·m
+                                                          upshift. The control switch indicator light illuminates
+(80 in.lbs.).
+                                                          only when the overdrive switch is turned to the OFF
+  (3) Install the wiring connector onto the output
+                                                          position, or when illuminated by the transmission
+speed sensor
+                                                          control module.
+  (4) Verify the transmission fluid level. Add fluid as
+necessary.
+  (5) Lower vehicle.
+                                                          REMOVAL
+                                                            (1) Remove the accessory switch bezel (Fig. 234)
+                                                          (Refer to 23 - BODY/INSTRUMENT PANEL/ACCES-
+OVERDRIVE SWITCH                                          SORY SWITCH BEZEL - REMOVAL).
+
+DESCRIPTION
+  The overdrive OFF (control) switch is located in
+the center console (Fig. 233). The switch is a momen-
+tary contact device that signals the PCM to toggle
+current status of the overdrive function.
+

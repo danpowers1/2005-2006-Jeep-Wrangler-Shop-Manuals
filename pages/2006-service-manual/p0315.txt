@@ -1,0 +1,41 @@
+TJ                                                                                           COOLING      7-3
+
+  • If the engine has remained cool for too long a         TRAILER TOWING:
+period, such as with a stuck open thermostat, a Diag-        Consult Trailer Towing section of owners manual.
+nostic Trouble Code (DTC) can be set.                      Do not exceed limits.
+  • If an open or shorted condition has developed in
+the relay circuit controlling the electric radiator fan,   AIR CONDITIONING; ADD - ON OR AFTER MARKET:
+a Diagnostic Trouble Code (DTC) can be set.                  A maximum cooling package should have been
+  If the problem is sensed in a monitored circuit          ordered with vehicle if add-on or after market A/C is
+often enough to indicate an actual problem, a DTC is       installed. If not, maximum cooling system compo-
+stored. The DTC will be stored in the PCM memory           nents should be installed for model involved per
+for eventual display to the service technician.            manufacturer’s specifications.
+
+ACCESSING DIAGNOSTIC TROUBLE CODES                         RECENT SERVICE OR ACCIDENT REPAIR:
+  To read DTC’s and to obtain cooling system data,           Determine if any recent service has been per-
+(Refer to 25 - EMISSIONS CONTROL - DESCRIP-                formed on vehicle that may effect cooling system.
+TION).                                                     This may be:
+                                                             • Engine adjustments (incorrect timing)
+DIAGNOSIS AND TESTING - PRELIMINARY                          • Slipping engine accessory drive belt(s)
+CHECKS                                                       • Brakes (possibly dragging)
+                                                             • Changed parts. Incorrect water pump or pump
+ENGINE COOLING SYSTEM OVERHEATING                          rotating in wrong direction due to belt not correctly
+  Establish what driving conditions caused the com-        routed
+plaint. Abnormal loads on the cooling system such as         • Reconditioned radiator or cooling system refill-
+the following may be the cause:                            ing (possibly under filled or air trapped in system).
+  • Prolonged idle
+                                                           NOTE: If investigation reveals none of the previous
+  • Very high ambient temperature
+                                                           items as a cause for an engine overheating com-
+  • Slight tail wind at idle
+                                                           plaint, refer to COOLING SYSTEM DIAGNOSIS
+  • Slow traffic
+                                                           CHART BELOW.
+  • Traffic jams
+  • High speed or steep grades                               These charts are to be used as a quick-reference
+  Driving techniques that avoid overheating are:           only. Refer to COOLING SYSTEM DIAGNOSIS
+  • Idle with A/C off when temperature gauge is at         CHART
+end of normal range.
+  • Increasing engine speed for more air flow is rec-
+ommended.
+

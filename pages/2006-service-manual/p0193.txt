@@ -1,0 +1,51 @@
+TJ                                                                             REAR AXLE - 216RBI       3 - 137
+
+                                     PINION GEAR DEPTH VARIANCE
+
+ Original
+  Pinion                          Replacement Pinion Gear Depth Variance
+  Gear
+  Depth      24           23    22       21          0          +1        +2         +3        +4
+ Variance
+        +4           +0.008    +0.007   +0.006   +0.005       +0.004    +0.003     +0.002    +0.001        0
+        +3           +0.007    +0.006   +0.005   +0.004       +0.003    +0.002     +0.001       0       20.001
+        +2           +0.006    +0.005   +0.004   +0.003       +0.002    +0.001        0      20.001     20.002
+        +1           +0.005    +0.004   +0.003   +0.002       +0.001       0       20.001    20.002     20.003
+        0            +0.004    +0.003   +0.002   +0.001         0       20.001     20.002    20.003     20.004
+       21            +0.003    +0.002   +0.001       0       20.001     20.002     20.003    20.004     20.005
+       22            +0.002    +0.001     0      20.001      20.002     20.003     20.004    20.005     20.006
+       23            +0.001      0      20.001   20.002      20.003     20.004     20.005    20.006     20.007
+       24                 0    20.001   20.002   20.003      20.004     20.005     20.006    20.007     20.008
+
+
+PINION DEPTH MEASUREMENT AND ADJUSTMENT                    (2) Insert assembled height gauge components,
+                                                         rear bearing and screw into axle housing through
+  Measurements are taken with pinion cups and pin-       pinion bearing cups (Fig. 7).
+ion bearings installed in housing. Take measure-           (3) Install front pinion bearing and Cone 6740
+ments with Pinion Gauge Set 6730 and Dial                hand tight.
+Indicator C-3339 (Fig. 6).
+
+
+
+
+                                                                     Fig. 7 PINION HEIGHT BLOCK
+                                                         1 - PINION BLOCK
+                                                         2 - PINION HEIGHT BLOCK
+
+                                                            (4) Place Arbor Disc 6732 on Arbor D-115-3 in posi-
+                                                         tion in the housing side bearing cradles (Fig. 8).
+       Fig. 6 PINION DEPTH GAUGE TOOLS                   Install differential bearing caps on Arbor Discs and
+1 - DIAL INDICATOR
+                                                         tighten cap bolts to 41 N·m (30 ft. lbs.).
+2 - ARBOR
+3 - PINION HEIGHT BLOCK                                  NOTE: Arbor Discs 6732 have different step diame-
+4 - CONE                                                 ters to fit other axle sizes. Pick correct size step for
+5 - SCREW
+6 - PINION BLOCK                                         axle being serviced.
+7 - SCOOTER BLOCK
+8 - ARBOR DISC
+
+  (1) Assemble Pinion Height Block 6739, Pinion
+Block 6734 and rear pinion bearing onto Screw 6741
+(Fig. 6).
+

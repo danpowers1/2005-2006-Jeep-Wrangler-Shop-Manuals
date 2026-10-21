@@ -1,0 +1,39 @@
+8F - 2    BATTERY SYSTEM                                                                                       TJ
+
+for the proper battery jump starting procedure. While      oughly tested and inspected any time a battery needs
+battery charging can be considered a maintenance           to be charged or replaced. The cause of abnormal bat-
+procedure, the battery charging procedure and              tery discharge, overcharging or early battery failure
+related information are located later in this section of   must be diagnosed and corrected before a battery is
+this service manual. This was done because the bat-        replaced and before a vehicle is returned to service.
+tery must be fully-charged before any battery system       The service information for these systems has been
+diagnosis or testing procedures can be performed.          separated within this service manual to make it eas-
+                                                           ier to locate the specific information you are seeking.
+OPERATION                                                  However, when attempting to diagnose any of these
+   The battery system is designed to provide a safe,       systems, it is important that you keep their interde-
+efficient, reliable and mobile means of delivering and     pendency in mind.
+storing electrical energy. This electrical energy is         The diagnostic procedures used for the battery,
+required to operate the engine starting system, as         starting, and charging systems include the most
+well as to operate many of the other vehicle acces-        basic conventional diagnostic methods, to the more
+sory systems for limited durations while the engine        sophisticated On-Board Diagnostics (OBD) built into
+and/or the charging system are not operating. The          the Powertrain Control Module (PCM). Use of an
+battery system is also designed to provide a reserve       induction-type milliampere ammeter, a volt/ohmme-
+of electrical energy to supplement the charging sys-       ter, a battery charger, a carbon pile rheostat (load
+tem for short durations while the engine is running        tester) and a 12-volt test lamp may be required. All
+and the electrical current demands of the vehicle          OBD-sensed systems are monitored by the PCM.
+exceed the output of the charging system. In addition      Each monitored circuit is assigned a Diagnostic Trou-
+to delivering, and storing electrical energy for the       ble Code (DTC). The PCM will store a DTC in elec-
+vehicle, the battery system serves as a capacitor and      tronic memory for any failure it detects. Refer to
+voltage stabilizer for the vehicle electrical system. It   Charging System for the proper charging system on-
+absorbs most abnormal or transient voltages caused         board diagnostic test procedures.
+by the switching of any of the electrical components
+or circuits in the vehicle.                                MICRO 420 BATTERY TESTER
+                                                             The Micro 420 automotive battery tester is
+DIAGNOSIS AND TESTING - BATTERY SYSTEM                     designed to help the dealership technicians diagnose
+  The battery, starting, and charging systems in the       a defective battery. Follow the instruction manual
+vehicle operate with one another and must be tested        supplied with the tester to properly diagnose a vehi-
+as a complete system. In order for the engine to start     cle. If the instruction manual is not available refer to
+and the battery to maintain its charge properly, all of    the standard procedure in this section, which
+the components that are used in these systems must         includes the directions for using the Micro 420 bat-
+perform within specifications. It is important that        tery tester.
+the battery, starting, and charging systems be thor-
+

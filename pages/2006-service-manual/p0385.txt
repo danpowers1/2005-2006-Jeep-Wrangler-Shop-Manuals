@@ -1,0 +1,62 @@
+TJ                                                               ELECTRONIC CONTROL MODULES              8E - 9
+
+5 VOLT SUPPLIES
+   Primary 5-volt supply:
+   • supplies the required 5 volt power source to the
+Crankshaft Position (CKP) sensor.
+   • supplies the required 5 volt power source to the
+Camshaft Position (CMP) sensor.
+   • supplies a reference voltage for the Manifold
+Absolute Pressure (MAP) sensor.
+   • supplies a reference voltage for the Throttle
+Position Sensor (TPS) sensor.
+   Secondary 5-volt supply:
+   • supplies the required 5 volt power source to the
+oil pressure sensor.
+   • supplies the required 5 volt power source for the
+Vehicle Speed Sensor (VSS) (if equipped).
+   • supplies the 5 volt power source to the transmis-
+sion pressure sensor (if equipped with an RE auto-
+matic transmission).
+                                                              Fig. 5 PCM MOUNTING - LEFT HAND DRIVE
+IGNITION CIRCUIT SENSE                                    1 - MOUNTING SCREWS (3)
+  The ignition circuit sense input tells the PCM the      2 - PCM
+ignition switch has energized the ignition circuit.       3 - PCM ELECTRICAL CONNECTORS
+  Battery voltage is also supplied to the PCM
+through the ignition switch when the ignition is in
+the RUN or START position. This is referred to as
+the “ignition sense” circuit and is used to 9wake up”
+the PCM. Voltage on the ignition input can be as low
+as 6 volts and the PCM will still function. Voltage is
+supplied to this circuit to power the PCM’s 8-volt reg-
+ulator and to allow the PCM to perform fuel, ignition
+and emissions control functions.
+
+REMOVAL
+  Use the drb scan tool to reprogram the new
+powertrain control module (pcm) with the vehi-
+cles original identification number (vin) and
+the vehicles original mileage. If this step is not
+done, a diagnostic trouble code (dtc) may be
+set.
+
+
+
+
+                                                             Fig. 6 PCM MOUNTING - RIGHT HAND DRIVE
+                                                          1 - PCM
+                                                          2 - MOUNTING SCREWS (3)
+                                                          3 - PCM ELECTRICAL CONNECTORS
+
+                                                            To avoid possible voltage spike damage to the
+                                                          PCM, ignition key must be off, and negative battery
+                                                          cable must be disconnected before unplugging PCM
+                                                          connectors.
+                                                            (1) Disconnect negative battery cable at battery.
+                                                            (2) Remove plastic shields from over four electrical
+                                                          connectors. Shields snap to connectors.
+                                                            (3) Carefully unplug four electrical connectors (3)
+                                                          (Fig. 5) or (Fig. 6) from PCM.
+                                                            (4) Remove three PCM mounting bolts (1) or (2)
+                                                          and remove PCM from vehicle.
+
