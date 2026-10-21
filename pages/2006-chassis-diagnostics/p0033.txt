@@ -1,0 +1,48 @@
+                                                                                     BRAKES (CAB)
+
+Symptom:
+    SYSTEM OVER VOLTAGE
+
+
+
+When Monitored and Set Condition:
+
+        SYSTEM OVER VOLTAGE
+        When Monitored: Ignition on. The CAB monitors the Fused B(+) circuit at all times for
+        proper system voltage.
+        Set Condition:     If the voltage is above 16.5 volts, the Diagnostic Trouble Code (DTC) is set.
+
+
+
+                                             POSSIBLE CAUSES
+BATTERY OVERCHARGED
+FUSED IGNITION SWITCH OUTPUT HIGH
+GROUND CIRCUIT OPEN
+CAB - INTERNAL FAULT
+INTERMITTENT DTC
+
+ TEST                                          ACTION                                        APPLICABILITY
+   1      Turn the ignition on.                                                                   All
+          With the DRBIIIt, erase DTC’s.
+          Turn the ignition off.
+          Turn the ignition on.
+          Start the engine.
+          With the DRBIIIt, read DTC’s.
+          Does the DRBIIIt display System Overvoltage DTC?
+                   Yes   → Go To     2
+                   No    → Go To     6
+
+   2      Turn the ignition off.                                                                  All
+          Inspect for battery charger connected to battery.
+          Is a battery charger connected to the battery?
+                   Yes   → Charge battery to proper level. Disconnect the battery charger.
+                           Clear DTC’s.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+                   No    → Go To     3
+
+
+
+
+                                                        29
+

@@ -1,0 +1,40 @@
+                                  CONNECTOR PINOUTS
+
+
+
+
+           RIGHT FRONT WHEEL SPEED SENSOR (COMPONENT SIDE) - 2 WAY
+CAV            CIRCUIT                              FUNCTION
+ 1    WT/DB                  RIGHT FRONT WHEEL SPEED SENSOR (-)
+ 2    WT                     RIGHT FRONT WHEEL SPEED SENSOR (+)
+
+
+
+
+                                                                     C
+                                                                     O
+                RIGHT REAR WHEEL SPEED SENSOR - BLACK 2 WAY          N
+CAV            CIRCUIT                              FUNCTION         N
+ 1    B1 18DG/OR             RIGHT REAR WHEEL SPEED SENSOR (-)       E
+ 2    B2 18DG/LB             RIGHT REAR WHEEL SPEED SENSOR (+)       C
+                                                                     T
+                                                                     O
+                                                                     R
+
+                                                                     P
+                                                                     I
+                                                                     N
+                                                                     O
+                                                                     U
+                                                                     T
+                                                                     S
+           RIGHT REAR WHEEL SPEED SENSOR (COMPONENT SIDE) - 2 WAY
+CAV            CIRCUIT                              FUNCTION
+ 1    YL/DB                  RIGHT REAR WHEEL SPEED SENSOR (-)
+ 2    YL                     RIGHT REAR WHEEL SPEED SENSOR (+)
+
+
+
+
+               63
+

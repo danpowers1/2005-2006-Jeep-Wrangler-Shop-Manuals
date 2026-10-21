@@ -1,0 +1,65 @@
+    CONNECTOR PINOUTS
+
+
+
+                                          BRAKE WARNING INDICATOR SWITCH - BLACK 2 WAY
+                        CAV          CIRCUIT                                 FUNCTION
+                         1    G9 20GY/BK              BRAKE WARNING INDICATOR DRIVER
+                         2    B83 20DG/WT             BRAKE WARNING INDICATOR DRIVER
+
+
+
+
+                                     CLUTCH PEDAL POSITION SWITCH (M/T) - BLACK 2 WAY
+                        CAV          CIRCUIT                                 FUNCTION
+                         1    T141 18YL/OR            CLUTCH INTERLOCK SWITCH SENSE
+                         2    Z902 18BK               GROUND
+
+
+C
+O
+N
+N                                              CONTROLLER ANTILOCK BRAKE - 25 WAY
+E                       CAV          CIRCUIT                                 FUNCTION
+
+C                        1    B1 18DG/OR              RIGHT REAR WHEEL SPEED SENSOR (-)
+
+T                        2    B3 18DG/YL              LEFT REAR WHEEL SPEED SENSOR (-)
+
+O                        3    B7 18DG/VT              RIGHT FRONT WHEEL SPEED SENSOR (+)
+
+R                        4    B9 18DG/LG              LEFT FRONT WHEEL SPEED SENSOR (+)
+                         5                 -                                     -
+
+P                        6    G117 18VT/LG            G-SWITCH NO. 1 SENSE
+
+I                        7    G118 18VT/YL            G-SWITCH NO. 2 SENSE
+
+N                        8    Z127 12BK/DG            GROUND
+
+O                        9    A111 12DG/RD            FUSED B(+)
+
+U                       10    B4 18DG/GY              LEFT REAR WHEEL SPEED SENSOR (+)
+
+T                       11    B8 18DG/TN              LEFT FRONT WHEEL SPEED SENSOR (-)
+
+S                       12    L50 18WT/TN             BRAKE LAMP SWITCH OUTPUT
+                        13    G119 18VT               G-SWITCH TEST SIGNAL
+                        14                 -                                     -
+                        15                 -                                     -
+                        16    G83 18VT/WT             ABS RELAY CONTROL
+                        17    B2 18DG/LB              RIGHT REAR WHEEL SPEED SENSOR (+)
+                        18    B6 18DG/WT              RIGHT FRONT WHEEL SPEED SENSOR (-)
+                        19                 -                                     -
+                        20    D21 18WT/BR             SCI TRANSMIT
+                        21                 -                                     -
+                        22                 -                                     -
+                        23    F102 18PK/DB            FUSED IGNITION SWITCH OUTPUT (RUN)
+                        24    Z107 12BK/DG            GROUND
+                        25    A107 12TN/RD            FUSED B(+)
+
+
+
+
+                                     54
+

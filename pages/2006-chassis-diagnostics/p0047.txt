@@ -1,0 +1,60 @@
+                                                                                      BRAKES (CAB)
+
+*REAR AXLE LOCK INDICATOR REMAINS FLASHING — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  4     Turn the ignition off.                                                                  All
+        Replace the Rear Locker Relay with a known good part.
+        Turn the ignition on.
+        Ensure Transfer Case is in 4 9LOW9 range.
+        Depress the Axle Lock Switch once.
+        Did the Rear Locker Pump turn ON?
+                Yes   → Replace the Rear Locker Relay.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    5
+
+  5     Measure the resistance of the Rear Locker Relay Output circuit between the PDC          All
+        connector and the Rear Locker Pump connector.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Rear Locker Relay Output circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    6
+
+  6     Turn the ignition off.                                                                  All
+        Disconnect the Rear Locker Pump harness connector.
+        Measure the resistance between ground and the Rear Locker Pump Ground circuit.
+        Is the resistance above 5.0 ohms?
+                Yes   → Repair the Rear Locker Pump Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    7
+
+  7     Turn the ignition on.                                                                   All
+        Ensure Transfer Case is in 4 9LOW9 range.
+        Depress the Axle Lock Switch once.
+        Did the Rear Locker Pump operate?
+
+                Yes   → Go To    8
+                No    → Refer to Differential/Driveline for the related symptom(s).
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  8     Turn the ignition off.                                                                  All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Disconnect the Rear Locker Indicator Switch harness connector.
+        Measure the resistance of the Rear Locker Indicator Switch Sense circuit between
+        the Instrument Cluster C1 connector and the Rear Locker Indicator Switch connec-
+        tor.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Rear Locker Indicator Switch Sense circuit for an
+                        open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    9
+
+
+
+
+                                                    43
+

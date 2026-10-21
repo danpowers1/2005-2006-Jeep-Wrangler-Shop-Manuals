@@ -1,0 +1,56 @@
+                                                                             BRAKES (CAB)
+
+Symptom:
+    PUMP MOTOR NOT WORKING PROPERLY
+
+
+
+When Monitored and Set Condition:
+
+        PUMP MOTOR NOT WORKING PROPERLY
+        When Monitored: Ignition on. The CAB commands the pump on at 20 km/h (12 mph) to
+        check its operation, if the brake switch is not applied. If the driver has their foot on the
+        brake, the test will run at 40 km/h (25 mph). The CAB monitors pump voltage
+        continuously.
+        Set Condition: The DTC is stored when the CAB detects: 1) Improper voltage decay after
+        the pump was turned off. 2) Pump not energized by the CAB, but voltage is present for 3.5
+        seconds. 3) Pump is turned on by the CAB, but their is insufficient voltage to operate it.
+
+
+
+                                          POSSIBLE CAUSES
+ABS PUMP MOTOR INTERMITTENT DTC
+FUSED B(+) CIRCUIT INTERMITTENTLY SHORTED TO GROUND
+FUSED B(+) CIRCUIT SHORTED TO GROUND
+CAB - FUSED B(+) CIRCUIT SHORTED TO GROUND
+FUSE BLOWN - PUMP MOTOR CIRCUIT
+NO B+ SUPPLY TO FUSE
+ABS PUMP MOTOR INOPERATIVE
+FUSED B(+) CIRCUIT OPEN
+GROUND CIRCUIT OPEN
+GROUND CIRCUIT HIGH RESISTANCE
+CAB - INTERNAL FAULT
+
+ TEST                                      ACTION                                 APPLICABILITY
+   1      Turn the ignition on.                                                          All
+          With the DRBIIIt, read DTC’s.
+          With the DRBIIIt, erase DTC’s.
+          Turn the ignition off.
+          Turn the ignition on.
+          With the DRBIIIt, actuate the ABS pump motor.
+          Did the Pump Motor operate when actuated?
+
+                  No    → Go To   2
+
+                  Yes   → Go To   13
+
+   2      Turn the ignition off.                                                         All
+          Remove and inspect the ABS Pump fuse in the PDC.
+          Is the Fuse blown?
+                  Yes   → Go To   3
+
+                  No    → Go To   7
+
+
+                                                    25
+

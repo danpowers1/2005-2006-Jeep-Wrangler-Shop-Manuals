@@ -1,0 +1,58 @@
+                          TABLE OF CONTENTS - Continued
+      RIGHT FRONT SENSOR CIRCUIT FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+      RIGHT REAR SENSOR CIRCUIT FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+      LEFT FRONT SENSOR SIGNAL FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+      LEFT REAR SENSOR SIGNAL FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+      RIGHT FRONT SENSOR SIGNAL FAILURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+      RIGHT REAR SENSOR SIGNAL FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+      PUMP MOTOR NOT WORKING PROPERLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+      SYSTEM OVER VOLTAGE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+      SYSTEM UNDER VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .31
+      *ABS WARNING INDICATOR ALWAYS ON . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+      *ABS WARNING INDICATOR INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .35
+      *BRAKE LAMP SWITCH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+      *FRONT AXLE LOCK INDICATOR REMAINS FLASHING . . . . . . . . . . . . . . . . . . . . . . .38
+      *NO RESPONSE FROM CONTROLLER ANTILOCK BRAKE . . . . . . . . . . . . . . . . . . . .40
+      *REAR AXLE LOCK INDICATOR REMAINS FLASHING . . . . . . . . . . . . . . . . . . . . . . . .42
+      *REAR AXLE LOCK INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+
+      VERIFICATION TESTS
+      VERIFICATION TESTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+
+8.0   COMPONENT LOCATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49
+
+      8.1      CONTROLLER ANTILOCK BRAKE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49
+      8.2      DATA LINK CONNECTOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49
+      8.3      G-SWITCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .49
+      8.4      FUSES & RELAYS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50
+      8.5      WHEEL SPEED SENSORS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50
+      8.6      WHEEL SPEED SENSOR CONNECTORS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .50
+      8.7      BRAKE SWITCHES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+                8.7.1  PARKING BRAKE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+                8.7.2  BRAKE SWITCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .51
+
+9.0   CONNECTOR PINOUTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .53
+
+      ABS PUMP MOTOR (COMPONENT SIDE) - 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . .53
+      AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY. . . . . . . . . . . . . . . . . . . . . . . .53
+      BRAKE LAMP SWITCH - GRAY 6 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .53
+      BRAKE WARNING INDICATOR SWITCH - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . . . .54
+      CLUTCH PEDAL POSITION SWITCH (M/T) - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . .54
+      CONTROLLER ANTILOCK BRAKE - 25 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .54
+      DATA LINK CONNECTOR - BLACK 16 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .55
+      FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY . .55
+      FRONT LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY . . . . . . . . . . . . .55
+      FUSES (FB). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .57
+      G-SWITCH - 3 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .57
+      INSTRUMENT CLUSTER C1 - 12 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .57
+      INSTRUMENT CLUSTER C2 - 16 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .58
+      LEFT FRONT WHEEL SPEED SENSOR - 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . .58
+      LEFT FRONT WHEEL SPEED SENSOR (COMPONENT SIDE) - 2 WAY . . . . . . . . . .58
+      LEFT REAR WHEEL SPEED SENSOR - 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .59
+      LEFT REAR WHEEL SPEED SENSOR (COMPONENT SIDE) - 2 WAY. . . . . . . . . . . .59
+      FUSES (PDC) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .61
+      ANTILOCK BRAKE RELAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .61
+
+
+                                                                 ii
+

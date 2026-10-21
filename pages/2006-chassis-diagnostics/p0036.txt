@@ -1,0 +1,39 @@
+BRAKES (CAB)
+
+SYSTEM UNDER VOLTAGE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  4     Disconnect the CAB harness connector.                                                         All
+        Turn the ignition on.
+        Measure the voltage of the Fused Ignition Switch circuit.
+        Is the voltage above 10 volts?
+
+                 Yes   → Go To     5
+
+                 No    → Repair the Fused Ignition Switch Output Circuit for high resis-
+                         tance
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  5     If there are no potential causes remaining, view repair.                                      All
+
+                 Repair
+                           Replace the Controller Antilock Brake.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition off.                                                                        All
+        Visually inspect the related wiring harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Refer to any Hotline letters or Technical Service Bulletins that may apply.
+        Were any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Test Complete.
+
+
+
+
+                                                       32
+

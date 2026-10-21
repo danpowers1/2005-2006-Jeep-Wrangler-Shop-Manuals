@@ -1,0 +1,54 @@
+                                    CONNECTOR PINOUTS
+                        DATA LINK CONNECTOR - BLACK 16 WAY
+CAV          CIRCUIT                                    FUNCTION
+ 1                  -                                      -
+ 2    D25 20WT/VT              PCI BUS
+ 3                  -                                      -
+ 4    Z111 20BK/WT             GROUND
+ 5    Z11 20BK/LG              GROUND
+ 6                  -                                      -
+ 7    D21 20WT/BR              SCI TRANSMIT (PCM/CAB)
+ 8                  -                                      -
+ 9    D16 20WT/OR              SCI RECEIVE (TCM)
+10                  -                                      -
+11                  -                                      -
+12    D20 20WT/LG              SCI RECEIVE (PCM)
+13                  -                                      -
+14                  -                                      -
+15    D15 20WT/DG              SCI RECEIVE (TCM)
+16    M21 20YL/BR              FUSED B(+)
+
+
+
+
+                                                                       C
+                                                                       O
+                                                                       N
+      FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+                                                                       N
+CAV          CIRCUIT                                    FUNCTION
+                                                                       E
+ 1    Z987 20BK                GROUND
+                                                                       C
+ 2    G300 20VT/WT             FRONT LOCKER INDICATOR SWITCH SENSE
+                                                                       T
+                                                                       O
+                                                                       R
+
+                                                                       P
+                                                                       I
+                                                                       N
+                                                                       O
+                                                                       U
+                                                                       T
+          FRONT LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY        S
+CAV          CIRCUIT                                    FUNCTION
+ 1    Z987 18BK                GROUND
+ 2                  -                                      -
+ 3    A750 18TN/RD             FRONT LOCKER RELAY OUTPUT
+
+
+
+
+             55
+

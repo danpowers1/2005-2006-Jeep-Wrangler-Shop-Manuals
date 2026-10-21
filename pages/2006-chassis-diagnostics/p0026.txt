@@ -1,0 +1,53 @@
+BRAKES (CAB)
+
+Symptom List:
+    LEFT FRONT SENSOR SIGNAL FAILURE
+    LEFT REAR SENSOR SIGNAL FAILURE
+    RIGHT FRONT SENSOR SIGNAL FAILURE
+    RIGHT REAR SENSOR SIGNAL FAILURE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be LEFT FRONT SENSOR SIGNAL
+             FAILURE.
+
+
+When Monitored and Set Condition:
+
+     LEFT FRONT SENSOR SIGNAL FAILURE
+     When Monitored:    Wheel speed comparison is checked at drive off and continuously
+     thereafter.
+     Set Condition: If, during an ABS stop, the CAB commands any valve solenoid on for an
+     extended length of time, and does not see a corresponding wheel speed change, the
+     Diagnostic Trouble Code (DTC) is set. The DTC can also set if the signal is missing or
+     erratic.
+
+     LEFT REAR SENSOR SIGNAL FAILURE
+     When Monitored:    Wheel speed comparison is checked at drive off and continuously
+     thereafter.
+     Set Condition: If, during an ABS stop, the CAB commands any valve solenoid on for an
+     extended length of time, and does not see a corresponding wheel speed change, the
+     Diagnostic Trouble Code (DTC) is set. The DTC can also set if the signal is missing or
+     erratic.
+
+     RIGHT FRONT SENSOR SIGNAL FAILURE
+     When Monitored:    Wheel speed comparison is checked at drive off and continuously
+     thereafter.
+     Set Condition: If, during an ABS stop, the CAB commands any valve solenoid on for an
+     extended length of time, and does not see a corresponding wheel speed change, the
+     Diagnostic Trouble Code (DTC) is set. The DTC can also set if the signal is missing or
+     erratic.
+
+     RIGHT REAR SENSOR SIGNAL FAILURE
+     When Monitored:    Wheel speed comparison is checked at drive off and continuously
+     thereafter.
+     Set Condition: If, during an ABS stop, the CAB commands any valve solenoid on for an
+     extended length of time, and does not see a corresponding wheel speed change, the
+     Diagnostic Trouble Code (DTC) is set. The DTC can also set if the signal is missing or
+     erratic.
+
+
+
+
+                                           22
+

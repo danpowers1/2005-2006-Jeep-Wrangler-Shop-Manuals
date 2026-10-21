@@ -1,0 +1,22 @@
+BRAKES (CAB)
+
+CAB POWER FEED CIRCUIT — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  9     Turn the ignition off.                                                                        All
+        Visually inspect the related wiring harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Refer to any Hotline letters or Technical Service Bulletins that may apply.
+        Were any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Test Complete.
+
+
+
+
+                                                       12
+

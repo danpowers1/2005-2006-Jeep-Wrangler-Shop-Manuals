@@ -1,0 +1,39 @@
+    CONNECTOR PINOUTS
+                                                VEHICLE SPEED SENSOR - BLACK 3 WAY
+                        CAV           CIRCUIT                                FUNCTION
+                         1    F856 18YL/PK (EXCEPT     5 VOLT SUPPLY
+                              MAN 6 SPD TRANS)
+                         1    F856 20YL/PK (MAN 6      5 VOLT SUPPLY
+                              SPD TRANS)
+                         2    K900 20DB/DG             SENSOR GROUND
+                         3    K75 18DB/OR (EXCEPT      VEHICLE SPEED SENSOR SIGNAL
+                              MAN 6 SPD TRANS)
+                         3    K75 20DB/OR (MAN 6 SPD VEHICLE SPEED SENSOR SIGNAL
+                              TRANS)
+
+
+
+
+C
+O
+N
+N
+E
+C
+T
+O
+R
+
+P
+I
+N
+O
+U
+T
+S
+
+
+
+
+                                      64
+

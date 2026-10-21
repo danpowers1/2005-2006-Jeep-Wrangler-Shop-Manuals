@@ -1,0 +1,67 @@
+                                                                                       BRAKES (CAB)
+
+G-SWITCH NOT PROCESSABLE — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  6     If there are no potential causes remaining, view repair.                                    All
+
+                 Repair
+                          Replace the CAB.
+                          Perform ABS VERIFICATION TEST - VER 1.
+
+  7     Turn the ignition off.                                                                      All
+        Disconnect the CAB Connector.
+        Note: Check connector - Clean/repair as necessary.
+        Disconnect the G-Switch Sensor Connector.
+        Measure the resistance of the G-Switch #1 Sense Circuit.
+        Is the resistance below 5 ohms?
+                 Yes   → Go To     8
+
+                 No    → Repair the G-Switch #1 Sense circuit open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  8     Turn the ignition off.                                                                      All
+        Check connector - Clean/repair as necessary.
+        Remove G-Switch from vehicle.
+        While holding the G-Switch level, measure the resistance of the G-Switch Test Signal
+        circuit and the G-Switch #1 Sense circuit in the G-Switch connector.
+        Is the resistance below 5 ohms?
+
+                 Yes   → Go To     9
+                 No    → Replace G-Switch Assembly.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  9     If there are no potential causes remaining, view repair.                                    All
+                 Repair
+                          Replace the CAB.
+                          Perform ABS VERIFICATION TEST - VER 1.
+
+  10    Turn the ignition off.                                                                      All
+        Disconnect the CAB Connector.
+        Note: Check connector - Clean/repair as necessary.
+        Disconnect the G-Switch Connector.
+        Note: Check connector - Clean/repair as necessary.
+        Measure the resistance of the G-Switch #2 Sense Circuit.
+        Is the resistance below 5 ohms?
+                 Yes   → Go To     11
+
+                 No    → Repair the G-Switch #2 Sense Circuit Open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  11    Turn the ignition off.                                                                      All
+        Disconnect the G-Switch connector.
+        Note: Check connector - Clean/repair as necessary.
+        Remove the G-Switch from vehicle.
+        While holding the G-Switch level, measure the resistance of the G-Switch Test Signal
+        circuit and the G-Switch #2 Sense circuit in the G-Switch connector.
+        Is the resistance below 5 ohms?
+
+                 Yes   → Go To     12
+                 No    → Replace the G-Switch Assembly.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      17
+

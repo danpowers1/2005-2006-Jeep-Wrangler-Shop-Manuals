@@ -1,0 +1,61 @@
+                                                                                         BRAKES (CAB)
+
+Symptom:
+    CONTROLLER FAILURE
+
+
+
+When Monitored and Set Condition:
+
+        CONTROLLER FAILURE
+        When Monitored:        Ignition on. The CAB monitors its internal microprocessors for correct
+        operation.
+        Set Condition:     If the CAB detects an internal fault, the DTC is set.
+
+
+
+                                             POSSIBLE CAUSES
+GROUND AND POWER CONNECTIONS
+GROUND CIRCUIT HIGH RESISTANCE
+GROUND CIRCUIT INTERFERENCE
+CAB - INTERNAL FAILURE
+
+ TEST                                          ACTION                                            APPLICABILITY
+   1      Inspect for non-factory wiring that may interfere with CAB power or ground circuits.        All
+          Disconnect the CAB harness connector.
+          Inspect the CAB wiring harness for incorrect routing and damage.
+          Inspect the CAB harness and component connectors for corrosion and damage.
+          Were any concerns found?
+                   Yes   → Repair as necessary.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+                   No    → Go To    2
+
+   2      Turn the ignition off.                                                                      All
+          Disconnect the CAB harness connector.
+          Note: Check connector - Clean/repair as necessary.
+          Measure the resistance of the CAB ground circuits to body ground.
+          Is the resistance below 1.0 ohm?
+
+                   Yes   → Go To    3
+
+                   No    → Repair the Ground circuit high resistance.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+   3      Turn the ignition off.                                                                      All
+          Disconnect the CAB harness connector.
+          Note: Check connector - Clean/repair as necessary.
+          Turn the ignition on.
+          Turn on all accessories.
+          Measure the voltage of the Ground circuit.
+          Is the voltage below 1.0 volts?
+
+                   Yes   → Go To    4
+                   No    → Repair as necessary. Unsplice any accessories connected to the
+                           CAB ground circuit. Reroute and shield any high voltage cables
+                           away from the CAB ground circuit.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+
+                                                        13
+

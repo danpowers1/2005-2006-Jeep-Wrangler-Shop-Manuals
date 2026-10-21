@@ -1,0 +1,22 @@
+GENERAL INFORMATION
+6.0    GLOSSARY OF TERMS                         LF    left front
+                                                 LR    left rear
+ABS       antilock brake system
+                                                 PCI   Programmable Communication
+AC        alternating current                          Interface
+BCM       Body Control Module                    PCM   Powertrain Control Module
+CAB       controller antilock brake              PDC   power distribution center
+DC        direct current                         P/M   pump motor
+DLC       data link connector                    RF    right front
+DRBIIIt   diagnostic read-out box                RR    right rear
+DTC       diagnostic trouble code                SCI   Serial Communication Interface
+HCU       hydraulic control unit                 SOL   Solenoid
+HZ        Hertz                                  WSS   wheel speed sensor
+JBLK      junction block
+JTEC      Jeep and Truck Engine Controller
+
+
+
+
+                                             8
+

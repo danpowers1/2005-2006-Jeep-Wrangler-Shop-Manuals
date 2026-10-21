@@ -1,0 +1,60 @@
+                                                                                    BRAKES (CAB)
+
+Symptom:
+    *BRAKE LAMP SWITCH
+
+
+
+
+                                         POSSIBLE CAUSES
+CHECK BRAKE LAMP SWITCH OUTPUT
+BRAKE LAMP SWITCH B+ OPEN
+BRAKE LAMP SWITCH OUTPUT CIRCUIT SHORT OR OPEN
+BRAKE LAMP SWITCH OPEN
+CAB -- INTERNAL OPEN
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     With the DRBIIIt in Inputs/Outputs, read the Brake Lamp Switch state.                    All
+        Press and release the brake pedal.
+        Does the DRBIIIt display PRESSED and RELEASED?
+                Yes   → The Brake Lamp Switch is OK.
+                        Perform ABS VERIFICATION TEST - VER 1.
+                No    → Go To    2
+
+  2     Disconnect the Brake Lamp Switch harness connector.                                      All
+        Using a 12-volt test light connected to ground, check the Brake Lamp Switch Fused
+        B+ circuit.
+        Does the test light illuminate brightly ?
+
+                Yes   → Go To     3
+                No    → Repair the Brake Lamp Switch Fused B+ circuit for an open.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+  3     Disconnect the Brake Lamp Switch harness connector.                                      All
+        Connect a jumper wire between the Brake Lamp Switch B+ and Output circuits.
+        With the DRBIIIt in Inputs/Outputs, read the Brake Lamp Switch state.
+        Does the DRBIIIt display PRESSED?
+                Yes   → Replace the Brake Lamp Switch in accordance with the Service
+                        Information.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+                No    → Go To    4
+
+  4     Disconnect the CAB harness connector.                                                    All
+        Disconnect the Brake Lamp Switch harness connector.
+        Check the Brake Lamp Switch Output circuit for a short to voltage and an open.
+        Is the Brake Lamp Switch Output circuit shorted or open?
+
+                Yes   → Repair the Brake Lamp Switch Output circuit for a short to
+                        voltage or an open.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+                No    → Replace the Controller Anti-Lock Brake in accordance with the
+                        Service Information.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    37
+

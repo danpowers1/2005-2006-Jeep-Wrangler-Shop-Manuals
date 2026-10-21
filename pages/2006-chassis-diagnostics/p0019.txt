@@ -1,0 +1,50 @@
+                                                                                 BRAKES (CAB)
+
+Symptom:
+    G-SWITCH NOT PROCESSABLE
+
+
+
+When Monitored and Set Condition:
+
+        G-SWITCH NOT PROCESSABLE
+        When Monitored: Ignition on. The CAB sends a test signal out to the G-switch and
+        monitors the sense circuits #1 and #2.
+        Set Condition: If the sense circuits are open for 2 minutes while driving or an otherwise
+        improper signal is detected at any time, the Diagnostic Trouble Code (DTC) is set.
+
+
+
+                                            POSSIBLE CAUSES
+G-SWITCH TEST SIGNAL CIRCUIT OPEN
+INTERMITTENT DTC
+G-SWITCH TEST SIGNAL OR SENSE CIRCUIT SHORT TO VOLTAGE OR GROUND
+G-SWITCH SIGNAL CIRCUIT INTERNAL OPEN
+CAB - TEST SIGNAL CIRCUIT OPEN
+G-SWITCH #1 SENSE CIRCUIT OPEN
+G-SWITCH #1 SENSE SWITCH OPEN
+CAB - #1 SENSE CIRCUIT OPEN
+G-SWITCH #2 SENSE CIRCUIT OPEN
+G-SWITCH #2 SENSE SWITCH OPEN
+CAB - #2 SENSE CIRCUIT OPEN
+
+ TEST                                          ACTION                              APPLICABILITY
+   1      Turn the ignition on.                                                         All
+          With the DRBIIIt, read the status of the G-Switch internal switches.
+          What is the status of both of the G-Switches?
+                   Both G-Switches are closed.
+                           Go To 2
+
+                   Both G-Switches are open.
+                           Go To 3
+
+                   Only the #1 G-Switch is open.
+                            Go To 7
+                   Only the #2 G-Switch is open.
+                            Go To 10
+
+
+
+
+                                                       15
+

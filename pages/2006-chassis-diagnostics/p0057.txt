@@ -1,0 +1,46 @@
+                                                              CONNECTOR PINOUTS
+9.0   CONNECTOR PINOUTS
+
+
+
+
+                                               ABS PUMP MOTOR (COMPONENT SIDE) - 2 WAY
+                      CAV             CIRCUIT                                     FUNCTION
+                       1    BR/WT                        PUMP/MOTOR RELAY OUTPUT
+                       2    BK                           GROUND
+
+
+
+
+                                         AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY
+                                                                                             C
+                      CAV             CIRCUIT                                     FUNCTION   O
+                       1    Z1 18BK                      GROUND                              N
+                       2    E2 20OR/BR                   PANEL LAMPS FEED                    N
+                       3    M21 20YL/BR                  FUSED B(+)                          E
+                       4    G302 20VT/OR                 LOCKER ENABLE SIGNAL 1              C
+                       5    G303 20VT/DG                 LOCKER ENABLE SIGNAL 2              T
+                       6    G305 20VT/LG                 REAR LOCKER REQUEST                 O
+                       7    G304 20VT/DB                 FRONT LOCKER REQUEST                R
+                       8                   -                                         -
+                                                                                             P
+                                                                                             I
+                                                                                             N
+                                                                                             O
+                                                   BRAKE LAMP SWITCH - GRAY 6 WAY            U
+                      CAV             CIRCUIT                                     FUNCTION   T
+                       1    B15 20DG/WT                  BRAKE SWITCH NO. 1 SIGNAL           S
+                       1    B15 20DG/WT                  BRAKE SWITCH NO. 1 SIGNAL
+                       2    Z249 20BK/OR                 GROUND
+                       3    V32 20VT/YL (EXCEPT          S/C SUPPLY
+                            POSTAL)
+                       4    V30 20VT/WT (EXCEPT          S/C BRAKE SWITCH OUTPUT
+                            POSTAL)
+                       5    A103 18GY/RD                 FUSED B(+)
+                       6    L50 18WT/TN                  BRAKE LAMP SWITCH OUTPUT
+
+
+
+
+                                      53
+

@@ -1,0 +1,16 @@
+BRAKES (CAB)
+
+CONTROLLER FAILURE — Continued
+
+ TEST                                        ACTION                APPLICABILITY
+  4     If there are no possible causes remaining, view repair.         All
+
+                 Repair
+                          Replace the CAB.
+                          Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      14
+

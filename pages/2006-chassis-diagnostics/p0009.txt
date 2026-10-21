@@ -1,0 +1,59 @@
+                                                                         GENERAL INFORMATION
+ward press of the axle lock switch will operate the            ver: 2.14
+front locker relay and front locker pump. The first            date: 26 Jul93
+downward press on the axle lock switch locks the               file: key_itf.cc
+rear axle, the second downward press locks the                 date: Jul 26 1993
+front axle (rear is still locked), the third downward          line: 548
+press unlocks the front axle (rear is still locked), the       err: 0x1
+fourth downward press locks the front axle (rear               User-Requested COLD Boot
+axle is still locked). An upward press on the axle
+lock switch at any time will unlock any axle that is           Press MORE to switch between this display
+currently locked.                                                and the application screen.
+   The enabled axle lock switch energizes the locker           Press F4 when done noting information.
+relay and voltage is sent to the locker pump to
+supply 5 psi of air to the axle allowing the differen-         3.5.1    DRBIIIT DOES NOT POWER UP
+tial to lock up. The “axle lock” indicator on the                       (BLANK SCREEN)
+instrument cluster flashes during the transition
+state. The instrument cluster is seeking lock feed-               If the LED’s do not light or no sound is emitted at
+back from the locking indicator switch. With a                 start up, check for loose cable connections or a bad
+successful lock request the “axle lock” indicator will         cable. Check the vehicle battery voltage (data link
+be illuminated and a chime will sound.                         16-way connector cavity 16). A minimum of 11 volts
+   If an axle is engaged the axle lock switch remains          is required to adequately power the DRBIIIt. Also,
+enabled until all axles are unlocked, regardless if            check for a good ground at the DLC.
+the key is removed from the ignition switch. If the               If all connections are proper between the
+ignition key is removed and either axle is locked the          DRBIIIt and the vehicle or other devices, and the
+instrument cluster “axle lock” indicator to the cor-           vehicle battery is fully charged, and inoperative
+responding axle will flash and the chime will sound            DRBIIIt may be the result of faulty cable or vehicle
+three times to alert of battery discharge. Flashing            wiring.
+“axle lock” indicators will continue until axles are
+unlocked. Once the axles have been locked it will              3.5.2    DISPLAY IS NOT VISIBLE
+remain locked until one of the following happens:                Low temperatures will affect the visibility of the
+1. an upward press of the axle lock switch for all             display. Adjust the contrast to compensate for this
+    locked axles or downward press for front axle              condition.
+    only
+2. transfer case is shifted out of 4 “LOW” range
+3. vehicle speed exceeds 72 km/h (45 mph)
+4. loss of battery power
+
+3.4    USING THE DRBIIIT
+  Refer to the DRBIIIt user’s guide for instructions
+and assistance with reading diagnostic trouble
+codes, erasing trouble codes and other DRBIIIt
+functions.
+
+3.5    DRBIIIT ERROR MESSAGES
+  Under normal operation, the DRBIIIt will dis-
+play one of only two error messages:
+   – User–Requested WARM Boot or User–Re-                      4.0     DISCLAIMERS, SAFETY
+     quested COLD Boot
+  This is a sample of such an error message display:
+                                                                       WARNINGS
+
+                                                               4.1     DISCLAIMERS
+                                                                 All information, illustrations, and specifications
+                                                               contained in this manual are based on the latest
+
+
+
+                                                           5
+

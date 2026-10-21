@@ -1,0 +1,58 @@
+BRAKES (CAB)
+
+PUMP MOTOR NOT WORKING PROPERLY — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  3     Turn the ignition off.                                                                      All
+        Make sure the Pump Motor connector is secure.
+        Visually inspect the Fused B(+) Circuit in the wiring harness from the PDC to the
+        CAB. Look for any sign of an Intermittent Short to Ground.
+        Is the wiring harness OK?
+                 Yes   → Go To     4
+
+                 No    → Repair the Fused B(+) Circuit shorted to ground. The CAB must
+                         sense all four wheels at 25 km/h (15 mph) before it will extinguish
+                         the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                                      All
+        Remove ABS PUMP Fuse 8 from the Power Distribution Center (PDC).
+        Disconnect the CAB connector.
+        Make sure the Pump Motor connector is secure.
+        Note: Check connector - Clean/repair as necessary.
+        Using a test light connected to 12 volts, probe the Fused B (+) Circuit.
+        Is the test light on?
+
+                 Yes   → Repair the Fused B(+) circuit short to ground. The CAB must
+                         sense all four wheels at 25 km/h (15 mph) before it will extinguish
+                         the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     5
+
+  5     Turn the ignition off.                                                                      All
+        Remove ABS PUMP Fuse 12 from the PDC.
+        The CAB must be connected for the results of this test to be valid.
+        Using a test light connected to 12 volts, probe the Fused B (+) circuit in the PDC.
+        Is the test light on?
+
+                 Yes   → Replace the Controller Antilock Brake in accordance with the
+                         Service Information.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     6
+
+  6     Turn the ignition off.                                                                      All
+        Make sure the Pump Motor connector is secure
+        If there are no potential causes remaining, replace the Fuse.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the ABS Pump Motor Fuse. The CAB must sense all four
+                          wheels at 25 km/h (15 mph) before it will extinguish the ABS
+                          Indicator.
+                          Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      26
+

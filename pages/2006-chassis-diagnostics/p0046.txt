@@ -1,0 +1,57 @@
+BRAKES (CAB)
+
+Symptom:
+    *REAR AXLE LOCK INDICATOR REMAINS FLASHING
+
+
+
+
+                                           POSSIBLE CAUSES
+CHECKING OPERATION
+INTERMITTENT CONDITION
+OPEN FUSE IN PDC
+FUSED B(+) CIRCUIT OPEN TO THE REAR LOCKER RELAY
+REAR LOCKER RELAY
+REAR LOCKER RELAY OUTPUT CIRCUIT OPEN
+REAR LOCKER PUMP GROUND CIRCUIT OPEN
+REAR LOCKER PUMP
+REAR LOCKER INDICATOR SWITCH SENSE CIRCUIT OPEN
+REAR LOCKER INDCATOR SWITCH GROUND CIRCUIT OPEN
+MECHANICAL FAULT EXISTS
+
+ TEST                                          ACTION                                         APPLICABILITY
+  1     Turn the ignition on.                                                                      All
+        Ensure Transfer Case is in 4 9LOW9 range.
+        Vehicle speed is less than 16km/h (10 mph).
+        Depress the Axle Lock Switch once.
+        Does the Rear Axle Lock indicator remain flashing?
+                 Yes   → Go To     2
+                 No    → The condition is not present at this time. Monitor DRBIIIt
+                         parameters while wiggling the related wiring harness. Refer to
+                         any Technical Service Bulletins(TSB) that may apply. Visually
+                         inspect the related wiring harness and connector terminals.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Inspect Fuse 24 in the PDC.                                                                All
+        Is the Fuse open, missing, or loose?
+
+                 Yes   → Replace the open or missing fuse. If the fuse is open make sure to
+                         check for a short to ground in the Fused B(+) circuit between the
+                         fuse and the relay.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To     3
+
+  3     Disconnect the Rear Locker Relay.                                                          All
+        Measure the voltage of the Fused B(+) circuit in the Rear Locker Relay PDC
+        connector.
+        Is the voltage above 10 volts?
+                 Yes   → Go To     4
+                 No    → Repair the Fused B(+)circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      42
+

@@ -1,0 +1,34 @@
+BRAKES (CAB)
+
+*ABS WARNING INDICATOR ALWAYS ON — Continued
+
+ TEST                                        ACTION                                         APPLICABILITY
+  4     Remove the ABS relay from the PDC.                                                       All
+        Turn the ignition on.
+        Using a 12-volt test light connected to ground, check the Fused B+ circuit.
+        Does the test light illuminate?
+
+                 Yes   → Go To    5
+
+                 No    → Repair the ABS relay Fused B+ circuit for an open. The CAB may
+                         have to sense all four wheels at 25 km/h (15 mph) before it will
+                         extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  5     Remove the ABS relay.                                                                    All
+        Disconnect the CAB harness connector.
+        Measure the resistance of the ABS Relay Control circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Replace the Controller Antilock Brake.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Repair the ABS Relay Control circuit for an open. The CAB may
+                         have to sense all four wheels at 25 km/h (15 mph) before it will
+                         extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      34
+

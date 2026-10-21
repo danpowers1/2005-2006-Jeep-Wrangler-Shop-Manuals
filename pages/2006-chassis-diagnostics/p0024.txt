@@ -1,0 +1,63 @@
+BRAKES (CAB)
+
+LEFT FRONT SENSOR CIRCUIT FAILURE — Continued
+
+                                           POSSIBLE CAUSES
+WHEEL SPEED SENSOR (+) OR (-) CIRCUIT SHORTED TO GROUND
+WHEEL SPEED SENSOR CIRCUITS SHORTED TOGETHER
+SPEED SENSOR (+) OR (-) CIRCUIT OPEN
+CAB - INTERNAL SHORT OR OPEN
+
+ TEST                                        ACTION                                             APPLICABILITY
+  1     Turn the ignition on.                                                                        All
+        With the DRBIIIt, read DTC’s.
+        With the DRBIIIt, erase DTC’s.
+        Turn the ignition off.
+        Turn the ignition on.
+        With the DRBIIIt, read DTC’s.
+        Does the DRBIIIt display a Wheel Speed Sensor Circuit Failure DTC?
+
+                 Yes   → Go To     2
+                 No    → Go To     9
+
+  2     Turn the ignition off.                                                                       All
+        Inspect the affected Wheel Speed Sensor and Connector.
+        Is the Sensor or Connector Damaged?
+
+                 Yes   → Repair as necessary.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     3
+
+  3     Turn the ignition off.                                                                       All
+        Disconnect the affected Wheel Speed Sensor connector.
+        Note: Check connector - Clean/repair as necessary.
+        Measure the resistance across the Wheel Speed Sensor (+) and (-) circuits at the
+        Sensor side of the connector.
+        Measure the resistance between ground and the (+) and (-) circuits on the Sensor side
+        of the connector.
+        Is the Sensor resistance 900 to 1300 ohms and resistance to ground more than 15k
+        ohms?
+                 Yes   → Go To     4
+
+                 No    → Repair the short or replace the Wheel Speed Sensor, as necessary.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                                       All
+        Disconnect the affected Wheel Speed Sensor connector.
+        Note: Check connector - Clean/repair as necessary.
+        Disconnect the CAB connector.
+        Note: Check connector - Clean/repair as necessary.
+        Turn the ignition on.
+        Measure the voltage of the Wheel Speed Sensor (+) and (-) circuits.
+        Is the voltage above 1 volt at either circuit?
+
+                 Yes   → Repair the Wheel Speed Sensor circuit for a short to voltage.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To     5
+
+
+
+
+                                                       20
+

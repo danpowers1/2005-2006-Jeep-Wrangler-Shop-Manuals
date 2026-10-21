@@ -1,0 +1,69 @@
+                                                                        GENERAL INFORMATION
+  Be careful when performing electrical tests so as              test. If a problem with the ABS warning indica-
+to prevent accidental shorting of terminals. Such                tor exists, refer to the appropriate test.
+mistakes can damage fuses or components. Also, a              6. If no other problem are found, it will be neces-
+second code could be set, making diagnosis of the                sary to road test the vehicle. THE DRBIIIt
+original problem more difficult.                                 MUST NOT BE CONNECTED TO THE
+                                                                 DATA LINK CONNECTOR WHEN ROAD
+4.3.2    ROAD TESTING A COMPLAINT                                TESTING FOR PROPER ANTILOCK OP-
+         VEHICLE                                                 ERATION. THE SYSTEM IS DISABLED
+                                                                 WHILE IN DIAGNOSTIC MODE. Perform
+   Some complaints will require a test drive as part             several antilock stops from above 50 Km/h (30
+of the repair verification procedure. The purpose of             mph) and then repeat steps 2, 3, and 4. If any
+the test drive is to try to duplicate the diagnostic             diagnostic trouble codes are present, proceed to
+code or symptom condition.                                       the appropriate test.
+NOTE: After the repair of pump or speed                       7. The following conditions should be considered
+signal DTC’s, the vehicle must be driven at 25                   ‘‘NORMAL’’ operation, and no repairs should be
+km/h (15 mph) to clear the DTC from the CAB.                     attempted to correct them.
+                                                                 – Brake pedal feedback during an ABS stop
+WARNING: BEFORE ROAD TESTING A                                      (clicking, vibrating)
+VEHICLE,   BE    SURE    THAT     ALL                           – Clicking, groaning or buzzing at 10 Km/h (6
+COMPONENTS     ARE     REASSEMBLED.                               mph) (drive off self test)
+DURING THE TEST DRIVE, DO NOT TRY TO                            – Groaning noise during an ABS stop
+READ THE DRBIIIT SCREEN WHILE IN
+                                                                – Slight brake pedal drop and pop noise when
+MOTION. DO NOT HANG THE DRB FROM                                  ignition is initially turned on
+THE REAR VIEW MIRROR OR OPERATE IT
+                                                                 – Brake pedal ratcheting down at the end of an
+YOURSELF.    HAVE    AN    ASSISTANT
+                                                                    ABS stop
+AVAILABLE TO OPERATE THE DRBIIIT.
+                                                              8. If the complaint is “ABS cycling” at the end of a
+                                                                 stop at low speeds, it may be caused by a
+4.4     DIAGNOSIS                                                marginal wheel speed sensor signal. The sensor
+                                                                 air gap, tone wheel condition, and/or brakes
+1. Your diagnostic test procedure must begin with a              hanging up are possible causes of this condition.
+   thorough visual inspection of the ABS for dam-
+                                                              9. After a road test in which no problems were
+   aged components or disconnected connectors.
+                                                                 found, refer to any Technical Service Bulletins
+   The brake lamps must be operational prior to
+                                                                 that may apply.
+   continuing.
+2. Connect the DRBIIIt to the data link connector
+   located under the dash. If the DRBIIIt does not            5.0    REQUIRED TOOLS AND
+   power up, check the power and ground supplies                     EQUIPMENT
+   to the connector.
+3. Select ‘‘Antilock Brakes’’. Turn the ignition on. If         DRBIIIt (diagnostic read-out box)
+   the DRBIIIt displays ‘‘No Response’’, perform                jumper wires
+   the proper test.                                             ohmmeter
+                                                                voltmeter
+4. Read and record all ABS diagnostic trouble
+                                                                test lamp
+   codes. If the ‘‘CAB Power Feed Circuit’’ trouble
+   code is present, it must be repaired prior to
+   addressing any other DTC’s. If any additional
+   codes are present, proceed to the appropriate
+   test.
+5. If there are no diagnostic trouble codes present,
+   select ‘‘Inputs/Outputs’’ and read the brake
+   switch input as you press and release the brake
+   pedal. If the display does not match the state of
+   the pedal, perform the appropriate test. Read the
+   ‘‘G-Switch’’ status, with the vehicle on a level
+   surface, both switches should read ‘‘CLOSED’’. If
+   the status is not correct, perform the appropriate
+
+
+                                                          7
+

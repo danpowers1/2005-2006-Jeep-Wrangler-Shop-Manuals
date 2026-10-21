@@ -1,0 +1,68 @@
+GENERAL INFORMATION
+3.2     DIAGNOSTIC TROUBLE CODES                              blinking and limited diagnostic operations only
+                                                              will be available until the diagnostic trouble code
+  The Teves Mark 20i Antilock Brake System (ABS)              condition is corrected.
+module may report any of the following diagnostic           • Antilock operation is disabled.
+trouble codes:
+• Controller Failure                                        3.2.3    INTERMITTENT DIAGNOSTIC
+• G Switch Not Processable                                           TROUBLE CODES
+• Left Front Sensor Circuit Failure                            If the malfunction is not present while perform-
+• Left Front Sensor Signal Failure                          ing a test procedure, the diagnostic procedures will
+• Left Rear Sensor Circuit Failure                          not locate the problem. In this case, the code can
+                                                            only suggest an area to inspect. Check for the
+• Left Rear Sensor Signal Failure
+                                                            following:
+• CAB Power Feed Circuit
+                                                            • loose or corroded connections
+• System Over voltage
+                                                            • damaged components (sensors, tone wheels espe-
+• System Under voltage                                         cially)
+• Pump Motor Not Working Properly                           • damaged wiring
+• Right Front Sensor Circuit Failure                        • excessive axle shaft runout
+• Right Front Sensor Signal Failure                         • brake system hydraulic leaks
+• Right Rear Sensor Circuit Failure                         • base brake system problems, non-ABS related.
+• Right Rear Sensor Signal Failure                            If no obvious problems are found, erase diagnostic
+  Diagnostic trouble codes are retained in memory           trouble codes and, with the key on, wiggle the wire
+until erased using the DRBIIIt, or automatically            harness and connectors. Recheck for codes periodi-
+erased after 255 key cycles.                                cally as you work through the system. This proce-
+                                                            dure may uncover an intermittent or difficult to
+3.2.1    SYSTEM INITIALIZATION                              locate malfunction.
+  System initialization starts when the key is
+turned to RUN. At this point, the CAB performs a            3.3     AXLE LOCK
+complete self-check of all electrical components in
+the antilock brake systems.
+  At around 19 km/h (12 miles per hour), the pump           3.3.1    GENERAL
+motor is briefly activated to ensure operation, and           For this vehicle, the Axle Lock has no dedicated
+wheel speed sensor circuitry is checked. If the brake       module controller. A manual switch located on the
+pedal is applied when the vehicle reaches 19 km/h           instrument panel controls the system. No DTC’s
+(12 mph), this check will be delayed until 40 km/h          will occur for this system.
+(25 mph). If, during the dynamic test, the brake
+pedal is applied, the driver may feel the test              3.3.2    DESCRIPTION
+through brake pedal pulsations. This is a normal              The axle lock has the ability to lock the front and
+condition. Throughout the remainder of the drive            rear axle differentials. The system components are
+cycle, ongoing tests are performed, and the CAB             the instrument cluster, axle lock switch, front and
+monitors ABS circuits for continuity.                       rear locker relays, front and rear locker pumps, and
+  If any component causes a diagnostic trouble code         locker indicator switches. To operate both lockers
+during system initialization or dynamic check, the          three requirements need to be met:
+CAB will illuminate the ABS warning indicator.
+                                                            1. ignition in the ON position
+3.2.2    DIAGNOSTIC MODE                                    2. transfer case range sensor indicating 4 “LOW”
+                                                               range
+  To enter diagnostic mode, vehicle speed must be
+below 10 km/h (6 mph), a ‘‘no response’’ message            3. vehicle speed less than 16km/h (10 mph)
+will be displayed by the DRBIIIt. The following are           The 16km/h (10 mph) engagement is for engage-
+characteristics of diagnostic mode:                         ment only. All axles will remain locked if vehicle
+                                                            speed does not exceed 72 km/h (45 mph).
+• The ABS warning indicator will flash. If a hard
+                                                              The instrument cluster has the control logic that
+  diagnostic trouble code is present, such as a
+                                                            monitors these requirements. If the requirements
+  Speed Sensor Circuit or Signal Failure trouble
+                                                            are not met the axle lock switch will be disabled.
+  code or CAB Power Feed Circuit diagnostic trou-
+                                                            The axle lock switch receives the enable signals
+  ble code, the indicator will be illuminated without
+                                                            from the instrument cluster. Any subsequent down-
+
+                                                        4
+

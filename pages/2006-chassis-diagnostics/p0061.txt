@@ -1,0 +1,71 @@
+                                                                                     CONNECTOR PINOUTS
+                                                           FUSES (FB)
+FUSE         AMPS                          FUSED CIRCUIT                                                 FUNCTION
+ NO.
+ 1     20A          L177 20WT/OR                                                 FUSED B(+)
+ 1     20A          L177 18WT/OR                                                 FUSED B(+)
+ 2     20A          A103 18GY/RD                                                 FUSED B(+)
+ 3     20A          X13 16BK/RD (SUBWOOFER)                                      FUSED B(+)
+ 4     10A          Z902 20BK                                                    GROUND
+ 5     10A          F100 18PK/VT                                                 FUSED IGNITION SWITCH OUTPUT (RUN)
+ 6     20A          F302 18GY/PK (HARDTOP)                                       FUSED IGNITION SWITCH OUTPUT (RUN)
+ 7     10A          F102 20PK/DB                                                 FUSED IGNITION SWITCH OUTPUT (RUN)
+ 8     10A          F504 20GY/PK                                                 FUSED IGNITION SWITCH OUTPUT (RUN)
+ 9     10A          F201 18PK/OR                                                 FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 10    10A          F505 20PK/YL                                                 FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 11    10A          F960 20PK/LG                                                 FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 12    10A          F1 20PK/WT                                                   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 13    10A          L5 20WT/LB                                                   FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+ 14    10A          X112 16DG/GY                                                 FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+ 15    10A          C15 12BK/WT                                                  REAR WINDOW DEFOGGER RELAY OUTPUT
+ 15    10A          C515 20LB/OR (HARDTOP)                                       FUSED REAR WINDOW DEFOGGER RELAY OUTPUT
+ 16    10A          L45 18WT/OR (EXPORT)                                         DIMMER SWITCH LOW BEAM OUTPUT
+ 16    10A          L45 18WT/OR (EXPORT)                                         DIMMER SWITCH LOW BEAM OUTPUT
+ 17    25A          F993 12PK/YL                                                 IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                            C
+ 17    25A          F300 16OR/PK                                                 FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                            O
+ 18    15A          A207 18RD/LG                                                 FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                            N
+ 19           -                                    -                                                         -
+                                                                                                                            N
+ 20           -                                    -                                                         -
+                                                                                                                            E
+                                                                                                                            C
+                                                                                                                            T
+                                                                                                                            O
+                                                                                                                            R
+                                                                                 G-SWITCH - 3 WAY
+                                              CAV              CIRCUIT                                   FUNCTION           P
+                                               1       G119 20VT                G-SWITCH TEST SIGNAL                        I
+                                               2       G117 20VT/LG             G-SWITCH NO. 1 SENSE                        N
+                                               3       G118 20VT/YL             G-SWITCH NO. 2 SENSE                        O
+                                                                                                                            U
+                                                                                                                            T
+                                                                                                                            S
+
+                                                                         INSTRUMENT CLUSTER C1 - 12 WAY
+                                              CAV              CIRCUIT                                   FUNCTION
+                                               1       L61 18WT/LG              LEFT TURN SIGNAL
+                                               2       L60 18WT/TN              RIGHT TURN SIGNAL
+                                               3       L300 16LG/WT             DIMMER SWITCH HIGH BEAM OUTPUT
+                                               4       L39 16WT/OR (EXCEPT      FOG LAMP FEED
+                                                       EXPORT)
+                                               4       L36 16WT/DB (EXPORT)     FOG LAMP FEED
+                                               5       L7 18WT/YL               HEADLAMP SWITCH OUTPUT
+                                               6       G305 20VT/LG (OFF-ROAD   REAR LOCKER REQUEST
+                                                       PACKAGE)
+                                               7       G301 20VT/LB (OFF-ROAD   REAR LOCKER INDICATOR SWITCH SENSE
+                                                       PACKAGE)
+                                               8       Z18 18BK/LB              GROUND
+                                               9       G303 20VT/DG (OFF-ROAD   LOCKER ENABLE SIGNAL 2
+                                                       PACKAGE)
+                                              10       D16 20WT/OR              SCI RECEIVE (TCM)
+                                              11       F505 20PK/YL             FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                                              12       M21 20YL/BR              FUSED B(+)
+
+
+
+
+                                                               57
+

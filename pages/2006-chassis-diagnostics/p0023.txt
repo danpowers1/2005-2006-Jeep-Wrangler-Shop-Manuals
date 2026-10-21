@@ -1,0 +1,51 @@
+                                                                    BRAKES (CAB)
+
+Symptom List:
+    LEFT FRONT SENSOR CIRCUIT FAILURE
+    LEFT REAR SENSOR CIRCUIT FAILURE
+    RIGHT FRONT SENSOR CIRCUIT FAILURE
+    RIGHT REAR SENSOR CIRCUIT FAILURE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be LEFT FRONT SENSOR CIRCUIT
+             FAILURE.
+
+
+When Monitored and Set Condition:
+
+     LEFT FRONT SENSOR CIRCUIT FAILURE
+     When Monitored:   Ignition on. The CAB monitors the Wheel Speed Sensor circuits
+     continuously.
+     Set Condition: If the CAB detects an open or shorted wheel speed sensor circuit, the
+     Diagnostic Trouble Code (DTC) will set.
+
+     LEFT REAR SENSOR CIRCUIT FAILURE
+     When Monitored:   Ignition on. The CAB monitors the Wheel Speed Sensor circuits
+     continuously.
+     Set Condition: If the CAB detects an open or shorted wheel speed sensor circuit, the
+     Diagnostic Trouble Code (DTC) will set.
+
+     RIGHT FRONT SENSOR CIRCUIT FAILURE
+     When Monitored:   Ignition on. The CAB monitors the Wheel Speed Sensor circuits
+     continuously.
+     Set Condition: If the CAB detects an open or shorted wheel speed sensor circuit, the
+     Diagnostic Trouble Code (DTC) will set.
+
+     RIGHT REAR SENSOR CIRCUIT FAILURE
+     When Monitored:   Ignition on. The CAB monitors the Wheel Speed Sensor circuits
+     continuously.
+     Set Condition: If the CAB detects an open or shorted Wheel speed sensor circuit, the
+     Diagnostic Trouble Code (DTC) will set.
+
+
+
+                                  POSSIBLE CAUSES
+SENSOR OR CONNECTOR DAMAGE
+INTERMITTENT DTC
+WHEEL SPEED SENSOR OPEN OR SHORTED TO GROUND
+WHEEL SPEED SENSOR (+) OR (-) CIRCUIT SHORTED TO VOLTAGE
+
+
+                                          19
+

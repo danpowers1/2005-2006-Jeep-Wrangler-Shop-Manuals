@@ -1,0 +1,46 @@
+BRAKES (CAB)
+
+PUMP MOTOR NOT WORKING PROPERLY — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  11    Make sure the Pump Motor connector is secure.                                                 All
+        Turn the ignition on.
+        With the DRBIIIt, enable pump motor actuation.
+        NOTE: Pump motor will not operate, but voltage will be applied.
+        Measure the voltage drop across the ABS ground circuit connection, with pump motor
+        actuation enabled.
+        Is the voltage below 0.1 volt?
+
+                 Yes   → Go To     12
+
+                 No    → Repair the Ground circuit for an open. The CAB must sense all
+                         four wheels at 25 km/h (15 mph) before it will extinguish the ABS
+                         Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  12    If there are no possible causes remaining, view repair.                                       All
+
+                 Repair
+                           Replace the Controller Anti-Lock Brake in accordance with the
+                           Service Information. The CAB must sense all four wheels at 25
+                           km/h (15 mph) before it will extinguish the ABS Indicator.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+  13    Turn the ignition off.                                                                        All
+        Visually inspect the related wiring harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Make sure the Pump Motor connecter is secure.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Refer to any Hotline letters or Technical Service Bulletins that may apply.
+        Were any problems found?
+                 Yes   → Repair as necessary. The CAB must sense all four wheels at 25
+                         km/h (15 mph) before it will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Test Complete.
+
+
+
+
+                                                       28
+
