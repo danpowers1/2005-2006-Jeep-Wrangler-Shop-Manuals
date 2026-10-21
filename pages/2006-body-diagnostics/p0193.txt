@@ -1,0 +1,62 @@
+                                                                                  CONNECTOR PINOUTS
+                                                           FUSES (FB)
+FUSE         AMPS                          FUSED CIRCUIT                                             FUNCTION
+ NO.
+ 1     20A          L177 20WT/OR                                              FUSED B(+)
+ 1     20A          L177 18WT/OR                                              FUSED B(+)
+ 2     20A          A103 18GY/RD                                              FUSED B(+)
+ 3     20A          X13 16BK/RD (SUBWOOFER)                                   FUSED B(+)
+ 4     10A          Z902 20BK                                                 GROUND
+ 5     10A          F100 18PK/VT                                              FUSED IGNITION SWITCH OUTPUT (RUN)
+ 6     20A          F302 18GY/PK (HARDTOP)                                    FUSED IGNITION SWITCH OUTPUT (RUN)
+ 7     10A          F102 20PK/DB                                              FUSED IGNITION SWITCH OUTPUT (RUN)
+ 8     10A          F504 20GY/PK                                              FUSED IGNITION SWITCH OUTPUT (RUN)
+ 9     10A          F201 18PK/OR                                              FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 10    10A          F505 20PK/YL                                              FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 11    10A          F960 20PK/LG                                              FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 12    10A          F1 20PK/WT                                                FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 13    10A          L5 20WT/LB                                                FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+ 14    10A          X112 16DG/GY                                              FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+ 15    10A          C15 12BK/WT                                               REAR WINDOW DEFOGGER RELAY OUTPUT
+ 15    10A          C515 20LB/OR (HARDTOP)                                    FUSED REAR WINDOW DEFOGGER RELAY OUTPUT
+ 16    10A          L45 18WT/OR (EXPORT)                                      DIMMER SWITCH LOW BEAM OUTPUT
+ 16    10A          L45 18WT/OR (EXPORT)                                      DIMMER SWITCH LOW BEAM OUTPUT
+ 17    25A          F993 12PK/YL                                              IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                         C
+ 17    25A          F300 16OR/PK                                              FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                         O
+ 18    15A          A207 18RD/LG                                              FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                         N
+ 19           -                                    -                                                        -
+                                                                                                                         N
+ 20           -                                    -                                                        -
+                                                                                                                         E
+                                                                                                                         C
+                                                                                                                         T
+                                                                           IGNITION SWITCH - 10 WAY
+                                                                                                                         O
+                                              CAV                CIRCUIT                             FUNCTION
+                                                                                                                         R
+                                               1       A1 16RD               FUSED B(+)
+                                               2       F951 16PK/LG          IGNITION SWITCH OUTPUT (RUN-START)
+                                                                                                                         P
+                                               3       F993 12PK/YL          IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                         I
+                                               4       A991 12 RD            FUSED B(+)
+                                                                                                                         N
+                                               5       G15 20VT/TN           KEY-IN IGNITION SWITCH SENSE
+                                                                                                                         O
+                                               6       F26 16PK/OR           IGNITION SWITCH OUTPUT (START)
+                                                                                                                         U
+                                               7       F982 16PK/YL          IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                                                                         T
+                                               8       F921 14PK/YL          IGNITION SWITCH OUTPUT (RUN)
+                                                                                                                         S
+                                               9       A8 14RD               FUSED B(+)
+                                              10       Z902 16BK             GROUND
+
+
+
+
+                                                              187
+

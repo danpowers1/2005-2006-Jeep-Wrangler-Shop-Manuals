@@ -1,0 +1,66 @@
+                                                                          INTERIOR LIGHTING
+
+*COURTESY LAMPS ON AT ALL TIMES — Continued
+
+ TEST                                       ACTION                                          APPLICABILITY
+  4     Turn the Panel Lamps Dimmer to the MID position.                                         All
+        Remove the Instrument Cluster.
+        Measure the resistance between ground and the Panel Lamps Dimmer Signal Circuit
+        in the C2 connector.
+        Is the resistance below 100.0 ohms?
+                Yes   → Go To     5
+
+                No    → Replace the Instrument Cluster.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  5     Disconnect the Instrument Cluster.                                                       All
+        Disconnect the Multifunction Switch connector.
+        Measure the resistance of the Panel Lamps Dimmer Signal Circuit in the instrument
+        cluster connector to ground.
+        Is the resistance below 200.0 ohms?
+
+                Yes   → Repair the Panel Lamps Dimmer Signal Circuit for a short to
+                        ground condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Replace the Multifunction Switch.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  6     Close all the passenger doors.                                                           All
+        With the DRBIIIt select: Body, Electro/Mech Cluster, Input /Output.
+        Read the, Pas Door Ajar Sw - state.
+        Remove the passenger door ajar switch and observe the DRBIIIt.
+        Did the DRBIIIt change states to read: Pas Door Ajar Sw: Open?
+
+                Yes   → Replace the applicable open Door Ajar Switch.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To     7
+
+  7     Turn the ignition off.                                                                   All
+        Disconnect the passenger door ajar switch.
+        Disconnect the Instrument Cluster connector.
+        Measure the resistance of the Passenger Door Ajar Circuit in the Passenger Door
+        Ajar Switch connector.
+        Is the resistance below 100.0 ohms?
+                Yes   → Repair the Passenger Door Ajar Switch Sense Circuit for a short
+                        to ground condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To     8
+
+  8     Turn the Panel Lamps Dimmer to the MID position.                                         All
+        Disconnect the Instrument Cluster Connector.
+        Measure the resistance between ground and the Courtesy Lamp Driver Circuit.
+        Is the resistance below 100.0 ohms?
+                Yes   → Repair the Courtesy Lamp Driver Circuit for a short to ground
+                        condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Replace the Instrument Cluster.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    173
+

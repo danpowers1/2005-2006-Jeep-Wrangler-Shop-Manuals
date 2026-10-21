@@ -1,0 +1,60 @@
+COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM CONTROLLER ANTILOCK BRAKE
+
+
+
+
+                                           POSSIBLE CAUSES
+ATTEMPT TO COMMUNICATE WITH THE PCM
+CHECK FUSE #7 IN FUSE BLOCK
+OPEN GROUND CIRCUITS
+OPEN FUSED IGNITION SWITCH OUTPUT CIRCUIT
+SCI TRANSMIT CIRCUIT OPEN
+CONTROLLER ANTILOCK BRAKE
+
+ TEST                                        ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                      All
+        With the DRB attempt to communicate with the PCM.
+        Was the DRB able to communicate with the PCM?
+                 Yes   → Go To     2
+
+                 No    → Refer to symptom list for problems related to No Response From
+                         PCM.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                     All
+        Remove and inspect fuse #7 in the Fuse Block.
+        Is the fuse open?
+                 Yes   → Refer to the wiring diagrams located in the service information to
+                         help isolate a possible short to ground.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     3
+
+  3     Turn the ignition off.                                                                     All
+        Disconnect the CAB harness connector.
+        Using a 12-volt test light connected to 12-volts, probe each ground circuit.
+        Is the test light illuminated for each circuit?
+                 Yes   → Go To     4
+
+                 No    → Repair the ground circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                                     All
+        NOTE: Ensure fuse #7 is installed in the Fuse Block.
+        Disconnect the CAB harness connector.
+        Turn the ignition on.
+        Using a 12-volt test light connected to ground, probe the Fused Ignition Switch
+        Output circuit.
+        Is the test light illuminated?
+
+                 Yes   → Go To     5
+                 No    → Repair the Fused Ignition Switch Output circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      108
+

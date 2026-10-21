@@ -1,0 +1,19 @@
+AUDIO
+
+CASSETTE PLAYER INOP — Continued
+
+ TEST                                   ACTION                                      APPLICABILITY
+  1     NOTE: If a DTC is set, erase the DTC and attempt to reset the DTC. If DTC        All
+        resets, follow this test.
+        This is an internal radio failure.
+        View repair
+
+                Repair
+                         Replace the Radio.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                82
+

@@ -1,0 +1,65 @@
+                                                                                          AUDIO
+
+POWER AMP SHUTDOWN - PREMIUM AUDIO SYSTEM — Continued
+
+ TEST                                       ACTION                                   APPLICABILITY
+  3     Turn the ignition off.                                                            All
+        NOTE: Perform this procedure after disconnecting each front speaker
+        connector.
+        Disconnect each front speaker harness connector one at a time.
+        Turn the ignition on.
+        Turn the radio on.
+        With the DRBIIIt, erase the audio DTCs.
+        Cycle the ignition switch from off to on and wait 10 seconds.
+        With the DRBIIIt, read DTC’s.
+        Does the DRBIIIt display POWER AMP SHUTDOWN with all the front speakers
+        disconnected?
+
+                Yes   → Go To     4
+
+                No    → Replace the Speaker that when disconnected the DTC did not
+                        reset.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                            All
+        NOTE: Perform this procedure after disconnecting each rear speaker
+        connector.
+        Disconnect each rear speaker harness connector one at a time.
+        Turn the ignition on.
+        Turn the radio on.
+        With the DRBIIIt, erase the audio DTCs.
+        Cycle the ignition switch from off to on and wait 10 seconds.
+        With the DRBIIIt, read DTC’s.
+        Does the DRBIIIt display POWER AMP SHUTDOWN with all the rear speakers
+        disconnected?
+
+                Yes   → Go To     5
+                No    → Replace the Speaker that when disconnected the DTC did not
+                        reset.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  5     Turn the ignition off.                                                            All
+        Disconnect each front and rear speaker harness connector.
+        Disconnect the Radio harness connector.
+        Measure the resistance between ground and each speaker (+) circuit.
+        Is the resistance below 1000.0 (1K) ohms?
+
+                Yes   → Repair the speaker (+) circuit for a short to ground.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To     6
+
+  6     Turn the ignition off.                                                            All
+        Disconnect each front and rear speaker harness connector.
+        Disconnect the Radio harness connector.
+        Measure the resistance between ground and each speaker (-) circuit.
+        Is the resistance below 1000.0 (1K) ohms?
+
+                Yes   → Repair the speaker (-) circuit for a short to ground.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To     7
+
+
+
+
+                                                     91
+

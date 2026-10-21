@@ -1,0 +1,59 @@
+GENERAL INFORMATION
+indicators are hardwired to the cluster and some             message length is only about 500 milliseconds, it is
+indicators are controlled by messages received on            ineffective to try and measure the bus activity with
+the PCI Bus. The vehicle Chime function, Courtesy            a conventional voltmeter. The preferred method is to
+Lamp Output, the Battery Saver function, and the             use the DRBIIIt lab scope. The 12v square wave
+Rear Window Defogger timer are contained inter-              selection on the 20-volt scale provides a good view of
+nally within the cluster. The cluster contains a             the bus activity. Voltage on the bus should pulse
+vacuum fluorescent (VF) display for the Odometer/            between zero and about seven and a half volts. Refer
+Trip function. The cluster VF will also display              to the following figure for some typical displays.
+P-codes and vehicle status messages. The cluster
+has the ability to store DTCs, communicate on the
+PCI Bus, display engine information, and display
+certain inputs using the DRBIIIt. The cluster is
+also able to perform a manual self-test. For com-
+plete description and operation of the Instrument
+Cluster, refer to the TJ Service Manual Instrument
+Cluster section. For diagnostic procedures, refer to
+the TJ Body Diagnostic Procedures Manual.
+
+3.5.2    INSTRUMENT CLUSTER SELF TEST
+  The Instrument Cluster is capable of performing a
+diagnostic self test. The self test is actuated by
+depressing and holding the trip reset button while
+turning the ignition from the off to the on position.
+The self test can also be initiated using the DRBIIIt.
+The self test will terminate if the tachometer is
+greater than 300 RPM, the ignition is turned off, or
+the test is complete. For diagnostic procedures, refer
+to the TJ Body Diagnostic Procedures Manual.
+
+3.6     VEHICLE COMMUNICATION
+  The Programmable Communication Interface or
+PCI Bus is a single wire multiplexed network capa-
+ble of supporting binary encoded messages shared
+between multiple modules. The PCI bus circuit is
+identified as D25 and is white with a violet tracer.
+The modules are wired in parallel. Connections are
+made in the harness using splices. The following
+modules are used on 2006 Jeept Wrangler (TJ).
+• Airbag Control Module
+• Mechanical Instrument Cluster
+• Radio
+• Powertrain Control Module (NGC)
+• Sentry Key Immobilizer Module
+• Satellite Radio Receiver
+• Controller Antilock Brake (Not on the PCI Bus.
+   Communication with the scan tool is established
+   thru the SCI Transmit circuit).
+   Each module provides its own bias and termina-
+tion in order to transmit and receive messages. The
+bus voltage is at zero volts when no modules are
+transmitting and is pulled up to about seven and a
+half volts when modules are transmitting.
+   The bus messages are transmitted at a rate aver-
+aging 10800 bits per second. Since there is only
+voltage present when the modules transmit and the
+
+                                                         8
+

@@ -1,0 +1,67 @@
+                                     CONNECTOR PINOUTS
+
+
+                           LEFT DOME LAMP - BLACK 2 WAY
+CAV          CIRCUIT                                     FUNCTION
+ 1    M21 20YL/BR               FUSED B(+)
+ 2    M22 20YL/OR               COURTESY LAMPS DRIVER
+
+
+
+
+                         LEFT FRONT SPEAKER - BLACK 3 WAY
+CAV          CIRCUIT                                     FUNCTION
+ 1    X53 18DG                  LEFT FRONT SPEAKER (+)
+ 2                 -                                        -
+ 3    X55 18DG/BR               LEFT FRONT SPEAKER (-)
+
+
+
+
+                                                                         C
+                                                                         O
+                          LEFT REAR SPEAKER - BLACK 3 WAY
+                                                                         N
+CAV          CIRCUIT                                     FUNCTION        N
+ 1    X51 18DG/DB               LEFT REAR SPEAKER (+)                    E
+ 2                 -                                        -            C
+ 3    X57 18DG/OR               LEFT REAR SPEAKER (-)                    T
+                                                                         O
+                                                                         R
+
+                                                                         P
+                       MULTI-FUNCTION SWITCH C1 - GRAY 20 WAY            I
+CAV          CIRCUIT                                     FUNCTION
+                                                                         N
+ 1    L50 18WT/TN (EXCEPT       BRAKE LAMP SWITCH OUTPUT
+      EXPORT)
+                                                                         O
+ 2    L61 18GY                  LEFT TURN SIGNAL
+                                                                         U
+ 3    L5 20WT/LB                FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+                                                                         T
+ 4    L63 18DG/RD               LEFT TURN/STOP SIGNAL
+                                                                         S
+ 5    L62 18BR/RD               RIGHT TURN/STOP SIGNAL
+ 6    L60 18TN                  RIGHT TURN SIGNAL
+ 7    Z902 18BK                 GROUND
+ 8    E19 20OR/BR               PANEL LAMPS DRIVER
+ 9    L7 18WT/YL                HEADLAMP SWITCH OUTPUT
+10                 -                                        -
+11    A701 18BR/RD              FUSED B(+)
+12    L36 16WT/DB (EXPORT)      FOG LAMP FEED
+13    A39 18RD/LG               FUSED B(+)
+14    L139 18WT/YL (EXCEPT      FOG LAMP SWITCH SIGNAL
+      EXPORT)
+15                 -                                        -
+16    L4 14WT/LG                DIMMER SWITCH LOW BEAM OUTPUT
+17    L300 14LG/WT              DIMMER SWITCH HIGH BEAM OUTPUT
+18    A333 14WT/RD              FUSED B(+)
+19    A333 14WT/RD              FUSED B(+)
+20    L177 18WT/OR              FUSED B(+)
+
+
+
+
+             189
+

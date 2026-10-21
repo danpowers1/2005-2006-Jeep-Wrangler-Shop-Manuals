@@ -1,0 +1,58 @@
+COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM AIRBAG CONTROL MODULE
+
+
+
+
+                                         POSSIBLE CAUSES
+CHECKING FOR VOLTAGE AT ACM
+GROUND CIRCUIT OPEN
+OPEN PCI BUS CIRCUIT
+AIRBAG CONTROL MODULE
+
+ TEST                                      ACTION                                          APPLICABILITY
+  1     Ensure that the battery is fully charged.                                               All
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the ACM harness connector.
+        Connect the appropriate Load Tool ACM Adapter to the ACM connector.
+        Turn the ignition on and then reconnect the Battery.
+        Using a 12-volt test light connected to ground, probe the Fused Ignition Switch
+        Output (Run) Circuit and the Fused Ignition Switch Output (Run/Start) Circuit at
+        the ACM connector.
+        NOTE: One open circuit will not cause a NO RESPONSE condition.
+        Is the test light illuminated on both circuits?
+
+                Yes   → Go To    2
+                No    → Repair the Fused Ignition Switch Output (Run) and Fused
+                        Ignition Switch Output (Run/Start) circuits for an open.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+        NOTE: When reconnecting airbag system components, the ignition must be
+        turned off and the battery must be disconnected.
+
+  2     NOTE: Ensure there is PCI Bus communication with other modules on the                   All
+        vehicle before proceeding. If not, refer to the symptom list from the menu
+        and repair as necessary.
+        WARNING: To avoid personal injury or death, turn the ignition off, discon-
+        nect the Battery and wait 2 minutes before proceeding.
+        Disconnect the Airbag Control Module harness connector.
+        Connect the appropriate Load Tool ACM Adapter to the ACM connector.
+        Using a 12-volt test light connected to 12-volts, probe the ground circuit.
+        Is the test light illuminated?
+                Yes   → Go To    3
+
+                No    → Repair the ground circuit for an open.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+        Note: When reconnecting Airbag system components, the ignition must be
+        turned off and the battery must be disconnected.
+
+
+
+
+                                                   106
+

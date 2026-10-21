@@ -1,0 +1,61 @@
+                                                           CONNECTOR PINOUTS
+9.0   CONNECTOR PINOUTS
+                                             AIRBAG CONTROL MODULE - YELLOW 22 WAY
+                      CAV             CIRCUIT                                  FUNCTION
+                       1    R43 18LG/BR               DRIVER SQUIB 1 LINE 1
+                       2    R45 18LG/OR               DRIVER SQUIB 1 LINE 2
+                       3                 -                                        -
+                       4                 -                                        -
+                       5    R44 18LB/OR               PASSENGER SQUIB 1 LINE 2
+                       6    R42 18LB/BR               PASSENGER SQUIB 1 LINE 1
+                       7                 -                                        -
+                       8    G104 18VT/GY (PAD)        PASSENGER AIRBAG INDICATOR DRIVER
+                       9                 -                                        -
+                      10    Z104 18BK/LG              GROUND
+                      11    R106 18LG/LB (PAD)        PASSENGER AIRBAG MUX SWITCH SENSE
+                      12                 -                                        -
+                      13                 -                                        -
+                      14                 -                                        -
+                      15                 -                                        -
+                      16                 -                                        -
+                      17    F201 18PK/OR              FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                      18    D25 18WT/VT               PCI BUS                                    C
+                      19                 -                                        -              O
+                      20    F100 18PK/VT              FUSED IGNITION SWITCH OUTPUT (RUN)         N
+                      21                 -                                        -              N
+                      22    R104 18LB/LG (PAD)        PASSENGER AIRBAG MUX SWITCH RETURN         E
+                                                                                                 C
+                                                                                                 T
+                                                                                                 O
+                                                                                                 R
+                                         AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY
+                      CAV             CIRCUIT                                  FUNCTION
+                                                                                                 P
+                       1    Z1 18BK                   GROUND
+                                                                                                 I
+                       2    E2 20OR/BR                PANEL LAMPS FEED
+                                                                                                 N
+                       3    M21 20YL/BR               FUSED B(+)
+                                                                                                 O
+                       4    G302 20VT/OR              LOCKER ENABLE SIGNAL 1
+                                                                                                 U
+                       5    G303 20VT/DG              LOCKER ENABLE SIGNAL 2
+                                                                                                 T
+                       6    G305 20VT/LG              REAR LOCKER REQUEST
+                                                                                                 S
+                       7    G304 20VT/DB              FRONT LOCKER REQUEST
+                       8                 -                                        -
+
+
+
+
+                                                 CLOCKSPRING C2 - YELLOW 2 WAY
+                      CAV             CIRCUIT                                  FUNCTION
+                       1    R43 18LG/BR               DRIVER SQUIB 1 LINE 1
+                       2    R45 18LG/OR               DRIVER SQUIB 1 LINE 2
+
+
+
+
+                                      183
+

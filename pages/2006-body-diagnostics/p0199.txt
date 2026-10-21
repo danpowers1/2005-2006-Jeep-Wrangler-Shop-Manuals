@@ -1,0 +1,82 @@
+                                    CONNECTOR PINOUTS
+            POWERTRAIN CONTROL MODULE C1 - BLACK/BLACK 38 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1               -                                         -
+ 2               -                                         -
+ 3               -                                         -
+ 4               -                                         -
+ 5               -                                         -
+ 6               -                                         -
+ 7               -                                         -
+ 8               -                                         -
+ 9    Z130 18BK/BR             GROUND
+10    C20 20DB/YL (2.4L)       A/C REQUEST SIGNAL
+10    C20 18DB/YL (4.0L)     A/C REQUEST SIGNAL
+11    F1 18PK/WT (EXCEPT MAN FUSED IGNITION SWITCH OUTPUT (RUN-START)
+      6 SPD TRANS)
+11    F1 20PK/WT (MAN 6 SPD    FUSED IGNITION SWITCH OUTPUT (RUN-START)
+      TRANS)
+12    F1 18PK/WT (A/T)         FUSED IGNITION SWITCH OUTPUT (RUN-START)
+13    K75 18DB/OR (EXCEPT      VEHICLE SPEED SENSOR SIGNAL
+      MAN 6 SPD TRANS)
+13    K75 20DB/OR (MAN 6 SPD   VEHICLE SPEED SENSOR SIGNAL
+      TRANS)
+14               -                                         -
+15               -                                         -
+16               -                                         -
+17               -                                         -              C
+18    Z131 18BK/DG             GROUND                                     O
+19               -                                         -
+                                                                          N
+20    G6 18VT/GY (EXCEPT MAN   OIL PRESSURE SIGNAL
+      6 SPD TRANS)                                                        N
+20    G6 20VT/GY (MAN 6 SPD    OIL PRESSURE SIGNAL                        E
+      TRANS)                                                              C
+21               -                                         -
+                                                                          T
+22    G31 18VT/LG (EXCEPT      AAT SIGNAL
+      MAN 6 SPD TRANS)                                                    O
+22    G31 20VT/LG (MAN 6 SPD   AAT SIGNAL                                 R
+      TRANS)
+23               -                                         -
+                                                                          P
+24               -                                         -
+25    D20 18WT/LG (EXCEPT      SCI RECEIVE (PCM)
+                                                                          I
+      MAN 6 SPD TRANS)                                                    N
+25    D20 20WT/LG (MAN 6       SCI RECEIVE (PCM)                          O
+      SPD TRANS)
+26    D16 18WT/OR              SCI RECEIVE (TCM)
+                                                                          U
+27    F856 18YL/PK (EXCEPT     5 VOLT SUPPLY                              T
+      MAN 6 SPD TRANS)                                                    S
+27    F856 20YL/PK (MAN 6      5 VOLT SUPPLY
+      SPD TRANS)
+28    T56 18DG/LB              OVERDRIVE OFF SWITCH INDICATOR
+29    A209 18RD                FUSED B(+)
+30    F26 16PK/OR              IGNITION SWITCH OUTPUT (START)
+31    K141 18DB/YL (EXCEPT     O2 1/2 SIGNAL
+      MAN 6 SPD TRANS)
+31    K141 20DB/YL (MAN 6      O2 1/2 SIGNAL
+      SPD TRANS)
+32    K902 18BR/DG (EXCEPT     O2 RETURN (UPSTREAM)
+      MAN 6 SPD TRANS)
+32    K902 20BR/DG (MAN 6      O2 RETURN (UPSTREAM)
+      SPD TRANS)
+33    K243 18BR (4.0L)         O2 2/2 SIGNAL
+34               -                                         -
+35               -                                         -
+36    D21 18WT/BR (EXCEPT      SCI TRANSMIT (PCM/CAB)
+      MAN 6 SPD TRANS)
+36    D21 20WT/BR (MAN 6       SCI TRANSMIT (PCM/CAB)
+      SPD TRANS)
+37    D15 18WT/DG              SCI RECEIVE (TCM)
+38    D25 18WT/VT (EXCEPT      PCI BUS
+      MAN 6 SPD TRANS)
+38    D25 20WT/VT (MAN 6 SPD   PCI BUS
+      TRANS)
+
+
+
+             193
+

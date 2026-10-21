@@ -1,0 +1,26 @@
+AUDIO
+
+POWER AMP SHUTDOWN - PREMIUM AUDIO SYSTEM — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  7     Turn the ignition off.                                                                       All
+        Disconnect each front and rear speaker harness connector.
+        Disconnect the Radio harness connector.
+        Measure the resistance between each speaker (+) circuit and each speaker (-) circuit.
+        Is the resistance below 1000.0 (1K) ohms for any of the measurements?
+                 Yes   → Repair the speaker circuits shorted together.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To     8
+
+  8     If there are no possible causes remaining, view repair.                                      All
+
+                 Repair
+                          Replace the Radio.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       92
+

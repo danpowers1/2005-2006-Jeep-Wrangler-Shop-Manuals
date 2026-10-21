@@ -1,0 +1,27 @@
+CHIME
+
+*CHIME INOPERATIVE WITH KEY IN IGNITION, DRIVER’S DOOR
+OPEN — Continued
+ TEST                                        ACTION                                           APPLICABILITY
+  10    Remove the Instrument Cluster from the I/P.                                                All
+        Disconnect the Driver Door Ajar Switch connector.
+        Measure the resistance of the Driver Door Ajar Switch Sense circuit from the Driver
+        Door Ajar switch to the Instrument Cluster C2 connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     11
+
+                 No    → Repair the Driver Door Ajar Switch Sense circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  11    If there are no possible causes remaining, view repair.                                    All
+
+                 Repair
+                          Replace the Instrument Cluster in accordance with the Service
+                          Information.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      102
+

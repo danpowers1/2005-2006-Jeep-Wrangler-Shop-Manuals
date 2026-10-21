@@ -1,0 +1,66 @@
+                                                                                               AIRBAG
+
+DRIVER SQUIB 1 CIRCUIT SHORT — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  2     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                              All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Driver Airbag connector(s).
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: DO NOT PLACE AN INTACT UNDEPLOYED AIRBAG FACE
+        DOWN ON A HARD SURFACE, THE AIRBAG WILL PROPEL INTO THE AIR
+        IF ACCIDENTALLY DEPLOYED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Connect the appropriate Load Tool to the Driver Airbag connector(s).
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION ON, THEN RECONNECT THE BATTERY.
+        With the DRBIIIt, read the active Airbag Control Module DTC’s.
+        Does the DRBIIIt show DRIVER SQUIB 1 CIRCUIT SHORT?
+
+                Yes   → Go To    3
+
+                No    → Replace the Driver Airbag in accordance with the Service Infor-
+                        mation.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  3     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                              All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Load Tool from the Driver Airbag connector(s).
+        Disconnect the Clockspring connector(s).
+        NOTE: Check connectors - Clean and repair as necessary.
+        Connect the appropriate Load Tool to the Clockspring connector(s).
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION ON, THEN RECONNECT THE BATTERY.
+        With the DRBIIIt, read the active Airbag Control Module DTC’s.
+        Does the DRBIIIt show DRIVER SQUIB 1 CIRCUIT SHORT?
+                Yes   → Go To    4
+                No    → Replace the Clockspring in accordance with the Service Informa-
+                        tion.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  4     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                              All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Load Tool from the Clockspring connector(s).
+        Disconnect the Airbag Control Module connector(s).
+        NOTE: Check connectors - Clean and repair as necessary.
+        Connect the appropriate Load Tool Adaptor to the Airbag Control Module connec-
+        tor(s).
+        Measure the resistance between the Driver Squib 1 Line 1 and Line 2 at the
+        Clockspring connector.
+        Is the resistance below 10K ohms?
+
+                Yes   → Repair the Driver Squib 1 Line 1 circuit shorted to Driver Squib
+                        1 Line 2 circuit.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                No    → Go To    5
+
+
+
+
+                                                    25
+

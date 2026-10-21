@@ -1,0 +1,48 @@
+    CONNECTOR PINOUTS
+                                               MULTI-FUNCTION SWITCH C2 - BLACK 7 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1    W7 16BR/GY                 WIPER PARK SWITCH SENSE
+                         2    Z902 20BK                  GROUND
+                         3    W10 16BR                   WASHER PUMP CONTROL SWITCH OUTPUT
+                         4    F300 16OR/PK               FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+                         5    W4 16BR/OR                 WIPER SWITCH HIGH SPEED OUTPUT
+                         6    W3 16BR/WT                 LOW SPEED WIPER SWITCH OUTPUT
+                         7                 -                                        -
+
+
+
+
+                                          PASSENGER AIRBAG ON-OFF SWITCH (LHD) - 6 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1    F201 18PK/OR               FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                         2    G104 18VT/GY               PASSENGER AIRBAG INDICATOR DRIVER
+                         3    R106 18LG/LB               PASSENGER AIRBAG MUX SWITCH SENSE
+                         4                 -                                        -
+                         5                 -                                        -
+                         6    R104 18LB/LG               PASSENGER AIRBAG MUX SWITCH RETURN
+
+
+C
+O
+N
+N
+E
+C                                              PASSENGER AIRBAG SQUIB 1 - YELLOW 2 WAY
+T                       CAV          CIRCUIT                                    FUNCTION
+O                       A     R42 18LB/BR                PASSENGER SQUIB 1 LINE 1
+R                       B     R44 18LB/OR                PASSENGER SQUIB 1 LINE 2
+
+
+P
+I
+N
+O
+U
+T
+S
+
+
+
+
+                                     190
+

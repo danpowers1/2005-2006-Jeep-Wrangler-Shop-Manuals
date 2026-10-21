@@ -1,0 +1,57 @@
+                                                                   INSTRUMENT CLUSTER
+
+Symptom:
+    *PANEL DIMMNG INOPERATIVE
+
+
+
+
+                                         POSSIBLE CAUSES
+INSTRUMENT CLUSTER PANEL DIMMING DTC
+PARK LAMP FEED CIRCUIT OPEN
+ILLUMINATION BULB
+INSTRUMENT CLUSTER
+
+ TEST                                      ACTION                                       APPLICABILITY
+  1     NOTE: Ensure that the Park/Headlamps operate properly before continuing              All
+        with this test.
+        NOTE: Ensure that other Instrument Cluster functions operate properly
+        before continuing with this test.
+        Turn the ignition on.
+        With the DRBIIIt, select Body, Electro/Mech Cluster, read DTCs.
+        Does the DRBIIIt display PANEL DIMMER OPEN?
+
+                Yes   → Refer to PANEL DIMMER OPEN DTC in the Service Informa-
+                        tion.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    2
+
+  2     Turn the ignition off.                                                               All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Turn the Park lamps on.
+        Measure the voltage between the Park Lamp Feed circuit and ground.
+        Is the voltage above 10.5 volts?
+
+                Yes   → Go To     3
+                No    → Repair the Park Lamp Feed circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition off.                                                               All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Remove and inspect the inoperative illumination bulb(s).
+        Is the illumination bulb filament open?
+
+                Yes   → Replace the Instrument Cluster Illumination Bulb(s) in accor-
+                        dance with the Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    163
+

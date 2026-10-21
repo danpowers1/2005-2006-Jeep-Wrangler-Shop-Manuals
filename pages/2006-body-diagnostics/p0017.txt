@@ -1,0 +1,71 @@
+                                                                         GENERAL INFORMATION
+4.2.2    VEHICLE PREPARATION FOR                               • Use the low current shunt to measure circuits up
+                                                                 to 10A. Use the high current clamp to measure
+         TESTING                                                 circuits exceeding 10A.
+  Make sure the vehicle being tested has a fully               • When testing for the presence of voltage or cur-
+charged battery. If it does not, false diagnostic error          rent, make sure the meter is functioning cor-
+messages may occur.                                              rectly. Take a reading of a known voltage or
+                                                                 current before accepting a zero reading.
+4.2.3     SERVICING SUB-ASSEMBLIES                             • When measuring current, connect the meter in
+  Some components of the body system are in-                     series with the load.
+tended to be serviced in assembly only. Attempting
+                                                               • Disconnect the live test lead before disconnecting
+to remove or repair certain system sub-components
+                                                                 the common test lead.
+may result in personal injury and/or improper sys-
+                                                               • When using the meter function, keep the
+tem operation. Only those components with ap-
+proved repair and installation procedures in the                 DRBIIIt away from spark plug or coil wires to
+service manual should be serviced.                               avoid measuring error from outside interference.
+
+4.2.4     DRBIIIT SAFETY INFORMATION                           4.3     WARNINGS
+
+WARNING: EXCEEDING THE LIMITS OF THE                           4.3.1    VEHICLE DAMAGE WARNINGS
+DRBIIIT MULTIMETER IS DANGEROUS.
+READ ALL DRBIIIT INSTRUCTIONS BEFORE                              Before disconnecting any control module, make
+                                                               sure the ignition is 9off9. Failure to do so could
+USING THE MULTIMETER. FAILURE TO
+                                                               damage the module.
+FOLLOW THESE INSTRUCTIONS CAN                                     When testing voltage or continuity at any control
+RESULT IN PERSONAL INJURY OR DEATH.                            module, use the terminal side (not the wire end) of
+• Follow the vehicle manufacturer’s service speci-             the connector. Do not probe a wire through the
+  fications at all times.                                      insulation: this will damage it and eventually cause
+• Do not use the DRBIIIt if it has been damaged.
+                                                               it to fail because of corrosion.
+                                                                  Be careful when performing electrical tests so as
+• Do not use the test leads if the insulation is
+                                                               to prevent accidental shorting of terminals. Such
+  damaged or if metal is exposed.                              mistakes can damage fuses or components. Also, a
+• To avoid electrical shock, do not touch the test             second code could be set, making diagnosis of the
+  leads, tips or the circuit being tested.                     original problem more difficult.
+• Choose the proper range and function for the                    When replacing a blown fuse, it is important to use
+  measurement. Do not try voltage or current mea-              only a fuse having the correct amperage rating. The
+  surements that may exceed the rated capacity.                use of a fuse with a rating other than indicated may
+• Do not exceed the limits shown in the table below:
+                                                               result in a dangerous electrical system overload. If a
+                                                               properly rated fuse continues to blow, it indicates a
+FUNCTION                    INPUT LIMIT                        problem in the circuit that must be corrected.
+Volts                       0-500 volts peak AC                   Service and general information labels about the
+                            0-500 volts DC                     airbag system can be found on the driver’s sun visor,
+                                                               the glove box door, and in the engine compartment.
+Ohms (resistance)*          0-1.12 megohms                        To ensure that the airbag will be ready to deploy
+Frequency measured          1-10 khz                           in a collision, have the system serviced by an
+Frequency generated                                            authorized dealer.
+Temperature                 -58-1100°F
+                                                               4.3.2    ROAD TESTING A COMPLAINT
+                            -50-600C
+*Ohms cannot be measured if voltage is present.
+                                                                        VEHICLE
+Ohms can be measured only in a non-powered                        Some complaints will require a test drive as part
+circuit.                                                       of the repair verification procedure. The purpose of
+                                                               the test drive is to try to duplicate the diagnostic
+• Voltage between any terminal and ground must
+                                                               code or symptom condition.
+  not exceed 500v DC or 500v peak AC.
+• Use caution when measured voltage above 25v
+  DC or 25v AC.
+• The circuit being tested must be protected by a
+  10A fuse or circuit breaker.
+
+                                                          11
+

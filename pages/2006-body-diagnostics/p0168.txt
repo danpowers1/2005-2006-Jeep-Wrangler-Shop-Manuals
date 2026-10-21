@@ -1,0 +1,51 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *ONE GAUGE INOPERATIVE
+
+
+
+
+                                          POSSIBLE CAUSES
+INTERMITTENT CONDITION
+POWERTRAIN CONTROL MODULE DTC PRESENT
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                     All
+        With the DRBIIIt, read DTCs.
+        NOTE: The PCM will not store any DTCs regarding Oil Pressure concerns.
+        NOTE: If Oil Pressure gauge readings are in question and the gauge tests
+        good, a mechanical oil pressure gauge must be attached to the engine.
+        Does the DRBIIIt display any PCM DTCs?
+                 Yes   → Refer to the DRIVEABILITY category and perform the appropri-
+                         ate symptom.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    2
+
+  2     Turn the ignition off.                                                                    All
+        Perform the Instrument Cluster Self Test.
+        Observe the gauge in question while the Instrument Cluster performs the Self Test.
+        The gauges should position at the following calibration points:
+        Speedometer: 20mph (40km/h BUX), 55mph (80km/h BUX), 75mph (120km/h BUX)
+        Tachometer: 2000, 5000
+        Fuel: Empty Stop, E, 1/2, F, Full Stop
+        Temperature: Lo, Mid Lo, Mid High, High
+        Oil Pressure: 0, 40, 60,
+        Volt: Off, 9, 12, 14, 16, 19
+        Did the gauge in question operate properly?
+                 Yes   → The condition is not present at this time. Monitor DRBIIIt
+                         parameters while wiggling the related wire harness. Refer to any
+                         Technical Service Bulletins (TSB) that may apply. Visually in-
+                         spect the related wiring harness and connector terminals.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace and configure the Instrument Cluster in accordance with
+                         the Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    162
+

@@ -1,0 +1,56 @@
+                                                                                       AIRBAG
+
+Symptom:
+    LOSS OF IGNITION RUN - START
+
+
+
+When Monitored and Set Condition:
+
+        LOSS OF IGNITION RUN - START
+        When Monitored: With the ignition in the Run-Start position the ACM monitors the
+        Fused Ignition Switch Output Run-Start circuit for proper system voltage.
+        Set Condition: If the voltage on the Fused Ignition Switch Output Run-Start circuit drops
+        below approximately 4.5 volts, the code will set.
+
+
+
+                                       POSSIBLE CAUSES
+FUSED IGNITION SW OUTPUT RUN-START SHORT TO GROUND
+IGNITION SWITCH RUN - START CIRCUIT OPEN
+FUSED IGNITION SWITCH OUTPUT RUN-START CIRCUIT OPEN
+ACM, FUSED IGNITION OUTPUT RUN-START CIRCUIT OPEN
+ACM, RUN - START SHORTED TO GROUND
+ON - OFF SWITCH, RUN - START CIRCUIT SHORTED TO GROUND
+FUSED IGNITION SWITCH OUTPUT RUN - START CIRCUIT SHORT TO GROUND
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                    ACTION                                    APPLICABILITY
+   1      Ensure the battery is fully charged.                                          All
+          Turn the ignition on.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          DETERMINE ACTIVE OR STORED DTC:
+                 ACM - ACTIVE DTC
+                        Go To 2
+
+                 ACM - STORED DTC
+                        Go To 10
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      Turn Ignition off.                                                            All
+          Remove and inspect the Airbag Run-Start Fuse.
+          NOTE: Check connectors - Clean and repair as necessary.
+          Is the Fuse open?
+
+                 Yes   → Go To   3
+
+                 No    → Go To   7
+
+
+
+
+                                                 33
+

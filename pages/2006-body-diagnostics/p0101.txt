@@ -1,0 +1,61 @@
+                                                                                                 AUDIO
+
+Symptom:
+    *SDARS INOP NO CODES
+
+
+
+
+                                           POSSIBLE CAUSES
+SDARS SUBSCRIPTION
+FUSED B+ CIRCUIT
+FUSED IGNITION SWITCH OUTPUT
+GROUND CIRCUIT OPEN
+SATELLITE RADIO RECEIVER
+
+ TEST                                        ACTION                                         APPLICABILITY
+  1     Turn the ignition on.                                                                    All
+        With the DRBIIIt, read the SDARS subscription status.
+        Does the subscription status read 9subscribed?9
+                 Yes   → Go To     2
+
+                 No    → Customer has not subscribed to this feature. No repair at this
+                         time.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     NOTE: Diagnose and repair any DTCs before continuing.                                    All
+        Disconnect the Satellite Radio Receiver harness connectors.
+        Turn the ignition on and the radio on.
+        Using a 12-volt test light connected to ground, probe the Fused B+ circuit.
+        Does the test light illuminate brightly?
+                 Yes   → Go To     3
+
+                 No    → Repair the Fused B+ circuit for an open. Check related fuses, if
+                         fuse is open, repair short to ground.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Disconnect the Satellite Radio Receiver harness connectors.                              All
+        Turn the ignition and the radio on.
+        Using a 12-volt test light connected to ground, probe the Fused Ignition Switch
+        Output circuit.
+        Does the test light illuminate brightly?
+                 Yes   → Go To     4
+
+                 No    → Repair the Fused Ignition Switch Output circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                                   All
+        Disconnect the Satellite Radio Receiver harness connectors.
+        Using a 12-volt test light connected to 12-volts, probe the Ground circuit.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     5
+
+                 No    → Repair the Ground circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       95
+

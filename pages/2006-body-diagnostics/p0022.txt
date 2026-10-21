@@ -1,0 +1,54 @@
+AIRBAG
+
+Symptom List:
+    AIRBAG WARNING INDICATOR OPEN
+    AIRBAG WARNING INDICATOR SHORT
+
+
+Test Note:      All symptoms listed above are diagnosed using the same tests.
+                The title for the tests will be AIRBAG WARNING INDICATOR
+                OPEN.
+
+
+When Monitored and Set Condition:
+
+        AIRBAG WARNING INDICATOR OPEN
+        When Monitored: With ignition on the ACM monitors the PCI Bus for a message from the
+        MIC containing the airbag warning indicator status. The ACM request the warning lamp
+        status from the MIC once every second.
+        Set Condition:   This DTC will set immediately if the indicator status is OPEN.
+
+        AIRBAG WARNING INDICATOR SHORT
+        When Monitored: With ignition on the ACM monitors the PCI Bus for a message from the
+        MIC containing the airbag warning indicator status. The ACM request the warning lamp
+        status from the MIC once every second.
+        Set Condition:   This DTC will set immediately if the indicator status is SHORT.
+
+
+
+                                       POSSIBLE CAUSES
+MIC, COMMUNICATION FAILURE
+WARNING INDICATOR
+ACM, WARNING INDICATOR
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                    ACTION                                    APPLICABILITY
+   1      Turn the ignition on.                                                         All
+          Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                 ACM - ACTIVE DTC
+                        Go To 2
+
+                 ACM - STORED DTC
+                        Go To 5
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+
+
+
+                                                16
+

@@ -1,0 +1,37 @@
+                                                                                                      AUDIO
+
+Symptom:
+    CD TEMPERATURE HIGH
+
+
+
+When Monitored and Set Condition:
+
+        CD TEMPERATURE HIGH
+        When Monitored:        Continuously with the ignition and the radio CD player turned on.
+        Set Condition: The code will set if the temperature inside the radio CD player is above
+        +85° C (+185° F).
+
+
+
+                                             POSSIBLE CAUSES
+HIGH TEMPERATURE FAILURE
+
+ TEST                                          ACTION                                            APPLICABILITY
+   1      With the DRBIIIt, erase the audio DTC’s.                                                    All
+          Start the engine and allow the engine to reach normal operating temperature.
+          If the vehicle has been in the hot sunlight or extreme cold move the vehicle indoors
+          and open the doors to allow the inside temperature to stabilize.
+          The radio CD player will operate between -30° C and 85° C (-22° F and +185° F).
+          With the DRBIIIt, read DTC’s.
+          Does the DRBIIIt display CD TEMPERATURE HIGH?
+
+                   Yes   → Replace the Radio.
+                           Perform BODY VERIFICATION TEST - VER 1.
+                   No    → Test Complete.
+
+
+
+
+                                                        85
+

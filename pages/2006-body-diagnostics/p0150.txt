@@ -1,0 +1,29 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *(NO BUS( IN VF DISPLAY
+
+
+
+
+                                        POSSIBLE CAUSES
+PCI BUS MESSAGES NOT REC’D BY MIC
+INSTRUMENT CLUSTER
+
+ TEST                                     ACTION                                        APPLICABILITY
+  1     Turn the ignition on.                                                                All
+        With the DRBIIIt, select J1850 Module Scan.
+        Does the DRBIIIt display MIC in the J1850 Module Scan?
+
+                Yes   → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Refer to the COMMUNICATION category and perform the appro-
+                        priate symptom.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                  144
+

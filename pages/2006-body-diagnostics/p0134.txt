@@ -1,0 +1,38 @@
+COMPASS/MINI-TRIP COMPUTER
+
+Symptom:
+    *COMPASS/TEMP MODULE WILL NOT CALIBRATE
+
+
+
+
+                                         POSSIBLE CAUSES
+CALIBRATION PROCEDURE
+COMPASS/TEMPERATURE MIRROR
+
+ TEST                                      ACTION                                         APPLICABILITY
+  1     Turn the ignition off.                                                                 All
+        Perform the Compass/Temperature module self-check.
+        Press and hold the Compass/Temperature Mirror Center switch.
+        Turn the ignition on and then release the Center switch.
+        NOTE: The Compass/Temp module will illuminate all of the VF segments
+        and then display an (F( or (P(.
+        Exit the self-check by pressing the Center switch or cycling the ignition.
+        Did the Comp/Temp module display an 9F9 during the self-check?
+
+                Yes   → Replace the Compass/Temperature Mirror in accordance with the
+                        Service Information. NOTE: After replacement, set the correct
+                        compass variation and calibrate. The vehicle must be driven for
+                        more than 2 minutes to update the temperature display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Ensure that all calibration instructions have been performed
+                        properly. If calibration is unsuccessful, replace the Comp/Temp
+                        Mirror in accordance with the Service Information. NOTE: After
+                        replacement, set the correct compass variation and calibrate.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   128
+

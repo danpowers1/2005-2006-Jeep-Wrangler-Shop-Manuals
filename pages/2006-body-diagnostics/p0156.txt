@@ -1,0 +1,33 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *AIR BAG INDICATOR INOPERATIVE
+
+
+
+
+                                        POSSIBLE CAUSES
+INSTRUMENT CLUSTER
+AIR BAG INDICATOR DTC
+
+ TEST                                     ACTION                                        APPLICABILITY
+  1     NOTE: The Instrument Cluster Air Bag Indicator will not illuminate during            All
+        the cluster Self Test. The indicator is controlled by PCI Bus messages
+        received from the Air Bag Control Module (ACM).
+        NOTE: The ACM will command the indicator on when the ignition is cycled
+        to the Run/Start position.
+        With the DRBIIIt, select Body, then MIC, read DTCs.
+        Does the DRBIIIt display Air Bag Lamp Open or Air Bag Lamp Shorted?
+
+                Yes   → Refer to the Service Information and perform the appropriate
+                        symptom.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                  150
+

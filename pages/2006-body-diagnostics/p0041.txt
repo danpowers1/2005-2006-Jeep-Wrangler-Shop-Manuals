@@ -1,0 +1,45 @@
+                                                                                                AIRBAG
+
+LOSS OF IGNITION RUN - START — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  8     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                               All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Disconnect the Airbag Control Module connector.
+        NOTE: Check connectors - Clean and repair as necessary.
+        Reinstall the previously removed Airbag Run-Start Fuse.
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION ON, THEN RECONNECT THE BATTERY.
+        Measure the voltage of the Fused Ignition Switch Output Run-Start Circuit between
+        the Airbag Control Module connector ground.
+        Is the voltage above approximately 4.5 volts?
+
+                Yes   → Go To     9
+
+                No    → Repair open Fused Ignition Switch Output Run-Start circuit.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  9     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                               All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace the Airbag Control Module in accordance with Service
+                         Instructions.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    35
+

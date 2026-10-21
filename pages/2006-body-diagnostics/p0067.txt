@@ -1,0 +1,49 @@
+                                                                                                  AIRBAG
+
+PASSENGER OFF INDICATOR CIRCUIT SHORT TO GROUND — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  7     Disconnect the Airbag Control Module connector                                             All
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Connect the appropriate Load Tool ACM Adaptor to the Airbag Control Module
+        connector(s).
+        Measure the resistance of the PAB Indicator Driver circuit between the ACM and the
+        PAB On - Off Switch connector.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    8
+
+                 No    → Repair the open Passenger Airbag Indicator Driver circuit.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  8     Measure the resistance of the PAB Indicator Driver circuit between the PAB On - Off        All
+        Switch connector and ground.
+        Is the resistance below 10K ohms?
+
+                 Yes   → Repair the Passenger Airbag Indicator Driver circuit short to
+                         ground.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+                 No    → Go To    9
+
+  9     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace the Airbag Control Module in accordance with Service
+                          Instructions.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     61
+

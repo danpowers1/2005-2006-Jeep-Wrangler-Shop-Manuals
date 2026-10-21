@@ -1,0 +1,37 @@
+                                                                                             AUDIO
+
+Symptom:
+    *POOR SDARS RECEPTION
+
+
+
+
+                                         POSSIBLE CAUSES
+*POOR SDARS RECEPTION
+
+ TEST                                     ACTION                                        APPLICABILITY
+  1     NOTE: At times SDARS reception will better than FM radio, and other times            All
+        FM radio reception will be better than SDARS.
+        NOTE: The Satellite Radio system is still under development and there are
+        areas where reception may be lost.
+        NOTE: To check SDARS reception, vehicle must be outside the shop.
+        NOTE: The SDARS antenna must be be free of damage and not be covered by
+        any objects.
+        NOTE: Large buildings in downtown areas can block the satellite signal and
+        cause poor reception.
+        NOTE: Check DTC’s and record them. Repair any DTC’s prior to continuing
+        with test.
+        Inspect SDARS antenna for damage.
+        Drive vehicle outside of shop and attempt to verify poor reception complaint.
+        Verify good reception in your area with know good SDARS system.
+        Is there any physical damage to the SDARS antenna?
+                Yes   → Replace SDARS antenna.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Test Complete.
+
+
+
+
+                                                  93
+

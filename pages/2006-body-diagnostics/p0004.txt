@@ -1,0 +1,58 @@
+                          TABLE OF CONTENTS - Continued
+      *PANEL DIMMNG INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .163
+      *REAR FOG LAMP INDICATOR INOPERATIVE - BUX ONLY. . . . . . . . . . . . . . . . . . .164
+      *SEAT BELT INDICATOR NOT OPERATING PROPERLY . . . . . . . . . . . . . . . . . . . . . .165
+      *SPEEDOMETER INACCURATE OR INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . .167
+      *VF DISPLAY INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .168
+      *VF ODOMETER INOPERATIVE WITH DOOR OPEN. . . . . . . . . . . . . . . . . . . . . . . . .169
+
+      INTERIOR LIGHTING
+      *COURTESY LAMPS INOPERATIVE - ALL LAMPS . . . . . . . . . . . . . . . . . . . . . . . . . . .171
+      *COURTESY LAMPS ON AT ALL TIMES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .172
+      *ILLUMINATED ENTRY INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .174
+
+      VERIFICATION TESTS
+      VERIFICATION TESTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .175
+
+8.0   COMPONENT LOCATIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .179
+
+      8.1      DATA LINK CONNECTOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .179
+      8.2      AIRBAG . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .179
+                8.2.1  DRIVER AIRBAG MODULE & CLOCKSPRING . . . . . . . . . . . . . . . . .179
+                8.2.2  DRIVER/PASSENGER AIRBAG MODULES & MECHANICAL
+                       INSTRUMENT CLUSTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .180
+                8.2.3  AIRBAG CONTROL MODULE AND PASSENGER AIRBAG ON/OFF
+                       SWITCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .180
+      8.3      FUSE BLOCK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .181
+      8.4      INSTRUMENT CLUSTER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .181
+                8.4.1  FRONT VIEW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .181
+                8.4.2  REAR VIEW. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .182
+      8.5      POWER DISTRIBUTION CENTER (PDC). . . . . . . . . . . . . . . . . . . . . . . . . . . . . .182
+
+9.0   CONNECTOR PINOUTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .183
+
+      AIRBAG CONTROL MODULE - YELLOW 22 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . .183
+      AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY. . . . . . . . . . . . . . . . . . . . . . .183
+      CLOCKSPRING C2 - YELLOW 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .183
+      COMPASS/TEMPERATURE MIRROR - BLACK 7 WAY. . . . . . . . . . . . . . . . . . . . . . . .184
+      CONTROLLER ANTILOCK BRAKE - 25 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .184
+      DATA LINK CONNECTOR - BLACK 16 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .184
+      DRIVER AIRBAG SQUIB 1 - YELLOW 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .185
+      FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY .185
+      FRONT LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY . . . . . . . . . . . .185
+      FUSES (FB). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .187
+      IGNITION SWITCH - 10 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .187
+      INSTRUMENT CLUSTER C1 - 12 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
+      INSTRUMENT CLUSTER C2 - 16 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
+      LEFT COURTESY LAMP - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
+      LEFT DOME LAMP - BLACK 2 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .189
+      LEFT FRONT SPEAKER - BLACK 3 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .189
+      LEFT REAR SPEAKER - BLACK 3 WAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .189
+      MULTI-FUNCTION SWITCH C1 - GRAY 20 WAY. . . . . . . . . . . . . . . . . . . . . . . . . . . . .189
+      MULTI-FUNCTION SWITCH C2 - BLACK 7 WAY. . . . . . . . . . . . . . . . . . . . . . . . . . . . .190
+      PASSENGER AIRBAG ON-OFF SWITCH (LHD) - 6 WAY . . . . . . . . . . . . . . . . . . . . . .190
+      PASSENGER AIRBAG SQUIB 1 - YELLOW 2 WAY. . . . . . . . . . . . . . . . . . . . . . . . . . .190
+      FUSES (PDC) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .192
+
+                                                                 iv
+

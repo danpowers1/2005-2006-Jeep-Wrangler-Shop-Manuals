@@ -1,0 +1,48 @@
+                                                                                        AUDIO
+
+Symptom List:
+    CASSETTE PLAYER INOP
+    CD MECHANICAL FAILURE
+    NO PCI TRANSMISSION
+    *AM/FM SWITCH INOPERATIVE
+    *ANY STATION PRESET SWITCH INOPERATIVE
+    *BALANCE INOPERATIVE
+    *CD EJECT SWITCH INOPERATIVE
+    *EQUALIZER INOPERATIVE
+    *FADER INOPERATIVE
+    *FF/RW SWITCH INOPERATIVE
+    *HOUR/MINUTE SWITCHES INOPERATIVE
+    *PAUSE/PLAY SWITCH INOPERATIVE
+    *PWR SWITCH INOPERATIVE
+    *SCAN SWITCH INOPERATIVE
+    *SEEK SWITCH INOPERATIVE
+    *SET SWITCH INOPERATIVE
+    *TAPE EJECT SWITCH INOPERATIVE
+    *TIME SWITCH INOPERATIVE
+    *TUNE SWITCH INOPERATIVE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be CASSETTE PLAYER INOP.
+
+
+When Monitored and Set Condition:
+
+     CASSETTE PLAYER INOP
+     When Monitored:     Continuously with the ignition and radio turned on.
+     Set Condition:   The code will set if the radio detects a internal cassette failure.
+
+     CD MECHANICAL FAILURE
+     When Monitored:     Continuously with the ignition and CD player turned on.
+     Set Condition:   The code will set if the radio detects a CD mechanical failure.
+
+
+
+                                     POSSIBLE CAUSES
+INTERNAL FAILURE
+
+
+
+
+                                              81
+

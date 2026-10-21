@@ -1,0 +1,52 @@
+AUDIO
+
+Symptom:
+    *POOR SOUND QUALITY
+
+
+
+
+                                           POSSIBLE CAUSES
+CHECK AUDIO DTCS
+CHECK SELECTED RADIO EQ CURVE
+SET THE RADIO EQ CURVE
+VERIFY SOUND PERFORMANCE
+
+ TEST                                        ACTION                                             APPLICABILITY
+  1     Turn the ignition on.                                                                        All
+        With the DRBIIIt, check for any audio related DTC’s.
+        Are any Audio related DTCs set?
+                 Yes   → Refer to the Audio category for the related symptom(s).
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To     2
+
+  2     Turn the ignition on.                                                                        All
+        With the DRBIIIt, enter body, Instrument Cluster then miscellaneous.
+        Check the radio EQ curve setting and follow the instructions on the DRBIIIt.
+        Is the radio EQ curve correct for the audio combination the vehicle is equipped with?
+
+                 Yes   → Refer to the service information for problems related to poor
+                         sound quality and perform the appropriate checks.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To     3
+
+  3     Turn the ignition on.                                                                        All
+        With the DRBIIIt, enter body, Instrument Cluster then miscellaneous.
+        Set the radio EQ curve. Follow the instructions on the DRBIIIt.
+        Cycle the ignition switch from off to on.
+        Check the radio EQ curve setting.
+        Is the radio EQ curve correct for the audio combination the vehicle is equipped with?
+
+                 Yes   → Refer to the service information for problems related to poor
+                         sound quality and perform the appropriate checks.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Replace the Instrument Cluster in accordance with the Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       94
+

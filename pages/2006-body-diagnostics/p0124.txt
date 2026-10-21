@@ -1,0 +1,62 @@
+COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM SATELLITE RADIO RECEIVER
+
+
+
+
+                                           POSSIBLE CAUSES
+SDARS WIRING HARNESS
+PCI BUS CIRCUIT OPEN
+FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+RADIO GROUND CKT OPEN
+SATELLITE RADIO RECEIVER
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     NOTE: Ensure the DRBIIIt can communicate with the Radio, if not refer to                    All
+        the appropriate symptom.
+        Turn the ignition off.
+        Disconnect the Radio C2 harness connector.
+        Disconnect the Satellite Radio Receiver harness connector.
+        Visually inspect the connectors for damage.
+        Check for open circuits in the wiring harness between the Radio and the Satellite
+        Radio Receiver.
+        Measure the resistance of the each circuit between the Radio C2 connector and the
+        Satellite Radio Receiver connector.
+        Check for shorted circuits in the wiring harness between the Radio and the Satellite
+        Radio Receiver.
+        Measure the resistance between each circuit at the Radio C2 connector.
+        Are any of the circuits shorted together or open?
+                 Yes   → Replace/repair the SDARS wiring harness.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    2
+
+  2     Use Scope input cable CH7058, Cable to Probe adapter CH7062, and the red and                All
+        black test probes.
+        Connect the scope input cable to the channel one connector on the DRB. Attach the
+        red and black leads and the cable to probe adapter to the scope input cable.
+        With the DRBIIIt select Pep Module Tools.
+        Select lab scope.
+        Select Live Data.
+        Select 12 volt square wave.
+        Press F2 for Scope.
+        Press F2 and use the down arrow to set voltage range to 20 volts. Press F2 again
+        when complete.
+        Disconnect the Satellite Radio Receiver harness connector.
+        Connect the Black lead to the chassis ground. Connect the Red lead to the PCI Bus
+        circuit in the Satellite Radio Receiver connector.
+        Reconnect the Radio C2 harness connector.
+        Turn the ignition on.
+        Turn the Radio on and place the radio in the Satellite mode.
+        Observe the voltage display on the DRB Lab Scope.
+        Does the voltage pulse from 0 to approximately 7.5 volts?
+
+                 Yes   → Go To    3
+
+                 No    → Replace the Radio in accordance with the service information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                                                      118
+

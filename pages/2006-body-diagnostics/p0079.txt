@@ -1,0 +1,61 @@
+                                                                                                   AIRBAG
+
+PASSENGER SQUIB 1 SHORT TO GROUND — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  2     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                  All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Passenger Airbag connector(s).
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: DO NOT PLACE AN INTACT UNDEPLOYED AIRBAG FACE
+        DOWN ON A HARD SURFACE, THE AIRBAG WILL PROPEL INTO THE AIR
+        IF ACCIDENTALLY DEPLOYED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Connect the appropriate Load Tool to the Passenger Airbag connector(s).
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION ON, THEN RECONNECT THE BATTERY.
+        With the DRBIIIt, read the active Airbag Control Module DTC’s.
+        Does the DRBIIIt show PASSENGER SQUIB 1 SHORT TO GROUND?
+
+                 Yes   → Go To    3
+
+                 No    → Replace the Passenger Airbag in accordance with the Service
+                         Information.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  3     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                  All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Load Tool from the Passenger Airbag connector(s).
+        Disconnect the Airbag Control Module connector(s).
+        NOTE: Check connectors - Clean repair as necessary.
+        Connect the appropriate Load Tool Adaptor to the Airbag Control Module connector.
+        Measure the resistance of the Passenger Squib 1 Line 1 or Line 2 circuit between the
+        Passenger Airbag Module Connector and ground.
+        Is the resistance below 10K ohms on either circuit?
+                 Yes   → Repair Passenger Squib 1 Line 1 and Line 2 circuits for a short to
+                         ground.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+                 No    → Go To    4
+
+  4     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                  All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        If there are no possible causes remaining, view repair.
+
+                 Repair:
+                           Replace the Airbag Control Module in accordance with Service
+                           Information.
+                           Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      73
+

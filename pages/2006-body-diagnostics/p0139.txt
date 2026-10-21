@@ -1,0 +1,64 @@
+                                                 ELECTRICALLY HEATED SYSTEMS
+
+*REAR WINDOW DEFOGGER INOPERATIVE — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  4     Remove the Rear Window Defogger Relay.                                                  All
+        Turn the ignition on.
+        Measure voltage of the Fused B+ Circuit in the Rear Window Defogger Relay
+        connector.
+        Is the voltage above 10.0 volts?
+                Yes   → Go To    5
+
+                No    → Repair the open Fused B+ Circuit from PDC fuse #2.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  5     Remove the Rear Window Defogger Relay.                                                  All
+        Install a known good relay in the Rear Window Defogger Relay connector.
+        Turn the ignition on.
+        Check the Rear Window Defogger for proper operation.
+        Does the system operate normally?
+
+                Yes   → Replace the original Rear Window Defogger Relay.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Rear Window Defogger Relay Output Circuit for an
+                        open condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  6     Remove the Rear Window Defogger Relay from the PDC.                                     All
+        Turn the ignition switch On.
+        Using a 12-volt test light connected to ground, check the Fused Ignition Switch
+        Output circuit at the relay.
+        Does the test light illuminate brightly?
+
+                Yes   → Go To    7
+                No    → Repair the open Fused Ignition Switch Output circuit from PDC
+                        fuse #7
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  7     Install a known good relay in the Rear Window Defogger Relay.                           All
+        Turn the ignition on.
+        Check the Rear Window Defogger for proper operation.
+        Does the system operate normally?
+
+                Yes   → Replace the original Rear Window Defogger Relay.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    8
+
+  8     Turn the ignition off.                                                                  All
+        Remove the Rear Window Defogger Relay from the PDC.
+        Disconnect the Instrument Cluster C2 connector.
+        Measure the resistance of the Rear Window Defogger Relay Control circuit between
+        the Instrument Cluster C2 connector and the PDC.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To    9
+
+                No    → Repair the Rear Window Defogger Relay Control Circuit for an
+                        open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   133
+

@@ -1,0 +1,65 @@
+                                                                      GENERAL INFORMATION
+1.0    INTRODUCTION                                         5. repair of isolated problem
+                                                            6. verification of proper operation
+  The procedures contained in this manual include
+all the specifications, instructions, and graphics
+needed to diagnose body system problems. The                2.0    IDENTIFICATION OF
+diagnostics in this manual are based on the failure                SYSTEM
+condition or symptom being present at time of
+diagnosis.                                                    The vehicle systems that are part of the 9body9
+  Please follow the recommendations below when              system are:
+choosing your diagnostic path.                              • airbag system
+1. First make sure the DRBIIIt is communicating             • audio
+   with the appropriate modules: i.e., if the
+                                                            • chime
+   DRBIIIt displays a 9No Response9 condition, you
+   must diagnose that first.                                • electrically heated systems
+
+2. Read DTC’s (diagnostic trouble codes) with the           • instrument cluster
+   DRBIIIt.                                                 • vehicle communications
+3. If no DTC’s are present, identify the customer
+   complaint.
+                                                            3.0    SYSTEM DESCRIPTION AND
+4. Once the DTC or customer complaint is identi-
+                                                                   FUNCTIONAL OPERATION
+   fied, locate the matching test in the Table of
+   Contents and begin to diagnose the symptom.                 The body system on the 2006 Jeept Wrangler (TJ)
+  All component location views are in Section 8.0.          consists of a combination of modules that commu-
+All connector pinouts are in Section 9.0. All sche-         nicate over the PCI bus (Programmable Communi-
+matics are in Section 10.0.                                 cation Interface multiplex system). Through the
+  An asterisk (*) placed before the symptom de-             PCI bus, information about the operation of vehicle
+scription indicates a customer complaint.                   components and circuits is relayed quickly to the
+  When repairs are required, refer to the appropri-         appropriate module(s). All modules receive all the
+ate service manual for the proper removal and               information transmitted on the bus even though a
+repair procedure.                                           module may not require all information to perform
+  Diagnostic procedures change every year. New              its function. It will only respond to messages 9ad-
+diagnostic systems may be added: carryover sys-             dressed9 to it through a binary coding process. This
+tems may be enhanced. READ THIS MANUAL                      method of data transmission significantly reduces
+BEFORE TRYING TO DIAGNOSE A VEHICLE                         the complexity of the wiring in the vehicle and the
+DIAGNOSTIC TROUBLE CODE. It is recom-                       size of wiring harnesses. All of the information
+mended that you review the entire manual to be-             about the functioning of all the systems is orga-
+come familiar with all the new and changed diag-            nized, controlled, and communicated by the PCI
+nostic procedures.                                          bus, which is described in the Vehicle Communica-
+  This book reflects many suggested changes from            tion Section of the general information.
+readers of past issues. After using this book, if you
+have any comments or suggestion, please fill out the        3.1   AIRBAG SYSTEM
+form in the back of the book, and mail it back to us.
+                                                               The Airbag system is designed to provide in-
+1.1   SYSTEM COVERAGE                                       creased driver and passenger protection if the vehi-
+                                                            cle is involved in a front-end collision. The airbag
+  This diagnostic procedures manual covers all              system is designed to be used in conjunction with
+2006 Jeept Wrangler (TJ) vehicles.                          the seat belt system.
+                                                               Whenever the ignition switch is turned to the
+1.2   SIX-STEP TROUBLESHOOTING                              Run or Start position, the ACM performs a warning
+      PROCEDURE                                             indicator bulb-check via a PCI bus request to the
+                                                            instrument cluster to illuminate the Airbag Warn-
+  Diagnosis of the body system is performed in six          ing Indicator. The indicator remains illuminated for
+basic steps:                                                6 to 8 seconds, and then turns off. If the indicator
+1. verification of complaint                                remains off, the ACM has checked the system and
+2. verification of any related symptoms                     found it to be free of discernable malfunctions.
+                                                               The ACM monitors critical input and output
+3. symptom analysis                                         circuits within the airbag system, ensuring the
+4. problem isolation                                        circuits are operating properly. Some circuits are
+
+                                                        1
+

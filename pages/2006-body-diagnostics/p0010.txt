@@ -1,0 +1,82 @@
+GENERAL INFORMATION
+3.2     AUDIO SYSTEM                                        3.3   ELECTROCHROMIC
+                                                                  COMPASS/TEMPERATURE MIRROR
+  Some radio systems available on the 2006 TJ
+communicate on the PCI Bus. They use the bus for                  WITH LIGHTS
+three reasons. The first is to communicate trouble
+codes, second is to receive dimming information,
+                                                            DESCRIPTION
+and the third is to receive cabin equalization infor-
+                                                              The optional self-dimming Electrochromic
+mation. The audio system is available in a 4
+                                                            Compass/Temperature Mirror has a vacuum fluores-
+speaker base system and a 7 speaker system with
+                                                            cent (VF) display that is integrated into the rear
+an external subwoofer.
+                                                            view mirror. The Compass/Temp Mirror includes the
+  When troubleshooting output shorts or “output”
+                                                            compass/temperature display and two map/reading
+error messages, the following applies:
+                                                            lamps. This display provides the outside tempera-
+  On radios without an external amplifier, the term
+                                                            ture and one of eight compass headings to indicate
+output refers to the path between the radio and the
+                                                            the direction the vehicle is facing. The Compass/
+speaker. This type of circuit can be monitored all
+                                                            Temp Mirror displays the compass heading and the
+the way through the speaker connections by the
+                                                            outside temperature at the same time. The Ambient
+radio assembly. When the radio displays a shorted
+                                                            Temperature Sensor monitors the outside tempera-
+output DTC with this type of system, the speaker,
+                                                            ture and is hardwired to the Compass/Temp Mirror.
+radio, or wiring could be at fault.
+  On radios with an external amplifier, the term
+                                                            BUTTON OPERATION
+“output” refers to the circuit between the radio
+                                                              The Compass/Temp Mirror incorporates 3 (mode/
+connector and the amplifier. The radio is capable of
+                                                            lamp) buttons to access and control various functions.
+monitoring only this portion and can tell nothing
+about the circuit between the amplifier and the             Left Button
+speakers. Consequently, a shorted output DTC on             • Press and Release
+this type of system would only refer to this circuit.
+                                                               > Toggles Left Map Light On/Off
+A faulty speaker could not cause this DTC.
+                                                            • Press w/ Right Switch for more than 5 seconds
+3.2.1    SATELLITE RADIO (SDARS)                              and Release
+   To use the satellite radio, the radio must be in            > Toggles    Electrochromic  Status     On/Off
+satellite mode. The satellite antenna must have an               -automatic On with each ignition cycle
+unobstructed view of the satellite. The vehicle must           > On mode is indicated by green status LED
+be outside to receive proper reception. Poor recep-              next to right button
+tion may be experienced in large down town areas
+                                                            Center Button
+where tall buildings are present. The satellite net-
+work is still under development, and this could be          • Press for more than 3 seconds and Release
+
+the cause of poor reception in certain areas. Use a            > Cycle through display status
+known good system to verify network performance                  – Compass / Temperature (Fahrenheit) - °F
+in these areas.                                                  mode stored to memory
+   Once in satellite mode, the radio head is used to             – Compass / Temperature (Celsius) - °C mode
+change stations. The Radio must be in Satellite                  stored to memory
+mode to communicate to the Satellite Receiver                    – Display Off - off mode stored to memory
+Module with the DRBIIIt. The Radio head commu-              • Press and Hold for 3-6 seconds
+nicates to the Satellite Receiver Module via the PCI           > Activate zone variance mode (adjust compass
+bus and the private Audio bus. The Audio bus                     for true north)
+functions just like the PCI bus, but its use is                  – 9Z9 and the currently programmed zone
+restricted to the Radio and the Satellite Receiver               (1-15) will flash in display window
+Module.                                                          – Each press of the center button will incre-
+   The Satellite Receiver Module processes signals               ment to the next zone
+it receives from the satellite antenna. That infor-              – When proper zone is selected, wait 5 sec-
+mation is then sent to the Radio where it is pro-                onds and mirror display returns to comp/temp
+cessed and sent out to the speakers. The Satellite               (see variance zone map for proper zone num-
+Receiver Module has the ability to detect and store              ber setting)
+fault code information, which may be retrieved with
+                                                            • Press and Hold for more than 6 seconds
+the DRBIIIt. Refer to the service manual for addi-
+tional information on the SDAR system and its                  > Activate compass calibration
+related components.                                              – 9CAL9 shows in display window until com-
+                                                                 pass is calibrated (verify correct variance zone
+
+                                                        4
+

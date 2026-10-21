@@ -1,0 +1,65 @@
+GENERAL INFORMATION
+3.7     USING THE DRBIIIT
+  Refer to the DRBIIIt user’s guide for instructions
+and assistance with reading trouble codes, erasing
+trouble codes, and other DRBIIIt functions.
+
+3.7.1    DRBIIIT ERROR MESSAGES AND
+         BLANK SCREEN
+  Under normal operation, the DRBIIIt will dis-
+play one of only two error messages:
+• User-Requested WARM Boot
+• User-Requested COLD Boot
+  This is a sample of such an error message display:
+ver: 2.14
+date: 26 Jul93
+file: key_itf.cc
+date: Jul 26 1993                                            information available at the time of publication.
+line: 548                                                    The right is reserved to make changes at any time
+err: 0x1
+                                                             without notice.
+User-Requested COLD Boot
+
+Press MORE to switch between this display                    4.2     SAFETY
+  and the application screen.
+Press F4 when done noting information.
+                                                             4.2.1    TECHNICIAN SAFETY INFORMATION
+  If the DRBIIIt should display any other error
+message, record the entire display and call the              WARNING: WHEN OPERATING, ENGINES
+STAR Center for information and assistance.                  PRODUCE AN ODORLESS GAS CALLED
+                                                             CARBON MONOXIDE. INHALING CARBON
+3.7.2     DRBIIIT DOES NOT POWER UP
+                                                             MONOXIDE GAS CAN RESULT IN SLOWER
+  If the LED’s do not light or no sound is emitted at        REACTION TIMES AND CAN LEAD TO
+start up, check for loose cable connections or a bad         PERSONAL INJURY OR DEATH. WHEN THE
+cable. Check the vehicle battery voltage (data link
+                                                             ENGINE IS OPERATING, KEEP SERVICE
+connector cavity 16). A minimum of 11 volts is
+required to adequately power the DRBIIIt.
+                                                             AREAS WELL VENTILATED OR ATTACH THE
+  If all connections are proper between the                  VEHICLE EXHAUST SYSTEM TO THE SHOP
+DRBIIIt and the vehicle or other devices, and the            EXHAUST REMOVAL SYSTEM.
+vehicle battery is fully charged, an inoperative               Set the parking brake and block the wheels before
+DRBIIIt may be the result of faulty cable or vehicle         testing or repairing the vehicle. It is especially
+wiring.                                                      important to block the wheels on front-wheel drive
+                                                             vehicles: the parking brake does not hold the drive
+3.7.3     DISPLAY IS NOT VISIBLE                             wheels.
+  Low temperatures will affect the visibility of the           When servicing a vehicle, always wear eye pro-
+display. Adjust the contrast to compensate for this          tection, and remove any metal jewelry such as
+condition.                                                   watchbands or bracelets that might make an inad-
+                                                             vertent electrical contact.
+                                                               When diagnosing a body system problem, it is
+4.0     DISCLAIMERS, SAFETY,                                 important to follow approved procedures where
+        WARNING                                              applicable. These procedures can be found in the
+                                                             service manual. Following these procedures is very
+                                                             important to the safety of individuals performing
+4.1     DISCLAIMERS                                          diagnostic tests.
+
+  All information, illustrations, and specifications
+contained in this manual are based on the latest
+
+
+
+
+                                                        10
+

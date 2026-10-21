@@ -1,0 +1,58 @@
+                                         TABLE OF CONTENTS
+1.0   INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+      1.1      SYSTEM COVERAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+      1.2      SIX-STEP TROUBLESHOOTING PROCEDURE . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+2.0   IDENTIFICATION OF SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+3.0   SYSTEM DESCRIPTION AND FUNCTIONAL OPERATION . . . . . . . . . . . . . . . . . . . . . .1
+
+      3.1      AIRBAG SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+                3.1.1   PASSENGER AIRBAG ON-OFF SWITCH . . . . . . . . . . . . . . . . . . . . . . . .2
+                3.1.2   SPECIAL TOOLS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+                3.1.3   DIAGNOSTIC TROUBLE CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+                3.1.3.1 ACTIVE CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+                3.1.3.2 STORED CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+      3.2      AUDIO SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+                3.2.1   SATELLITE RADIO (SDARS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+      3.3      ELECTROCHROMIC COMPASS/TEMPERATURE MIRROR WITH LIGHTS . . . .4
+      3.4      ELECTRICALLY HEATED SYSTEMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+                3.4.1   REAR WINDOW DEFOGGER . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+      3.5      ELECTRO/MECHANICAL INSTRUMENT CLUSTER (EMIC). . . . . . . . . . . . . . . . .7
+                3.5.1   SMART CLUSTER FEATURES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+                3.5.2   INSTRUMENT CLUSTER SELF TEST. . . . . . . . . . . . . . . . . . . . . . . . . . .8
+      3.6      VEHICLE COMMUNICATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+      3.7      USING THE DRBIIIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+                3.7.1   DRBIIIT ERROR MESSAGES AND BLANK SCREEN . . . . . . . . . . . . .10
+                3.7.2   DRBIIIT DOES NOT POWER UP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+                3.7.3   DISPLAY IS NOT VISIBLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+
+4.0   DISCLAIMERS, SAFETY, WARNING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+
+      4.1      DISCLAIMERS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+      4.2      SAFETY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+                4.2.1  TECHNICIAN SAFETY INFORMATION . . . . . . . . . . . . . . . . . . . . . . . . .10
+                4.2.2  VEHICLE PREPARATION FOR TESTING . . . . . . . . . . . . . . . . . . . . . . .11
+                4.2.3  SERVICING SUB-ASSEMBLIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+                4.2.4  DRBIIIT SAFETY INFORMATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+      4.3      WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+                4.3.1  VEHICLE DAMAGE WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+                4.3.2  ROAD TESTING A COMPLAINT VEHICLE . . . . . . . . . . . . . . . . . . . . . .11
+
+5.0   REQUIRED TOOLS AND EQUIPMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+
+6.0   GLOSSARY OF TERMS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+
+7.0   DIAGNOSTIC INFORMATION AND PROCEDURES . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+
+      AIRBAG
+      ACCELEROMETER 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+      INTERNAL 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+      OUTPUT DRIVER 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+      SAFING SENSOR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+      STORED ENERGY FIRING 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+      STORED ENERGY LOGIC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+
+                                                                  i
+

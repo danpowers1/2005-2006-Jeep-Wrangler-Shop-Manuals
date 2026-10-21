@@ -1,0 +1,72 @@
+                                                                      GENERAL INFORMATION
+     prior to initial or re-calibration)                      Cover the forward facing sensor with a finger or
+     – Drive vehicle in a slow circle for 1.5 revolu-         dark material. Using a flashlight or other light
+     tions to recalibrate compass                             source, illuminate the rear-facing sensor. The
+                                                              mirror should remain in a high reflectance state.
+Right Button
+                                                              This simulates nighttime driving conditions, pro-
+• Press and Release                                           viding a clear view while backing up.
+   > Toggles Right Map Light On/Off                           If the EC Comp/Temp Mirror does not respond as
+                                                              indicated, replace the EC Comp/Temp Mirror in
+ELECTROCHROMIC (EC) OPERATION (auto                           accordance with the Service Information.
+dimming feature)
+   The automatic dimming feature detects forward            COMPASS OPERATION
+and rear light conditions and adjusts the reflec-             The compass is capable of distinguishing 8 pri-
+tance level of the mirror to eliminate unwanted             mary directions: N, NE, E, SE, S, SW, W, NW. This
+glare by the use 2 photoelectric sensors. The feature       electronic compass is designed to display readings
+can be disabled by depressing the Left and Right            relative to True North. All compasses measure
+buttons together for more than 5 seconds. The               readings relative to Magnetic North. The difference
+disable command will only remain in effect until the        between Magnetic North and True North varies
+ignition is turned off. The EC function will automat-       from place to place across the surface of the earth.
+ically return to ON with each ignition cycle.               Therefore, the compass must be told approximately
+   When the forward sensor detects daytime condi-           where it is on the earth’s surface so that the
+tions, the rear sensor is inactive and the mirror           Magnetic North reading can be properly converted
+remains in a high reflectance state.                        into a True North Display. This is done by separat-
+   When nighttime conditions are sensed by the              ing different parts of the earth into numbered 9Zone
+forward sensor, the rear facing sensor is active and        Variances9 (see zone variance map). The Zone Vari-
+detects glare from rearward approaching vehicles            ance in which the compass is to function must be
+or other glare producing light sources. The mirror          entered into the compass.
+will automatically adjust to a low reflectance state
+to remove the unwanted glare from the inside rear           FIRST TIME / MANUAL CALIBRATION
+view mirror. The mirror will automatically return to           Set or confirm the Zone Variance, refer to COM-
+a high reflectance state whenever the vehicle is            PASS ZONE VARIANCE. During first time or man-
+placed in REVERSE to ensure a clear view when               ual calibration, the compass may already be cali-
+backing up.                                                 brated (CAL is not displayed). It is recommended
+                                                            that the CAL mode be invoked under all situations.
+NOTE: Do not allow the forward or rear                      With the ignition in the ON position, pressing and
+sensors to be obstructed since this may                     holding the CENTER button for more than 6 sec-
+impair proper performance.                                  onds will toggle the display to CAL. Releasing the
+                                                            button after the 6 second duration will enter the
+ELECTROCHROMIC (EC) DIAGNOSTICS                             compass into the calibration mode. CAL will remain
+  Ensure that both the forward and rear sensors             illuminated until the calibration is complete. Move
+are not obstructed by hang items, tape, stickers,           the vehicle to an area away from large metallic
+window decals, etc.                                         objects or overhead power lines. While CAL is
+                                                            illuminated in the display the vehicle must be
+1. With the ignition in the ON position:                    driven in at least 1 complete 360° circle at less than
+  Use a flashlight or other light source, to illumi-        5 MPH (8 KPH). Up to 3 complete 360° circles may
+  nate the forward facing sensor. The mirror should         be required. The compass will calibrate; CAL will
+  remain/adjust to a high reflectance state. This           turn off, and the compass will resume normal
+  simulates daytime conditions.                             operation.
+  Cover the forward facing sensor with a finger or
+  dark material. Using a flashlight or other light          COMPASS ZONE VARIANCE (adjust compass
+  source, illuminate the rear-facing sensor. The
+                                                            for true north)
+  mirror should dim to a low reflectance state. This
+                                                               The compass has a default zone of 8. Refer to the
+  simulates nighttime glare conditions.
+                                                            Zone Variance Map to determine the correct zone
+  Cover the forward and rear facing sensors with
+                                                            number. The correct compass Zone selection is crit-
+  fingers or dark material. The mirror should
+                                                            ical to proper compass operation. With the ignition
+  remain/adjust to a high reflectance state. This
+                                                            in the ON position, pressing the CENTER button
+  simulates nighttime non-glare conditions.
+                                                            for 3-6 seconds and then releasing while 9Z9 is
+2. With the ignition in the ON position, the BRAKE
+                                                            illuminated enters the compass into the Zone dis-
+applied and the vehicle in REVERSE:
+                                                            play mode. In the Zone display mode, 9Z9 will be
+
+                                                        5
+

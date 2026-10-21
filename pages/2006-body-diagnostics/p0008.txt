@@ -1,0 +1,69 @@
+GENERAL INFORMATION
+tested continuously; other circuits are tested only           NOTE: Do not turn the Passenger Airbag On -
+under certain circumstances. The ACM provides                 Off Switch while the ignition is in the Run
+diagnostic information about the airbag system to             position.
+the technician through the DRBIIIt via the PCI bus.              The ACM continuously monitors the resistance of
+   The deceleration of g-forces resulting from the            the Passenger Airbag On - Off Switch circuits to
+impact of a front-end collision causes the electronic         identify the switch position and to provide switch
+sensor inside of the ACM to be triggered. This                circuit diagnostics.
+causes the inflators to be actuated, thus deploying
+                                                              • ON Position: Passenger Airbag On - Off Switch
+the airbag(s). The total time between determining
+                                                                 resistance = 175 to 190 ohms
+to deploy and deflation of the air bag is 1/10th of one
+second (100ms).                                               • OFF Position: Passenger Airbag On - Off Switch
+   The 2006 Jeep Wrangler (TJ) may be equipped                   resistance = 820 to 870 ohms
+with a Passenger Airbag (PAB) On - Off Switch.                   If the ACM detects that the PAB On - Off Switch
+This switch has an ACM-controlled light that will             circuits are open, shorted to ground, or shorted to
+illuminate when the switch is in the Off position.            battery voltage, it will set Active and Stored DTC’s.
+   Use the test procedures in this manual to diag-            When a DTC is detected by the ACM, it will trans-
+nose the cause of any customer complaint regarding            mit a PCI bus message to the Instrument Cluster to
+the Airbag Warning Indicator (located in the instru-          illuminate the Airbag warning indicator. Whenever
+ment cluster), such as:                                       the Airbag warning indicator is illuminated, the
+                                                              ACM should be the first module to be interrogated.
+• Airbag warning indicator does not illuminate at
+                                                                 If after replacing the ACM, any of the following
+   any time
+                                                              codes are active, the ACM must be re-configured to
+• Airbag warning indicator is illuminated at all              match the vehicle equipment:
+  times
+                                                              • MODULE NOT CONFIGURED FOR PAB OFF
+                                                                 SWITCH
+3.1.1     PASSENGER AIRBAG ON-OFF
+                                                              • PASSENGER AIRBAG ON - OFF SWTCH CIR-
+          SWITCH                                                CUIT OPEN
+   Vehicles without rear seats will be equipped with          • PASSENGER AIRBAG ON - OFF SWTCH INDI-
+a Passenger Airbag (PAB) On - Off Switch. The PAB               CATOR CIRCUIT OPEN
+On - Off Switch allows the vehicle operator to turn             To properly configure the ACM, using the
+the passenger airbag function On or Off.                      DRBIIIt, select Miscellaneous from the Airbag sys-
+   The Off indicator in the PAB On - Off Switch will          tem menu and follow instructions.
+be illuminated for 2 seconds whenever the ignition
+is transitioned to the Run position as a bulb check.          WARNING: IGNORING THE AIRBAG WARNING
+The Off indicator will remain illuminated when the            INDICATOR IN THE INSTRUMENT CLUSTER
+PAB On - Off Switch is turned to the Off position.            COULD MEAN THE PASSENGER AIRBAG ON - OFF
+   The PAB On - Off Switch assembly is mounted in             SWITCH IS NOT FUNCTIONAL AND THE
+the center of the instrument panel below the radio,           PASSENGER AIRBAG MAY DEPLOY IF AN IMPACT
+this allows the Off indicator to be visible to both           OCCURS. IF THE AIRBAG WARNING INDICATOR
+front seat occupants.
+                                                              ILLUMINATES, WHILE DRIVING, THE AIRBAG ON -
+WARNING: TO AVOID PERSONAL INJURY OR                          OFF SWITCH WILL REMAIN FUNCTIONAL FOR
+DEATH, ALWAYS CHECK THE PASSENGER                             THAT KEY CYCLE. IF THE AIRBAG WARNING
+AIRBAG ON - OFF SWITCH POSITION BEFORE                        INDICATOR ILLUMINATES AGAIN AT THE NEXT
+DRIVING THE VEHICLE. A SWITCH IN THE                          IGNITION ON AND STAYS ILLUMINATED FOR
+WRONG POSITION INCREASES THE RISK OF                          MORE THAN 6 - 8 SECONDS, THE ACM WILL
+SERIOUS INJURY OR DEATH IN A COLLISION.                       DEFAULT TO PASSENGER AIRBAG ON. IF THE
+  To operate the Passenger Airbag On - Off Switch,
+                                                              AIRBAG WARNING INDICATOR BULB TEST OR IF
+insert the ignition key into the PAB On - Off Switch          THE OFF INDICATOR DOES NOT ILLUMINATE
+keyway, push the key in to release the internal               WITH THE SWITCH IN THE OFF POSITION THE
+plunger, and rotate switch to the desired position.           PASSENGER AIRBAG MAY DEPLOY IF AN IMPACT
+The spring-loaded locking plunger prevents the                OCCURS. FAILURE TO TAKE THE PROPER
+user from leaving the key in the switch. The key              PRECAUTIONS COULD RESULT IN ACCIDENTAL
+will be automatically ejected from the switch when            AIRBAG DEPLOYMENT AND PERSONAL INJURY
+inward force is not applied. The ignition key is the          OR DEATH.
+only key or object that should ever be inserted into
+the PAB On - Off Switch.
+
+
+                                                          2
+

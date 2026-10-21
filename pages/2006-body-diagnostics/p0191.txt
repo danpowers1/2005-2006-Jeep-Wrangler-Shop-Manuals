@@ -1,0 +1,40 @@
+                                     CONNECTOR PINOUTS
+
+
+
+                        DRIVER AIRBAG SQUIB 1 - YELLOW 2 WAY
+CAV          CIRCUIT                                    FUNCTION
+ 1    R45 18DG/LB               DRIVER SQUIB 1 LINE 2
+ 2    R43 18BK/LB               DRIVER SQUIB 1 LINE 1
+
+
+
+
+      FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+CAV          CIRCUIT                                    FUNCTION
+ 1    Z987 20BK                 GROUND
+ 2    G300 20VT/WT              FRONT LOCKER INDICATOR SWITCH SENSE
+
+                                                                       C
+                                                                       O
+                                                                       N
+                                                                       N
+                                                                       E
+                                                                       C
+                                                                       T
+                                                                       O
+                                                                       R
+          FRONT LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY
+CAV          CIRCUIT                                    FUNCTION       P
+ 1    Z987 18BK                 GROUND                                 I
+ 2                  -                                       -          N
+ 3    A750 18TN/RD              FRONT LOCKER RELAY OUTPUT              O
+                                                                       U
+                                                                       T
+                                                                       S
+
+
+
+
+             185
+

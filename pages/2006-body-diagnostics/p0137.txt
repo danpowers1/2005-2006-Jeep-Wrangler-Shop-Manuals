@@ -1,0 +1,42 @@
+                                                    COMPASS/MINI-TRIP COMPUTER
+
+*TEMPERATURE DISPLAY INACCURATE OR INOPERATIVE — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  3     Turn the ignition off.                                                                  All
+        Disconnect the Ambient Temperature Sensor harness connector.
+        Disconnect the Compass/Temperature Mirror harness connector.
+        Measure the resistance between ground and the Ambient Temperature Sensor Signal
+        circuit.
+        Is the resistance below 5.0 ohms?
+                Yes   → Repair the Ambient Temperature Sensor Signal circuit for a short
+                        to ground. NOTE: After any repair for an Ambient Temperature
+                        Sensor problem, the vehicle must be driven for more than 2
+                        minutes to update the display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    4
+
+  4     Turn the ignition off.                                                                  All
+        Disconnect the Ambient Temperature Sensor harness connector.
+        Disconnect the Compass/Temperature Mirror harness connector.
+        Measure the resistance of the Sensor Ground circuit between the Ambient Temper-
+        ature Sensor connector and the Compass/Temperature Mirror connector.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Ambient Temperature Sensor Ground circuit for an
+                        open. NOTE: After any repair for an Ambient Temperature Sensor
+                        problem, the vehicle must be driven for more than 2 minutes to
+                        update the display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Compass/Temperature Mirror in accordance with the
+                        Service Information. NOTE: After any repair for an Ambient
+                        Temperature Sensor problem, the vehicle must be driven for more
+                        than 2 minutes to update the display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   131
+

@@ -1,0 +1,53 @@
+                                                                            INTERIOR LIGHTING
+
+Symptom:
+    *COURTESY LAMPS INOPERATIVE - ALL LAMPS
+
+
+
+
+                                           POSSIBLE CAUSES
+FUSED B+ CIRCUIT OPEN
+INSTRUMENT CLUSTER - COURTESY LAMP OPEN
+COURTESY LAMP FEED CIRCUIT OPEN
+INTERMITTENT CONDITION
+
+ TEST                                        ACTION                                          APPLICABILITY
+  1     Remove the dome lamp lens.                                                                All
+        Remove and ensure the bulb is good.
+        Using a 12-volt test light connected to ground, check the Fused B+ circuit.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    2
+                 No    → Repair the Fused B+ Circuit for an open condition.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Disconnect the Instrument Cluster.                                                        All
+        Connect a jumper wire between the Courtesy Lamp Feed Circuit and ground.
+        Observe the Dome Lamp.
+        Does the test light illuminate brightly?
+                 Yes   → Replace the Instrument Cluster.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    3
+
+  3     Remove the dome lamp bulb.                                                                All
+        Disconnect the Instrument Cluster.
+        Connect a jumper wire between the Courtesy Lamp Feed Circuit in the Instrument
+        Cluster connector and ground.
+        Measure resistance of the Courtesy Lamp Feed Circuit from the Dome Lamp to the
+        Instrument Cluster connector.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the Courtesy Lamp Feed Circuit for an open condition.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → The condition that caused this symptom is currently not present.
+                         Inspect the related wiring for a possible intermittent condition.
+                         Look for any chafed, pierced, pinched or partially broken wires.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     171
+

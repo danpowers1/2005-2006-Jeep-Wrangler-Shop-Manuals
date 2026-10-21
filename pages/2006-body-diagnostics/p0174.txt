@@ -1,0 +1,27 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *VF DISPLAY INOPERATIVE
+
+
+
+
+                                         POSSIBLE CAUSES
+INSTRUMENT CLUSTER
+
+ TEST                                     ACTION                                           APPLICABILITY
+  1     NOTE: Ensure that all other Instrument Cluster functions operate properly.              All
+        Turn the ignition off.
+        Perform the Instrument Cluster Self Test.
+        Did any or all of the VF display fail to operate?
+
+                Repair
+                         Replace and configure the Instrument Cluster in accordance with
+                         the Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   168
+

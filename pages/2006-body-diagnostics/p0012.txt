@@ -1,0 +1,62 @@
+GENERAL INFORMATION
+illuminated instead of the temperature. The cur-            the outside temperature and to avoid 9hot soak9
+rent Zone number, 1 through 15 will be displayed.           condition readings. The displayed outside tempera-
+While 9Z9 is illuminated; momentarily pressing the          ture information is stored within the memory of the
+CENTER button advances the zone to the next                 EC Comp/Temp Mirror. The temperature memory
+higher zone. When the desired zone number is                only sets after the EC Comp/Temp Mirror has been
+displayed, do not press the button again. After 5           on for 5 continuous minutes. When the EC Comp/
+seconds, the Zone Variance number will be stored in         Temp Mirror is first powered up, it retrieves the
+the module memory.                                          temperature data from the module memory. With
+   On long trips, a vehicle may leave its original          the memory set when the EC Comp/Temp Mirror is
+zone and enter one or more new zones. Generally, if         powered up, the last temperature stored will be
+no more that 3 or 4 zones are temporarily traversed,        displayed and the module enters the Slow Update
+there is now reason to reset the Zone Variance. Only        mode, (Slow Update = 1° increase or decrease per
+a permanent relocation of the vehicle to a new zone         minute.) With the memory not set when powered
+is reason enough to reset the Zone Variance. Each           up, the EC Comp/Temp Mirror will enter Fast
+zone is magnetically about 4.2° wide. Until a total         Update mode for 5 minutes and then enter Slow
+nearing 22.5° is accumulated by traversing zones,           Update mode, (Fast Update = Sample and display
+the typical driver will not notice any difference on        the outside air temperature every 2 seconds.)
+the display. Beyond 22.5°, a reading may be off by          • TEMPERATURE UPDATE - WARM
+one or more primary directions.                               On power up, when the outside temperature
+                                                            sensed by the ambient temperature sensor is
+                                                            warmer than the temperature stored in the module
+                                                            memory, the EC Comp/Temp Mirror will update the
+                                                            displayed temperature in relation to the current
+                                                            Update rate.
+                                                            • TEMPERATURE UPDATE - COLD
+                                                              On power up, when the outside air temperature
+                                                            sensed by the ambient temperature sensor is colder
+                                                            than the stored memory temperature, the EC
+                                                            Comp/Temp Mirror will update the displayed tem-
+                                                            perature to the outside temperature at a rate of -1°
+CONTINUOUS CALIBRATION                                      every 2 seconds.
+  During normal operation, the EC Comp/Temp                 • POTENTIAL (ICE( CONDITIONS
+Mirror will continuously update the compass cali-             If the measured outside temperature is 3°C
+bration to adjust for gradual changes in the vehi-          (37°F) or less, the temperature display will inter-
+cle’s magnetic remnant field. If the vehicle is sub-        mittently read the word 9ICE9 to indicate possible
+jected to high magnetic influences, the compass             hazardous driving conditions. The alternating
+may appear to indicate false headings, locked or            9ICE9 display will end approximately 2 minutes
+appear unable to be calibrated. If this occurs, refer       after initial detection of approximately 3°C (37°F).
+to MANUAL CALIBRATION.                                      • EXTREME TEMPERATURE / OPEN OR
+                                                               SHORT CONDITION
+COMPASS DIAGNOSTICS                                           If the measured outside temperature is more
+  If at any time the compass continually displays           than 60°C (140°F) or the ambient temperature
+the incorrect direction, the reading is erratic or          sensor sense circuit is shorted to ground, the temp
+locked, verify the correct zone variance per COM-           display will be 9SC9 to indicate a short circuit
+PASS ZONE VARIANCE and manually recalibrate                 condition.
+per MANUAL CALIBRATION. The electronic com-                   If the measured outside temperature is less than
+pass, although highly protected from changes in             -45°C (-49°F) or the ambient temperature sensor
+magnetic field, can be susceptible to large changes         sense circuit is open, the temp display will be 9OC9
+in magnetic field. Examples include, but not limited        to indicate an open circuit condition.
+to: high tension power lines, large steel buildings,
+automatic car washes, large quantities of scrap             AMBIENT TEMPERATURE SENSOR
+metal, etc. While occurrence of this phenomenon is
+infrequent, it is possible.                                 DESCRIPTION
+                                                               The ambient temperature sensor is a variable
+OUTSIDE TEMPERATURE OPERATION                               resistor that operates on a 5-volt reference signal
+  The EC Comp/Temp Mirror utilizes internal mod-            circuit hardwired to the Compass/Temp Mirror. The
+ule memory temperature data to accurately display
+
+
+                                                        6
+

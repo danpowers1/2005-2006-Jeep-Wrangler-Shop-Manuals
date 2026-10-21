@@ -1,0 +1,44 @@
+AIRBAG
+
+Symptom:
+    DRIVER SQUIB 1 SHORT TO GROUND
+
+
+
+When Monitored and Set Condition:
+
+        DRIVER SQUIB 1 SHORT TO GROUND
+        When Monitored:     With the ignition on, the ACM monitors the resistance of the Driver
+        Squib 1 circuits.
+        Set Condition:   When the ACM detects a short to ground in either Driver Squib 1 circuits.
+
+
+
+                                       POSSIBLE CAUSES
+DRIVER AIRBAG SQUIB 1 SHORT TO GROUND
+CLOCKSPRING, DRIVER SQUIB 1 SHORT TO GROUND
+DRIVER SQUIB 1 LINE 1 OR LINE 2 SHORTED TO GROUND
+ACM, DRIVER SQUIB 1 SHORT TO GROUND
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                    ACTION                                    APPLICABILITY
+   1      Turn the ignition on.                                                         All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                 ACM - ACTIVE DTC
+                        Go To 2
+
+                 ACM - STORED DTC
+                        Go To 6
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+
+
+
+                                                30
+

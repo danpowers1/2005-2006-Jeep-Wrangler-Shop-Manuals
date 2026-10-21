@@ -1,0 +1,57 @@
+                   TABLE OF CONTENTS - Continued
+AIRBAG WARNING INDICATOR OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+AIRBAG WARNING INDICATOR SHORT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+CLUSTER MESSAGE MISMATCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+DRIVER SQUIB 1 CIRCUIT OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+DRIVER SQUIB 1 CIRCUIT SHORT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .24
+DRIVER SQUIB 1 SHORT TO BATTERY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+DRIVER SQUIB 1 SHORT TO GROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .30
+LOSS OF IGNITION RUN - START . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+LOSS OF IGNITION RUN ONLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .37
+MODULE NOT CONFIGURED FOR PAB OFF SWITCH . . . . . . . . . . . . . . . . . . . . . . . .40
+NO CLUSTER MESSAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43
+NO PCI TRANSMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+PASSENGER AIRBAG ON - OFF SWITCH OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+PASSENGER AIRBAG ON - OFF SWITCH SHORT TO BATTERY. . . . . . . . . . . . . . . .50
+PASSENGER AIRBAG ON - OFF SWITCH SHORT TO GROUND . . . . . . . . . . . . . . . .53
+PASSENGER OFF INDICATOR CIRCUIT SHORT TO BATTERY . . . . . . . . . . . . . . . . .56
+PASSENGER OFF INDICATOR CIRCUIT SHORT TO GROUND . . . . . . . . . . . . . . . . .59
+PASSENGER SQUIB 1 CIRCUIT OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .63
+PASSENGER SQUIB 1 CIRCUIT SHORT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .66
+PASSENGER SQUIB 1 SHORT TO BATTERY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .69
+PASSENGER SQUIB 1 SHORT TO GROUND . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .72
+*AIRBAG INDICATOR ON WITHOUT ACTIVE TROUBLE CODES . . . . . . . . . . . . . . . .75
+
+AUDIO
+ALL OUTPUTS SHORT - BASE AUDIO SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . .76
+ALL OUTPUTS SHORT - PREMIUM AUDIO SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . .78
+CASSETTE PLAYER INOP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+CD MECHANICAL FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+NO PCI TRANSMISSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*AM/FM SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*ANY STATION PRESET SWITCH INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*BALANCE INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*CD EJECT SWITCH INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*EQUALIZER INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*FADER INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*FF/RW SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*HOUR/MINUTE SWITCHES INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*PAUSE/PLAY SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*PWR SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*SCAN SWITCH INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*SEEK SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*SET SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*TAPE EJECT SWITCH INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*TIME SWITCH INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+*TUNE SWITCH INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+CD PLAY FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .83
+CD READ FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .84
+CD TEMPERATURE HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .85
+LOW VOLTAGE LEVEL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .86
+NO ANTENNA CONNECTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .87
+POWER AMP SHUTDOWN - BASE AUDIO SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . .88
+POWER AMP SHUTDOWN - PREMIUM AUDIO SYSTEM . . . . . . . . . . . . . . . . . . . . . .90
+*POOR SDARS RECEPTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .93
+
+                                                        ii
+

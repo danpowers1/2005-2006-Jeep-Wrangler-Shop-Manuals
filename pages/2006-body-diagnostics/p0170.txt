@@ -1,0 +1,35 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *REAR FOG LAMP INDICATOR INOPERATIVE - BUX ONLY
+
+
+
+
+                                         POSSIBLE CAUSES
+REAR FOG LAMP INDICATOR CIRCUIT OPEN
+INSTRUMENT CLUSTER
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     NOTE: Ensure that the Rear Fog Lamp operates properly. If not, refer to                  All
+        EXTERIOR LIGHTING in the Service Information.
+        NOTE: Headlamps must be turned on for Rear Fog Lamp and indicator to
+        operate.
+        Turn the ignition off.
+        Disconnect the Instrument Cluster.
+        Check connectors - Clean/repair as necessary.
+        Turn on the Headlamps and Rear Fog Lamp.
+        Using a 12-volt test light connected to ground, check the Rear Fog Lamp Indicator
+        circuit.
+        Does the test light illuminate brightly?
+                Yes   → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Fog Lamp Indicator circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    164
+

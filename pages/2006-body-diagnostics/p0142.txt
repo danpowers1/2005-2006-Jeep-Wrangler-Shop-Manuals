@@ -1,0 +1,37 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    ACM MESSAGE NOT REC’D BY MIC
+
+
+
+When Monitored and Set Condition:
+
+        ACM MESSAGE NOT REC’D BY MIC
+        When Monitored:      With the ignition in the Run/Start position, Instrument Cluster in
+        power-up state.
+        Set Condition: The Instrument Cluster detects loss of communication with the Air Bag
+        Control Module (ACM).
+
+
+
+                                           POSSIBLE CAUSES
+ACM MESSAGE NOT RECEIVED
+
+ TEST                                       ACTION                                  APPLICABILITY
+   1      Turn the ignition on.                                                          All
+          NOTE: Ensure the Instrument Cluster communicates on the PCI Bus.
+          With the DRBIIIt, select Body, Electro/Mech Cluster, then read DTCs.
+          Does the DRBIIIt display ACM Message Not Rec’d by MIC?
+
+                  Yes   → Refer to the COMMUNICATION category and perform the ap-
+                          propriate symptom.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+                  No    → Test Complete.
+
+
+
+
+                                                 136
+

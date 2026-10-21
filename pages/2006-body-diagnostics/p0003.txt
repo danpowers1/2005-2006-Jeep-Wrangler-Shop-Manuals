@@ -1,0 +1,58 @@
+                  TABLE OF CONTENTS - Continued
+*POOR SOUND QUALITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .94
+*SDARS INOP NO CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .95
+
+CHIME
+*CHIME INOPERATIVE AT ALL TIMES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .97
+*CHIME INOPERATIVE WITH DRIVER SEAT BELT UNFASTENED. . . . . . . . . . . . . . .98
+*CHIME INOPERATIVE WITH EXTERIOR LAMPS ON AND DRIVER DOOR OPEN .99
+*CHIME INOPERATIVE WITH KEY IN IGNITION, DRIVER’S DOOR OPEN . . . . . . .100
+*CHIME SOUNDS WITH DRIVER SEAT BELT FASTENED . . . . . . . . . . . . . . . . . . . .103
+*CHIME SOUNDS WITH DRIVER’S DOOR OPEN, KEY REMOVED . . . . . . . . . . . . .105
+
+COMMUNICATION
+*NO RESPONSE FROM AIRBAG CONTROL MODULE . . . . . . . . . . . . . . . . . . . . . . .106
+*NO RESPONSE FROM CONTROLLER ANTILOCK BRAKE . . . . . . . . . . . . . . . . . . .108
+*NO RESPONSE FROM INSTRUMENT CLUSTER . . . . . . . . . . . . . . . . . . . . . . . . . . .110
+*NO RESPONSE FROM PCM (PCI BUS) - NGC . . . . . . . . . . . . . . . . . . . . . . . . . . . . .112
+*NO RESPONSE FROM PCM (PCM SCI ONLY) - NGC . . . . . . . . . . . . . . . . . . . . . . .113
+*NO RESPONSE FROM RADIO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .116
+*NO RESPONSE FROM SATELLITE RADIO RECEIVER . . . . . . . . . . . . . . . . . . . . . .118
+*NO RESPONSE FROM SENTRY KEY IMMOBILIZER MODULE . . . . . . . . . . . . . . .120
+*NO RESPONSE FROM TRANSMISSION CONTROL MODULE - NGC . . . . . . . . . .122
+*PCI BUS COMMUNICATION FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .125
+
+COMPASS/MINI-TRIP COMPUTER
+*COMPASS/TEMP MODULE WILL NOT CALIBRATE . . . . . . . . . . . . . . . . . . . . . . . . .128
+*COMPASS/TEMPERATURE MODULE INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . .129
+*TEMPERATURE DISPLAY INACCURATE OR INOPERATIVE . . . . . . . . . . . . . . . . . .130
+
+ELECTRICALLY HEATED SYSTEMS
+*REAR WINDOW DEFOGGER INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .132
+*REAR WINDOW DEFOGGER SWITCH INDICATOR LAMP INOPERATIVE. . . . . . .135
+
+INSTRUMENT CLUSTER
+ACM MESSAGE NOT REC’D BY MIC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .136
+AIR BAG LAMP CIRCUIT OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .137
+AIR BAG LAMP CIRCUIT SHORT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .138
+CHECKSUM FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .139
+PANEL DIMMER OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .140
+PCM MESSAGE NOT REC’D BY MIC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .142
+SKIM MESSAGE NOT REC’D BY MIC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .143
+*9NO BUS9 IN VF DISPLAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .144
+*9NO FUSE9 IN VF DISPLAY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .145
+*4WD INDICATOR INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .146
+*ABS INDICATOR INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .149
+*AIR BAG INDICATOR INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .150
+*ALL GAUGES INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .151
+*ANY PCI BUS INDICATOR INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .153
+*AXLE LOCK INDICATOR PROBLEMS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .154
+*BRAKE WARNING INDICATOR ALWAYS ON . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .157
+*BRAKE WARNING INDICATOR INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . .158
+*FOG LAMP INDICATOR INOPERATIVE - DOMESTIC . . . . . . . . . . . . . . . . . . . . . . . .160
+*HIGH BEAM INDICATOR INOPERATIVE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .161
+*ONE GAUGE INOPERATIVE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .162
+
+
+                                                     iii
+

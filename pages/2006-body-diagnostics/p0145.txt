@@ -1,0 +1,33 @@
+                                                                      INSTRUMENT CLUSTER
+
+Symptom:
+    CHECKSUM FAILURE
+
+
+
+When Monitored and Set Condition:
+
+        CHECKSUM FAILURE
+        When Monitored:       Instrument Cluster detects battery connection.
+        Set Condition: Instrument Cluster fails EEPROM checksum test. (The Instrument
+        Cluster performs an EEPROM checksum as a continuous self test to verify functionality.)
+
+
+
+                                           POSSIBLE CAUSES
+INSTRUMENT CLUSTER
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Turn the ignition on.                                                                  All
+          With the DRBIIIt, select Body, then Electro/Mech Cluster, read DTCs.
+          Does the DRBIIIt display Checksum Failure?
+                  Yes   → Replace and configure the Instrument Cluster in accordance with
+                          the Service Information.
+                          Perform BODY VERIFICATION TEST - VER 1.
+                  No    → Test Complete.
+
+
+
+
+                                                     139
+

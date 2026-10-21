@@ -1,0 +1,64 @@
+                                                                         GENERAL INFORMATION
+3.1.2    SPECIAL TOOLS                                        3.1.3.1     ACTIVE CODES
+   Some airbag diagnostic tests use special tools, the           An active trouble code indicates an on-going mal-
+8310 and 8443 airbag load tools for testing squib             function. This indicates that the defect is currently
+circuits. The load tools contain fixed resistive loads,       active every time the ACM checks the particular
+jumpers, and adapters. The fixed loads are con-               circuit or function. It is impossible to erase an active
+nected to cables and are mounted in a storage case.           code; active codes automatically erase themselves
+   The cables can be directly connected to some               when the cause for the code has been corrected.
+airbag system connectors. Jumpers are used to                    With the exception of the warning indicator trou-
+convert the load tool cable connectors to other               ble codes or malfunctions, when a malfunction has
+airbag system connectors. The adapters are con-               been detected by the ACM, the Airbag warning
+nected to the module harness connector to open                indicator is illuminated for a minimum of 12 sec-
+shorting clips and to protect the connector terminal          onds, or as long as the malfunction is present.
+during testing.
+   When using the load tool, follow all of the safety         3.1.3.2     STORED CODES
+procedures in the service information for discon-                Airbag codes are automatically stored in the ACM
+necting airbag system components. Inspect the wir-            memory as soon as the malfunction is detected,
+ing, connector, and terminals for damage or mis-              with the exception of the Loss Of Ignition Run-Only
+alignment.                                                    code, which is an active code only. A stored code
+   Substitute the airbag load tool in place of a Driver       indicates that there was an active code present at
+or Passenger airbag, curtain airbag, clockspring, or          some time. However, the code currently may not be
+seat belt tensioner, (use a jumper if needed). Then           present as an active code, although another active
+follow all of the safety procedures in the service            code may be.
+information for connecting airbag system compo-                  When a trouble code occurs, the Airbag warning
+nents.                                                        indicator illuminates for 12 seconds minimum,
+   Read the module active DTC’s. If the module                (even if the condition existed for less than 12
+reports NO ACTIVE DTC’S, the defective compo-                 seconds). Stored codes display the time in minutes
+nent has been removed from the system and should              that the code was active, and the number of times
+be replaced. If the DTC is still active, continue this        that the ignition has been cycled since the active
+process until all of the components in the circuit            code was last detected.
+have been tested.                                                The minimum time shown for any code will be
+   Then disconnect the module connector and con-              one minute, even if the code was actually present
+nect the matching adapter to the module connector.            for less than one minute. Thus, the time shown for
+With all airbags disconnected and adapter in-                 a code that was present for two minutes 13 seconds,
+stalled, the squib circuits can be tested for open and        for example, would be three minutes.
+shorted conditions.                                              If a malfunction is not active while performing a
+                                                              diagnostic test, the active code diagnostic test will
+3.1.3    DIAGNOSTIC TROUBLE CODES                             not locate the source or the condition. In this case,
+  Airbag diagnostic trouble codes (DTC) consist of            the stored code can indicate an area to inspect. The
+active and stored codes. If more than one DTC                 following procedure may uncover a malfunction
+exists, diagnostic priority should be given to the            that is difficult to locate:
+active code(s). Each DTC is diagnosed by following a
+specific testing procedure. The diagnostic test pro-          WARNING: TO AVOID PERSONAL INJURY OR
+cedures contain step-by-step instructions for deter-          DEATH, MAINTAIN A SAFE DISTANCE FROM
+mining the cause of the DTC. It is not necessary to           ALL AIRBAGS WHILE PERFORMING THE
+perform all of the tests in this manual to diagnose           FOLLOWING INSPECTION:
+an individual DTC.                                              If no obvious problems are found:
+  Always begin by reading the DTC’s using the
+                                                              • Erase the stored codes
+DRBIIIt. If more than one code exists, diagnostic
+priority should be given to active code(s).                   • Place the ignition in the Run position
+  Active DTC’s for the airbag system are not per-             • Wiggle the wire harness and connectors
+manent and will change the moment the cause of                • Rotate the steering wheel from stop to stop
+the code is corrected. In certain test procedures
+                                                              • Recheck for active codes periodically as you work
+within this manual, DTC’s are used as a diagnostic
+                                                                through the system.
+tool.
+
+
+
+
+                                                          3
+

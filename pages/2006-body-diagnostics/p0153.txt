@@ -1,0 +1,56 @@
+                                                                    INSTRUMENT CLUSTER
+
+*4WD INDICATOR INOPERATIVE — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  4     Turn the ignition off.                                                                   All
+        Disconnect the Transfer Case Switch harness connector.
+        Connect a jumper wire between cavity 1 and cavity 2.
+        Turn the ignition on.
+        With the DRBIIIt, read the 4WD Switch input.
+        Does the DRBIIIt display 9Closed?9
+                Yes   → Replace the Transfer Case Switch in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    5
+
+  5     Turn the ignition off.                                                                   All
+        Disconnect the Transfer Case Switch harness connector.
+        Disconnect the PCM C1 harness connector.
+        Measure the resistance of the Transfer Case Position Sensor Input circuit between
+        the T/Case Switch connector and the PCM C1 connector.
+        Is the resistance above 5.0 ohms?
+                Yes   → Repair the Transfer Case Position Sensor Input circuit for an
+                        open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Transfer Case Switch Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition on.                                                                    All
+        With the DRBIIIt, select Body, MIC, then Inputs/Outputs.
+        Move the transfer case shift lever from the 2H to the 4H or 4L position.
+        Does the DRBIIIt display 4WD Switch 9Closed9 with the shift lever in the 4H or 4L
+        position?
+                Yes   → Replace and configure the Instrument Cluster in accordance with
+                        the Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    7
+
+  7     Turn the ignition off.                                                                   All
+        Disconnect the Transfer Case Switch harness connector.
+        Connect a jumper wire between cavity A and cavity B.
+        Turn the ignition on.
+        With the DRBIIIt, read the 4WD Switch input.
+        Does the DRBIIIt display 9Closed9.
+
+                Yes   → Replace the Transfer Case Switch in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    8
+
+
+
+
+                                                    147
+

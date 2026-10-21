@@ -1,0 +1,62 @@
+                                                                      GENERAL INFORMATION
+outside air temperature is monitored and displayed             > 30° C (86° F) Sensor Resistance = 7.37 - 8.75
+by the Compass/Temp Mirror.                                      Kilohms
+  The ambient temperature sensor cannot be ad-                 > 40° C (104° F) Sensor Resistance = 4.90 - 5.75
+justed or repaired and, if faulty or damaged, it must            Kilohms
+be replaced.                                                  The sensor resistance should read between these
+                                                            min/max values. If the resistance value is OK, refer
+OPERATION                                                   to the Wiring Diagrams to test the Signal and
+  The resistance in the ambient temperature sen-            Ground circuits. If the resistance values are not
+sor changes as the outside temperature rises or             OK, replace the Sensor.
+falls. The Compass/Temp Mirror senses the change
+in reference voltage through the ambient tempera-           MAP/READING LAMP OPERATION
+ture sensor resistor. Based on the resistance of the          The Map/Reading lamp feature uses LED (light
+ambient temperature sensor, the Compass/Temp                emitting diode) technology as its light source. The
+Mirror module is programmed to correspond to a              driver and passenger map lamps each consist of 6
+specific temperature. The Compass/Temp Mirror               LED’s, 2 blue-green and 4 amber. By mixing these
+then displays the corresponding outside tempera-            colors through the use of a diffusing cover the
+ture received from the sensor.                              output light is white in appearance. Direct viewing
+                                                            of the LED’s will appear as blue-green and amber.
+AMBIENT TEMPERATURE SENSOR                                  The lights are activated by the door switch when
+DIAGNOSTICS                                                 entering or exiting the vehicle or manually by using
+   The outside temperature function is supported by         the appropriate button on the mirror as described
+the ambient temperature sensor, a signal and                above. LED’s last 10-15+ years and are not designed
+ground circuit hardwired to the compass/temp mod-           to be replaced in this application.
+ule, and the Compass/Temp Mirror display.
+   If the Compass/Temp Mirror display indicates             3.4     ELECTRICALLY HEATED SYSTEMS
+9SC9, the ambient temperature sensor circuit is
+shorted to ground.
+   If the Compass/Temp Mirror display indicates             3.4.1    REAR WINDOW DEFOGGER
+9OC9, the ambient temperature sensor circuit is                The timing circuit for the Rear Window Defogger
+open.                                                       is contained internally within the cluster. When the
+   The ambient temperature sensor can be diag-              ignition is on, the first actuation of the Rear Win-
+nosed using the following Sensor Test. First, con-          dow Defogger switch initiates a 10 (ten) minute
+firm that °C is not being mistaken for °F or vise-          time cycle. After 10 (ten) minutes of the same
+versa. If the ambient temperature sensor and the            ignition cycle has elapsed, the cluster will turn the
+circuits are confirmed to be OK, but the tempera-           defogger off by opening the ground to the Rear
+ture display is inoperative or incorrect, replace the       Window Defogger Relay. If the defogger switch is
+Compass/Temp Mirror.                                        actuated a second time during the same ignition
+                                                            cycle, the cluster will turn the defogger off after 5
+AMBIENT TEMPERATURE SENSOR TEST                             (five) minutes. While the defogger is on, depressing
+1. Turn the ignition OFF.                                   the switch a second time will turn the defogger off.
+2. Disconnect and isolate the battery negative ca-          If the ignition is turned off while the defogger is
+   ble.                                                     operating, the defogger will remain off when the
+                                                            ignition is cycled.
+3. Disconnect the ambient temperature sensor har-
+   ness connector.
+                                                            3.5     ELECTRO/MECHANICAL INSTRUMENT
+4. Measure the resistance of the ambient tempera-
+   ture sensor using the following values:                          CLUSTER (EMIC)
+   > 0° C (32° F) Sensor Resistance = 29.33 - 35.99
+     Kilohms                                                3.5.1    SMART CLUSTER FEATURES
+   > 10° C (50° F) Sensor Resistance = 17.99 - 21.81          The Electro/Mechanical Instrument Cluster
+     Kilohms                                                (EMIC) houses the Fuel, Voltmeter, Engine Coolant
+   > 20° C (68° F) Sensor Resistance = 11.37 - 13.61        Temp, and Oil Pressure gauges, the Speedometer
+     Kilohms                                                and the Tachometer. The cluster positions the ana-
+   > 25° C (77° F) Sensor Resistance = 9.12 - 10.86         log gauges using PCI Bus messages received from
+     Kilohms                                                the PCM. The cluster also contains warning indica-
+                                                            tors as well as indicators for the Right and Left turn
+                                                            signals and the High Beam headlamps. Some of the
+
+                                                        7
+

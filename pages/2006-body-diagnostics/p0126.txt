@@ -1,0 +1,63 @@
+COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM SENTRY KEY IMMOBILIZER MODULE
+
+
+
+
+                                           POSSIBLE CAUSES
+ATTEMPT TO COMMUNICATE WITH THE INSTRUMENT CLUSTER
+GROUND CIRCUIT OPEN
+FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+FUSED B(+) CIRCUIT OPEN
+OPEN PCI BUS CIRCUIT
+SENTRY KEY IMMOBILIZER MODULE
+
+ TEST                                         ACTION                                         APPLICABILITY
+  1     Turn the ignition on.                                                                     All
+        With the DRB, enter Body then Electro/Mech Cluster.
+        Was the DRB able to I/D or communicate with the Instrument Cluster?
+                 Yes   → Go To     2
+
+                 No    → Refer to the symptom list for problems related to no communica-
+                         tion with the Instrument Cluster.
+                         Perform SKIS VERIFICATION.
+
+  2     Turn the ignition off.                                                                    All
+        Disconnect the SKIM harness connector.
+        Using a 12-volt test light connected to 12-volts, probe the ground circuit.
+        Is the test light illuminated?
+
+                 Yes   → Go To     3
+
+                 No    → Repair the ground circuit for an open.
+                         Perform SKIS VERIFICATION.
+
+  3     Turn the ignition off.                                                                    All
+        Disconnect the SKIM harness connector.
+        Turn the ignition on.
+        Using a 12-volt test light connected to ground, probe the Fused Ignition Switch
+        Output circuit.
+        Is the test light illuminated?
+
+                 Yes   → Go To     4
+
+                 No    → Repair the Fused Ignition Switch Output circuit for an open.
+                         Perform SKIS VERIFICATION.
+
+  4     Turn the ignition off.                                                                    All
+        Disconnect the SKIM harness connector.
+        Using a 12-volt test light connected to ground, probe the Fused B(+) circuit.
+        Is the test light illuminated?
+                 Yes   → Go To     5
+
+                 No    → Check the Fuse in the Fuse Block for an open. Refer to the wiring
+                         diagrams. If OK, repair the Fused B+ circuit for an open.
+                         Perform SKIS VERIFICATION.
+
+
+
+
+                                                      120
+

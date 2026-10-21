@@ -1,0 +1,62 @@
+                                                                                                        CHIME
+
+*CHIME INOPERATIVE WITH KEY IN IGNITION, DRIVER’S DOOR
+OPEN — Continued
+ TEST                                          ACTION                                              APPLICABILITY
+  4     Turn the ignition off.                                                                          All
+        Disconnect the Ignition Switch harness connector.
+        Remove the Instrument Cluster from the I/P.
+        Measure the resistance of the Key-in Ignition Switch Sense circuit between the
+        ignition switch harness connector and the Instrument Cluster C2 connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To      5
+
+                 No    → Repair the key-in ignition switch sense circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  5     If there are no possible causes remaining, view repair.                                         All
+
+                 Repair
+                           Replace the Instrument Cluster in accordance with the Service
+                           Information..
+                           Perform BODY VERIFICATION TEST - VER 1.
+
+  6     Gain access to the Fuse Block Fuse #4 and inspect.                                              All
+        Was the fuse missing or open?
+                 Yes   → Replace Fuse.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To      7
+
+  7     Using a 12-volt Test Light connected to 12-volts, test the Ground circuit at fuse #4 for        All
+        continuity.
+        Does the light illuminate?
+
+                 Yes   → Go To      8
+                 No    → Repair the Ground circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  8     Reinstall fuse if removed in previous test.                                                     All
+        Disconnect the Driver Door Ajar Switch connector.
+        With the DRBIIIt in Inputs/Outputs, read the DRV DR AJAR SW state.
+        Connect a jumper wire between Sense circuit and the Output circuit.
+        Does the DRBIIIt display DRV DR AJAR SW: CLOSED?
+
+                 Yes   → Replace the Driver Door Ajar Switch.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To      9
+
+  9     Disconnect the Driver Door Ajar Switch connector.                                               All
+        Measure the resistance of the Door Ajar Output from the ajar switch to the fuse.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To      10
+                 No    → Repair the Door Ajar Switch Output circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                        101
+

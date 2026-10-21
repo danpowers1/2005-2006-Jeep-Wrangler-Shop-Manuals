@@ -1,0 +1,51 @@
+                                    CONNECTOR PINOUTS
+
+
+
+           REAR LOCKER PUMP (OFF-ROAD PACKAGE) - LT. GRAY 3 WAY
+CAV             CIRCUIT                               FUNCTION
+ 1    Z987 18BK                GROUND
+ 2                 -                                        -
+ 3    A850 18RD/WT             REAR LOCKER RELAY OUTPUT
+
+
+
+
+                REAR WINDOW DEFOGGER SWITCH (HARD TOP) - 4 WAY
+CAV             CIRCUIT                               FUNCTION
+ 1    Z1 20BK                  GROUND
+ 2    C80 20DB                 REAR WINDOW DEFOGGER SWITCH SENSE
+ 3    C515 20LB/OR             FUSED REAR WINDOW DEFOGGER RELAY OUTPUT   C
+ 4    E2 20OR/BR               PANEL LAMPS FEED                          O
+                                                                         N
+                                                                         N
+                                                                         E
+                                                                         C
+                          RECEIVER-SATELLITE C1 - 12 WAY                 T
+CAV             CIRCUIT                               FUNCTION           O
+ 1    X41 18DG/WT              AUDIO OUT LEFT                            R
+ 2                 -                                        -
+ 3                 -                                        -            P
+ 4    Z515 18BK                GROUND                                    I
+ 5    X112 18DG/GY             FUSED IGNITION SWITCH OUTPUT (RUN-ACC)    N
+ 6    X160 18GY/YL             FUSED B(+)                                O
+ 7    X40 18GY/WT              AUDIO OUT RIGHT                           U
+ 8    X140 18GY/OR             COMMON AUDIO                              T
+ 9                 -                                        -            S
+10                 -                                        -
+11                 -                                        -
+12    D25 18WT/VT              PCI BUS
+
+
+
+
+                          RECEIVER-SATELLITE C2 - 2 WAY
+CAV             CIRCUIT                               FUNCTION
+ 1    D106 12WT/LG             SATELLITE ANTENNA SIGNAL 1
+ 2    D126 12WT/TN             SATELLITE ANTENNA SHIELD 1
+
+
+
+
+                195
+

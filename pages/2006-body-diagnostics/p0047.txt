@@ -1,0 +1,69 @@
+                                                                                                  AIRBAG
+
+MODULE NOT CONFIGURED FOR PAB OFF SWITCH — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Select Restraints, Airbag and then Miscellaneous from the DRB menu.                        All
+        Follow instructions to verify the ACM switch configuration.
+        Does the DRB show Configured for PAB OFF Switch?
+
+                 Yes   → Go To    9
+
+                 No    → Follow instructions on the DRB to reconfigured the Airbag Con-
+                         trol Module to support the Passenger Airbag Switch On - Off
+                         Switch.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  4     Inspect vehicle for a Passenger Airbag On - Off Switch wiring at the ACM connector.        All
+        NOTE: Some vehicles may have the wiring for the Passenger Airbag Off Switch and
+        no switch.
+        Is this vehicle equipped with a Passenger Airbag On - OFF Switch wiring?
+                 Yes   → Go To    5
+
+                 No    → Go To    9
+
+  5     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Airbag Control Module connector(s).
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Connect the appropriate Load Tool ACM Adaptor to the Airbag Control Module
+        connector.
+        Measure the resistance of the PAB Indicator Driver circuit between the ACM Adaptor
+        and ground.
+        Is the resistance below 10K ohms?
+                 Yes   → Repair the Passenger Airbag Indicator Driver circuit short to
+                         ground.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                 No    → Go To    6
+
+  6     Measure the resistance of the PAB MUX Switch Sense circuit between the ACM                 All
+        Adaptor and ground.
+        Is the resistance below 10K ohms?
+
+                 Yes   → Repair the Passenger Airbag MUX Switch Sense circuit short to
+                         ground.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                 No    → Go To    7
+
+  7     Measure the resistance between the PAB MUX Switch Sense circuit and the PAB                All
+        MUX Switch Return circuit at the ACM Adaptor.
+        Is the resistance below 10K ohms?
+
+                 Yes   → Repair the Passenger Airbag MUX Switch circuits shorted to-
+                         gether.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                 No    → Go To    8
+
+
+
+
+                                                     41
+

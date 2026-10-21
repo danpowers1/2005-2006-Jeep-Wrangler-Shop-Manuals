@@ -1,0 +1,45 @@
+GENERAL INFORMATION
+WARNING: REASSEMBLE ALL COMPONENTS                           CAB        Controller Antilock Brake
+BEFORE ROAD TESTING A VEHICLE. DO NOT
+                                                             CTMM       Compass Temperature Mirror Mod-
+TRY TO READ THE DRBIIIT SCREEN OR OTHER
+                                                                        ule
+TEST EQUIPMENT DURING A TEST DRIVE. DO
+NOT HANG THE DRBIIIT OR OTHER TEST                           DAB        Driver AirBag
+EQUIPMENT FROM THE REARVIEW MIRROR
+                                                             DLC        Data Link Connector
+DURING A TEST DRIVE. HAVE AN ASSISTANT
+AVAILABLE TO OPERATE THE DRBIIIT OR                          DTC        Diagnostic Trouble Code
+OTHER TEST EQUIPMENT. FAILURE TO                             EMIC       Electro/Mechanical Instrument
+FOLLOW THESE INSTRUCTIONS CAN RESULT                                    Cluster
+IN PERSONAL INJURY OR DEATH.
+                                                             LED        Light Emitting Diode
+                                                             LFW        Low Fuel Warning
+5.0    REQUIRED TOOLS AND
+       EQUIPMENT                                             MIC        Mechanical Instrument Cluster
+                                                             MIL        Malfunction Indicator Lamp
+• 8310 Airbag System Load Tool
+                                                             NGC        Next Generation Controller
+• 8443 Supplemental Restraints System Load Tool
+• DRBIIIt (diagnostic read-out box)                          PAB        Passenger AirBag
+• jumper wires                                               PCI        Programmable Communication In-
+• ohmmeter                                                              terface
+• test light                                                 PCM        Powertrain Control Module
+• voltmeter
+                                                             PDC        Power Distribution Center
+                                                             S.T.A.R.   Service Technical Assistance Re-
+6.0    GLOSSARY OF TERMS                                                source
+4WD            4-Wheel Drive                                 SKIM       Sentry Key Immobilizer Module
+ABS            Antilock Braking System                       SKIS       Sentry Key Immobilizer System
+ACM            Airbag Control Module                         SRS        Supplemental Restraints System
+AECM           Airbag Electronic Control Module              TCM        Transmission Control Module
+AIRBAG         Also called 9squib9 initiator. Located        VFD        Vacuum Fluorescent Display
+               inside the driver side airbag assem-
+               bly.
+ASDM           Airbag System Diagnostic System
+
+
+
+
+                                                        12
+

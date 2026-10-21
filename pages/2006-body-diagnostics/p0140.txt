@@ -1,0 +1,61 @@
+ELECTRICALLY HEATED SYSTEMS
+
+*REAR WINDOW DEFOGGER INOPERATIVE — Continued
+
+ TEST                                     ACTION                                         APPLICABILITY
+  9     Turn the ignition off.                                                                All
+        Disconnect the Instrument Cluster C2 connector.
+        Disconnect the Rear Window Defogger Switch connector.
+        Turn the ignition on.
+        Measure voltage between the Rear Window Defogger Switch Sense Circuit and
+        ground.
+        Is any voltage present?
+
+                Yes   → Repair the Rear Window Switch Sense Circuit for a short to
+                        voltage condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    10
+
+  10    Turn the ignition off.                                                                All
+        Disconnect the Instrument Cluster C2 connector.
+        Disconnect the Rear Window Defogger Switch connector.
+        Measure resistance between ground and the Rear Window Defogger Switch Sense
+        Circuit.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the Rear Window Defogger Switch Sense Circuit for a
+                        short to ground condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    11
+
+  11    Turn the ignition off.                                                                All
+        Disconnect the Instrument Cluster C2 connector.
+        Disconnect the Rear Window Defogger Switch.
+        Measure resistance of the Rear Window Defogger Switch Sense circuit from the
+        Instrument Cluster C2 connector to the Defogger switch connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To    12
+                No    → Repair the Rear Window Defogger Switch Sense Circuit for an
+                        open condition.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  12    Turn the ignition off.                                                                All
+        Reinstall the Rear Window Defogger Relay.
+        Reconnect the Instrument Cluster C2 connector.
+        Disconnect the Rear Window Defogger Switch connector.
+        Turn the ignition on.
+        Connect a jumper wire between the Rear Window Defogger Switch Sense circuit in
+        the Defogger Switch connector to ground and listen for the relay to click.
+        Does the Defogger Relay click?
+
+                Yes   → Replace the Rear Window Defogger Switch.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Instrument Cluster.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                  134
+

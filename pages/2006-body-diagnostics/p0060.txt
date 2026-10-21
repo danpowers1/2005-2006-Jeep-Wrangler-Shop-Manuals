@@ -1,0 +1,63 @@
+AIRBAG
+
+PASSENGER AIRBAG ON - OFF SWITCH SHORT TO GROUND — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Passenger Airbag On - Off Switch.
+        NOTE: Check connectors - Clean and repair as necessary.
+        Measure the PAB On - Off Switch resistance between terminals 1 & 3 and 2 & 3.
+        Is the resistance below 10K ohms on either test?
+
+                 Yes   → Replace the Passenger Airbag ON - OFF Switch in accordance
+                         with the service information.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+                 No    → Go To    4
+
+  4     Measure the PAB On - Off Switch resistance between terminals 1 and 2 in both               All
+        switch positions.
+        The switch resistance specifications are: ON position = 175.0 to 190.0 ohms and OFF
+        position = 820.0 870.0 ohms.
+        Is the resistance within range for both switch positions?
+                 Yes   → Go To    5
+
+                 No    → Replace the Passenger Airbag ON - OFF Switch in accordance
+                         with the service information.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  5     Disconnect the Airbag Control Module connector(s).                                         All
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Connect the appropriate Load Tool Adaptor to the Airbag Control Module connector.
+        Measure the resistance of the PAB MUX Switch Sense circuit between the PAB On
+        - Off Switch connector and ground.
+        Is the resistance below 10K ohms?
+                 Yes   → Repair the Passenger Airbag MUX Switch Sense circuit short to
+                         ground.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                 No    → Go To    6
+
+  6     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace the Airbag Control Module in accordance with Service
+                          Instructions.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     54
+

@@ -1,0 +1,45 @@
+                                                                    INSTRUMENT CLUSTER
+
+Symptom:
+    *BRAKE WARNING INDICATOR ALWAYS ON
+
+
+
+
+                                         POSSIBLE CAUSES
+BRAKE WARNING INDICATOR CIRCUIT SHORT TO GROUND
+BRAKE WARNING INDICATOR SWITCH
+PARK BRAKE SWITCH
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     NOTE: Ensure that the Base brake system functions properly and that the                  All
+        Brake Master Cylinder is filled with proper amount of fluid.
+        NOTE: If equipped, diagnose and repair any ABS DTCs before continuing
+        with this test.
+        Turn the ignition off.
+        Disconnect the Park Brake Switch harness connector.
+        Turn the ignition on and observe the Brake Warning Indicator.
+        Does the Brake Warning Indicator remain illuminated?
+
+                Yes   → Go To    2
+                No    → Replace the Park Brake Switch in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                   All
+        Disconnect the Brake Warning Indicator Switch harness connector.
+        Connect a jumper wire between cavity 1 and cavity 2.
+        Turn the ignition on and observe the Brake Warning Indicator.
+        Does the Brake Warning Indicator remain illuminated?
+
+                Yes   → Repair the Brake Warning Indicator circuit for a short to ground.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Brake Warning Indicator Switch in accordance with
+                        the Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    157
+

@@ -1,0 +1,51 @@
+    CONNECTOR PINOUTS
+
+
+
+                                               RIGHT COURTESY LAMP - BLACK 2 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1    M21 20YL/BR             FUSED B(+)
+                         2    M22 20YL/OR             COURTESY LAMPS DRIVER
+
+
+
+
+                                                RIGHT DOME LAMP - BLACK 2 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1    M21 20YL/BR             FUSED B(+)
+                         2    M22 20YL/OR             COURTESY LAMPS DRIVER
+
+
+
+
+C
+O
+N
+N
+E                                              RIGHT FRONT SPEAKER - BLACK 3 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+C
+                         1    X54 18GY                RIGHT FRONT SPEAKER (+)
+T
+                         2               -                                         -
+O
+                         3    X56 18GY/BR             RIGHT FRONT SPEAKER (-)
+R
+
+P
+I
+N
+O
+U
+T
+                                               RIGHT REAR SPEAKER - BLACK 3 WAY
+S                       CAV          CIRCUIT                                    FUNCTION
+                         1    X52 18GY/DB             RIGHT REAR SPEAKER (+)
+                         2               -                                         -
+                         3    X58 18GY/OR             RIGHT REAR SPEAKER (-)
+
+
+
+
+                                    196
+

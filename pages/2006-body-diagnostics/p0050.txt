@@ -1,0 +1,59 @@
+AIRBAG
+
+NO CLUSTER MESSAGE — Continued
+
+ TEST                                         ACTION                                              APPLICABILITY
+  3     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                     All
+        TION OFF, TO AVOID PERSONAL INJURY OR DEATH, DISCONNECT THE
+        BATTERY AND WAIT TWO MINUTES BEFORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                           Replace the Airbag Control Module in accordance with Service
+                           Instructions.
+                           Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+        NOTE: When reconnecting airbag system components the Ignition must be
+        turned off and the Battery must be disconnected.
+
+  4     With the DRBIIIt, record and erase all DTC’s from all Airbag modules.                          All
+        If equipped with Passenger Airbag On - Off switch, read the DTC’s in all switch
+        positions.
+        If any ACTIVE codes are present they must be resolved before diagnosing any stored
+        codes.
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Using the wiring diagram/schematic as a guide, inspect the wiring and connectors.
+        Look for chaffed, pierced, pinched, or partially broken wires and broken, bent, pushed
+        out, spread, corroded, or contaminated terminals.
+        The following additional checks may assist you in identifying a possible intermittent
+        problem.
+        Reconnect any disconnected components and harness connector.
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION ON, THEN RECONNECT THE BATTERY.
+        With the DRBIIIt monitor active codes as you work through the following steps.
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, MAINTAIN A SAFE
+        DISTANCE FROM ALL AIRBAGS WHILE PERFORMING THE FOLLOWING
+        STEPS.
+        Wiggle the wiring harness and connectors of the related airbag circuit or component.
+        If codes are related to the Driver Airbag circuits, rotate the steering wheel from stop
+        to stop.
+        IF only stored codes return continue the test until the problem area has been isolated
+        In the previous steps you have attempted to recreate the conditions responsible for
+        setting active DTC in question.
+        Are any ACTIVE DTCs present?
+                 Yes   → Select appropriate symptom from Symptom List.
+
+                 No    → No problem found at this time. Erase all codes before returning
+                         vehicle to customer.
+
+
+
+
+                                                        44
+

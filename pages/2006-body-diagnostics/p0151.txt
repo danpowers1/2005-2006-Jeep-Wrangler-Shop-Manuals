@@ -1,0 +1,42 @@
+                                                                     INSTRUMENT CLUSTER
+
+Symptom:
+    *(NO FUSE( IN VF DISPLAY
+
+
+
+
+                                          POSSIBLE CAUSES
+FUSED B(+) CIRCUIT SHORT TO GROUND
+FUSED B(+) CIRCUIT OPEN
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                         APPLICABILITY
+  1     Turn the ignition off.                                                                  All
+        Inspect the #24 fuse in the Power Distribution Center.
+        If the fuse is open, replace with proper rated fuse.
+        Turn the ignition on for one minute.
+        Turn the ignition off.
+        Inspect the #24 fuse in the Power Distribution Center.
+        Is the fuse open?
+
+                 Yes   → Repair the Fused B(+) circuit for a short to ground.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    2
+
+  2     Turn the ignition off.                                                                  All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the voltage between the Fused B(+) circuit and ground.
+        Is the voltage above 10.5 volts?
+                 Yes   → Replace and configure the Instrument Cluster in accordance with
+                         the Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Repair the Fused B(+) circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     145
+

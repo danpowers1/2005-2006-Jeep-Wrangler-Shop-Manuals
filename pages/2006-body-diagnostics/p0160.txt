@@ -1,0 +1,60 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *AXLE LOCK INDICATOR PROBLEMS
+
+
+
+
+                                            POSSIBLE CAUSES
+DTC PRESENT
+AXLE LOCKER SWITCH FUSED B(+) CIRCUIT OPEN
+AXLE LOCKER SWITCH GROUND CIRCUIT OPEN
+FRONT LOCKER REQUEST CIRCUIT OPEN
+REAR LOCKER REQUEST CIRCUIT OPEN
+AXLE LOCK SWITCH
+INTERMITTENT CONDITION
+INSTRUMENT CLUSTER
+
+ TEST                                        ACTION                                          APPLICABILITY
+  1     NOTE: The following tests are to diagnose an inoperative Axle Lock indica-                All
+        tor. If the Axle Lock indicator flashes, the Enable conditions have not been
+        met to lock the axle, or an axle mechanical fault exists.
+        NOTE: The Front Axle Lock and Rear Axle Lock indicators can NOT be
+        diagnosed using the Instrument Cluster self test.
+        With the DRBIIIt, read DTCs.
+        Are any ABS, PCM, VSS, or Transfer Case DTCs present?
+
+                 Yes   → Refer to DRIVEABILITY or TRANSMISSION/TRANSFER CASE
+                         information for the related symptom(s).
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To     2
+
+  2     Select the inoperative indicator.                                                         All
+
+                 Rear Axle Lock Indicator
+                          Go To 3
+
+                 Front Axle Lock Indicator
+                          Go To 8
+
+  3     Perform the Axle Locker test.                                                             All
+        Turn the ignition on.
+        Place transfer case in 4WD Lo and visually confirm by observing the 4WD indicator.
+        Drive the vehicle at less than 10 MPH (16 km/h).
+        Press the Axle Lock switch once.
+        Did the Rear Axle Lock indicator illuminate?
+
+                 Yes   → The condition is not present at this time. Monitor DRBIIIt
+                         parameters while wiggling the related wire harness. Refer to any
+                         Technical Service Bulletins(TSB) that may apply. Visually inspect
+                         the related wiring harness and connector terminals.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To     4
+
+
+
+
+                                                     154
+

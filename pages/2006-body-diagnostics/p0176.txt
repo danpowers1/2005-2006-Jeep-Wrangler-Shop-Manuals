@@ -1,0 +1,33 @@
+INSTRUMENT CLUSTER
+
+*VF ODOMETER INOPERATIVE WITH DOOR OPEN — Continued
+
+ TEST                                      ACTION                                        APPLICABILITY
+  4     Turn the ignition off.                                                                All
+        Disconnect the Door Ajar Switch harness connector.
+        Connect a jumper wire between the Door Ajar Switch Sense circuit and ground.
+        NOTE: This test will work for the Driver or Passenger Door Ajar Switch
+        Sense circuit.
+        Does the VF display illuminate?
+                Yes   → Go To    5
+
+                No    → Repair the Door Ajar Switch Sense circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  5     Turn the ignition off.                                                                All
+        Disconnect the Door Ajar Switch harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Door Ajar Switch Ground circuit.
+        NOTE: This test will work for the Driver or Passenger Door Ajar Switch.
+        Is the resistance below 5.0 ohms?
+                Yes   → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Door Ajar Switch Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   170
+

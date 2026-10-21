@@ -1,0 +1,27 @@
+                                                                              COMMUNICATION
+
+*NO RESPONSE FROM CONTROLLER ANTILOCK BRAKE — Continued
+
+ TEST                                        ACTION                                        APPLICABILITY
+  5     Turn the ignition off.                                                                  All
+        Disconnect the CAB harness connector.
+        Measure the resistance of the SCI Transmit circuit between the CAB connector and
+        the DLC.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     6
+
+                 No    → Repair the SCI Transmit circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  6     If there are no possible causes remaining, view repair.                                 All
+
+                 Repair
+                          Replace the Controller Antilock Brake in accordance with the
+                          Service Information.
+                          Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      109
+

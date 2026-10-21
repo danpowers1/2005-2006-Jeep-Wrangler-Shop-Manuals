@@ -1,0 +1,54 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    PANEL DIMMER OPEN
+
+
+
+When Monitored and Set Condition:
+
+        PANEL DIMMER OPEN
+        When Monitored: The Instrument Cluster detects battery voltage input on the Headlamp
+        Switch Output circuit.
+        Set Condition: The Instrument Cluster detects the Panel Lamp Dimmer Signal circuit
+        resistance is greater than 9250 ohms for five seconds. During an open circuit condition, the
+        VF display and general panel illumination will default to full intensity.
+
+
+
+                                           POSSIBLE CAUSES
+INTERMITTENT CONDITION
+PANEL LAMP DIMMER SIGNAL CIRCUIT OPEN
+MULTI-FUNCTION SWITCH
+MULTI-FUNCTION SWITCH GROUND CIRCUIT OPEN
+INSTRUMENT CLUSTER
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      Turn the ignition on.                                                                   All
+          With the DRBIIIt, erase DTCs.
+          Cycle the ignition.
+          With the DRBIIIt, read DTCs.
+          Does the DRBIIIt display Panel Dimmer Open?
+                  Yes   → Go To    2
+                  No    → The conditon is not present at this time. Monitor DRBIIIt
+                          parameters while wiggling the related wire harness. Refer to any
+                          Technical Service Bulletins (TSB) that may apply. Visually in-
+                          spect the related wiring harness and connector terminals.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the Instrument Cluster C2 harness connector.
+          Disconnect the Multi-Function Switch harness connector.
+          Check connectors - Clean/repair as necessary.
+          Measure the resistance of the Panel Lamp Dimmer Signal circuit.
+          Is the resistance below 5.0 ohms?
+
+                  Yes   → Go To    3
+                  No    → Repair the Panel Lamp Dimmer Signal circuit for an open.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     140
+

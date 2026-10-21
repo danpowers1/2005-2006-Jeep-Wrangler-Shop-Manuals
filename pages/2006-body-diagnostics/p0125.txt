@@ -1,0 +1,34 @@
+                                                                                      COMMUNICATION
+
+*NO RESPONSE FROM SATELLITE RADIO RECEIVER — Continued
+
+ TEST                                         ACTION                                      APPLICABILITY
+  3     Turn the ignition off.                                                                 All
+        Disconnect the Satellite Radio Receiver harness connector.
+        Turn the ignition on.
+        Turn the Radio on and place the radio in the Satellite mode.
+        Using a 12-volt test light connected to ground, probe the Fused Ignition Switch
+        Ouptut circuit.
+        Is the test light illuminated?
+
+                 Yes   → Go To     4
+
+                 No    → Replace the Radio in accordance with the service information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                                 All
+        Disconnect the Satellite Radio Receiver harness connector.
+        Using a 12-volt test light connected to 12-volts, probe the ground circuit.
+        Is the test light illuminated?
+                 Yes   → Replace the Satellite Radio Receiver in accordance with the
+                         service information
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace the Radio in accordance with the service information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      119
+

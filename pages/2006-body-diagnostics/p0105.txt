@@ -1,0 +1,43 @@
+                                                                                                  CHIME
+
+Symptom:
+    *CHIME INOPERATIVE WITH EXTERIOR LAMPS ON AND DRIVER
+    DOOR OPEN
+
+
+
+
+                                           POSSIBLE CAUSES
+VERIFY KEY-IN IGNITION, DRIVER’S DOOR OPEN CHIME OPERATION
+HEADLAMP SWITCH OUTPUT OPEN
+MIC - CHIME INOP WITH EXTERIOR LAMPS ON
+
+ TEST                                        ACTION                                          APPLICABILITY
+  1     Turn the ignition off.                                                                    All
+        Ensure the key is in the ignition switch all the way.
+        Open the driver door.
+        Does the chime sound?
+
+                 Yes   → Go To     2
+                 No    → Refer to symptom *CHIME INOPERATIVE WITH KEY IN IG-
+                         NITION, DRIVER’S DOOR OPEN in the CHIME category.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                    All
+        Remove the Instrument Cluster From the I/P.
+        Turn the Exterior Lamps on.
+        Measure the voltage of the Headlamp Switch Output circuit in the Instrument
+        Cluster C1 connector.
+        Is the voltage above 10.0 volts?
+                 Yes   → If there are no possible causes remaining, replace the Instrument
+                         Cluster.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Repair the Headlamp Switch Output circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      99
+

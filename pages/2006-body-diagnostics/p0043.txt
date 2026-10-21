@@ -1,0 +1,60 @@
+                                                                                                   AIRBAG
+
+Symptom:
+    LOSS OF IGNITION RUN ONLY
+
+
+
+When Monitored and Set Condition:
+
+        LOSS OF IGNITION RUN ONLY
+        When Monitored: With the ignition in the run position the module monitors the Run Only
+        circuit for proper system voltage.
+        Set Condition:     If the voltage on the Run Only circuit drops below 4.5 volts, the code will
+        set.
+
+
+
+                                            POSSIBLE CAUSES
+IGNITION SWITCH OUTPUT RUN CIRCUIT OPEN
+FUSED IGNITION SWITCH OUTPUT RUN CIRCUIT OPEN
+ACM, FUSED IGNITION OUTPUT RUN CIRCUIT OPEN
+CHECKING FOR A SHORTED RUN CIRCUIT
+FUSED IGNITION SWITCH OUTPUT RUN CIRCUIT SHORT TO GROUND
+ACM, FUSED IGNITION RUN CIRCUIT SHORT TO GROUND
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      Turn the ignition on.                                                                     All
+          Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE :
+                   ACM - ACTIVE DTC
+                          Go To 2
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      Turn the ignition off.                                                                    All
+          Remove and inspect the Airbag Run circuit fuse.
+          Is the Fuse open?
+
+                   Yes   → Go To    3
+                   No    → Go To    6
+
+   3      Remove the Airbag Run fuse.                                                               All
+          NOTE: Check connectors - Clean and repair as necessary.
+          Measure the resistance of the Fused Ignition Switch Output Run circuit between the
+          Run Fuse and ground.
+          Is the resistance below 10.0 ohms ?
+
+                   Yes   → Go To    4
+
+                   No    → Replace the defective fuse.
+                           Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       37
+
