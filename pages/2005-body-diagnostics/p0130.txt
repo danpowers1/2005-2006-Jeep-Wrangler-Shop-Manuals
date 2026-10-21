@@ -1,0 +1,55 @@
+COMPASS/MINI-TRIP COMPUTER
+
+Symptom:
+    *COMPASS/TEMPERATURE MODULE INOPERATIVE
+
+
+
+
+                                          POSSIBLE CAUSES
+FUSED B(+) CIRCUIT OPEN
+FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+GROUND CIRCUIT OPEN
+COMPASS/TEMPERATURE MIRROR
+
+ TEST                                       ACTION                                            APPLICABILITY
+  1     Turn the ignition off.                                                                     All
+        Disconnect the Compass/Temperature Mirror harness connector.
+        Measure the voltage between the Fused B(+) circuit and ground.
+        Is the voltage below 10.5 volts?
+
+                Yes   → Repair the Fused B(+) circuit for an open. If the fuse is open make
+                        sure to check for a short to ground.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To     2
+
+  2     Turn the ignition off.                                                                     All
+        Disconnect the Compass/Temperature Mirror harness connector.
+        Turn the ignition on.
+        Measure the voltage between the Fused Ignition Switch Output circuit and ground.
+        Is the voltage below 10.5 volts?
+
+                Yes   → Repair the Fused Ignition Switch Output circuit for an open. If
+                        the fuse is open make sure to check for a short to ground.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To     3
+
+  3     Turn the ignition off.                                                                     All
+        Disconnect the Compass/Temperature Mirror harness connector.
+        Measure the resistance between ground and the Ground circuit.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Compass/Temperature Mirror in accordance with the
+                        Service Information. NOTE: After replacement, the vehicle must
+                        be driven for more than 2 minutes to update the display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     124
+

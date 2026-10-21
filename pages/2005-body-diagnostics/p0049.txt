@@ -1,0 +1,55 @@
+                                                                                             AIRBAG
+
+Symptom:
+    NO CLUSTER MESSAGE
+
+
+
+When Monitored and Set Condition:
+
+        NO CLUSTER MESSAGE
+        When Monitored: With ignition on, the ACM monitors the PCI Bus for a message from
+        the MIC containing the airbag warning indicator status. The MIC transmits the message
+        one time at ignition on, lamp state change, or in response to the ACM message.
+        Set Condition:    If the MIC message is not received for 10 consecutive seconds, the code
+        will set.
+
+
+
+                                          POSSIBLE CAUSES
+MIC, COMMUNICATION FAILURE
+ACM, NO CLUSTER MESSAGES
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                       ACTION                                       APPLICABILITY
+   1      Turn the ignition on.                                                               All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                  ACM - ACTIVE DTC
+                         Go To 2
+
+                  ACM - STORED DTC
+                         Go To 4
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      Turn the ignition on.                                                               All
+          With the DRBIIIt, ensure PCI Bus communications with the Instrument Cluster.
+          Is the Instrument Cluster communicating on the PCI Bus?
+
+                  Yes   → Go To   3
+
+                  No    → Refer to category COMMUNICATION CATEGORY and select the
+                          related symptom NO RESPONSE or INSTRUMENT CLUSTER
+                          BUS +/- SIGNAL OPEN.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    43
+

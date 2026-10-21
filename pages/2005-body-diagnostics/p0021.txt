@@ -1,0 +1,37 @@
+                                                                                           AIRBAG
+
+ACCELEROMETER 1 — Continued
+
+
+        STORED ENERGY LOGIC
+        When Monitored: With the ignition on, the module on board diagnostics continuously
+        performs internal circuit tests.
+        Set Condition:   This DTC will set if the module identifies an out of range internal circuit.
+
+
+
+                                        POSSIBLE CAUSES
+AIRBAG CONTROL MODULE - ACM
+
+ TEST                                     ACTION                                       APPLICABILITY
+  1       Turn the ignition on.                                                             All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          Select the appropriate module and DTC type combination:
+                 ACM - ACTIVE DTC
+                        Replace the Airbag Control Module in accordance with Service
+                        Instructions.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+                 ACM - STORED DTC
+                        Replace the Airbag Control Module in accordance with Service
+                        Instructions.
+                        Perform __AIRBAG VERIFICATION TEST - VER 1.
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+
+
+
+                                                  15
+

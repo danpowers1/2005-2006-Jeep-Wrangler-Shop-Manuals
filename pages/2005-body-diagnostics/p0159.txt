@@ -1,0 +1,56 @@
+                                                                     INSTRUMENT CLUSTER
+
+Symptom:
+    *BRAKE WARNING INDICATOR INOPERATIVE
+
+
+
+
+                                          POSSIBLE CAUSES
+BRAKE WARNING INDICATOR CIRCUIT SHORT TO VOLTAGE
+BRAKE WARNING INDICATOR CIRCUIT OPEN
+BRAKE WARNING INDICATOR SWITCH
+PARK BRAKE SWITCH
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Turn the ignition off.                                                                    All
+        Perform the Instrument Cluster Self Test.
+        Did the Brake Warning Indicator illuminate during the Self Test?
+                Yes   → Go To    2
+
+                No    → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                    All
+        Disconnect the Instrument Cluster C2 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the voltage between the Brake Warning Indicator circuit and ground.
+        Is there any voltage present?
+                Yes   → Repair the Brake Warning Indicator circuit for a short to voltage.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    3
+
+  3     NOTE: Ensure that the Instrument Cluster harness connector is connected.                  All
+        Turn the ignition off.
+        Disconnect the Brake Warning Indicator Switch (Pressure Switch) harness connec-
+        tor.
+        Connect a jumper wire between cavity 1 and cavity 2.
+        Disconnect the Park Brake Switch harness connector.
+        Connect a jumper wire between the Brake Warning Indicator circuit and ground.
+        Turn the ignition on and observe the Brake Warning Indicator.
+        Does the Brake Warning Indicator illuminate?
+
+                Yes   → Replace the Park Brake Switch in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    4
+
+
+
+
+                                                    153
+

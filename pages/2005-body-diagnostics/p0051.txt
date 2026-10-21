@@ -1,0 +1,57 @@
+                                                                                              AIRBAG
+
+Symptom:
+    NO PCI TRANSMISSION
+
+
+
+When Monitored and Set Condition:
+
+        NO PCI TRANSMISSION
+        When Monitored:      With the ignition on and the module transmitting information on the
+        BUS.
+        Set Condition: The code will set immediately if the onboard diagnostic cannot detect the
+        module transmitting information on the BUS. NOTE: Any Bus Failure will may cause a
+        stored code to set.
+
+
+
+                                          POSSIBLE CAUSES
+AIRBAG CONTROL MODULE - ACM
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                       ACTION                                        APPLICABILITY
+   1      Turn the ignition on.                                                                All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          From the list below, select the appropriate module and DTC type for the this
+          diagnostic trouble code.
+          DETERMINE ACTIVE OR STORED DTC
+
+                  ACM - ACTIVE
+                         Go To 2
+                  ACM - STORED
+                         Go To 3
+
+          NOTE: When reconnecting airbag system components the Ignition must be
+          turned off and the Battery must be disconnected.
+
+   2      WARNING: TO AVOID PERSONAL INJURY OR DEATH, DISCONNECT THE                           All
+          BATTERY AND WAIT TWO MINUTES BEFORE PROCEEDING.
+          WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+          TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+          CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+          AND PERSONAL INJURY OR DEATH.
+          If there are no possible causes remaining, view repair.
+                  Repair
+                           Replace the Airbag Control Module in accordance with Service
+                           Instructions.
+                           Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    45
+

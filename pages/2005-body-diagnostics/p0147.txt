@@ -1,0 +1,55 @@
+                                                                   INSTRUMENT CLUSTER
+
+Symptom:
+    *4WD INDICATOR INOPERATIVE
+
+
+
+
+                                         POSSIBLE CAUSES
+INTERMITTENT CONDITION
+TRANSFER CASE SWITCH - EXCEPT OFF-ROAD PACKAGE
+4WD INDICATOR CIRCUIT OPEN
+TRANSFER CASE SWITCH GROUND CIRCUIT OPEN - EXCEPT OFF-ROAD PACKAGE
+TRANSFER CASE SWITCH - OFF-ROAD PACKAGE
+TRANSFER CASE POSITION SENSOR INPUT CIRCUIT OPEN
+TRANSFER CASE SWITCH GROUND CIRCUIT OPEN - OFF-ROAD PACKAGE
+INSTRUMENT CLUSTER - EXCEPT OFF-ROAD PACKAGE
+INSTRUMENT CLUSTER - OFF-ROAD PACKAGE
+
+ TEST                                      ACTION                                          APPLICABILITY
+  1     Is vehicle equipped with the optional Off-Road Package?                                 All
+                Yes   → Go To     2
+
+                No    → Go To    6
+
+  2     Perform the Instrument Cluster self-test.                                               All
+        Turn the ignition off.
+        Press and hold the Trip Reset button.
+        Turn the ignition on.
+        Observe the 4WD indicator during the self-test.
+        NOTE: The Instrument Cluster self-test can be initiated using the DRBIIIt.
+        Did the 4WD indicator illuminate during the self-test?
+                Yes   → Go To     3
+
+                No    → Replace and configure the Instrument Cluster in accordance with
+                        the Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition on, Transfer Case Shift Lever in 2H.                                  All
+        With the DRBIIIt in Inputs/Outputs, read the 4WD Switch state.
+        Place the Transfer Case Shift Lever in 4H or 4L while observing the 4WD Switch
+        State.
+        Did the Does the DRBIIIt display 4H or 4L?
+                Yes   → The condition is not present at this time. Monitor DRBIIIt
+                        parameters while wiggling the related wire harness. Refer to any
+                        Technical Service Bulletins (TSB) that may apply. Visually in-
+                        spect the related wiring harness and connector terminals.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    4
+
+
+
+
+                                                    141
+

@@ -1,0 +1,65 @@
+                                                                        GENERAL INFORMATION
+FUNCTION                    INPUT LIMIT                       4.3.2    ROAD TESTING A COMPLAINT
+*Ohms cannot be measured if voltage is present.                        VEHICLE
+Ohms can be measured only in a non-powered                       Some complaints will require a test drive as part
+circuit.                                                      of the repair verification procedure. The purpose of
+• Voltage between any terminal and ground must                the test drive is to try to duplicate the diagnostic
+  not exceed 500v DC or 500v peak AC.                         code or symptom condition.
+• Use caution when measured voltage above 25v
+                                                              WARNING: REASSEMBLE ALL COMPONENTS
+  DC or 25v AC.
+                                                              BEFORE ROAD TESTING A VEHICLE. DO NOT
+• The circuit being tested must be protected by a             TRY TO READ THE DRBIIIT SCREEN OR OTHER
+  10A fuse or circuit breaker.                                TEST EQUIPMENT DURING A TEST DRIVE. DO
+• Use the low current shunt to measure circuits up            NOT HANG THE DRBIIIT OR OTHER TEST
+  to 10A. Use the high current clamp to measure               EQUIPMENT FROM THE REARVIEW MIRROR
+  circuits exceeding 10A.                                     DURING A TEST DRIVE. HAVE AN ASSISTANT
+• When testing for the presence of voltage or cur-            AVAILABLE TO OPERATE THE DRBIIIT OR
+  rent, make sure the meter is functioning cor-               OTHER TEST EQUIPMENT. FAILURE TO
+  rectly. Take a reading of a known voltage or                FOLLOW THESE INSTRUCTIONS CAN RESULT
+  current before accepting a zero reading.
+                                                              IN PERSONAL INJURY OR DEATH.
+• When measuring current, connect the meter in
+  series with the load.
+• Disconnect the live test lead before disconnecting          5.0     REQUIRED TOOLS AND
+  the common test lead.                                               EQUIPMENT
+• When   using the meter function, keep the
+  DRBIIIt away from spark plug or coil wires to               • 8310 Airbag System Load Tool
+  avoid measuring error from outside interference.            • 8443 Supplemental Restraints System Load Tool
+                                                              • DRBIIIt (diagnostic read-out box)
+4.3     WARNINGS
+                                                              • jumper wires
+                                                              • ohmmeter
+4.3.1    VEHICLE DAMAGE WARNINGS                              • test light
+   Before disconnecting any control module, make              • voltmeter
+sure the ignition is 9off9. Failure to do so could
+damage the module.
+   When testing voltage or continuity at any control          6.0     GLOSSARY OF TERMS
+module, use the terminal side (not the wire end) of
+the connector. Do not probe a wire through the                4WD            4-Wheel Drive
+insulation: this will damage it and eventually cause
+it to fail because of corrosion.                              ABS            Antilock Braking System
+   Be careful when performing electrical tests so as          ACM            Airbag Control Module
+to prevent accidental shorting of terminals. Such
+mistakes can damage fuses or components. Also, a              AECM           Airbag Electronic Control Module
+second code could be set, making diagnosis of the
+                                                              AIRBAG         Also called 9squib9 initiator. Located
+original problem more difficult.
+                                                                             inside the driver side airbag assem-
+   When replacing a blown fuse, it is important to use
+                                                                             bly.
+only a fuse having the correct amperage rating. The
+use of a fuse with a rating other than indicated may          ASDM           Airbag System Diagnostic System
+result in a dangerous electrical system overload. If a
+properly rated fuse continues to blow, it indicates a         CAB            Controller Antilock Brake
+problem in the circuit that must be corrected.                CTMM           Compass Temperature Mirror Mod-
+   Service and general information labels about the                          ule
+airbag system can be found on the driver’s sun visor,
+the glove box door, and in the engine compartment.            DAB            Driver AirBag
+   To ensure that the airbag will be ready to deploy          DLC            Data Link Connector
+in a collision, have the system serviced by an
+authorized dealer.                                            DTC            Diagnostic Trouble Code
+
+
+                                                         11
+

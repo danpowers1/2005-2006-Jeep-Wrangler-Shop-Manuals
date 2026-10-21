@@ -1,0 +1,47 @@
+AIRBAG
+
+Symptom List:
+    ACCELEROMETER 1
+    INTERNAL 1
+    OUTPUT DRIVER 1
+    SAFING SENSOR
+    STORED ENERGY FIRING 1
+    STORED ENERGY LOGIC
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be ACCELEROMETER 1.
+
+
+When Monitored and Set Condition:
+
+     ACCELEROMETER 1
+     When Monitored: With the ignition on, the module on board diagnostics continuously
+     performs internal circuit tests.
+     Set Condition:   This DTC will set if the module identifies an out of range internal circuit.
+
+     INTERNAL 1
+     When Monitored: With the ignition on, the module on board diagnostics continuously
+     performs internal circuit tests.
+     Set Condition:   This DTC will set if the module identifies an out of range internal circuit.
+
+     OUTPUT DRIVER 1
+     When Monitored: With the ignition on, the module on board diagnostics continuously
+     performs internal circuit tests.
+     Set Condition:   This DTC will set if the module identifies an out of range internal circuit.
+
+     SAFING SENSOR
+     When Monitored: With the ignition on, the module on board diagnostics continuously
+     performs internal circuit tests.
+     Set Condition:   This DTC will set if the module identifies an out of range internal sensor.
+
+     STORED ENERGY FIRING 1
+     When Monitored: With the ignition on, the module on board diagnostics continuously
+     performs internal circuit tests.
+     Set Condition:   This DTC will set if the module identifies an out of range internal circuit.
+
+
+
+
+                                              14
+

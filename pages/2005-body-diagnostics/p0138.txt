@@ -1,0 +1,40 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    AIR BAG LAMP CIRCUIT OPEN
+
+
+
+When Monitored and Set Condition:
+
+        AIR BAG LAMP CIRCUIT OPEN
+        When Monitored:       With the ignition in the Run/Start position, Instrument Cluster in
+        power-up state.
+        Set Condition: The Instrument Cluster performs an indicator check when the indicator is
+        commanded on or off by the ACM. If an open lamp failure is detected, the Cluster sends this
+        meesage to the ACM.
+
+
+
+                                           POSSIBLE CAUSES
+INSTRUMENT CLUSTER
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Turn the ignition on.                                                                  All
+          NOTE: Ensure the Instrument Cluster and the Air Bag Control Module
+          communicate on the PCI Bus.
+          NOTE: The Airbag indicator can only be turned on or off by the ACM. The
+          Instrument Cluster reports the indicator status to the ACM on the PCI Bus.
+          With the DRBIIIt, read DTCs.
+          Does the DRBIIIt display Air Bag Lamp Circuit Open?
+
+                  Yes   → Replace and configure the Instrument Cluster in accordance with
+                          the Service Information.
+                          Perform BODY VERIFICATION TEST - VER 1.
+                  No    → Test Complete.
+
+
+
+
+                                                     132
+

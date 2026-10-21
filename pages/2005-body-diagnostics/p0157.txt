@@ -1,0 +1,53 @@
+                                                                     INSTRUMENT CLUSTER
+
+*AXLE LOCK INDICATOR PROBLEMS — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  8     Place transfer case in 4WD Lo and drive vehicle at less than 2.5 MPH (4 km/h).            All
+        Press the Axle Locker Switch once to lock the rear axle.
+        With the DRBIIIt in Inputs/Outputs, ensure that the Enable 1 and Enable 2 states
+        both read LOW.
+        With the DRBIIIt in Inputs/Outputs, ensure that the Rear Lock Request and Rear
+        Lock Return states both read LOCKED.
+        Press the Axle Locker Switch again.
+        Did the Front Axle Lock indicator illuminate?
+
+                 Yes   → The condition is not present at this time. Monitor DRBIIIt
+                         parameters while wiggling the related wire harness. Refer to any
+                         Technical Service Bulletins(TSB) that may apply. Visually inspect
+                         the related wiring harness and connector terminals.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    9
+
+  9     Place the vehicle in 4WD Lo, operate vehicle at 2.5 MPH (4 km/h) or less.                 All
+        With the DRBIIIt in Inputs/Outputs, ensure that the Enable 1 and Enable 2 states
+        read LOW.
+        The Rear Axle Lock indicator must be illuminated.
+        With the DRBIIIt in Inputs/Outputs, read the Front Lock Request state.
+        Press the Axle Locker Switch.
+        Did the Front Axle Lock Request change state?
+                 Yes   → Replace and configure the Instrument Cluster in accordance with
+                         the Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    10
+
+  10    Turn the ignition off.                                                                    All
+        Disconnect the Axle Locker Switch harness connector.
+        Disconnect the Instrument Cluster C2 harness connector.
+        Measure the resistance of the Front Locker Request circuit between the Axle Locker
+        Switch connector and the Instrument Cluster C2 connector.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Repair the Front Locker Request circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace the Axle Lock Switch in accordance with the Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     151
+

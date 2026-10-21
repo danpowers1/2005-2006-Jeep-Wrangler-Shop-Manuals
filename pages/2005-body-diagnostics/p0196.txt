@@ -1,0 +1,44 @@
+    CONNECTOR PINOUTS
+                                        REAR LOCKER RELAY (IN PDC/OFF-ROAD PACKAGE)
+    CAV          CIRCUIT                                               FUNCTION
+    D2    INTERNAL         FUSED B(+)
+    D4    INTERNAL         FUSED B(+)
+    D5                -                                                   -
+    D6    G305 20VT/LG     REAR LOCKER REQUEST
+    D8    A850 18RD/WT     REAR LOCKER RELAY OUTPUT
+
+
+                                            REAR WINDOW DEFOGGER RELAY (IN PDC)
+    CAV          CIRCUIT                                               FUNCTION
+    C1    A902 12RD        FUSED B(+)
+    C2    C115 20DB        REAR WINDOW DEFOGGER RELAY CONTROL
+    C3    C15 12BK/WT      REAR WINDOW DEFOGGER RELAY OUTPUT
+    C4    F102 20PK/DB     FUSED IGNITION SWITCH OUTPUT (RUN)
+    C5                -                                                   -
+
+
+
+
+C
+O
+N
+N
+E
+C
+T
+O
+R
+
+P
+I
+N
+O
+U
+T
+S
+
+
+
+
+                                                                190
+

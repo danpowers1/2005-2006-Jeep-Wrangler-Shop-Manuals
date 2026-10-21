@@ -1,0 +1,80 @@
+                                    CONNECTOR PINOUTS
+                   COMPASS/TEMPERATURE MIRROR - BLACK 7 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1    F505 20DB/WT             FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 2    Z2 20BK/LG               GROUND
+ 3    L1 20VT/BK               BACK-UP LAMP FEED
+ 4    G31 20VT/LG              AAT SIGNAL
+ 5    G32 20BK/LB              SENSOR GROUND
+ 6    M22 20YL                 COURTESY LAMPS DRIVER
+ 7    M21 20PK/WT              FUSED B(+)
+
+
+
+                        CONTROLLER ANTILOCK BRAKE - 25 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1    B1 18DG/OR               RIGHT REAR WHEEL SPEED SENSOR (-)
+ 2    B3 18DG/YL               LEFT REAR WHEEL SPEED SENSOR (-)
+ 3    B7 18DG/VT               RIGHT FRONT WHEEL SPEED SENSOR (+)
+ 4    B9 18DG/LG               LEFT FRONT WHEEL SPEED SENSOR (+)
+ 5                  -                                      -
+ 6    G117 18VT/LG             G-SWITCH NO. 1 SENSE
+ 7    G118 18VT/YL             G-SWITCH NO. 2 SENSE
+ 8    Z127 12BK/DG             GROUND
+ 9    A111 12DG/RD             FUSED B(+)
+10    B4 18DG/GY               LEFT REAR WHEEL SPEED SENSOR (+)
+                                                                          C
+11    B8 18DG/TN               LEFT FRONT WHEEL SPEED SENSOR (-)
+                                                                          O
+12    L50 18WT/TN              BRAKE LAMP SWITCH OUTPUT
+                                                                          N
+13    G119 18VT                G-SWITCH TEST SIGNAL
+                                                                          N
+14                  -                                      -
+                                                                          E
+15                  -                                      -
+                                                                          C
+16    G83 18VT/WT              ABS RELAY CONTROL
+                                                                          T
+17    B2 18DG/LB               RIGHT REAR WHEEL SPEED SENSOR (+)
+                                                                          O
+18    B6 18DG/WT               RIGHT FRONT WHEEL SPEED SENSOR (-)
+                                                                          R
+19                  -                                      -
+20    D21 18WT/BR              SCI TRANSMIT
+                                                                          P
+21                  -                                      -
+                                                                          I
+22                  -                                      -
+                                                                          N
+23    F102 18PK/DB             FUSED IGNITION SWITCH OUTPUT (RUN)
+                                                                          O
+24    Z107 12BK/DG             GROUND
+                                                                          U
+25    A107 12TN/RD             FUSED B(+)
+                                                                          T
+                                                                          S
+                        DATA LINK CONNECTOR - BLACK 16 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1                  -                                      -
+ 2    D25 20WT/VT              PCI BUS
+ 3                  -                                      -
+ 4    Z111 20BK/WT             GROUND
+ 5    Z11 20BK/LG              GROUND
+ 6                  -                                      -
+ 7    D21 20WT/BR              SCI TRANSMIT (PCM/CAB)
+ 8                  -                                      -
+ 9    D16 20WT/OR              SCI RECEIVE (TCM)
+10                  -                                      -
+11                  -                                      -
+12    D20 20WT/LG              SCI RECEIVE (PCM)
+13                  -                                      -
+14                  -                                      -
+15    D15 20WT/DG              SCI RECIEVE (TCM)
+16    M21 20YL/BR              FUSED B(+)
+
+
+
+
+             181
+

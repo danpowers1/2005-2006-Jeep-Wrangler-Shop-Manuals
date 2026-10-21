@@ -1,0 +1,55 @@
+                                                                                COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM TRANSMISSION CONTROL MODULE - NGC
+
+
+
+
+                                          POSSIBLE CAUSES
+NO RESPONSE FROM TRANSMISSION CONTROL MODULE
+FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+FUSED B(+) CIRCUIT OPEN
+GROUND CIRCUIT(S) OPEN
+PCI BUS CIRCUIT OPEN
+POWERTRAIN CONTROL MODULE
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                     All
+        Note: As soon as one or more module communicates with the DRB, answer
+        the question.
+        With the DRB, attempt to communicate with the Instrument Cluster.
+        With the DRB, attempt to communicate with the Airbag Control Module.
+        Was the DRB able to I/D or establish communications with both of the modules?
+                 Yes   → Go To    2
+
+                 No    → Refer to the Communications category and perform the appropri-
+                         ate symptom.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  2     Turn the ignition off.                                                                    All
+        Disconnect the PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Turn the ignition on.
+        Using a 12-volt test light connected to ground, probe each Fused Ignition Switch
+        Output circuit (cavs 11 and 12) in the appropriate terminal of special tool #8815.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Is the test light illuminated for both circuits?
+                 Yes   → Go To    3
+
+                 No    → Repair the Fused Ignition Switch Output circuit for an open or
+                         short. Refer to the wiring diagrams located in the Service Infor-
+                         mation.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+
+                                                     117
+

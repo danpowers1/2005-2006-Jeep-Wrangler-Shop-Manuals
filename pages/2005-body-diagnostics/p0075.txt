@@ -1,0 +1,43 @@
+                                                                                       AIRBAG
+
+Symptom:
+    PASSENGER SQUIB 1 SHORT TO BATTERY
+
+
+
+When Monitored and Set Condition:
+
+        PASSENGER SQUIB 1 SHORT TO BATTERY
+        When Monitored:     With the ignition on, the ACM monitors the voltage on the Passenger
+        Squib 1 circuits.
+        Set Condition:   When the ACM detects voltage on the Passenger Squib 1 circuits.
+
+
+
+                                       POSSIBLE CAUSES
+PAB SQUIB 1 CIRCUITS SHORT TO BATTERY
+PAB SQUIB 1 LINE 1 OR LINE 2 SHORT TO BATTERY
+ACM, PAB SQUIB 1 CIRCUIT SHORT TO BATTERY
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                    ACTION                                    APPLICABILITY
+   1      Turn the ignition on.                                                         All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                 ACM - ACTIVE DTC
+                        Go To 2
+
+                 ACM - STORED DTC
+                        Go To 5
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+
+
+
+                                                69
+

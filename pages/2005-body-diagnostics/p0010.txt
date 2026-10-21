@@ -1,0 +1,65 @@
+GENERAL INFORMATION
+3.2   AUDIO SYSTEM                                          • Press w/ Right Switch for more than 5 seconds
+                                                              and Release
+  Some radio systems available on the 2005 TJ                  > Toggles    Electrochromic  Status     On/Off
+communicate on the PCI Bus. They use the bus for                 -automatic On with each ignition cycle
+three reasons. The first is to communicate trouble             > On mode is indicated by green status LED
+codes, second is to receive dimming information,                 next to right button
+and the third is to receive cabin equalization infor-
+mation. The audio system is available in a 4                Center Button
+speaker base system and a 7 speaker system with             • Press for more than 3 seconds and Release
+an external subwoofer.                                         > Cycle through display status
+  When troubleshooting output shorts or “output”                 – Compass / Temperature (Fahrenheit) - °F
+error messages, the following applies:                           mode stored to memory
+  On radios without an external amplifier, the term              – Compass / Temperature (Celsius) - °C mode
+output refers to the path between the radio and the              stored to memory
+speaker. This type of circuit can be monitored all               – Display Off - off mode stored to memory
+the way through the speaker connections by the
+                                                            • Press and Hold for 3-6 seconds
+radio assembly. When the radio displays a shorted
+output DTC with this type of system, the speaker,              > Activate zone variance mode (adjust compass
+radio, or wiring could be at fault.                              for true north)
+  On radios with an external amplifier, the term                 – 9Z9 and the currently programmed zone
+“output” refers to the circuit between the radio                 (1-15) will flash in display window
+connector and the amplifier. The radio is capable of             – Each press of the center button will incre-
+monitoring only this portion and can tell nothing                ment to the next zone
+about the circuit between the amplifier and the                  – When proper zone is selected, wait 5 sec-
+speakers. Consequently, a shorted output DTC on                  onds and mirror display returns to comp/temp
+this type of system would only refer to this circuit.            (see variance zone map for proper zone num-
+A faulty speaker could not cause this DTC.                       ber setting)
+                                                            • Press and Hold for more than 6 seconds
+3.3   ELECTROCHROMIC                                           > Activate compass calibration
+      COMPASS/TEMPERATURE MIRROR                                 – 9CAL9 shows in display window until com-
+      WITH LIGHTS                                                pass is calibrated (verify correct variance zone
+                                                                 prior to initial or re-calibration)
+                                                                 – Drive vehicle in a slow circle for 1.5 revolu-
+DESCRIPTION                                                      tions to recalibrate compass
+  The optional self-dimming Electrochromic
+                                                            Right Button
+Compass/Temperature Mirror has a vacuum fluo-
+rescent (VF) display that is integrated into the rear       • Press and Release
+view mirror. The Compass/Temp Mirror includes                  > Toggles Right Map Light On/Off
+the compass/temperature display and two map/
+reading lamps. This display provides the outside            ELECTROCHROMIC (EC) OPERATION (auto
+temperature and one of eight compass headings to            dimming feature)
+indicate the direction the vehicle is facing. The              The automatic dimming feature detects forward
+Compass/Temp Mirror displays the compass head-              and rear light conditions and adjusts the reflec-
+ing and the outside temperature at the same time.           tance level of the mirror to eliminate unwanted
+The Ambient Temperature Sensor monitors the                 glare by the use 2 photoelectric sensors. The feature
+outside temperature and is hardwired to the                 can be disabled by depressing the Left and Right
+Compass/Temp Mirror.                                        buttons together for more than 5 seconds. The
+                                                            disable command will only remain in effect until the
+BUTTON OPERATION                                            ignition is turned off. The EC function will automat-
+   The Compass/Temp Mirror incorporates 3 (mode/            ically return to ON with each ignition cycle.
+lamp) buttons to access and control various func-              When the forward sensor detects daytime condi-
+tions.                                                      tions, the rear sensor is inactive and the mirror
+Left Button                                                 remains in a high reflectance state.
+                                                               When nighttime conditions are sensed by the
+• Press and Release
+                                                            forward sensor, the rear facing sensor is active and
+   > Toggles Left Map Light On/Off                          detects glare from rearward approaching vehicles
+                                                            or other glare producing light sources. The mirror
+
+
+                                                        4
+

@@ -1,0 +1,39 @@
+                                                                         INTERIOR LIGHTING
+
+Symptom:
+    *ILLUMINATED ENTRY INOPERATIVE
+
+
+
+
+                                         POSSIBLE CAUSES
+COURTESY LAMPS OPERATIONAL
+INTERMITTENT CONDITION
+ILLUMINATED ENTRY NOT ENABLED
+
+ TEST                                      ACTION                                          APPLICABILITY
+  1     Check the Courtesy Lamps for proper operation.                                          All
+        Do the Courtesy Lamps operate properly from the Door Ajar Switches?
+                Yes   → Go To    2
+                No    → Refer to Symptom list for problems related to COURTESY
+                        LAMPS INOPERATIVE.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  2     With the DRBIIIt select: ENABLE ILLUMINATED ENTRY.                                      All
+        With the DRBIIIt, read the ILLUMINATED ENTRY status.
+        Does the DRBIIIt display ENABLED?
+
+                Yes   → The condition that caused this symptom is currently not present.
+                        Inspect the related wiring harness for a possible intermittent
+                        condition. Look for any chafed, pierced, pinched or partially
+                        broken wires.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → With the DRB, enable the Illuminated Entry.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   169
+

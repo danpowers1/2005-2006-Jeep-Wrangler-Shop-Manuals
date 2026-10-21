@@ -1,0 +1,59 @@
+                                                                                                   AIRBAG
+
+Symptom:
+    PASSENGER OFF INDICATOR CIRCUIT SHORT TO GROUND
+
+
+
+When Monitored and Set Condition:
+
+        PASSENGER OFF INDICATOR CIRCUIT SHORT TO GROUND
+        When Monitored: With the ignition on, the ACM monitors the PAB Indicator Driver
+        circuit for voltage from the PAB On - Off Switch indicator circuit.
+        Set Condition:    The code will set if the ACM cannot detect voltage on the PAB Indicator
+        Driver circuit.
+
+
+
+                                            POSSIBLE CAUSES
+ACTIVE ACM RUN - START CODES
+CHECKING EQUIPMENT
+FUSED IGNITION SWITCH OUTPUT RUN - START
+SWITCH DISCONNECTED
+PAB ON - OFF INDICATOR OPEN
+PASSENGER AIRBAG INDICATOR DRIVER CIRCUIT OPEN
+PASSENGER AIRBAG INDICATOR DRIVER CIRCUIT SHORT
+ACM, PASSENGER ON - OFF INDICATOR CIRCUIT OPEN
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      Turn the ignition on.                                                                     All
+          NOTE: Ensure that the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+
+                  ACM - ACTIVE DTC
+                         Go To 2
+
+                  ACM - STORED DTC
+                         Go To 10
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      With the DRBIIIt, read active Airbag Control Module DTC’s.                                All
+          Does the DRBIIIt display LOSS OF IGNITION RUN - START ?
+
+                  Yes   → Refer to symptom list for problems related to Loss of Ignition Run
+                          - Start active diagnostic trouble code test.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                  No    → Go To    3
+
+
+
+
+                                                       59
+

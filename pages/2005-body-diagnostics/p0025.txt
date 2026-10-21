@@ -1,0 +1,53 @@
+                                                                                                  AIRBAG
+
+Symptom:
+    CLUSTER MESSAGE MISMATCH
+
+
+
+When Monitored and Set Condition:
+
+        CLUSTER MESSAGE MISMATCH
+        When Monitored: After the MIC bulb test is completed, the ACM compares the Lamp
+        Request by ACM, On or Off, and the Lamp on by MIC, On or Off, PCI Bus messages. Each
+        message is transmitted one time per second or when a change in the lamp state occur.
+        Set Condition: If the Lamp Request by ACM, On or Off, and the Lamp on by MIC, On or
+        Off, messages do not match, the code will set.
+
+
+
+                                           POSSIBLE CAUSES
+MIC DIAGNOSTIC CODES
+CLUSTER MESSAGE MISMATCH
+STORED CODE OR INTERMITTENT CONDITION
+ACM, CLUSTER MESSAGE MISMATCH
+ACTIVE CODE PRESENT
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Turn the ignition on.                                                                    All
+          Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                  ACM - ACTIVE DTC
+                         Go To 2
+
+                  ACM - STORED DTC
+                         Go To 5
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      Turn the ignition on.                                                                    All
+          With the DRBIIIt, read the MIC DTCs.
+          Does the DRBIIIt display any active Diagnostic Codes?
+
+                  Yes   → Refer to symptom list for problems related to Instrument Cluster.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                  No    → Go To    3
+
+
+
+
+                                                      19
+

@@ -1,0 +1,59 @@
+                                   CONNECTOR PINOUTS
+
+                  SENTRY KEY IMMOBILIZER MODULE - BLACK 6 WAY
+CAV          CIRCUIT                                    FUNCTION
+ 1                  -                                      -
+ 2    D25 20WT/VT             PCI BUS
+ 3                  -                                      -
+ 4    F1 20PK/WT              FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 5    Z120 20BK/WT            GROUND
+ 6    L177 20WT/OR            FUSED B(+)
+
+
+
+
+                              SUBWOOFER - 12 WAY
+CAV          CIRCUIT                                    FUNCTION
+ 1    X54 18GY                RIGHT FRONT SPEAKER (+)
+ 2    X56 18GY/BR             RIGHT FRONT SPEAKER (-)
+ 3    X53 18DG                LEFT FRONT SPEAKER (+)
+ 4    X55 18DG/BR             LEFT FRONT SPEAKER (-)
+ 5    X60 20GY/OR             RADIO 12V OUTPUT
+ 6    X13 16BK/RD             FUSED B(+)
+ 7    X52 18GY/DB             RIGHT REAR SPEAKER (+)
+ 8    X58 18GY/OR             RIGHT REAR SPEAKER (-)
+                                                                         C
+ 9    X51 18DG/DB             LEFT REAR SPEAKER (+)
+                                                                         O
+10    X57 18DG/OR             LEFT REAR SPEAKER (-)
+                                                                         N
+11                  -                                      -
+                                                                         N
+12    Z513 16BK               GROUND
+                                                                         E
+                                                                         C
+                                                                         T
+                                                                         O
+                                                                         R
+
+                                                                         P
+      TRANSFER CASE SWITCH (EXCEPT OFF-ROAD PACKAGE) - BLACK 2 WAY       I
+CAV          CIRCUIT                                    FUNCTION         N
+A     G93 20VT/LB             4WD INDICATOR                              O
+B     Z987 18BK               GROUND                                     U
+                                                                         T
+                                                                         S
+
+
+
+
+          TRANSFER CASE SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+CAV          CIRCUIT                                    FUNCTION
+ 1    K77 18BR/WT             TRANSFER CASE POSITION SENSOR INPUT
+ 2    K900 20DB/DG            SENSOR GROUND
+
+
+
+
+             195
+

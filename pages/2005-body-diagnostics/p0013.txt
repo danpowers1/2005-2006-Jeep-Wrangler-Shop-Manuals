@@ -1,0 +1,64 @@
+                                                                      GENERAL INFORMATION
+AMBIENT TEMPERATURE SENSOR                                  entering or exiting the vehicle or manually by using
+DIAGNOSTICS                                                 the appropriate button on the mirror as described
+   The outside temperature function is supported by         above. LED’s last 10-15+ years and are not designed
+the ambient temperature sensor, a signal and                to be replaced in this application.
+ground circuit hardwired to the compass/temp mod-
+ule, and the Compass/Temp Mirror display.                   3.4     ELECTRICALLY HEATED SYSTEMS
+   If the Compass/Temp Mirror display indicates
+9SC9, the ambient temperature sensor circuit is
+shorted to ground.                                          3.4.1    REAR WINDOW DEFOGGER
+   If the Compass/Temp Mirror display indicates                The timing circuit for the Rear Window Defogger
+9OC9, the ambient temperature sensor circuit is             is contained internally within the cluster. When the
+open.                                                       ignition is on, the first actuation of the Rear Win-
+   The ambient temperature sensor can be diag-              dow Defogger switch initiates a 10 (ten) minute
+nosed using the following Sensor Test. First, con-          time cycle. After 10 (ten) minutes of the same
+firm that °C is not being mistaken for °F or vise-          ignition cycle has elapsed, the cluster will turn the
+versa. If the ambient temperature sensor and the            defogger off by opening the ground to the Rear
+circuits are confirmed to be OK, but the tempera-           Window Defogger Relay. If the defogger switch is
+ture display is inoperative or incorrect, replace the       actuated a second time during the same ignition
+Compass/Temp Mirror.                                        cycle, the cluster will turn the defogger off after 5
+                                                            (five) minutes. While the defogger is on, depressing
+AMBIENT TEMPERATURE SENSOR TEST                             the switch a second time will turn the defogger off.
+1. Turn the ignition OFF.                                   If the ignition is turned off while the defogger is
+                                                            operating, the defogger will remain off when the
+2. Disconnect and isolate the battery negative ca-
+                                                            ignition is cycled.
+   ble.
+3. Disconnect the ambient temperature sensor har-           3.5     ELECTRO/MECHANICAL INSTRUMENT
+   ness connector.
+                                                                    CLUSTER (EMIC)
+4. Measure the resistance of the ambient tempera-
+   ture sensor using the following values:
+   > 0° C (32° F) Sensor Resistance = 29.33 - 35.99         3.5.1    SMART CLUSTER FEATURES
+     Kilohms                                                  The Electro/Mechanical Instrument Cluster
+   > 10° C (50° F) Sensor Resistance = 17.99 - 21.81        (EMIC) houses the Fuel, Voltmeter, Engine Coolant
+     Kilohms                                                Temp, and Oil Pressure gauges, the Speedometer
+   > 20° C (68° F) Sensor Resistance = 11.37 - 13.61        and the Tachometer. The cluster positions the ana-
+     Kilohms                                                log gauges using PCI Bus messages received from
+                                                            the PCM. The cluster also contains warning indica-
+   > 25° C (77° F) Sensor Resistance = 9.12 - 10.86         tors as well as indicators for the Right and Left turn
+     Kilohms                                                signals and the High Beam headlamps. Some of the
+   > 30° C (86° F) Sensor Resistance = 7.37 - 8.75          indicators are hardwired to the cluster and some
+     Kilohms                                                indicators are controlled by messages received on
+   > 40° C (104° F) Sensor Resistance = 4.90 - 5.75         the PCI Bus. The vehicle Chime function, Courtesy
+     Kilohms                                                Lamp Output, the Battery Saver function, and the
+  The sensor resistance should read between these           Rear Window Defogger timer are contained inter-
+min/max values. If the resistance value is OK, refer        nally within the cluster. The cluster contains a
+to the Wiring Diagrams to test the Signal and               vacuum fluorescent (VF) display for the Odometer/
+Ground circuits. If the resistance values are not           Trip function. The cluster VF will also display
+OK, replace the Sensor.                                     P-codes and vehicle status messages. The cluster
+                                                            has the ability to store DTCs, communicate on the
+MAP/READING LAMP OPERATION                                  PCI Bus, display engine information, and display
+  The Map/Reading lamp feature uses LED (light              certain inputs using the DRBIIIt. The cluster is
+emitting diode) technology as its light source. The         also able to perform a manual self-test. For com-
+driver and passenger map lamps each consist of 6            plete description and operation of the Instrument
+LED’s, 2 blue-green and 4 amber. By mixing these            Cluster, refer to the TJ Service Manual Instrument
+colors through the use of a diffusing cover the             Cluster section. For diagnostic procedures, refer to
+output light is white in appearance. Direct viewing         the TJ Body Diagnostic Procedures Manual.
+of the LED’s will appear as blue-green and amber.
+The lights are activated by the door switch when
+
+
+                                                        7
+

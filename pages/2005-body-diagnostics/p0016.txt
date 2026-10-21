@@ -1,0 +1,62 @@
+GENERAL INFORMATION
+3.7.3     DISPLAY IS NOT VISIBLE                            watchbands or bracelets that might make an inad-
+                                                            vertent electrical contact.
+  Low temperatures will affect the visibility of the
+                                                              When diagnosing a body system problem, it is
+display. Adjust the contrast to compensate for this
+                                                            important to follow approved procedures where
+condition.
+                                                            applicable. These procedures can be found in the
+                                                            service manual. Following these procedures is very
+                                                            important to the safety of individuals performing
+                                                            diagnostic tests.
+
+                                                            4.2.2    VEHICLE PREPARATION FOR
+                                                                     TESTING
+                                                              Make sure the vehicle being tested has a fully
+                                                            charged battery. If it does not, false diagnostic error
+                                                            messages may occur.
+
+                                                            4.2.3     SERVICING SUB-ASSEMBLIES
+                                                              Some components of the body system are in-
+                                                            tended to be serviced in assembly only. Attempting
+                                                            to remove or repair certain system sub-components
+                                                            may result in personal injury and/or improper sys-
+                                                            tem operation. Only those components with ap-
+                                                            proved repair and installation procedures in the
+4.0     DISCLAIMERS, SAFETY,                                service manual should be serviced.
+        WARNING
+                                                            4.2.4     DRBIIIT SAFETY INFORMATION
+4.1     DISCLAIMERS                                         WARNING: EXCEEDING THE LIMITS OF THE
+  All information, illustrations, and specifications        DRBIIIT MULTIMETER IS DANGEROUS.
+contained in this manual are based on the latest            READ ALL DRBIIIT INSTRUCTIONS BEFORE
+information available at the time of publication.           USING THE MULTIMETER. FAILURE TO
+The right is reserved to make changes at any time           FOLLOW THESE INSTRUCTIONS CAN
+without notice.                                             RESULT IN PERSONAL INJURY OR DEATH.
+                                                            • Follow the vehicle manufacturer’s service speci-
+4.2     SAFETY                                                fications at all times.
+                                                            • Do not use the DRBIIIt if it has been damaged.
+4.2.1    TECHNICIAN SAFETY INFORMATION                      • Do not use the test leads if the insulation is
+                                                              damaged or if metal is exposed.
+WARNING: WHEN OPERATING, ENGINES                            • To avoid electrical shock, do not touch the test
+PRODUCE AN ODORLESS GAS CALLED                                leads, tips or the circuit being tested.
+CARBON MONOXIDE. INHALING CARBON                            • Choose the proper range and function for the
+MONOXIDE GAS CAN RESULT IN SLOWER                             measurement. Do not try voltage or current mea-
+REACTION TIMES AND CAN LEAD TO                                surements that may exceed the rated capacity.
+PERSONAL INJURY OR DEATH. WHEN THE                          • Do not exceed the limits shown in the table below:
+ENGINE IS OPERATING, KEEP SERVICE
+                                                            FUNCTION                    INPUT LIMIT
+AREAS WELL VENTILATED OR ATTACH THE
+VEHICLE EXHAUST SYSTEM TO THE SHOP                          Volts                       0-500 volts peak AC
+EXHAUST REMOVAL SYSTEM.                                                                 0-500 volts DC
+  Set the parking brake and block the wheels before         Ohms (resistance)*          0-1.12 megohms
+testing or repairing the vehicle. It is especially          Frequency measured          1-10 khz
+important to block the wheels on front-wheel drive          Frequency generated
+vehicles: the parking brake does not hold the drive
+wheels.                                                     Temperature                 -58-1100°F
+  When servicing a vehicle, always wear eye pro-                                        -50-600C
+tection, and remove any metal jewelry such as
+
+
+                                                       10
+

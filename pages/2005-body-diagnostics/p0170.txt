@@ -1,0 +1,56 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *VF ODOMETER INOPERATIVE WITH DOOR OPEN
+
+
+
+
+                                         POSSIBLE CAUSES
+DEFECTIVE FUSE
+DOOR AJAR SENSE CIRCUIT SHORT TO VOLTAGE
+AJAR SWITCH
+DOOR AJAR SWITCH SENSE CIRCUIT OPEN
+DOOR AJAR SWITCH GROUND CIRCUIT OPEN
+INSTRUMENT CLUSTER
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     Turn the ignition off.                                                                   All
+        Inspect the #4 fuse in the Fuse Block.
+        If the fuse is open, replace with proper rated fuse.
+        NOTE: Ensure that the ignition is in the off position.
+        Open the door(s).
+        Inspect the #4 fuse in the Fuse Block.
+        Is the fuse open?
+                Yes   → Go To    2
+                No    → Go To    3
+
+  2     Turn the ignition off.                                                                   All
+        Disconnect the Instrument Cluster C2 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the voltage between the Door Ajar Switch Sense circuit and ground.
+        NOTE: This test will work for either the Driver or Passenger Door Ajar
+        Switch Sense circuit.
+        Is there any voltage present?
+
+                Yes   → Repair the Door Ajar Switch Sense circuit for a short to voltage.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    3
+
+  3     Turn the ignition off.                                                                   All
+        Disconnect the Door Ajar Switch harness connector.
+        NOTE: This test will work for the Driver or Passenger Door Ajar Switch.
+        Connect a jumper wire between cavity 1 and cavity 3.
+        Does the VF Odometer illuminate?
+                Yes   → Replace the inoperative Door Ajar Switch in accordance with the
+                        Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    4
+
+
+
+
+                                                    164
+

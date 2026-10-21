@@ -1,0 +1,53 @@
+VERIFICATION TESTS
+
+Verification Tests — Continued
+
+                                    SKIS VERIFICATION                                                APPLICABILITY
+1. Reconnect all previously disconnected components and connectors.                                       All
+2. Obtain the vehicle’s unique Personal Identification Number (PIN) assigned to it’s original
+SKIM. This number can be obtained from the vehicle’s invoice or Chrysler’s Customer Center
+(1-800-992-1997).
+3. NOTE: When entering the PIN, care should be taken because the SKIM will only
+allow 3 consecutive attempts to enter the correct PIN. If 3 consecutive incorrect PINs
+are entered, the SKIM will Lock Out the DRB for 1 hour.
+4. To exit Lock Out mode, the ignition key must remain in the Run position continually for 1
+hour. Turn off all accessories and connect a battery charger if necessary.
+5. With the DRB, select Theft Alarm, SKIM and Miscellaneous. Then, select the desired
+procedure and follow the steps that will be displayed.
+6. If the SKIM has been replaced, ensure all of the vehicle ignition keys are programmed to the
+new SKIM.
+7. NOTE: Prior to returning vehicle to the customer, perform a module scan to be sure
+that all DTCs are erased. Erase any DTCs that are found.
+8. With the DRB, erase all DTCs. Perform 5 ignition key cycles leaving the key on for at least
+90 seconds per cycle.
+9. With the DRB, read the SKIM DTCs.
+Are there any SKIM DTCs?
+             Yes   → Repair is not complete, refer to appropriate symptom.
+
+             No    → Repair is complete.
+
+
+                        __AIRBAG VERIFICATION TEST - VER 1                                           APPLICABILITY
+1. Remove any special tools or jumper wires and reconnect all previously disconnected                     All
+components - except the Battery.
+2. WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNITION ON,
+THEN RECONNECT THE BATTERY.
+3. Connect the DRBIIIt to the Data Link Connector - use the most current software available.
+4. Use the DRBIIIt and erase the stored codes in all airbag system modules.
+5. Turn the ignition off, and wait 15 seconds, then turn the ignition on.
+6. Wait one minute, and read active codes and if there are none present read the stored codes.
+7. Note: If equipped with Airbag On - Off switch, read the DTC’s in all switch positions.
+8. Note: Read the DTC’s in all airbag system related modules.
+9. If the DRBIIIt shows any active or stored codes, return to the Symptom list and follow path
+specified for that trouble code. If no active or stored codes are present, the repair is complete.
+Are any DTC’s present or is the original condition still present?
+             YES
+                      Repair is not complete, refer to appropriate symptom list.
+             NO
+                      Repair is complete.
+
+
+
+
+                                                          172
+

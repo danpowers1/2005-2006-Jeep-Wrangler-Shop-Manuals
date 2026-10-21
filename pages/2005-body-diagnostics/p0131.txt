@@ -1,0 +1,55 @@
+                                                     COMPASS/MINI-TRIP COMPUTER
+
+Symptom:
+    *TEMPERATURE DISPLAY INACCURATE OR INOPERATIVE
+
+
+
+
+                                         POSSIBLE CAUSES
+AMBIENT TEMPERATURE SENSOR
+AMBIENT TEMPERATURE SENSOR SIGNAL CIRCUIT OPEN
+AMBIENT TEMPERATURE SENSOR SIGNAL CIRCUIT SHORT TO GROUND
+AMBIENT TEMPERATURE SENSOR GROUND CIRCUIT OPEN
+COMPASS/TEMPERATURE MIRROR
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     Turn the ignition off.                                                                   All
+        Disconnect the Ambient Temperature Sensor harness connector.
+        Measure the resistance of the Ambient Temperature Sensor between pin 1 and pin 2.
+        The Ambient Temperature Sensor should measure within the following values:
+        10°C (50°F) Sensor Resistance = 17.99k - 21.81k Ohms
+        20°C (68°F) Sensor Resistance = 11.37k - 13.61k Ohms
+        25°C (77°F) Sensor Resistance = 9.12k - 10.88k Ohms
+        30°C (86°F) Sensor Resistance = 7.37k - 8.75k Ohms
+        40°C (104°F) Sensor Resistance = 4.90k - 5.75k Ohms
+        50°C (122°F) Sensor Resistance = 3.33k - 3.88k Ohms
+        Does the Ambient Temperature Sensor resistance measure between the min/max
+        specifications?
+
+                Yes   → Go To     2
+                No    → Replace the Ambient Temperature Sensor in accordance with the
+                        Service Information. NOTE: After any repair for an Ambient
+                        Temperature Sensor problem, the vehicle must be driven for more
+                        than 2 minutes to update the display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                   All
+        Disconnect the Ambient Temperature Sensor harness connector.
+        Disconnect the Compass/Temperature Mirror harness connector.
+        Measure the resistance of the Signal circuit between the Ambient Temperature
+        Sensor connector and the Compass/Temperature Mirror connector.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Ambient Temperature Sensor Signal circuit for an
+                        open. NOTE: After any repair for an Ambient Temperature Sensor
+                        problem, thee vehicle must be driven for more than 2 minutes to
+                        update the display.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    3
+
+
+
+
+                                                    125
+

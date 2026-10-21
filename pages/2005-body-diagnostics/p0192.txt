@@ -1,0 +1,73 @@
+    CONNECTOR PINOUTS
+                                                 INSTRUMENT CLUSTER C1 - 12 WAY
+                        CAV           CIRCUIT                                   FUNCTION
+                         1    L61 18WT/LG              LEFT TURN SIGNAL
+                         2    L60 18WT/TN              RIGHT TURN SIGNAL
+                         3    L300 16LG/WT             DIMMER SWITCH HIGH BEAM OUTPUT
+                         4    L39 16WT/OR (EXCEPT      FOG LAMP RELAY OUTPUT
+                              EXPORT)
+                         4    L36 16WT/DB (EXPORT)     REAR FOG LAMP FEED
+                         5    L7 18WT/YL               HEADLAMP SWITCH OUTPUT
+                         6    G305 20VT/LG (OFF-ROAD   REAR LOCKER REQUEST
+                              PACKAGE)
+                         7    G301 20VT/LB (OFF-ROAD   REAR LOCKER INDICATOR SWITCH SENSE
+                              PACKAGE)
+                         8    Z18 18BK/LB              GROUND
+                         9    G303 20VT/DG (OFF-ROAD   LOCKER ENABLE SIGNAL 2
+                              PACKAGE)
+                        10    D16 20WT/OR              SCI RECEIVE (TCM)
+                        11    F505 20PK/YL             FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                        12    M21 20YL/BR              FUSED B(+)
+
+
+                                                 INSTRUMENT CLUSTER C2 - 16 WAY
+                        CAV           CIRCUIT                                   FUNCTION
+                         1    C80 20DB (HARD TOP)      REAR WINDOW DEFOGGER SWITCH SENSE
+C
+                         2    G10 20VT/LG              SEAT BELT SWITCH SENSE
+O
+                         3    G76 20VT/YL              PASSENGER DOOR AJAR SWITCH SENSE
+N
+                         4    G75 20VT                 DRIVER DOOR AJAR SWITCH SENSE
+N
+                         5    M22 20YL/OR              COURTESY LAMPS FEED
+E
+                         6    E2 20OR/BR               PANEL LAMPS FEED
+C
+                         7    C115 20DB (HARD TOP)     REAR WINDOW DEFOGGER RELAY CONTROL
+T
+                         8    G4 20VT/LB (ABS)         ABS WARNING INDICATOR DRIVER
+O
+                         9    B83 20DG/WT              BRAKE PRESSURE SENSOR SUPPLY
+R
+                        10    G304 20VT/DB (OFF-ROAD   FRONT LOCKER REQUEST
+                              PACKAGE)
+P                       11    G93 20VT/LB (OFF-ROAD    4WD INDICATOR
+I                             PACKAGE)
+
+N                       12    D25 20WT/VT              PCI BUS
+
+O                       13    G15 20VT/TN              KEY-IN IGNITION SWITCH SENSE
+
+U                       14    G302 20VT/OR (OFF-ROAD   LOCKER ENABLE SIGNAL 1
+                              PACKAGE)
+T
+                        15    E19 20OR/BR              PANEL LAMPS DIMMER SIGNAL
+S
+                        16    G300 20VT/WT (OFF-ROAD   FRONT LOCKER INDICATOR SWITCH SENSE
+                              PACKAGE)
+
+
+
+
+                                                 LEFT FRONT SPEAKER - BLACK 3 WAY
+                        CAV           CIRCUIT                                   FUNCTION
+                         1    X53 18DG                 LEFT FRONT SPEAKER (+)
+                         2                  -                                         -
+                         3    X55 18DG/BR              LEFT FRONT SPEAKER (-)
+
+
+
+
+                                     186
+

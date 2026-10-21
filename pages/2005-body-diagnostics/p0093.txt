@@ -1,0 +1,58 @@
+                                                                                                 AUDIO
+
+Symptom:
+    NO ANTENNA CONNECTION
+
+
+
+When Monitored and Set Condition:
+
+        NO ANTENNA CONNECTION
+        When Monitored:       With the ignition on and the radio in seek up/down mode.
+        Set Condition: With the radio in seek or scan mode for two minutes and the radio does not
+        detect an antenna connection or does not receive a radio station signal.
+
+
+
+                                           POSSIBLE CAUSES
+BAD ANTENNA CONNECTION
+TEST ANTENNA
+RADIO
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Turn the ignition off.                                                                 All
+          Disconnect the Radio Antenna connector.
+          Inspect the Radio Antenna connection.
+          Was the Antenna connection clean and tight?
+                  Yes   → Go To    2
+
+                  No    → Repair Antenna connection as needed.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+   2      Refer to the Audio System in the service information and test the Antenna in           All
+          accordance with the service procedure.
+          Is the Antenna ok?
+
+                  Yes   → Go To    3
+
+                  No    → Repair or replace the Antenna assembly as necessary.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+   3      NOTE: Reconnect all previously disconnected components.                                All
+          Turn the ignition and Radio on.
+          NOTE: Move vehicle outside approximately 30ft from any structure.
+          With the DRBIIIt, erase the audio DTC’s, put the radio in seek up and seek down
+          mode for approximately 2 minutes before proceeding.
+          With the DRBIIIt, read the audio DTC’s.
+          Did this DTC reset?
+
+                  Yes   → Replace the Radio.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+                  No    → Test Complete.
+
+
+
+
+                                                        87
+

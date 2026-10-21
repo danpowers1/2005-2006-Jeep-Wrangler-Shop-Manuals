@@ -1,0 +1,37 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    SKIM MESSAGE NOT REC’D BY MIC
+
+
+
+When Monitored and Set Condition:
+
+        SKIM MESSAGE NOT REC’D BY MIC
+        When Monitored:      With the ignition in the Run/Start position, Instrument Cluster in
+        power-up state.
+        Set Condition: The Instrument Cluster detects loss of communication with the Sentry
+        Key Immobilizer Module (SKIM). .
+
+
+
+                                           POSSIBLE CAUSES
+SKIM MESSAGE NOT RECEIVED
+
+ TEST                                       ACTION                                  APPLICABILITY
+   1      Turn the ignition on.                                                          All
+          NOTE: Ensure the Instrument Cluster communicates on the PCI Bus.
+          With the DRBIIIt, select Body, Electro/Mech Cluster, then read DTCs.
+          Does the DRBIIIt display SKIM Message Not Rec’d by MIC?
+
+                  Yes   → Refer to the COMMUNICATION category and perform the ap-
+                          propriate symptom.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+                  No    → Test Complete.
+
+
+
+
+                                                 138
+

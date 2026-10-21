@@ -1,0 +1,55 @@
+AIRBAG
+
+Symptom:
+    MODULE NOT CONFIGURED FOR PAB OFF SWITCH
+
+
+
+When Monitored and Set Condition:
+
+        MODULE NOT CONFIGURED FOR PAB OFF SWITCH
+        When Monitored: When the ACM is not configured for an ON - OFF switch, the ACM
+        monitors the Passenger Airbag On - Off Switch inputs to determine if a switch is present.
+        Set Condition: The code will set, if the ACM detects a Passenger Airbag ON - OFF Switch
+        connected to the Airbag Control Module.
+
+
+
+                                            POSSIBLE CAUSES
+INTERMITTENT CODES PRESENT
+ACM NOT CONFIGURED FOR PAB OFF SWITCH
+ACM, MODULE NOT CONFIGURED FOR PAB OFF SWITCH
+PASSENGER AIRBAG INDICATOR DRIVER CIRCUIT SHORT
+PAB MUX SWITCH CIRCUIT SHORT TO GROUND
+PAB MUX SWITCH CIRCUIT SHORT TOGETHER
+ACM, PAB ON - OFF SWITCH CIRCUIT SHORTED
+
+ TEST                                         ACTION                                            APPLICABILITY
+   1      Turn the ignition on.                                                                      All
+          Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                   ACM - ACTIVE DTC
+                          Go To 2
+
+                   ACM - STORED DTC
+                          No problem found at this time.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      Inspect vehicle for a Passenger Airbag On - Off Switch located in the center of the        All
+          instrument panel.
+          Is this vehicle equipped with a Passenger Airbag On - OFF Switch?
+
+                   Yes   → Go To    3
+
+                   No    → Go To    4
+
+
+
+
+                                                       40
+

@@ -1,0 +1,33 @@
+                                                                        INSTRUMENT CLUSTER
+
+*SEAT BELT INDICATOR NOT OPERATING PROPERLY — Continued
+
+ TEST                                       ACTION                                       APPLICABILITY
+  5     Turn the ignition off.                                                                All
+        Disconnect the Seat Belt Switch harness connector.
+        Disconnect the Instrument Cluster C2 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Seat Belt Switch Sense circuit.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Repair the Seat Belt Switch Sense circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    6
+
+  6     Turn the ignition off.                                                                All
+        Disconnect the Seat Belt Switch harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Seat Belt Switch Ground circuit.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Replace the Seat Belt Switch in accordance with the Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Repair the Seat Belt Switch Ground circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     161
+

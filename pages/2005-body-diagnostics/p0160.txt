@@ -1,0 +1,24 @@
+INSTRUMENT CLUSTER
+
+*BRAKE WARNING INDICATOR INOPERATIVE — Continued
+
+ TEST                                      ACTION                                       APPLICABILITY
+  4     Turn the ignition off.                                                               All
+        Disconnect the Instrument Cluster C2 harness connector.
+        Disconnect the Park Brake Switch harness connector.
+        Disconnect the Brake Warning Indicator Switch harness connector.
+        Connect a jumper wire between cavity 1 and cavity 2.
+        Measure the resistance of the Brake Warning Indicator circuit.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Replace the Brake Warning Indicator Switch in accordance with
+                        the Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Brake Warning Indicator circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   154
+

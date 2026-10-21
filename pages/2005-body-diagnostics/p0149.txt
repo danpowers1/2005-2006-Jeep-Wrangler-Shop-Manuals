@@ -1,0 +1,34 @@
+                                                                   INSTRUMENT CLUSTER
+
+*4WD INDICATOR INOPERATIVE — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  8     Turn the ignition off.                                                                  All
+        Disconnect the Transfer Case Switch harness connector.
+        Connect a jumper wire between the 4WD Indicator circuit and ground.
+        Turn the ignition on.
+        With the DRBIIIt, read the 4WD Switch state.
+        Does the DRBIIIt display 9Closed9?
+                Yes   → Go To    9
+
+                No    → Repair the 4WD Indicator circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  9     Turn the ignition off.                                                                  All
+        Disconnect the Transfer Case Switch harness connector.
+        Measure the resistance between ground and the Transfer Case Switch Ground
+        circuit.
+        Is the resistance below 5.0 ohms?
+                Yes   → The condition is not present at this time. Monitor DRBIIIt
+                        parameters while wiggling the related wire harness. Refer to any
+                        Technical Service Bulletins (TSB) that may apply. Visually in-
+                        spect the related wiring harness and connector terminals.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Transfer Case Switch Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   143
+

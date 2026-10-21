@@ -1,0 +1,67 @@
+AIRBAG
+
+LOSS OF IGNITION RUN ONLY — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  4     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Airbag Control Module connector.
+        NOTE: Check connectors - Clean and repair as necessary.
+        Measure the resistance of the Fused Ignition Switch Output Run circuit between the
+        ACM connector and ground.
+        Is the resistance below 10K ohms ?
+
+                 Yes   → Repair the Fused Ignition Switch Output Run circuit for a short
+                         to ground and replace Airbag Run Fuse.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                 No    → Go To    5
+
+  5     WARNING: TURN THE IGNITION OFF, DISCONNECT THE BATTERY AND                                All
+        WAIT TWO MINUTES BEFORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Airbag Control Module in accordance with Service
+                          Instructions and replace the Run Only Fuse.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition on.                                                                     All
+        Measure the voltage of the Ignition Switch Output Run circuit between the Airbag
+        Run circuit fuse and ground.
+        Is the voltage above approximately 4.5 volts?
+
+                 Yes   → Go To    7
+                 No    → Repair the open Ignition Switch Output Run circuit.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  7     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Airbag Control Module connector.
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Reinstall the airbag Run fuse.
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-
+        TION ON, THEN RECONNECT THE BATTERY.
+        Measure the voltage of the Fused Ignition Switch Output Run circuit at the Airbag
+        Control Module connector.
+        Is the voltage above approximately 4.5 volts?
+
+                 Yes   → Go To    8
+
+                 No    → Repair the an open or high resistance in the Fused Ignition
+                         Switch Output Run circuit.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     38
+

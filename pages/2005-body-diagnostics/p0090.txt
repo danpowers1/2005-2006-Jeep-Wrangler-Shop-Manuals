@@ -1,0 +1,34 @@
+AUDIO
+
+Symptom:
+    CD READ FAILURE
+
+
+
+When Monitored and Set Condition:
+
+        CD READ FAILURE
+        When Monitored:       Continuously with the ignition and the radio CD player turned on.
+        Set Condition: The code will set if a CD that is not formatted as a music CD is installed
+        in the radio CD player.
+
+
+
+                                           POSSIBLE CAUSES
+CD READ FAILURE
+
+ TEST                                        ACTION                             APPLICABILITY
+   1      Replace the problem CD with a good, clean, unscratched, music CD.            All
+          Turn the radio CD player on.
+          With the DRBIIIt, read DTC’s.
+          Does the DRBIIIt display CD READ FAILURE?
+
+                  Yes   → Replace the Radio.
+                          Perform BODY VERIFICATION TEST - VER 1.
+                  No    → Test Complete.
+
+
+
+
+                                                     84
+

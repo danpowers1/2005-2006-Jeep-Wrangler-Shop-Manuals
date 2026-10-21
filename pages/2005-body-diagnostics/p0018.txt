@@ -1,0 +1,19 @@
+GENERAL INFORMATION
+EMIC   Electro/Mechanical Instrument         PCM        Powertrain Control Module
+       Cluster
+                                             PDC        Power Distribution Center
+LED    Light Emitting Diode
+                                             S.T.A.R.   Service Technical Assistance Re-
+LFW    Low Fuel Warning                                 source
+MIC    Mechanical Instrument Cluster         SKIM       Sentry Key Immobilizer Module
+MIL    Malfunction Indicator Lamp            SKIS       Sentry Key Immobilizer System
+NGC    Next Generation Controller            SRS        Supplemental Restraints System
+PAB    Passenger AirBag                      TCM        Transmission Control Module
+PCI    Programmable Communication In-        VFD        Vacuum Fluorescent Display
+       terface
+
+
+
+
+                                        12
+

@@ -1,0 +1,57 @@
+                                CONNECTOR PINOUTS
+                           RADIO - GRAY 22 WAY
+CAV          CIRCUIT                                 FUNCTION
+ 1    F306 16DB/PK         FUSED B(+)
+ 2    X112 16DG/GY         FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+ 3    E2 20OR/BR           PANEL LAMPS FEED
+ 4                 -                                    -
+ 5                 -                                    -
+ 6                 -                                    -
+ 7    X54 18GY             RIGHT FRONT SPEAKER (+)
+ 8    X56 18GY/BR          RIGHT FRONT SPEAKER (-)
+ 9    X55 18DG/BR          LEFT FRONT SPEAKER (-)
+10    X53 18DG             LEFT FRONT SPEAKER (+)
+11    Z514 16BK/LG         GROUND
+12    F306 16DB/PK         FUSED B(+)
+13    X60 20GY/OR          RADIO 12V OUTPUT
+14    D25 20WT/VT          PCI BUS
+15                 -                                    -
+16                 -                                    -
+17                 -                                    -
+18    X51 18DG/DB          LEFT REAR SPEAKER (+)
+19    X57 18DG/OR          LEFT REAR SPEAKER (-)
+20    X58 18GY/OR          RIGHT REAR SPEAKER (-)                     C
+21    X52 18GY/DB          RIGHT REAR SPEAKER (+)                     O
+22    Z515 16BK            GROUND                                     N
+                                                                      N
+                                                                      E
+                                                                      C
+                                                                      T
+                                                                      O
+                                                                      R
+      REAR LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+CAV          CIRCUIT                                 FUNCTION
+                                                                      P
+ 1    Z987 20BK            GROUND
+                                                                      I
+ 2    G301 20VT/LB         REAR LOCKER INDICATOR SWITCH SENSE
+                                                                      N
+                                                                      O
+                                                                      U
+                                                                      T
+                                                                      S
+
+
+
+
+           REAR LOCKER PUMP (OFF-ROAD PACKAGE) - LT GRAY 3 WAY
+CAV          CIRCUIT                                 FUNCTION
+ 1    Z987 18BK            GROUND
+ 2                 -                                    -
+ 3    A850 18RD/WT         REAR LOCKER RELAY OUTPUT
+
+
+
+
+             193
+

@@ -1,0 +1,64 @@
+VERIFICATION TESTS
+
+Verification Tests
+                  42RLE TRANSMISSION VERIFICATION TEST - VER 1                                     APPLICABILITY
+1. Connect the DRBIIIt to the Data Link Connector (DLC).                                                All
+2. Reconnect any disconnected components.
+3. With the DRBIIIt, erase all Transmission DTC’s, also erase the PCM DTC’s.
+4. NOTE: Erase DTC P0700 in the PCM to turn the Malfunction Indicator Lamp (MIL)
+off after making Transmission repairs.
+5. With the DRBIIIt, display Transmission Temperature. Start and run the engine until the
+Transmission Temperature is HOT - above 43° C or 110° F.
+6. Check the Transmission Fluid and adjust if necessary. Refer to the Service information for
+the Fluid Fill procedure.
+7. NOTE: If the Transmission Control Module or the Transmission has been repaired
+or replaced it is necessary to perform the DRBIIIt Quick Learn Procedure and reset
+the (Pinion Factor(
+8. Road test the vehicle. With the DRBIIIt, monitor the engine RPM. Make 15 to 20 1-2, 2-3,
+3-4 upshifts. Perform these shifts from a standing start to 45 MPH with a constant throttle
+opening of 20 to 25 degrees.
+9. Below 25 MPH, make 5 to 8 wide open throttle kickdowns to 1st gear. Allow at least 5 seconds
+each in 2nd and 3rd gear between each kickdown.
+10. For a specific DTC, drive the vehicle to the Symptom’s When Monitored/When Set
+conditions to verify the DTC repair.
+11. If equipped with AutoStickt, up-shift and down-shift several times using the AutoStickt
+feature during the road test.
+12. NOTE: Use the EATX OBDII Task Manager to run Good Trip time in each gear, this
+will confirm the repair and to ensure that the DTC has not re-matured.
+13. Check for Diagnostic Trouble Codes (DTC’s) during the road test. If a DTC sets during the
+road test , return to the Symptom list and perform the appropriate Symptom.
+Were there any Diagnostic Trouble Codes (DTCs) set during the road test?
+
+            Yes    → Refer to the Symptom List for appropriate Symptom(s).
+            No     → Repair is complete.
+
+
+                           ABS VERIFICATION TEST - VER 1                                           APPLICABILITY
+1. Turn the ignition off.                                                                               All
+2. Connect all previously disconnected components and connectors.
+3. Ensure all accessories are turned off and the battery is fully charged.
+4. Ensure that the Ignition is on, and with the DRBIII, erase all Diagnostic Trouble Codes from
+ALL modules. Start the engine and allow it to run for 2 minutes and fully operate the system
+that was malfunctioning.
+5. Turn the ignition off and wait 5 seconds. Turn the ignition on and using the DRBIII, read
+DTC’s from ALL modules.
+6. If any Diagnostic Trouble Codes are present, return to Symptom list and troubleshoot new
+or recurring symptom.
+7. NOTE: For Sensor Signal and Pump Motor faults, the CAB must sense all 4 wheels
+at 25 km/h (15 mph) before it will extinguish the ABS Indicator.
+8. If there are no DTC’s present after turning ignition on, road test the vehicle for at least 5
+minutes. Perform several antilock braking stops.
+9. Caution: Ensure braking capability is available before road testing.
+10. Again, with the DRBIIIt read DTC’s. If any DTC’s are present, return to Symptom list.
+11. If there are no Diagnostic Trouble Codes (DTC’s) present, and the customer’s concern can no
+longer be duplicated, the repair is complete.
+Are any DTC’s present or is the original concern still present?
+
+            Yes    → Repair is not complete, refer to appropriate symptom.
+            No     → Repair is complete.
+
+
+
+
+                                                         170
+

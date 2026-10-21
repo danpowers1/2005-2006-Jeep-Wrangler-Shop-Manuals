@@ -1,0 +1,77 @@
+                                                                                         CONNECTOR PINOUTS
+                                                              FUSES (PDC)
+FUSE              AMPS                            FUSED CIRCUIT                                            FUNCTION
+ NO.
+ 1     40A                  A502 12RD/LG                                             FUSED B(+)
+ 2     40A                  A902 12RD                                                FUSED B(+)
+ 3     40A                  A906 12RD                                                FUSED B(+)
+ 4     40A                  A16 12GY (2.4L)                                          FUSED B(+)
+ 5     20A                  A30 16RD/WT (A/T)                                        FUSED B(+)
+ 6     40A                  A8 14RD                                                  FUSED B(+)
+ 7                 -                                    -                                                     -
+ 8     40A                  A107 12TN/RD (ABS)                                       FUSED B(+)
+ 9     20A                  A209 18RD/YL                                             FUSED B(+)
+ 9     20A                  A209 18RD (42RLE)                                        FUSED B(+)
+ 9     20A                  A209 18RD/YL (NA1)                                       FUSED B(+)
+ 10    40A                  A940 12RD                                                FUSED B(+)
+ 11                -                                    -                                                     -
+ 12    30A                  A111 12DG/RD (ABS)                                       FUSED B(+)
+ 13    40A                  A991 12RD                                                FUSED B(+)
+ 14                -                                    -                                                     -
+ 15    50A                  INTERNAL                                                 FUSED B(+)
+ 16                -                                    -                                                     -
+ 17    20A                  A205 18RD/OR                                             FUSED B(+)
+ 18    20A                  A43 18RD/DG                                              FUSED B(+)
+                                                                                                                      C
+ 18    20A                  A43 18RD/DG                                              FUSED B(+)
+                                                                                                                      O
+ 19    20A                  A39 18RD/DG (OPTION 1)                                   FUSED B(+)
+                                                                                                                      N
+ 19    20A                  A39 16RD/DG (OPTION 2)                                   FUSED B(+)
+                                                                                                                      N
+ 20    15A                  F306 16DB/PK                                             FUSED B(+)
+                                                                                                                      E
+ 21    10A                  A926 20RD                                                FUSED B(+)
+                                                                                                                      C
+ 22    25A                  A1 16RD                                                  FUSED B(+)
+                                                                                                                      T
+ 23    20A                  A930 18RD                                                FUSED B(+)
+                                                                                                                      O
+ 24    20A                  INTERNAL (OFF-ROAD PACKAGE)                              FUSED B(+)
+                                                                                                                      R
+ 25                -                                    -                                                     -
+ 26    10A                  M21 20YL/BR                                              FUSED B(+)
+                                                                                                                      P
+ 27    20A                  A701 18BR/RD                                             FUSED B(+)
+                                                                                                                      I
+ 28    10A                  K900 20DB/DG                                             SENSOR GROUND
+                                                                                                                      N
+ 28    10A                  Y3 18LG                                                  FUSED SENSOR GROUND
+                                                                                                                      O
+ 28    10A                  Y3 20LG                                                  FUSED SENSOR GROUND
+                                                                                                                      U
+                                                                                                                      T
+                                                                                                                      S
+                                                       FOG LAMP RELAY (IN PDC)
+CAV           CIRCUIT                                                       FUNCTION
+B16    L139 18WT/YL         FOG LAMP SWITCH SIGNAL
+B17                -                                                             -
+B18    L300 14LG/WT         DIMMER SWITCH HIGH BEAM OUTPUT
+B18    L340 14WT/OR (DRL)   HIGH BEAM INDICATOR DRIVER
+B19    L39 18WT/OR          FOG LAMP RELAY OUTPUT
+B20    Z901 18BK            GROUND
+
+
+                                                FRONT LOCKER RELAY (OFF-ROAD PACKAGE)
+CAV           CIRCUIT                                                       FUNCTION
+D10    INTERNAL             FUSED B(+)
+D11    G304 20VT/DB         FRONT LOCKER REQUEST
+D12                -                                                             -
+D13    INTERNAL             FUSED B(+)
+D14    A750 18TN/RD         FRONT LOCKER RELAY OUTPUT
+
+
+
+
+                                                                  189
+

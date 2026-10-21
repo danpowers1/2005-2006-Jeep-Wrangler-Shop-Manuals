@@ -1,0 +1,55 @@
+AUDIO
+
+Symptom:
+    LOW VOLTAGE LEVEL
+
+
+
+When Monitored and Set Condition:
+
+        LOW VOLTAGE LEVEL
+        When Monitored:
+        Set Condition:    The radio detects lower than normal voltage.
+
+
+
+                                           POSSIBLE CAUSES
+CHECK CHARGING SYSTEM
+CHECK VOLTAGE LEVEL AT RADIO
+RADIO
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Check the charging system in accordance with the service information.                    All
+          Is the charging system operating properly?
+                  Yes   → Go To     2
+                  No    → Refer to the appropriate service information and repair as neces-
+                          sary.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the Radio harness connector.
+          Start the engine.
+          Measure the voltage of each Fused B+ circuit and the Fused Ignition Switch Output
+          circuit.
+          Is the voltage above or approximately 14 volts for each measurement?
+                  Yes   → Go To     3
+
+                  No    → Repair the circuit for high resistance.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+   3      Note: Reconnect all previously disconnected components.                                  All
+          Turn the ignition and Radio on.
+          With the DRBIIIt, erase the audio DTC’s.
+          Start the engine.
+          With the DRBIIIt, read the audio DTC’s.
+          Did this DTC reset?
+
+                  Yes   → Replace the Radio.
+                          Perform BODY VERIFICATION TEST - VER 1.
+                  No    → Test Complete.
+
+
+
+
+                                                      86
+

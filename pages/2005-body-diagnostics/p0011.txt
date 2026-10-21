@@ -1,0 +1,62 @@
+                                                                     GENERAL INFORMATION
+will automatically adjust to a low reflectance state       FIRST TIME / MANUAL CALIBRATION
+to remove the unwanted glare from the inside rear             Set or confirm the Zone Variance, refer to COM-
+view mirror. The mirror will automatically return to       PASS ZONE VARIANCE. During first time or man-
+a high reflectance state whenever the vehicle is           ual calibration, the compass may already be cali-
+placed in REVERSE to ensure a clear view when              brated (CAL is not displayed). It is recommended
+backing up.                                                that the CAL mode be invoked under all situations.
+                                                           With the ignition in the ON position, pressing and
+NOTE: Do not allow the forward or rear                     holding the CENTER button for more than 6 sec-
+sensors to be obstructed since this may                    onds will toggle the display to CAL. Releasing the
+impair proper performance.                                 button after the 6 second duration will enter the
+                                                           compass into the calibration mode. CAL will remain
+ELECTROCHROMIC (EC) DIAGNOSTICS                            illuminated until the calibration is complete. Move
+  Ensure that both the forward and rear sensors            the vehicle to an area away from large metallic
+are not obstructed by hang items, tape, stickers,          objects or overhead power lines. While CAL is
+window decals, etc.                                        illuminated in the display the vehicle must be
+1. With the ignition in the ON position:                   driven in at least 1 complete 360° circle at less than
+  Use a flashlight or other light source, to illumi-       5 MPH (8 KPH). Up to 3 complete 360° circles may
+  nate the forward facing sensor. The mirror should        be required. The compass will calibrate; CAL will
+  remain/adjust to a high reflectance state. This          turn off, and the compass will resume normal
+  simulates daytime conditions.                            operation.
+  Cover the forward facing sensor with a finger or
+  dark material. Using a flashlight or other light         COMPASS ZONE VARIANCE (adjust compass
+  source, illuminate the rear-facing sensor. The           for true north)
+  mirror should dim to a low reflectance state. This          The compass has a default zone of 8. Refer to the
+  simulates nighttime glare conditions.                    Zone Variance Map to determine the correct zone
+  Cover the forward and rear facing sensors with           number. The correct compass Zone selection is crit-
+  fingers or dark material. The mirror should              ical to proper compass operation. With the ignition
+  remain/adjust to a high reflectance state. This          in the ON position, pressing the CENTER button
+  simulates nighttime non-glare conditions.                for 3-6 seconds and then releasing while 9Z9 is
+2. With the ignition in the ON position, the BRAKE         illuminated enters the compass into the Zone dis-
+applied and the vehicle in REVERSE:                        play mode. In the Zone display mode, 9Z9 will be
+  Cover the forward facing sensor with a finger or         illuminated instead of the temperature. The cur-
+  dark material. Using a flashlight or other light         rent Zone number, 1 through 15 will be displayed.
+  source, illuminate the rear-facing sensor. The           While 9Z9 is illuminated; momentarily pressing the
+  mirror should remain in a high reflectance state.        CENTER button advances the zone to the next
+  This simulates nighttime driving conditions, pro-        higher zone. When the desired zone number is
+  viding a clear view while backing up.                    displayed, do not press the button again. After 5
+  If the EC Comp/Temp Mirror does not respond as           seconds, the Zone Variance number will be stored in
+  indicated, replace the EC Comp/Temp Mirror in            the module memory.
+  accordance with the Service Information.                    On long trips, a vehicle may leave its original
+                                                           zone and enter one or more new zones. Generally, if
+COMPASS OPERATION                                          no more that 3 or 4 zones are temporarily traversed,
+  The compass is capable of distinguishing 8 pri-          there is now reason to reset the Zone Variance. Only
+mary directions: N, NE, E, SE, S, SW, W, NW. This          a permanent relocation of the vehicle to a new zone
+electronic compass is designed to display readings         is reason enough to reset the Zone Variance. Each
+relative to True North. All compasses measure              zone is magnetically about 4.2° wide. Until a total
+readings relative to Magnetic North. The difference        nearing 22.5° is accumulated by traversing zones,
+between Magnetic North and True North varies               the typical driver will not notice any difference on
+from place to place across the surface of the earth.       the display. Beyond 22.5°, a reading may be off by
+Therefore, the compass must be told approximately          one or more primary directions.
+where it is on the earth’s surface so that the
+Magnetic North reading can be properly converted
+into a True North Display. This is done by separat-
+ing different parts of the earth into numbered 9Zone
+Variances9 (see zone variance map). The Zone Vari-
+ance in which the compass is to function must be
+entered into the compass.
+
+
+                                                       5
+

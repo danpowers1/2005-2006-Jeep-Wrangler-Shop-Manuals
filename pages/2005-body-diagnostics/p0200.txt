@@ -1,0 +1,49 @@
+    CONNECTOR PINOUTS
+
+
+                                        REAR WINDOW DEFOGGER SWITCH (HARD TOP) - 4 WAY
+                        CAV             CIRCUIT                                    FUNCTION
+                         1    Z1 20BK                    GROUND
+                         2    C80 20DB                   REAR WINDOW DEFOGGER SWITCH SENSE
+                         3    C515 20LB/OR               FUSED REAR WINDOW DEFOGGER RELAY OUTPUT
+                         4    E2 20OR/BR                 PANEL LAMPS FEED
+
+
+
+
+                                                  RIGHT FRONT SPEAKER - BLACK 3 WAY
+                        CAV             CIRCUIT                                    FUNCTION
+                         1    X54 18GY                   RIGHT FRONT SPEAKER (+)
+                         2                  -                                         -
+                         3    X56 18GY/BR                RIGHT FRONT SPEAKER (-)
+C
+O
+N
+N
+E
+C
+T
+O                                                 RIGHT REAR SPEAKER - BLACK 3 WAY
+                        CAV             CIRCUIT                                    FUNCTION
+R
+                         1    X58 18DB/PK                RIGHT REAR SPEAKER (-)
+                         2                  -                                         -
+P
+                         3    X52 18DB/WT                RIGHT REAR SPEAKER (+)
+I
+N
+O
+U
+T
+S
+
+                                    SEAT BELT SWITCH (EXCEPT LHD EXPORT) - BLACK 2 WAY
+                        CAV             CIRCUIT                                    FUNCTION
+                         1    G10 20VT/LG                SEAT BELT SWITCH SENSE
+                         2    Z913 20BK                  GROUND
+
+
+
+
+                                        194
+

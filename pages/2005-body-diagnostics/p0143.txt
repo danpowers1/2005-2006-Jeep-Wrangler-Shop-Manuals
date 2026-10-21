@@ -1,0 +1,37 @@
+                                                                INSTRUMENT CLUSTER
+
+Symptom:
+    PCM MESSAGE NOT REC’D BY MIC
+
+
+
+When Monitored and Set Condition:
+
+        PCM MESSAGE NOT REC’D BY MIC
+        When Monitored:      With the ignition in the Run/Start position, Instrument Cluster in
+        power-up state.
+        Set Condition: The Instrument Cluster detects loss of communication with Powertrain
+        Control Module (PCM). .
+
+
+
+                                           POSSIBLE CAUSES
+PCM MESSAGE NOT REC’D BY MIC
+
+ TEST                                       ACTION                                  APPLICABILITY
+   1      Turn the ignition on.                                                          All
+          NOTE: Ensure the Instrument Cluster communicates on the PCI Bus.
+          With the DRBIIIt, select Body, Electro/Mech Cluster, then read DTCs.
+          Does the DRBIIIt display NO RESPONSE FROM PCM (PCI)?
+
+                  Yes   → Refer to the COMMUNICATION category and perform the ap-
+                          propriate symptom.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+                  No    → Test Complete.
+
+
+
+
+                                                 137
+

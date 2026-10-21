@@ -1,0 +1,58 @@
+AUDIO
+
+Symptom:
+    POWER AMP SHUTDOWN - PREMIUM AUDIO SYSTEM
+
+
+
+When Monitored and Set Condition:
+
+        POWER AMP SHUTDOWN - PREMIUM AUDIO SYSTEM
+        When Monitored:        Ignition in RUN and IOD fuse installed.
+        Set Condition:     The radio has sensed a short on the output for more than 10 seconds.
+
+
+
+                                             POSSIBLE CAUSES
+DETERMINE FAULT
+FRONT SHORTED SPEAKER
+SUBWOOFER
+REAR SHORTED SPEAKER
+(+) CIRCUIT SHORTED TO GROUND
+(-) CIRCUIT SHORTED TO GROUND
+SPEAKER (+) & (-) CIRCUITS SHORTED TOGETHER
+SPEAKER SECTION OF RADIO
+
+ TEST                                          ACTION                                           APPLICABILITY
+   1      Turn the ignition on.                                                                      All
+          Turn the Radio on.
+          With the DRBIIIt, erase the audio DTC’s.
+          Cycle the ignition switch from off to on and wait 10 seconds.
+          With the DRBIIIt, read the audio DTC’s.
+          Does the DRBIIIt display POWER AMP SHUTDOWN?
+                   Yes   → Go To    2
+
+                   No    → Refer to the wiring diagrams located in the service information to
+                           help isolate a possible intermittent short.
+                           Perform BODY VERIFICATION TEST - VER 1.
+
+   2      Turn the ignition off.                                                                     All
+          Disconnect the Subwoofer harness connector.
+          Turn the ignition on.
+          Turn the radio on.
+          With the DRBIIIt, erase the audio DTCs.
+          Cycle the ignition switch from off to on and wait 10 seconds.
+          With the DRBIIIt, read DTC’s.
+          Does the DRBIIIt display POWER AMP SHUTDOWN with the Subwoofer discon-
+          nected?
+
+                   Yes   → Go To    3
+                   No    → Replace the Subwoofer in accordance with the service informa-
+                           tion.
+                           Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                        90
+

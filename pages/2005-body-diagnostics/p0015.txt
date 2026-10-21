@@ -1,0 +1,66 @@
+                                                                      GENERAL INFORMATION
+   Symptoms of individual module failure could in-          must use the Miller tool #8815 to probe the
+clude any one or more of the above. The difference          PCM pins or harness and connector damage
+would be that at least one or more modules would            will occur. There is also a new Verification
+respond to the DRBIIIt.                                     test and module replacement procedure for
+   Diagnosis starts with symptom identification. If a       the PCM.
+complete PCI Bus Communication Failure is sus-
+pected, begin by identifying which modules the
+                                                            3.7     USING THE DRBIIIT
+vehicle is equipped with and then attempt to get a
+response from the module with the DRBIIIt. If any             Refer to the DRBIIIt user’s guide for instructions
+modules are responding, the failure is not related to       and assistance with reading trouble codes, erasing
+the total bus, but can be caused by one or more             trouble codes, and other DRBIIIt functions.
+modules, PCI circuit or power supply and ground
+circuits. The DRBIIIt may display 9BUS +/- SIG-             3.7.1    DRBIIIT ERROR MESSAGES AND
+NAL OPEN9 or 9NO RESPONSE9 to indicate a
+communication problem. These same messages will                      BLANK SCREEN
+be displayed if the vehicle is not equipped with that         Under normal operation, the DRBIIIt will dis-
+particular module. The CCD error message is a               play one of only two error messages:
+default message used by the DRBIIIt and in no way           • User-Requested WARM Boot
+indicates whether or not the PCI Bus is operational.
+The message is only an indication that a module is          • User-Requested COLD Boot
+
+either not responding or the vehicle is not equipped.         This is a sample of such an error message display:
+                                                            ver: 2.14
+NOTE: Communication over the BUS is                         date: 26 Jul93
+essential to the proper operation of the                    file: key_itf.cc
+vehicles on-board diagnostic systems and                    date: Jul 26 1993
+the DRBIIIT. Problems with the operation of                 line: 548
+                                                            err: 0x1
+the BUS or DRBIIIT must be corrected before                 User-Requested COLD Boot
+proceeding with diagnostic testing. If there is
+a problem, refer to the communications                      Press MORE to switch between this display
+category of this manual.                                      and the application screen.
+                                                            Press F4 when done noting information.
+NOTE: For 2005 model year, this vehicle will
+                                                              If the DRBIIIt should display any other error
+integrate the Transmission Control Module
+                                                            message, record the entire display and call the
+and Powertrain Control Module into a single                 STAR Center for information and assistance.
+control module. This new module is the Next
+Generation Controller for DaimlerChrysler                   3.7.2     DRBIIIT DOES NOT POWER UP
+and will be referred to as the Powertrain
+                                                              If the LED’s do not light or no sound is emitted at
+Control Module (PCM). The Transmission                      start up, check for loose cable connections or a bad
+Control Module is part of the Powertrain                    cable. Check the vehicle battery voltage (data link
+Control Module.                                             connector cavity 16). A minimum of 11 volts is
+                                                            required to adequately power the DRBIIIt.
+Diagnostic procedures and DTC numbers are                     If all connections are proper between the
+some of the changes you will see which                      DRBIIIt and the vehicle or other devices, and the
+reflect the new combined module technology.                 vehicle battery is fully charged, an inoperative
+The PCM will have four color coded                          DRBIIIt may be the result of faulty cable or vehicle
+connectors C1 through C4, (C1-BLK,                          wiring.
+C2-ORANGE, C3-WHITE, C4-GREEN), each
+PCM connector will have 38 pins each. Two
+new tools are used for probing and repairing
+the New PCM connectors. A New tool to
+release the pins from the PCM connectors
+Miller #3638 is introduced, you must use the
+Miller tool #3638 to release the connector
+pins or harness and connector damage will
+occur. Also a New tool for probing
+connectors Miller #8815 is introduced, you
+
+                                                        9
+

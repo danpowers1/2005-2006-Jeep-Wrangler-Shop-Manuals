@@ -1,0 +1,46 @@
+                                                                    INSTRUMENT CLUSTER
+
+*ALL GAUGES INOPERATIVE — Continued
+
+ TEST                                         ACTION                                       APPLICABILITY
+  4     Turn the ignition off.                                                                  All
+        Inspect the #10 Fuse in the Fuse Block.
+        If the fuse is open, replace with proper rated fuse.
+        Turn the ignition on for one minute.
+        Turn the ignition off.
+        Inspect the #10 Fuse in the Fuse Block.
+        Is the fuse open?
+
+                 Yes   → Repair the Fused Ignition Switch Output circuit for a short to
+                         ground.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To     5
+
+  5     Turn the ignition off.                                                                  All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Turn the ignition on.
+        Measure the voltage between the Fused Ignition Switch Output circuit and ground.
+        Is the voltage above 10.5 volts?
+
+                 Yes   → Go To     6
+                 No    → Repair the Fused Ignition Switch Output circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition off.                                                                  All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Instrument Cluster Ground circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Replace and configure the Instrument Cluster in accordance with
+                         the Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Repair the Instrument Cluster Ground circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       147
+

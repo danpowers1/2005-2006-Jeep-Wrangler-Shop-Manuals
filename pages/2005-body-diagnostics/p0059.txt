@@ -1,0 +1,56 @@
+                                                                                               AIRBAG
+
+Symptom:
+    PASSENGER AIRBAG ON - OFF SWITCH SHORT TO GROUND
+
+
+
+When Monitored and Set Condition:
+
+        PASSENGER AIRBAG ON - OFF SWITCH SHORT TO GROUND
+        When Monitored: With the ignition on, the PAB MUX Switch Sense circuit supplies a 3
+        to 10 ms pulse every 100 ms across the On or Off Switch resistor to the MUX Switch Return
+        circuit.
+        Set Condition: The code will set if the ACM senses low resistance on the PAB MUX
+        Switch sense circuit.
+
+
+
+                                            POSSIBLE CAUSES
+CHECKING EQUIPMENT
+PAB ON - OFF SWITCH CIRCUIT SHORT
+PAB ON - OFF SWITCH SHORT
+PAB MUX SWITCH CIRCUIT SHORT TO GROUND
+ACM, PAB ON - OFF SWITCH CONNECTOR.
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                         ACTION                                       APPLICABILITY
+   1      Turn the ignition on.                                                                 All
+          NOTE: Ensure that the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                   ACM - ACTIVE DTC
+                          Go To 2
+
+                   ACM - STORED DTC
+                          Go To 7
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+   2      Is this vehicle equipped with a Passenger Airbag On - Off Switch?                     All
+
+                   Yes   → Go To    3
+
+                   No    → With the DRBIIIt in MISCELLANEOUS, read the Configure for
+                           Airbag ON - OFF Switch current status. Enter the number 1 and
+                           press enter to re configure the ACM for NO AIRBAG ON/OFF
+                           SWITCH.
+                           Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       53
+

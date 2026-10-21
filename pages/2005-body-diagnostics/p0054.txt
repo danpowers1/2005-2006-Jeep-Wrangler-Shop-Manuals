@@ -1,0 +1,63 @@
+AIRBAG
+
+PASSENGER AIRBAG ON - OFF SWITCH OPEN — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Gain access to the Passenger Airbag On - Off Switch connector.                             All
+        Is the Passenger Airbag On - Off Switch connected to the dash harness?
+                 Yes   → Go To    4
+
+                 No    → Connect the Passenger Airbag On - Off switch to the dash harness
+                         connector.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  4     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        Disconnect the Passenger Airbag On - Off Switch.
+        NOTE: Check connectors - Clean and repair as necessary.
+        Measure the PAB On - Off Switch resistance between terminals 1 and 2 in both
+        switch positions.
+        The switch resistance specifications are: ON position = 175.0 to 190.0 ohms and OFF
+        position = 820.0 to 870.0 ohms.
+        Is the resistance within range for both switch positions?
+                 Yes   → Go To    5
+                 No    → Replace the Passenger Airbag ON - OFF Switch in accordance
+                         with the service information.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  5     Disconnect the Airbag Control Module connector(s).                                         All
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED.
+        Connect the appropriate Load Tool Adaptor to the Airbag Control Module connector.
+        Measure the resistance of the PAB MUX Switch Sense between the ACM Adaptor and
+        the PAB On - Off Switch connector.
+        Measure the resistance of the PAB MUX Switch Return circuit between the ACM
+        Adaptor and the PAB On - Off Switch connector.
+        Is the resistance below 5.0 ohms on both circuits?
+                 Yes   → Go To    6
+
+                 No    → Repair the open Passenger Airbag MUX Switch circuit(s).
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  6     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          WARNING: MAKE SURE THE BATTERY IS DISCONNECTED,
+                          THEN WAIT TWO MINUTES BEFORE PROCEEDING. Replace
+                          the Airbag Control Module in accordance with Service Instruc-
+                          tions.
+                          Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     48
+

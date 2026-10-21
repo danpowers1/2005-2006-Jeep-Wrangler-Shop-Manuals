@@ -1,0 +1,51 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *SPEEDOMETER INACCURATE OR INOPERATIVE
+
+
+
+
+                                           POSSIBLE CAUSES
+PCM DTC PRESENT
+INCORRECT CONFIGURATION
+INTERMITTENT CONDITION
+INSTRUMENT CLUSTER
+
+ TEST                                        ACTION                                             APPLICABILITY
+  1     With the DRBIIIt, read DTCs.                                                                 All
+        Are any Powertrain DTCs present?
+                 Yes   → Refer to DRIVEABILITY for the related symptom(s).
+                 No    → Go To     2
+
+  2     With the DRBIIIt, ensure that the Instrument Cluster is correctly configured for Tire        All
+        Size, Axle Type, and Transfer Case Type.
+        Are the Instrument Cluster configurations correct?
+                 Yes   → Go To     3
+                 No    → Using the DRBIIIt, select Miscellaneous, Configure Cluster for
+                         the correct Tire Size, Axle Type, and Transfer Case Type. With the
+                         DRBIIIt, erase DTCs.
+
+  3     Turn the ignition off.                                                                       All
+        Perform the Instrument Cluster self test.
+        Press and hold the Trip Reset button.
+        Turn the ignition on.
+        Observe the Speedometer during the self test.
+        NOTE: The self test can also be initiated using the DRBIIIt.
+        The Speedometer should pause at the following calibration points:
+        Cal Point 1: 20 MPH (40km/h Canada/BUX) (40 MPH Aus/Japan)
+        Cal Point 2: 55 MPH (80 km/h Canada/BUX) (80 MPH Aus/Japan)
+        Cal Point 3: 75 MPH (120 km/h Canada/BUX) (120 MPH Aus/Japan)
+        Did the Speedometer pause at the correct calibration points?
+                 Yes   → The condition is not present at this time. Monitor DRBIIIt
+                         parameters while wiggling the related wire harness. Refer to any
+                         Technical Service Bulletins (TSB) that may apply. Visually in-
+                         spect the related wiring harness and connector terminals.
+                 No    → Replace and configure the Instrument Cluster in accordance with
+                         the Service Information.
+
+
+
+
+                                                      162
+

@@ -1,0 +1,63 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *ANY PCI BUS INDICATOR INOPERATIVE
+
+
+
+
+                                         POSSIBLE CAUSES
+NO RESPONSE - PCI BUS
+NO RESPONSE - INSTRUMENT CLUSTER
+NO RESPONSE - POWERTRAIN CONTROL MODULE
+INOPERATIVE INDICATOR
+INSTRUMENT CLUSTER
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                    All
+        With the DRBIIIt, select System Monitors, then J1850 Module Scan.
+        Does the DRBIIIt display MIC PRESENT on the Bus?
+                Yes   → Go To    2
+
+                No    → Refer to the COMMUNICATION category and perform the appro-
+                        priate symptom.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition on.                                                                    All
+        With the DRBIIIt, Select Body, MIC, then MODULE DISPLAY.
+        Does the DRBIIIt display NO RESPONSE from MIC?
+
+                Yes   → Refer to the symptom list for problems related to *NO RE-
+                        SPONSE FROM THE INSTRUMENT CLUSTER
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    3
+
+  3     Turn the ignition on.                                                                    All
+        With the DRBIIIt, select Body, MIC, SYSTEM TESTS, PCM MONITOR.
+        Does the DRBIIIt display PCM INACTIVE on the BUS?
+
+                Yes   → Refer to the symptom list for problems related to *NO RE-
+                        SPONSE FROM THE POWERTRAIN CONTROL MODULE
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    4
+
+  4     NOTE: Diagnose and repair any PCM DTCs before proceeding with this test.                 All
+        Perform the Instrument Cluster Self Test.
+        Observe the indicator in question during the Self Test.
+        Did the indicator illuminate?
+
+                Yes   → Refer to the appropriate Service Information category to diagnose
+                        the related system.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    148
+

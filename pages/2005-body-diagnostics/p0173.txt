@@ -1,0 +1,55 @@
+                                                                             INTERIOR LIGHTING
+
+Symptom:
+    *COURTESY LAMPS ON AT ALL TIMES
+
+
+
+
+                                          POSSIBLE CAUSES
+DRIVERS DOOR AJAR SWITCH
+DRIVERS DOOR AJAR SWITCH SENSE CIRCUIT SHORT TO GROUND
+INSTRUMENT CLUSTER
+PANEL LAMPS DIMMER SIGNAL CIRCUIT SHORT TO GROUND
+MULTIFUNCTION SWITCH
+DOOR AJAR SWITCH OPEN
+PASSENGER DOOR AJAR SWITCH SENSE CIRCUIT SHORT TO GROUND
+COURTESY LAMP DRIVER CIRCUIT SHORT TO GROUND
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Close all the doors.                                                                      All
+        Turn the Panel Lamps Dimmer Switch to the MID position.
+        With the DRBIIIt, read the Electro/Mech Cluster, I/O’s.
+        Does the DRBIIIt read CLOSED?
+                 Yes   → Go To    2
+
+                 No    → Go To    6
+
+  2     Open the Drivers door.                                                                    All
+        Disconnect the Driver Door Ajar Switch connector.
+        With the DRBIIIt select: Body, Electro/Mech Cluster, Input/Output.
+        Read the: Drv Door Ajar Sw - state.
+        Does the DRBIIIt show: Open?
+
+                 Yes   → Replace the Drivers Door Ajar Switch.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    3
+
+  3     Turn the ignition off.                                                                    All
+        Disconnect the Driver Door Ajar Switch connector.
+        Disconnect the Instrument Cluster connector.
+        Measure resistance of the Driver Door Ajar Switch Sense Circuit from the door ajar
+        switch connector to ground.
+        Is the resistance below 100.0 ohms?
+                 Yes   → Repair the Drivers Door Ajar Switch Sense Circuit for a short to
+                         ground condition.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    4
+
+
+
+
+                                                    167
+

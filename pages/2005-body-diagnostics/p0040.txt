@@ -1,0 +1,68 @@
+AIRBAG
+
+LOSS OF IGNITION RUN - START — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Measure the resistance of the Fused Ignition Switch Output Run-Start circuit               All
+        between the Airbag Run - Start Fuse and ground.
+        Is the resistance below 10.0 ohms?
+
+                 Yes   → Go To    4
+
+                 No    → Replace Airbag Run - Start Fuse.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  4     Is this vehicle equipped with a Passenger Airbag On - Off Indicator?                       All
+                 Yes   → Go To    5
+
+                 No    → Go To    6
+
+  5     Disconnect the Passenger Airbag On - Off Indicator connector                               All
+        NOTE: Check connectors - Clean and repair as necessary.
+        Measure the resistance of the Fused Ignition Switch Output Run-Start Circuit
+        between the On - Off Indicator connector and ground.
+        Is the resistance below 10K ohms?
+                 Yes   → Go To    6
+
+                 No    → Replace the Passenger Airbag On - Off Switch and Airbag Run -
+                         Start Fuse.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  6     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN THE IGNI-                                 All
+        TION OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BE-
+        FORE PROCEEDING.
+        WARNING: IF THE AIRBAG CONTROL MODULE IS DROPPED AT ANY
+        TIME, IT MUST BE REPLACED. FAILURE TO TAKE THE PROPER PRE-
+        CAUTIONS COULD RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+        AND PERSONAL INJURY OR DEATH.
+        Disconnect the Airbag Control Module connector
+        NOTE: Check connectors - Clean and repair as necessary.
+        Connect the appropriate Load Tool ACM Adaptor to the ACM connector(s).
+        Measure the resistance of the Fused Ignition Switch Output Run-Start circuit
+        between the ACM Adapter and ground.
+        Is the resistance below 10K ohms?
+
+                 Yes   → Repair the Fused Ignition Switch Output Run - Start circuit short
+                         to ground.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+                 No    → Replace the Airbag Control Module in accordance with Service
+                         Instructions and replace the fuse.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  7     Turn the ignition on.                                                                      All
+        Measure the voltage of the Ignition Switch Output circuit at the Airbag Run - Start
+        fuse.
+        Is the voltage above approximately 6.0 volts?
+
+                 Yes   → Go To    8
+
+                 No    → Repair the open Ignition Switch Output Run - Start circuit.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+        NOTE: Reinstall the fuse after performing this test.
+
+
+
+
+                                                     34
+

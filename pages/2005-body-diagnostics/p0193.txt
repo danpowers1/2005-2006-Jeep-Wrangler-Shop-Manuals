@@ -1,0 +1,50 @@
+                                       CONNECTOR PINOUTS
+
+
+                            LEFT REAR SPEAKER - BLACK 3 WAY
+CAV          CIRCUIT                                      FUNCTION
+ 1    X57 20BR/LB                 LEFT REAR SPEAKER (-)
+ 2                  -                                        -
+ 3    X51 18BR/YL                 LEFT REAR SPEAKER (+)
+
+
+
+
+               PASSENGER AIRBAG ON-OFF SWITCH (LHD) - 6 WAY
+CAV          CIRCUIT                                      FUNCTION
+ 1    F201 18PK/OR                FUSED IGNITION SWITCH OUTPUT (RUN-START)
+ 2    G104 18VT/GY                PASSENGER AIRBAG INDICATOR DRIVER
+ 3    R106 18LG/LB                PASSENGER AIRBAG MUX SWITCH SENSE
+ 4                  -                                        -
+ 5                  -                                        -
+ 6    R104 18LB/LG                PASSENGER AIRBAG MUX SWITCH RETURN
+
+                                                                             C
+                                                                             O
+                                                                             N
+                                                                             N
+                                                                             E
+                                                                             C
+                        PASSENGER AIRBAG SQUIB 1 - YELLOW 2 WAY              T
+CAV          CIRCUIT                                      FUNCTION           O
+A     R42 18LB/BR                 PASSENGER SQUIB 1 LINE 1                   R
+B     R44 18LB/OR                 PASSENGER SQUIB 1 LINE 2
+
+                                                                             P
+                                                                             I
+                                                                             N
+                                                                             O
+                                                                             U
+                                                                             T
+                                                                             S
+                    PASSENGER DOOR AJAR SWITCH - BLACK 3 WAY
+CAV          CIRCUIT                                      FUNCTION
+ 1    M23 20YL/DG                 DOOR AJAR SWITCH OUTPUT
+ 2                  -                                        -
+ 3    G76 20VT/YL                 PASSENGER DOOR AJAR SWITCH SENSE
+
+
+
+
+             187
+

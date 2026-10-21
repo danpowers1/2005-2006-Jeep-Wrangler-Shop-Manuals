@@ -1,0 +1,33 @@
+INSTRUMENT CLUSTER
+
+PANEL DIMMER OPEN — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  3     Turn the ignition off.                                                                  All
+        Disconnect the Multi-Function Switch harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Multi-Function Switch between terminal pin 7 and
+        terminal pin 8.
+        Does the resistance measure above 9250 ohms?
+                Yes   → Replace the Multi-Function Switch in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    4
+
+  4     Turn the ignition off.                                                                  All
+        Disconnect the Multi-Function Switch harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Multi-Function Switch Ground
+        circuit.
+        Is the resistance below 5.0 ohms?
+                Yes   → Replace and configure the Instrument Cluster in accordance with
+                        the Service Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Repair the Multi-Function Switch Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                   136
+

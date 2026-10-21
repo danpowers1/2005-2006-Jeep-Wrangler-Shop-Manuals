@@ -1,0 +1,44 @@
+                                                                                       AIRBAG
+
+Symptom:
+    PASSENGER SQUIB 1 CIRCUIT OPEN
+
+
+
+When Monitored and Set Condition:
+
+        PASSENGER SQUIB 1 CIRCUIT OPEN
+        When Monitored:     With the ignition on, the ACM monitors the resistance of the Passenger
+        Squib 1 circuits.
+        Set Condition: When the ACM detects an open circuit or high resistance on the Passenger
+        Squib 1 circuits.
+
+
+
+                                       POSSIBLE CAUSES
+PAB SQUIB 1 CIRCUIT OPEN
+PAB SQUIB 1 LINE 1 OR LINE 2 CIRCUIT OPEN
+ACM, PAB SQUIB 1 CIRCUIT OPEN
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                    ACTION                                    APPLICABILITY
+   1      Turn the ignition on.                                                         All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                 ACM - ACTIVE DTC
+                        Go To 2
+
+                 ACM - STORED DTC
+                        Go To 5
+
+          NOTE: When reconnecting Airbag system components, the ignition must be
+          turned off and the battery must be disconnected.
+
+
+
+
+                                                63
+

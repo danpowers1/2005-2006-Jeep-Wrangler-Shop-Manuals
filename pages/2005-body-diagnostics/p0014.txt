@@ -1,0 +1,64 @@
+GENERAL INFORMATION
+3.5.2    INSTRUMENT CLUSTER SELF TEST
+   The Instrument Cluster is capable of performing
+a diagnostic self test. The self test is actuated by
+depressing and holding the trip reset button while
+turning the ignition from the off to the on position.
+The self test can also be initiated using the
+DRBIIIt. The self test will terminate if the tachom-
+eter is greater than 300 RPM, the ignition is turned
+off, or the test is complete. For diagnostic proce-
+dures, refer to the TJ Body Diagnostic Procedures
+Manual.
+
+3.6     VEHICLE COMMUNICATION
+  The Programmable Communication Interface or
+PCI Bus is a single wire multiplexed network capa-
+ble of supporting binary encoded messages shared
+between multiple modules. The PCI bus circuit is
+identified as D25 and is violet with a yellow tracer.
+The modules are wired in parallel. Connections are
+made in the harness using splices. The following
+modules are used on 2005 Jeept Wrangler (TJ).
+• Airbag Control Module
+• Mechanical Instrument Cluster
+• Radio
+• Powertrain Control Module (NGC)
+• Sentry Key Immobilizer Module
+• Controller Antilock Brake (Not on the PCI Bus.
+   Communication with the scan tool is established
+   thru the SCI Transmit circuit).
+   Each module provides its own bias and termina-
+tion in order to transmit and receive messages. The
+bus voltage is at zero volts when no modules are
+transmitting and is pulled up to about seven and a
+half volts when modules are transmitting.
+   The bus messages are transmitted at a rate
+averaging 10800 bits per second. Since there is only
+voltage present when the modules transmit and the
+message length is only about 500 milliseconds, it is
+ineffective to try and measure the bus activity with
+a conventional voltmeter. The preferred method is
+to use the DRBIIIt lab scope. The 12v square wave
+selection on the 20-volt scale provides a good view of
+the bus activity. Voltage on the bus should pulse
+between zero and about seven and a half volts.
+Refer to the following figure for some typical dis-
+plays.
+                                                               Symptoms of a complete PCI Bus Communication
+   The PCI Bus Failure modes are broken down into
+                                                             Failure would include but are not limited to:
+two categories. Complete PCI Bus Communication
+Failure and individual module no response. Causes            • All gauges on the MIC stay at zero
+of a complete PCI Bus Communication Failure                  • All telltales on MIC illuminate
+include a short to ground or battery on the PCI              • MIC backlighting at full intensity
+circuit. Individual module no response can be
+                                                             • No response received from any module on the PCI
+caused by an open circuit at the module, or an open
+                                                               bus (except PCM)
+battery or ground circuit to the affected module.
+                                                             • No start (if equipped with Sentry Key Immobilizer)
+
+
+                                                         8
+

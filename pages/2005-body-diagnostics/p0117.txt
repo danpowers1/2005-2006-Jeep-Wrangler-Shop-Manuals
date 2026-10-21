@@ -1,0 +1,58 @@
+                                                                                 COMMUNICATION
+
+*NO RESPONSE FROM PCM (PCM SCI ONLY) - NGC — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Turn the ignition off.                                                                     All
+        Disconnect the CAB harness connector (if equipped).
+        NOTE: If vehicle is not equipped with antilock brakes, answer yes to the
+        question.
+        Measure the resistance between ground and the SCI Transmit circuit at the DLC (cav
+        7).
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the SCI Transmit circuit for a short to ground.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Replace the Controller Antilock Brake in accordance with the
+                         service information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  4     Turn the ignition off.                                                                     All
+        Disconnect the DRB from the DLC.
+        Disconnect the PCM harness connectors.
+        Disconnect the CAB harness connector (if equipped).
+        Turn the ignition on.
+        Measure the voltage of the SCI Transmit circuit at the DLC (cav 7).
+        Is the voltage above 1.0 volt?
+                 Yes   → Repair the SCI Transmit circuit for a short to voltage.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Go To    5
+
+  5     Turn the ignition off.                                                                     All
+        Disconnect the DRB from the DLC.
+        Disconnect the PCM harness connectors.
+        Turn the ignition on.
+        Measure the voltage of the SCI Receive circuit at the DLC (cav 12).
+        Is the voltage above 1.0 volt?
+                 Yes   → Repair the SCI Receive circuit for a short to voltage.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                 No    → Go To    6
+
+  6     Turn the ignition off.                                                                     All
+        Disconnect the DRB from the DLC.
+        Disconnect the PCM harness connectors.
+        Measure the resistance between the SCI Transmit circuit and the SCI Receive circuit
+        at the DLC (cavs 7 and 12).
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the short between the SCI Transmit and the SCI Receive
+                         circuits.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                 No    → Go To    7
+
+
+
+
+                                                     111
+

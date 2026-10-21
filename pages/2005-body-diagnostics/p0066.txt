@@ -1,0 +1,54 @@
+AIRBAG
+
+PASSENGER OFF INDICATOR CIRCUIT SHORT TO GROUND — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Is this vehicle equipped with a Passenger Airbag On - Off Switch?                          All
+
+                 Yes   → Go To    4
+                 No    → With the DRBIIIt in MISCELLANEOUS, read the Configure for
+                         Airbag ON - OFF Switch current status. Enter the number 1 and
+                         press enter to re configure the ACM for NO AIRBAG ON/OFF
+                         SWITCH.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  4     Gain access to the Passenger Airbag On - Off Switch connector.                             All
+        Is the Passenger Airbag On - Off Switch connected to the dash harness?
+
+                 Yes   → Go To    5
+
+                 No    → Connect the Passenger Airbag On - Off switch to the dash harness
+                         connector.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  5     WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN IGNITION                                  All
+        OFF, DISCONNECT THE BATTERY AND WAIT TWO MINUTES BEFORE
+        PROCEEDING.
+        Disconnect the Passenger On - Off Switch connector.
+        NOTE: Check connectors - Clean and repair as necessary.
+        WARNING: TO AVOID PERSONAL INJURY OR DEATH, TURN IGNITION
+        ON, THEN RECONNECT THE BATTERY.
+        Measure the voltage on the Fused Ignition Switch Output Run - Start circuit between
+        the PAB On - Off Switch connector and ground.
+        Is the voltage above 10.0 volts?
+
+                 Yes   → Go To    6
+                 No    → Repair the open Fused ignition Switch Output Run - Start circuit.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+  6     WARNING: TURN THE IGNITION OFF, DISCONNECT THE BATTERY AND                                 All
+        WAIT TWO MINUTES BEFORE PROCEEDING.
+        Disconnect the Passenger Airbag On - Off Switch.
+        NOTE: Check connectors - Clean and repair as necessary.
+        Measure the resistance between PAB On - Off Switch terminals 3 and 4.
+        Is the resistance approximately 14 ohms?
+                 Yes   → Go To    7
+                 No    → Replace the Passenger Airbag ON - OFF Switch in accordance
+                         with the service information.
+                         Perform __AIRBAG VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     60
+

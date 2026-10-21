@@ -1,0 +1,44 @@
+AIRBAG
+
+Symptom:
+    DRIVER SQUIB 1 CIRCUIT SHORT
+
+
+
+When Monitored and Set Condition:
+
+        DRIVER SQUIB 1 CIRCUIT SHORT
+        When Monitored:     With the ignition on, the ACM monitors the resistance of the Driver
+        Squib 1 circuits.
+        Set Condition:   The ACM has detected low resistance on the Driver Squib 1 circuits.
+
+
+
+                                      POSSIBLE CAUSES
+DRIVER AIRBAG SQUIB 1 CIRCUIT SHORT
+CLOCKSPRING, DRIVER SQUIB 1 CIRCUITS SHORT
+DRIVER AIRBAG SQUIB 1 LINE 1 SHORT TO LINE 2
+ACM, DRIVER SQUIB LINE 1 SHORT TO LINE 2
+STORED CODE OR INTERMITTENT CONDITION
+ACTIVE CODE PRESENT
+
+ TEST                                   ACTION                                    APPLICABILITY
+   1      Turn the ignition on.                                                        All
+          NOTE: Ensure the battery is fully charged.
+          NOTE: For the purpose of this test, the AECM and ORC modules will be
+          referred to as an ACM.
+          SELECT ACTIVE or STORED DTC:
+                 ACM - ACTIVE DTC
+                        Go To 2
+
+                 ACM - STORED DTC
+                        Go To 6
+
+          NOTE: When reconnecting airbag system components the Ignition must be
+          turned off and the Battery must be disconnected.
+
+
+
+
+                                                24
+

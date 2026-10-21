@@ -1,0 +1,52 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *ALL GAUGES INOPERATIVE
+
+
+
+
+                                        POSSIBLE CAUSES
+NO RESPONSE - PCI BUS
+NO RESPONSE - PCI BUS - INSTRUMENT CLUSTER
+NO RESPONSE - PCI BUS - POWERTRAIN CONTROL MODULE
+FUSED IGNITION SWITCH OUTPUT CIRCUIT SHORT TO GROUND
+FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+GROUND CIRCUIT OPEN
+INSTRUMENT CLUSTER
+
+ TEST                                     ACTION                                     APPLICABILITY
+  1     Turn the ignition on.                                                             All
+        With the DRBIIIt, select System Monitors, then J1850 Module Scan.
+        Does the DRBIIIt display MIC PRESENT on the BUS?
+                Yes   → Go To    2
+
+                No    → Refer to the COMMUNICATION category and perform the appro-
+                        priate symptom.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition on.                                                             All
+        With the DRBIIIt, select Body, MIC, MODULE DISPLAY.
+        Does the DRBIIIt display NO RESPONSE from MIC?
+
+                Yes   → Refer to symptom *NO CLUSTER BUS MESSAGE in the Com-
+                        munication category.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    3
+
+  3     Turn the ignition on.                                                             All
+        With the DRBIIIt, select Body, MIC, SYSTEM TESTS, PCM Monitor.
+        Does the DRBIIIt display PCM INACTIVE ON THE BUS?
+
+                Yes   → Refer to the symptom list for problems related to *NO RE-
+                        SPONSE FROM THE POWERTRAIN CONTROL MODULE.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    4
+
+
+
+
+                                                  146
+

@@ -1,0 +1,52 @@
+                                                                                COMMUNICATION
+
+*PCI BUS COMMUNICATION FAILURE — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  3     Turn the ignition off.                                                                     All
+        Disconnect the PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Disconnect the DRB from the Data Link Connector (DLC).
+        Disconnect the negative battery cable.
+        Measure the resistance of the PCI Bus circuit between the Data Link Connector
+        (DLC) and the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    4
+
+                 No    → Repair the PCI Bus circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  4     NOTE: Reconnect the PCM harness connector and the negative battery                         All
+        cable.
+        Turn the ignition on.
+        Measure the voltage of the PCI Bus circuit at the Data Link Connector (DLC).
+        Is the voltage above 7.0 volts?
+                 Yes   → Go To    5
+                 No    → Go To    6
+
+  5     Turn the ignition off.                                                                     All
+        Using a voltmeter, connect one end to the PCI Bus circuit at the DLC, and the other
+        end to ground.
+        Note: When performing the next step turn the ignition off (wait one minute)
+        before disconnecting any module. When the module is disconnected turn
+        the ignition on to check for a short to voltage.
+        Turn the ignition on.
+        While monitoring the voltmeter, disconnect each module the vehicle is equipped with
+        one at a time.
+        Is the voltage steadily above 7.0 volts with all the modules disconnected?
+                 Yes   → Repair the PCI Bus circuit for a short to voltage.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace the module that when disconnected the short to voltage
+                         was eliminated.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                     121
+

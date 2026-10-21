@@ -1,0 +1,78 @@
+    CONNECTOR PINOUTS
+                                                         C300 - (I/P SIDE)
+                                                 CAV                 CIRCUIT
+                                                  A1      L45 20WT/OR
+                                                  A2      G75 20VT
+                                                  A3      X55 18DG/BR
+                                                  A3      X55 18DG/BR
+                                                  A4      X53 18DG
+                                                  A4      X53 18DG
+                                                  A5      L7 18WT/YL
+                                                  A6      L61 18WT/LG
+                                                  A7      L1 20WT/LG
+                                                  A8      A207 18RD/LG
+                                                  B1      F201 18PK/OR
+                                                  B2      F505 20PK/YL
+                                                  B3      X52 18GY/DB
+                                                  B4      X58 18GY/OR
+                                                  B5      L60 18WT/TN
+                                                  B6                    -
+                                                  B7      G15 20VT/TN
+                                                  B8      G104 18VT/GY
+                                                  B9      W20 18BR/YL
+
+C                                                B10      G93 20VT/LB
+
+O                                                B11      C515 20LB/OR
+
+N                                                B12      L36 16WT/DB
+
+N                                                 C1      X112 16DG/GY
+
+E                                                 C2      X60 20GY/OR
+
+C                                                 C3      W13 18BR/LG
+
+T                                                 C4      G10 20VT/LG
+
+O                                                 C5      M22 20YL/OR
+
+R                                                 C6      F302 18GY/PK
+                                                  C7      E19 20OR/BR
+
+P                                                 C8                    -
+
+I                                                 C9      R104 18LB/LG
+
+N                                                C10      X51 18DG/DB
+
+O                                                C11      X57 18DG/OR
+
+U                                                C12      D25 20WT/VT
+
+T                                                 D1                    -
+
+S                                                 D2      G76 20VT/YL
+                                                  D3      M21 20YL/BR
+                                                  D4      F504 20GY/PK
+                                                  D4      F504 20GY/PK
+                                                  D5      X54 18GY
+                                                  D5      X54 18GY
+                                                  D6      X56 18GY/BR
+                                                  D6      X56 18GY/BR
+                                                  D7      E2 20OR/BR
+                                                  D8      R106 18LG/LB
+
+
+
+
+                                               CLOCKSPRING C2 - YELLOW 2 WAY
+                        CAV          CIRCUIT                                   FUNCTION
+                         1    R43 18LG/BR              DRIVER SQUIB 1 LINE 1
+                         2    R45 18LG/OR              DRIVER SQUIB 1 LINE 2
+
+
+
+
+                                    180
+

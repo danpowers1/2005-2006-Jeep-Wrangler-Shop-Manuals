@@ -1,0 +1,33 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *ABS INDICATOR INOPERATIVE
+
+
+
+
+                                        POSSIBLE CAUSES
+ABS DTC
+INSTRUMENT CLUSTER
+
+ TEST                                     ACTION                                        APPLICABILITY
+  1     NOTE: The Instrument Cluster ABS Indicator will not illuminate during the            All
+        cluster Self Test. The indicator is controlled by PCI Bus messages received
+        from the CAB.
+        NOTE: The CAB will command the ABS Indicator on when the ignition is
+        cycled to the Run/Start position.
+        With the DRBIIIt, read DTCs.
+        Does the DRBIIIt display any ABS DTCs?
+
+                Yes   → Refer to the Anti-Lock Brake System category and perform the
+                        appropriate symptom.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Replace the Instrument Cluster in accordance with the Service
+                        Information.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                  144
+

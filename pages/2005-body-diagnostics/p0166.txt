@@ -1,0 +1,63 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *SEAT BELT INDICATOR NOT OPERATING PROPERLY
+
+
+
+
+                                          POSSIBLE CAUSES
+SEAT BELT SWITCH SENSE CIRCUIT SHORT TO GROUND
+SEAT BELT SWITCH SENSE CIRCUIT OPEN
+SEAT BELT SWITCH GROUND CIRCUIT OPEN
+SEAT BELT SWITCH
+SEAT BELT SWITCH SENSE CIRCUIT SHORT TO VOLTAGE
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                     All
+        With the DRBIIIt in Inputs/Outputs, read the Driver Belt Switch state while
+        buckling and unbuckling the Seat Belt.
+        Does the DRBIIIt display Open while the belt is buckled and Closed while
+        unbuckled?
+                 Yes   → Go To    2
+
+                 No    → Go To    3
+
+  2     Turn the ignition off.                                                                    All
+        Perform the Instrument Cluster Self Test while observing the Seat Belt Indicator.
+        Did the Seat Belt Indicator illuminate during the Self Test?
+
+                 Yes   → Test Complete.
+
+                 No    → Replace the Instrument Cluster in accordance with the Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition off.                                                                    All
+        Disconnect the Instrument Cluster C2 harness connector.
+        Check connectors - Clean/repair as necessary.
+        NOTE: Ensure that the Seat Belt is buckled.
+        Measure the voltage between the Seat Belt Switch Sense circuit and ground.
+        Is there any voltage present?
+
+                 Yes   → Repair the Seat Belt Switch Sense circuit for a short to voltage.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    4
+
+  4     Turn the ignition off.                                                                    All
+        Disconnect the Seat Belt Switch harness connector.
+        Disconnect the Instrument Cluster C2 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Seat Belt Switch Sense circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the Seat Belt Switch Sense circuit for a short to ground.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    5
+
+
+
+                                                     160
+

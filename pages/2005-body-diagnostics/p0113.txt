@@ -1,0 +1,51 @@
+                                                                                      COMMUNICATION
+
+Symptom:
+    *NO RESPONSE FROM INSTRUMENT CLUSTER
+
+
+
+
+                                           POSSIBLE CAUSES
+OPEN GROUND CIRCUIT
+OPEN FUSED IGNITION SWITCH OUTPUT CIRCUIT
+OPEN FUSED B+ CIRCUIT
+OPEN PCI BUS CIRCUIT
+INSTRUMENT CLUSTER
+
+ TEST                                         ACTION                                         APPLICABILITY
+  1     Turn the ignition off.                                                                    All
+        Turn all lights off.
+        Disconnect the Instrument Cluster C1 harness connector.
+        Using a 12-volt test light connected to 12-volts, probe the ground circuit.
+        Is the test light illuminated?
+                 Yes   → Go To     2
+                 No    → Repair the ground circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                    All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Turn the ignition on.
+        Using a 12-volt test light connected to ground, probe the Fused Ignition Switch
+        Output circuit.
+        Is the test light illuminated?
+                 Yes   → Go To     3
+                 No    → Check the fuse in the Fuse Block for an open. Refer to the wiring
+                         diagrams. If ok, repair the Fused Ignition Switch Output circuit
+                         for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition off.                                                                    All
+        Disconnect the Instrument Cluster C1 harness connector.
+        Using a 12-volt test light connected to ground, probe the Fused B+ circuit.
+        Is the test light illuminated?
+
+                 Yes   → Go To     4
+                 No    → Repair the Fused B+ circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      107
+

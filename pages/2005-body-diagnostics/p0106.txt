@@ -1,0 +1,60 @@
+CHIME
+
+Symptom:
+    *CHIME SOUNDS WITH DRIVER SEAT BELT FASTENED
+
+
+
+
+                                           POSSIBLE CAUSES
+SEAT BELT SWITCH STATUS WRONG
+SEAT BELT SWITCH OPEN
+GROUND WIRE OPEN
+SEAT BELT SWITCH SENSE OPEN
+INSTRUMENT CLUSTER - SEAT BELT SENSE OPEN
+
+ TEST                                        ACTION                                           APPLICABILITY
+  1     Ensure the drivers seat belt is fastened.                                                  All
+        With the DRB III select: Electro Mech Cluster Input/Outputs.
+        Turn the ignition on.
+        Read the Driver Belt SW status.
+        Does the DRB III show Driver Belt SW: CLOSED?
+                 Yes   → Replace the Instrument Cluster.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    2
+
+  2     Disconnect the Seat Belt Switch connector.                                                 All
+        Turn all interior lights off.
+        Measure the resistance of the Ground circuit in the Seat Belt Switch connector to
+        ground.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    3
+                 No    → Repair the open Ground wire.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Disconnect the Seat Belt Switch connector.                                                 All
+        Connect a jumper wire between Seat Belt Switch Sense circuit and the Ground
+        circuit in the Seat Belt Switch connector.
+        With the DRB III select: Electro Mech Cluster Input/Outputs.
+        Turn the ignition on.
+        Read the Driver Belt SW status.
+        Does the DRB III show Driver Belt SW: CLOSED?
+
+                 Yes   → Repair Seat Belt switch pigtail wiring or replace Buckle assembly.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    4
+
+  4     Turn the ignition off.                                                                     All
+        Remove the Instrument Cluster from the instrument panel.
+        Disconnect the Seat Belt Switch connector.
+        Measure the resistance of the Seat Belt Switch Sense circuit between the Instrument
+        Cluster C2 connector and the Seat Belt Switch connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To    5
+                 No    → Repair the open Seat Belt Switch Sense wire.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                                                     100
+

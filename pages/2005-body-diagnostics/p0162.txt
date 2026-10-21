@@ -1,0 +1,48 @@
+INSTRUMENT CLUSTER
+
+Symptom:
+    *HIGH BEAM INDICATOR INOPERATIVE
+
+
+
+
+                                          POSSIBLE CAUSES
+HIGH BEAM INDICATOR CIRCUIT OPEN
+INDICATOR BULB
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                           APPLICABILITY
+  1     NOTE: Ensure that the Headlamp High Beams operate properly. If not, refer                 All
+        to the Exterior Lighting Service Information.
+        Turn the ignition off.
+        Disconnect the Instrument Cluster C1 harness connector.
+        Check connectors - Clean/repair as necessary.
+        Turn the Headlamps on and actuate the High Beams.
+        NOTE: Ensure that the Fog Lamps are not actuated (Domestic vehicles
+        only).
+        Using a 12-volt test light connected to ground, back probe the High Beam Indicator
+        circuit.
+        Does the test light illuminate brightly?
+                 Yes   → Go To    2
+
+                 No    → Repair the Dimmer Switch High Beam Output circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Turn the ignition off.                                                                    All
+        Disconnect the Instrument Cluster.
+        Check connectors - Clean/repair as necessary.
+        Remove and inspect the High Beam Indicator bulb.
+        Is the indicator bulb filament open?
+                 Yes   → Replace the High Beam Indicator Bulb in accordance with the
+                         Service Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Replace the Instrument Cluster in accordance with the Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    156
+

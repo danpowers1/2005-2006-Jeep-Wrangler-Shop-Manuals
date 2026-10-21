@@ -1,0 +1,58 @@
+                                                                                                   CHIME
+
+Symptom:
+    *CHIME INOPERATIVE WITH DRIVER SEAT BELT UNFASTENED
+
+
+
+
+                                           POSSIBLE CAUSES
+SEAT BELT SWITCH STATUS WRONG
+SEAT BELT SWITCH SHORTED
+SEAT BELT SWITCH SENSE WIRE SHORT TO GROUND
+INSTRUMENT CLUSTER - SEAT BELT SWITCH SHORTED
+
+ TEST                                        ACTION                                           APPLICABILITY
+  1     Ensure the drivers seat belt is unfastened.                                                All
+        With the DRB III select: Electro Mech Cluster Input Output.
+        Turn the ignition on.
+        Read the Driver Belt SW status.
+        Does the DRB III show Driver Belt SW: CLOSED?
+                 Yes   → Go To     2
+                 No    → Replace the Instrument Cluster.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  2     Disconnect the Seat Belt Switch connector.                                                 All
+        With the DRB III select: Electro Mech Cluster Input Outputs.
+        Turn the ignition on.
+        Read the Driver Belt Sw status.
+        Does the DRB III show Seat Belt SW: CLOSED?
+
+                 Yes   → Go To     3
+                 No    → Repair Seat Belt switch pigtail wiring for a short to ground or
+                         replace the Seat Belt buckle assembly.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition off.                                                                     All
+        Remove the Instrument Cluster from the instrument panel.
+        Disconnect the Seat Belt Switch connector.
+        Measure the resistance between ground and the Seat Belt Switch Sense circuit at the
+        Instrument Cluster C2 connector.
+        Is the resistance below 100.0 ohms?
+
+                 Yes   → Repair the Seat Belt Switch Sense wire for a short to ground.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+                 No    → Go To    4
+
+  4     If there are no possible causes remaining, view repair.                                    All
+
+                 Repair
+                          Replace the Instrument Cluster.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      95
+

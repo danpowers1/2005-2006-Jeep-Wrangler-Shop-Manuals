@@ -1,0 +1,57 @@
+                                                   ELECTRICALLY HEATED SYSTEMS
+
+Symptom:
+    *REAR WINDOW DEFOGGER INOPERATIVE
+
+
+
+
+                                          POSSIBLE CAUSES
+REAR WINDOW DEFOGGER GROUND CKT
+REAR WINDOW DEFOGGER GRID OPEN
+REAR WINDOW DEFOGGER RELAY OUTPUT OPEN
+FUSED IGNITION SWITCH OUTPUT (RUN) OPEN
+FUSED B(+) CKT OPEN
+RELAY COIL
+RELAY CONTACTS
+REAR WINDOW DEFOGGER RELAY CONTROL CIRCUIT OPEN
+REAR WINDOW DEFOGGER SWITCH SENSE CKT OPEN
+REAR WINDOW DEFOGGER SWITCH SENSE CKT SHORTED TO GROUND
+REAR WINDOW DEFOGGER SWITCH SENSE CKT SHORTED TO VOLTAGE
+REAR WINDOW DEFOGGER SWITCH
+INSTRUMENT CLUSTER
+
+ TEST                                       ACTION                                            APPLICABILITY
+  1     Toggle the Rear Defogger switch and listen to the Rear Window Defogger Relay in the        All
+        PDC.
+        Does the relay click when the switch is pressed?
+                 Yes   → Go To    2
+
+                 No    → Go To    6
+
+  2     Turn the ignition off.                                                                     All
+        Open the tailgate.
+        Measure resistance between ground and the Rear Window Defogger Ground circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    3
+
+                 No    → Repair the Rear Window Defogger Ground Circuit for an open
+                         condition.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition on.                                                                      All
+        Turn the Rear Window Defogger on.
+        Using a 12-volt test light connected to ground, check the Rear Window Defogger
+        Relay Output circuit at the defogger grid.
+        Does the test light illuminate brightly?
+
+                 Yes   → Repair the open in the Rear Window Defogger Grid.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    4
+
+
+
+
+                                                     127
+

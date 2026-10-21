@@ -1,0 +1,42 @@
+CHIME
+
+Symptom:
+    *CHIME SOUNDS WITH DRIVER’S DOOR OPEN, KEY REMOVED
+
+
+
+
+                                           POSSIBLE CAUSES
+KEY-IN IGNITION SWITCH SHORTED
+KEY-IN IGNITION SW SENSE SHORT TO GROUND
+INSTRUMENT CLUSTER - KEY-IN IGNITION SHORTED
+
+ TEST                                        ACTION                                           APPLICABILITY
+  1     Disconnect the Ignition Switch connector.                                                  All
+        Did the chime turn off?
+                 Yes   → Check the Ignition Lock Cylinder for damage. If OK replace the
+                         Ignition Switch.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    2
+
+  2     Turn ignition off.                                                                         All
+        Disconnect the Ignition Switch connector.
+        Remove the Instrument Cluster from the I/P.
+        Measure the resistance of the Key-in Ignition Switch Sense circuit to ground at the
+        Instrument Cluster C2 connector.
+        Is the resistance below 100.0 ohms?
+                 Yes   → Repair the Key-In Ignition Switch Sense wire for a short to
+                         ground..
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To    3
+
+  3     If there are no possible causes remaining, view repair.                                    All
+                 Repair
+                          Replace the Instrument Cluster.
+                          Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      102
+

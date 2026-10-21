@@ -1,0 +1,48 @@
+    CONNECTOR PINOUTS
+
+
+
+
+                                                         DRIVER AIRBAG - 2 WAY
+                        CAV           CIRCUIT                                     FUNCTION
+                         1    BK/LB                       DRIVER AIRBAG LINE 1
+                         2    DG/LB                       DRIVER AIRBAG LINE 2
+
+
+
+
+                                                 DRIVER AIRBAG SQUIB 1 - YELLOW 2 WAY
+C
+                        CAV           CIRCUIT                                     FUNCTION
+O
+                         1    R45 18DG/LB                 DRIVER SQUIB 1 LINE 2
+N
+                         2    R43 18BK/LB                 DRIVER SQUIB 1 LINE 1
+N
+E
+C
+T
+O
+R
+
+P                                               DRIVER DOOR AJAR SWITCH - NATURAL 3 WAY
+I                       CAV           CIRCUIT                                     FUNCTION
+N                        1    M23 20YL/DG                 DOOR AJAR SWITCH OUTPUT
+O                        2                  -                                        -
+U                        3    G75 20VT                    DRIVER DOOR AJAR SWITCH SENSE
+T
+S
+
+
+
+
+                              FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+                        CAV           CIRCUIT                                     FUNCTION
+                         1    Z987 20BK                   GROUND
+                         2    G300 20VT/WT                FRONT LOCKER INDICATOR SWITCH SENSE
+
+
+
+
+                                      182
+

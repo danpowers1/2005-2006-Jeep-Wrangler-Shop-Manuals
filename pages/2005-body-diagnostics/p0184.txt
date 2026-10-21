@@ -1,0 +1,42 @@
+    CONNECTOR PINOUTS
+
+
+                                           AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY
+                        CAV             CIRCUIT                                 FUNCTION
+                         1    Z1 18BK                  GROUND
+                         2    E2 20OR/BR               PANEL LAMPS FEED
+                         3    M21 20YL/BR              FUSED B(+)
+                         4    G302 20VT/OR             LOCKER ENABLE SIGNAL 1
+                         5    G303 20VT/DG             LOCKER ENABLE SIGNAL 2
+                         6    G305 20VT/LG             REAR LOCKER REQUEST
+                         7    G304 20VT/DB             FRONT LOCKER REQUEST
+                         8                 -                                       -
+
+
+
+
+                                         BRAKE WARNING INDICATOR SWITCH - BLACK 2 WAY
+                        CAV             CIRCUIT                                 FUNCTION
+C                        1    G9 20GY/BK               BRAKE WARNING INDICATOR DRIVER
+O                        2    B83 20DG/WT              BRAKE PRESSURE SENSOR SUPPLY
+N
+N
+E
+C
+T
+O
+R
+
+P
+I
+N
+O
+U
+T
+S
+
+
+
+
+                                        178
+
