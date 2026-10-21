@@ -1,0 +1,52 @@
+BRAKES (CAB)
+
+LEFT FRONT SENSOR SIGNAL FAILURE — Continued
+
+ TEST                                      ACTION                                         APPLICABILITY
+  5     Turn the ignition off.                                                                 All
+        Inspect the wheel bearing for excessive runout or clearance.
+        Note: Refer to the appropriate service information, if necessary, for proce-
+        dures or specifications.
+        Is the bearing runout OK ?
+                Yes   → Go To    6
+
+                No    → Repair as necessary. The CAB must sense all four wheels at 25
+                        km/h (15 mph) before it will extinguish the ABS Indicator.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition off.                                                                 All
+        Raise the affected wheel off the ground.
+        Disconnect the Wheel Speed Sensor connector at the affected wheel.
+        Set up an AC voltmeter to read the output of the Wheel Speed Sensor.
+        Quickly rotate the wheel by spinning the tire by hand.
+        Measure the Wheel Speed Sensor AC voltage output.
+        Does the voltage go above 650 millivolts as the wheel is rotated?
+                Yes   → Replace the Controller Antilock Brake in accordance with the
+                        Service Information.
+                        Perform ABS VERIFICATION TEST - VER 1.
+                No    → Replace the Wheel Speed Sensor in accordance with the Service
+                        Information. The CAB must sense all four wheels at 25 km/h (15
+                        mph) before it will extinguish the ABS Indicator.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+  7     Turn the ignition off.                                                                 All
+        Visually inspect the affected Wheel Speed Sensor for correct installation.
+        Visually inspect the Tone Wheel for looseness and correct installation.
+        Visually inspect the wiring harness for loose or intermittent connections.
+        Visually inspect mechanical brake components.
+        Inspect for conditions that may cause lockup or drag.
+        Inspect for seized caliper or wheel cylinder piston.
+        Inspect all components for a condition which may cause a Wheel Speed Signal DTC
+        to set.
+        Is any Component Damaged?
+                Yes   → Repair as necessary. The CAB must sense all four wheels at 25
+                        km/h (15 mph) before it will extinguish the ABS Indicator.
+                        Perform ABS VERIFICATION TEST - VER 1.
+
+                No    → Test Complete.
+
+
+
+
+                                                    24
+

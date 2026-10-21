@@ -1,0 +1,69 @@
+GENERAL INFORMATION
+3.1.1    PEDAL FEEL/VEHICLE                                 • fuses and wiring harness
+                                                            • fluid reservoir (integral part of master cylinder
+         CHARACTERISTICS
+                                                              assembly)
+   There are several pedal feel/vehicle characteris-
+tics that are considered normal for antilock braking        3.1.3    ABS AND BRAKE WARNING
+that may require further explanation.
+   When stopping conditions activate the antilock                    INDICATORS
+brakes, the driver may feel some vibrations/                   The amber ABS warning indicator is located in
+pulsations in the brake pedal and may hear the              the instrument cluster. It is used to inform the
+solenoid valves clicking and the pump motor run-            driver that the antilock function has been turned off
+ning. The vibrations/pulsations are caused by the           due to a system malfunction. On a TJ model the
+isolating, building and decaying of brake fluid pres-       warning indicator is controlled by the CAB and the
+sure within the brake lines. The ABS prevents               ABS relay. The CAB controls the indicator by di-
+complete wheel lock-up, but some wheel slip is              rectly grounding the ABS relay control circuit. The
+required for the best braking performance. This slip        ABS relay grounds the indicator circuit when it is
+may result in some tire chirping, depending on the          de-energized.
+road surface. This chirping should not be inter-               The red brake warning indicator is located in the
+preted as total wheel lock-up. Total wheel lock-up          instrument cluster. It can be activated by applica-
+leaves black tire marks on dry pavement. Antilock           tion of the parking brake, low brake fluid level or by
+braking may leave some light marks.                         turning the ignition switch to the start position.
+   At the end of an ABS stop, the ABS system may
+not function below 5 Km/h (3 mph). There may be a           3.1.4    CONTROLLER ANTILOCK BRAKE
+slight brake pedal drop anytime the ABS is deacti-
+vated.                                                               (CAB)
+   In case of braking on a bumpy surface, the ABS             The controller antilock brake (CAB) is a
+module may detect wheel locking tendencies due to           microprocessor-based device that monitors wheel
+wheel hop and cycle ABS. In that event the brake            speeds and controls the antilock functions.
+pedal may pulsate with a perceived loss of deceler-           The primary functions of the CAB are:
+ation. ABS braking may also be activated at times           • monitor wheel speeds
+while on dry pavement with sand, gravel, or other           • detect wheel locking tendencies
+loose debris on the road.
+                                                            • control fluid pressure modulation to the brakes
+   It should be noted that the pulsating pedal feel
+characteristic will not illuminate the brake warning          during antilock stop operation
+indicators or set a diagnostic trouble code that is         • monitor the system for proper operation
+stored in the Controller Antilock Brake (CAB).              • provide communication to the DRBIIIt while in
+When investigating a hard pedal feel, inspect the             diagnostic mode
+sensor and tone wheel teeth for chips/broken teeth,         • control the ABS relay
+damaged sensor pole tips, excessive runout of the
+                                                            • store diagnostic information in non-volatile mem-
+tone wheel, or excessive gap.
+                                                               ory
+3.1.2    SYSTEM COMPONENTS                                     The CAB continuously monitors the speed of each
+                                                            wheel. When a wheel locking tendency is detected,
+Antilock Brake System                                       the CAB will command the appropriate valve in the
+• controller antilock brake (CAB)                           HCU to modulate brake fluid pressure to that
+• vacuum booster                                            wheel. Brake pedal position is maintained during
+• master cylinder (w/center valves)
+                                                            an antilock stop by being a closed system with the
+                                                            use of three accumulators. The CAB continues to
+• hydraulic control unit (HCU)
+                                                            control pressure in individual hydraulic circuits
+  valve block assembly: 6 valve solenoids (3 inlet          until a wheel locking tendency is no longer present.
+                          valves, 3 outlet valves), 3       The CAB turns on the pump/motor during an an-
+                          accumulators                      tilock stop.
+• pump/motor assembly: 1 motor                                 The antilock brake system is constantly moni-
+                          2 pumps                           tored by the CAB for proper operation. If the CAB
+• G (acceleration) switch                                   detects a system malfunction, it can disable the
+                                                            antilock system and turn on the ABS warning
+• 1 proportioning valve
+                                                            indicator. If the antilock function is disabled, the
+• 4 wheel speed sensor/tone wheel assemblies                system will revert to standard base brake system
+• ABS warning indicator                                     operation.
+
+
+                                                        2
+

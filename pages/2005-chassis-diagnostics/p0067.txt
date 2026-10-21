@@ -1,0 +1,35 @@
+                                    CONNECTOR PINOUTS
+
+
+                        VEHICLE SPEED SENSOR - BLACK 3 WAY
+CAV           CIRCUIT                                FUNCTION
+ 1    K6 18VT/WT               5V SUPPLY
+ 2    K4 20BK/LB               SENSOR GROUND 1
+ 3    G7 18WT/OR               VEHICLE SPEED SENSOR SIGNAL
+
+
+
+
+                                                                C
+                                                                O
+                                                                N
+                                                                N
+                                                                E
+                                                                C
+                                                                T
+                                                                O
+                                                                R
+
+                                                                P
+                                                                I
+                                                                N
+                                                                O
+                                                                U
+                                                                T
+                                                                S
+
+
+
+
+             63
+

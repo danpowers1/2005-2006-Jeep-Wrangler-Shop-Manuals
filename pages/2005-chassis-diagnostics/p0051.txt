@@ -1,0 +1,50 @@
+                                                                              VERIFICATION TESTS
+
+Verification Tests
+                           ABS VERIFICATION TEST - VER 1                                           APPLICABILITY
+1. Turn the ignition off.                                                                               All
+2. Connect all previously disconnected components and connectors.
+3. Ensure all accessories are turned off and the battery is fully charged.
+4. Ensure that the Ignition is on, and with the DRBIII, erase all Diagnostic Trouble Codes from
+ALL modules. Start the engine and allow it to run for 2 minutes and fully operate the system
+that was malfunctioning.
+5. Turn the ignition off and wait 5 seconds. Turn the ignition on and using the DRBIII, read
+DTC’s from ALL modules.
+6. If any Diagnostic Trouble Codes are present, return to Symptom list and troubleshoot new
+or recurring symptom.
+7. NOTE: For Sensor Signal and Pump Motor faults, the CAB must sense all 4 wheels
+at 25 km/h (15 mph) before it will extinguish the ABS Indicator.
+8. If there are no DTC’s present after turning ignition on, road test the vehicle for at least 5
+minutes. Perform several antilock braking stops.
+9. Caution: Ensure braking capability is available before road testing.
+10. Again, with the DRBIIIt read DTC’s. If any DTC’s are present, return to Symptom list.
+11. If there are no Diagnostic Trouble Codes (DTC’s) present, and the customer’s concern can no
+longer be duplicated, the repair is complete.
+Are any DTC’s present or is the original concern still present?
+            Yes   → Repair is not complete, refer to appropriate symptom.
+
+            No    → Repair is complete.
+
+
+                          BODY VERIFICATION TEST - VER 1                                           APPLICABILITY
+1. Disconnect all jumper wires and reconnect all previously disconnected components and                 All
+connectors.
+2. NOTE: If the SKIM or PCM was replaced, refer to the service information for
+proper programming procedures.
+3. NOTE: If the MIC was replaced, configure new cluster with Tire Size, Axle, T-Case
+Type, and EQ Setting.
+4. Ensure all accessories are turned off and the battery is fully charged.
+5. With the DRBIIIt, record and erase all DTC’s from ALL modules. Start and run the engine
+for 2 minutes. Operate all functions of the system that caused the original concern.
+6. Turn the ignition off and wait 5 seconds. Turn the ignition on and using the DRBIIIt, read
+DTC’s from ALL modules.
+Are any DTCs present or is the original condition still present?
+            Yes   → Repair is not complete, refer to the appropriate symptom.
+
+            No    → Repair is complete.
+
+
+
+
+                                                         47
+

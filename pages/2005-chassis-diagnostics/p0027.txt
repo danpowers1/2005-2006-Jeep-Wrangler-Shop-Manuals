@@ -1,0 +1,61 @@
+                                                                                       BRAKES (CAB)
+
+LEFT FRONT SENSOR SIGNAL FAILURE — Continued
+
+
+
+
+                                           POSSIBLE CAUSES
+SPEED SENSOR OR CONNECTOR DAMAGED
+TONE WHEEL DAMAGED
+WHEEL SPEED SENSOR AIR GAP OUT OF SPECIFICATION
+WHEEL BEARING EXCESS RUNOUT
+WHEEL SPEED SENSOR INOPERATIVE
+CAB - CAN’T READ WHEEL SPEED SENSOR SIGNAL
+INTERMITTENT SIGNAL DTC
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     Turn the ignition on.                                                                       All
+        Using the DRBIIIt, monitor all Wheel Speed Sensors while an assistant drives the
+        vehicle.
+        Slowly accelerate as straight as possible from a stop to 24 km/h (15 mph).
+        Note the DRBIIIt Wheel Speed Sensor readings.
+        Is one wheel speed signal zero or differing from others by more than 5 km/h (3 mph)?
+                 Yes   → Go To    2
+
+                 No    → Go To    7
+
+  2     Turn the ignition off.                                                                      All
+        Inspect the Wheel Speed Sensor and Connector at the affected wheel.
+        Is the Sensor or Connector Damaged?
+
+                 Yes   → Repair as necessary. The CAB must sense all four wheels at 25
+                         km/h (15 mph) before it will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To    3
+
+  3     Turn the ignition off.                                                                      All
+        At the affected wheel, inspect the Tone Wheel for damaged or missing teeth, cracks,
+        or looseness.
+        Note: The Tone Wheel Teeth should be perfectly square, not bent or nicked.
+        Is the Tone Wheel OK?
+                 Yes   → Go To    4
+                 No    → Replace the Tone Wheel. The CAB must sense all four wheels at
+                         25 km/h (15 mph) before it will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  4     Turn the ignition off.                                                                      All
+        Using a Feeler Gauge, measure the Wheel Speed Sensor Air Gap.
+        NOTE: The Air Gap should be checked in at least four places on the Tone
+        Wheel.
+        Is the Air Gap between 0.42 mm - 1.71 mm (0.0179 - 0.0689) ?
+                 Yes   → Go To    5
+
+                 No    → Repair as necessary. The CAB must sense all four wheels at 25
+                         km/h (15 mph) before it will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+
+                                                      23
+

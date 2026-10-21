@@ -1,0 +1,57 @@
+                                                             CONNECTOR PINOUTS
+9.0   CONNECTOR PINOUTS
+
+
+
+                                         AXLE LOCK SWITCH (OFF-ROAD PACKAGE) - 8 WAY
+                      CAV             CIRCUIT                                    FUNCTION
+                       1    Z1 20BK                     GROUND
+                       2    E2 20OR                     PANEL LAMPS FEED
+                       3    M1 20PK/WT                  FUSED B(+)
+                       4    G302 20RD/WT                LOCKER ENABLE SIGNAL 1
+                       5    G303 20VT/DG                LOCKER ENABLE SIGNAL 2
+                       6    G305 20VT/LG                REAR LOCKER REQUEST
+                       7    G304 20VT/DB                FRONT LOCKER REQUEST
+                       8                   -                                        -
+
+
+
+
+                                                BRAKE LAMP SWITCH - GRAY 6 WAY
+                      CAV             CIRCUIT                                    FUNCTION
+                       1    K29 20WT/PK                 BRAKE LAMP SWITCH SENSE
+                       1    K29 20WT/PK                 BRAKE LAMP SWITCH SENSE                  C
+                       2    Z1 20BK/WT                  GROUND                                   O
+                       3    V32 20YL/RD                 SPEED CONTROL ON/OFF SWITCH SENSE        N
+                       4    V30 20DB/RD                 SPEED CONTROL BRAKE LAMP SWITCH OUTPUT   N
+                       5    F32 18PK/DB                 FUSED B(+)                               E
+                       6    L50 18WT/TN                 BRAKE LAMP SWITCH OUTPUT                 C
+                                                                                                 T
+                                                                                                 O
+                                                                                                 R
+
+                                                                                                 P
+                                       BRAKE WARNING INDICATOR SWITCH - BLACK 2 WAY
+                      CAV             CIRCUIT                                    FUNCTION
+                                                                                                 I
+                       1    G9 20GY/BK                  BRAKE WARNING INDICATOR DRIVER
+                                                                                                 N
+                       2    G99 20GY/WT                 BRAKE WARNING INDICATOR DRIVER
+                                                                                                 O
+                                                                                                 U
+                                                                                                 T
+                                                                                                 S
+
+
+
+
+                                         C115 (OFF-ROAD PACKAGE) - BLACK (ENGINE SIDE)
+                                                   CAV               CIRCUIT
+                                                    1      Z1 20BK
+                                                    2      G300 20VT/WT
+
+
+
+
+                                      53
+

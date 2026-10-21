@@ -1,0 +1,52 @@
+                                     CONNECTOR PINOUTS
+                           INSTRUMENT CLUSTER C2 - 16 WAY
+CAV             CIRCUIT                                  FUNCTION
+ 1    C80 20DB/WT (HARD TOP) REAR WINDOW DEFOGGER SWITCH SENSE
+ 2    G10 20LG/RD               SEAT BELT SWITCH SENSE
+ 3    G76 20TN/YL               PASSENGER DOOR AJAR SWITCH SENSE
+ 4    G75 20TN                  DRIVER DOOR AJAR SWITCH SENSE
+ 5    M2 20YL                   COURTESY LAMP FEED
+ 6    E2 20OR                   PANEL LAMPS FEED
+ 7    C81 20LB/WT (HARD TOP)    REAR WINDOW DEFOGGER RELAY CONTROL
+ 8    G19 20LG/OR (ABS)         ABS WARNING INDICATOR DRIVER
+ 9    G99 20GY/WT               BRAKE WARNING INDICATOR DRIVER
+10    G304 20VT/DB (OFF-ROAD    FRONT LOCKER REQUEST
+      PACKAGE)
+11    G107 20BK/RD (4X4)        4WD INDICATOR
+12    D25 20VT/YL               PCI BUS
+13    G26 20LB                  KEY-IN IGNITION SWITCH SENSE
+14    G302 20RD/WT (OFF-        LOCKER ENABLE SIGNAL 1
+      ROAD PACKAGE)
+15    E19 20RD                  PANEL LAMPS DIMMER SIGNAL
+16    G300 20VT/WT (OFF-ROAD    FRONT LOCKER INDICATOR SWITCH SENSE
+      PACKAGE)
+
+
+                                                                      C
+                                                                      O
+                                                                      N
+                     LEFT FRONT WHEEL SPEED SENSOR - 2 WAY            N
+CAV             CIRCUIT                                  FUNCTION     E
+ 1    B8 18RD/DB                LEFT FRONT WHEEL SPEED SENSOR (-)     C
+ 2    B9 18RD                   LEFT FRONT WHEEL SPEED SENSOR (+)     T
+                                                                      O
+                                                                      R
+
+                                                                      P
+                                                                      I
+                                                                      N
+                                                                      O
+                                                                      U
+                                                                      T
+                                                                      S
+
+              LEFT FRONT WHEEL SPEED SENSOR (SENSOR SIDE) - 2 WAY
+CAV             CIRCUIT                                  FUNCTION
+ 1    RD/DB                     LEFT FRONT WHEEL SPEED SENSOR (-)
+ 2    RD                        LEFT FRONT WHEEL SPEED SENSOR (+)
+
+
+
+
+                57
+

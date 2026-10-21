@@ -1,0 +1,53 @@
+                                      CONNECTOR PINOUTS
+                          CONTROLLER ANTILOCK BRAKE - 25 WAY
+CAV             CIRCUIT                                 FUNCTION
+ 1    B1 18YL/DB                 RIGHT REAR WHEEL SPEED SENSOR (-)
+ 2    B3 18LG/DB                 LEFT REAR WHEEL SPEED SENSOR (-)
+ 3    B7 18WT                    RIGHT FRONT WHEEL SPEED SENSOR (+)
+ 4    B9 18RD                    LEFT FRONT WHEEL SPEED SENSOR (+)
+ 5                   -                                      -
+ 6    B41 18YL/VT                G-SWITCH NO. 1 SENSE
+ 7    B42 18TN/WT                G-SWITCH NO. 2 SENSE
+ 8    Z22 12BK/PK                GROUND
+ 9    A20 12RD/DB                FUSED B(+)
+10    B4 18LG                    LEFT REAR WHEEL SPEED SENSOR (+)
+11    B8 18RD/DB                 LEFT FRONT WHEEL SPEED SENSOR (-)
+12    L50 18WT/TN                BRAKE LAMP SWITCH OUTPUT
+13    B43 18PK/OR                G-SWITCH TEST SIGNAL
+14                   -                                      -
+15                   -                                      -
+16    G83 18GY/BK                ABS RELAY CONTROL
+17    B2 18YL                    RIGHT REAR WHEEL SPEED SENSOR (+)
+18    B6 18WT/DB                 RIGHT FRONT WHEEL SPEED SENSOR (-)
+19                   -                                      -
+20    D21 18PK                   SCI TRANSMIT                         C
+21                   -                                      -         O
+22                   -                                      -         N
+23    F20 18VT/WT                FUSED IGNITION SWITCH OUTPUT (RUN)   N
+24    Z22 12BK/PK                GROUND                               E
+25    A10 12RD/DG                FUSED B(+)                           C
+                                                                      T
+                          DATA LINK CONNECTOR - BLACK 16 WAY          O
+CAV             CIRCUIT                                 FUNCTION      R
+ 1                   -                                      -
+ 2    D25 20VT/YL                PCI BUS                              P
+ 3                   -                                      -         I
+ 4    Z2 20BK/LG                 GROUND                               N
+ 5    Z12 20BK/TN                GROUND                               O
+ 6    D32 20LG/WT                SCI RECEIVE                          U
+ 7    D21 20PK                   SCI TRANSMIT                         T
+ 8                   -                                      -         S
+ 9    D23 20WT/BR                FLASH PROGRAM ENABLE
+10                   -                                      -
+11                   -                                      -
+12                   -                                      -
+13                   -                                      -
+14    D20 20LG/PK                SCI RECEIVE
+15                   -                                      -
+16    M1 20PK/WT                 FUSED B(+)
+
+
+
+
+                55
+

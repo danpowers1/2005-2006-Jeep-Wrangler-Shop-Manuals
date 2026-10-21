@@ -1,0 +1,57 @@
+                                                                                        BRAKES (CAB)
+
+Symptom:
+    *ABS WARNING INDICATOR INOPERATIVE
+
+
+
+
+                                            POSSIBLE CAUSES
+INSTRUMENT CLUSTER CONCERN
+ABS RELAY STUCK
+ABS RELAY GROUND CIRCUIT OPEN
+ABS RELAY CONTROL CIRCUIT SHORT TO GROUND
+CAB INTERNAL SHORT TO GROUND
+ABS INDICATOR BULB OPEN
+ABS INDICATOR DRIVER OPEN
+INSTRUMENT CLUSTER INTERNAL OPEN
+
+ TEST                                         ACTION                                            APPLICABILITY
+  1     Perform the key-on bulb check.                                                               All
+        Do all bulbs check OK except for the ABS Warning Indicator?
+                 Yes   → Go To     2
+                 No    → Refer to symptom list for problems related to Instrument Cluster.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  2     Install a substitute relay in place of the ABS relay.                                        All
+        Perform the key-on bulb check.
+        Does the ABS Warning Indicator operate OK?
+                 Yes   → Replace the ABS relay.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To     3
+
+  3     Remove the ABS relay from PDC.                                                               All
+        Connect a jumper wire between the ABS Warning Indicator driver cavity of the ABS
+        relay socket and ground.
+        Key to RUN
+        Does the ABS Indicator light?
+
+                 Yes   → Go To     4
+
+                 No    → Go To     6
+
+  4     Remove the ABS relay from the PDC.                                                           All
+        Using a 12-volt test light connected to 12-volts, check the ABS relay ground circuit.
+        Does the test light illuminate?
+
+                 Yes   → Go To     5
+
+                 No    → Repair the ABS relay Ground circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       35
+

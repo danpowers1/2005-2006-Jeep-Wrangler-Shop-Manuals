@@ -1,0 +1,62 @@
+    CONNECTOR PINOUTS
+                                                               FUSES (PDC)
+    FUSE           AMPS                            FUSED CIRCUIT                                         FUNCTION
+     NO.
+     1     40A              A111 12RD/LB                                            FUSED B(+)
+     2     40A              A4 12BK/PK                                              FUSED B(+)
+     3     40A              A6 12RD/BK                                              FUSED B(+)
+     4     40A              A16 12GY (2.4L)                                         FUSED B(+)
+     5     20A              A30 16RD/WT (A/T)                                       FUSED B(+)
+     6     30A              A2 14PK/BK                                              FUSED B(+)
+     7                -                                  -                                                  -
+     8     40A              A10 12RD/DG (ABS)                                       FUSED B(+)
+     9     30A              A14 14RD/WT                                             FUSED B(+)
+     9     30A              A14 14RD/WT                                             FUSED B(+)
+     10    40A              A3 12RD/WT                                              FUSED B(+)
+     11               -                                  -                                                  -
+     12    30A              A20 12RD/DB (ABS)                                       FUSED B(+)
+     13    40A              F30 12RD/PK                                             FUSED B(+)
+     14               -                                  -                                                  -
+     15    50A              M1 16PK/WT                                              FUSED B(+)
+     15    50A              M1 20PK/WT (ABS)                                        FUSED B(+)
+     16    15A              A142 14DG/PK                                            AUTOMATIC SHUT DOWN RELAY OUTPUT
+     16    15A              F142 18OR/DG                                            AUTOMATIC SHUT DOWN RELAY OUTPUT
+C    17    20A              F70 16PK/BK                                             FUSED B(+)
+O    18    20A              F31 18VT                                                FUSED B(+)
+N    18    20A              F31 18VT                                                FUSED B(+)
+N    19    20A              F39 16PK/LG (FRONT FOG LAMPS)                           FUSED B(+)
+E    20    15A              F60 16RD/WT                                             FUSED B(+)
+C    21    10A              A17 20RD/GY                                             FUSED B(+)
+T    22    20A              A1 18RD                                                 FUSED B(+)
+O    23    20A              A61 18DG/BK                                             FUSED B(+)
+R    24    20A              A88 18RD/DB (OFF-ROAD PACKAGE)                          FUSED B(+)
+     25               -                                  -                                                  -
+P    26    10A              M1 20PK/WT                                              FUSED B(+)
+I    27    20A              L9 18BK/WT                                              FUSED B(+)
+N    28    20A              F42 18DG/LG                                             AUTOMATIC SHUT DOWN RELAY OUTPUT
+O    28    20A              A142 14DG/PK                                            AUTOMATIC SHUT DOWN RELAY OUTPUT
+U
+T
+                                           FRONT LOCKER RELAY (IN PDC/OFF-ROAD PACKAGE)
+S
+    CAV           CIRCUIT                                                    FUNCTION
+    D10    A88 18RD/DB      FUSED B(+)
+    D11    G304 20VT/DB     FRONT LOCKER REQUEST
+    D12               -                                                         -
+    D13    A88 18RD/DB      FUSED B(+)
+    D14    A750 18TN/RD     FRONT LOCKER RELAY OUTPUT
+
+
+                                              REAR LOCKER RELAY (IN PDC/OFF-ROAD PACKAGE)
+    CAV           CIRCUIT                                                    FUNCTION
+    D2     A88 18RD/DB      FUSED B(+)
+    D4     A88 18RD/DB      FUSED B(+)
+    D5                -                                                         -
+    D6     G305 20VT/LG     REAR LOCKER REQUEST
+    D8     A850 18RD/WT     REAR LOCKER RELAY OUTPUT
+
+
+
+
+                                                                   60
+

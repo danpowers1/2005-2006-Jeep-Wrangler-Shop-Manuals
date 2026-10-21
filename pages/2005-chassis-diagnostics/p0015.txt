@@ -1,0 +1,66 @@
+                                                                                       BRAKES (CAB)
+
+CAB POWER FEED CIRCUIT — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  3     Turn the ignition off.                                                                      All
+        Remove Fuse 12 from the PDC.
+        Disconnect the CAB harness connector.
+        Note: Check connector - Clean/repair as necessary.
+        Using a test light connected to 12 volts, probe the Fused B(+) Circuit.
+        Does the test light illuminate brightly?
+                 Yes   → Repair the Fused B(+) Circuit Shorted to Ground.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To     4
+
+  4     Turn the ignition off.                                                                      All
+        Remove Fuse 12 from the PDC.
+        The CAB must be connected for the results of this test to be valid.
+        Using a test light connected to 12 volts, probe the Fused B+ circuit at the PDC fuse
+        terminal.
+        Does the test light illuminate brightly?
+                 Yes   → Replace the Controller Antilock Brake in accordance with the
+                         Service Information.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     5
+
+  5     Turn the ignition off.                                                                      All
+        If there are no potential causes remaining, view repair.
+                 Continue
+                            Replace the Fuse.
+                            Perform ABS VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition off.                                                                      All
+        Remove Fuse 12 from the PDC.
+        Disconnect the CAB harness connector.
+        Note: Check connector - Clean/repair as necessary.
+        Measure the resistance of the Fused B+ circuit between the PDC fuse terminal and
+        the CAB connector.
+        Is the resistance below 5 ohms?
+
+                 Yes   → Go To     7
+                 No    → Repair the Fused B+ circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  7     Remove Fuse 12 from the PDC.                                                                All
+        Turn the ignition on.
+        Measure the voltage of the Fused B+ supply to Fuse 12 in the PDC.
+        Is the voltage above 10 volts?
+
+                 Yes   → Go To     8
+
+                 No    → Repair the B+ Supply circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  8     If there are no potential causes remaining, view repair.                                    All
+                 Repair
+                            Replace the Controller Antilock Brake in accordance with the
+                            Service Information.
+                            Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      11
+

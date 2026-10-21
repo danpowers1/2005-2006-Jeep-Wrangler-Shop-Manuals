@@ -1,0 +1,39 @@
+                                  CONNECTOR PINOUTS
+
+
+
+
+      REAR LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+CAV             CIRCUIT                             FUNCTION
+ 1    Z1 16BK                GROUND
+ 2    G301 16VT/LB           REAR LOCKER INDICATOR SWITCH SENSE
+
+
+
+
+           REAR LOCKER PUMP (OFF-ROAD PACKAGE) - LT GRAY 3 WAY
+CAV             CIRCUIT                             FUNCTION
+ 1    Z1 18BK                GROUND
+ 2                   -                                  -             C
+ 3    A850 18RD/WT           REAR LOCKER RELAY OUTPUT                 O
+                                                                      N
+                                                                      N
+                                                                      E
+                                                                      C
+                                                                      T
+                                                                      O
+                                                                      R
+
+                                                                      P
+                 RIGHT FRONT WHEEL SPEED SENSOR - BLACK 2 WAY         I
+CAV             CIRCUIT                             FUNCTION          N
+ 1    B6 18WT/DB             RIGHT FRONT WHEEL SPEED SENSOR (-)       O
+ 2    B7 18WT                RIGHT FRONT WHEEL SPEED SENSOR (+)       U
+                                                                      T
+                                                                      S
+
+
+
+
+                61
+

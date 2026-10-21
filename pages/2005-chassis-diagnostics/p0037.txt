@@ -1,0 +1,52 @@
+                                                                                     BRAKES (CAB)
+
+Symptom:
+    *ABS WARNING INDICATOR ALWAYS ON
+
+
+
+
+                                            POSSIBLE CAUSES
+ABS RELAY STUCK
+ABS RELAY FUSED B+ CIRCUIT OPEN
+ABS RELAY CONTROL CIRCUIT OPEN
+CAB INTERNAL OPEN
+ABS INDICATOR DRIVER SHORT TO GROUND
+INSTRUMENT CLUSTER CONCERN
+
+ TEST                                         ACTION                                         APPLICABILITY
+  1     Remove the ABS relay from PDC.                                                            All
+        Perform the key-on bulb test.
+        Does the ABS Indicator light and remain lit?
+                 Yes   → Go To     2
+
+                 No    → Go To     3
+
+  2     Disconnect the Instrument Cluster C2 harness connector.                                   All
+        Remove the ABS relay from the PDC.
+        Using a 12-volt test light connected to 12-volts, check the ABS Warning Indicator
+        Driver circuit.
+        Does the test light illuminate?
+                 Yes   → Repair the ABS Indicator circuit for a short to ground. The CAB
+                         may have to sense all four wheels at 25 km/h (15 mph) before it
+                         will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Refer to symptom list for problems related to Instrument Cluster.
+                         The CAB may have to sense all four wheels at 25 km/h (15 mph)
+                         before it will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  3     Install a substitute relay in place of the ABS relay.                                     All
+        Perform the key-on bulb check.
+        Does the ABS Warning Indicator operate OK?
+
+                 Yes   → Replace the ABS relay. The CAB may have to sense all four wheels
+                         at 25 km/h (15 mph) before it will extinguish the ABS Indicator.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     4
+
+
+
+
+                                                       33
+

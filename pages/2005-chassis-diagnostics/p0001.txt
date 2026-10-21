@@ -1,0 +1,58 @@
+                                        TABLE OF CONTENTS
+1.0   INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+      1.1     SYSTEM COVERAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+      1.2     SIX-STEP TROUBLESHOOTING PROCEDURE . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+2.0   IDENTIFICATION OF SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+3.0   SYSTEM DESCRIPTION AND FUNCTIONAL OPERATION . . . . . . . . . . . . . . . . . . . . . .1
+
+      3.1     TEVES MARK 20I SYSTEM DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+               3.1.1   PEDAL FEEL/VEHICLE CHARACTERISTICS. . . . . . . . . . . . . . . . . . . . .2
+               3.1.2   SYSTEM COMPONENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+               3.1.3   ABS AND BRAKE WARNING INDICATORS. . . . . . . . . . . . . . . . . . . . . .2
+               3.1.4   CONTROLLER ANTILOCK BRAKE (CAB) . . . . . . . . . . . . . . . . . . . . . . .2
+               3.1.5   HYDRAULIC CONTROL UNIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+               3.1.6   RELAYS/SWITCHES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+               3.1.7   SENSORS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3
+      3.2     DIAGNOSTIC TROUBLE CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+               3.2.1   SYSTEM INITIALIZATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+               3.2.2   DIAGNOSTIC MODE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+               3.2.3   INTERMITTENT DIAGNOSTIC TROUBLE CODES . . . . . . . . . . . . . . . .4
+      3.3     AXLE LOCK. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+               3.3.1   GENERAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+               3.3.2   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .4
+      3.4     USING THE DRBIIIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+      3.5     DRBIIIT ERROR MESSAGES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+               3.5.1   DRBIIIT DOES NOT POWER UP (BLANK SCREEN) . . . . . . . . . . . . . .5
+               3.5.2   DISPLAY IS NOT VISIBLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+
+4.0   DISCLAIMERS, SAFETY WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+
+      4.1     DISCLAIMERS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+      4.2     SAFETY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               4.2.1  TECHNICIAN SAFETY INFORMATION . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               4.2.2  VEHICLE PREPARATION FOR TESTING. . . . . . . . . . . . . . . . . . . . . . . .6
+               4.2.3  SERVICING SUB-ASSEMBLIES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               4.2.4  DRBIIIT SAFETY INFORMATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+      4.3     WARNING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               4.3.1  VEHICLE DAMAGE WARNINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+               4.3.2  ROAD TESTING A COMPLAINT VEHICLE . . . . . . . . . . . . . . . . . . . . . . .7
+      4.4     DIAGNOSIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+
+5.0   REQUIRED TOOLS AND EQUIPMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .7
+
+6.0   GLOSSARY OF TERMS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+
+7.0   DIAGNOSTIC INFORMATION AND PROCEDURES . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+
+      BRAKES (CAB)
+      CAB POWER FEED CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10
+      CONTROLLER FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+      G-SWITCH NOT PROCESSABLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .15
+      LEFT FRONT SENSOR CIRCUIT FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+      LEFT REAR SENSOR CIRCUIT FAILURE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+
+                                                                 i
+

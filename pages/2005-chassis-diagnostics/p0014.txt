@@ -1,0 +1,51 @@
+BRAKES (CAB)
+
+Symptom:
+    CAB POWER FEED CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        CAB POWER FEED CIRCUIT
+        When Monitored: Ignition on. The CAB monitors the Fused B(+) circuit at all times for
+        proper system voltage.
+        Set Condition: If the Fused B(+) voltage is missing when the CAB detects that an internal
+        main driver is not 9on9, the Diagnostic Trouble Code (DTC) is set.
+
+
+
+                                          POSSIBLE CAUSES
+INTERMITTENT DTC
+B(+) CIRCUIT SHORTED TO GROUND
+BLOWN FUSE - FUSED B(+) CIRCUIT
+CAB - FUSED B(+) CIRCUIT SHORTED TO GROUND
+FUSED B(+) CIRCUIT OPEN
+NO B+ SUPPLY TO FUSE
+CAB - FUSED B(+) CIRCUIT OPEN
+
+ TEST                                      ACTION                                  APPLICABILITY
+   1      Turn the ignition on.                                                         All
+          With the DRBIIIt, erase DTC’s.
+          Turn the ignition off.
+          Turn the ignition on.
+          Drive the vehicle above 25 km/h (15 mph) for at least 10 seconds.
+          Stop the vehicle.
+          With the DRBIIIt, read DTC’s.
+          Does the DRBIIIt display CAB Power Feed Circuit DTC present right now?
+                  Yes   → Go To   2
+                  No    → Go To   9
+
+   2      Turn the ignition off.                                                        All
+          Remove and Inspect Fuse 12 in the PDC.
+          Is the Fuse blown?
+
+                  Yes   → Go To   3
+
+                  No    → Go To   6
+
+
+
+
+                                                    10
+

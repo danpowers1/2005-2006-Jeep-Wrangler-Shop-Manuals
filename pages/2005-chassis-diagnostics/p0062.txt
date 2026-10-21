@@ -1,0 +1,39 @@
+    CONNECTOR PINOUTS
+
+
+                                              LEFT REAR WHEEL SPEED SENSOR - 2 WAY
+                        CAV             CIRCUIT                              FUNCTION
+                         1    B3 18LG/DB              LEFT REAR WHEEL SPEED SENSOR (-)
+                         2    B4 18LG                 LEFT REAR WHEEL SPEED SENSOR (+)
+
+
+
+
+                                      LEFT REAR WHEEL SPEED SENSOR (SENSOR SIDE) - 2 WAY
+                        CAV             CIRCUIT                              FUNCTION
+                         1    LG/DB                   LEFT REAR WHEEL SPEED SENSOR (-)
+                         2    LG                      LEFT REAR WHEEL SPEED SENSOR (+)
+
+C
+O
+N
+N
+E
+C
+T
+O
+R
+
+P
+I
+N
+O
+U
+T
+S
+
+
+
+
+                                        58
+

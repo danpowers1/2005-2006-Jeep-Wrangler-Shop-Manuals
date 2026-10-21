@@ -1,0 +1,64 @@
+GENERAL INFORMATION
+information available at the time of publication.          • Do not use the DRBIIIt if it has been damaged.
+The right is reserved to make changes at any time          • Do not use the test leads if the insulation is
+without notice.                                              damaged or if metal is exposed.
+                                                           • To avoid electrical shock, do not touch the test
+4.2     SAFETY                                               leads, tips or the circuit being tested.
+                                                           • Choose the proper range and function for the
+4.2.1    TECHNICIAN SAFETY INFORMATION                       measurement. Do not try voltage or current mea-
+                                                             surements that may exceed the rated capacity.
+WARNING: ENGINES PRODUCE CARBON                            • Do not exceed the limits shown in the table below:
+MONOXIDE THAT IS ODORLESS, CAUSES                          FUNCTION                   INPUT LIMIT
+SLOWER REACTION TIME, AND CAN LEAD
+                                                           Volts                      0 - 500 peak volts AC
+TO SERIOUS INJURY. WHEN THE ENGINE IS
+                                                                                      0 - 500 volts DC
+OPERATING, KEEP SERVICE AREAS WELL
+VENTILATED OR ATTACH THE VEHICLE                           Ohms (resistance)*         0 - 1.12 megohms
+EXHAUST SYSTEM TO THE SHOP EXHAUST                         Frequency Measured         0 - 10 kHz
+REMOVAL SYSTEM.                                            Frequency Generated
+   Set the parking brake and block the wheels before       Temperature                -50 - 600°C
+testing or repairing the vehicle. It is especially                                    -58 - 1100°F
+important to block the wheels on front-wheel drive
+vehicles; the parking brake does not hold the drive           * Ohms cannot be measured if voltage is present.
+wheels.                                                    Ohms can be measured only in a non-powered
+   When servicing a vehicle always wear eye protec-        circuit.
+tion and remove any metal jewelry such as watch-           • Voltage between any terminal and ground must
+bands or bracelets that might make an inadvertent            not exceed 500v DC or 500v peak AC.
+electrical contact.                                        • Use caution when measuring voltage above 25v
+   Additional safety procedures can be found in the          DC or 25v AC.
+service manual. Following these procedures is very
+                                                           • Use the low current shunt to measure circuits up
+important to avoid injury.
+                                                             to 10A. Use the high current clamp to measure
+                                                             circuits exceeding 10A.
+4.2.2    VEHICLE PREPARATION FOR
+                                                           • When testing for the presence of voltage or cur-
+         TESTING                                             rent, make sure the meter is functioning cor-
+  Make sure the vehicle being tested has a fully             rectly. Take a reading of a known voltage or
+charged battery. If is does not, false diagnostic            current before accepting a zero reading.
+trouble codes or error messages may occur.                 • When measuring current, connect the meter in
+                                                             series with the load.
+4.2.3    SERVICING SUB-ASSEMBLIES                          • Disconnect the live test lead before disconnecting
+  Some components of the antilock brake system               the common test lead.
+are intended to be serviced in assembly only. At-          • When   using the meter function, keep the
+tempting to remove or repair certain system sub-             DRBIIIt away from spark plug or coil wires to
+components may result in personal injury and/or              avoid measuring error from outside interference.
+improper system operation. Only those components
+with approved repair and installation procedures in        4.3     WARNING
+the service manual should be serviced.
+
+4.2.4    DRBIIIT SAFETY INFORMATION                        4.3.1    VEHICLE DAMAGE WARNINGS
+                                                             Before disconnecting any control module, make
+WARNING: EXCEEDING THE LIMITS OF THE                       sure the ignition is OFF. Failure to do so could
+DRBIIIT MULTIMETER IS DANGEROUS. IT                        damage the module.
+CAN EXPOSE YOU TO SERIOUS OR                                 When testing voltage or continuity at any control
+POSSIBLY FATAL INJURY. CAREFULLY                           module, use the terminal side (not the wire end) of
+READ AND UNDERSTAND THE CAUTIONS                           the connector. Do not pierce wire insulation; this
+AND THE SPECIFICATION LIMITS.                              will damage it and eventually cause it to fail be-
+                                                           cause of corrosion.
+• Follow the vehicle manufacturer’s service speci-
+  fications at all times.
+
+                                                       6
+

@@ -1,0 +1,47 @@
+    CONNECTOR PINOUTS
+
+
+
+                              C115 (OFF-ROAD PACKAGE) - BLACK (FRONT FEEDBACK OVERLAY SIDE)
+                                                   CAV               CIRCUIT
+                                                    1      Z1 16BK
+                                                    2      G300 16VT/WT
+
+
+
+
+                                         C116 (OFF-ROAD PACKAGE) - LT GRAY (ENGINE SIDE)
+                                                   CAV               CIRCUIT
+                                                    1      Z1 20BK
+                                                    2      G301 20VT/LB
+
+
+C
+O
+N
+N
+E
+C
+T
+O                             C116 (OFF-ROAD PACKAGE) - LT GRAY (REAR FEEDBACK OVERLAY SIDE)
+R                                                  CAV               CIRCUIT
+                                                    1      Z1 16BK
+P                                                   2      G301 16VT/LB
+I
+N
+O
+U
+T
+S
+
+
+                                     CLUTCH PEDAL POSITION SWITCH (M/T) - BLACK 2 WAY
+                        CAV          CIRCUIT                                   FUNCTION
+                         1    T141 18YL/RD              FUSED IGNITION SWITCH OUTPUT (START)
+                         2    A41 18YL                  FUSED IGNITION SWITCH OUTPUT (START)
+
+
+
+
+                                     54
+

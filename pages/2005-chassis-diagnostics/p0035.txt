@@ -1,0 +1,60 @@
+                                                                                   BRAKES (CAB)
+
+Symptom:
+    SYSTEM UNDER VOLTAGE
+
+
+
+When Monitored and Set Condition:
+
+        SYSTEM UNDER VOLTAGE
+        When Monitored: Ignition on. The CAB monitors the Fused Ignition Switch Output for
+        proper system voltage.
+        Set Condition:     If the voltage is below 9.5 volts, the Diagnostic Trouble Code (DTC) is set.
+
+
+
+                                             POSSIBLE CAUSES
+BATTERY VOLTAGE LOW
+INTERMITTENT DTC
+FUSED IGNITION SWITCH OUTPUT CIRCUIT HIGH RESISTANCE
+GROUND CIRCUIT OPEN
+CAB - INTERNAL FAULT
+
+ TEST                                          ACTION                                     APPLICABILITY
+   1      Turn the ignition on.                                                                All
+          With the DRBIIIt, erase DTC’s.
+          Turn the ignition off.
+          Turn the ignition on.
+          Start the engine.
+          Drive the vehicle above 16 km/h (10 mph) for at least 20 seconds.
+          Stop the vehicle
+          With the DRBIIIt, read DTC’s.
+          Does the DRBIIIt display System Undervoltage DTC?
+                   Yes   → Go To     2
+
+                   No    → Go To     6
+
+   2      Engine Running.                                                                      All
+          Measure the battery voltage.
+          Is the battery voltage below 10 volts?
+
+                   Yes   → Refer to appropriate service information for charging system
+                           testing and repair.
+                           Perform ABS VERIFICATION TEST - VER 1.
+                   No    → Go To     3
+
+   3      Turn the ignition off.                                                               All
+          Disconnect the CAB connector.
+          Note: Check connector - Clean/repair as necessary.
+          Measure the resistance of the ground circuits.
+          Is the resistance below 1.0 ohm?
+
+                   Yes   → Go To     4
+
+                   No    → Repair the Ground circuit for an open.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+
+                                                       31
+

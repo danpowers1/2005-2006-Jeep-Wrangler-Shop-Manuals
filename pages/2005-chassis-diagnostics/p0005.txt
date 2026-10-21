@@ -1,0 +1,63 @@
+                                                                     GENERAL INFORMATION
+1.0    INTRODUCTION                                        • repair of isolated problem
+                                                           • verification of proper operation
+  The procedures contained in this manual include
+all the specifications, instructions, and graphics
+needed to diagnose the 2005 TJ Chassis system              2.0     IDENTIFICATION OF
+problems: Teves Mark 20i Antilock Braking System                   SYSTEM
+(ABS) and Axle Lock. The diagnostics in this man-
+ual are based on the failure condition or symptom             Vehicles equipped with the Teves Mark 20i an-
+being present at time of diagnosis.                        tilock brake system can be identified by the pres-
+  Follow the recommendations below when choos-             ence of the hydraulic control unit (HCU) located
+ing your diagnostic path.                                  under the hood near the power brake booster. Vehi-
+1. First make sure the DRBIIIt is communicating            cles equipped with Axle Lock can be identified by
+   with the CAB. If the DRBIIIt displays a ‘‘No            the presence of the Axle Lock Switch located on the
+   Response’’ condition, you must diagnose that            lower center of the instrument panel.
+   first.
+2. Read DTC’s (diagnostic trouble codes) with the          3.0     SYSTEM DESCRIPTION AND
+   DRBIIIt.
+                                                                   FUNCTIONAL OPERATION
+3. If no DTC’s are present, identify the customer
+   complaint.
+4. Once the DTC or customer complaint is identi-           3.1    TEVES MARK 20I SYSTEM
+   fied, locate the matching test in the Table of                 DESCRIPTION
+   Contents and begin to diagnose the symptom.
+  All component location views are in Section 8.0.            An electronic control module is used to monitor
+All connector pinouts are in Section 9.0. All sche-        wheel speeds and to modulate (control) hydraulic
+matics are in Section 10.0.                                pressure in each brake channel to prevent wheel
+  An asterisk (*) placed before the symptom de-            lock-up during braking.
+scription indicates a customer complaint.                     During a non-ABS stop, the system functions as a
+  When repairs are required, refer to the appropri-        standard front/rear split configuration. The pri-
+ate service manual for the proper removal and              mary hydraulic system supplies brake fluid pres-
+repair procedure.Diagnostic procedures change every        sure to the front brakes, and the secondary hydrau-
+year. New diagnostic systems may be added; carryover       lic system supplies the rear brakes. A conventional
+systems may be enhanced. READ THIS MANUAL                  combination/proportioning valve is used.
+BEFORE TRYING TO DIAGNOSE A VEHICLE DI-                       During an ABS stop, the system still uses the
+AGNOSTIC TROUBLE CODE. It is recommended                   front/rear hydraulic split; however, the brakes sys-
+that you review the entire manual to become familiar       tem pressure is further split into three control
+with all new and changed diagnostic procedures.            channels. During ABS operation, the front wheels
+  After using this book, if you have any comments          are controlled independently and are on two sepa-
+or recommendations, please fill out the form at the        rate control channels. The rear wheels are con-
+back of the book and mail it back to us.                   trolled together through one control channel. By
+                                                           using a separate control channel for each front
+1.1   SYSTEM COVERAGE                                      wheel, more steering control is maintained during
+                                                           maximum braking.
+  This diagnostic manual covers the Teves Mark                During an antilock stop, ‘‘wheel lock-up’’ does not
+20i Antilock Braking System (ABS) found on the             necessarily mean that the wheel has locked, it
+2005 Jeep Wrangler. Diagnosis of the Axle Lock is          means only that the wheel is turning slower than
+covered in this manual.                                    the vehicle speed. This is called ‘‘wheel slip’’ and is
+                                                           indicated as a percentage. 0% slip means that the
+1.2   SIX-STEP TROUBLESHOOTING                             wheel is rolling free and 100% slip means that the
+      PROCEDURE                                            wheel is locked. The antilock system maintains an
+                                                           average of approximately 20% wheel slip.
+  Diagnosis of the antilock brake system is done in           It is important to remember that the antilock
+six basic steps:                                           brake system does not shorten the vehicle stopping
+• verification of complaint                                distance under all driving conditions, but provides
+                                                           improved control of the vehicle while stopping.
+• verification of any related symptoms
+                                                           Vehicle stopping distance is still dependent on ve-
+• symptom analysis                                         hicle speed, weight, tires, road surface, and other
+• problem isolation                                        factors.
+
+                                                       1
+

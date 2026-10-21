@@ -1,0 +1,60 @@
+    CONNECTOR PINOUTS
+
+
+
+
+                              FRONT LOCKER INDICATOR SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+                        CAV             CIRCUIT                                  FUNCTION
+                         1    Z1 16BK                   GROUND
+                         2    G300 16VT/WT              FRONT LOCKER INDICATOR SWITCH SENSE
+
+
+
+
+                                  FRONT LOCKER PUMP (OFF-ROAD PACKAGE) - LT GRAY 3 WAY
+                        CAV             CIRCUIT                                  FUNCTION
+                         1    Z1 18BK                   GROUND
+                         2                   -                                       -
+C
+                         3    A750 18TN/RD              FRONT LOCKER RELAY OUTPUT
+O
+N
+N
+E
+C
+T
+O
+R                                                      G-SWITCH (LHD) - 3 WAY
+                        CAV             CIRCUIT                                  FUNCTION
+P                        1    B42 20TN/WT               G-SWITCH NO. 2 SENSE
+I                        2    B41 20YL/VT               G-SWITCH NO. 1 SENSE
+N                        3    B43 20PK/OR               G-SWITCH TEST SIGNAL
+O
+U
+T
+S                                                 INSTRUMENT CLUSTER C1 - 12 WAY
+                        CAV             CIRCUIT                                  FUNCTION
+                         1    L61 18GY                  LEFT TURN SIGNAL
+                         2    L60 18TN                  RIGHT TURN SIGNAL
+                         3    G34 16RD/GY (LHD)         HIGH BEAM INDICATOR DRIVER
+                         3    L3 16RD/OR (RHD)          HIGH BEAM INDICATOR DRIVER
+                         4    L39 16LB (EXCEPT EX-      FOG LAMP FEED
+                              PORT)
+                         4    L38 16BR/WT (EXPORT)      REAR FOG LAMP FEED
+                         5    L7 18BK/YL                HEADLAMP SWITCH OUTPUT
+                         6    G305 20VT/LG (OFF-ROAD    REAR LOCKER REQUEST
+                              PACKAGE)
+                         7    G301 20VT/LB (OFF-ROAD    REAR LOCKER INDICATOR SWITCH SENSE
+                              PACKAGE)
+                         8    Z2 18BK/LG                GROUND
+                         9    G303 20VT/DG (OFF-ROAD    LOCKER ENABLE SIGNAL 2
+                              PACKAGE)
+                        10    D23 20WT/BR                                            -
+                        11    G5 20DB/WT                FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                        12    M1 20PK/WT                FUSED B(+)
+
+
+
+
+                                        56
+

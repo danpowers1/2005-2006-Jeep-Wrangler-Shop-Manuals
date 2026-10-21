@@ -1,0 +1,23 @@
+BRAKES (CAB)
+
+*REAR AXLE LOCK INDICATOR REMAINS FLASHING — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  9     Turn the ignition off.                                                                   All
+        Disconnect the Rear Locker Indicator Switch harness connector.
+        Measure the resistance between ground and the Rear Locker Indicator Switch
+        Ground circuit.
+        Is the resistance above 5.0 ohms?
+                Yes   → Repair the Rear Locker Indicator Switch Ground circuit for an
+                        open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Refer to Differential/Driveline information for the related symp-
+                        tom(s).
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    44
+

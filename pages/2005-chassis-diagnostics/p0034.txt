@@ -1,0 +1,49 @@
+BRAKES (CAB)
+
+SYSTEM OVER VOLTAGE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  3     Turn the ignition off.                                                                        All
+        Disconnect the CAB connector.
+        Note: Check connector - Clean/repair as necessary.
+        Start the engine.
+        Raise engine RPM’s above 1,800.
+        Measure the battery voltage.
+        Is the voltage above 16.5 volts ?
+
+                 Yes   → Refer to appropriate service information for charging system
+                         testing and repair.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Go To     4
+
+  4     Turn the ignition off.                                                                        All
+        Disconnect the CAB connector.
+        Note: Check connector - Clean/repair as necessary.
+        Measure the resistance of the ground circuits.
+        Is the resistance below 1.0 ohm?
+                 Yes   → Go To     5
+
+                 No    → Repair the Ground circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  5     If there are no potential causes remaining, view repair.                                      All
+                 Repair
+                           Replace the Controller Antilock Brake.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+  6     Turn the ignition off.                                                                        All
+        Visually inspect the related wiring harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Refer to any Hotline letters or Technical Service Bulletins that may apply.
+        Were any problems found?
+                 Yes   → Repair as necessary.
+                         Perform ABS VERIFICATION TEST - VER 1.
+                 No    → Test Complete.
+
+
+
+
+                                                       30
+

@@ -1,0 +1,37 @@
+BRAKES (CAB)
+
+*REAR AXLE LOCK INOPERATIVE — Continued
+
+ TEST                                          ACTION                                          APPLICABILITY
+  4     Inspect Fuse 26 in the PDC.                                                                 All
+        Is the Fuse open, missing, or loose?
+                 Yes   → Replace the open or missing fuse. If the fuse is open make sure to
+                         check for a short to ground in the Fused B(+) circuit from the fuse
+                         to the switch.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Go To     5
+
+  5     Turn on the Park lamps.                                                                     All
+        Observe the Axle Lock Switch.
+        Does the Axle Lock Switch illuminate?
+
+                 Yes   → Go To     6
+
+                 No    → Repair the Axle Lock Switch Ground circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+  6     Disconnect the Axle Lock Switch connector.                                                  All
+        Measure the voltage of the Fused B(+) circuit in the Axle Lock Switch connector.
+        Is the voltage above 10 volts?
+
+                 Yes   → Replace the Axle Lock Switch in accordance with the Service
+                         Information.
+                         Perform BODY VERIFICATION TEST - VER 1.
+                 No    → Repair the Fused B(+) circuit for an open.
+                         Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                      46
+

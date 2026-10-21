@@ -1,0 +1,63 @@
+                                                                                      BRAKES (CAB)
+
+*FRONT AXLE LOCK INDICATOR REMAINS FLASHING — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  4     Measure the resistance of the Front Locker Relay Output circuit between the PDC          All
+        connector and the Front Locker Pump connector.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Front Locker Relay Output circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    5
+
+  5     Turn the ignition off.                                                                   All
+        Disconnect the Front Locker Pump harness connector.
+        Measure the resistance between ground and the Front Locker Pump Ground circuit.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Front Locker Pump Ground circuit for an open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To    6
+
+  6     Turn the ignition on.                                                                    All
+        Ensure Transfer Case is in 4 9LOW9 range.
+        Depress the Axle Lock Switch once.
+        Did the Front Locker Pump operate?
+                Yes   → Go To     7
+                No    → Refer to Differential/Driveline for the related symptom(s).
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  7     Turn the ignition off.                                                                   All
+        Disconnect the Instrument Cluster C2 harness connector.
+        Disconnect the Front Locker Indicator Switch harness connector.
+        Measure the resistance of the Front Locker Indicator Switch Sense circuit between
+        the Instrument Cluster C2 connector and the Front Locker Indicator Switch
+        connector.
+        Is the resistance above 5.0 ohms?
+                Yes   → Repair the Front Locker Indicator Switch Sense circuit for an
+                        open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To    8
+
+  8     Turn the ignition off.                                                                   All
+        Disconnect the Front Locker Indicator Switch harness connector.
+        Measure the resistance between ground and the Front Locker Indicator Switch
+        Ground circuit.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the Front Locker Indicator Switch Ground circuit for an
+                        open.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Refer to Differential/Driveline information for the related symp-
+                        tom(s).
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+
+
+
+                                                    39
+

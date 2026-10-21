@@ -1,0 +1,62 @@
+                                                                                         BRAKES (CAB)
+
+LEFT FRONT SENSOR CIRCUIT FAILURE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  5     Turn the ignition off.                                                                        All
+        Disconnect the affected Wheel Speed Sensor Connector.
+        Disconnect the CAB Connector.
+        Measure the resistance between the Wheel Speed Sensor (+) and (-) circuits and
+        ground.
+        Is the resistance below 15,000 ohms for either circuit?
+                 Yes   → Repair the Wheel Speed Sensor circuit short to ground.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To     6
+
+  6     Turn the ignition off.                                                                        All
+        Disconnect the CAB Connector.
+        Disconnect the affected Wheel Speed Sensor harness connector.
+        Measure the resistance through the Wheel Speed Sensor (+) and (-) circuits at the
+        CAB harness connector.
+        Is the resistance below 200 ohms?
+                 Yes   → Repair the Wheel Speed Sensor circuits shorted together.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To     7
+
+  7     Turn the ignition off.                                                                        All
+        Disconnect the affected Wheel Speed Sensor Connector.
+        Note: Check connector - Clean/repair as necessary.
+        Disconnect the CAB Connector.
+        Note: Check connector - Clean/repair as necessary.
+        Measure the resistance of the Wheel Speed Sensor (+) and (-) circuits.
+        Is the resistance below 5 ohms for both circuits?
+
+                 Yes   → Go To     8
+                 No    → Repair the Wheel Speed Sensor (+) or (-) circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  8     If there are no possible causes remaining, view repair.                                       All
+                 Repair
+                           Replace the Controller Antilock Brake in accordance with the
+                           Service Information.
+                           Perform ABS VERIFICATION TEST - VER 1.
+
+  9     Turn the ignition off.                                                                        All
+        Visually inspect the related wiring harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Visually inspect the related wire harness component and in-line connectors. Look for
+        broken, bent, pushed out, or corroded terminals.
+        Refer to any Hotline letters or Technical Service Bulletins that may apply.
+        Were any problems found?
+                 Yes   → Repair as necessary.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                       21
+

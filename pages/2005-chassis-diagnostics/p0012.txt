@@ -1,0 +1,30 @@
+GENERAL INFORMATION
+6.0   GLOSSARY OF TERMS                      JBLK   junction block
+                                             JTEC   Jeep and Truck Engine Controller
+ABS       antilock brake system
+                                             LF     left front
+AC        alternating current
+                                             LR     left rear
+BCM       Body Control Module
+                                             PCM    Powertrain Control Module
+CAB       controller antilock brake
+                                             PDC    power distribution center
+CCD       Chrysler Collision Detection
+                                             P/M    pump motor
+DC        direct current
+                                             RF     right front
+DLC       data link connector
+                                             RR     right rear
+DRBIIIt   diagnostic read-out box
+                                             SCI    Serial Communication Interface
+DTC       diagnostic trouble code
+                                             SOL    Solenoid
+HCU       hydraulic control unit
+                                             WSS    wheel speed sensor
+HZ        Hertz
+
+
+
+
+                                         8
+

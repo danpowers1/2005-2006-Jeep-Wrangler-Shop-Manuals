@@ -1,0 +1,42 @@
+BRAKES (CAB)
+
+*ABS WARNING INDICATOR INOPERATIVE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  5     Remove the ABS relay.                                                                         All
+        Disconnect the CAB harness connector.
+        Using a 12-volt test light connected to 12-volts, check the ABS Relay Control circuit.
+        Does the test light illuminate?
+
+                 Yes   → Repair the ABS Relay Control circuit for a short to ground.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Replace the Controller Antilock Brake.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+  6     Install a substitute bulb in place of the ABS Indicator bulb.                                 All
+        Perform the key-on bulb check.
+        Does the ABS bulb illuminate?
+
+                 Yes   → Replace the ABS indicator bulb.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Go To     7
+
+  7     Disconnect the Instrument Cluster C2 harness connector.                                       All
+        Remove the ABS relay from the PDC.
+        Measure the resistance of the ABS Indicator driver circuit.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Replace the Instrument Cluster in accordance with the Service
+                         Information..
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+                 No    → Repair the ABS Indicator Driver circuit for an open.
+                         Perform ABS VERIFICATION TEST - VER 1.
+
+
+
+
+                                                       36
+

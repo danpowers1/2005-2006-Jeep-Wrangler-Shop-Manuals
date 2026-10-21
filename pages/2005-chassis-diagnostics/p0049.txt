@@ -1,0 +1,58 @@
+                                                                                    BRAKES (CAB)
+
+Symptom:
+    *REAR AXLE LOCK INOPERATIVE
+
+
+
+
+                                          POSSIBLE CAUSES
+CHECKING OPERATION
+INSTRUMENT CLUSTER NOT PROPERLY CONFIGURED
+VSS, PCM, OR TRANSFER CASE DTC’S PRESENT
+OPEN FUSE IN PDC
+AXLE LOCK SWITCH GROUND CIRCUIT OPEN
+FUSED B(+) CIRCUIT OPEN TO AXLE LOCK SWITCH
+AXLE LOCK SWITCH FAILURE
+
+ TEST                                      ACTION                                           APPLICABILITY
+  1     Turn the ignition on.                                                                    All
+        Ensure Transfer Case is in 4 9LOW9 range.
+        Vehicle speed is less than 16 km/h (10 mph).
+        Depress the Axle Lock Switch once.
+        Does the Axle Lock Switch indicator illuminate?
+                Yes   → The condition is not present at this time. Monitor DRBIIIt
+                        parameters while wiggling the related wiring harness. Refer to
+                        any Technical Service Bulletins(TSB) that may apply. Visually
+                        inspect the related wiring harness and connector terminals.
+                        Perform BODY VERIFICATION TEST - VER 1.
+                No    → Go To     2
+
+  2     Turn the ignition on.                                                                    All
+        With the DRBIIIt, ensure the Instrument Cluster is correctly configured for Tire
+        size, Axle type, and Transfer Case.
+        Is the vehicle Instrument Cluster configured correctly?
+                Yes   → Go To     3
+
+                No    → Refer to Body for the related symptom(s).
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+  3     Turn the ignition on.                                                                    All
+        With the DRBIIIt, ensure there are no VSS, PCM, or Transfer Case DTC’s present.
+        NOTE: When ALL conditions are met the Instrument Cluster Enable 1 State
+        must indicate - LOW.
+        Vehicle must indicate the transfer case is in 4 9LOW9 range, the ignition ON, and
+        vehicle speed is less than 16 km/h (10 mph).
+        Are any VSS, PCM, or Transfer Case DTC’s present?
+
+                Yes   → Refer to the appropriate service information for the related
+                        DTC’s.
+                        Perform BODY VERIFICATION TEST - VER 1.
+
+                No    → Go To     4
+
+
+
+
+                                                    45
+
