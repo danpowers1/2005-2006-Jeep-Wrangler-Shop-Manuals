@@ -4,9 +4,9 @@ Map of every manual in this repository: what's in it and on which PDF page.
 
 ## How to use
 
-1. Find the topic: `grep -i "crankshaft oil seal" index/pages.tsv` (columns: file, PDF page, printed page, running header, section path, figure captions).
+1. Find the topic: `grep -i "crankshaft oil seal" index/pages.tsv` (columns: file, PDF page, printed page, running header, section path, figure captions, page_pdf).
 2. Or browse a manual's outline and figure list in `index/<manual>.md`.
-3. Show the page: `pdftoppm -f N -l N -r 150 -png "<file>" out` (N = PDF page).
+3. Show the page: `tools/page.sh <page_pdf>` fetches just that page (~30 KB) and renders a PNG. Every page is stored on its own as `pages/<manual>/pNNNN.pdf` + `.txt` (NNNN = PDF page), so you never need to download a whole manual. See README.md for the fast clone.
 
 Use the 2006 manuals by default; check the 2005 manuals to cross-check.
 The service manuals cover both the 2.4L and the 4.0L engine; check the running header (e.g. `ENGINE 4.0L`) before using a spec.
