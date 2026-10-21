@@ -1,0 +1,74 @@
+                                                  Plumbing, HVAC 4.0L Engine, RHD
+                                                            Figure 24-260
+                                                                                                            PART
+                                                                                       ITEM                               QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                           NUMBER
+
+Plumbing, HVAC 4.0L Engine, RHD                                   PLUMBING, HVAC 4.0L ENGINE, RHD
+
+
+
+
+                                                                  Sale Codes:
+                                                                  [ER0] = 4.0L Gas Engine
+                                                                                                    1    55037599AE         1                                             ER0                          LINE, A/C Discharge, Contains
+                                                                                                                                                                                                       Items 2 to 7
+                                                                                                    2    04897617AA         1                                             ER0                          SWITCH, A/C High Pressure Cut
+                                                                                                                                                                                                       Off
+                                                                                                    -3   05183358AA         1                                             ER0                          O RING, A/C Line, Used at Switch
+                                                                                                    -4   05139487AA         2                                             ER0                          O RING, A/C Line, Condenser End
+                                                                                                                                                                                                       And Compressor End
+                                                                                                    -5   05264642           1                                             ER0                          CAP, A/C Check Valve
+                                                                                                    -6   05264638           2                                             ER0                          VALVE, Charging, Service Port and
+                                                                                                                                                                                                       Switch Port
+                                                                                                    -7   05174115AA         1                                             ER0                          SEAL, Compressor End
+                                                                                                    8    56021384           2          U                     77                                        CLIP
+                                                                                                    9    55037582AE         1          U                     77           ER0                          TUBE, A/C Liquid Line, Contains
+                                                                                                                                                                                                       Items 10 to 13
+                                                                                             -10         04882335           1          U                     77           ER0                          CAP, A/C Check Valve
+                                                                                             -11         05101886AA         1          U                     77           ER0                          ORIFICE, Liquid Line
+                                                                                             -12         05139486AA         1          U                     77           ER0                          O RING, A/C Line, Compressor
+                                                                                                                                                                                                       End
+                                                                                             -13         05101791AA         1          U                     77           ER0                          VALVE, Charging
+                                                                                                14       04596152           1          U                     77                                        CLIP, A/C Quick Disconnect
+                                                                                                15       55036304           1          U                     77                                        BRACKET, Accumulator
+                                                                                                16       55037696AA         1                                                                          BAND, Accumulator Retaining
+                                                                                             -17         06101442           1                                                                          U-NUT, M6 x 1.00, M6x1.00
+                                                                                                18       04596153           1                                                                          CLIP, A/C Quick Disconnect
+                                                                                                19       55037601AB         1          U                     77           ER0                          LINE, A/C Suction, Contains Items
+                                                                                                                                                                                                       20 to 24
+                                                                                             -20         05096126AB         1          U                     77           ER0                          SWITCH KIT, A/C - Pressure,
+                                                                                                                                                                                                       Includes O-ring Item 21
+                                                                                             -21         05012348AA         1          U                     77           ER0                          O RING, A/C Suction Line, Used
+                                                                                                                                                                                                       at Switch
+                                                                                             -22         05264638           1          U                     77           ER0                          VALVE, Charging
+                                                                                             -23         05139486AA         1          U                     77           ER0                          O RING, A/C Line, Accumulator
+                                                                                                                                                                                                       End
+                                                                                             -24         05183718AA         1          U                     77           ER0                          GASKET & O RING KIT, A/C Line,
+                                                                                                                                                                                                       Includes 2 O-rings and 1 Gasket,
+                                                                                                                                                                                                       Compressor End
+                                                                                                25       55037619AF         1          U                     77           ER0                          CONDENSER, Air Conditioning
+
+
+
+
+                                                                  WRANGLER (TJ)
+                                                                  SERIES        LINE                                                              BODY                     ENGINE                       TRANSMISSION
+                                                                  H = HIGHLINE  J = JEEP - 4WD                                                    77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                  L = LOWLINE   U = JEEP - 4WD (RHD)                                              78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                  M = MEDIUM                                                                                               ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                  P = PREMIUM                                                                                              Engine                       Transmission
+                                                                  S = SPORT                                                                                                                             DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                        DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                        Transmission
+                                                                                                                                                                                                        DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                        Transmission
+
+
+
+
+                                                                    AR = use ase required                             - = Non illustrrated part                                                                                  2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

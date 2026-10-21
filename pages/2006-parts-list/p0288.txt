@@ -1,0 +1,40 @@
+                              Geartrain
+                           Figure 241-410
+                                                 PART
+                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                NUMBER
+
+
+
+
+                                      27     04167924            2                                                                         NUT, Transfer Case Yoke
+                                      28     05080504AA          1                                                                         HUB, Synchronizer
+                                      29     05019020AB          1                                                                         SEAL, Input Gear
+                                      30     05093592AA          1                                                                         RETAINER
+                                      31     06501371           18                                                                         BOLT, Retainer
+                                      -32    04798130            1                                                                         SNAP RING
+                                      -33    05080504AA          1                                                                         HUB, Synchronizer
+
+
+
+
+                                  WRANGLER (TJ)
+                                  SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                  H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                  L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                  P = PREMIUM                                                                  Engine                       Transmission
+                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                            Transmission
+                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                            Transmission
+
+
+
+
+                                   AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

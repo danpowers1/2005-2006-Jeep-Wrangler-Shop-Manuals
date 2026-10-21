@@ -1,0 +1,69 @@
+                                                  Housing,Rear Axle,Dana 44/226MM [DRK]
+                                                               Figure 3-220
+                                                                                                                PART
+                                                                                         ITEM                               QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                                                                               NUMBER
+
+Housing,Rear Axle,Dana 44/226MM [DRK]                                HOUSING,REAR AXLE,DANA 44/226MM [DRK]
+
+
+
+
+                                                                     Note:Sales Codes;
+                                                                     [BGA]=Brakes - Power Front Disc/Rear Drum
+                                                                     [BGK]=Brakes - 4-Wheel Anti-Lock
+                                                                     [BRW]=Brakes - 4-Wheel Disc
+                                                                     [DME]=Axle Ratio - 3.73
+                                                                     [DMF]=Axle Ratio - 4.11
+                                                                     [DMM]=Axle Ratio - 3.07
+                                                                     [DRK]=Axle - Rear,Dana 44/226MM
+                                                                     [DSA]=Axle - Trac-Lok Differential
+                                                                     [DSE]=Axle - Trulok Differential
+                                                                                                       1                                                                                                STUD
+                                                                                                             05080665AA       8          U                     77
+                                                                                                                              8          J                     77
+                                                                                                                              8          J                     78
+                                                                                                       2                                                                                                BOLT, Differential
+                                                                                                             05003648AA       4          U                     77
+                                                                                                                              4          J                     77
+                                                                                                                              4          J                     78
+                                                                                                    -3       05161395AA       2          J                     78                                       WASHER, Differential Bolt
+                                                                                                       4                                                                                                HOUSING, Axle
+                                                                                                             05083672AB       1          J                     77                                         [DMF]
+                                                                                                             05086629AC       1          U                     77                                         [DME,DMM]
+                                                                                                             05086635AB       1          J                     77                                         [DME,DMM]
+                                                                                                             05127191AA       1          J                     78                                         [DME]
+                                                                                                             05161397AA       1          J                     78                                         [DMF]
+                                                                                                       5                                                                                                BEARING, Axle Shaft
+                                                                                                             83503064         1          U                     77
+                                                                                                                              1          J                     77
+                                                                                                                              1          J                     78
+                                                                                                       6                                                                                                SEAL, Axle Drive Shaft
+                                                                                                             83503063         1          U                     77
+                                                                                                                              1          J                     77
+                                                                                                                              1          J                     78
+                                                                                                       7                                                                                                COVER, Differential
+                                                                                                             05014821AA       1          J                     77                                         [BRW]
+
+
+
+                                                                     WRANGLER (TJ)
+                                                                     SERIES        LINE                                                             BODY                    ENGINE                       TRANSMISSION
+                                                                     H = HIGHLINE  J = JEEP - 4WD                                                   77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                     L = LOWLINE   U = JEEP - 4WD (RHD)                                             78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                     M = MEDIUM                                                                                             ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                     P = PREMIUM                                                                                            Engine                       Transmission
+                                                                     S = SPORT                                                                                                                           DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                         DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                         Transmission
+                                                                                                                                                                                                         DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                         Transmission
+
+
+
+
+                                                                       AR = use ase required                            - = Non illustrrated part                                                                                   2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

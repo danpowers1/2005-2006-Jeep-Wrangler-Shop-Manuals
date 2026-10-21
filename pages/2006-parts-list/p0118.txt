@@ -1,0 +1,47 @@
+                                                    Alternator 4.0L Engine
+                                                         Figure 8-210
+                                                                                               PART
+                                                                                    ITEM                   QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                              NUMBER
+
+Alternator 4.0L Engine                                         ALTERNATOR 4.0L ENGINE
+
+
+
+
+                                                               Notes:
+                                                               [ER0]=4.0L Engine
+                                                                                        1   56041864AB       1                                             ER0                          ALTERNATOR
+                                                                                        2   06505488AA       1                                             ER0                          SCREW AND WASHER, Hex
+                                                                                        3   06504344         1                                       ED0, ER0                           SCREW AND WASHER, Hex Head
+                                                                                        4   04854026         1                                             ER0                          BRACKET, Alternator
+                                                                                        5   00154854AA       4                                             ER0                          SCREW AND WASHER, Hex
+                                                                                        6   04854089AB       1                                             ER0                          TENSIONER, Alternator Belt
+                                                                                        7   04854092         1                                             ER0                          PULLEY, Idler
+                                                                                        8                                                                                               BELT, Accessory Drive
+                                                                                            04854033AB       1                                             ER0                            With Air Conditioning
+                                                                                            53013209AC       1                                             ER0                            Without Air Conditioning
+
+
+
+
+                                                               WRANGLER (TJ)
+                                                               SERIES        LINE                                                  BODY                     ENGINE                       TRANSMISSION
+                                                               H = HIGHLINE  J = JEEP - 4WD                                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                               L = LOWLINE   U = JEEP - 4WD (RHD)                                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                               M = MEDIUM                                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                               P = PREMIUM                                                                                  Engine                       Transmission
+                                                               S = SPORT                                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                         DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                         Transmission
+                                                                                                                                                                                         DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                         Transmission
+
+
+
+
+                                                                  AR = use ase required                - = Non illustrrated part                                                                                     2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

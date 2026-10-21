@@ -1,0 +1,64 @@
+                           Brakes,Rear,Drum
+                             Figure 5-220
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                              02944586            1          J                     77
+                                                                  1          U                     77
+                                       16                                                                                                   GUIDE, Brake Adjusting Cable
+                                              04313074            1          J                     77
+                                                                  1          U                     77
+                                       17                                                                                                   PLATE, Brake Shoe Guide
+                                              04313075            1          J                     77
+                                                                  1          U                     77
+                                       18                                                                                                   SPRING, Brake Shoe Return
+                                              02881676            2          U                     77
+                                                                  2          J                     77
+                                       19                                                                                                   CAP, Bleeder
+                                              04238717            2          U                     77
+                                                                  1          U                     77
+                                       20                                                                                                   BLEEDER SCREW, Brake
+                                              03766674            1          U                     77
+                                                                  1          J                     77
+                                       21                         1                                                                         LINK, Brake, (NOT SERVICED)
+                                       22                                                                                                   CYLINDER, Wheel
+                                              04313056            1          U                     77
+                                              V2103056aa                                                                                      Mopar V-Line Alternative Part
+                                                                                                                                              Wheel Cylinder
+                                                                  1          J                     77
+                                              V2103056aa                                                                                      Mopar V-Line Alternative Part
+                                                                                                                                              Wheel Cylinder
+                                       23                                                                                                   LEVER, Park Brake Adjusting
+                                              04761759            1          J                     77
+                                                                  1          U                     77
+                                       24                                                                                                   SPRING, Adjuster Cable
+                                              03461660            1          J                     77
+                                                                  1          U                     77
+                                       25                                                                                                   CABLE, Brake Automatic Adjuster
+                                              03461662            1          J                     77
+
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                  Engine                       Transmission
+                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                             Transmission
+                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                             Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

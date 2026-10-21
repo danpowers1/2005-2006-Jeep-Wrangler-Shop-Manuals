@@ -1,0 +1,63 @@
+                           Plumbing, HVAC 4.0L Engine, LHD
+                                     Figure 24-250
+                                                         PART
+                                             ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                        NUMBER
+
+
+
+                                                     55037555AC          1
+                                                     55037689AA          1                                                                            [ABD], Middle East Equipment
+                                                     55037690AA          1                                                                            [XLR], French/Canada
+                                              27     55037600AD          1          J                                  ER0                          ACCUMULATOR, Suction Line,
+                                                                                                                                                    Complete With Suction Line,
+                                                                                                                                                    Contains Items 31 to 38
+                                              -28    05183717AA          1          J                                  ER0                          LINE, A/C Suction
+                                              -29    05189276AA          1          J                                  ER0                          ACCUMULATOR, Suction Line,
+                                                                                                                                                    Includes Items 33 to 35
+                                              -30    05264638            1          J                                  ER0                          VALVE, Charging
+                                              -31    05096126AB          1          J                                  ER0                          SWITCH KIT, A/C - Pressure
+                                              -32    05012348AA          1          J                                  ER0                          O RING, A/C Suction Line, Used
+                                                                                                                                                    at Switch
+                                              -33    05183716AA          1          J                                  ER0                          O RING KIT, Quick Connect,
+                                                                                                                                                    Includes 2 O-rings and 1 Spring,
+                                                                                                                                                    Evaporator End
+                                              -34    05072140AA          1          J                                  ER0                          SEAL, A/C Line, Suction Jumper
+                                                                                                                                                    Line to Accumulator
+                                              -35    05139486AA          1          J                                  ER0                          O RING, A/C Line, Suction Jumper
+                                                                                                                                                    Line to Accumulator
+                                              36     55037602AE          1          J                                  ER0                          LINE, A/C Suction, Contains Items
+                                                                                                                                                    37 to 40
+                                              37     05096126AB          1          J                                  ER0                          SWITCH KIT, A/C - Pressure,
+                                                                                                                                                    Includes O-ring item # 38
+                                              -38    05012348AA          1          J                                  ER0                          O RING, A/C Suction Line, Used
+                                                                                                                                                    at Switch
+                                              -39    05264638            1          J                                  ER0                          VALVE, Charging
+                                              -40    05183715AA          2          J                                  ER0                          GASKET, A/C Line, Includes
+                                                                                                                                                    2 O-rings and 1 Gasket For
+                                                                                                                                                    Compressor End, Accumulator And
+                                                                                                                                                    Compressor End
+
+
+
+
+                                           WRANGLER (TJ)
+                                           SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                           H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                           L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                           M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                           P = PREMIUM                                                                  Engine                       Transmission
+                                           S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                     Transmission
+                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                     Transmission
+
+
+
+
+                                           AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

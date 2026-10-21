@@ -1,0 +1,67 @@
+                           Clutch Input Shaft
+                           Figure 42RLE-430
+                                                   PART
+                                       ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                  NUMBER
+
+
+
+                                        23     05018923AA          1                                             ER0      DG6                 PLATE AND WASHER PACKAGE,
+                                                                                                                                              Thrust
+                                        24     04659993            1                                             ER0      DG6                 HUB AND SHAFT, Overdrive
+                                                                                                                                              Clutch
+                                        25                                                                                                    PLATE, Transmission O/Drive
+                                                                                                                                              Clutch
+                                               03836237AB         AR                                             ER0      DG6                   [1.70/1.77MM]
+                                               03836238AB         AR                                             ER0      DG6                   [1.92/1.99MM]
+                                               03836239AB         AR                                             ER0      DG6                   [2.14/2.21MM]
+                                               03836240AB         AR                                             ER0      DG6                   [2.36/2.43MM]
+                                               03836241AB         AR                                             ER0      DG6                   [2.58/2.65MM]
+                                               04431665AB         AR                                             ER0      DG6                   [1.59/1.66MM]
+                                               04431666AB         AR                                             ER0      DG6                   [1.81/1.88MM]
+                                               04431667AB         AR                                             ER0      DG6                   [2.03/2.10MM]
+                                               04431668AB         AR                                             ER0      DG6                   [2.25/2.32MM]
+                                               04431669AB         AR                                             ER0      DG6                   [2.47/2.54MM]
+                                               04446670AB         AR                                             ER0      DG6                   [2.69/2.76MM]
+                                               04446671AB         AR                                             ER0      DG6                   [2.91/2.98MM]
+                                        26     04659980            1                                             ER0      DG6                 SNAP RING, Underdrive Clutch,
+                                                                                                                                              Flat
+                                        27     04531678            4                                             ER0      DG6                 DISC, Clutch
+                                        28     04659053            4                                             ER0      DG6                 PLATE, Transmission O/Drive
+                                                                                                                                              Clutch
+                                        29     06501715            1                                             ER0      DG6                 SNAP RING
+                                        30     04431612            1                                             ER0      DG6                 RETAINER AND SEAL,
+                                                                                                                                              Transmission U/Drive Spring
+                                        31     04377177            1                                             ER0      DG6                 SPRING, Drive Lower Case
+                                        32     05103073AA          1                                             ER0      DG6                 GASKET PACKAGE, Transmission
+                                        33     04431610            1                                             ER0      DG6                 PISTON, Underdrive
+                                        34     04412395            1                                             ER0      DG6                 SNAP RING
+                                        35     04659871            1                                             ER0      DG6                 SEAL, Piston Outer, 140mm OD
+                                        36     04659935            1                                             ER0      DG6                 RETAINER, Transmission Input
+                                                                                                                                              Clutch
+                                        37     04446543            3                                             ER0      DG6                 SEAL, Input Shaft
+                                        38     04412209            1                                             ER0      DG6                 THRUST BEARING
+
+
+
+
+                                    WRANGLER (TJ)
+                                    SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                    H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                    L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                    M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                    P = PREMIUM                                                                   Engine                       Transmission
+                                    S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                               DEH = 6-Speed Manual NSG370
+                                                                                                                                               Transmission
+                                                                                                                                               DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                               Transmission
+
+
+
+
+                                     AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

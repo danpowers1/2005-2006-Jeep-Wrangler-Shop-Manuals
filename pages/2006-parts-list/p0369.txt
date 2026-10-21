@@ -1,0 +1,64 @@
+                             Seat Belts
+                           Figure ITJ-710
+                                                 PART
+                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                NUMBER
+
+
+
+                                                                 1          J                     77                              *Y5        [J3], Driver
+                                                                 1          J                     77                              *Y5        [DV], Driver
+                                             5HS501X9AE          1          J                     77                              *H6        [DV], Passenger
+                                                                 1          J                     77                              *H6        [J3], Passenger
+                                                                 1          U                     77                              *H6        [DV], Passenger
+                                                                 1          U                     77                              *H6        [J3], Passenger
+                                                                 1          J                     77                              *S5        [DV], Passenger
+                                                                 1          J                     78                              *S5        [DV], Passenger
+                                                                 1          J                     77                              *P5        [DV], Passenger
+                                                                 1          U                     77                              *P5        [DV], Passenger
+                                                                 1          U                     77                              *G5        [DV], Passenger
+                                                                 1          U                     77                              *G5        [J3], Passenger
+                                                                 1          J                     77                              *G5        [DV], Passenger
+                                                                 1          J                     77                              *G5        [J3], Passenger
+                                                                 1          U                     77                              *P5        [J3], Passenger
+                                                                 1          J                     77                              *P5        [J3], Passenger
+                                                                 1          U                     77                              *Y5        [DV], Passenger
+                                                                 1          U                     77                              *Y5        [J3], Passenger
+                                                                 1          J                     77                              *Y5        [DV], Passenger
+                                                                 1          U                     77                              *S5        [DV], Passenger
+                                                                 1          J                     77                              *Y5        [J3], Passenger
+                                       6                                                                                                   BOLT, Seat Belt, Front Traveling
+                                                                                                                                           Inboard Buckle Mounting
+                                             05093709AA          2          J                     77                              *H6
+                                                                 2          J                   77, 78                            *P5
+                                                                 2          U                     77                              *H6
+                                                                 2          J                     77                              *S5
+                                                                 2          U                     77                              *S5
+                                                                 2          U                     77                              *P5
+                                                                 2          J                     77                              *Y5
+                                                                 2          U                     77                              *Y5
+                                                                 2          J                     78                              *S5
+
+
+
+
+                                  WRANGLER (TJ)
+                                  SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                  H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                  L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                  P = PREMIUM                                                                  Engine                       Transmission
+                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                            Transmission
+                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                            Transmission
+
+
+
+
+                                   AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

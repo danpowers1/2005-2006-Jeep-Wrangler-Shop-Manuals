@@ -1,0 +1,65 @@
+                           Instrument Panel
+                            Figure 08A-110
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                       14                                                                                                    BEZEL, Instrument Panel, Center
+                                              5HG72CD-            1        J, U                  61, 77, 78                                    [JBH]
+                                              KAA
+                                                                  1        J, U                  61, 77, 78                                    [JBD]
+                                              5HG72DX9AA          1        J, U                  61, 77, 78
+                                       -15                                                                                                   BUMPER, Center Bezel
+                                              04731028            3
+                                                                  3                                                                            [JBD]
+                                       16     55115652            1                                                                          MAT, Instrument Panel, Center
+                                                                                                                                             Tray Rubber Insert
+                                       17     04524342            2                                                                          CLIPSpeaker
+                                       18                                                                                                    COVER, Instrument Panel,
+                                                                                                                                             Steering Column Opening
+                                              0UA83XDVAA          1                                                                            [DV] With Headlamp Leveling
+                                              0UA83ZJ3AA          1                                                                            [J3] With Headlamp Leveling
+                                              5GV99XDVAA          1                                                                            [DV] Without Headlamp Leveling
+                                              5GV99ZJ3AA          1                                                                            [J3] Without Headlamp Leveling
+                                       19                                                                                                    GLOVE BOX, Instrument Panel
+                                              5DP56XDVAD          1                                                                            [DV]
+                                              5DP56ZJ3AD          1                                                                            [J3]
+                                       20                                                                                                    STRAP, Glove Box Door Stop
+                                              55037355            1          J
+                                                                  1          U                      77
+                                       21                                                                                                    LATCH, Glovebox
+                                              5EM28ZJ3            1                                                                            [J3]
+                                              5EM28XDV            1                                                                            [DV]
+                                       22     55037225            2                                                                          BUMPER, Glove Box Door
+                                       23                                                                                                    HANDLE, Grab, I/Panel
+                                              5DP52XDV            1          J                                                                 [DV]
+                                                                  1          U                      77                                         [DV]
+                                              5DP52ZJ3            1          J                                                                 [J3]
+                                                                  1          U                      77                                         [J3]
+                                       -24                                                                                                   HANDLE, Grab, Bezel Only
+
+
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                   Engine                       Transmission
+                                   S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                              Transmission
+                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                              Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

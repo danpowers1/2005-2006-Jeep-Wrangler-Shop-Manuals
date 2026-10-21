@@ -1,0 +1,69 @@
+                                            Main Shaft
+                                        Figure NSG370-420
+                                                                        PART
+                                                              ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                       NUMBER
+
+Main Shaft                                       MAIN SHAFT
+
+
+
+
+                                                 NOTE:
+                                                 Sales Codes:
+                                                 [DEH]=6 Speed Manual Transmission - [NSG370]
+                                                 [ED0]=All 2.4L In-Line 4 Cylinder Engines
+                                                 [ERO]= All 4.0 Si x Cylinder Gas Engines
+                                                               1                                                                                                 MAINSHAFT, Transmission
+                                                                     05159163AA       1                                             ER0      DEH
+                                                                                      1                                             ED0      DEH
+                                                               2     05096453AA       1                                             ER0      DEH                 BEARING
+                                                               3                                                                                                 GEAR, Second
+                                                                     05101448AA       1                                             ER0      DEH
+                                                                                      1                                             ED0      DEH
+                                                               4                                                                                                 SYNCHRONIZER, First and
+                                                                                                                                                                 Second
+                                                                     05137639AA       1                                             ED0      DEH
+                                                                                      1                                             ER0      DEH
+                                                               5                                                                                                 SYNCHRONIZER, Second Gear,
+                                                                                                                                                                 Part Used On 1st and 2nd Gear
+                                                                     05099259AA       1                                             ER0      DEH
+                                                                                      1                                             ED0      DEH
+                                                               6                                                                                                 SNAP RING
+                                                                     05098783AA       1                                             ER0      DEH                   [2.40MM]
+                                                                                      1                                             ED0      DEH                   [2.40MM]
+                                                                     05098785AA       1                                             ER0      DEH                   [2.50MM]
+                                                                                      1                                             ED0      DEH                   [2.50MM]
+                                                                     05098795AA       1                                             ER0      DEH                   [2.60MM]
+                                                                                      1                                             ED0      DEH                   [2.60MM]
+                                                                     05098797AA       1                                             ER0      DEH                   [2.70MM]
+                                                                                      1                                             ED0      DEH                   [2.70MM]
+                                                                     05098799AA       1                                             ER0      DEH                   [2.80MM]
+                                                                                      1                                             ED0      DEH                   [2.80MM]
+                                                               7                                                                                                 GEAR, First
+                                                                     05101449AA       1                                             ER0      DEH
+                                                                                      1                                             ED0      DEH
+
+
+
+
+                                                 WRANGLER (TJ)
+                                                 SERIES        LINE                                         BODY                     ENGINE                       TRANSMISSION
+                                                 H = HIGHLINE  J = JEEP - 4WD                               77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                 L = LOWLINE   U = JEEP - 4WD (RHD)                         78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                 M = MEDIUM                                                                          ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                 P = PREMIUM                                                                         Engine                       Transmission
+                                                 S = SPORT                                                                                                        DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                  DEH = 6-Speed Manual NSG370
+                                                                                                                                                                  Transmission
+                                                                                                                                                                  DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                  Transmission
+
+
+
+
+                                                   AR = use ase required        - = Non illustrrated part                                                                                  2006 TJ
+
+
+             << RETURN TO GROUP INDEX
+

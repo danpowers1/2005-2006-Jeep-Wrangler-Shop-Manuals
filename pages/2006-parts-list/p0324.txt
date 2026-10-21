@@ -1,0 +1,65 @@
+                                                   Ducts, Heater and A/C
+                                                       Figure 24-610
+                                                                            PART
+                                                                ITEM                      QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                 DESCRIPTION
+                                                                           NUMBER
+
+Ducts, Heater and A/C
+
+
+
+
+                                                                  1     04874089            1          U                      77                                       DUCT, Floor Distribution
+                                                                  2                                                                                                    DUCT, A/C Outlet
+                                                                        55037596AC          1          J
+                                                                        55037598AC          1          U                      77
+                                                                  3     06100839            2                                                                          NUT, Push, M5
+                                                                 -4                                                                                                    DUCT, Door Demister
+                                                                        55115576            1          J                                                                 Right
+                                                                                            1          U                      77                                         Right
+                                                                        55115577            1          J                                                                 Left
+                                                                                            1          U                      77                                         Left
+                                                                 -5                                                                                                    ADAPTER, Demister
+                                                                        55037640AA          1          J                                                                 Right
+                                                                                            1          U                      77                                         Right
+                                                                        55037641AA          1          J                                                                 Left
+                                                                                            1          U                      77                                         Left
+                                                                  6     55115161            1          J                                                               DUCT, Defroster, Demister
+                                                                  7     55036468            1          U                      77                                       DUCT, Demister, Demister
+                                                                  8                                                                                                    DUCT, Fresh Air
+                                                                        55037540AA          1          J
+                                                                        55037541AA          1          U                      77
+                                                                  9     55036467AB          1          U                      77                                       DUCT, Fresh Air Intake
+                                                                 -10                                                                                                   OUTLET, Air Conditioning & Heater
+                                                                        5DP54XDV            1          J                                                                 [DV], Right
+                                                                                            1          U                      77                                         [DV], Right
+                                                                        5DP54ZJ3            1          J                                                                 [J3], Right
+                                                                                            1          U                      77                                         [J3], Right
+                                                                        5DP55XDV            1          U                      77                                         [DV], Left
+                                                                                            1          J                   61, 77, 78                                    [DV], Left
+                                                                        5DP55ZJ3            1          J                                                                 [J3], Left
+                                                                                            1          U                      77                                         [J3], Left
+
+
+
+
+                                                              WRANGLER (TJ)
+                                                              SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                              H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                              L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                              M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                              P = PREMIUM                                                                  Engine                       Transmission
+                                                              S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                        DEH = 6-Speed Manual NSG370
+                                                                                                                                                                        Transmission
+                                                                                                                                                                        DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                        Transmission
+
+
+
+
+                                                              AR = use ase required   - = Non illustrrated part                                                                                    2006 TJ
+
+
+                        << RETURN TO GROUP INDEX
+

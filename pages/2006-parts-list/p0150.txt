@@ -1,0 +1,67 @@
+                                                      Wiring--Body & Accessory
+                                                            Figure 8-1505
+                                                                                 PART
+                                                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                NUMBER
+
+Wiring--Body & Accessory
+
+
+
+
+                                                                       1                                                                                                   WIRING, Body
+                                                                             56055129AA          1          J                     77                                        [VK0,BGK]
+                                                                             56055130AA          1          J                     77                                        [VK0,BGK.RCU]
+                                                                             56055127AA          1          J                     77                                        [VJ0,BGK]
+                                                                             56055128AA          1          J                     77                                        [VJ0,RCU,BGK]
+                                                                             56055142AA          1          J                     77                                        [VK0]
+                                                                             56055143AA          1          J                     77                                        [VK0,RCU]
+                                                                             56055131AA          1          J                     77                                        [VJ0], Export
+                                                                             56055132AA          1          J                     77                                        [VJ0,RCU], Export
+                                                                             56055133AA          1          J                     77                                        [VK0], Export
+                                                                             56055134AA          1          J                     77                                        [VK0,RCU], Export
+                                                                             56055135AA          1          U                     77                                        [VJ0], Export
+                                                                             56055136AA          1          U                     77                                        [VJ0,RCU], Export
+                                                                             56055137AA          1          U                     77                                        [VK0], Export
+                                                                             56055138AA          1          U                     77                                        [VK0,RCU], Export
+                                                                             56055139AA          1          U                     77                                        [AHF], Export
+                                                                             56055140AA          1          J                     77                                        [VJ0]
+                                                                             56055141AA          1          J                     77                                        [VJ0,RCU]
+                                                                             56055444AA          1          J                     78                                        [VK0,RCU]
+                                                                             56055144AB          1          J                     78                                        [VJ0,RSB]
+                                                                             56055145AB          1          J                     78                                        [VJ0,RSB,RCU]
+                                                                             56055146AB          1          J                     78                                        [VK0,RSB]
+                                                                             56055147AB          1          J                     78                                        [VK0,RSB,RCU]
+                                                                             56055347AA          1          J                     77                                        [VJ0,RSB]
+                                                                             56055348AA          1          J                     77                                        [VJ0,RCU,RSB]
+                                                                             56055349AA          1          J                     77                                        [VK0,RSB]
+                                                                             56055350AA          1          J                     77                                        [VK0,RCU,RSB]
+                                                                             56055441AA          1          J                     78                                        [VJ0]
+                                                                             56055442AA          1          J                     78                                        [VJ0,RCU]
+                                                                             56055443AA          1          J                     78                                        [VK0]
+                                                                       2     56009377AE          1                                77                                       WIRING, Hardtop
+                                                                       3     04362012            4                                                                         TERMINAL, CHMSL Contact
+                                                                                                                                                                           Button
+
+
+
+                                                                  WRANGLER (TJ)
+                                                                  SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                                  H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                  L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                  P = PREMIUM                                                                  Engine                       Transmission
+                                                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                                            Transmission
+                                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                            Transmission
+
+
+
+
+                                                                   AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+                           << RETURN TO GROUP INDEX
+

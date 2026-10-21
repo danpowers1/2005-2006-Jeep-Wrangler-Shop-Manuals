@@ -1,0 +1,67 @@
+                                          Pedal,Clutch
+                                          Figure 6-410
+                                                                         PART
+                                                               ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                        NUMBER
+
+Pedal,Clutch                                    PEDAL,CLUTCH
+
+
+
+
+                                                Note:Sales Codes
+                                                [DBB]=All Manual Transmissions
+                                                [DEH]=6-Speed Manual NSG370 Transmission
+                                                [ED0]=All 2.2,2.4,2.5, L 4 Cylinder Gas Engines
+                                                [ER0]=All 4.0L 6 Cylinder Engine
+                                                                1                                                                                                NUT
+                                                                      06502585         1          U                                          DBB                  Clutch and Brake Pedal Shaft,
+                                                                                                                                                                  Mounting
+                                                                                       1          J                                          DBB                  Clutch and Brake Pedal Shaft,
+                                                                                                                                                                  Mounting
+                                                                2                                                                                                BUSHING, Clutch and Brake Pedal
+                                                                      04294639         4          U                                          DBB                   Shaft, Mounting
+                                                                                       4          J                                          DBB                   Shaft, Mounting
+                                                                3                      4                                                                         SHAFT, Clutch and Brake Pedal
+                                                                                                                                                                 Pivot, Serviced in Brake and Clutch
+                                                                                                                                                                 Pedal, (NOT SERVICED),
+                                                                4     J4003909         4        J, U                                                             NUT, Hex Flange With Serration,
+                                                                                                                                                                 Brake Master Cylinder and Booster
+                                                                                                                                                                 to Dash, Mounting
+                                                                5     J4003909         2        J, U                                                             NUT, Hex Flange With Serration,
+                                                                                                                                                                 Brake Pedal Support Bracket Rear,
+                                                                                                                                                                 Mounting
+                                                                6                                                                                                PEDAL, Brake And Clutch
+                                                                      52128017AB       1          J                                          DBB                   Includes Brake Pedal
+                                                                      52128052AB       1          U                                          DBB                   Includes Brake Pedal
+                                                                7                                                                                                PAD, Pedal
+                                                                      52002750         2          J                                          DBB                   Brake or Clutch
+                                                                                       2          U                                          DBB                   Brake or Clutch
+                                                                8     J4003909         2        J, U                                                             NUT, Hex Flange With Serration,
+                                                                                                                                                                 Clutch Master Cylinder to Dash
+                                                                9     04446361         1        J, U                                                             BUSHING, Hydraulic Clutch
+                                                                                                                                                                 Actuator
+
+
+
+
+                                                WRANGLER (TJ)
+                                                SERIES        LINE                                           BODY                    ENGINE                       TRANSMISSION
+                                                H = HIGHLINE  J = JEEP - 4WD                                 77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                L = LOWLINE   U = JEEP - 4WD (RHD)                           78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                M = MEDIUM                                                                           ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                P = PREMIUM                                                                          Engine                       Transmission
+                                                S = SPORT                                                                                                         DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                  DEH = 6-Speed Manual NSG370
+                                                                                                                                                                  Transmission
+                                                                                                                                                                  DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                  Transmission
+
+
+
+
+                                                  AR = use ase required          - = Non illustrrated part                                                                                  2006 TJ
+
+
+               << RETURN TO GROUP INDEX
+

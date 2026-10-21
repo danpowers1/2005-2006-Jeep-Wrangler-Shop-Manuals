@@ -1,0 +1,63 @@
+                           Propshaft,Front and Rear
+                                Figure 16-110
+                                                      PART
+                                          ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                     NUMBER
+
+
+
+                                                                      2                                             ER0                            [DRJ], Front or Rear
+                                                                      2                                77           ED0                            [DRK], Front or Rear
+                                                  05015694AA          2                                             ED0      DBB                   [DRJ], Front or Rear
+                                                                      2          J                     78           ER0                            [DRK,DHN], Front or Rear
+                                           13                                                                                                    SHAFT, Drive, Rear 1-Piece
+                                                  52098784AC          1                                             ER0                            [DRJ]
+                                                                      1                                77           ED0                            [DRK]
+                                                  52098787AC          1                                77           ER0                            [DRK,DHN]
+                                                  52853160AA          1          J                     78           ER0                            [DRK,DHN]
+                                                  52853407AA          1                                             ED0      DBB                   [DRJ]
+                                           14                                                                                                    YOKE, Drive Shaft
+                                                  04882714            1                                             ED0      DBB                   [DRJ]
+                                                                      1          J                     78           ER0                            [DRK,DHN]
+                                                                      1                                77           ER0                            [DRK,DHN]
+                                                                      1                                             ER0                            [DRJ]
+                                                                      1                                77           ED0                            [DRK]
+                                           15                                                                                                    RING, U Joint
+                                                  J3207886            8                                             ED0      DBB                   [DRJ]
+                                                                      8          J                     78           ER0                            [DRK,DHN]
+                                                                      8                                77           ER0                            [DRK,DHN]
+                                                                      8                                             ER0                            [DRJ]
+                                                                      8                                77           ED0                            [DRK]
+                                           16     06036415AA          4                                                                          BOLTMounting
+                                           17                                                                                                    RING, U Joint
+                                                  J3207886           12                                             ER0                            [DHN]
+                                                                     12                                             ED0      DBB
+                                           18                                                                                                    U-JOINT
+                                                  05015694AA          3                                             ER0                            [DHN]
+                                                                      3                                             ED0      DBB
+                                           19                                                                                                    SHAFT, Drive, Front
+                                                  52098377AE          1                                             ER0                            [DHN]
+
+
+
+
+                                       WRANGLER (TJ)
+                                       SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                       H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                       L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                       M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                       P = PREMIUM                                                                   Engine                       Transmission
+                                       S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                  DEH = 6-Speed Manual NSG370
+                                                                                                                                                  Transmission
+                                                                                                                                                  DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                  Transmission
+
+
+
+
+                                        AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

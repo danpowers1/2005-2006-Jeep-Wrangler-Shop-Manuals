@@ -1,0 +1,63 @@
+                              Geartrain
+                           Figure 231-410
+                                                 PART
+                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                NUMBER
+
+
+
+                                             04269189            1                                                     DG0
+                                                                 1                                                     DEH
+                                      21                                                                                                   CHAIN, Transfer Case
+                                             04338935            1                                                     DG0
+                                                                 1                                                     DEH
+                                      22                                                                                                   OUTPUT SHAFT, Transfer Case
+                                             04338934            1                                                     DG0
+                                                                 1                                                     DEH
+                                      23                                                                                                   BEARING
+                                             04338892            1                                                     DG0
+                                                                 1                                                     DEH
+                                      24                                                                                                   SNAP RING, Bearing
+                                             04338894            1                                                     DG0
+                                                                 1                                                     DEH
+                                      25                                                                                                   SEAL
+                                             04798112            1                                                     DG0
+                                                                 1                                                     DEH
+                                      26                                                                                                   YOKE, Transfer Case Output
+                                             04798120            1                                                     DG0
+                                                                 1                                                     DEH
+                                      27                                                                                                   WASHER, Flat
+                                             04210983            2                                                     DG0
+                                                                 2                                                     DEH
+                                      28                                                                                                   NUT, Hex Flange
+                                             04446488            1                                                     DG0
+                                                                 1                                                     DEH
+                                      29                                                                                                   BOLT
+                                             06500318            1                                                     DEH
+                                                                 4                                                     DDD
+                                      30                                                                                                   BEARING, Input Gear
+                                             04746155            1                                                     DG0
+                                                                 1                                                     DEH
+
+
+
+                                  WRANGLER (TJ)
+                                  SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                  H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                  L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                  P = PREMIUM                                                                  Engine                       Transmission
+                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                            Transmission
+                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                            Transmission
+
+
+
+
+                                   AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

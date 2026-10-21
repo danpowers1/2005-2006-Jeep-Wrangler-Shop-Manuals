@@ -1,0 +1,67 @@
+                                                   Wiring--Headlamp / Dash Panel
+                                                            Figure 8-1305
+                                                                                PART
+                                                                    ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                               NUMBER
+
+Wiring--Headlamp / Dash Panel
+
+
+
+
+                                                                      1                                                                                                    WIRING, Headlamp to Dash
+                                                                            56051509AB          1          J                                  ER0      DG0                  [BGW,BRW], Export
+                                                                            56055306AB          1          J                                  ER0      DG0                  [BGW,BRW],
+                                                                            56055307AB          1          J                                  ER0      DBB                  [BGW,BRW]
+                                                                            56055308AB          1          J                                  ER0      DG0                  [NHM,BGA,BRW]
+                                                                            56055309AB          1          J                                  ER0      DBB                  [NHM,BGA,BRW]
+                                                                            56055310AB          1          J                   77, 78         ER0      DG0                  [BRW,DSE]
+                                                                            56055311AB          1          J                   77, 78         ER0      DBB                  [BRW,DSE]
+                                                                            56055312AB          1          J                                  ER0      DG0                  [BGK]
+                                                                            56055313AB          1          J                                  ER0      DBB                  [BGK]
+                                                                            56055314AB          1          J                                  ED0      DBB                  [BGA,HA0]
+                                                                            56055315AB          1          J                                  ED0      DBB                  [BGA,HC0]
+                                                                            56055316AB          1                                                      DG0                  [AHF]
+                                                                            56055318AB          1          J                                  ER0      DG0                  [BRW,LMK,DSE]
+                                                                            56055319AB          1          J                                  ER0      DBB                  [BRW,LMK,DSE]
+                                                                            56055320AB          1          J                                  ER0      DG0                  [LMK.BGA,BRW]
+                                                                            56055321AB          1          J                                  ER0      DBB                  [LMK.BGA,BRW]
+                                                                            56055322AB          1          J                                  ER0      DG0                  [LMK.BGK]
+                                                                            56055323AB          1          J                                  ER0      DBB                  [LMK.BGK]
+                                                                            56055324AB          1          J                                  ED0      DBB                  [LMK.BGA,HC0]
+                                                                            56055325AB          1          J                                  ER0      DG0                  [BGA,BRW], Export
+                                                                            56055326AB          1          J                                  ER0      DBB                  [BGA,BRW], Export
+                                                                            56055327AB          1          J                                  ER0      DG0                  [NHM,BGA,BRW], Export
+                                                                            56055328AB          1          J                                  ER0      DBB                  [NHM,BGA,BRW], Export
+                                                                            56055329AB          1          J                                  ER0      DG0                  [BGK], Export
+                                                                            56055330AB          1          J                                  ER0      DBB                  [BGK], Export
+                                                                            56055331AB          1          U                     77           ER0      DG0                  [BGA], Export
+                                                                            56055332AB          1          U                     77           ER0      DBB                  [BGA], Export
+                                                                            56055333AB          1          U                     77           ER0      DG0                  [BGK], Export
+                                                                            56055334AB          1          U                     77           ER0      DBB                  [BGK], Export
+                                                                            56055335AB          1          J                   77, 78         ED0      DBB                  [BGA,HA0], Export
+                                                                            56055336AB          1          J                   77, 78         ED0      DBB                  [BGA,HC0], Export
+
+
+
+
+                                                                  WRANGLER (TJ)
+                                                                  SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                                  H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                  L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                  P = PREMIUM                                                                  Engine                       Transmission
+                                                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                                            Transmission
+                                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                            Transmission
+
+
+
+
+                                                                  AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                        << RETURN TO GROUP INDEX
+

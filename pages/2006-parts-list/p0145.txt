@@ -1,0 +1,56 @@
+                                                    Wiring Engine [4.0L Engine]
+                                                           Figure 8-1210
+                                                                                PART
+                                                                    ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                               NUMBER
+
+Wiring Engine [4.0L Engine]
+
+
+
+
+                                                                      1                                                                                                    WIRING, Engine
+                                                                            56047537AC          1          J                     77           ER0      DBB                   [BGA,BRW]
+                                                                            56047538AD          1          J                     77           ER0      DG0                   [BGA,BRW]
+                                                                            56047541AC          1          U                     77           ER0      DBB                   [BGA,BRW]
+                                                                            56047542AD          1          U                     77           ER0      DG0                   [BGA,BRW]
+                                                                            56047545AC          1          J                     77           ER0      DBB                   [BGK]
+                                                                            56047546AD          1          J                     77           ER0      DG0                   [BGK]
+                                                                            56047553AC          1          J                     77           ER0      DBB                   [AWL]
+                                                                            56047554AD          1          J                     77           ER0      DG0                   [AWL]
+                                                                            56050560AD          1          U                     77           ER0      DG0                   [BGK]
+                                                                            56050561AC          1          U                     77           ER0      DBB                   [BGK]
+                                                                            56052317AC          1          J                     78           ER0      DG0                   [BGA,BRW]
+                                                                            56052319AC          1          J                     78           ER0      DBB                   [BGA,BRW]
+                                                                            56052632AB          1          J                     78           ER0      DG0                   [AWL]
+                                                                            56052633AB          1          J                     78           ER0      DBB                   [AWL]
+                                                                      2     52118181            1                                                      DEH                 CLIP, Transfer case wiring
+                                                                      3     05073039AA          3                                             ER0                          STRAP, Tie
+                                                                      4     55176744AD          1                                                                          BRACKET, Engine Wiring
+                                                                      5                                                                                                    CLIP, Housing
+                                                                            56041379AA          1                                             ER0      DBB                   Bell housing
+                                                                                                1          J                     77           ER0      DBB                   Bell housing
+
+
+
+
+                                                                  WRANGLER (TJ)
+                                                                  SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                                  H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                  L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                  P = PREMIUM                                                                  Engine                       Transmission
+                                                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                                            Transmission
+                                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                            Transmission
+
+
+
+
+                                                                  AR = use ase required   - = Non illustrrated part                                                                                     2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

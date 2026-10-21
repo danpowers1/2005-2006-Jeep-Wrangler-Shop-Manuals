@@ -1,0 +1,69 @@
+                                          Geartrain
+                                       Figure 231-410
+                                                                    PART
+                                                          ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                   NUMBER
+
+Geartrain                                     GEARTRAIN
+
+
+
+
+                                              NOTE:
+                                              Sales Code
+                                              [DEH]=6 Speed Manual Transmission - [NSG370]
+                                              [DG0]=All Automatic Transmissions
+                                              [ED0]=All 2.2,2.4,2.5,L 4 Cylinder Gas Engines
+                                              [ER0]=All 4.0L 6 Cylinder Gas Engines
+                                                           1                                                                                                MAINSHAFT, Transfer Case
+                                                                 05017631AA       1                                                     DG0                  With Tranfer Case #
+                                                                                                                                                             [52105886AC]
+                                                                 05086384AA       1                                                     DEH                  With Tranfer Case #
+                                                                                                                                                             [52105887AC]
+                                                           2                                                                                                SEAL, Input Gear
+                                                                 05019020AA       1                                                     DG0
+                                                                 05019020AB       1                                                     DEH
+                                                           3                                                                                                EXTENSION, Transfer Case
+                                                                 04338973         1                                                     DG0
+                                                                                  1                                                     DEH
+                                                           4                                                                                                SEAL, Main Shaft
+                                                                 04210603         1                                                     DG0
+                                                                                  1                                                     DEH
+                                                           5                                                                                                PUMP, Transfer Case Oil
+                                                                 04338936         1                                                     DG0
+                                                                                  1                                                     DEH
+                                                           6                                                                                                BEARING
+                                                                 04338892         1                                                     DG0
+                                                                                  1                                                     DEH
+                                                           7                                                                                                SNAP RING
+                                                                 J8134488         1                                                     DG0
+                                                                                  1                                                     DEH
+                                                           8                                                                                                BEARING, Input Shaft
+                                                                 83503507         1                                                     DG0
+                                                                                  1                                                     DEH
+                                                           9                                                                                                PLANETARY, Transfer Case
+                                                                 04796903AB       1                                                     DG0
+                                                                                  1                                                     DEH
+
+
+
+                                              WRANGLER (TJ)
+                                              SERIES        LINE                                        BODY                    ENGINE                       TRANSMISSION
+                                              H = HIGHLINE  J = JEEP - 4WD                              77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                              L = LOWLINE   U = JEEP - 4WD (RHD)                        78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                              M = MEDIUM                                                                        ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                              P = PREMIUM                                                                       Engine                       Transmission
+                                              S = SPORT                                                                                                      DDQ = 5-Speed Manual Transmission
+                                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                                             Transmission
+                                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                             Transmission
+
+
+
+
+                                                AR = use ase required       - = Non illustrrated part                                                                                 2006 TJ
+
+
+            << RETURN TO GROUP INDEX
+

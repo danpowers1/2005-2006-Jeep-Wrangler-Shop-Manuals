@@ -1,0 +1,49 @@
+                           Plumbing, HVAC 2.4L Engine
+                                  Figure 24-240
+                                                       PART
+                                           ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                      NUMBER
+
+
+
+                                            24     04596152            1                                                                          CLIP, A/C Quick Disconnect
+                                            25     04596153            1                                                                          CLIP, A/C Quick Disconnect
+                                            26     06035893            4                                                                          BOLT, Hex
+                                            27     J4003120            4                                                                          WELL NUT, .25-20x.63
+                                            28                                                                                                    SEAL, Condenser
+                                                   55036866AC          1                                                                            Right
+                                                   55036867            1                                                                            Left
+                                            29     55036369AB          1                                                                          SEAL, CondenserLower
+                                            30     06030441            3                                       ED0, ER0                           PIN, Retainer
+                                            31     06506152AA          1                                                                          NUT AND CONED WASHER, Hex,
+                                                                                                                                                  M8x1.25
+                                            32     06101445            2                                             ED0                          NUT AND WASHER, Hex
+                                                                                                                                                  Nut-Coned Washer, M8 x 1.25
+                                            33     55036022            1                                                                          CLIP, A/C Liquid Line
+                                            34     06503245            2          J                                  ED0                          RIVET
+                                            35     06503245            2                                                                          SCREW AND WASHER, M6x1x40,
+                                                                                                                                                  (NOT SERVICED)
+
+
+
+
+                                        WRANGLER (TJ)
+                                        SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                        H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                        L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                        M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                        P = PREMIUM                                                                   Engine                       Transmission
+                                        S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                   DEH = 6-Speed Manual NSG370
+                                                                                                                                                   Transmission
+                                                                                                                                                   DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                   Transmission
+
+
+
+
+                                         AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

@@ -1,0 +1,68 @@
+                                                      Differential,Front Axle,Without [DSE]
+                                                                   Figure 2-610
+                                                                                                                    PART
+                                                                                              ITEM                              QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                DESCRIPTION
+                                                                                                                   NUMBER
+
+Differential,Front Axle,Without [DSE]                                    DIFFERENTIAL,FRONT AXLE,WITHOUT [DSE]
+
+
+
+
+                                                                         Note: Sales Codes;
+                                                                         [DME]=Axle Ratio - 3.73
+                                                                         [DMM]=Axle Ratio - 3.07
+                                                                         [DMU]=Axle Ratio - 4.56
+                                                                         [DSE]=Axle - Trulok Differential
+                                                                                                             1                                                                                               NUT, Pinion Yoke
+                                                                                                                 01791575         1          U                      77                                         [DME] Without Washer
+                                                                                                                                  1          J                                                                 [DME,DMU] Without Washer
+                                                                                                                 05017755AA       1          U                      77                                         [DMM] With Washer
+                                                                                                                                  1          J                                                                 [DMM] With Washer
+                                                                                                             2                                                                                               WASHER, Pinion Yoke
+                                                                                                                 01791576         1          U                      77                                         [DME]
+                                                                                                                                  1          J                                                                 [DME,DMU]
+                                                                                                             3                                                                                               YOKE, Axle
+                                                                                                                 83503388         1          U                      77
+                                                                                                                                  1          J
+                                                                                                             4                                                                                               SLINGER, Drive Pinion
+                                                                                                                 04031974         1          U                      77                                         [DMM,DMU]
+                                                                                                                                  1          J                                                                 [DMM,DMU]
+                                                                                                             5                                                                                               SEAL, Drive Pinion
+                                                                                                                 05072473AA       1          U                      77
+                                                                                                                                  1          J
+                                                                                                             6                                                                                               BEARING, Drive Pinion
+                                                                                                                 05252508         1          U                      77                                         Bearing and Cup, Front
+                                                                                                                                  1          J                                                                 Bearing and Cup, Front
+                                                                                                             7                                                                                               SPACER
+                                                                                                                 04864845AB       1          U                      77                                         Crush
+                                                                                                                                  1          J                                                                 Crush
+                                                                                                             8                                                                                               SHIM KIT, Pinion Shaft
+                                                                                                                 04720862         1          J                   61, 77, 78
+                                                                                                                                  1          U                      77
+                                                                                                             9                                                                                               BEARING, Drive Pinion
+                                                                                                                 J8126499         1          U                      77                                         Bearing and Cup, Rear
+
+
+
+
+                                                                         WRANGLER (TJ)
+                                                                         SERIES        LINE                                                             BODY                     ENGINE                       TRANSMISSION
+                                                                         H = HIGHLINE  J = JEEP - 4WD                                                   77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                         L = LOWLINE   U = JEEP - 4WD (RHD)                                             78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                         M = MEDIUM                                                                                              ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                         P = PREMIUM                                                                                             Engine                       Transmission
+                                                                         S = SPORT                                                                                                                            DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                              Transmission
+                                                                                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                              Transmission
+
+
+
+
+                                                                            AR = use ase required                           - = Non illustrrated part                                                                                   2006 TJ
+
+
+                           << RETURN TO GROUP INDEX
+

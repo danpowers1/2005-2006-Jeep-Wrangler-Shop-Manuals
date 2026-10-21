@@ -1,0 +1,47 @@
+                                                 Switches Drivetrain
+                                                    Figure 8-810
+                                                                         PART
+                                                             ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                        NUMBER
+
+Switches Drivetrain
+
+
+
+
+                                                               1                                                                                                    SWITCH, Oil Pressure
+                                                                     04608303AB          1                                             ED0
+                                                                     04868672AA          1                                             ER0
+                                                               2     04659677AC          1                                             ER0      DG6                 SENSOR, Manual Valve Lever
+                                                               3                                                                                                    SWITCH, Back Up Lamp
+                                                                     05099770AA          1                                             ER0      DEH
+                                                                                         1                              61, 77         ED0      DEH
+                                                               4                                                                                                    SWITCH, Transfer Case Mode
+                                                                     J8134473            1                                                      DG0                  [DHN]
+                                                                                         1                                                      DEH                  [DHN]
+                                                               5     05083138AA          1                                                                          SWITCH, Transfer Case, [DHW]
+                                                               6     56044169AA          1          J                                  ED0                          SWITCH, Power Steering
+
+
+
+
+                                                           WRANGLER (TJ)
+                                                           SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                           H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                           L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                           M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                           P = PREMIUM                                                                  Engine                       Transmission
+                                                           S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                                     Transmission
+                                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                     Transmission
+
+
+
+
+                                                           AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                      << RETURN TO GROUP INDEX
+

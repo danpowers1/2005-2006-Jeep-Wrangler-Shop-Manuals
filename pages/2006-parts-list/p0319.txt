@@ -1,0 +1,59 @@
+                                                     Control, Heater And A/c
+                                                          Figure 24-310
+                                                                                                  PART
+                                                                                      ITEM                    QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                 NUMBER
+
+Control, Heater And A/c                                          CONTROL, HEATER AND A/C
+
+
+
+
+                                                                 Sale Codes:
+                                                                 [ED0] = [2.4L] Gas Engine
+                                                                 [ER0] = [4.0L] Gas Engine
+                                                                 [HAA] = Air Conditioning
+                                                                 [HCA] = Heater
+                                                                                           1                                                                                               CONTROL, A/C And Heater
+                                                                                               55056559AA       1          U                     77                                          [HAA]
+                                                                                               55056556AA       1          J                                                                 [HC0]
+                                                                                               55056557AA       1          U                     77                                          [HC0]
+                                                                                               55056558AA       1          J                                                                 [HAA]
+                                                                                           2                                                                                               HOSE AND VALVE, Vacuum
+                                                                                               55037576AC       1                                             ED0
+                                                                                               55037637AB       1          J                                  ER0
+                                                                                               55037638AB       1          U                     77           ER0
+                                                                                           3   55035614         1                                                                          RESERVOIR, Vacuum, Cruise
+                                                                                                                                                                                           Control
+                                                                                           4   06034205         2                                                                          SCREW, Pan Head, .19-32x.625
+                                                                                           5   06032723         2                                                                          SCREW, Self Tapping,
+                                                                                                                                                                                           M4.2x1.69x19.05
+                                                                                           6   J4005237         1                                                                          NUT, Hex, .19-32x430
+                                                                                           7   J4005237         1                                                                          HARNESS, Instrument Panel, Part
+                                                                                                                                                                                           Of The Instrument Panel Wiring
+                                                                                                                                                                                           Harness, Please Refer to Group 8,
+                                                                                                                                                                                           (NOT SERVICED)
+
+
+
+
+                                                                 WRANGLER (TJ)
+                                                                 SERIES        LINE                                                   BODY                     ENGINE                       TRANSMISSION
+                                                                 H = HIGHLINE  J = JEEP - 4WD                                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                 L = LOWLINE   U = JEEP - 4WD (RHD)                                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                 M = MEDIUM                                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                 P = PREMIUM                                                                                   Engine                       Transmission
+                                                                 S = SPORT                                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                            Transmission
+                                                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                            Transmission
+
+
+
+
+                                                                   AR = use ase required                  - = Non illustrrated part                                                                                  2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

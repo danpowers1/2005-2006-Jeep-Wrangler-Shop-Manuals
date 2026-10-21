@@ -1,0 +1,63 @@
+                           Instrument Panel
+                            Figure 08A-110
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                 DESCRIPTION
+                                                 NUMBER
+
+
+
+                                              5EE11XDV            1          J                                                                 [DV]
+                                                                  1          U                      77                                         [DV]
+                                              5EE11ZJ3            1          J                                                                 [J3]
+                                                                  1          U                      77                                         [J3]
+                                       25                                                                                                    STRIKER, Glove Box Door Latch
+                                              55115170            1          J
+                                                                  1          U                      77
+                                       26     55314982AF          1                               77, 78                                     AIR BAG, Passenger
+                                       27                                                                                                    DOOR, Passenger Air Bag
+                                              5DU38XDVAB          1          J                                                                 [DV]
+                                                                  1          U                      77                                         [DV]
+                                              5DU38ZJ3AB          1          J                                                                 [J3]
+                                                                  1          U                      77                                         [J3]
+                                       28                                                                                                    OUTLET, Air Conditioning & Heater
+                                              5DP54XDV            1          J                                                                 [DV], Right
+                                                                  1          U                      77                                         [DV], Right
+                                              5DP55XDV            1          U                      77                                         [DV], Left
+                                              5DP55ZJ3            1          J                                                                 [J3], Left
+                                                                  1          U                      77                                         [J3], Left
+                                              5DP54ZJ3            1          J                                                                 [J3], Right
+                                                                  1          U                      77                                         [J3], Right
+                                                                  1          J                                                                 [DV], Left
+                                       29                                                                                                    PANEL, Instrument
+                                              5HG71XDVAB          1          J                                                                 [DV] Cosmetic Repair
+                                                                  1          U                      77                                         [DV] Cosmetic Repair
+                                              5HG71ZJ3AB          1          J                                                                 [J3] Cosmetic Repair
+                                                                  1          U                      77                                         [J3] Cosmetic Repair
+                                       30                                                                                                    PANEL, Instrument
+                                              0XX16ZJ3AA          1          U                      77                                         [J3]
+                                              0XX15XDVAA          1          J                   61, 77, 78                                    [DV]
+                                              0XX15ZJ3AA          1          J                   61, 77, 78                                    [J3]
+
+
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                   Engine                       Transmission
+                                   S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                              Transmission
+                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                              Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

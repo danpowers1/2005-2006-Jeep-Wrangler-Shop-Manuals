@@ -1,0 +1,74 @@
+                                                   Column, Steering Upper and Lower
+                                                             Figure 19-210
+                                                                                                             PART
+                                                                                       ITEM                              QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                 DESCRIPTION
+                                                                                                            NUMBER
+
+Column, Steering Upper and Lower                                   COLUMN, STEERING UPPER AND LOWER
+
+
+
+
+                                                                   Note:Sales Codes;
+                                                                   [ABB] =European Equipment Group
+                                                                   [DBB]=Transmissions - All Manual
+                                                                   [DG0]=Transmissions - All Automatic
+                                                                   [ED0]=Engines - All 2.4L 4 Cylinder Gas
+                                                                   [ER0]=Engines - All 4.0L 6 Cylinder Gas
+                                                                                                      1   5GN31DX9AD       1                                                                          SHROUD, Steering Column, Upper
+                                                                                                      2                                                                                               COLUMN, Steering, Tilt
+                                                                                                          05057079AB       1                                                      DG0                   [-ABB]
+                                                                                                          05057080AB       1                                                      DBB                   [-ABB]
+                                                                                                          05057081AB       1                                                      DG0                   [ABB]
+                                                                                                          05057082AB       1                                                      DBB                   [ABB]
+                                                                                                      3                                                                                               SHROUD, Steering Column, Lower
+                                                                                                          5GN30DX9AB       1                                                      DBB
+                                                                                                          5GN36DX9AB       1                                                      DG0
+                                                                                                  -4      5GN36DX9AB       1                                                                          TRIM RING, Ignition Key Cylinder,
+                                                                                                                                                                                                      Serviced In Column Assembly,
+                                                                                                                                                                                                      (NOT SERVICED)
+                                                                                                      5   06035434         2                                                                          SCREW AND WASHER, Pan
+                                                                                                                                                                                                      Head, Upper Shroud to Lower
+                                                                                                                                                                                                      Shroud, Mounting
+                                                                                                      6   06501279         1                                                                          NUT, Hex Flange Lock, M8x1.25,
+                                                                                                                                                                                                      Mounting Stud
+                                                                                                      7   06505245AA       2                                                                          NUT, M8x1.25, Mounting Stud,
+                                                                                                                                                                                                      Lower
+                                                                                                      8   55315014AD       1                                                                          SHAFT, Intermediate
+                                                                                                      9   06504926AA       3                                                                          SCREW, Hex Flange Head,
+                                                                                                                                                                                                      M10x1.5x40, Upper Shaft to Lower
+                                                                                                                                                                                                      shaft, Mounting
+                                                                                                10        06504153         2                                                                          SCREW AND WASHER, Hex
+                                                                                                                                                                                                      Head, M10x1.5x35, Shaft Bracket
+                                                                                                                                                                                                      to Frame
+                                                                                                 11                                                                                                   BRACKET, Intermediate Shaft
+                                                                                                          52058841         1          J                                  ER0
+                                                                                                          52058855AB       1          J                                  ED0
+                                                                                                12        06100516         2                                                                          NUT, Hex Flange Lock, M6
+                                                                                                                                                                                                      Phosphate, Intermediate Shaft
+                                                                                                                                                                                                      Bracket, Mounting
+                                                                                                13        55315044AA       1                                                                          SHAFT, Intermediate
+
+
+
+
+                                                                   WRANGLER (TJ)
+                                                                   SERIES        LINE                                                            BODY                     ENGINE                       TRANSMISSION
+                                                                   H = HIGHLINE  J = JEEP - 4WD                                                  77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                                            78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                   M = MEDIUM                                                                                             ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                   P = PREMIUM                                                                                            Engine                       Transmission
+                                                                   S = SPORT                                                                                                                           DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                       Transmission
+                                                                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                       Transmission
+
+
+
+
+                                                                     AR = use ase required                           - = Non illustrrated part                                                                                  2006 TJ
+
+
+                        << RETURN TO GROUP INDEX
+

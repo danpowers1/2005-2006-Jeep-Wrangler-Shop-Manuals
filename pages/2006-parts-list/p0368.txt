@@ -1,0 +1,67 @@
+                                          Seat Belts
+                                        Figure ITJ-710
+                                                              PART
+                                                  ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                             NUMBER
+
+Seat Belts
+
+
+
+
+                                                    1                                                                                                   SEAT BELT, Front Outer
+                                                          5JC561X9AC          1                                77                              *O0        Right, Export
+                                                          5JC571X9AC          1                                77                              *O0        Left, Export
+                                                          5KK641X9AA          1                                                                *O0        Right
+                                                          5KK651X9AA          1                                                                *O0        Left
+                                                    2     55217173AD          2                                                                         ADJUSTER, Seat Belt Turning
+                                                                                                                                                        Loop
+                                                    3     06036108AA          2                                                                         SCREW, Pan Head
+                                                    4                                                                                                   COVER, Turning Loop
+                                                          5HM32DX9AC          1                       P        77                              *O0        Right
+                                                                              1                     H, L, M                                    *O0        Right
+                                                                              1          J            S        77                              *O0        Right
+                                                          5HM33DX9AC          1                       P        77                              *O0        Left
+                                                                              1                     H, L, M                                    *O0        Left
+                                                                              1          J            S        77                              *O0        Left
+                                                    5                                                                                                   SEAT BELT, Front Inner
+                                                          5HS491X9AE          1          J                     77                              *H6        [J3], Driver
+                                                                              1          J                    77, 78                           *P5        [DV], Driver
+                                                                              1          J                     77                              *H6        [DV], Driver
+                                                                              1          J                    77, 78                           *P5        [J3], Driver
+                                                                              1          U                     77                              *P5        [DV], Driver
+                                                                              1          U                     77                              *P5        [J3], Driver
+                                                                              1          J                     77                              *S5        [DV], Driver
+                                                                              1          U                     77                              *S5        [DV], Driver
+                                                                              1          J                     78                              *S5        [DV], Driver
+                                                                              1          U                     77                              *H6        [DV], Driver
+                                                                              1          U                     77                              *H6        [J3], Driver
+                                                                              1          U                     77                              *G5        [DV], Driver
+                                                                              1          U                     77                              *G5        [J3], Driver
+                                                                              1          J                     77                              *G5        [J3], Driver
+                                                                              1          J                     77                              *G5        [DV], Driver
+                                                                              1          U                     77                              *Y5        [DV], Driver
+                                                                              1          U                     77                              *Y5        [J3], Driver
+
+
+
+                                               WRANGLER (TJ)
+                                               SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                               H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                               L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                               M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                               P = PREMIUM                                                                  Engine                       Transmission
+                                               S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                         DEH = 6-Speed Manual NSG370
+                                                                                                                                                         Transmission
+                                                                                                                                                         DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                         Transmission
+
+
+
+
+                                                AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+             << RETURN TO GROUP INDEX
+

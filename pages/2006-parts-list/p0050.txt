@@ -1,0 +1,53 @@
+                           Differential,With and Without Trac-Lok [DSA] Dana M35/194MM [DRJ]
+                                                       Figure 3-230
+                                                                          PART
+                                                              ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                                         NUMBER
+
+
+
+                                                               -11    83503004            1          J                     77                                       SHIM KIT, Differential, Contains All
+                                                                                                                                                                    Shims in Item 10
+                                                               12     05012810AC          1          J                     77                                       BOLT KIT
+                                                               13                                                                                                   CASE, Differential
+                                                                      05012831AB          1          J                     77                                         [DME,DSA] With Internal Parts
+                                                                      05073014AA          1          J                     77                                         [DMM,DSA] With Internal Parts
+                                                               14                                                                                                   CASE, Differential
+                                                                      05072976AA          1          J                     77                                         [DME,DMU] With Internal Parts
+                                                                      05073110AA          1          J                     77                                         [DMM] With Internal Parts
+                                                               15     05252506            1          J                     77                                       DISC AND PLATE KIT, Differential,
+                                                                                                                                                                    [DSA]
+                                                               16     04773010            1          J                     77                                       GEAR KIT, Center Differential,
+                                                                                                                                                                    [DSA]
+                                                               17     04740670            1          J                     77                                       GEAR KIT, Center Differential,
+                                                                                                                                                                    Without [DSA]
+                                                               18     J8120832            2          J                     77                                       WASHER, Side Gear, Without
+                                                                                                                                                                    [DSA], Thrust
+                                                               19     J8120831            2          J                     77                                       WASHER, Pinion Gear, Without
+                                                                                                                                                                    [DSA], Thrust
+                                                               20     05252502            1          J                     77                                       PIN, Differential Shaft, Without
+                                                                                                                                                                    [DSA]
+
+
+
+
+                                                            WRANGLER (TJ)
+                                                            SERIES        LINE                                  BODY                    ENGINE                       TRANSMISSION
+                                                            H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                            L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                            M = MEDIUM                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                            P = PREMIUM                                                                 Engine                       Transmission
+                                                            S = SPORT                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                                     Transmission
+                                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                     Transmission
+
+
+
+
+                                                            AR = use ase required   - = Non illustrrated part                                                                                   2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

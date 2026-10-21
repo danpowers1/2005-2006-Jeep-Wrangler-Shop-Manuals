@@ -1,0 +1,52 @@
+                                                    Alternator 2.4L Engine
+                                                         Figure 8-205
+                                                                              PART
+                                                                  ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                             NUMBER
+
+Alternator 2.4L Engine
+
+
+
+
+                                                                    1     56044530AC          1                                             ED0                          ALTERNATOR
+                                                                    2     06102120AA          1                                             ED0                          SCREW AND WASHER, Hex Head
+                                                                    3     06504344            1                                       ED0, ER0                           SCREW AND WASHER, Hex Head
+                                                                    4     04861371AA          1                                             ED0                          BRACKET, Alternator
+                                                                   -5     06506737AA          2                                             ED0                          SCREW, Alternator Bracket,
+                                                                                                                                                                         M10x1.5x100.00, Bracket To Block
+                                                                   -6     06506990AA          3                                             ED0                          SCREW, Hex Head, M10x1.5x40,
+                                                                                                                                                                         Bracket To Block
+                                                                    7                                                                                                    BELT, Accessory Drive
+                                                                          04892519AA          1                                             ED0                            [HC0]
+                                                                          04892520AA          1                                             ED0                            [HA0]
+                                                                    8                                                                                                    PULLEY, Idler
+                                                                          04781569AB          1                                             ED0                            Double Bearing, Idler/Timing
+                                                                          53013366AA          1                                             ED0                            [HC0]
+                                                                   -9     06506991AA          1                                             ED0                          STUD, Alternator, Tensioner
+                                                                                                                                                                         Mounting
+                                                                   10     04861277AD          1                                             ED0                          TENSIONER, Belt
+
+
+
+
+                                                               WRANGLER (TJ)
+                                                               SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                                               H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                               L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                               M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                               P = PREMIUM                                                                   Engine                       Transmission
+                                                               S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                          DEH = 6-Speed Manual NSG370
+                                                                                                                                                                          Transmission
+                                                                                                                                                                          DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                          Transmission
+
+
+
+
+                                                                AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

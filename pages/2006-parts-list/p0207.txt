@@ -1,0 +1,47 @@
+                                                    Fuel Tank, 2.4 (ED1), 4.0 (ERH)
+                                                            Figure 14-110
+                                                                                                              PART
+                                                                                           ITEM                           QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                                                                             NUMBER
+
+Fuel Tank, 2.4 (ED1), 4.0 (ERH)                                     FUEL TANK, 2.4 (ED1), 4.0 (ERH)
+
+
+
+
+                                                                    NOTE: ED1=All 2.4L Gas Engines ER0=All 4.0L Engines
+                                                                                                      1    52059617AE       1                                       ED1, ER0                          TANK, Fuel - Plastic
+                                                                                                      2    52100235AD       2                                                                         STRAP, Fuel Tank
+                                                                                                      3    J4005819         7                                                                         BOLT, .312-18x.750
+                                                                                                      4    52018098         2                                                                         CAP, Support Strap Stud
+                                                                                                      5    J4003587         2                                                                         NUT, Hex
+                                                                                                      6    J4005293         7                                                                         RETAINER, Push In Type M6.3
+                                                                                                                                                                                                      Hole
+                                                                                                      7    52100219AB       1                                                                         PLATE, Skid, With Sales Code
+                                                                                                                                                                                                      XEE
+                                                                                                      8    J4003587         2                                                                         NUT, Hex
+                                                                                                      -9   06025008         7                                                                         NUT, Fuel Tank Skid Plate to Frame
+
+
+
+
+                                                                    WRANGLER (TJ)
+                                                                    SERIES        LINE                                                            BODY                    ENGINE                       TRANSMISSION
+                                                                    H = HIGHLINE  J = JEEP - 4WD                                                  77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                    L = LOWLINE   U = JEEP - 4WD (RHD)                                            78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                    M = MEDIUM                                                                                            ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                    P = PREMIUM                                                                                           Engine                       Transmission
+                                                                    S = SPORT                                                                                                                          DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                       Transmission
+                                                                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                       Transmission
+
+
+
+
+                                                                       AR = use ase required                          - = Non illustrrated part                                                                                 2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

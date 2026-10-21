@@ -1,0 +1,64 @@
+                           Seat Assemblies, Adjusters, Recliners
+                                     Figure ITJ-810
+                                                            PART
+                                                ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                           NUMBER
+
+
+
+                                                 12     05093654AA          1          J                     77                              *H6      RISER, SeatLeft, Inboard
+                                                 13                                                                                                   NUT, Hex
+                                                        05019267AA          8          J                   77, 78                            *P5
+                                                                            8          J                     77                              *H6
+                                                                            8          U                     77                              *H6
+                                                                            8          U                     77                              *P5
+                                                                            8          J                     78                              *S5
+                                                                            8          J                     77                              *G5
+                                                                            8          U                     77                              *G5
+                                                                            8          J                     77                              *S5
+                                                                            8          U                     77                              *S5
+                                                 14                                                                                                   SPRING, Seat Lever Return, Short
+                                                        05093679AA          1          J                     77                              *H6
+                                                                            1          J                   77, 78                            *P5
+                                                                            2          U                     77                              *H6
+                                                                            2          J                     77                              *S5
+                                                                            2          U                     77                              *S5
+                                                                            2          U                     77                              *P5
+                                                                            2          J                     78                              *S5
+                                                                            2          J                     77                              *G5
+                                                                            2          U                     77                              *G5
+                                                                            2          J                     77                              *Y5
+                                                                            2          U                     77                              *Y5
+                                                 15                                                                                                   ADJUSTER, Manual Seat, Right,
+                                                                                                                                                      Includes Risers
+                                                        05175252AA          1          J                     77                              *H6        Export
+                                                                            1          U                     77                              *H6        Export
+                                                                            1          J                     77                              *P5        Export
+                                                                            1          U                     77                              *P5        Export
+                                                                            1          J                     77                              *S5        Export
+                                                                            1          U                     77                              *S5        Export
+                                                                            1          U                     77                              *Y5        Export
+
+
+
+
+                                              WRANGLER (TJ)
+                                              SERIES        LINE                                  BODY                    ENGINE                       TRANSMISSION
+                                              H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                              L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                              M = MEDIUM                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                              P = PREMIUM                                                                 Engine                       Transmission
+                                              S = SPORT                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                       Transmission
+                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                       Transmission
+
+
+
+
+                                              AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

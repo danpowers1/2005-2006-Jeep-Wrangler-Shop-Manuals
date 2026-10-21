@@ -1,0 +1,70 @@
+                                              Brakes,Rear,Drum
+                                                Figure 5-220
+                                                                                   PART
+                                                                         ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                  NUMBER
+
+Brakes,Rear,Drum                                      BRAKES,REAR,DRUM
+
+
+
+
+                                                      Note:Sales Codes;
+                                                      BGA=Brakes,- Power Front Disc/Rear Drums
+                                                      BGK=Brakes - 4-Wheel Antilock
+                                                                          1                                                                                                BOLT, Wheel Cylinder
+                                                                                04423678         2          U                     77                                         Mounting
+                                                                                                 2          J                     77                                         Mounting
+                                                                          2                                                                                                PIN, Brake Shoe Hold Down
+                                                                                02260548         2          J                     77
+                                                                                                 2          U                     77
+                                                                          3                                                                                                PLUG, Brake Adjusting Hole
+                                                                                04238721         3          J                     77
+                                                                                                 3          U                     77
+                                                                          4                                                                                                PLATE, Brake Backing
+                                                                                04856718AB       1          J                     77                                         [BGK], Right
+                                                                                                 1          U                     77                                         [BGK], Right
+                                                                                04856719AB       1          J                     77                                         [BGK], Left
+                                                                                                 1          U                     77                                         [BGK], Left
+                                                                                05017760AA       1          U                     77                                         [BGA], Right
+                                                                                                 1          J                     77                                         [BGA], Right
+                                                                                05017761AA       1          U                     77                                         [BGA], Left
+                                                                                                 1          J                     77                                         [BGA], Left
+                                                                          5                                                                                                SHOE AND LINING KIT, Drum
+                                                                                05019536AA       1          U                     77                                         All Markets
+                                                                                BHKH7265                                                                                     Mopar V-Line Alternative Part All
+                                                                                                                                                                             In One Drum Combi Kits
+                                                                                BHKH2626                                                                                     Mopar V-Line Alternative Part
+                                                                                                                                                                             Drum Self Adjuster Kit Left
+                                                                                BHKH2627                                                                                     Mopar V-Line Alternative Part
+                                                                                                                                                                             Drum Self Adjuster Kit
+                                                                                V2010367AB                                                                                   Mopar V-Line Alternative Part
+                                                                                                 1          J                     77                                         Up To 10-18-05
+                                                                                BHKH7265                                                                                     Mopar V-Line Alternative Part All
+                                                                                                                                                                             In One Drum Combi Kits
+                                                                                BHKH2626                                                                                     Mopar V-Line Alternative Part
+                                                                                                                                                                             Drum Self Adjuster Kit Left
+
+
+
+
+                                                      WRANGLER (TJ)
+                                                      SERIES        LINE                                               BODY                    ENGINE                       TRANSMISSION
+                                                      H = HIGHLINE  J = JEEP - 4WD                                     77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                      L = LOWLINE   U = JEEP - 4WD (RHD)                               78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                      M = MEDIUM                                                                               ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                      P = PREMIUM                                                                              Engine                       Transmission
+                                                      S = SPORT                                                                                                             DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                                            Transmission
+                                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                            Transmission
+
+
+
+
+                                                        AR = use ase required              - = Non illustrrated part                                                                                  2006 TJ
+
+
+                   << RETURN TO GROUP INDEX
+

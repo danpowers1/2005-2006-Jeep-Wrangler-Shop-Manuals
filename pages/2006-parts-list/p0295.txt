@@ -1,0 +1,62 @@
+                                       Wheels
+                                    Figure 22-110
+                                                              PART
+                                                    ITEM                  QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                DESCRIPTION
+                                                             NUMBER
+
+Wheels                                     WHEELS
+
+
+
+
+                                           NOTES: Sales Codes:
+                                           [WDY] = 16X8.0 MOAB SILVER WHEELS
+                                           [WJW] = 15X7.0 ECCO ALUMINUM WHEELS
+                                           [WJ4] = 15X8.0 RAVINE ALUMINUM WHEELS
+                                           [WJ5] = 15X7.0 FULL-FACE STEEL WHEELS
+                                           [WJ9] = 15X8.0 RAVINE ALUMINUM WHEELS
+                                                     1     5FV63S4AAE       4                                                                          WHEEL, Steel, [WJ5] 15x7.0
+                                                                                                                                                       Full-Face Steel Wheel
+                                                     2                                                                                                 WHEEL, Aluminum
+                                                           52060303AA       1                                                                           [WJP]
+                                                           5EE80PAKAF       4                                                                           [WJW]
+                                                           5EE80ZDRAF       1                                                                           [WJQ] 15x7.0 ECCO Graphite
+                                                                                                                                                        Wheel
+                                                           5HP23PAKAB       4                                                                           [WDY] 16x8.0 MOAB Silver
+                                                                                                                                                        Wheel up to 8-1-05
+                                                                            4          J                   61, 77, 78                                   [WD1] 16x8.0 Cast Aluminum
+                                                                                                                                                        Wheel
+                                                           5HP23PAKAC       1                                                                           [WDY] 16x8.0 MOAB Silver
+                                                                                                                                                        Wheel after 8-1-05
+                                                           5JL73PAKAA       4                                                                           [WJ4]
+                                                           5JL73HY2AA       4                                                                           [WJ9]
+                                                     3     52060303AA       4                                                                          WHEEL, Aluminum, [WJP] 15x8.0
+                                                                                                                                                       Forged Aluminum Wheel
+                                                     4     06036310AA      20                                                                          NUT, Wheel, .50x20
+                                                     -5                                                                                                STEM, Wheel Valve
+                                                           02073355         5
+                                                                            4                                                                           [WDY]
+
+
+
+
+                                           WRANGLER (TJ)
+                                           SERIES        LINE                                     BODY                     ENGINE                       TRANSMISSION
+                                           H = HIGHLINE  J = JEEP - 4WD                           77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                           L = LOWLINE   U = JEEP - 4WD (RHD)                     78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                           M = MEDIUM                                                                      ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                           P = PREMIUM                                                                     Engine                       Transmission
+                                           S = SPORT                                                                                                    DDQ = 5-Speed Manual Transmission
+                                                                                                                                                        DEH = 6-Speed Manual NSG370
+                                                                                                                                                        Transmission
+                                                                                                                                                        DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                        Transmission
+
+
+
+
+                                             AR = use ase required    - = Non illustrrated part                                                                                  2006 TJ
+
+
+         << RETURN TO GROUP INDEX
+

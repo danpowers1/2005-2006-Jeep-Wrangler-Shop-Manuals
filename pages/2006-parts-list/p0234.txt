@@ -1,0 +1,50 @@
+                                                  Pump, Power Steering
+                                                     Figure 19-510
+                                                                                             PART
+                                                                                   ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                            NUMBER
+
+Pump, Power Steering                                        PUMP, POWER STEERING
+
+
+
+
+                                                            Note:Sales Codes;
+                                                            [ED0]=Engines - All 2.4L 4 Cylinder Gas
+                                                            [ER0]=Engines - All 4.0L 6 Cylinder Gas
+                                                                                    1                                                                                                 PUMP, Power Steering
+                                                                                          52087871AE       1                                             ER0                            with Reservoir
+                                                                                          52089018AC       1                                             ED0
+                                                                                    2     04897287AA       1                                             ER0                          CAP, Power Steering Reservoir
+                                                                                    -3                                                                                                CLIP, Power Steering Reservoir
+                                                                                          05137626AA       1                                             ER0                            Right
+                                                                                          05137627AA       1                                             ER0                            Left
+                                                                                    -4    83503489         1                                             ER0                          VALVE, Flow Control
+                                                                                    -5    02537833         1                                             ER0                          SPRING, Power Steering Pump
+                                                                                                                                                                                      Flow
+                                                                                    -6    04778797AB       1                                             ER0                          SEAL, Power Steering Pump
+                                                                                    -7    05066223AA       1                                             ER0                          KIT, Pump Assembly Service Kit
+
+
+
+
+                                                            WRANGLER (TJ)
+                                                            SERIES        LINE                                                   BODY                     ENGINE                       TRANSMISSION
+                                                            H = HIGHLINE  J = JEEP - 4WD                                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                            L = LOWLINE   U = JEEP - 4WD (RHD)                                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                            M = MEDIUM                                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                            P = PREMIUM                                                                                   Engine                       Transmission
+                                                            S = SPORT                                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                       Transmission
+                                                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                       Transmission
+
+
+
+
+                                                              AR = use ase required                  - = Non illustrrated part                                                                                  2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

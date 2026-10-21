@@ -1,0 +1,58 @@
+                           Brakes,Rear,Disc
+                             Figure 5-210
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                              05093511AB          1          J                     77                                         Up To 10-18-05
+                                              V2013882                                                                                        Mopar V-Line Alternative Part
+                                              BHKH5695                                                                                        Mopar V-Line Alternative Part
+                                                                                                                                              Disc Hardware
+                                              BHKH5066                                                                                        Mopar V-Line Alternative Part
+                                                                                                                                              Caliper Bolts
+                                                                  1          J                     78                                         Up To 10-18-05
+                                              V2013882                                                                                        Mopar V-Line Alternative Part
+                                              BHKH5695                                                                                        Mopar V-Line Alternative Part
+                                                                                                                                              Disc Hardware
+                                              BHKH5066                                                                                        Mopar V-Line Alternative Part
+                                                                                                                                              Caliper Bolts
+                                              05191823AA          1          J                     78                                         From 10-19-05
+                                                                  1          J                     77                                         From 10-19-05
+                                        9                                                                                                   SEAL, Caliper Piston
+                                              05093276AA          1          J                     77
+                                                                  1          J                     78
+                                       10                                                                                                   BOOT, Brake Piston
+                                              05093277AA          1          J                     77
+                                                                  1          J                     78
+                                       11                                                                                                   ROTOR, Brake
+                                              52128411AB          2          J                     77
+                                                                  2          J                     78
+                                       12                                                                                                   SLIPPER, Caliper
+                                              05093394AB          4          J                     77
+                                                                  4          J                     78
+
+
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                  Engine                       Transmission
+                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                             Transmission
+                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                             Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

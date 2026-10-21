@@ -1,0 +1,67 @@
+                                             Input Shaft
+                                         Figure NSG370-410
+                                                                          PART
+                                                                ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                         NUMBER
+
+Input Shaft                                       INPUT SHAFT
+
+
+
+
+                                                  NOTE:
+                                                  Sales Codes:
+                                                  [DEH]=6 Speed Manual Transmission - [NSG370]
+                                                  [ED0]=All 2.4L In-Line 4 Cylinder Engines
+                                                  [ERO]= All 4.0 Si x Cylinder Gas Engines
+                                                                 1                                                                                                 SHAFT, Input
+                                                                       05159171AA       1                                             ER0      DEH
+                                                                                        1                                             ED0      DEH
+                                                                 2                                                                                                 STOP RING, Synchronizer
+                                                                       05099265AA       2                                             ER0      DEH
+                                                                                        2                                             ED0      DEH
+                                                                 3                                                                                                 RING, RING-SYNCHRONIZER
+                                                                       05134500AA       1                                             ED0      DEH
+                                                                                        1                                             ER0      DEH
+                                                                 4                                                                                                 BEARING, Needle
+                                                                       05096457AA       1                                             ER0      DEH
+                                                                                        1                                             ED0      DEH
+                                                                 5                                                                                                 SYNCHRONIZER, Fifth and Sixth
+                                                                       05099206AA       1                                             ER0      DEH
+                                                                                        1                                             ED0      DEH
+                                                                 6                                                                                                 RING, RING-SYNCHRONIZER
+                                                                       05134500AA       1                                             ED0      DEH
+                                                                                        1                                             ER0      DEH
+                                                                 7                                                                                                 STOP RING, Synchronizer
+                                                                       05099265AA       1                                             ER0      DEH
+                                                                                        1                                             ED0      DEH
+                                                                 8                                                                                                 GEAR, Sixth
+                                                                       05099794AA       1                                             ER0      DEH
+                                                                                        1                                             ED0      DEH
+                                                                 9                                                                                                 BEARING, Needle
+                                                                       05096359AA       1                                             ER0      DEH
+                                                                                        1                                             ED0      DEH
+
+
+
+
+                                                  WRANGLER (TJ)
+                                                  SERIES        LINE                                          BODY                     ENGINE                       TRANSMISSION
+                                                  H = HIGHLINE  J = JEEP - 4WD                                77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                  L = LOWLINE   U = JEEP - 4WD (RHD)                          78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                  M = MEDIUM                                                                           ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                  P = PREMIUM                                                                          Engine                       Transmission
+                                                  S = SPORT                                                                                                         DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                    DEH = 6-Speed Manual NSG370
+                                                                                                                                                                    Transmission
+                                                                                                                                                                    DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                    Transmission
+
+
+
+
+                                                     AR = use ase required        - = Non illustrrated part                                                                                  2006 TJ
+
+
+              << RETURN TO GROUP INDEX
+

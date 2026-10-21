@@ -1,0 +1,68 @@
+                                           Fork & Rails
+                                          Figure 231-910
+                                                                          PART
+                                                                ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                         NUMBER
+
+Fork & Rails                                     FORK & RAILS
+
+
+
+
+                                                 NOTE:
+                                                 Sales Code
+                                                 [DEH]=6 Speed Manual Transmission - [NSG370]
+                                                 [DG0]=All Automatic Transmissions
+                                                 [ED0]=All 2.2,2.4,2.5,L 4 Cylinder Gas Engines
+                                                 [ER0]=All 4.0L 6 Cylinder Gas Engines
+                                                                 1                                                                                                FORK, Range
+                                                                       04798136         1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                 2                                                                                                PAD, Shift Fork
+                                                                       04167969         2                                                     DG0
+                                                                                        2                                                     DEH
+                                                                 3                                                                                                BUSHING, Shift Lever
+                                                                       53004810         1                                                     DEH
+                                                                                        1                                                     DG0
+                                                                 4                                                                                                FORK, Transfer Case Mode Shift
+                                                                       04741237         1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                 5                                                                                                PAD, Shift Fork
+                                                                       04219073         1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                 6                                                                                                LEVER, Selector
+                                                                       05086382AB       1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                 7                                                                                                SPRING, Mode Shift Rail
+                                                                       04338925         1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                 8                                                                                                SECTOR, Transfer Case
+                                                                       04638845         1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                 9                                                                                                NUT
+                                                                       06030310         1                                                     DG0
+                                                                                        1                                                     DEH
+                                                                10                                                                                                SEAL, O-Ring
+
+
+
+                                                 WRANGLER (TJ)
+                                                 SERIES        LINE                                           BODY                    ENGINE                       TRANSMISSION
+                                                 H = HIGHLINE  J = JEEP - 4WD                                 77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                 L = LOWLINE   U = JEEP - 4WD (RHD)                           78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                 M = MEDIUM                                                                           ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                 P = PREMIUM                                                                          Engine                       Transmission
+                                                 S = SPORT                                                                                                         DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                   DEH = 6-Speed Manual NSG370
+                                                                                                                                                                   Transmission
+                                                                                                                                                                   DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                   Transmission
+
+
+
+
+                                                    AR = use ase required         - = Non illustrrated part                                                                                 2006 TJ
+
+
+               << RETURN TO GROUP INDEX
+

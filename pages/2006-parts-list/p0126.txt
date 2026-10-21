@@ -1,0 +1,53 @@
+                                            Sensors - Body
+                                             Figure 8-625
+                                                                  PART
+                                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                 NUMBER
+
+Sensors - Body
+
+
+
+
+                                                        1                                                                                                   BRACKET, Brake Sensor
+                                                              56026766            1          U                     77                                        At Steering Knucle / Upper Ball
+                                                                                                                                                             Stud, Right
+                                                                                  1          J                                                               At Steering Knucle / Upper Ball
+                                                                                                                                                             Stud, Right
+                                                              56026767            1          U                     77                                        At Steering Knucle / Upper Ball
+                                                                                                                                                             Stud, Left
+                                                                                  1          J                                                               At Steering Knucle / Upper Ball
+                                                                                                                                                             Stud, Left
+                                                        2     52008920            1                                                                         BRACKET, ABS Sensor
+                                                        3     56027727            2          J                                                              SENSOR, Anti-Lock Brakes, Front
+                                                        4                                                                                                   SENSOR, Anti-Lock Brakes
+                                                              56027728            1          J                     77                                         Right
+                                                                                  1          U                     77                                         Right
+                                                              56027729            1          U                     77                                         Left
+                                                                                  1          J                     77                                         Left
+                                                        5     52008919            1                                                                         BRACKET, ABS Sensor
+                                                        6     56042395            1                                                                         SENSOR, Ambient Temperature
+
+
+
+
+                                                   WRANGLER (TJ)
+                                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                   P = PREMIUM                                                                  Engine                       Transmission
+                                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                                             Transmission
+                                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                             Transmission
+
+
+
+
+                                                    AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+                 << RETURN TO GROUP INDEX
+

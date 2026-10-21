@@ -1,0 +1,70 @@
+                              Gear Train
+                           Figure 42RLE-440
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                       47     04659055            5                                             ER0      DG6                 PLATE, Transmission Clutch
+                                                                                                                                             Reaction
+                                       48     04412395            1                                             ER0      DG6                 SNAP RING
+                                       49     04377194            1                                             ER0      DG6                 PLATE, Transmission Clutch
+                                                                                                                                             Reaction
+                                       -50    04897452AA          1                                             ER0      DG6                 PLATE PACKAGE, Low/Reverse
+                                                                                                                                             Clutch, 5.753/6.012
+                                       -51    04897453AA          1                                             ER0      DG6                 PLATE PACKAGE, Low/Reverse
+                                                                                                                                             Clutch, 6.013/6.272
+                                       -52    04897454AA          1                                             ER0      DG6                 PLATE PACKAGE, Low/Reverse
+                                                                                                                                             Clutch, 6.273/6.532
+                                       -53    04897455AA          1                                             ER0      DG6                 PLATE PACKAGE, Low/Reverse
+                                                                                                                                             Clutch, 6.533/6.792
+                                       -54    04897456AA          1                                             ER0      DG6                 PLATE PACKAGE, Low/Reverse
+                                                                                                                                             Clutch, 6.793/7.052
+                                       55     04799858AA          1                                             ER0      DG6                 SNAP RING
+                                       56     04799794            1                                             ER0      DG6                 GEAR, Annulus
+                                       57     06035238            2                                             ER0      DG6                 SNAP RING
+                                       58     04567539AB          1                                             ER0      DG6                 CARRIER, Planetary Pinion
+                                       -59    04412209            1                                             ER0      DG6                 THRUST BEARING
+                                       60     06035238            2                                             ER0      DG6                 SNAP RING
+                                       61     04505591            1                                             ER0      DG6                 SNAP RING
+                                       62     05102880AA          1                                             ER0      DG6                 RETAINER PACKAGE, 2nd & 4th
+                                                                                                                                             Clutch Piston
+                                       63     05102880AA          1                                             ER0      DG6                 RETAINER PACKAGE, 2nd & 4th
+                                                                                                                                             Clutch Piston
+                                       64     04412248            1                                             ER0      DG6                 SPRING, 2nd And 4th Clutch
+                                                                                                                                             Piston
+                                       65     04412216AB          1                                             ER0      DG6                 THRUST WASHER, Second and
+                                                                                                                                             Fourth Clutch
+                                       66     04659618AB          1                                             ER0      DG6                 HUB AND GEAR, Second And
+                                                                                                                                             Fourth Clutch
+                                       67     04659054            4                                             ER0      DG6                 PLATE, Transmission Clutch
+                                                                                                                                             Reaction
+                                       68     04799860AB          4                                             ER0      DG6                 DISC, Clutch
+                                       69     04377195            1                                             ER0      DG6                 SNAP RING
+                                       -70    03681949            6                                             ER0      DG6                 THRUST WASHER, Planet Pinion
+                                       -71    03743664           57                                             ER0      DG6                 ROLLER, Front and Rear Pinion
+                                       72     52852915AA          1                                             ER0      DG6                 SHAFT, Intermediate, Intermediate
+                                                                                                                                             Shaft Secure Clip
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                   Engine                       Transmission
+                                   S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                              Transmission
+                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                              Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

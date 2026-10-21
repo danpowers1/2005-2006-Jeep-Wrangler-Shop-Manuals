@@ -1,0 +1,52 @@
+                           Front, Cloth, Trim Code [S5]
+                                  Figure ITJ-530
+                                                        PART
+                                            ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                       NUMBER
+
+
+
+                                                    05093572AA          2          J                     77                              *S5
+                                                                        2          U                     77                              *S5
+                                                                        2          J                     78                              *S5
+                                              7                                                                                                   KNOB, Seat Back Latch
+                                                    05093667AA          1          J                     77                              *S5
+                                                                        1          U                     77                              *S5
+                                                                        1          J                     78                              *S5
+                                              8                                                                                                   BEZEL, Seat Release
+                                                    05093666AA          1          J                     77                              *S5
+                                                                        1          U                     77                              *S5
+                                                                        1          J                     78                              *S5
+                                              9                                                                                                   CABLE, Seat Back Release
+                                                    05093669AB          1          J                     78                              *S5
+                                                                        1          J                     77                              *S5
+                                                                        1          U                     77                              *S5
+                                             -10                                                                                                  SCREW, Trim, Cable Release to
+                                                                                                                                                  Recliner
+                                                    05135791AA          2          J                     77                              *S5
+                                                                        2          U                     77                              *S5
+                                                                        2          J                     78                              *S5
+
+
+
+
+                                         WRANGLER (TJ)
+                                         SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                         H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                         L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                         M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                         P = PREMIUM                                                                  Engine                       Transmission
+                                         S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                   DEH = 6-Speed Manual NSG370
+                                                                                                                                                   Transmission
+                                                                                                                                                   DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                   Transmission
+
+
+
+
+                                          AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

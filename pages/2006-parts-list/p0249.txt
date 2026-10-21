@@ -1,0 +1,77 @@
+                                           Gear Train
+                                        Figure 42RLE-440
+                                                                       PART
+                                                             ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                      NUMBER
+
+Gear Train                                      GEAR TRAIN
+
+
+
+
+                                                NOTE:
+                                                Sales Codes:
+                                                [DG6]=4 Speed Automatic Transmission - [42RLE]
+                                                [ER0]=All 4.0L In-Line 6 Cyl. Engine
+                                                              1     05101874AA       1                                             ER0      DG6                 CARRIER AND BEARING, Planet
+                                                                                                                                                                Pinion
+                                                              2     04412235AB       1                                             ER0      DG6                 BEARING CONE, Output Shaft
+                                                              3     06501853         1                                             ER0      DG6                 SNAP RING
+                                                              4     04800236AA       1                                             ER0      DG6                 SPRING, Low/Reverse Clutch
+                                                                                                                                                                Piston
+                                                              5     04800261AA       1                                             ER0      DG6                 PISTON, Low and Reverse Clutch
+                                                              6     04800255AA       1                                             ER0      DG6                 RETAINER, Transmission Low and
+                                                                                                                                                                Reverse Clutch Pistion
+                                                              -7    06501819         3                                             ER0      DG6                 SCREW AND WASHER, Pan
+                                                                                                                                                                Head, M5x0.8x11.00
+                                                              8     04800253AA       1                                             ER0      DG6                 GASKET, Clutch Retainer
+                                                              9     04412234         1                                             ER0      DG6                 BEARING CUP, Output Shaft
+                                                             10     05280020        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.17 -
+                                                                                                                                                                5.19mm
+                                                             -11    05280021        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.20 -
+                                                                                                                                                                5.22mm
+                                                             -12    05280022        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.23 -
+                                                                                                                                                                5.25mm
+                                                             -13    05280023        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.26 -
+                                                                                                                                                                5.28mm
+                                                             -14    05280024        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.29 -
+                                                                                                                                                                5.31mm
+                                                             -15    05280025        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.32 -
+                                                                                                                                                                5.34mm
+                                                             -16    05280026        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.35 -
+                                                                                                                                                                5.37mm
+                                                             -17    05280027        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.38 -
+                                                                                                                                                                5.40mm
+                                                             -18    05280028        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.41 -
+                                                                                                                                                                5.43mm
+                                                             -19    05280029        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.44 -
+                                                                                                                                                                5.46mm
+                                                             -20    05280030        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.47 -
+                                                                                                                                                                5.49mm
+                                                             -21    05280031        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.50 -
+                                                                                                                                                                5.52mm
+                                                             -22    05280032        AR                                             ER0      DG6                 SHIM, Carrier Bearing, 5.53 -
+                                                                                                                                                                5.55mm
+
+
+
+                                                WRANGLER (TJ)
+                                                SERIES        LINE                                         BODY                     ENGINE                       TRANSMISSION
+                                                H = HIGHLINE  J = JEEP - 4WD                               77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                L = LOWLINE   U = JEEP - 4WD (RHD)                         78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                M = MEDIUM                                                                          ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                P = PREMIUM                                                                         Engine                       Transmission
+                                                S = SPORT                                                                                                        DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                 DEH = 6-Speed Manual NSG370
+                                                                                                                                                                 Transmission
+                                                                                                                                                                 DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                 Transmission
+
+
+
+
+                                                  AR = use ase required        - = Non illustrrated part                                                                                  2006 TJ
+
+
+             << RETURN TO GROUP INDEX
+

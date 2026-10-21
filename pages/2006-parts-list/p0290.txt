@@ -1,0 +1,59 @@
+                                               Gearshift Control
+                                               Figure 241-1210
+                                                                                      PART
+                                                                            ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                     NUMBER
+
+Gearshift Control                                       GEARSHIFT CONTROL
+
+
+
+
+                                                        NOTE:
+                                                        Sales Codes:
+                                                        [DEH]=6 Speed Manual Transmission - [NSG370]
+                                                        [DBB]=All Manual Transmissions
+                                                        [ED0]=All 2.2/2.4/2.5L 4 Cyl. Engines
+                                                        [ER0]=All 4.0L In-Line 6 Cyl. Engines
+                                                                             1     52104080AH       1                                                                          SHIFTER, Transfer Case
+                                                                             2     52104080AH       1                                                                          SCREW, [M5X0.8X25.00], (NOT
+                                                                                                                                                                               SERVICED)
+                                                                             3     52104080AH       1                                                                          SCREW, (NOT SERVICED)
+                                                                             4     06504601         5                                                                          NUT, Rivet Round, M5x0.80x11.09,
+                                                                                                                                                                               Shifter To Floor Pan
+                                                                             5                                                                                                 NUT AND CONED WASHER, Hex,
+                                                                                                                                                                               .375-24
+                                                                                   J4006681         6                                             ER0
+                                                                                                    6                                             ED0      DEH
+                                                                             6     52109920AA       1          J                                  ER0                          ROD, Torque Shaft
+                                                                             7     52109695AA       1          J                                  ER0                          BRACKET, Torque Shaft
+                                                                             8     52104073AC       1          J                                  ER0                          ROD, Gear Shift Control, Transfer
+                                                                                                                                                                               Case
+                                                                             9     52104073AC       1                                                                          SCREW AND WASHER, Hex
+                                                                                                                                                                               Head, M10x1.5x25, (NOT
+                                                                                                                                                                               SERVICED)
+                                                                            10     06503811         4                                                                          BOLT, Hex Head, M6x1.00x20.00
+
+
+
+
+                                                        WRANGLER (TJ)
+                                                        SERIES        LINE                                                BODY                     ENGINE                       TRANSMISSION
+                                                        H = HIGHLINE  J = JEEP - 4WD                                      77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                        L = LOWLINE   U = JEEP - 4WD (RHD)                                78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                        M = MEDIUM                                                                                 ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                        P = PREMIUM                                                                                Engine                       Transmission
+                                                        S = SPORT                                                                                                               DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                Transmission
+                                                                                                                                                                                DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                Transmission
+
+
+
+
+                                                          AR = use ase required               - = Non illustrrated part                                                                                  2006 TJ
+
+
+                    << RETURN TO GROUP INDEX
+

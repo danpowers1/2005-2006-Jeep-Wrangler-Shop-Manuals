@@ -1,0 +1,40 @@
+                                            VIN PLATE DECODING INFORMATION
+
+  1        2            3        4                5           6           7              8            9             10          11    12 thru 17
+
+                      Vehicle                                           Body                        Check       Model      Assy.
+Country   Make                  Other            Line       Series                    Engine                                         Sequence No.
+                       Type                                             Style                        Digit      Year       Plant
+
+
+                                          The following table interprets the VIN Plate position shown above.
+
+
+                 Position               Interpretation                        Codes = Description
+                 1                      Country of Origin                     1 = Manufactured By DaimlerChrysler Corporation
+                 2                      Assembler                             J = Jeep
+                 3                      Vehicle Type                          4 = Multipurpose Passenger Vehicle
+                 4                      GVWR & Pass. Safety                   D = 0 - 1360 kg ( 0 - 3000 lbs)
+                                                                              E = 1360 - 1814 kg ( 3001 - 4000 lbs)
+                                                                              F = 1815 - 2267 kg ( 4001 - 5000 lbs)
+                                                                              G = 2268 - 2721 kg (5001 - 6000 lbs)
+                                                                              H = 2722 - 3175 kg (6001 - 7000 lbs)
+                 5                      Vehicle Line                          A = Wrangler Left Hand Drive (4x4)
+                                                                              4 = Wrangler Right Hand Drive (4x4)
+                 6                      Series                                2 = Wrangler SE (Canada TJ SE)
+                                                                              3 = Wrangler X
+                                                                              4 = Wrangler Sport / Unlimited
+                                                                              5 = Wrangler Sahara
+                                                                              6 = Wrangler Rubicon
+                 7                      Body Style                            4 = Extended Open Body
+                                                                              9 = Open Body
+                                                                              4 = TJ-78
+                                                                              9 = TJ-77
+                 8                      Engine                                B = 2.4L I4 CYL DOHC Gasoline SMPI EDZ
+                                                                              S = 4.0L I6 CYL Gasoline ERH
+                 9                      Check Digit                           0 = Check Digit
+                                                                              0 = Check Digit
+                 10                     Model Year                            6 = 2006
+                 11                     Assembly Plant                        P = Toledo #2
+                 12 thru 17             Vehicle Build Sequence                Model Year Assembly Sequence
+

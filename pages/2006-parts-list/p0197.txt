@@ -1,0 +1,68 @@
+                                      Frame
+                                   Figure 13-110
+                                                            PART
+                                                  ITEM                    QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                           NUMBER
+
+Frame                                     FRAME
+
+
+
+
+                                          Sales Code ED0 = 2.4L Gas Engine
+                                          Sales Code ER0 = 4.0L Gas Engine
+                                          Sales Code DG0 = Auto Transmission
+                                          Sales Code DD0 = Manual Transmission
+                                                   1                                                                                                  FRAME, Chassis
+                                                         52058813AM         1          J                   61, 77                                      [ED0], Without [XDC]
+                                                         52058815AM         1          U                     77                                        [ER0], Without [XDC]
+                                                         52059651AG         1          J                   61, 77                                      [ED0], With [XDC]
+                                                         52059652AG         1          J                   61, 77                                      [ER0], With [XDC]
+                                                         52059653AG         1          U                     77                                        [ER0], With [XDC]
+                                                         56052329AF         1          J                   61, 78                                      [ER0], Without [XDC]
+                                                         52058811AM         1          J                   61, 77                                      [ER0], Without [XDC]
+                                                   2                                                                                                  BRACKET, Transmission Mount
+                                                         52059502AB         1                                                                          [ER0][DG0]
+                                                         52059509AB         1                                                                          [ER0][DEH]
+                                                         52059700AA         1                                                                          [ED0][DG0]
+                                                         52059698AA         1                                                                          [ED0][DEH]
+                                                   3                                                                                                  BRACKET, Transmission Mount
+                                                         52059502AB         1                                                                          [ER0][DG0]
+                                                         52059509AB         1                                                                          [ER0][DEH]
+                                                         52059698AA         1                                                                          [ED0][DEH]
+                                                         52059700AA         1                                                                          [ED0][DG0]
+                                                   4                                                                                                  BRACKET, Transmission Mount
+                                                         52059698AA         1                                                                          [ED0][DEH]
+                                                         52059700AA         1                                                                          [ED0][DG0]
+                                                         52059502AB         1                                                                          [ER0][DG0]
+                                                         52059509AB         1                                                                          [ER0][DEH]
+                                                   5     52085085           1                                                                         BUSHING, Exhaust Hanger
+                                                   6     52058551AB         1                                                                         MOUNT, Transmission, Trans.
+                                                                                                                                                      Support
+                                                   7                                                                                                  BRACKET, Transmission Mount
+                                                         52059502AB         1                                                                          [ER0][DG0]
+                                                         52059509AB         1                                                                          [ER0][DEH]
+                                                         52059698AA         1                                                                          [ED0][DEH]
+
+
+
+                                          WRANGLER (TJ)
+                                          SERIES        LINE                                      BODY                    ENGINE                       TRANSMISSION
+                                          H = HIGHLINE  J = JEEP - 4WD                            77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                          L = LOWLINE   U = JEEP - 4WD (RHD)                      78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                          M = MEDIUM                                                                      ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                          P = PREMIUM                                                                     Engine                       Transmission
+                                          S = SPORT                                                                                                    DDQ = 5-Speed Manual Transmission
+                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                       Transmission
+                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                       Transmission
+
+
+
+
+                                            AR = use ase required     - = Non illustrrated part                                                                                 2006 TJ
+
+
+        << RETURN TO GROUP INDEX
+

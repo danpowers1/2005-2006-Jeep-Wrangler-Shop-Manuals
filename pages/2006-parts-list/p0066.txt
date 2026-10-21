@@ -1,0 +1,69 @@
+                                          Front Brakes
+                                          Figure 5-110
+                                                               PART
+                                                   ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                              NUMBER
+
+Front Brakes
+
+
+
+
+                                                     1                                                                                                   BOLT
+                                                           34201535            6          U                     77                                        Knuckle to Hub and Bearing,
+                                                                                                                                                          Mounting
+                                                                               6          J                                                               Knuckle to Hub and Bearing,
+                                                                                                                                                          Mounting
+                                                     2                                                                                                   SHIELD, Brake
+                                                           52005476            1          U                     77                                         Right
+                                                                               1          J                                                                Right
+                                                           52005477            1          U                     77                                         Left
+                                                                               1          J                                                                Left
+                                                     3                                                                                                   HUB AND BEARING, Brake
+                                                           05016458AA          2          U                     77
+                                                                               2          J
+                                                     4                                                                                                   STUD, Hub
+                                                           06036482AA         10          U                     77
+                                                                              10          J
+                                                     5                                                                                                   ROTOR, Brake
+                                                           05016434AA          2          J
+                                                           V5016434AB                                                                                      Mopar V-Line Alternative Brake
+                                                                                                                                                           Rotors
+                                                                               2          U                     77
+                                                           V5016434AB                                                                                     Mopar V-Line Alternative Brake
+                                                                                                                                                          Rotors
+                                                     6                                                                                                   WASHER, Flat
+                                                           J4200096            2          U                     77
+                                                                               2          J
+                                                     7                                                                                                   NUT, Hex
+                                                           J4200095            2          U                     77
+                                                                               2          J
+                                                     8                                                                                                   WASHER, Wave
+                                                           04740749            2          U                     77
+                                                                               2          J
+                                                     9                                                                                                   RETAINER, Hub Nut
+                                                           J4200097            2          U                     77
+
+
+
+
+                                                WRANGLER (TJ)
+                                                SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                P = PREMIUM                                                                  Engine                       Transmission
+                                                S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                          DEH = 6-Speed Manual NSG370
+                                                                                                                                                          Transmission
+                                                                                                                                                          DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                          Transmission
+
+
+
+
+                                                 AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+               << RETURN TO GROUP INDEX
+

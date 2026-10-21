@@ -1,0 +1,49 @@
+                              Countershaft
+                           Figure NSG370-430
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                              05159165AA          1                                             ER0      DEH
+                                                                  1                                             ED0      DEH
+                                       11                                                                                                    STOP RING, Synchronizer
+                                              05159166AA          1                                             ER0      DEH
+                                                                  1                                             ED0      DEH
+                                       12                                                                                                    GEAR, Fourth
+                                              05098800AA          1                                             ER0      DEH
+                                                                  1                                             ED0      DEH
+                                       13                                                                                                    BEARING, Needle
+                                              05096455AA          1                                             ER0      DEH
+                                                                  1                                             ED0      DEH
+                                       14                                                                                                    COUNTERSHAFT
+                                              05159162AA          1                                             ER0      DEH
+                                                                  1                                             ED0      DEH
+                                       15                                                                                                    SLINGER, Oil
+                                              05159167AA          1                                             ER0      DEH
+                                                                  1                                             ED0      DEH
+
+
+
+
+                                    WRANGLER (TJ)
+                                    SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                    H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                    L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                    M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                    P = PREMIUM                                                                  Engine                       Transmission
+                                    S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                              Transmission
+                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                              Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

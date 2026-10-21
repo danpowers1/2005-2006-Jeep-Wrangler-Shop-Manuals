@@ -1,0 +1,67 @@
+                                                     Front, Cloth, Trim Code [S5]
+                                                            Figure ITJ-530
+                                                                                  PART
+                                                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                 NUMBER
+
+Front, Cloth, Trim Code [S5]
+
+
+
+
+                                                                        1                                                                                                   BACK, Front Seat
+                                                                              1CC401DVAA          1          J                     77                              *S5       Right
+                                                                                                  1          U                     77                              *S5       Right
+                                                                                                  1          J                     78                              *S5       Right
+                                                                              1CC411DVAA          1          J                     77                              *S5       Left
+                                                                                                  1          U                     77                              *S5       Left
+                                                                                                  1          J                     78                              *S5       Left
+                                                                        2                                                                                                   COVER, Front Seat Back
+                                                                              1CC391DVAA          1          J                     77                              *S5       Left
+                                                                                                  1          U                     77                              *S5       Left
+                                                                                                  1          J                     78                              *S5       Left
+                                                                              1CC381DVAA          1          J                     77                              *S5       Right
+                                                                                                  1          U                     77                              *S5       Right
+                                                                                                  1          J                     78                              *S5       Right
+                                                                        3                                                                                                   COVER, Front Seat Cushion
+                                                                              1CC321DVAA          1          J                     77                              *S5       Right
+                                                                                                  1          U                     77                              *S5       Right
+                                                                                                  1          J                     78                              *S5       Right
+                                                                              1CC331DVAA          1          J                     77                              *S5       Left
+                                                                                                  1          U                     77                              *S5       Left
+                                                                                                  1          J                     78                              *S5       Left
+                                                                        4                                                                                                   WIRE KIT, Trimming
+                                                                              05093573AA          2          J                     77                              *S5
+                                                                                                  2          U                     77                              *S5
+                                                                                                  2          J                     78                              *S5
+                                                                        5                                                                                                   FOAM, Seat Cushion
+                                                                              05093574AA          1          J                     77                              *S5       Right
+                                                                                                  1          U                     77                              *S5       Right
+                                                                                                  1          J                     78                              *S5       Right
+                                                                              05093575AA          1          J                     77                              *S5       Left
+                                                                                                  1          U                     77                              *S5       Left
+                                                                        6                                                                                                   FRAME, Front Seat
+
+
+
+
+                                                                   WRANGLER (TJ)
+                                                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                   P = PREMIUM                                                                  Engine                       Transmission
+                                                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                                                             Transmission
+                                                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                             Transmission
+
+
+
+
+                                                                    AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

@@ -1,0 +1,56 @@
+                                                    Speed Control, 2.4 (ED1), 4.0 (ERH)
+                                                            Figure 14-1010
+                                                                                                                   PART
+                                                                                            ITEM                               QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                                  NUMBER
+
+Speed Control, 2.4 (ED1), 4.0 (ERH)                                   SPEED CONTROL, 2.4 (ED1), 4.0 (ERH)
+
+
+
+
+                                                                      Note; ED1= 2.4 Gas Engines, ERO= All 4.0 Gas Engines.
+                                                                                                            1                                                                                               BRACKET, Speed Control Servo
+                                                                                                                52109523AB       1                                             ER0
+                                                                                                                                 1                                             ED1
+                                                                                                            2                    1                                                                          SCREW, M6x1.00x20.00, (NOT
+                                                                                                                                                                                                            SERVICED)
+                                                                                                            3                                                                                               CABLE, Speed Control
+                                                                                                                52109524AD       1                                             ER0
+                                                                                                                52109527AB       1                                             ED1
+                                                                                                            4                                                                                               CLIP, Cable to Servo Attach
+                                                                                                                06025867         1                                             ER0
+                                                                                                                                 1                                             ED1
+                                                                                                            5                                                                                               NUT, Hex Flange Serration, M6x1
+                                                                                                                06502493         2                                             ED1
+                                                                                                                                 2                                             ER0
+                                                                                                            6                                                                                               SERVO, Speed Control
+                                                                                                                04669979         1                                             ED1
+                                                                                                                                 1                                             ER0
+                                                                                                            7                                                                                               HARNESS, Speed Control Vacuum
+                                                                                                                52109525AD       1                                             ER0
+                                                                                                                52109529AD       1                                             ED1
+
+
+
+
+                                                                      WRANGLER (TJ)
+                                                                      SERIES        LINE                                                               BODY                     ENGINE                       TRANSMISSION
+                                                                      H = HIGHLINE  J = JEEP - 4WD                                                     77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                      L = LOWLINE   U = JEEP - 4WD (RHD)                                               78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                      M = MEDIUM                                                                                                ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                      P = PREMIUM                                                                                               Engine                       Transmission
+                                                                      S = SPORT                                                                                                                              DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                             Transmission
+                                                                                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                             Transmission
+
+
+
+
+                                                                         AR = use ase required                             - = Non illustrrated part                                                                                  2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

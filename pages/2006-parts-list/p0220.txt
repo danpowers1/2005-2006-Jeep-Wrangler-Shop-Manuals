@@ -1,0 +1,69 @@
+                                                      Propshaft,Front and Rear
+                                                           Figure 16-110
+                                                                                                     PART
+                                                                                      ITEM                       QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                    NUMBER
+
+Propshaft,Front and Rear                                          PROPSHAFT,FRONT AND REAR
+
+
+
+
+                                                                  Note:Sales Codes;
+                                                                  [DHN]= Command-Trac Part Time 4WD System
+                                                                  [DHW]=4:1 Rock-Trac HD Part Time 4WD System
+                                                                  [DRJ]=Axle - Rear,Dana M35/194MM
+                                                                  [DRK]=Axle - Rear,Dana 44/226MM
+                                                                                             1                                                                                                FLANGE, Drive Shaft
+                                                                                                  05015556AA       1          J                     78           ER0                            [DRK,DHW]
+                                                                                                  05093824AA       1                                77           ER0                            [DRK,DHW]
+                                                                                             2                                                                                                U-JOINT PACKAGE
+                                                                                                  05093377AB       1                                77           ER0                            [DRK,DHW], Front
+                                                                                                  05093820AB       1                                77           ER0                            [DRK,DHW], Rear
+                                                                                             3    05161766AA       2          J                     78           ER0                          U-JOINT, [DRK,DHW], Front or
+                                                                                                                                                                                              Rear
+                                                                                             4    06506497AA       4                                                                          BOLT, Hex Head, M12,
+                                                                                                                                                                                              [DRK,DHW], Mounting
+                                                                                             5                                                                                                YOKE, Drive Shaft
+                                                                                                  05093821AB       1                                77           ER0                            [DRK,DHW]
+                                                                                                  05161767AA       1          J                     78           ER0                            [DRK,DHW]
+                                                                                             6                                                                                                CLAMP, Boot
+                                                                                                  05013625AA       1          J                     78           ER0                            [DRK,DHW], Large
+                                                                                                  05013626AA       1          J                     78           ER0                            [DRK,DHW], Small
+                                                                                             7                                                                                                BOOT, Drive Shaft
+                                                                                                  05083001AA       1          J                     78           ER0                            [DRK,DHW] Without Clamps
+                                                                                                  05093823AA       1                                77           ER0                            [DRK,DHW] With Clamps
+                                                                                             8                                                                                                SHAFT, Drive, Rear 1-Piece
+                                                                                                  52853410AD       1                                77           ER0                            [DRK,DHW]
+                                                                                                  56052585AA       1          J                     78           ER0                            [DRK,DHW]
+                                                                                             9    J4006928         4                                                                          BOLT, Prop Shaft, Mounting
+                                                                                             10   J3240553         2                                                                          STRAP, Prop ShaftMounting
+                                                                                             11                                                                                               SNAP RING
+                                                                                                  05127829AA       2                                77           ER0                            [DRK,DHW], Rear
+                                                                                                                   4                                77           ER0                            [DRK,DHW], Front
+                                                                                             12                                                                                               U-JOINT
+                                                                                                  04882793         2                                77           ER0                            [DRK,DHN], Front or Rear
+
+
+
+
+                                                                  WRANGLER (TJ)
+                                                                  SERIES        LINE                                                     BODY                     ENGINE                       TRANSMISSION
+                                                                  H = HIGHLINE  J = JEEP - 4WD                                           77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                  L = LOWLINE   U = JEEP - 4WD (RHD)                                     78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                  M = MEDIUM                                                                                      ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                  P = PREMIUM                                                                                     Engine                       Transmission
+                                                                  S = SPORT                                                                                                                    DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                               DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                               Transmission
+                                                                                                                                                                                               DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                               Transmission
+
+
+
+
+                                                                    AR = use ase required                    - = Non illustrrated part                                                                                  2006 TJ
+
+
+                           << RETURN TO GROUP INDEX
+

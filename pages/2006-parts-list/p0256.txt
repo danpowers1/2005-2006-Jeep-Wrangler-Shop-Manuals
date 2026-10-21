@@ -1,0 +1,58 @@
+                                                Gearshift Control
+                                               Figure 42RLE-1210
+                                                                                      PART
+                                                                            ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                     NUMBER
+
+Gearshift Control                                       GEARSHIFT CONTROL
+
+
+
+
+                                                        NOTE:
+                                                        Sales Codes:
+                                                        [DG6]=4 Speed Automatic Transmission - 42RLE
+                                                        [ED0]=All 2.4L Four Cyl. Engines
+                                                        [ER0]=All 4.0L Inline Six Engines
+                                                                             1     52104028         1                                                     DG0                 HANDLE, Gearshift
+                                                                             2     52077561         1                                                     DG0                 CAP, Gearshift Handle Button
+                                                                             3     53000211         1                                                     DG0                 BUTTON, Gearshift Knob
+                                                                             4     53000865         1                                                     DG0                 LEVER, Gearshift
+                                                                             5     53000866         1                                                     DG0                 SPRING, Button Return
+                                                                             6     52059695AA       1                                                     DG6                 HOUSING, Shift Lever
+                                                                             7     52104422AC       1                                                     DG6                 CABLE, Park Interlock
+                                                                             8     52109624AD       1                                                     DG6                 CABLE, Shift
+                                                                             9     06501648         4                                                     DG0                 SCREW, Hex Flange Head,
+                                                                                                                                                                              M8x1.25x25.00
+                                                                            10     06506348AA      10          J                                                              SCREW AND WASHER, Hex
+                                                                                                                                                                              Head, M6x1x25
+                                                                             11    53000704AE       1                                                     DG6                 COVER, Gearshift
+                                                                            12     06101767         2                                                     DG0                 SCREW AND WASHER,
+                                                                                                                                                                              M8x1.25x25
+                                                                            13     52109623AB       1                                                     DG0                 BRACKET, Shift Cable
+                                                                            14     52109622AC       1                                                     DG6                 LEVER, Manual Control
+                                                                            15     06506676AA       1                                                     DG6                 NUT & WASHER, M8x1.25
+
+
+
+
+                                                        WRANGLER (TJ)
+                                                        SERIES        LINE                                                BODY                    ENGINE                       TRANSMISSION
+                                                        H = HIGHLINE  J = JEEP - 4WD                                      77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                        L = LOWLINE   U = JEEP - 4WD (RHD)                                78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                        M = MEDIUM                                                                                ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                        P = PREMIUM                                                                               Engine                       Transmission
+                                                        S = SPORT                                                                                                              DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                               DEH = 6-Speed Manual NSG370
+                                                                                                                                                                               Transmission
+                                                                                                                                                                               DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                               Transmission
+
+
+
+
+                                                          AR = use ase required               - = Non illustrrated part                                                                                 2006 TJ
+
+
+                    << RETURN TO GROUP INDEX
+

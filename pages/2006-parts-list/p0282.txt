@@ -1,0 +1,55 @@
+                                           Skid Plate
+                                        Figure 231-1220
+                                                                       PART
+                                                             ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                      NUMBER
+
+Skid Plate                                      SKID PLATE
+
+
+
+
+                                                NOTE:
+                                                Sales Codes:
+                                                [DEH]=6 Speed Manual Transmission - [NSG370]
+                                                [DBB]=All Manual Transmissions
+                                                [ED0]=All 2.2/2.4/2.5L 4 Cyl. Engines
+                                                [ER0]=All 4.0L In-Line 6 Cyl. Engines
+                                                              1     06506629AA       2                                                      DG6                 NUT, Rivet, [M12X1.75X29.59],
+                                                                                                                                                                Skidplate To Skidplate, Mounting
+                                                              2                                                                                                 SKID PLATE, Support
+                                                                    52059501AB       1          J                                  ER0
+                                                                                     1          J                                  ED0
+                                                                                     1          U                                  ER0
+                                                              3                                                                                                 SCREW, [M12X1.75X40.00]
+                                                                    06507904AA       6          J                                  ER0                            Skid Plate To Frame, Mounting
+                                                                                     6          J                                  ED0                            Skid Plate To Frame, Mounting
+                                                                                     6          U                                  ER0                            Skid Plate To Frame, Mounting
+                                                              4     06503543         2                                                      DG6                 BOLT AND CONED WASHER,
+                                                                                                                                                                Hex Head, M8x1.25x25, Skid Plate
+                                                                                                                                                                To Skid Plate, Mounting
+                                                              5     52059506AB       1                                                      DG6                 SKID PLATE, Front
+
+
+
+
+                                                WRANGLER (TJ)
+                                                SERIES        LINE                                         BODY                     ENGINE                       TRANSMISSION
+                                                H = HIGHLINE  J = JEEP - 4WD                               77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                L = LOWLINE   U = JEEP - 4WD (RHD)                         78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                M = MEDIUM                                                                          ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                P = PREMIUM                                                                         Engine                       Transmission
+                                                S = SPORT                                                                                                        DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                 DEH = 6-Speed Manual NSG370
+                                                                                                                                                                 Transmission
+                                                                                                                                                                 DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                 Transmission
+
+
+
+
+                                                   AR = use ase required       - = Non illustrrated part                                                                                  2006 TJ
+
+
+             << RETURN TO GROUP INDEX
+

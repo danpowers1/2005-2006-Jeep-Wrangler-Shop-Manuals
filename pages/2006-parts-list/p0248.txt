@@ -1,0 +1,51 @@
+                           Clutch Input Shaft
+                           Figure 42RLE-430
+                                                   PART
+                                       ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                  NUMBER
+
+
+
+                                        39     04626452AB          1                                             ER0      DG6                 INPUT SHAFT PACKAGE,
+                                                                                                                                              Transaxle
+                                        40     04626452AB          1                                                                          HUB, Input Clutch, Serviced in
+                                                                                                                                              Assembly, (NOT SERVICED)
+                                        41     06502271            1                                             ER0      DG6                 O RING, Transmission Clutch
+                                        42     06502269            1                                             ER0      DG6                 O RING, Transmission Clutch
+                                        43     04659391AB          1                                             ER0      DG6                 SEAL, Under Drive
+                                        44     04412203            1                                             ER0      DG6                 SNAP RING
+                                        45     04412203            1                                             ER0      DG6                 SNAP RING
+                                        46     04412202            1                                             ER0      DG6                 SPRING, Overdrive Piston
+                                        47     06033158            1                                             ER0      DG6                 O RING, Reverse & O/Drive Clutch
+                                                                                                                                              Piston, Transmission
+                                        48     05017518AB          1                                             ER0      DG6                 HUB PACKAGE, Input Clutch
+                                        -49    05017518AB          1                                                                          PISTON, Reverse and Overdrive,
+                                                                                                                                              Serviced in Assembly, (NOT
+                                                                                                                                              SERVICED)
+                                        -50    04531903            1                                             ER0      DG6                 FILTER, Reverse And O/D Clutch
+                                        51     04659056            1                                             ER0      DG6                 SEAL, Reverse Servo Piston
+                                        52     04659056            1                                             ER0      DG6                 SEAL, Reverse Servo Piston
+
+
+
+
+                                    WRANGLER (TJ)
+                                    SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                    H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                    L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                    M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                    P = PREMIUM                                                                   Engine                       Transmission
+                                    S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                               DEH = 6-Speed Manual NSG370
+                                                                                                                                               Transmission
+                                                                                                                                               DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                               Transmission
+
+
+
+
+                                     AR = use ase required   - = Non illustrrated part                                                                                   2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

@@ -1,0 +1,68 @@
+                                       Bulbs
+                                   Figure 8-1120
+                                                            PART
+                                                  ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                           NUMBER
+
+Bulbs                                     BULBS
+
+
+
+
+                                          Notes:
+                                          [DG0] = All Automatic Transmission
+                                                   1     L0001156         1                                                                         BULB, 1156
+                                                   2     L0007528         2                                77                                       BULB, P-25-2
+                                                   3     L000921E         1                                                                         BULB, 921
+                                                   4     L00H355W         2                                                                         BULB, Fog Lamp, H-3 55 WATT
+                                                   5                                                                                                BULB, T8/4
+                                                         L0003893         1          J                     77
+                                                                          1          U                     77
+                                                   6     00153624         2                                                                         BULB, W3W
+                                                   7     00154905AA       1                                                                         BULB, H6024BL
+                                                         P0046024ST                                                                                   SilverStar
+                                                         LBK14003                                                                                    Light Bulb Kit (Assorted Bulbs
+                                                                                                                                                     and Fuses)
+                                                   8                                                                                                BULB, Headlamp
+                                                         L00H460W         1          J                     77
+                                                                          1          U                     77
+                                                   9     L002825W5W       1                                                                         BULB, W10/5
+                                                  10     L0003157         1                                                                         BULB, 3157
+                                                   11    00153622         2                                                                         BULB, P-25-1
+                                                  12     L0001157         1                                                                         BULB, 1157
+                                                  13     L0000561         1                                                                         BULB, 561
+                                                  14     L0021102         1                                                                         BULB, 211-2
+                                                  15     L0000906         1                                                                         BULB, 906
+                                                  16     04874349         5                                       ED0, ER0                          BULB AND SOCKET
+                                                  17                                                                                                BULB, Heater and A/C Control
+                                                         05183278AA       3          U                     77
+                                                                          3          J
+                                                  18     L0000194         1                                                                         BULB, 194, Passenger air bag
+                                                                                                                                                    warning
+                                                  19                                                                                                BULB AND SOCKET
+                                                         04874122AB       1                                                     DBB                   Switch Illuminator
+                                                                          1                                                     DG0                   Switch Illuminator
+
+
+
+
+                                          WRANGLER (TJ)
+                                          SERIES        LINE                                    BODY                    ENGINE                       TRANSMISSION
+                                          H = HIGHLINE  J = JEEP - 4WD                          77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                          L = LOWLINE   U = JEEP - 4WD (RHD)                    78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                          M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                          P = PREMIUM                                                                   Engine                       Transmission
+                                          S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                     Transmission
+                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                     Transmission
+
+
+
+
+                                            AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+        << RETURN TO GROUP INDEX
+

@@ -1,0 +1,75 @@
+                                                  Plumbing, HVAC 2.4L Engine
+                                                         Figure 24-240
+                                                                              PART
+                                                                  ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                             NUMBER
+
+Plumbing, HVAC 2.4L Engine
+
+
+
+
+                                                                    1     55037618AF          1          J                                                               CONDENSER, Air Conditioning
+                                                                    2     55037579AD          1          J                                  ED0                          LINE, A/C Discharge, Contains
+                                                                                                                                                                         Items 3 to 8
+                                                                    3     05174039AB          1          J                                  ED0                          VALVE, A/C pressure Transducer,
+                                                                                                                                                                         Includes Item # 4
+                                                                   -4     05183358AA          1          J                                  ED0                          O RING, A/C Line, For Transducer
+                                                                                                                                                                         Valve
+                                                                   -5     05139487AA          2          J                                  ED0                          O RING, A/C Line, Compressor
+                                                                                                                                                                         And Condenser End
+                                                                   -6     05264638            2          J                                  ED0                          VALVE, Charging
+                                                                   -7     05264642            1          J                                  ED0                          CAP, A/C Check Valve
+                                                                   -8     05174115AA          1          J                                  ED0                          SEAL, Compressor End
+                                                                    9     55037706AE          1          J                                  ED0                          LINE, A/C Liquid, Contains Items
+                                                                                                                                                                         10 to 14
+                                                                   -10    05139486AA          1          J                                  ED0                          O RING, A/C Line, Condenser End
+                                                                   -11    04882335            1          J                                  ED0                          CAP, A/C Check Valve
+                                                                   -12    05101791AA          1          J                                  ED0                          VALVE, Charging
+                                                                   -13    05183657AA          1          J                                  ED0                          O RING KIT, Quick Connect,
+                                                                                                                                                                         Includes 2 O-rings and 1 Spring,
+                                                                                                                                                                         Evaporator End
+                                                                   -14    05101886AA          1          J                                  ED0                          ORIFICE, Liquid Line
+                                                                   15     55037584AI          1          J                                  ED0                          ACCUMULATOR, Suction Line,
+                                                                                                                                                                         Complete, Contains Items 16 to 23
+                                                                   -16    05183749AA          1          J                                  ED0                          ACCUMULATOR, Suction Line,
+                                                                                                                                                                         Includes Pressure Switch
+                                                                   17     05183720AA          1          J                                  ED0                          LINE, A/C Suction
+                                                                   18     05183719AA          1          J                                  ED0                          LINE, A/C Suction
+                                                                   -19    05072141AA          1          J                                  ED0                          GASKET & O RING KIT, A/C Line,
+                                                                                                                                                                         Includes 1 O-rings and 1 Gasket,
+                                                                                                                                                                         Either Suction Line, Accumulator
+                                                                                                                                                                         End
+                                                                   -20    05183716AA          1          J                                  ED0                          O RING KIT, Quick Connect,
+                                                                                                                                                                         Includes 2 O-rings and 1 Spring,
+                                                                                                                                                                         Evaporator End
+                                                                   21     05096126AA          1          J                                  ED0                          SWITCH KIT, A/C - Pressure,
+                                                                                                                                                                         Includes Item # 22
+                                                                   -22    05012348AA          1          J                                  ED0                          O RING, A/C Suction Line, For
+                                                                                                                                                                         Pressure Switch
+                                                                   -23    05183718AA          1          J                                  ED0                          GASKET & O RING KIT, A/C Line,
+                                                                                                                                                                         Includes 2 O-rings and 1 Gasket,
+                                                                                                                                                                         Compressor End
+
+
+
+                                                               WRANGLER (TJ)
+                                                               SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                                               H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                               L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                               M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                               P = PREMIUM                                                                   Engine                       Transmission
+                                                               S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                          DEH = 6-Speed Manual NSG370
+                                                                                                                                                                          Transmission
+                                                                                                                                                                          DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                          Transmission
+
+
+
+
+                                                                AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

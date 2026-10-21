@@ -1,0 +1,58 @@
+                                                   Exhaust System, 2.4 (ED1), 4.0 (ERO)
+                                                              Figure 11-110
+                                                                                                                   PART
+                                                                                           ITEM                                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                                  NUMBER
+
+Exhaust System, 2.4 (ED1), 4.0 (ERO)                                 EXHAUST SYSTEM, 2.4 (ED1), 4.0 (ERO)
+
+
+
+
+                                                                     NOTE:[ EP0]=All 2.5L Gas Engines [ER0]=All 4.0L Engines [ DBB]=All Manual Transmissions [ DG0]=All Automatic Transmissions
+                                                                                                            1   52059716AA         2                                             ED1                          NUT, Hex Lock, M8x1.25
+                                                                                                            2                                                                                                 PIPE AND CONVERTER, Exhaust,
+                                                                                                                                                                                                              To Manifold
+                                                                                                                52059681AD         1                              77, 78         ER0
+                                                                                                                52059730AB         1                                77           ED1
+                                                                                                            3   06505954AA         2                                77           ED1   DBB, DG0               SCREW, Hex Head Pilot Point,
+                                                                                                                                                                                                              M8x1.25x65.00
+                                                                                                            4   06502337           2                                                                          NUT, M10x1.5
+                                                                                                            5   06505754AA         4                                             ER0                          SCREW, Hex Head, Exhuast Pipe
+                                                                                                                                                                                                              to Manifold
+                                                                                                            6   52019408AC         1                                                                          HANGER, Mufer
+                                                                                                            7   06505178AA         4                                                                          SCREW, Hex Head
+                                                                                                            8   52101035           2                                                                          INSULATOR, Exhaust
+                                                                                                            9                                                                                                 MUFFLER AND TAILPIPE,
+                                                                                                                                                                                                              Exhaust
+                                                                                                                52019241AF         1                              61, 77         ER0
+                                                                                                                52059614AB         1                                77           ED1
+                                                                                                                56052347AA         1          J                   61, 78         ER0
+                                                                                                    10          52019413           1                                                                          HANGER, Exhaust
+                                                                                                  -11                                                                                                         NUT, Exhaust Manifold
+                                                                                                                06506546AA         2                                             ER0                            Front
+                                                                                                                                   2                                             ER0                            Rear
+
+
+
+
+                                                                     WRANGLER (TJ)
+                                                                     SERIES        LINE                                                                  BODY                     ENGINE                       TRANSMISSION
+                                                                     H = HIGHLINE  J = JEEP - 4WD                                                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                     L = LOWLINE   U = JEEP - 4WD (RHD)                                                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                     M = MEDIUM                                                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                     P = PREMIUM                                                                                                  Engine                       Transmission
+                                                                     S = SPORT                                                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                               DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                               Transmission
+                                                                                                                                                                                                               DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                               Transmission
+
+
+
+
+                                                                        AR = use ase required                                - = Non illustrrated part                                                                                  2006 TJ
+
+
+                        << RETURN TO GROUP INDEX
+

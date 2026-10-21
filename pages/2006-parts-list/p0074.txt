@@ -1,0 +1,66 @@
+                           Brakes,Rear,Drum
+                             Figure 5-220
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                              BHKH2627                                                                                       Mopar V-Line Alternative Part
+                                                                                                                                             Drum Self Adjuster Kit
+                                              V2010367AB                                                                                     Mopar V-Line Alternative Part
+                                                                  1          J                     77                                        From 10-19-05-B Market Only
+                                              BHKH7265                                                                                       Mopar V-Line Alternative Part All
+                                                                                                                                             In One Drum Combi Kits
+                                              BHKH2626                                                                                       Mopar V-Line Alternative Part
+                                                                                                                                             Drum Self Adjuster Kit Left
+                                              BHKH2627                                                                                       Mopar V-Line Alternative Part
+                                                                                                                                             Drum Self Adjuster Kit
+                                              V2010367AB                                                                                     Mopar V-Line Alternative Part
+                                              05191789AA          1          J                     77                                        From 10-19-05-C,M,U Market
+                                                                                                                                             Only
+                                        6                                                                                                   DRUM, Brake
+                                              52005350            2          U                     77
+                                                                  2          J                     77
+                                        7                                                                                                   BRACKET, Brake Sensor
+                                              05135219AA          1          J                     77                                        Left
+                                                                  1          U                     77                                        Left
+                                              05135218AA          1          J                     77                                        Right
+                                                                  1          U                     77                                        Right
+                                        8                                                                                                   SENSOR, Anti-Lock Brakes
+                                              56027729            1          U                     77                                        Left
+                                              56027728            1          J                     77                                        Right
+                                                                  1          U                     77                                        Right
+                                                                  1          J                     77                                        Left
+                                        9                                                                                                   BOLT, ABS Sensor
+                                              04762191            2          J                     77
+                                                                  2          U                     77
+                                       10                                                                                                   BRAKE ASSEMBLY, Rear Drum
+                                              52008664AC          1          U                     77                                        [BGA] Complete Less Drum- Up
+                                                                                                                                             To 10-18-05, Right
+                                                                  1          J                     77                                        [BGA] Complete Less Drum- Up
+                                                                                                                                             To 10-18-05, Right
+
+
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                  Engine                       Transmission
+                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                             Transmission
+                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                             Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

@@ -1,0 +1,53 @@
+                                                     Throttle Body, 2.4 (ED1), 4.0 (ERH)
+                                                               Figure 14-610
+                                                                                                                    PART
+                                                                                             ITEM                                 QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                                   NUMBER
+
+Throttle Body, 2.4 (ED1), 4.0 (ERH)                                    THROTTLE BODY, 2.4 (ED1), 4.0 (ERH)
+
+
+
+
+                                                                       NOTE: ED1=All 2.4L Gas Engines ER0=All 4.0L Engines
+                                                                                                             1                                                                                                 THROTTLE BODY
+                                                                                                                 05140896AA         1                                             ED0
+                                                                                                                 05161510AA         1                                             ER0
+                                                                                                             2   06503929           4                                             ER0                          SCREW AND WASHER, Coned
+                                                                                                                                                                                                               Pilot, M6x1x30
+                                                                                                             3   06101451           3                                             ED0                          SCREW AND WASHER, Hex
+                                                                                                                                                                                                               Head, M6x1x25
+                                                                                                             4                                                                                                 SENSOR KIT, Throttle Position
+                                                                                                                 05019411AC         1                                             ER0
+                                                                                                                 05019411AD         1                                             ED0
+                                                                                                             5                                                                                                 SOLENOID, Linear IACV
+                                                                                                                 04861325AD         1                                             ED0
+                                                                                                                 04861552AC         1                                             ER0
+                                                                                                             6                                                                                                 GASKET, Throttle Body To Intake
+                                                                                                                 53007543AB         1                                             ER0
+                                                                                                                 53013533AA         1                                             ED0
+                                                                                                         -7      53009672           1                                             ER0                          CONNECTOR, Emission Hose
+
+
+
+
+                                                                       WRANGLER (TJ)
+                                                                       SERIES        LINE                                                                 BODY                     ENGINE                       TRANSMISSION
+                                                                       H = HIGHLINE  J = JEEP - 4WD                                                       77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                       L = LOWLINE   U = JEEP - 4WD (RHD)                                                 78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                       M = MEDIUM                                                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                       P = PREMIUM                                                                                                 Engine                       Transmission
+                                                                       S = SPORT                                                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                                DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                                Transmission
+                                                                                                                                                                                                                DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                                Transmission
+
+
+
+
+                                                                          AR = use ase required                               - = Non illustrrated part                                                                                  2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

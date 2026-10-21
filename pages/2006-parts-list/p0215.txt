@@ -1,0 +1,57 @@
+                                                     Throttle Controls, 2.4 (ED1), 4.0 (ERH)
+                                                                 Figure 14-710
+                                                                                                                      PART
+                                                                                               ITEM                               QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                                     NUMBER
+
+Throttle Controls, 2.4 (ED1), 4.0 (ERH)                                  THROTTLE CONTROLS, 2.4 (ED1), 4.0 (ERH)
+
+
+
+
+                                                                         NOTE: ED1=All 2.4L Gas Engines ER0=All 4.0L Engines DBB=All Manual Transmissions DG0=All Automatic Transmissions
+                                                                                                             1                                                                                                 CABLE, Speed Control
+                                                                                                                   52109524AD       1                                             ER0
+                                                                                                                   52109527AB       1                                             ED1
+                                                                                                             2                                                                                                 CABLE, Accelerator
+                                                                                                                   04854137         1                                             ER0
+                                                                                                                   52109501AB       1          J                                  ED0
+                                                                                                             3     52079029         1                                             ER0                          GUIDE, Accelerator Cable
+                                                                                                             4     53013160AA       1                                             ER0                          BRACKET, Accelerator Cable
+                                                                                                             5     06501979         2                                             ER0                          SCREW AND WASHER, Hex
+                                                                                                                                                                                                               Head, M6x1x17
+                                                                                                             6     06501979         2                                                                          PLUG, Access Hole, Serviced
+                                                                                                                                                                                                               with Accelerator Cable, (NOT
+                                                                                                                                                                                                               SERVICED)
+                                                                                                             7     52127952AC       1                                                                          BRACKET, Cable
+                                                                                                             8     06501979         2                                             ER0                          SCREW AND WASHER, Hex
+                                                                                                                                                                                                               Head, M6x1x17
+                                                                                                             9     06501979         2                                                                          LEVER, Throttle Valve, (NOT
+                                                                                                                                                                                                               REQUIRED)
+                                                                                                        10         52109563AA       1          J                                  ER0                          GUIDE, Accelerator Cable
+                                                                                                      -11          53013681AA      AR                                                                          CLIP, Locking, Accelerator Cable
+                                                                                                     -12           53013682AA      AR                                                                          CLIP, Push In
+
+
+
+
+                                                                         WRANGLER (TJ)
+                                                                         SERIES        LINE                                                               BODY                     ENGINE                       TRANSMISSION
+                                                                         H = HIGHLINE  J = JEEP - 4WD                                                     77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                         L = LOWLINE   U = JEEP - 4WD (RHD)                                               78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                         M = MEDIUM                                                                                                ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                         P = PREMIUM                                                                                               Engine                       Transmission
+                                                                         S = SPORT                                                                                                                              DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                                DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                                Transmission
+                                                                                                                                                                                                                DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                                Transmission
+
+
+
+
+                                                                            AR = use ase required                             - = Non illustrrated part                                                                                   2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

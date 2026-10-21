@@ -1,0 +1,62 @@
+                           Instrument Panel
+                            Figure 08A-110
+                                                  PART
+                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                 NUMBER
+
+
+
+                                              0XX16XDVAA          1          U                     77                                         [DV]
+                                       31     5FS10DX9            2                                                                         OUTLET, Air Conditioning &
+                                                                                                                                            HeaterCenter
+                                       32     5FS10DX9            2                                                                         COVER, Radio Opening, (NOT
+                                                                                                                                            SERVICED)
+                                       33                                                                                                   BEZEL, Cigar Lighter
+                                              05101964AA          1          J                   77, 78                 DG0                   [CGZ] Canada
+                                              05096094AA          1                                                     DBB
+                                                                  1                                                     DG0                   [CGZ]
+                                              56047071AC          1                                                     DBB                   4 Switch Plugs, Cigar and Power
+                                                                                                                                              Outlet with Socket/Cap Included
+                                       34                                                                                                   PLUG, Switch Opening
+                                              56007285AB          1                                                     DBB                   Overdrive Lockout Switch
+                                              56007329            1                                                     DBB                   Heated Rear Window
+                                              56007330            1                                                     DBB                   Rear Washer and Wiper
+                                              56047065AA          1                                                     DBB                   Axle Lock
+                                       35     04685536            1                                                                         KNOB AND ELEMENT, Cigar
+                                                                                                                                            Lighter
+                                       36     04685590            1                                                     DBB                 BASE, Cigar Lighter
+                                       -37                                                                                                  RING, Cigar Lighter Mounting
+                                              04793555            2                                                     DBB
+                                                                  2                                                     DG0
+                                       38                                                                                                   POWER OUTLET
+                                              04793554AB          1                                                     DBB
+                                                                  1                                                     DG0
+                                       39                                                                                                   CAP, Power Outlet
+                                              04685666AB          1                                                     DBB
+                                                                  1                                                     DG0
+                                       -40    56008852            1                                                                         CAP, Cigar Lighter, Without Cigar
+                                                                                                                                            Lighter
+
+
+
+
+                                   WRANGLER (TJ)
+                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                   P = PREMIUM                                                                  Engine                       Transmission
+                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                             Transmission
+                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                             Transmission
+
+
+
+
+                                    AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

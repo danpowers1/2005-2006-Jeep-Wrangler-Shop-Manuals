@@ -1,0 +1,70 @@
+                                          Geartrain
+                                       Figure 241-410
+                                                                    PART
+                                                          ITEM                  QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                   NUMBER
+
+Geartrain                                     GEARTRAIN
+
+
+
+
+                                              NOTE:
+                                              Sales Code
+                                              [DEH]=6 Speed Manual Transmission - [NSG370]
+                                              [DG0] = All Automatic Transmissions
+                                              [ED0]=All 2.2/2.4/2.5 4 Cyl. Engines
+                                              [ER0]=All 4.0L In-Line 6 Cyl. Engines
+                                                           1     0089331A         1                                                                         SNAP RING
+                                                           2     05072460AA       1                                                                         SNAP RING
+                                                           3     05072458AA       1                                                                         BEARING, Input Gear
+                                                           4     04746127         1                                                                         BEARING, Input Shaft
+                                                           5     05072460AA       1                                                                         SNAP RING
+                                                           6     05093593AA       1                                                                         THRUST WASHER, Planetary
+                                                                                                                                                            Carrier
+                                                           7     05093595AA       1                                                                         PLANETARY, Transfer Case, Input
+                                                                                                                                                            Gear
+                                                           8     04897981AA       1                                                                         BEARING, Output Shaft
+                                                           9     05093595AA       1                                                                         PLANETARY, Transfer Case,
+                                                                                                                                                            Package
+                                                          10     05093600AA       1                                                                         SLEEVE, Shift Range
+                                                           11    04796909         1                                                                         SLEEVE, Mode Synchronizer
+                                                          12     05159999AA       1                                                                         GEAR, Clutch Drive
+                                                          13     05080201AA       2                                                                         SPROCKET, Transfer Case
+                                                          14     05080215AA       1                                                                         CHAIN, Transfer Case
+                                                          15     05093601AA       1                                                                         MAINSHAFT, Transfer Case
+                                                          16     05101878AA       1                                                                         HOUSING, Pump
+                                                          17     05101879AA       1                                                                         ROTOR, Inner
+                                                          18     05101880AA       1                                                                         ROTOR, Outer
+                                                          19     05080503AA       2                                                                         SNAP RING, Clutch Gear
+                                                          20     04269189         1                                                                         BEARING, Output Shaft
+                                                          21     05093602AA       1                                                                         OUTPUT SHAFT, Transfer Case
+                                                          22     0089331A         1                                                                         SNAP RING
+                                                          23     04897981AA       1                                                                         BEARING, Output Shaft
+                                                          24     04798125         1                                                                         SEAL, Output Shaft
+                                                          25     05093604AA       1                                                                         YOKE, Transfer Case Output
+                                                          26     04210973         2                                                                         WASHER, Transfer Case Yoke
+
+
+
+
+                                              WRANGLER (TJ)
+                                              SERIES        LINE                                        BODY                    ENGINE                       TRANSMISSION
+                                              H = HIGHLINE  J = JEEP - 4WD                              77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                              L = LOWLINE   U = JEEP - 4WD (RHD)                        78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                              M = MEDIUM                                                                        ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                              P = PREMIUM                                                                       Engine                       Transmission
+                                              S = SPORT                                                                                                      DDQ = 5-Speed Manual Transmission
+                                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                                             Transmission
+                                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                             Transmission
+
+
+
+
+                                                AR = use ase required       - = Non illustrrated part                                                                                 2006 TJ
+
+
+            << RETURN TO GROUP INDEX
+

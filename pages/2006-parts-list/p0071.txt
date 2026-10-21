@@ -1,0 +1,67 @@
+                                              Brakes,Rear,Disc
+                                                Figure 5-210
+                                                                     PART
+                                                         ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                    NUMBER
+
+Brakes,Rear,Disc
+
+
+
+
+                                                           1                                                                                                   PIN, Caliper
+                                                                 05253000            4          J                     77
+                                                                                     4          J                     78
+                                                           2                                                                                                   CAP, Bleeder
+                                                                 05093278AA          1          J                     77
+                                                                                     1          J                     78
+                                                           3                                                                                                   BLEEDER SCREW, Brake
+                                                                 05179732AA          1          J                     78                                         From 10-19-05
+                                                                                     1          J                     77                                         From 10-19-05
+                                                                 J0920463            1          J                     77                                         Up To 10-18-05
+                                                                                     1          J                     78                                         Up To 10-18-05
+                                                           4                                                                                                   CALIPER, Disc Brake
+                                                                 05093543AA          1          J                     77                                         Up To 10-18-05, Left
+                                                                                     1          J                     78                                         Up To 10-18-05, Left
+                                                                 05093542AA          1          J                     77                                         Up To 10-18-05, Right
+                                                                                     1          J                     78                                         Up To 10-18-05, Right
+                                                                 05191824AA          1          J                     78                                         From 10-19-05, Right
+                                                                                     1          J                     77                                         From 10-19-05, Right
+                                                                 05191825AA          1          J                     78                                         From 10-19-05, Left
+                                                                                     1          J                     77                                         From 10-19-05, Left
+                                                           5                                                                                                   PISTON, Brake
+                                                                 05093275AA          1          J                     77
+                                                                                     1          J                     78
+                                                           6                                                                                                   BUSHING, Caliper
+                                                                 04762106            2          J                     77
+                                                                                     2          J                     78
+                                                           7                                                                                                   SLEEVE, Brake Caliper
+                                                                 04762105            2          J                     77                                         Up To 10-18-05
+                                                                                     2          J                     78                                         Up To 10-18-05
+                                                                 05179733AA          2          J                     78                                         From 10-19-05
+                                                                                     2          J                     77                                         From 10-19-05
+                                                           8                                                                                                   PAD KIT, Disc Brake
+
+
+
+
+                                                      WRANGLER (TJ)
+                                                      SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                      H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                      L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                      M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                      P = PREMIUM                                                                  Engine                       Transmission
+                                                      S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                DEH = 6-Speed Manual NSG370
+                                                                                                                                                                Transmission
+                                                                                                                                                                DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                Transmission
+
+
+
+
+                                                       AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+                   << RETURN TO GROUP INDEX
+

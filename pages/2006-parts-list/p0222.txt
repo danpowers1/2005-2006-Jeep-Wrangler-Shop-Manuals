@@ -1,0 +1,52 @@
+                           Propshaft,Front and Rear
+                                Figure 16-110
+                                                      PART
+                                          ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                  DESCRIPTION
+                                                     NUMBER
+
+
+
+                                                  52853402AB          1                                             ED0      DBB
+                                           20                                                                                                    CLAMP, Boot
+                                                  05013625AA          1                                             ER0                            [DHN], Large
+                                                                      1                                             ED0      DBB                   , Small
+                                                  05013626AA          1                                             ER0                            [DHN], Small
+                                                                      1                                             ED0      DBB                   Large
+                                           21                                                                                                    BOOT, Drive Shaft
+                                                  05083001AA          1                                             ER0                            [DHN]
+                                                                      1                                             ED0      DBB
+                                           22                                                                                                    YOKE, Drive Shaft
+                                                  05016375AA          1                                             ER0                            [DHN]
+                                                                      1                                             ED0      DBB
+                                           23     05093820AA          1                                             ER0                          U-JOINT, [DHW], Front
+                                           24     05093821AB          1                                             ER0                          YOKE, Drive Shaft, [DHW]
+                                           25     05093823AA          1                                             ER0                          BOOT, Drive Shaft, [DHW] With
+                                                                                                                                                 Clamps
+                                           26     52853404AE          1                                             ER0                          SHAFT, Drive, Front, [DHW]
+                                           27     05175392AA          2                                             ER0                          U-JOINT, [DHW], Rear
+                                           28     05175394AA          4                                             ER0                          SNAP RING, [DHW], Rear
+                                           29     J3207886            8                                             ER0                          RING, U Joint, [DHW]
+
+
+
+
+                                       WRANGLER (TJ)
+                                       SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                       H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                       L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                       M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                       P = PREMIUM                                                                   Engine                       Transmission
+                                       S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                  DEH = 6-Speed Manual NSG370
+                                                                                                                                                  Transmission
+                                                                                                                                                  DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                  Transmission
+
+
+
+
+                                        AR = use ase required   - = Non illustrrated part                                                                                   2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

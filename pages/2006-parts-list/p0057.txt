@@ -1,0 +1,42 @@
+                                                  Shaft,Rear Axle,Dana 35/194MM [DRJ]
+                                                              Figure 3-410
+                                                                                                             PART
+                                                                                         ITEM                            QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                                            NUMBER
+
+Shaft,Rear Axle,Dana 35/194MM [DRJ]                                 SHAFT,REAR AXLE,DANA 35/194MM [DRJ]
+
+
+
+
+                                                                    Note:Sales Codes;
+                                                                    [DRJ]=Axle - Rear,Dana 35/194MM
+                                                                                                      1                                                                                              SHAFT, Axle
+                                                                                                          05103015AA       1          J                     77                                         Left
+                                                                                                          05103014AA       1          J                     77                                         Right
+                                                                                                      2   05252505         2          J                     77                                       RETAINER, Axle ShaftRight or Left
+                                                                                                      3   04762841         5          J                     77                                       STUD, HubRight or Left
+
+
+
+
+                                                                    WRANGLER (TJ)
+                                                                    SERIES        LINE                                                           BODY                    ENGINE                       TRANSMISSION
+                                                                    H = HIGHLINE  J = JEEP - 4WD                                                 77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                    L = LOWLINE   U = JEEP - 4WD (RHD)                                           78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                    M = MEDIUM                                                                                           ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                    P = PREMIUM                                                                                          Engine                       Transmission
+                                                                    S = SPORT                                                                                                                         DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                      DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                      Transmission
+                                                                                                                                                                                                      DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                      Transmission
+
+
+
+
+                                                                      AR = use ase required                          - = Non illustrrated part                                                                                 2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

@@ -1,0 +1,64 @@
+                              Geartrain
+                           Figure 231-410
+                                                 PART
+                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                NUMBER
+
+
+
+                                      10                                                                                                   THRUST WASHER, Planetary
+                                                                                                                                           Carrier
+                                             04338908            2                                                     DG0
+                                                                 2                                                     DEH
+                                      11                                                                                                   SNAP RING
+                                             04338910            1                                                     DG0
+                                                                 1                                                     DEH
+                                      12                                                                                                   SNAP RING
+                                             04338933            1                                                     DG0
+                                                                 1                                                     DEH
+                                      13                                                                                                   SNAP RING, Annulus Gear
+                                             04219065            1                                                     DG0
+                                                                 1                                                     DEH
+                                      14                                                                                                   SLEEVE, Mode Synchronizer
+                                             04796909            1                                                     DG0
+                                                                 1                                                     DEH
+                                      15                                                                                                   HUB, Synchronizer
+                                             05159201AA          1                                                     DG0
+                                                                 1                                                     DEH
+                                      16                                                                                                   SLEEVE, Range Fork
+                                             04897955AA          1                                                     DG0
+                                                                 1                                                     DEH
+                                      17                                                                                                   SPROCKET, Transfer Case
+                                             04796908            1                                                     DG0
+                                                                 1                                                     DEH
+                                      18                                                                                                   SNAP RING
+                                             03821558            1                                                     DG0
+                                                                 1                                                     DEH
+                                      19                                                                                                   GEAR, Input
+                                             04897953AA          1                                                     DG0
+                                                                 1                                                     DEH
+                                      20                                                                                                   BEARING, Output Shaft
+
+
+
+
+                                  WRANGLER (TJ)
+                                  SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                  H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                  L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                  M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                  P = PREMIUM                                                                  Engine                       Transmission
+                                  S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                            Transmission
+                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                            Transmission
+
+
+
+
+                                   AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

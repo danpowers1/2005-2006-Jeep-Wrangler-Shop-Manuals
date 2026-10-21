@@ -1,0 +1,64 @@
+                           Housing,Front Axle,4 Wheel Drive
+                                     Figure 2-310
+                                                          PART
+                                              ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                         NUMBER
+
+
+
+                                               13                                                                                                   PIN, Cotter, M4x40.00
+                                                      11010069            2          U                     77                                         Lower Ball Joint, Mounting
+                                                                          2          J                                                                Lower Ball Joint, Mounting
+                                               14                                                                                                   BALL JOINT KIT, Knuckle
+                                                      05014876AC          1          J                                                                1/2 Degree, Right or Left
+                                                                          1          U                     77                                         1/2 Degree, Right or Left
+                                                      05014877AC          1          J                                                                1 Degree, Right or Left
+                                                                          1          U                     77                                         1 Degree, Right or Left
+                                                      05016972AC          1          J                                                                1 1/2 Degree, Right or Left
+                                                                          1          U                     77                                         1 1/2 Degree, Right or Left
+                                                      83500202            1          U                     77                                         Right or Left
+                                                                          1          J                                                                Right or Left
+                                               15     J4006708           10          J                                                              SCREW, Pan Head, .312-18x.56,
+                                                                                                                                                    [BRW]
+                                               16                                                                                                   BOLT, Differential Cover
+                                                      02954031           10          U                     77                                         Differential Cover, Mounting
+                                                                         10          J                                                                Differential Cover, Mounting
+                                               17                                                                                                   PLUG, Differential Cover
+                                                      03640792            1          J                                                                [BRW]
+                                                      J4004751            1          U                     77                                         [BGA]
+                                                                          1          J                                                                [BGA]
+                                               18                                                                                                   COVER, Differential
+                                                      04713451            1          U                     77
+                                                                          1          J
+                                                      05083661AA          1          J                                                                [BRW]
+                                               19                                                                                                   SEALANT, RTV
+                                                      05010884AA          1          U                     77
+                                                                          1          J
+                                               -20                                                                                                  WASHER, Flat
+                                                      05083358AA          4          U                     77                                         Stop Bolt Spacer
+                                                                          4          J                                                                Stop Bolt Spacer
+                                               21                                                                                                   NUT, Steering Knuckle
+
+
+
+
+                                           WRANGLER (TJ)
+                                           SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                           H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                           L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                           M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                           P = PREMIUM                                                                  Engine                       Transmission
+                                           S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                     Transmission
+                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                     Transmission
+
+
+
+
+                                            AR = use ase required   - = Non illustrrated part                                                                                     2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

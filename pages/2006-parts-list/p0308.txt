@@ -1,0 +1,65 @@
+                                            HVAC Unit, RHD
+                                             Figure 24-140
+                                                                 PART
+                                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                NUMBER
+
+HVAC Unit, RHD
+
+
+
+
+                                                       1     04874085            1          U                     77                                       WIRING, Air Conditioning Module
+                                                       2     56006707            1          U                     77                                       RELAY, Mini
+                                                       3     05013733AA          1          U                     77                                       HOUSING, A/C Upper
+                                                       4     05013738AA          1          U                     77                                       HOUSING, A/C Lower
+                                                       5     04864951            1          U                     77                                       RING
+                                                      -6     04864956            1          U                     77                                       BLOWER
+                                                      -7     04864957            1          U                     77                                       RESISTOR, Blower Motor
+                                                      -8     04897611AA          1          U                     77                                       DOOR, Blend Air
+                                                      -9     05013743AA          1          U                     77                                       ADAPTER, Blend Door, A/C and
+                                                                                                                                                           Heater
+                                                      -10    05013741AB          1          U                     77                                       ACTUATOR, Blend Door
+                                                      -11    04864993            1          U                     77                                       DOOR, Fresh Air
+                                                      12     04864994            1          U                     77                                       ACTUATOR, VacuumDefroster
+                                                      13     04864995            1          U                     77                                       ACTUATOR, VacuumBlend Door
+                                                      14     05016597AA          1          U                     77                                       ACTUATOR, Vacuum, Panel
+                                                      -15    04864996            1          U                     77                                       ACTUATOR, Vacuum,
+                                                                                                                                                           Recirculation
+                                                      -16    04864998AC          1          U                     77                                       HARNESS, Heater Vacuum
+                                                      -17    04864997AC          1          U                     77                                       VACUUM HARNESS, Heater and
+                                                                                                                                                           A/C
+                                                      -18    04874044AD          1          U                     77                                       EVAPORATOR KIT, A/C
+                                                      19     04874046            1          U                     77                                       CORE, Heater
+                                                      20     04874066            1          U                     77                                       SEAL, Defroster Duct
+                                                      -21    04874068            1          U                     77                                       SEAL, Vent
+                                                      -22    04874070AB          1          U                     77                                       SEAL KIT, A/C And Heater Unit
+                                                      23     05061426AA          1          U                     77                                       WASHER, A/C Unit Mounting Stud
+                                                      -24    04874079            1          U                     77                                       COVER, Recirculating Valve
+                                                      -25    05013744AA          1          U                     77                                       WIRING, Air Conditioning Module
+                                                      26     04874089            1          U                     77                                       DUCT, Floor Distribution
+                                                      -27    56000724AB          1          U                     77                                       TUBE, Evaporator Housing
+
+
+
+
+                                                   WRANGLER (TJ)
+                                                   SERIES        LINE                                  BODY                    ENGINE                       TRANSMISSION
+                                                   H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                   M = MEDIUM                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                   P = PREMIUM                                                                 Engine                       Transmission
+                                                   S = SPORT                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                            Transmission
+                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                            Transmission
+
+
+
+
+                                                   AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                 << RETURN TO GROUP INDEX
+

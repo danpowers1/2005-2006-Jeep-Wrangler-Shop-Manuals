@@ -1,0 +1,44 @@
+                                        Fuse Block
+                                        Figure 8-510
+                                                             PART
+                                                 ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                            NUMBER
+
+Fuse Block
+
+
+
+
+                                                   1                         1                                                                          BLOCK, Fuse, Serviced in Cross
+                                                                                                                                                        Body Harness, (NOT SERVICED)
+                                                   2     000ATM10            2                                                                          FUSE, Mini, 10 AMP, Red
+                                                   3                                                                                                    FUSE, Mini, 15 AMP, Light Blue
+                                                         000ATM15            1          J                                  ER0      DG0
+                                                                             1          J                                  ER0      DBB
+                                                   4     06101488            1                                                      DG0                 FUSE, Mini, 20 AMP, Yellow
+                                                  -5     56047126AA          1                                             ED0                          BREAKER, Circuit, Radiator fan
+                                                  -6     06101757            2                                                      DG0                 FUSIBLE LINK
+
+
+
+
+                                              WRANGLER (TJ)
+                                              SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                              H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                              L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                              M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                              P = PREMIUM                                                                   Engine                       Transmission
+                                              S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                         DEH = 6-Speed Manual NSG370
+                                                                                                                                                         Transmission
+                                                                                                                                                         DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                         Transmission
+
+
+
+
+                                               AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+             << RETURN TO GROUP INDEX
+

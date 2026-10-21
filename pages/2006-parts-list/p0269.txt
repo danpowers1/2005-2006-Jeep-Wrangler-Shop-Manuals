@@ -1,0 +1,54 @@
+                                                 Gearshift Controls
+                                                Figure NSG370-1209
+                                                                                         PART
+                                                                               ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                        NUMBER
+
+Gearshift Controls                                        GEARSHIFT CONTROLS
+
+
+
+
+                                                          NOTE: Sales Code
+                                                          [DEH]= Six Speed Manual Transmission - [NSG370]
+                                                          [ED0]=All 2.2,2.4,2.5,L Four Cylinder Gas Engines
+                                                          [ER0]=All 4.0L Six Cylinder Gas Engines
+                                                                                1     52059645AA       1                                                      DBB                 INSERT, Transmission Shift Knob
+                                                                                2     06502556         1                                                      DBB                 NUT, Hex, M10-1.5
+                                                                                3     52104174         1                                                      DBB                 KNOB, Gearshift
+                                                                                4     05166489AA       1                                                      DBB                 BOOT, Gear Shift Lever
+                                                                                5     05166490AB       1                                                      DBB                 BEZEL, Gearshift Lever Boot
+                                                                                6                                                                                                 LEVER, Gearshift
+                                                                                      52059663AE       1          U                                           DBB
+                                                                                      52059664AE       1          J                                           DBB
+                                                                                7     06506668AA       1                                                      DBB                 SCREW, Cap
+                                                                                8     06101308         6                                                      DBB                 NUT, U, M6x1
+                                                                                9     05170586AA       1                                                      DBB                 GASKET
+                                                                               10     52059661AC       1                                                      DBB                 COVER, Floor Pan
+                                                                                11                                                                                                SHIFTER, Tower
+                                                                                      05159145AA       1                                             ED0      DEH
+                                                                                      05159146AA       1                                             ER0      DEH
+
+
+
+
+                                                          WRANGLER (TJ)
+                                                          SERIES        LINE                                                 BODY                     ENGINE                       TRANSMISSION
+                                                          H = HIGHLINE  J = JEEP - 4WD                                       77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                          L = LOWLINE   U = JEEP - 4WD (RHD)                                 78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                          M = MEDIUM                                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                          P = PREMIUM                                                                                 Engine                       Transmission
+                                                          S = SPORT                                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                   DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                   Transmission
+                                                                                                                                                                                   DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                   Transmission
+
+
+
+
+                                                            AR = use ase required                - = Non illustrrated part                                                                                  2006 TJ
+
+
+                     << RETURN TO GROUP INDEX
+

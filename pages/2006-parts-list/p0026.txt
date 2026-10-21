@@ -1,0 +1,71 @@
+                                                Shafts, Front Axle
+                                                  Figure 2-210
+                                                                                        PART
+                                                                              ITEM                  QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                DESCRIPTION
+                                                                                       NUMBER
+
+Shafts, Front Axle                                       SHAFTS, FRONT AXLE
+
+
+
+
+                                                         Note:Sales Codes;
+                                                         Note: There is no stub shaft for the DJC axle.
+                                                         [BGA]=Brakes - Power Front Disc/Rear Drum
+                                                         [BGK]=Brakes - 4-Wheel Anti-lock
+                                                         [BRW]=Brakes - 4-Wheel Disc
+                                                         [DJC]=Axle -Front, Heavy Duty Dana M44/216M
+                                                                               1                                                                                                 SHAFT, Axle
+                                                                                     04874302         1          U                      77                                         [BGA], Right
+                                                                                                      1          J                                                                 [BGA], Right
+                                                                                     04874303         1          U                      77                                         [BGA], Left
+                                                                                                      1          J                                                                 [BGA], Left
+                                                                                     04874306         1          U                      77                                         [BGK], Right
+                                                                                                      1          J                                                                 [BGK], Right
+                                                                                     04874307         1          U                      77                                         [BGK], Left
+                                                                                                      1          J                                                                 [BGK], Left
+                                                                                     05083666AA       1          J                                                                 [DJC], Right
+                                                                                     05083667AA       1          J                                                                 [DJC], Left
+                                                                               2                                                                                                 SHAFT, Stub
+                                                                                     04728984         1          J                                                                 [BGK] Without [DJC], Right or
+                                                                                                                                                                                   Left
+                                                                                                      1          U                      77                                         [BGK] Without [DJC], Right or
+                                                                                                                                                                                   Left
+                                                                                     83500184         1          U                      77                                         [BGA] Without [DJC], Right or
+                                                                                                                                                                                   Left
+                                                                                                      1          J                   61, 77, 78                                    [BGA] Without [DJC], Right or
+                                                                                                                                                                                   Left
+                                                                               3                                                                                                 U JOINT, Front Axle
+                                                                                     04137757         1          U                      77                                         Right or Left
+                                                                                                      1          J                                                                 Right or Left
+                                                                                     05083670AA       1          J                                                                 [DJC] Only, Right or Left
+                                                                               4                                                                                                 SLINGER, Oil
+                                                                                     04882135         2          U                      77
+                                                                                                      2          J
+                                                                                     05083669AA       2          J                                                                 [DJC] Only
+                                                                               5     68002412AA       1          J                                                               GUIDE, Axle Shaft, [DJC] Only,
+                                                                                                                                                                                 Right or Left
+
+
+
+
+                                                         WRANGLER (TJ)
+                                                         SERIES        LINE                                                 BODY                     ENGINE                       TRANSMISSION
+                                                         H = HIGHLINE  J = JEEP - 4WD                                       77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                         L = LOWLINE   U = JEEP - 4WD (RHD)                                 78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                         M = MEDIUM                                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                         P = PREMIUM                                                                                 Engine                       Transmission
+                                                         S = SPORT                                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                  DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                  Transmission
+                                                                                                                                                                                  DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                  Transmission
+
+
+
+
+                                                           AR = use ase required                - = Non illustrrated part                                                                                      2006 TJ
+
+
+                     << RETURN TO GROUP INDEX
+

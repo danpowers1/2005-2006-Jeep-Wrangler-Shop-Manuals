@@ -1,0 +1,66 @@
+                                                    Controls,Hydraulic Clutch-Right Hand Drive
+                                                                  Figure 6-320
+                                                                                                                         PART
+                                                                                              ITEM                                   QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                                        NUMBER
+
+Controls,Hydraulic Clutch-Right Hand Drive                               CONTROLS,HYDRAULIC CLUTCH-RIGHT HAND DRIVE
+
+
+
+
+                                                                         Note:Sales Codes
+                                                                         [DBB]=All Manual Transmissions
+                                                                         [DEH]=6-Speed Manual NSG370 Transmission
+                                                                         [ED0]=All 2.2/2.4/2.5L 4 Cyl. Engines
+                                                                         [ER0]=All 4.0L In-line 6 Cyl. Engines
+                                                                                                           1          J4003909         2                                                                          NUT, Hex Flange With Serration,
+                                                                                                                                                                                                                  Master Cylinder/Cover to Dash,
+                                                                                                                                                                                                                  Mounting
+                                                                                                           2          52104013         1                                                      DG0                 COVER, Master Cylinder
+                                                                                                           3          04883544AA       1          U                                           DBB                 CAP, Clutch Reservoir
+                                                                                                           4          52107653AM       1          U                                           DBB                 HYDRAULIC CONTROL, Clutch
+                                                                                                                                                                                                                  Actuator
+                                                                                                           5          00120522         3          U                                           DBB                 CLIP, Wrap Around
+                                                                                                           6          J4001701         2          U                                           DBB                 SCREW, Hex Self Tapping,
+                                                                                                                                                                                                                  .19-16x.50
+                                                                                                           7          J4001701         2                                                                          NUT, (NOT SERVICED)
+                                                                                                           8          52107588AC       1                                                      DBB                 CLIP, Tube to Dash, Mounting
+                                                                                                           9          56009047         1          U                                           DBB                 SWITCH, Clutch Starter Interlock
+                                                                                                      10              56038043         1          U                                           DBB                 CLIP, Connector
+                                                                                                       11             52109677AA       1                                                      DBB                 BRACKET, Clutch Tube
+                                                                                                      12              J4007411         2                                             ER0      DBB                 SCREW, Clutch Housing to Engine
+                                                                                                                                                                                                                  Dowel, Mounting
+                                                                                                      13              06505668AA       2                                                      DBB                 STUD, Double Ended, M8 x 1.25
+                                                                                                                                                                                                                  x 46.50, Slave Cylinder to Clutch
+                                                                                                                                                                                                                  Housing, Mounting
+                                                                                                      14              06104716AA       2                                                      DBB                 NUT, Slave Cylinder to Clutch
+                                                                                                                                                                                                                  Housing, Mounting
+                                                                                                      15              52087542         1                                             ER0      DEH                 PIVOT, Clutch Release
+                                                                                                      16              04338855         1                                                      DBB                 SPRING, Clutch Release
+                                                                                                      17              52107555         1                                                      DBB                 LEVER, Clutch Release
+                                                                                                      18              53008342AB       1                                       ED0, ER0       DBB                 BEARING, Clutch Release
+
+
+
+
+                                                                         WRANGLER (TJ)
+                                                                         SERIES        LINE                                                                  BODY                     ENGINE                       TRANSMISSION
+                                                                         H = HIGHLINE  J = JEEP - 4WD                                                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                         L = LOWLINE   U = JEEP - 4WD (RHD)                                                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                         M = MEDIUM                                                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                         P = PREMIUM                                                                                                  Engine                       Transmission
+                                                                         S = SPORT                                                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                                   DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                                   Transmission
+                                                                                                                                                                                                                   DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                                   Transmission
+
+
+
+
+                                                                           AR = use ase required                                 - = Non illustrrated part                                                                                  2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

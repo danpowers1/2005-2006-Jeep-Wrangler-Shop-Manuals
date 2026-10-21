@@ -1,0 +1,56 @@
+                                                   Sensors Engine 4.0L [ER0]
+                                                         Figure 8-610
+                                                                              PART
+                                                                  ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                             NUMBER
+
+Sensors Engine 4.0L [ER0]
+
+
+
+
+                                                                    1     05149059AA          1                                             ER0                          SWITCH, Oil Pressure
+                                                                    2     05149034AA          1                                             ER0                          SENSOR, Camshaft
+                                                                   -3     33004242            1                                             ER0                          CLAMP, Distributor, Cam sensor
+                                                                                                                                                                         mounting
+                                                                   -4     J3181288            1                                             ER0                          GASKET, Distributor, Cam sensor
+                                                                                                                                                                         mounting
+                                                                    5     53010624AC          1                                             ER0                          DRIVE, OIL PUMP
+                                                                    6     53010625AA          1                                             ER0                          CAP, Protective
+                                                                    7                                                                                                    SENSOR, Crankshaft
+                                                                          04727451AA          1                                             ER0      DBB
+                                                                                              1                                             ER0      DG0
+                                                                   -8     06501957            1                                             ER0                          SCREW
+                                                                    9     56028364AA          1                                             ER0                          SENSOR, Air Temperature
+                                                                   10     56044544AA          1                                             ER0                          SENSOR, Manifold Absolute
+                                                                                                                                                                         Pressure
+                                                                   -11    06504512            2                                             ER0                          SCREW, Pan Head, Map Sensor
+                                                                                                                                                                         attaching
+                                                                   12     05019411AC          1                                             ER0                          SENSOR KIT, Throttle Position
+                                                                   13     56027873            1                                             ER0                          SENSOR, Coolant Temperature
+                                                                   14     53009672            1                                             ER0                          CONNECTOR, Emission Hose,
+                                                                                                                                                                         MAP Sensor hose
+
+
+
+
+                                                                WRANGLER (TJ)
+                                                                SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                                H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                P = PREMIUM                                                                  Engine                       Transmission
+                                                                S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                          DEH = 6-Speed Manual NSG370
+                                                                                                                                                                          Transmission
+                                                                                                                                                                          DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                          Transmission
+
+
+
+
+                                                                AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                        << RETURN TO GROUP INDEX
+

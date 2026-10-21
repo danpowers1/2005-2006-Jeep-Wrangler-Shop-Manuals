@@ -1,0 +1,54 @@
+                           Switches - Instrument Panel
+                                  Figure 8-805
+                                                       PART
+                                           ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                      NUMBER
+
+
+
+                                                   55056558AA          1          J                                                                [HA0]
+                                                   55056559AA          1          U                     77                                         [HA0]
+                                            14                                                                                                   SWITCH, Blower Control
+                                                   05183284AA          1          U                     77
+                                                                       1          J
+                                            15                                                                                                   SWITCH, Clutch Starter Interlock
+                                                   56009047            1          J                                          DBB
+                                                                       1          U                     77                   DBB
+                                            16     04671336            1                                                                         SWITCH, Stop Lamp
+                                            17                                                                                                   SWITCH, Speed Control
+                                                   5GY38DX9AA          1                                                                           Right
+                                                   5GY39DX9AA          1                                                                           Left
+                                            18     05209922            1                                                                         SWITCH, Parking Brake
+                                            19                                                                                                   SWITCH, Passenger Airbag
+                                                                                                                                                 Disarm
+                                                   56010301AB          1                                                     DBB
+                                                                       1                                                     DG0
+                                            20     56053025AA          1                                                                         SWITCH, ABS Acceleration
+                                            21     56047020AA          1                                                     DG0                 SWITCH, Overdrive Lockout
+                                            22                                                                                                   SWITCH, Axle Lock
+                                                   56047066AC          1                                                     DG0
+                                                                       1                                                     DBB
+
+
+
+
+                                         WRANGLER (TJ)
+                                         SERIES        LINE                                  BODY                    ENGINE                       TRANSMISSION
+                                         H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                         L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                         M = MEDIUM                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                         P = PREMIUM                                                                 Engine                       Transmission
+                                         S = SPORT                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                  DEH = 6-Speed Manual NSG370
+                                                                                                                                                  Transmission
+                                                                                                                                                  DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                  Transmission
+
+
+
+
+                                         AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

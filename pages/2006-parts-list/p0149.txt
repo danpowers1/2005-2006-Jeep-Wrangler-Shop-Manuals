@@ -1,0 +1,63 @@
+                                                    Wiring Instrument Panel & Fuses
+                                                              Figure 8-1405
+                                                                                                              PART
+                                                                                         ITEM                             QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                                             NUMBER
+
+Wiring Instrument Panel & Fuses                                     WIRING INSTRUMENT PANEL & FUSES
+
+
+
+
+                                                                    Notes:
+                                                                    [DG0]=All Automatic Transmissions
+                                                                                                      1                                                                                               WIRING, Instrument Panel
+                                                                                                           56055151AA       1          J                     77                                         Base, Export
+                                                                                                           56055148AA       1          J                   77, 78                 DG0                   [VJ0,GNN],
+                                                                                                           56055149AA       1          J                   77, 78                                       [VK0,DSE]
+                                                                                                           56055150AA       1          U                     77                                         [AHF]
+                                                                                                           56055152AA       1          U                     77                                         Base, Export
+                                                                                                           56055153AA       1          J                   77, 78                 DG0                   [VK0,GNN]
+                                                                                                           56055154AA       1          J                   77, 78                                       [VJ0,DSE]
+                                                                                                           56055155AA       1          J                   77, 78                 DG0                   [VJ0]
+                                                                                                           56055156AA       1          J                   77, 78                 DBB                   [VK0,GNN]
+                                                                                                           56055157AA       1          J                   77, 78                 DBB                   [VK0]
+                                                                                                           56055158AA       1          J                   77, 78                 DBB                   [VJ0]
+                                                                                                           56055159AA       1          J                   77, 78                 DG0                   [VK0]
+                                                                                                           56055160AA       1          J                   77, 78                 DBB                   [VJ0,GNN]
+                                                                                                      2    56009433         2                                                                         CAP, Screw Cover, Diagnostic
+                                                                                                                                                                                                      connector
+                                                                                                      3                                                                                               WIRING, Air Conditioning Module
+                                                                                                           05013744AA       1          U                     77                                         [HA0]
+                                                                                                                            1          U                     77                                         [HC0]
+                                                                                                           05073183AA       1          J                                                                [HA0]
+                                                                                                                            1          J                                                                [HC0]
+                                                                                                      -4   04874085         1          U                     77                                       WIRING, Blower Motor, High
+                                                                                                                                                                                                      Speed Relay
+                                                                                                      5    56009654AB       1                                77                                       COVER, Wiring Protector,
+                                                                                                                                                                                                      Diagnostic connector, Export
+                                                                                                      -6   56055202AA       1                                                                         WIRING, Radio Jumper, [RSB]
+
+
+
+
+                                                                    WRANGLER (TJ)
+                                                                    SERIES        LINE                                                            BODY                    ENGINE                       TRANSMISSION
+                                                                    H = HIGHLINE  J = JEEP - 4WD                                                  77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                    L = LOWLINE   U = JEEP - 4WD (RHD)                                            78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                    M = MEDIUM                                                                                            ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                    P = PREMIUM                                                                                           Engine                       Transmission
+                                                                    S = SPORT                                                                                                                          DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                       Transmission
+                                                                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                       Transmission
+
+
+
+
+                                                                      AR = use ase required                           - = Non illustrrated part                                                                                  2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

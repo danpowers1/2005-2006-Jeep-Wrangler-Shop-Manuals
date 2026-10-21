@@ -1,0 +1,63 @@
+                           Differential,Front Axle,Without [DSE]
+                                        Figure 2-610
+                                                            PART
+                                                ITEM                      QTY        LINE         SERIES     BODY       ENGINE    TRANS      TRIM                 DESCRIPTION
+                                                           NUMBER
+
+
+
+                                                                            1          J                                                                 Bearing and Cup, Rear
+                                                 10                                                                                                    GEAR KIT, Ring And Pinion
+                                                        05072997AB          1          U                      77                                         [DMM]
+                                                                            1          J                                                                 [DMM]
+                                                        05073246AA          1          U                      77                                         [DME]
+                                                                            1          J                                                                 [DME]
+                                                        05086617AA          1          J                                                                 [DMU]
+                                                 11                                                                                                    SCREW, Drive Gear
+                                                        05252503           10          U                      77
+                                                                           10          J
+                                                 12                                                                                                    BEARING, Differential
+                                                        J8126500            1          U                      77                                         Consist of 2 Bearings and 2 Cups
+                                                                            1          J                                                                 Consist of 2 Bearings and 2 Cups
+                                                 13                                                                                                    SHIM KIT, Differential
+                                                        83500191            1          J                   61, 77, 78
+                                                                            1          U                      77
+                                                 14                                                                                                    WASHER, Pinion Gear
+                                                        J8120831            1          J                                                                 Thrust
+                                                                            1          U                      77                                         Thrust
+                                                 15                                                                                                    WASHER, Side Gear
+                                                        J8133724            2          J                                                                 Thrust
+                                                                            2          U                      77                                         Thrust
+                                                 16                                                                                                    SNAP RING, Front Axle Shaft
+                                                        04137739            2          U                      77
+                                                                            2          J
+                                                 17                                                                                                    SHAFT, Differential
+                                                        05003840AA          1          U                      77
+                                                                            1          J
+                                                 18                                                                                                    CASE, Differential
+                                                        05252582            1          J                                                                 [DMM]
+                                                        05252590            1          U                      77                                         [DME]
+
+
+
+
+                                              WRANGLER (TJ)
+                                              SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                              H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                              L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                              M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                              P = PREMIUM                                                                  Engine                       Transmission
+                                              S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                        DEH = 6-Speed Manual NSG370
+                                                                                                                                                        Transmission
+                                                                                                                                                        DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                        Transmission
+
+
+
+
+                                              AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

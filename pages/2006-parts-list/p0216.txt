@@ -1,0 +1,61 @@
+                                                     Air Cleaner, 2.4 (ED1), 4.0 (ERH)
+                                                              Figure 14-810
+                                                                                                                  PART
+                                                                                             ITEM                               QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                                 NUMBER
+
+Air Cleaner, 2.4 (ED1), 4.0 (ERH)                                     AIR CLEANER, 2.4 (ED1), 4.0 (ERH)
+
+
+
+
+                                                                      NOTE: ED1=All 2.4L Gas Engines ER0=All 4.0L Engines
+                                                                                                          1                                                                                                  BODY, Air Cleaner
+                                                                                                               05161780AA         1                                             ER0
+                                                                                                               53013702AA         1                                             ED0
+                                                                                                          2                                                                                                  TUBE, Crankcase Vent To Air
+                                                                                                                                                                                                             Cleaner
+                                                                                                               53013093AA         1                                             ED0
+                                                                                                               53030615AC         1                                             ER0
+                                                                                                          3                                                                                                  INLET, Fresh Air
+                                                                                                               05161781AA         1                                             ER0
+                                                                                                               53013502AA         1                                             ED0
+                                                                                                          4    06503692           2                                             ED0                          SCREW, M8-1.25
+                                                                                                          5    53013473AA         1                                             ED0                          BRACKET, Air Cleaner
+                                                                                                          6    06104726AB         1                                             ED0                          NUT
+                                                                                                          7    53013357AA         1                                             ED0                          GROMMET, Air Cleaner
+                                                                                                          8                                                                                                  FILTER, Air
+                                                                                                               04797777AC         1                                             ER0
+                                                                                                               77060015                                                                                        Performance Cold Air System,
+                                                                                                                                                                                                               TJ, 2004-2006, 4.0L
+                                                                                                               05019443AA         1                                             ED0
+                                                                                                          9    53013778AA         1                                             ER0                          CLAMP, Hose to Throttle Body
+                                                                                                          10   53013777AA         1                                             ER0                          CLAMP, Hose to Air Cleaner
+                                                                                                          11   53030611AC         1                                             ER0                          HOSE, Air Cleaner
+                                                                                                   -12         06501400           3                                             ER0                          SCREW, Flange Head,
+                                                                                                                                                                                                             M10x1.5x65, Air Cleaner Assy
+                                                                                                                                                                                                             Mounting
+
+
+
+
+                                                                      WRANGLER (TJ)
+                                                                      SERIES        LINE                                                                BODY                     ENGINE                       TRANSMISSION
+                                                                      H = HIGHLINE  J = JEEP - 4WD                                                      77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                      L = LOWLINE   U = JEEP - 4WD (RHD)                                                78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                      M = MEDIUM                                                                                                 ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                      P = PREMIUM                                                                                                Engine                       Transmission
+                                                                      S = SPORT                                                                                                                               DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                              Transmission
+                                                                                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                              Transmission
+
+
+
+
+                                                                         AR = use ase required                              - = Non illustrrated part                                                                                  2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

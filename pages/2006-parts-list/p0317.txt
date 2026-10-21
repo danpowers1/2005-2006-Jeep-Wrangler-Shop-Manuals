@@ -1,0 +1,56 @@
+                           Plumbing, HVAC 4.0L Engine, RHD
+                                     Figure 24-260
+                                                         PART
+                                             ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                        NUMBER
+
+
+
+                                              26     06506152AA          1          U                     77                                        NUT AND CONED WASHER, Hex,
+                                                                                                                                                    M8x1.25
+                                              27     06036153AA          1                                             ER0                          NUT, Hex, .437-14
+                                              28     55037529AA          1                                             ER0                          BRACKET, A/C Line
+                                              29     00154552            1                                             ER0                          SCREW, Hex Head, .190-16x.625
+                                              30     34201358            3                                             ER0                          NUT AND WASHER, Hex
+                                                                                                                                                    Nut-Sealing Washer, M6 x 1.00
+                                              31     55037583AD          1          U                     77           ER0                          LINE, A/C Liquid, Contains Item #
+                                                                                                                                                    32
+                                              -32    05183657AA          2          U                     77           ER0                          O RING KIT, Quick Connect,
+                                                                                                                                                    Includes 2 O-rings and 1 Spring,
+                                                                                                                                                    Used at Both Ends
+                                              33     55037585AA          1          U                     77           ER0                          ACCUMULATOR, Suction Line,
+                                                                                                                                                    Complete With Suction Line,
+                                                                                                                                                    Contains Items 34 to 37
+                                              34     05189276AA          1          U                     77           ER0                          ACCUMULATOR, Suction Line
+                                              -35    05183716AA          1          U                     77           ER0                          O RING KIT, Quick Connect,
+                                                                                                                                                    Includes 2 O-rings and 1 Spring,
+                                                                                                                                                    Evaporator End
+                                              36     05183754AA          1          U                     77           ER0                          LINE, A/C Suction
+                                              -37    05139486AA          1          U                     77           ER0                          O RING, A/C Line, Suction Line to
+                                                                                                                                                    Accumulator
+                                              -38    05072140AA          1          U                     77           ER0                          SEAL, A/C Line, Suction Line to
+                                                                                                                                                    Accumulator
+
+
+
+
+                                           WRANGLER (TJ)
+                                           SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                           H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                           L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                           M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                           P = PREMIUM                                                                  Engine                       Transmission
+                                           S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                     Transmission
+                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                     Transmission
+
+
+
+
+                                           AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

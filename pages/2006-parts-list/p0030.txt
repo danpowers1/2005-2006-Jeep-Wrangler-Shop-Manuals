@@ -1,0 +1,57 @@
+                           Housing,Front Axle,4 Wheel Drive
+                                     Figure 2-310
+                                                          PART
+                                              ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                         NUMBER
+
+
+
+                                                      S0114494            2          U                     77                                         Stop Bolt, Mounting
+                                                                          2          J                                                                Stop Bolt, Mounting
+                                               22                                                                                                   BOLT, Steering Knuckle Stop
+                                                      01791701            2          U                     77
+                                                                          2          J
+                                               23                                                                                                   HOUSING, Axle
+                                                      04864840AB          1          J
+                                                      04864904AB          1          U                     77
+                                                      05083660AB          1          J                                                                [BRW]
+                                               24                                                                                                   BOLT, Differential
+                                                      04897482AB          4          U                     77
+                                                                          4          J
+                                                      05003648AA          4          J                                                                [BRW]
+                                               25                                                                                                   SENSOR, Anti-Lock Brakes
+                                                      56027727            2          U                     77
+                                                                          2          J
+                                               26                                                                                                   BOLT
+                                                      05016372AA          2          U                     77
+                                                                          2          J
+                                               27                                                                                                   BRACKET, Brake Sensor
+                                                      56026766            1          J                                                                Right
+                                                                          1          U                     77                                         Right
+                                                      56026767            1          J                                                                Left
+                                                                          1          U                     77                                         Left
+                                               -28    05083668AA          1          J                                                              BRACKET, Wire Harness
+
+
+
+
+                                           WRANGLER (TJ)
+                                           SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                           H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                           L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                           M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                           P = PREMIUM                                                                  Engine                       Transmission
+                                           S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                     Transmission
+                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                     Transmission
+
+
+
+
+                                            AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

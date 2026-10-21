@@ -1,0 +1,46 @@
+                                                   Sensors 2.4L Engine [ED0]
+                                                         Figure 8-605
+                                                                              PART
+                                                                  ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                             NUMBER
+
+Sensors 2.4L Engine [ED0]
+
+
+
+
+                                                                    1     05269873AB          1                                             ED0                          SENSOR, Crankshaft Position
+                                                                   -2     06507220AA          1                                             ED0                          SCREW, M6x1x14, Crank Sensor
+                                                                                                                                                                         Mounting
+                                                                    3     04606487AB          1                                             ED0                          SENSOR, Charge Air Temp
+                                                                    4     05019411AD          1                                             ED0                          SENSOR KIT, Throttle Position
+                                                                    5     04608303AB          1                                             ED0                          SWITCH, Oil Pressure
+                                                                    6     56027873            1                                             ED0                          SENSOR, Coolant Temperature
+                                                                    7     56041018AC          1                                             ED0                          SENSOR, MAP
+                                                                   -8     06101506            2                                             ED0                          BOLT AND CONED WASHER,
+                                                                                                                                                                         M8x1.25x18
+                                                                    9     05072759AA          1                                             ED0                          SENSOR, Camshaft
+
+
+
+
+                                                                WRANGLER (TJ)
+                                                                SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                                H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                P = PREMIUM                                                                  Engine                       Transmission
+                                                                S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                          DEH = 6-Speed Manual NSG370
+                                                                                                                                                                          Transmission
+                                                                                                                                                                          DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                          Transmission
+
+
+
+
+                                                                AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                        << RETURN TO GROUP INDEX
+

@@ -1,0 +1,50 @@
+                                                Instrument Cluster
+                                                  Figure 08A-210
+                                                                        PART
+                                                            ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                       NUMBER
+
+Instrument Cluster
+
+
+
+
+                                                              1                                                                                                   CLUSTER
+                                                                    56010678AE          1                                                                           [JCD]
+                                                                    56010679AE          1                                       ED0, ER0                            [JDB]
+                                                                    56010680AE          1                                       ED0, ER0                            [JDB,LPG]
+                                                                    56010681AE          1                                77     ED0, ER0                            [JCK]
+                                                                    56010682AE          1                                77     ED0, ER0                            [JD1]
+                                                              2     06034949            5                                                                         SCREW
+                                                              3     04874344            1                                                                         MASK, Instrument Cluster
+                                                              4     04874345            1                                                                         LENS, Cluster
+                                                              5     04874346            1                                                                         GROMMET, Speedometer Trip
+                                                                                                                                                                  Reset
+                                                              6     04874346            1                                                                         COVER, Cluster, Serviced in
+                                                                                                                                                                  Assembly Only, (NOT SERVICED)
+                                                              7     04874349            1                                                                         BULB AND SOCKET
+                                                              8     L000PC74            1                                                                         BULB, PC74
+
+
+
+
+                                                         WRANGLER (TJ)
+                                                         SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                         H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                         L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                         M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                         P = PREMIUM                                                                  Engine                       Transmission
+                                                         S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                   DEH = 6-Speed Manual NSG370
+                                                                                                                                                                   Transmission
+                                                                                                                                                                   DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                   Transmission
+
+
+
+
+                                                          AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                     << RETURN TO GROUP INDEX
+

@@ -1,0 +1,49 @@
+                           Differential,Front Axle,With [DSE]
+                                      Figure 2-620
+                                                           PART
+                                               ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                 DESCRIPTION
+                                                          NUMBER
+
+
+
+                                                13     05093047AA          1          J                                                              SHIM KIT, Differential
+                                                14     05012810AC          1          J                                                              BOLT KIT
+                                                15     52104571AA          1          J                                                              CASE, Differential
+                                                16     05083663AB          1          J                                                              VENT, Axle
+                                                17     05083664AA          1          J                                                              HOSE, Axle Vent
+                                                18     52104611AA          1          J                                                              ACTUATOR, Axle Locker
+                                                19     52104610AA          1          J                                                              SENSOR, Axle Locker
+                                                20     34201535            6          J                                                              BOLT
+                                                21     52104603AB          1          J                                                              HARNESS, Electronic Front Axle
+                                                22     52104604AC          1          J                                                              PUMP MODULE, Axle Locker,
+                                                                                                                                                     Contains Front and Rear Axle
+                                                                                                                                                     Pumps
+                                                -23    05127836AA          2          J                                                              PUMP, Axle Locker, Pump only,
+                                                                                                                                                     Front or Rear
+                                                -24    J3232982            1          J                                                              TEE, Vacuum
+                                                -25    HFV00014AB          1          J                                                              HOSE 1FT, Fuel & Vapor, 1/4"
+                                                -26    05083668AA          1          J                                                              BRACKET, Wire Harness
+
+
+
+
+                                            WRANGLER (TJ)
+                                            SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                            H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                            L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                            M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                            P = PREMIUM                                                                  Engine                       Transmission
+                                            S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                      DEH = 6-Speed Manual NSG370
+                                                                                                                                                      Transmission
+                                                                                                                                                      DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                      Transmission
+
+
+
+
+                                             AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

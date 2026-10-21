@@ -1,0 +1,69 @@
+                                                  Speedometer Pinion and Housing
+                                                         Figure 21P-110
+                                                                                                         PART
+                                                                                      ITEM                           QTY        LINE          SERIES      BODY    ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                                        NUMBER
+
+Speedometer Pinion and Housing                                   SPEEDOMETER PINION AND HOUSING
+
+
+
+
+                                                                 NOTE:
+                                                                 Sales Codes:
+                                                                 [DGD]=3 Speed Automatic Transmission
+                                                                 [DME]=3.73 Axle Ratio
+                                                                 [DMF]=4.11 Axle Ratio
+                                                                 [DMM]=3.07 Axle Ratio
+                                                                 [DMU]=4.56 Axle Ratio
+                                                                 [ER0] = All 4.0L 6 Cylinder Gas Engines
+                                                                 [TMS]=P215/75R15 Raised Black Letters Tire
+                                                                 [TPN]=205/75R15 [Wrangler RT] Tire
+                                                                 [TRK]=P225/70R16 Black Sidewall All Terrain Tire
+                                                                 [TRN]=P225/70R16 Outside White Letter Tire
+                                                                 [TUS]=30x9.5R15 Outside White Letter Tire
+                                                                 [TY3]=P245/75r16 Black Sidewall Letter Tire
+                                                                 [TZA]=[Goodyear] Brand Tire
+                                                                 [TM0]=All 215 Size Tires
+                                                                 [TP0]=All 205 Size Tires
+                                                                 [TR0]=All 225,245,255, R15/R16 Tires
+                                                                                                  1   56027905         1                     H, L, M, P                                             SENSOR, Vehicle Speed
+                                                                                                  2   04799062         1                                               ER0      DG6                 O RING
+                                                                                                  3   52069315         1                                                                            HOUSING, Speedometer Drive
+                                                                                                                                                                                                    Gear
+                                                                                                  4   06035709         1                                                                            O RING, Trans Speedo Adapter
+                                                                                                  5   02892399         1                                                                            CLAMP, Speedometer
+                                                                                                  6   06022225         1                                                                            SCREW AND WASHER, Hex
+                                                                                                                                                                                                    Head, .312-18x.75
+                                                                                                  7                                                                                                 PINION, Speedometer Drive
+                                                                                                      52067628         1                                                                             With [TUS+DMM]
+                                                                                                      52067629         1
+                                                                                                      52067630         1        J, U
+                                                                                                      52067634         1                                                                             With [TUS+DME+TZA]
+                                                                                                      52067636         1                                                                             With [TRN=TMS+DME+TZA]
+                                                                                                      52067638         1                                                                             With [TUS+DMF]
+                                                                                                      52067639         1                                                                             With [TRN+DMF]
+
+
+
+
+                                                                 WRANGLER (TJ)
+                                                                 SERIES        LINE                                                            BODY                     ENGINE                       TRANSMISSION
+                                                                 H = HIGHLINE  J = JEEP - 4WD                                                  77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                 L = LOWLINE   U = JEEP - 4WD (RHD)                                            78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                 M = MEDIUM                                                                                             ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                 P = PREMIUM                                                                                            Engine                       Transmission
+                                                                 S = SPORT                                                                                                                           DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                     DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                     Transmission
+                                                                                                                                                                                                     DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                     Transmission
+
+
+
+
+                                                                   AR = use ase required                         - = Non illustrrated part                                                                                    2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

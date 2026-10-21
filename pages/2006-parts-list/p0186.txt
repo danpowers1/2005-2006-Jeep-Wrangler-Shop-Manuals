@@ -1,0 +1,50 @@
+                           Crankshaft, Piston and Torque Converter, 4.0L (ERH)
+                                             Figure 4.0L-410
+                                                                   PART
+                                                       ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                  NUMBER
+
+
+
+                                                        25     04736448AA          1                                             ER0      DG0                 PLATE, Drive Plate
+                                                        26     J3214094            1                                             ER0      DG0                 PLATE, Drive Plate Backing
+                                                        27     05093944AB          1                                             ER0      DG6                 CONVERTER PACKAGE, Torque
+                                                        28     J3151407            6                                             ER0      DG0                 BOLT, Hex Head, .50-20x.56
+                                                        29                                                                                                    PISTON PIN AND ROD
+                                                               04798329AC          6                                             ER0                            B Size, 3.872
+                                                               04798330AC          6                                             ER0                            C Size, 3.8746
+                                                               04798331AC          6                                             ER0                            D Size, 3.8750
+                                                               04798332AC          6                                             ER0                            E Size, 3.8754
+                                                               04798333AC          6                                             ER0                            F Size, 3.8758
+                                                        30     04798333AC          6                                                                          PIN, Piston, Serviced in Piston
+                                                                                                                                                              Assembly, (NOT SERVICED),
+                                                        31     04798878            1                                             ER0      DBB                 RING PACKAGE, Piston, Standard
+                                                                                                                                                              Size Complete Engine
+                                                        32     04798878            1                                                                          ROD, Connecting, Serviced
+                                                                                                                                                              in Piston Assembly, (NOT
+                                                                                                                                                              SERVICED)
+                                                        -33    05018594AB          2                                             ER0                          SEAL PACKAGE, Crankshaft
+
+
+
+
+                                                     WRANGLER (TJ)
+                                                     SERIES        LINE                                  BODY                     ENGINE                       TRANSMISSION
+                                                     H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                     L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                     M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                     P = PREMIUM                                                                  Engine                       Transmission
+                                                     S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                               DEH = 6-Speed Manual NSG370
+                                                                                                                                                               Transmission
+                                                                                                                                                               DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                               Transmission
+
+
+
+
+                                                     AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

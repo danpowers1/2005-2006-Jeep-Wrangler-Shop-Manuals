@@ -1,0 +1,42 @@
+                                                     Wiring--Engine [2.4L Engine]
+                                                             Figure 8-1205
+                                                                                  PART
+                                                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                 NUMBER
+
+Wiring--Engine [2.4L Engine]
+
+
+
+
+                                                                        1                                                                                                    WIRING, Engine
+                                                                              04801340AA          1          J                     77           ED0      DBB                   [BGK]
+                                                                              56047558AC          1          J                     77           ED0      DBB
+                                                                              56050452AA          1                                             ED0
+                                                                        2     52118181            1                                                      DEH                 CLIP, Transfer case wiring
+                                                                        3     05073039AA          1                                                                          STRAP, Tie
+                                                                        4     55176744AD          1                                                                          BRACKET, Engine Wiring
+
+
+
+
+                                                                   WRANGLER (TJ)
+                                                                   SERIES        LINE                                   BODY                     ENGINE                       TRANSMISSION
+                                                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                                   M = MEDIUM                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                   P = PREMIUM                                                                   Engine                       Transmission
+                                                                   S = SPORT                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                                                              Transmission
+                                                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                              Transmission
+
+
+
+
+                                                                    AR = use ase required   - = Non illustrrated part                                                                                     2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

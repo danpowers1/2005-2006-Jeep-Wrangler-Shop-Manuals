@@ -1,0 +1,69 @@
+                                                  Case & Related Parts
+                                                     Figure 231-210
+                                                                                             PART
+                                                                                   ITEM                  QTY        LINE         SERIES    BODY     ENGINE       TRANS      TRIM                DESCRIPTION
+                                                                                            NUMBER
+
+Case & Related Parts                                        CASE & RELATED PARTS
+
+
+
+
+                                                            NOTE:
+                                                            Sales Code
+                                                            [DEH]=Six Speed Manual Transmission - [NSG370]
+                                                            [DG0]=All Automatic Transmissions
+                                                            [ED0]=All 2.2,2.4,2.5,L 4 Cylinder Gas Engines
+                                                            [ER0]=All 4.0L 6 Cylinder Gas Engines
+                                                                                    1                                                                                                 CASE, Transfer Front
+                                                                                          04798111         1                                                      DG0
+                                                                                                           1                                                      DEH
+                                                                                    2                                                                                                 STUD, Tranmission Case
+                                                                                          04167922         6                                                      DG0
+                                                                                                           6                                                      DEH
+                                                                                    3                                                                                                 BOOT, Driveshaft
+                                                                                          04798123         1                                                      DG0
+                                                                                          05017825AA       1                                                      DEH
+                                                                                    4                                                                                                 NUT AND CONED WASHER, Hex,
+                                                                                                                                                                                      .375-24
+                                                                                          J4006681         6                                             ED0      DD0
+                                                                                                           6                                             ED0      DG0
+                                                                                    5                                                                                                 SCREW
+                                                                                          04886473AA       1                                                      DG0
+                                                                                                           1                                                      DEH
+                                                                                    6                                                                                                 SWITCH, Transfer Case Mode
+                                                                                          J8134473         1                                                      DG0
+                                                                                                           1                                                      DEH
+                                                                                    7                                                                                                 SEAL, Vacuum Switch
+                                                                                          04338956         1                                                      DG0
+                                                                                                           1                                                      DEH
+                                                                                    8                                                                                                 BOLT, Transfer Case
+                                                                                          04210617         5                                                      DG0
+                                                                                                           5                                                      DEH
+                                                                                    9                                                                                                 BOLT, Twelve Point Head,
+                                                                                                                                                                                      M10x1.5x48
+                                                                                          J8130979         1                                                      DG0
+                                                                                                           1                                                      DEH
+
+
+
+                                                            WRANGLER (TJ)
+                                                            SERIES        LINE                                                   BODY                     ENGINE                       TRANSMISSION
+                                                            H = HIGHLINE  J = JEEP - 4WD                                         77 = OPEN BODY 2-DOOR    ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                            L = LOWLINE   U = JEEP - 4WD (RHD)                                   78 = OPEN BODY 2-DOOR    SMPI Engine                  Transmission
+                                                            M = MEDIUM                                                                                    ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                            P = PREMIUM                                                                                   Engine                       Transmission
+                                                            S = SPORT                                                                                                                  DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                       Transmission
+                                                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                       Transmission
+
+
+
+
+                                                              AR = use ase required                  - = Non illustrrated part                                                                                   2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

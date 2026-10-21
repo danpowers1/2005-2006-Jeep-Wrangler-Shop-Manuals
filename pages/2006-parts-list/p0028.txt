@@ -1,0 +1,69 @@
+                                                    Housing,Front Axle,4 Wheel Drive
+                                                              Figure 2-310
+                                                                                                              PART
+                                                                                         ITEM                             QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                  DESCRIPTION
+                                                                                                             NUMBER
+
+Housing,Front Axle,4 Wheel Drive                                    HOUSING,FRONT AXLE,4 WHEEL DRIVE
+
+
+
+
+                                                                    Note: Sales Codes;
+                                                                    [DSE]=Axle - Trulok Differential
+                                                                                                       1   J4175376         1                                                                         STRAP, Tie
+                                                                                                       2   J5352955         1                                                                         VENT, AxleUpper
+                                                                                                       3   J0140780         1                                                                         CLIP, Wrap AroundUpper
+                                                                                                       4   HFV00516AB       1                                                                         HOSE, Fuel And Vapor, 25 Foot
+                                                                                                                                                                                                      Roll 5/16", Axle Vent
+                                                                                                       5   06503573         1                                                                         CLAMP, Hose, Axle Vent Hose,
+                                                                                                                                                                                                      Lower
+                                                                                                       6                                                                                              VENT, Axle
+                                                                                                           05017482AA       1          J                                                                [BRW], Lower
+                                                                                                           83504653         1          U                     77                                         , Lower
+                                                                                                                            1          J                                                                Lower
+                                                                                                       7                                                                                              PIN, Cotter, M4x40.00
+                                                                                                           11010069         2          U                     77                                         Upper Ball Joint, Mounting
+                                                                                                                            2          J                                                                Upper Ball Joint, Mounting
+                                                                                                       8                                                                                              BOLT
+                                                                                                           34201535         6          U                     77                                         Knuckle to Hub and Bearing,
+                                                                                                                                                                                                        Mounting
+                                                                                                                            6          J                                                                Knuckle to Hub and Bearing,
+                                                                                                                                                                                                        Mounting
+                                                                                                       9                                                                                              RING, Ball Joint
+                                                                                                           83500203         2          U                     77
+                                                                                                                            2          J
+                                                                                                  10                                                                                                  NUT, Steering Knuckle Socket
+                                                                                                           J0125258         2          U                     77                                         Upper Ball Joint, Mounting
+                                                                                                                            2          J                                                                Upper Ball Joint, Mounting
+                                                                                                  11                                                                                                  KNUCKLE, Front
+                                                                                                           52067576         1          U                     77                                         Right
+                                                                                                                            1          J                                                                Right
+                                                                                                           52067577         1          U                     77                                         Left
+                                                                                                                            1          J                                                                Left
+                                                                                                  12                                                                                                  NUT
+                                                                                                           J8123318         2          U                     77                                         Lower Ball Joint, Mounting
+                                                                                                                            2          J                                                                Lower Ball Joint, Mounting
+
+
+
+                                                                    WRANGLER (TJ)
+                                                                    SERIES        LINE                                                            BODY                    ENGINE                       TRANSMISSION
+                                                                    H = HIGHLINE  J = JEEP - 4WD                                                  77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                    L = LOWLINE   U = JEEP - 4WD (RHD)                                            78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                    M = MEDIUM                                                                                            ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                    P = PREMIUM                                                                                           Engine                       Transmission
+                                                                    S = SPORT                                                                                                                          DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                       Transmission
+                                                                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                       Transmission
+
+
+
+
+                                                                      AR = use ase required                           - = Non illustrrated part                                                                                 2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+

@@ -1,0 +1,49 @@
+                           Housing,Rear Axle,Dana 44/226MM [DRK]
+                                        Figure 3-220
+                                                            PART
+                                                ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                           NUMBER
+
+
+
+                                                                            1          J                     78                                         [BRW]
+                                                        83505549            1          U                     77                                         [BGA,BGK]
+                                                                            1          J                     77                                         [BGA,BGK]
+                                                  8                                                                                                   SCREW, Pan Head, .312-18x.56
+                                                        J4006708           10          J                     77
+                                                                           10          U                     77
+                                                                           10          J                     78
+                                                  9                                                                                                   PLUG, Differential Cover
+                                                        03640792            1          U                     77                                         [BGA,BGK]
+                                                                            1          J                     77                                         [BGA,BGK]
+                                                                            1          J                     78                                         [BRW]
+                                                        J4004751            1          J                     77                                         [BRW,DSE]
+                                                                            1          J                     78                                         [BRW,DSE]
+                                                 10                                                                                                   SEALANT, RTV
+                                                        05010884AA          1          U                     77
+                                                                            1          J                     77
+                                                                            1          J                     78
+
+
+
+
+                                              WRANGLER (TJ)
+                                              SERIES        LINE                                  BODY                    ENGINE                       TRANSMISSION
+                                              H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                              L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                              M = MEDIUM                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                              P = PREMIUM                                                                 Engine                       Transmission
+                                              S = SPORT                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                       DEH = 6-Speed Manual NSG370
+                                                                                                                                                       Transmission
+                                                                                                                                                       DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                       Transmission
+
+
+
+
+                                              AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+<< RETURN TO GROUP INDEX
+

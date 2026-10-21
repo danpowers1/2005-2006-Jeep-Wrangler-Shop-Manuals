@@ -1,0 +1,70 @@
+                                            HVAC Unit, LHD
+                                             Figure 24-130
+                                                                 PART
+                                                     ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                NUMBER
+
+HVAC Unit, LHD
+
+
+
+
+                                                       1     05073172AA          1          J                                                              HOUSING, Air Inlet, Includes:
+                                                                                                                                                           Recirculation Door Lever,
+                                                                                                                                                           Recirculation Door, Link, Door
+                                                                                                                                                           Bushing and Screw.
+                                                       2     05073173AA          1          J                                                              ACTUATOR, A/C and Heater,
+                                                                                                                                                           Recirculation Door
+                                                       3     05139720AA          1          J                                                              MOTOR, Blower with Wheel
+                                                      -4     05139719AA          1          J                                                              RESISTOR, A/C Heater
+                                                       5     05073175AA          1          J                                                              HOUSING, A/C Upper, Includes:
+                                                                                                                                                           Defrost Duct Outlet Cover, 4
+                                                                                                                                                           Screws and 1 Stud.
+                                                       6     05073176AA          1          J                                                              HOUSING, A/C Lower, Includes 4
+                                                                                                                                                           Studs.
+                                                       7     05073177AA          1          J                                                              DUCT, Floor
+                                                       8     05073178AA          1          J                                                              EVAPORATOR, Air Conditioning
+                                                       9     05161657AA          1          J                                                              HEATER KIT, Heater Core
+                                                                                                                                                           Assembly
+                                                      -10    05013741AB          1          J                                                              ACTUATOR, Blend Door
+                                                      11     05073181AA          1          J                                                              ACTUATOR, A/C and Heater,
+                                                                                                                                                           Panel Door
+                                                      12     05066518AA          1          J                                                              ACTUATOR, A/C and Heater, Floor
+                                                                                                                                                           and Defrost Door
+                                                      -13    05073182AA          1          J                                                              VACUUM HARNESS, Heater and
+                                                                                                                                                           A/C
+                                                      14     05073183AA          1          J                                                              WIRING, Air Conditioning Module
+                                                      -15    05073174AA          1          J                                                              SEAL KIT, A/C And Heater Unit,
+                                                                                                                                                           Includes: Air Inlet Seal, 5 Sealing
+                                                                                                                                                           Washers, Drain Tube Seal,
+                                                                                                                                                           Plumbing to Dash Seal, Panel Door
+                                                                                                                                                           Opening Seal, Defrost/Demister
+                                                                                                                                                           Seal.
+                                                      -16    05073184AA          1          J                                                              DOOR KIT, A/C And Heater,
+                                                                                                                                                           Includes: Blend Door, Panel Door,
+                                                                                                                                                           Floor/Defrost Door and Panel Door
+                                                                                                                                                           Lever.
+
+
+
+
+                                                   WRANGLER (TJ)
+                                                   SERIES        LINE                                  BODY                    ENGINE                       TRANSMISSION
+                                                   H = HIGHLINE  J = JEEP - 4WD                        77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                  78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                   M = MEDIUM                                                                  ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                   P = PREMIUM                                                                 Engine                       Transmission
+                                                   S = SPORT                                                                                                DDQ = 5-Speed Manual Transmission
+                                                                                                                                                            DEH = 6-Speed Manual NSG370
+                                                                                                                                                            Transmission
+                                                                                                                                                            DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                            Transmission
+
+
+
+
+                                                   AR = use ase required   - = Non illustrrated part                                                                                  2006 TJ
+
+
+                 << RETURN TO GROUP INDEX
+

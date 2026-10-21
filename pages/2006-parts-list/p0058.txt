@@ -1,0 +1,68 @@
+                                                  Shaft,Rear Axle,Dana 44/226MM [DRK]
+                                                              Figure 3-420
+                                                                                                             PART
+                                                                                        ITEM                               QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                                            NUMBER
+
+Shaft,Rear Axle,Dana 44/226MM [DRK]                                 SHAFT,REAR AXLE,DANA 44/226MM [DRK]
+
+
+
+
+                                                                    Note:Sales Codes;
+                                                                    [BGA]=Brakes - Power Front Disc/Rear Drum
+                                                                    [BGK]=4-Wheel Anti-Lock Brakes
+                                                                    [BRW]=Brakes - 4-Wheel Disc
+                                                                    [DRK]=Axle - Rear,Dana 44/226MM
+                                                                                                      1                                                                                                SHAFT, Axle
+                                                                                                          05083676AA         1          J                     77                                         [BRW], Right
+                                                                                                                             1          J                     78                                         [BRW], Right
+                                                                                                          05083677AA         1          J                     77                                         [BRW], Left
+                                                                                                                             1          J                     78                                         [BRW], Left
+                                                                                                          05086632AA         1          U                     77                                         [BGA], Right
+                                                                                                                             1          J                     77                                         [BGA], Right
+                                                                                                          05086633AA         1          U                     77                                         [BGA], Left
+                                                                                                                             1          J                     77                                         [BGA], Left
+                                                                                                          05135220AA         1          J                     77                                         [BGK], Right
+                                                                                                                             1          U                     77                                         [BGK], Right
+                                                                                                          05135221AA         1          J                     77                                         [BGK], Left
+                                                                                                                             1          U                     77                                         [BGK], Left
+                                                                                                      2                                                                                                STUD, Hub
+                                                                                                          04762841           5          U                     77                                         Right or Left
+                                                                                                                             5          J                     78                                         Right or Left
+                                                                                                                             1          J                     77                                         Right or Left
+                                                                                                      3                                                                                                RETAINER, Axle Shaft Seal
+                                                                                                          05010811AA         1          U                     77                                         [BGA,BGK], Right or Left
+                                                                                                                             1          J                     77                                         [BGA,BGK], Right or Left
+                                                                                                          05083678AA         1          J                     78                                         [BRW], Right or Left
+                                                                                                                             1          J                     77                                         [BRW], Right or Left
+                                                                                                      4                                                                                                SEAL, Axle Drive Shaft
+                                                                                                          83503063           1          U                     77                                         Right or Left
+                                                                                                                             1          J                     77                                         Right or Left
+                                                                                                                             1          J                     78                                         Right or Left
+                                                                                                      5                                                                                                BEARING, Axle Shaft
+                                                                                                          83503064           1          U                     77                                         Right or Left
+
+
+
+
+                                                                    WRANGLER (TJ)
+                                                                    SERIES        LINE                                                             BODY                    ENGINE                       TRANSMISSION
+                                                                    H = HIGHLINE  J = JEEP - 4WD                                                   77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                    L = LOWLINE   U = JEEP - 4WD (RHD)                                             78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                    M = MEDIUM                                                                                             ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                    P = PREMIUM                                                                                            Engine                       Transmission
+                                                                    S = SPORT                                                                                                                           DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                        DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                        Transmission
+                                                                                                                                                                                                        DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                        Transmission
+
+
+
+
+                                                                      AR = use ase required                            - = Non illustrrated part                                                                                    2006 TJ
+
+
+                       << RETURN TO GROUP INDEX
+

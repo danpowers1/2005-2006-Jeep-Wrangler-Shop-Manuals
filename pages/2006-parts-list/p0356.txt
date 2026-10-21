@@ -1,0 +1,67 @@
+                                                     Front, Cloth, Trim Code [Y5]
+                                                            Figure ITJ-550
+                                                                                  PART
+                                                                      ITEM                      QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                 NUMBER
+
+Front, Cloth, Trim Code [Y5]
+
+
+
+
+                                                                        1                                                                                                   BACK, Front Seat
+                                                                              1FG061J3AA          1          J                     77                              *Y5       [J3], Right
+                                                                              1FG061DVAA          1          J                     77                              *Y5       [DV], Right
+                                                                                                  1          U                     77                              *Y5       [DV], Right
+                                                                                                  1          U                     77                              *Y5       [J3], Right
+                                                                              1FG071DVAA          1          J                     77                              *Y5       [DV], Left
+                                                                                                  1          U                     77                              *Y5       [DV], Left
+                                                                              1FG071J3AA          1          U                     77                              *Y5       [J3], Left
+                                                                                                  1          J                     77                              *Y5       [J3], Left
+                                                                        2                                                                                                   COVER, Front Seat Back
+                                                                              1FG081DVAA          1          J                     77                              *Y5       [DV], Right
+                                                                                                  1          U                     77                              *Y5       [DV], Right
+                                                                              1FG081J3AA          1          J                     77                              *Y5       [J3], Right
+                                                                                                  1          U                     77                              *Y5       [J3], Right
+                                                                              1FG091DVAA          1          J                     77                              *Y5       [DV], Left
+                                                                                                  1          U                     77                              *Y5       [DV], Left
+                                                                              1FG091J3AA          1          J                     77                              *Y5       [J3], Left
+                                                                                                  1          U                     77                              *Y5       [J3], Left
+                                                                        3                                                                                                   COVER, Front Seat Cushion
+                                                                              1CC321DVAA          1          J                     77                              *Y5       [DV], Right
+                                                                                                  1          U                     77                              *Y5       [DV], Right
+                                                                              1CC321J3AA          1          J                     77                              *Y5       [J3], Right
+                                                                                                  1          U                     77                              *Y5       [J3], Right
+                                                                              1CC331DVAA          1          J                     77                              *Y5       [DV], Left
+                                                                              1CC331J3AA          1          J                     77                              *Y5       [J3], Left
+                                                                                                  1          U                     77                              *Y5       [J3], Left
+                                                                                                  1          U                     77                              *Y5       [DV], Left
+                                                                        4                                                                                                   WIRE KIT, Trimming
+                                                                              05093573AA          2          J                     77                              *Y5
+                                                                                                  2          U                     77                              *Y5
+                                                                        5                                                                                                   FOAM, Seat Cushion
+                                                                              05093574AA          1          J                     77                              *Y5       Right
+
+
+
+
+                                                                   WRANGLER (TJ)
+                                                                   SERIES        LINE                                   BODY                    ENGINE                       TRANSMISSION
+                                                                   H = HIGHLINE  J = JEEP - 4WD                         77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                   L = LOWLINE   U = JEEP - 4WD (RHD)                   78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                   M = MEDIUM                                                                   ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                   P = PREMIUM                                                                  Engine                       Transmission
+                                                                   S = SPORT                                                                                                 DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                             DEH = 6-Speed Manual NSG370
+                                                                                                                                                                             Transmission
+                                                                                                                                                                             DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                             Transmission
+
+
+
+
+                                                                    AR = use ase required   - = Non illustrrated part                                                                                 2006 TJ
+
+
+                          << RETURN TO GROUP INDEX
+

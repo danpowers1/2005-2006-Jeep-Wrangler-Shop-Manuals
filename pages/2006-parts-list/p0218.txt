@@ -1,0 +1,49 @@
+                                                    Accelerator Pedal, 2.4 (ED1), 4.0 (ERH)
+                                                                Figure 14-1110
+                                                                                                                     PART
+                                                                                              ITEM                               QTY        LINE         SERIES    BODY     ENGINE      TRANS      TRIM                DESCRIPTION
+                                                                                                                    NUMBER
+
+Accelerator Pedal, 2.4 (ED1), 4.0 (ERH)                                 ACCELERATOR PEDAL, 2.4 (ED1), 4.0 (ERH)
+
+
+
+
+                                                                        NOTE: ED1= 2.4L Gas Engines ER0=All 4.0L Engines
+                                                                                                             1                                                                                               PEDAL, Accelerator
+                                                                                                                  52078714AC       1          J                            ED0, ER0
+                                                                                                                  52078715AC       1          U                     77     ED0, ER0
+                                                                                                             2                                                                                               BUSHING, Accelerator Pedal
+                                                                                                                  52078653AB       2          J                            ED0, ER0
+                                                                                                                                   2          U                     77     ED0, ER0
+                                                                                                             3    34201680         2                                                                         NUT, Hex Flange, M6x1
+                                                                                                             4                                                                                               SPRING, Torsion
+                                                                                                                  53030874         1          J                            ED0, ER0
+                                                                                                                                   1          U                     77     ED0, ER0
+                                                                                                             5                                                                                               PIN, Accelerator Pedal Mtg.
+                                                                                                                  52079019         1          J                            ED0, ER0
+                                                                                                                                   1          U                     77     ED0, ER0
+
+
+
+
+                                                                        WRANGLER (TJ)
+                                                                        SERIES        LINE                                                               BODY                    ENGINE                       TRANSMISSION
+                                                                        H = HIGHLINE  J = JEEP - 4WD                                                     77 = OPEN BODY 2-DOOR   ED1 = 2.4L 4 Cyl DOHC 16v    DDD = 5-Speed HD Manual
+                                                                        L = LOWLINE   U = JEEP - 4WD (RHD)                                               78 = OPEN BODY 2-DOOR   SMPI Engine                  Transmission
+                                                                        M = MEDIUM                                                                                               ERH = 4.0L Power Tech I-6    DDK = 5-Speed HD Manual
+                                                                        P = PREMIUM                                                                                              Engine                       Transmission
+                                                                        S = SPORT                                                                                                                             DDQ = 5-Speed Manual Transmission
+                                                                                                                                                                                                              DEH = 6-Speed Manual NSG370
+                                                                                                                                                                                                              Transmission
+                                                                                                                                                                                                              DG6 = 4-Spd. Automatic 42RLE
+                                                                                                                                                                                                              Transmission
+
+
+
+
+                                                                           AR = use ase required                             - = Non illustrrated part                                                                                 2006 TJ
+
+
+                         << RETURN TO GROUP INDEX
+
