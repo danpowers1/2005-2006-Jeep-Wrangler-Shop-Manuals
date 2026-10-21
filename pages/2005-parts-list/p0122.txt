@@ -1,0 +1,66 @@
+                            Wiring--Body & Accessory
+                                 Figure 008-1505
+                                                         PART
+                                           ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM                DESCRIPTION
+
+
+
+                                              1                                                                                                WIRING, Body
+                                                      56047 261AC      1         J                         77                                   [VJ0,BGK]
+                                                      56047 262AC      1         J                         77                                   [VJ0,RCU,BGK]
+                                                      56047 263AC      1         J                         77                                   [VK0,BGK]
+                                                      56047 264AC      1         J                         77                                   [VK0,BGK.RCU]
+                                                      56047 265AC      1         J                         77                                   [VJ0], Export
+                                                      56047 266AC      1         J                         77                                   [VJ0,RCU], Export
+                                                      56047 267AC      1         J                         77                                   [VK0], Export
+                                                      56047 268AC      1         J                         77                                   [VK0,RCU], Export
+                                                      56047 269AC      1         U                         77                                   [VJ0], Export
+                                                      56047 270AC      1         U                         77                                   [VJ0,RCU], Export
+                                                      56047 271AC      1         U                         77                                   [VK0], Export
+                                                      56047 272AC      1         U                         77                                   [VK0,RCU], Export
+                                                      56050 625AB      1         U                         77                                   [AHF]
+                                                      56050 731AB      1         J                         77                                   [VK0,RCU]
+                                                      56050 732AB      1         J                         77                                   [VK0]
+                                                      56050 733AB      1         J                         77                                   [VJ0,RCU]
+                                                      56050 734AB      1         J                         77                                   [VJ0]
+                                                      56052 326AC      1         J                         78                                   [VK0]
+                                                      56052 327AC      1         J                         78                                   [VK0,RCU]
+                                                      56052 337AC      1         J                         78                                   [VJ0]
+                                                      56052 338AC      1         J                         78                                   [VJ0,RCU]
+                                              2                                                                                                WIRING, Hardtop
+                                                      56009 377AD      1         J                         78
+                                                      56009 377AE      1                                   77
+                                              3       4362 012         4                                                                       TERMINAL, CHMSL Contact Button
+                                              4       6036 521AA       2                                                                       GROMMET, Sliding Door
+                                              5       5600 9056        1                                                                       CLAMP, Contact Button
+                                              6       55352 706AA      1                                                                       COVER, Wiring Protector, Left sill
+                                              7       6502 871         3                                                                       RETAINER, Wiring protector
+                                                                                                                                                covering attaching
+                                              8       56009 085AB      1                                                                       WIRING, Rear Bumper
+                                             -9       0154 628         1                                                                       SCREW, Tapping, .164-18x.625,
+                                                                                                                                                Rear Body Harness Attaching
+                                            10        56009 333AB      3                                                                       CLIP, Wire Attaching (Clip)
+                                            11        56009 338AB      3                                                                       RIVET
+                                            12        56047 087AC      1                                                                       WIRING, Mirror Jumper, Inside rear
+                                                                                                                                                view with compass/tempature unit
+                                            13        6503 071         4                                                                       CLIP, Line&Hose, Rear Wiper
+                                                                                                                                                Harness
+                                            14        6505 192AA       2                                                                       PLUG, Wire Harness Holes at Rear
+                                                                                                                                                Bumper
+
+
+                                        JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                        SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                        H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                        L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                        M=X                                                                                               DDD = 5 Speed HD Manual
+                                        P = Sahara                                                                                        DG0 = Auto. Trans.
+                                        S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                          DDK = 5 Speed Manual
+
+
+                                         AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                     »
+

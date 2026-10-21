@@ -1,0 +1,40 @@
+                            Sensors 2.4L Engine [ED0]
+                                 Figure 008-605
+                                                          PART
+                                            ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                          Notes:
+                                          [EP0] = 2.5L Engine
+                                          [ER0] = 4.0L Engine
+                                              1     5269 873AB          1                                            ED0                        SENSOR, Crankshaft Position
+                                             -2     6507 220AA          1                                            ED0                        SCREW, M6x1x14, Crank Sensor
+                                                                                                                                                 Mounting
+                                               3       4606 487AB       1                                   77       ED0                        SENSOR, Charge Air Temp
+                                               4       5019 411AC       1                                            ED0                        SENSOR KIT, Throttle Position
+                                               5       4608 303AB       1                                            ED0                        SWITCH, Oil Pressure
+                                               6       5602 7873        1                                            ED0                        SENSOR, Coolant Temperature
+                                               7       56041 018AC      1                                            ED0                        SENSOR, Map
+                                              -8       6505 501AA       2                                            ED0                        SCREW, M4x16, Map Sensor
+                                                                                                                                                 attaching
+                                               9       5072 759AA       1                                            ED0                        SENSOR, Camshaft
+
+
+
+
+                                         JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                         SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                         H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                         L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                         M=X                                                                                               DDD = 5 Speed HD Manual
+                                         P = Sahara                                                                                        DG0 = Auto. Trans.
+                                         S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                           DDK = 5 Speed Manual
+
+
+                                          AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

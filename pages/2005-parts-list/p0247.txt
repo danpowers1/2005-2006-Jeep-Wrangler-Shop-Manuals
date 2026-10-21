@@ -1,0 +1,66 @@
+                            Speedometer Pinion & Housing
+                                  Figure 21P-110
+                                                           PART
+                                             ITEM         NUMBER        QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                           NOTE:
+                                           Sales Codes:
+                                           [DGD]=3 Speed Automatic Transmission
+                                           [DME]=3.73 Axle Ratio
+                                           [DMF]=4.11 Axle Ratio
+                                           [DMM]=3.07 Axle Ratio
+                                           [DMU]=4.56 Axle Ratio
+                                           [TMS]=P215/75R15 Raised Black Letters Tire
+                                           [TPN]=205/75R15 [Wrangler RT] Tire
+                                           [TRK]=P225/70R16 Black Sidewall All Terrain Tire
+                                           [TRN]=P225/70R16 Outside White Letter Tire
+                                           [TUS]=30x9.5R15 Outside White Letter Tire
+                                           [TY3]=P245/75r16 Black Sidewall Letter Tire
+                                           [TZA]=[Goodyear] Brand Tire
+                                           [TM0]=All 215 Size Tires
+                                           [TP0]=All 205 Size Tires
+                                           [TR0]=All 225,245,255, R15/R16 Tires
+                                               1     5602 7905      1                H, L, M,                                                   SENSOR, Vehicle Speed
+                                                                                        P
+                                               2     4799 062       1                                                 ER0                       O RING
+                                               3     5206 9315      1                                                                           HOUSING, Speedometer Drive Gear
+                                               4     6035 709       1                                                                           O RING, Trans Speedo Adapter
+                                               5     2892 399       1                                                                           CLAMP, Speedometer
+                                               6     6022 225       1                                                                           SCREW AND WASHER, Hex Head,
+                                                                                                                                                 .312-18x.75
+                                                7                                                                                               PINION, Speedometer Drive
+                                                        5206 7628         1                                                                       With [TUS+DMM]
+                                                        5206 7634         1                                                                       With [TUS+DME+TZA]
+                                                        5206 7637         1                                                                       With [TPN+DME+TZA] Or
+                                                                                                                                                   [TPN+DME+TZA]
+                                                        5206 7636         1                                                                       With [TRN=TMS+DME+TZA]
+                                                                          1                                                                       With [TY3+DMF]
+                                                        5206 7638         1                                                                       With [TUS+DMF]
+                                                        5206 7639         1                                                                       With [TRN+DMF]
+                                                        5206 7629         1                                                                       With [TRN=TRK+DMM]
+                                                        5206 7630         1                                                                       With [TMS+DMM]
+                                                        5206 7640         1                                                                       With [TMS+DMF]
+                                                        5206 7643         1                                                                       With [TRN+DMU]
+                                                        5206 7644         1                                                                       With [TMS+DMU]
+                                                        5206 7645         1                                                                       With [TPN+DMU]
+                                                        5206 7641         1                                                                       With [TPN+DMF]
+
+
+
+                                          JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                          SERIES               LINE                              BODY               ENGINE                   TRANSMISSION
+                                          H = Sport         J = Wrangler 4WD                   77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                          L = SE            U = Wrangler 4WD (RHD)                               ERH = 4.0L Power Tech           Auto.
+                                          M=X                                                                                              DDD = 5 Speed HD Manual
+                                          P = Sahara                                                                                       DG0 = Auto. Trans.
+                                          S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                           DDK = 5 Speed Manual
+
+
+                                           AR = Use as required     - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

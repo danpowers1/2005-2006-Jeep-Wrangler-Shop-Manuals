@@ -1,0 +1,52 @@
+                            Plumbing, Hevac 2.4L Engine
+                                  Figure 024-225
+                                                           PART
+                                             ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                                1       55037 618AF      1         J                                                             CONDENSER, Air Conditioning
+                                                2       0154 892AA       4                                                                       BOLT, Hex Head, .25-20x.75
+                                                3       J400 3120        4                                                                       WELL NUT, .25-20x.63
+                                                4                                                                                                SEAL, Condenser
+                                                        55036 866AC      1                                                                         Right
+                                                        5503 6867        1                                                                         Left
+                                                5       5503 6369        1                                                                       SEAL, Condenser, Lower
+                                                6       6030 441         3                                            ED0,                       PIN, Retainer
+                                                                                                                      ER0
+                                                7       55037 579AC      1         J                                  ED0                        LINE, A/C Discharge
+                                                8       6506 152AA       1                                                                       NUT AND CONED WASHER, Hex,
+                                                                                                                                                   M8x1.25
+                                               9        55037 706AE      1         J                                  ED0                        LINE, A/C Liquid
+                                              10        55037 584AH      1         J                                  ED0                        ACCUMULATOR, Suction Line, After
+                                                                                                                                                   10-2-02
+                                              -11       4796 294         1         J                                  ED0                        O RING KIT, Quick Connect
+                                              -12       4796 294         1         J                                  ED0                        O RING KIT, Quick Connect
+                                               13       5096 126AA       1         J                                  ED0                        SWITCH KIT, A/C - Pressure
+                                               14       5503 6022        2                                                                       CLIP, A/C Liquid Line
+                                               15       4596 153         1                                                                       CLIP, A/C Quick Disconnect
+                                               16       4596 152         1                                                                       CLIP, A/C Quick Disconnect
+                                               17       55037 696AA      1                                                                       BAND, Accumulator Retaining
+                                               18       6101 442         4                                                                       U-NUT, M6 x 1.00, M6x1.00
+                                               19       6503 245         2                                                                       RIVET
+                                               20       5503 6304        1         U                         77                                  BRACKET, Accumulator
+                                              -21       4897 617AA       1         J                                  ED0                        SWITCH, A/C High Pressure Cut Off
+
+
+
+
+                                          JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                          SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                          H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                          L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                          M=X                                                                                               DDD = 5 Speed HD Manual
+                                          P = Sahara                                                                                        DG0 = Auto. Trans.
+                                          S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                            DDK = 5 Speed Manual
+
+
+                                           AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

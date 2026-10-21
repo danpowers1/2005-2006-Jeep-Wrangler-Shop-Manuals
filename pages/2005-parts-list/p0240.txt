@@ -1,0 +1,66 @@
+                            Case Transfer and Related Parts [DHW]
+                                       Figure 241-210
+                                                                PART
+                                                  ITEM         NUMBER        QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                                NOTE; Sales Code
+                                                [DEH] = Six Speed Manual Transmission NSG 370
+                                                [DG0] = All Automatic Transmissions
+                                                [ED0]=All 2.2,2.4,2.5,L 4 Cylinder Gas Engines
+                                                [ER0]=All 4.0L 6 Cylinder Gas Engines
+                                                    1     5093 577AA       1                                                                         CASE, Transfer Front
+                                                    2     6101 526         17                                                                        BOLT, Transfer Case
+                                                    3     5093 595AA       1                                                                         PLANETARY, Transfer Case
+                                                    4     5093 603AA       1                                                                         CASE, Transfer Rear
+                                                    5     5222 757         4                                                                         DOWEL
+                                                    6                                                                                                NUT AND CONED WASHER, Hex,
+                                                                                                                                                      .375-24
+                                                             J400 6681         6                                           ED0
+                                                                               6                                           ER0
+                                                    7        5093 606AA        1                                                                     RETAINER, Transfer Case Rear
+                                                    8        6501 371         18                                                                     BOLT, Retainer
+                                                    9        5013 019AA        1                                                                     SEAL, Output Shaft
+                                                   10        4796 910          1                                                                     VENT, Transfer Case
+                                                   11        52105 882AA       1                                                                     HOSE, vent
+                                                   12        4213 328          1                                                                     VENT, Cap
+                                                   13        6502 081          1                                                                     CLAMP, Oil Cooler Line
+                                                   14        5012 326AA        1                                                                     FILTER, Transfer Case Oil
+                                                   15        5012 327AA        1                                                                     CONNECTOR, Oil Tube Pickup
+                                                   16        5080 223AA        1                                                                     TUBE, Oil Pickup
+                                                   17        5013 016AB        1                                                                     SEAL, Transfer Case
+                                                   18        5080 218AA        1                                                                     MAGNET
+                                                   19        4856 641          2                                                                     PLUG, Oil Fill
+                                                   20        5083 138AA        1                                                                     SWITCH, Transfer Case, 5 Position
+                                                   21        4338 956          1                                                                     SEAL, Vacuum Switch
+                                                   22        4886 473AA        1                                                                     SCREW
+                                                   23        5003 445AA        1                                                                     SPRING, Poppet Plunger
+                                                   24        5003 444AA        1                                                                     PLUNGER
+                                                   25        5080 859AA        1                                                                     BOLT, Hex Flange Head
+                                                   26        4746 253          6                                                                     STUD
+                                                   27        5033 202AB        1                                                                     SENSOR, Vehicle Speed
+                                                   28        5093 612AA        1                                                                     SEAL
+                                                   29        5093 611AA        1                                                                     BRACKET
+                                                   30        5101 858AA        1                                                                     BOLT, Retainer, Vehicle Speed
+                                                                                                                                                      Sensor
+                                                   31        4167 924          1                                                                     NUT, Transfer Case Yoke
+                                                   32        4210 973          1                                                                     WASHER, Transfer Case Yoke
+                                                   33        5139 919AA        1                                                                     TONE RING, Sensor
+
+
+                                               JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                               SERIES               LINE                              BODY               ENGINE                   TRANSMISSION
+                                               H = Sport         J = Wrangler 4WD                   77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                               L = SE            U = Wrangler 4WD (RHD)                               ERH = 4.0L Power Tech           Auto.
+                                               M=X                                                                                              DDD = 5 Speed HD Manual
+                                               P = Sahara                                                                                       DG0 = Auto. Trans.
+                                               S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                                DDK = 5 Speed Manual
+
+
+                                                AR = Use as required     - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                           »
+

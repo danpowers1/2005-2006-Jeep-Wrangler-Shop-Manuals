@@ -1,0 +1,66 @@
+                            Instrument Panel
+                             Figure 08A-110
+                                                     PART
+                                       ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM                DESCRIPTION
+
+
+
+                                     NOTES:
+                                     [DBB] = All Manual Transmissions
+                                     [DG0] = All Automatic Transmissions
+                                         1                                                                                                 COVER, Instrument Panel
+                                              5EU50 XDVAF 1                                                                                 [DV]
+                                              5EU50 ZJ3AF 1                                                                                 [J3]
+                                         2    6506 081AA       6                                                                           NUT, U, M6x1.00 Multi-UNut
+                                         3    3420 1416        2                                                                           NUT, Hex Flange, M8x1.25
+                                         4    6035 369         4                                                                           SCREW, Piercing, .164-15x1.25,
+                                                                                                                                            Speaker Bezel to Instrument Panel
+                                          5                                                                                                NUT/SPRING, "U"1THD, For .164-15
+                                                                                                                                            Screw
+                                                  6035 638         6         J                                                                Duct to Instrument Panel
+                                                                   6         U                         77                                     Duct to Instrument Panel
+                                          6                                                                                                BEZEL, Speaker
+                                                  5DP1 6XDV        1                                                                        [DV], Right
+                                                  5DP1 6ZJ3        1                                                                        [J3], Right
+                                                  5DP1 7XDV        1                                                                        [DV], Left
+                                                  5DP1 7ZJ3        1                                                                        [J3], Left
+                                          7       6503 175         5                                                                       CLIP, Quarter Panel, I/Panel, M8.
+                                                                                                                                            20x17.00
+                                          8       6507 008AA       6                                                                       SCREW AND WASHER, Truss
+                                                                                                                                            Head, M6x1x30, M6x1.00x30.00,
+                                                                                                                                            Instrument Panel To Cowl
+                                         9        5GW62 DX9AB 1                                                                            BEZEL, Instrument Cluster
+                                        10                                                                                                 SCREW
+                                                  6034 949         5                                                                        Cluster Bezel To I/P
+                                                                   3                                                                        Center Bezel To I/P
+                                        11        6101 945         4                                                                       SCREW, M4.2x1.70x15.00
+                                        12        6101 308         2         J                                                             NUT, U, M6x1, Bracket to Instrument
+                                                                                                                                            Panel, Passenger Air Bag Door
+                                        13                                                                                                 SCREW AND WASHER, Hex Head,
+                                                                                                                                            M6x1x20
+                                                  6101 455    2              J
+                                                              2              U                         77
+                                         14       5HG72 DX9AA 1                                                                            BEZEL, Instrument Panel, Center
+                                        -15       4731 028    3                                                                            BUMPER, Center Bezel
+                                         16       5511 5652   1                                                                            MAT, Console Cup Holder, Center
+                                                                                                                                            Tray Rubber Insert
+                                        17        4524 342         2                                                                       CLIP, Speaker
+                                        18                                                                                                 COVER, Instrument Panel, Steering
+                                                                                                                                            Column Opening
+
+
+                                    JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                    SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                    H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                    L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                    M=X                                                                                               DDD = 5 Speed HD Manual
+                                    P = Sahara                                                                                        DG0 = Auto. Trans.
+                                    S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                      DDK = 5 Speed Manual
+
+
+                                     AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                 »
+

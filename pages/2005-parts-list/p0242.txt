@@ -1,0 +1,66 @@
+                            Gear Train [DHW]
+                             Figure 241-410
+                                                     PART
+                                       ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                     NOTE; Sales Code
+                                     [DEH] = Six Speed Manual Transmission NSG 370
+                                     [DG0] = All Automatic Transmissions
+                                     [ED0]=All 2.2,2.4,2.5,L 4 Cylinder Gas Engines
+                                     [ER0]=All 4.0L 6 Cylinder Gas Engines
+                                         1     5072 460AA       1                                                                        SNAP RING
+                                         2     3821 558         1                                                                        SNAP RING
+                                         3     5072 458AA       1                                                                        BEARING, Input Gear
+                                         4     4746 127         1                                                                        BEARING, Input Shaft
+                                         5     5072 460AA       1                                                                        SNAP RING
+                                         6     5093 593AA       1                                                                        THRUST WASHER, Planetary
+                                                                                                                                          Carrier
+                                          7       5093 595AA       1                                                                     PLANETARY, Transfer Case, Input
+                                                                                                                                          Gear
+                                          8       4897 981AA      1                                                                      BEARING, Output Shaft
+                                          9       5093 595AA      1                                                                      PLANETARY, Transfer Case
+                                         10       5093 600AA      1                                                                      SLEEVE, Shift Range
+                                         11       4796 909        1                                                                      SLEEVE, Mode Synchronizer
+                                         12       5080 201AA      2                                                                      SPROCKET, Transfer Case
+                                         13       5080 215AA      1                                                                      CHAIN, Transfer Case
+                                         14       5093 601AA      1                                                                      MAINSHAFT, Transfer Case
+                                         15       5101 878AA      1                                                                      HOUSING, Pump
+                                         16       5101 879AA      1                                                                      ROTOR, Inner
+                                         17       5101 880AA      1                                                                      ROTOR, Outer
+                                         18       5080 503AA      1                                                                      SNAP RING, Clutch Gear
+                                         19       4269 189        1                                                                      BEARING, Output Shaft
+                                         20       5093 602AA      1                                                                      OUTPUT SHAFT, Transfer Case
+                                         21       0893 31A        1                                                                      SNAP RING
+                                         22       4897 981AA      1                                                                      BEARING, Output Shaft
+                                         23       4798 125        1                                                                      SEAL, Output Shaft
+                                         24       5093 604AA      1                                                                      YOKE, Transfer Case Output
+                                         25       4210 973        1                                                                      WASHER, Transfer Case Yoke
+                                         26       4167 924        1                                                                      NUT, Transfer Case Yoke
+                                         27       5080 197AA      1                                                                      HUB, Synchronizer
+                                         28       5019 020AA      1                                                                      SEAL, Input Gear
+                                         29       5093 592AA      1                                                                      RETAINER
+                                         30       6501 371        18                                                                     BOLT, Retainer
+                                        -31       4798 130        1                                                                      SNAP RING
+                                        -32       5159 999AA      1                                                                      GEAR, Clutch Drive
+                                        -33       5080 504AA      1                                                                      HUB, Synchronizer
+
+
+
+
+                                    JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                    SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                    H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                    L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                    M=X                                                                                             DDD = 5 Speed HD Manual
+                                    P = Sahara                                                                                      DG0 = Auto. Trans.
+                                    S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                    DDK = 5 Speed Manual
+
+
+                                     AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

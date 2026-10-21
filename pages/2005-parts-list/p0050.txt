@@ -1,0 +1,53 @@
+                            Shaft,Rear Axle,Dana 44/226MM [DRK]
+                                       Figure 003-420
+                                                              PART
+                                                 ITEM       NUMBER        QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                               Note:Sales Codes;
+                                               [BGA]=Brakes - Power Front Disc/Rear Drum
+                                               [BRW]=Brakes - 4-Wheel Disc
+                                               [DRK]=Axle - Rear,Dana 44/226MM
+                                                   1                                                                                                SHAFT, Axle
+                                                        5086 632AA     1        J                               77                                   [BGA], Right
+                                                        5086 633AA     1        J                               77                                   [BGA], Left
+                                                        5083 676AA     1        J                               77                                   [BRW], Right
+                                                        5083 677AA     1        J                               77                                   [BRW], Left
+                                                        5086 633AA     1        U                               77                                   Left
+                                                        5086 632AA     1        U                               77                                   Right
+                                                   2                                                                                                STUD, Hub
+                                                        4762 841       5        J                               77                                   Right or Left
+                                                                       5        U                               77                                   Right or Left
+                                                   3                                                                                                RETAINER, Axle Shaft Seal
+                                                        5010 811AA     1        J                               77                                   [BGA], Right or Left
+                                                        5083 678AA     1        J                               77                                   [BRW], Right or Left
+                                                        5010 811AA     1        U                               77                                   Right or Left
+                                                   4                                                                                                SEAL, Axle Drive Shaft
+                                                        8350 3063      1        J                               77                                   Right or Left
+                                                                       1        U                               77                                   Right or Left
+                                                   5                                                                                                BEARING, Axle Shaft
+                                                        8350 3064      1        J                               77                                   Right or Left
+                                                                       1        U                               77                                   Right or Left
+                                                   6                                                                                                RING, Axle Shaft
+                                                        8350 3077      1        J                               77                                   Right or Left
+                                                                       1        U                               77                                   Right or Left
+
+
+
+
+                                              JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                              SERIES             LINE                              BODY                 ENGINE                   TRANSMISSION
+                                              H = Sport       J = Wrangler 4WD                   77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                              L = SE          U = Wrangler 4WD (RHD)                                 ERH = 4.0L Power Tech           Auto.
+                                              M=X                                                                                              DDD = 5 Speed HD Manual
+                                              P = Sahara                                                                                       DG0 = Auto. Trans.
+                                              S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                               DDK = 5 Speed Manual
+
+
+                                               AR = Use as required   - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

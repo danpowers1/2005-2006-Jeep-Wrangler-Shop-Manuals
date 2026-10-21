@@ -1,0 +1,66 @@
+                            Housing,Rear Axle,Dana 44/226MM [DRK]
+                                        Figure 003-220
+                                                               PART
+                                                  ITEM       NUMBER        QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM                DESCRIPTION
+
+
+
+                                                Note:Sales Codes;
+                                                [BGA]=Brakes - Power Front Disc/Rear Drum
+                                                [BRW]=Brakes - 4-Wheel Disc
+                                                [DME]=Axle Ratio - 3.73
+                                                [DMF]=Axle Ratio - 4.11
+                                                [DMM]=Axle Ratio - 3.07
+                                                [DRK]=Axle - Rear,Dana 44/226MM
+                                                [DSA]=Axle - Trac-Lok Differential
+                                                [DSE]=Axle - Trulok Differential
+                                                    1                                                                                                STUD
+                                                         5080 665AA        8       J                             77
+                                                         J099 4313         8       U                             77
+                                                    2                                                                                                BOLT, Differential
+                                                         5003 648AA        4       J                             77
+                                                                           4       U                             77
+                                                    3                                                                                                HOUSING, Axle
+                                                         5083 672AB        1       J                             77                                   [DMF,BRW,DSE]
+                                                         5086 635AB        1       J                             77                                   [DME,BGA]
+                                                         5086 629AC        1       U                             77
+                                                         5086 635AB        1       J                             77                                   [DME,BRW,DSA]
+                                                    4                                                                                                BEARING, Axle Shaft
+                                                         8350 3064         1       J                             77
+                                                                           1       U                             77
+                                                    5                                                                                                SEAL, Axle Drive Shaft
+                                                         8350 3063         1       J                             77
+                                                                           1       U                             77
+                                                    6                                                                                                COVER, Differential
+                                                         5014 821AA        1       J                             77                                   [BRW]
+                                                         8350 5549         1       J                             77                                   [BGA]
+                                                                           1       U                             77
+                                                    7                                                                                                SCREW, Pan Head, .312-18x.56
+                                                         J400 6708        10       J                             77
+                                                                          10       U                             77
+                                                    8                                                                                                PLUG, Differential Cover
+                                                         J400 4751         1       J                             77                                   [BRW]
+                                                         3640 792          1       J                             77                                   [BGA]
+                                                                           1       U                             77
+                                                    9                                                                                                SEALANT, RTV
+                                                         5010 884AA        1       J                             77
+                                                                           1       U                             77
+
+
+
+
+                                               JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                               SERIES             LINE                              BODY                 ENGINE                   TRANSMISSION
+                                               H = Sport       J = Wrangler 4WD                   77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                               L = SE          U = Wrangler 4WD (RHD)                                 ERH = 4.0L Power Tech           Auto.
+                                               M=X                                                                                              DDD = 5 Speed HD Manual
+                                               P = Sahara                                                                                       DG0 = Auto. Trans.
+                                               S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                                DDK = 5 Speed Manual
+
+
+                                                AR = Use as required   - = Non illustrated part    # = New this model year                                                 August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

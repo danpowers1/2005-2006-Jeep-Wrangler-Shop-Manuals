@@ -1,0 +1,54 @@
+                            Housing,Front Axle,4 Wheel Drive
+                                    Figure 002-310
+                                                             PART
+                                               ITEM         NUMBER        QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM                 DESCRIPTION
+
+
+
+                                                17        2954 031         10         J                                                             BOLT, Differential Cover, Differential
+                                                                                                                                                     Cover, Mounting
+                                                18                                                                                                  PLUG, Differential Cover
+                                                          J400 4751         1         J
+                                                                            1         U                         77
+                                                19                                                                                                  COVER, Differential
+                                                          4713 451          1         J
+                                                                            1         U                         77
+                                                 20       5010 884AA        1         J                                                             SEALANT, RTV
+                                                -21                                                                                                 WASHER, Flat
+                                                          5083 358AA        4         J                                                              Stop Bolt Spacer
+                                                                            4         U                         77                                   Stop Bolt Spacer
+                                                22        S011 4494         2         J                                                             NUT, Steering Knuckle, Stop Bolt,
+                                                                                                                                                     Mounting
+                                                23                                                                                                  BOLT, Steering Knuckle Stop
+                                                          1791 701          2         J
+                                                                            2         U                         77
+                                                24        4864 840AB        1         J                                                             HOUSING, Axle
+                                                25                                                                                                  BOLT, Differential
+                                                          4897 482AB        4         J
+                                                                            4         U                         77
+                                                          5003 648AA        4         J                                                              With [DSE]
+                                                 26       5602 7727         2         J                                                             SENSOR, Anti-Lock Brakes
+                                                 27       5016 372AA        2         U                         77                                  BOLT
+                                                -28       5083 668AA        1         J                                                             BRACKET, Wire Harness
+                                                -29                                                                                                 BRACKET, Brake Sensor
+                                                          5602 6766         1         J                                                              Right
+                                                          5602 6767         1         J                                                              Left
+
+
+
+
+                                            JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                            SERIES               LINE                              BODY                 ENGINE                   TRANSMISSION
+                                            H = Sport         J = Wrangler 4WD                   77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                            L = SE            U = Wrangler 4WD (RHD)                                 ERH = 4.0L Power Tech           Auto.
+                                            M=X                                                                                                DDD = 5 Speed HD Manual
+                                            P = Sahara                                                                                         DG0 = Auto. Trans.
+                                            S = Rubicon                                                                                        DBB = Manual Trans.
+                                                                                                                                               DDK = 5 Speed Manual
+
+
+                                             AR = Use as required     - = Non illustrated part    # = New this model year                                                 August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                    «
+

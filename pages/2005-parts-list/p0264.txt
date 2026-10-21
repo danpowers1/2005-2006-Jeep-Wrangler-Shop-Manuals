@@ -1,0 +1,54 @@
+                            Plumbing, Hevac 4.0L Engine, LHD
+                                     Figure 024-235
+                                                             PART
+                                               ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                             Note: Sales Code ER0 = 4.0L Gas Engine
+                                                 1     55037 599AE   1                                                 ER0                       LINE, A/C Discharge, After 10-2-02
+                                                -2     4796 565      1       J                                         ED0                       O RING, A/C Line, 04796565
+                                                 3     5096 126AA    1       J                                         ED0                       SWITCH KIT, A/C - Pressure
+                                                 4     55037 581AF   1       J                                         ER0                       LINE, A/C Liquid
+                                                -5     6036 153AA    1                                                 ER0                       NUT, Hex, .437-14
+                                                -6     4796 565      1       J                                         ED0                       O RING, A/C Line
+                                                 7     5503 6022     2                                                                           CLIP, A/C Liquid Line
+                                                 8     55037 618AF   1       J                                                                   CONDENSER, Air Conditioning, After
+                                                                                                                                                   10-2-02
+                                                 9        4596 152         1                                                                     CLIP, A/C Quick Disconnect
+                                                10        55037 555AC      1                                                                     LABEL, Refrigerant
+                                                11        5503 6303        1         J                                 ER0                       BRACKET, Accumulator
+                                                12                                                                                               NUT, (NOT SERVICED) (Not
+                                                                                                                                                   Serviced)
+                                                 13       4596 152         1                                                                     CLIP, A/C Quick Disconnect
+                                                 14       55037 600AD      1         J                                 ER0                       ACCUMULATOR, Suction Line
+                                                -15       55037 602AE      1         J                                 ER0                       LINE, A/C Suction
+                                                -16       4796 564         2         J                                 ER0                       O RING, A/C Line
+                                                 17       5015 872AC       1         J                                 ER0                       SWITCH, A/C Low Pressure Cut Off,
+                                                                                                                                                   05015872AC
+                                                18        55037 696AA      1                                                                     BAND, Accumulator Retaining
+                                                19                                                                                               SCREW, (NOT SERVICED) (Not
+                                                                                                                                                   Serviced)
+                                                -20       4897 617AA       1                                           ER0                       SWITCH, A/C High Pressure Cut Off
+                                                -21       55037 529AA      1                                           ER0                       BRACKET, A/C Line
+                                                -22       5101 886AA       1         J                                 ER0                       ORIFICE, Liquid Line
+                                                 23       4882 335         1         J                                 ER0                       CAP, A/C Check Valve
+
+
+
+
+                                            JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                            SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                            H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                            L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                            M=X                                                                                             DDD = 5 Speed HD Manual
+                                            P = Sahara                                                                                      DG0 = Auto. Trans.
+                                            S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                            DDK = 5 Speed Manual
+
+
+                                             AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

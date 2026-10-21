@@ -1,0 +1,50 @@
+                            Axle Assembly, Rear
+                               Figure 003-110
+                                                      PART
+                                         ITEM       NUMBER        QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                       Note:Sales Codes;
+                                       [BGA]=Brakes - Power Front Disc/Rear Drum
+                                       [BGK]=Brakes - 4-Wheel Anti-Lock
+                                       [BRW]=Brakes - 4-Wheel Disc
+                                       [DME]=Axle Ratio - 3.73
+                                       [DMF]=Axle Ratio - 4.11
+                                       [DMM]=Axle Ratio - 3.07
+                                       [DMU]=Axle Ratio - 4.56
+                                       [DRJ]=Axle - Rear,Dana M35/194MM
+                                       [DRK]=Axle - Rear,Dana 44/226MM
+                                       [DSA]=Axle - Trac-Lok Differential
+                                       [DSE]=Axle - Trulok Differential
+                                           1                                                                                                AXLE, Service Rear
+                                                5086 642AA        1       J                             77                                   [DME,BGA] Tag 52111763AF
+                                                5086 637AA        1       J                             77                                   [DME,BGA,DSA] Tag 52111929AF
+                                                5086 649AA        1       J                             77                                   [DMM,BGA] Tag 52111760AF
+                                                5086 648AA        1       J                             77                                   [DMM,BGA,DSA] Tag 52111764AF
+                                                5086 623AB        1       J                             77                                   [DMU,BGA] Tag 52104676AC
+                                           2                                                                                                AXLE, Service Rear
+                                                5086 636AC        1       J                             77                                   [DME,BGA] Tag 52104454AG
+                                                5083 680AD        1       J                             77                                   [DME,BRW,DSA] Tag 52114045AC
+                                                5083 674AB        1       J                             77                                   [DMF,BRW,DSE]Tag 52104435AF
+                                                5086 630AC        1       U                             77                                   [DMM,BGA,DSA] Tag 52111750AI
+                                                5086 634AC        1       U                             77                                   [DME,BGA,DSA] Tag 51111750AI
+
+
+
+
+                                      JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                      SERIES             LINE                              BODY                 ENGINE                   TRANSMISSION
+                                      H = Sport       J = Wrangler 4WD                   77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                      L = SE          U = Wrangler 4WD (RHD)                                 ERH = 4.0L Power Tech           Auto.
+                                      M=X                                                                                              DDD = 5 Speed HD Manual
+                                      P = Sahara                                                                                       DG0 = Auto. Trans.
+                                      S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                       DDK = 5 Speed Manual
+
+
+                                       AR = Use as required   - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

@@ -1,0 +1,65 @@
+                            Engine Oiling, 4.0L (ERH)
+                                Figure 4.0L-710
+                                                          PART
+                                            ITEM         NUMBER        QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                          NOTE:
+                                          SALES CODES:
+                                          [ER0] = All 4.0L 6 Cylinder Gas Engines
+                                          [DBB] = All Manual Transmissions
+                                          [DG0] = All Automatic Transmissions
+                                              1     J324 1399        1                                               ER0                       PUMP, Engine Oil
+                                              2     J400 5149        1                                               ER0                       DOWEL, Locator
+                                              3     J324 1733        1                                               ER0                       COVER, Engine Oil Pump
+                                              4     J323 9668        1                                               ER0                       SPRING, Oil Pressure Relief Valve
+                                              5     J317 1956        1                                               ER0                       SHAFT, Oil Pump
+                                              6     J317 1958        1                                               ER0                       RETAINER, Oil Release Valve
+                                              7     J317 2334        1                                               ER0                       GEAR, Oil Pump
+                                              8     J318 8661        1                                               ER0                       PLUNGER, Oil Pressure Relief Valve
+                                              9     J319 6843        1                                               ER0                       GEAR, Oil Pump Driven
+                                             10     J941 6852        4                                               ER0                       SCREW, Hex Flange Head, .25-20x.
+                                                                                                                                                 50
+                                             11        3300 2696         1                                           ER0                       TUBE, Oil Pump Inlet
+                                             12        J317 2332         1                                           ER0                       GASKET, Oil Pump
+                                             13        6022 235          1                                           ER0                       BOLT AND WASHER, Hex Head,
+                                                                                                                                                 .312-18x1.00
+                                             14        0154 593          1                                           ER0                       SCREW, Hex Head Coned, .312-
+                                                                                                                                                 18x2.625
+                                             15        6035 417         1                                            ER0                       PLUG, Oil Drain
+                                             16        5281 090         1                                            ER0                       FILTER, Engine Oil
+                                             17        5300 7563         1                                           ER0                       CONNECTOR, Oil Filter
+                                             18        J027 1448        1                                            ER0                       PIN, Roll, 5/32" x 1.00"
+                                             19        5302 0782         1                                           ER0                       TUBE, Oil Filler
+                                             20        53010 445AB       1                                           ER0                       INDICATOR, Engine Oil Level
+                                             21        53010 511AA       1                                           ER0                       SUPPORT, Engine Oil Pan
+                                             22        53010 340AB       1                                           ER0                       PAN, Engine Oil
+                                             23        6034 732         23                                           ER0                       SCREW AND WASHER, Hex Head,
+                                                                                                                                                 .25-20x.545
+                                             24        6036 407AA        4                                           ER0                       SCREW, Hex Head Coned, .312-
+                                                                                                                                                 18x.875
+                                             25        53007 568AC       1                                           ER0                       GASKET, Oil Pan
+                                             26        6034 734          1                                           ER0                       BOLT, Double Stud Hex, .250-20x1.
+                                                                                                                                                 437 & .250-20 x.700
+                                             27        6035 664          1                                           ER0                       STUD, .312-18x1.560
+                                             28        53010 624AC       1                                           ER0                       DRIVE, OIL PUMP
+
+
+
+
+                                         JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                         SERIES               LINE                              BODY               ENGINE                   TRANSMISSION
+                                         H = Sport         J = Wrangler 4WD                   77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                         L = SE            U = Wrangler 4WD (RHD)                               ERH = 4.0L Power Tech           Auto.
+                                         M=X                                                                                              DDD = 5 Speed HD Manual
+                                         P = Sahara                                                                                       DG0 = Auto. Trans.
+                                         S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                          DDK = 5 Speed Manual
+
+
+                                          AR = Use as required     - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

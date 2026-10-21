@@ -1,0 +1,66 @@
+                            Gear Train [DG6]
+                            Figure 42RLE-420
+                                                     PART
+                                       ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                     NOTE:
+                                     Sales Codes:
+                                     [DG6]=4 Speed Automatic Transmission - 42RLE
+                                     [ED0]=All 2.4L 4 Cyl. Engines
+                                     [ER0]=All 4.0L Inline 6 Engines
+                                         1     5101 874AA       1                                              ER0                       CARRIER AND BEARING, Planet
+                                                                                                                                          Pinion
+                                          2       4412 235         1                                           ER0                       BEARING CONE, Output Shaft
+                                          3       6501 853         1                                           ER0                       SNAP RING
+                                          4       4800 236AA       1                                           ER0                       SPRING, Low/Reverse Clutch Piston
+                                          5       4800 261AA       1                                           ER0                       PISTON, Low and Reverse Clutch
+                                          6       4800 255AA       1                                           ER0                       RETAINER, Transmission Low and
+                                                                                                                                          Reverse Clutch Pistion
+                                         -7       6501 819         3                                           ER0                       SCREW AND WASHER, Pan Head,
+                                                                                                                                          M5x0.8x11.00
+                                         8        4800 253AA       1                                           ER0                       GASKET, Clutch Retainer
+                                         9        4412 234         1                                           ER0                       BEARING CUP, Output Shaft
+                                        10        5280 020        AR                                           ER0                       SHIM, Carrier Bearing, 5.17 - 5.
+                                                                                                                                          19mm
+                                        -11       5280 021        AR                                           ER0                       SHIM, Carrier Bearing, 5.20 - 5.
+                                                                                                                                          22mm
+                                        -12       5280 022        AR                                           ER0                       SHIM, Carrier Bearing, 5.23 - 5.
+                                                                                                                                          25mm
+                                        -13       5280 023        AR                                           ER0                       SHIM, Carrier Bearing, 5.26 - 5.
+                                                                                                                                          28mm
+                                        -14       5280 024        AR                                           ER0                       SHIM, Carrier Bearing, 5.29 - 5.
+                                                                                                                                          31mm
+                                        -15       5280 025        AR                                           ER0                       SHIM, Carrier Bearing, 5.32 - 5.
+                                                                                                                                          34mm
+                                        -16       5280 026        AR                                           ER0                       SHIM, Carrier Bearing, 5.35 - 5.
+                                                                                                                                          37mm
+                                        -17       5280 027        AR                                           ER0                       SHIM, Carrier Bearing, 5.38 - 5.
+                                                                                                                                          40mm
+                                        -18       5280 028        AR                                           ER0                       SHIM, Carrier Bearing, 5.41 - 5.
+                                                                                                                                          43mm
+                                        -19       5280 029        AR                                           ER0                       SHIM, Carrier Bearing, 5.44 - 5.
+                                                                                                                                          46mm
+                                        -20       5280 030        AR                                           ER0                       SHIM, Carrier Bearing, 5.47 - 5.
+                                                                                                                                          49mm
+                                        -21       5280 031        AR                                           ER0                       SHIM, Carrier Bearing, 5.50 - 5.
+                                                                                                                                          52mm
+
+
+
+                                    JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                    SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                    H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                    L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                    M=X                                                                                             DDD = 5 Speed HD Manual
+                                    P = Sahara                                                                                      DG0 = Auto. Trans.
+                                    S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                    DDK = 5 Speed Manual
+
+
+                                     AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                               »
+

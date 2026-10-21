@@ -1,0 +1,39 @@
+                            Alternator 4.0L Engine
+                                Figure 008-210
+                                                        PART
+                                          ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                        Notes:
+                                        [ER0]=4.0L Engine
+                                            1    56041 864AB          1                                           ER0                       ALTERNATOR
+                                            2    6505 488AA           1                                           ER0                       SCREW AND WASHER, Hex
+                                            3    6504 344             1                                           ED0,                      SCREW AND WASHER, Hex Head
+                                                                                                                  ER0
+                                             4       4854 026         1                                           ER0                       BRACKET, Alternator
+                                             5       0154 854AA       4                                           ER0                       SCREW AND WASHER, Hex
+                                             6       4854 089AB       1                                           ER0                       TENSIONER, Alternator Belt
+                                             7       4854 092         1                                           ER0                       PULLEY, Idler
+                                             8                                                                                              BELT, Accessory Drive
+                                                     53013 209AC      1                                           ER0                        Without Air Conditioning
+                                                     4854 033AB       1                                           ER0                        With Air Conditioning
+
+
+
+
+                                       JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                       SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                       H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                       L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                       M=X                                                                                             DDD = 5 Speed HD Manual
+                                       P = Sahara                                                                                      DG0 = Auto. Trans.
+                                       S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                       DDK = 5 Speed Manual
+
+
+                                        AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

@@ -1,0 +1,41 @@
+                              Fuse Block
+                            Figure 008-510
+                                                    PART
+                                      ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                    Notes:
+                                    [DG0] = All Automatic Transmissions
+                                        1                                                                                               BLOCK, Fuse, Serviced in Cross
+                                                                                                                                         Body Harness, (NOT SERVICED)
+                                                                                                                                         (Not Serviced)
+                                         2       00AT M10         2                                                                     FUSE, Mini, 10 AMP, Red
+                                         3                                                                                              FUSE, Mini, 15 AMP, Light Blue
+                                                 00AT M15         1         J                                 ER0
+                                                                  1         J                                 ER0
+                                         4       00AT M20         1                                                                     FUSE, Mini, 20 AMP, Yellow
+                                         5                                                                                              FUSE, Mini, 25 Amp, Natural
+                                                 00AT M25         1         J                                 ER0
+                                                                  1         J                                 ER0
+                                        -6       56047 126AA      1                                           ED0                       BREAKER, Circuit, Radiator fan
+                                        -7       6101 757         2                                                                     FUSIBLE LINK
+
+
+
+
+                                   JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                   SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                   H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                   L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                   M=X                                                                                             DDD = 5 Speed HD Manual
+                                   P = Sahara                                                                                      DG0 = Auto. Trans.
+                                   S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                   DDK = 5 Speed Manual
+
+
+                                    AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

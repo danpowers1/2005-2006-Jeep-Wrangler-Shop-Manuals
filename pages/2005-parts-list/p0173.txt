@@ -1,0 +1,37 @@
+                            Fuel Tank, 2.4 (ED1), 4.0 (ERH)
+                                   Figure 014-110
+                                                             PART
+                                               ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM                DESCRIPTION
+
+
+
+                                             NOTE: ED1=All 2.4L Gas Engines ER0=All 4.0L Engines
+                                                1    52059 617AE    1                                                  ED1,                      TANK, Fuel - Plastic
+                                                                                                                       ER0
+                                                  2       52100 235AC      2                                                                     STRAP, Fuel Tank
+                                                  3       J400 5819        7                                                                     BOLT, .312-18x.750
+                                                  4       5201 8098        2                                                                     CAP, Support Strap Stud
+                                                  5       J400 3587        2                                                                     NUT, Hex
+                                                  6       J400 5293        7                                                                     RETAINER, Push In Type M6.3 Hole
+                                                  7       52100 219AB      1                                                                     PLATE, Skid, With Sales Code XEE
+                                                  8       J400 3587        2                                                                     NUT, Hex
+                                                 -9       6025 008         7                                                                     NUT, Fuel Tank Skid Plate to Frame
+
+
+
+
+                                            JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                            SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                            H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                            L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                            M=X                                                                                             DDD = 5 Speed HD Manual
+                                            P = Sahara                                                                                      DG0 = Auto. Trans.
+                                            S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                            DDK = 5 Speed Manual
+
+
+                                             AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

@@ -1,0 +1,40 @@
+                            Throttle Body, 2.4 (ED1), 4.0 (ERH)
+                                      Figure 014-610
+                                                               PART
+                                                 ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                               NOTE: ED1=All 2.4L Gas Engines ER0=All 4.0L Engines
+                                                  1                                                                                                THROTTLE BODY
+                                                       5140 896AA     1                                                  ED0
+                                                       5161 510AA     1                                                  ER0
+                                                  2    6503 929       4                                                  ER0                       SCREW AND WASHER, Coned
+                                                                                                                                                    Pilot, M6x1x30
+                                                    3       5019 411AC       1                                           ED0                       SENSOR KIT, Throttle Position
+                                                    4                                                                                              SOLENOID, Linear IACV
+                                                            4861 325AD       1                                           ED0
+                                                            4861 552AC       1                                           ER0
+                                                    5                                                                                              GASKET, Throttle Body To Intake
+                                                            53007 543AB      1                                           ER0
+                                                            53013 533AA      1                                           ED0
+                                                   -6       5300 9672        1                                           ER0                       CONNECTOR, Emission Hose
+
+
+
+
+                                              JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                              SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                              H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                              L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                              M=X                                                                                             DDD = 5 Speed HD Manual
+                                              P = Sahara                                                                                      DG0 = Auto. Trans.
+                                              S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                              DDK = 5 Speed Manual
+
+
+                                               AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

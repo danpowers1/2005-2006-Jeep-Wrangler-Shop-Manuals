@@ -1,0 +1,54 @@
+                            Single Board Engine Controllers (JTEC Module)
+                                           Figure 008-705
+                                                                    PART
+                                                      ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM                DESCRIPTION
+
+
+
+                                                    Notes:
+                                                    [ED0]=24L Engine
+                                                    [ER0]=4.0L Engine
+                                                    [DG0]=Automatic Transmission
+                                                    [DBB]= Manual Transmission
+                                                    [NA1]=Export Emission
+                                                    [NAS]=U.S. 50 States Emission
+                                                    [NB3]=Euro Stage III Emission
+                                                    [NBJ]=Japan Low Emission Vehicle
+                                                    [NBT]=Transitory Low Emission Vehicle
+                                                    [NBV]=Low Emission Vehicle
+                                                        1                                                                                                 MODULE, Powertrain Control
+                                                             56044 498AB     1                         H, L, M,                ER0                         [NAS]
+                                                                                                          P
+                                                                 56044 526AB      1                                            ER0                         [NA1,NB4]
+                                                                 56044 527AB      1                                            ER0                         [NA1,NBJ]
+                                                                 56044 528AB      1                    H, L, M,                ER0                         [NAS]
+                                                                                                          P
+                                                                 56044 531AB      1                                            ER0                         [NA1,NB4]
+                                                                 56044 533AB      1                                            ER0                         [NA1,NBJ]
+                                                                 56044 534AB      1                               61, 77       ED0                         [NAS]
+                                                                 56044 536AB      1                               61, 77       ED0                         [NA1,NB4]
+                                                                 56044 537AB      1                               61, 77       ED0                         [NAS]
+                                                                 56044 539AB      1                       S                    ER0                         [NAS]
+                                                                 56044 542AB      1                       S                    ER0                         [NAS]
+                                                         2       6035 884         3                                                                       SCREW, [.190-16x1.75], Module
+                                                                                                                                                           mounting
+                                                         3       55395 180AA      1         J                     77, 78                                  BRACKET, Module
+
+
+
+
+                                                   JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                                   SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                                   H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                                   L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                                   M=X                                                                                               DDD = 5 Speed HD Manual
+                                                   P = Sahara                                                                                        DG0 = Auto. Trans.
+                                                   S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                                     DDK = 5 Speed Manual
+
+
+                                                    AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

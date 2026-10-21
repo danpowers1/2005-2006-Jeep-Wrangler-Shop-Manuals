@@ -1,0 +1,49 @@
+                            Sensors Engine 4.0L [ER0]
+                                 Figure 008-610
+                                                          PART
+                                            ITEM         NUMBER        QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                          Notes:
+                                          [ER0]=All 4.0L Engine
+                                          [DG0]=All Automaic Transmissions
+                                              1     4868 672AA    1                                                  ER0                       SWITCH, Oil Pressure
+                                              2     5149 034AA    1                                                  ER0                       SENSOR, Camshaft
+                                             -3     3300 4242     1                                                  ER0                       CLAMP, Distributor, Cam sensor
+                                                                                                                                                mounting
+                                              -4       J318 1288         1                                           ER0                       GASKET, Distributor, Cam sensor
+                                                                                                                                                mounting
+                                               5       53010 624AC       1                                           ER0                       DRIVE, OIL PUMP
+                                               6                                                                                               SENSOR, Crankshaft
+                                                       4727 451AA        1                                           ER0
+                                                                         1                                           ER0
+                                              -7       6501 957          1                                           ER0                       SCREW
+                                               8       5602 7872         1                                           ER0                       SENSOR, Air Temperature
+                                               9       56044 544AA       1                                           ER0                       SENSOR, Manifold Absolute
+                                                                                                                                                Pressure
+                                             -10       6504 512          2                                           ER0                       SCREW, Pan Head, Map Sensor
+                                                                                                                                                attaching
+                                             11        5019 411AC        1                                           ER0                       SENSOR KIT, Throttle Position
+                                             12        5602 7873         1                                           ER0                       SENSOR, Coolant Temperature
+                                             13        5300 9672         1                                           ER0                       CONNECTOR, Emission Hose, MAP
+                                                                                                                                                Sensor hose
+
+
+
+
+                                         JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                         SERIES               LINE                              BODY               ENGINE                   TRANSMISSION
+                                         H = Sport         J = Wrangler 4WD                   77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                         L = SE            U = Wrangler 4WD (RHD)                               ERH = 4.0L Power Tech           Auto.
+                                         M=X                                                                                              DDD = 5 Speed HD Manual
+                                         P = Sahara                                                                                       DG0 = Auto. Trans.
+                                         S = Rubicon                                                                                      DBB = Manual Trans.
+                                                                                                                                          DDK = 5 Speed Manual
+
+
+                                          AR = Use as required     - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

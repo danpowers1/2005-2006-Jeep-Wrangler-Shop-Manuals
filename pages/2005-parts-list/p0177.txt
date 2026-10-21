@@ -1,0 +1,44 @@
+                            Fuel Injection System, 2.4 (ED1), 4.0 (ERH)
+                                           Figure 014-410
+                                                                   PART
+                                                     ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM                 DESCRIPTION
+
+
+
+                                                   NOTE: EDO=All 2.4L Gas Engines ER0=All 4.0L Engines
+                                                      1                                                                                                RAIL, Fuel
+                                                           5014 496AD     1                                                  ER0
+                                                           5135 582AA     1                                                  ED0
+                                                      2                                                                                                INJECTOR, Fuel
+                                                           53013 656AA    4                                                  ED0
+                                                           53013 690AA    4                                                  ER0
+                                                      3                                                                                                O RING KIT, Fuel Injector
+                                                           4897 125AA     6                                                  ER0
+                                                           5103 149AA     4                                                  ED0
+                                                      4                                                                                                CLIP, Fuel Injector
+                                                           4418 257AB     4                                                  ER0
+                                                           53013 504AB    4                                                  ED0
+                                                      5    6501 979       2                                                  ER0                       SCREW AND WASHER, Hex Head,
+                                                                                                                                                        M6x1x17
+                                                        6                                                                                              STUD, M6x1.00x44
+                                                                6502 647         2                                           ER0
+                                                                                 2                                           ED0
+
+
+
+
+                                                  JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                                  SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                                  H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                                  L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                                  M=X                                                                                             DDD = 5 Speed HD Manual
+                                                  P = Sahara                                                                                      DG0 = Auto. Trans.
+                                                  S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                                  DDK = 5 Speed Manual
+
+
+                                                   AR = Use as required    - = Non illustrated part    # = New this model year                                               August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

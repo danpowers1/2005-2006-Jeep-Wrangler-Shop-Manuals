@@ -1,0 +1,66 @@
+                            Wiring--Headlamp / Dash Panel
+                                    Figure 008-1305
+                                                            PART
+                                              ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                                 1                                                                                                WIRING, Headlamp to Dash
+                                                         56051 474AA      1         J                                  ER0                         [BGA,BRW]
+                                                         56051 475AA      1         J                                  ER0                         [BGA,BRW]
+                                                         56051 476AA      1         J                                  ER0                         [NHM,BGA,BRW]
+                                                         56051 477AA      1         J                                  ER0                         [NHM,BGA,BRW]
+                                                         56051 478AA      1         J                     77, 78       ER0                         [BRW,DSE]
+                                                         56051 479AA      1         J                     77, 78       ER0                         [BRW,DSE]
+                                                         56051 480AA      1         J                                  ER0                         [BGK]
+                                                         56051 481AA      1         J                                  ER0                         [BGK]
+                                                         56051 482AA      1         J                                  ED0                         [BGA,HA0]
+                                                         56051 483AA      1         J                                  ED0                         [BGA,HA0]
+                                                         56051 484AA      1         J                                  ED0                         [BGA,HC0]
+                                                         56051 485AA      1         J                                  ED0                         [BGA,HC0]
+                                                         56051 486AA      1         U                         77       ER0                         [BGA,BRW]
+                                                         56051 490AA      1         J                                  ER0                         [BRW,DSE,LMK]
+                                                         56051 500AA      1         J                                  ER0                         [BRW,DSE,LMK]
+                                                         56051 501AA      1         J                                  ER0                         [LMK,BGA,BRW]
+                                                         56051 502AA      1         J                                  ER0                         [LMK,BGA,BRW]
+                                                         56051 503AA      1         J                                  ER0                         [LMK,BGK]
+                                                         56051 504AA      1         J                                  ER0                         [LMK,BGK]
+                                                         56051 507AA      1         J                                  ED0                         [BGA,LMK,HC0]
+                                                         56051 508AA      1         J                                  ED0                         [BGA,LMK,HC0]
+                                                         56051 509AA      1         J                                  ER0                         [BGA,BRW], Export
+                                                         56051 510AA      1         J                                  ER0                         [BGA,BRW], Export
+                                                         56051 511AA      1         J                                  ER0                         [NHM,BGA,BRW], Export
+                                                         56051 512AA      1         J                                  ER0                         [NHM,BGA,BRW], Export
+                                                         56051 513AA      1         J                                  ER0                         [BGK], Export
+                                                         56051 514AA      1         J                                  ER0                         [BGK], Export
+                                                         56051 515AA      1         U                       77         ER0                         [BGA], Export
+                                                         56051 516AA      1         U                       77         ER0                         [BGA], Export
+                                                         56051 517AA      1         U                       77         ER0                         [BGK], Export
+                                                         56051 518AA      1         U                       77         ER0                         [BGK], Export
+                                                         56051 519AA      1         J                     77, 78       ED0                         [BGA,HA0], Export
+                                                         56051 520AA      1         J                     77, 78       ED0                         [BGA,HC0], Export
+                                                         56051 857AA      1                                                                        [AHF]
+                                                 2                                                                                                POWER DISTRIBUTION CENTER,
+                                                                                                                                                   Serviced in wiring assembly only,
+                                                                                                                                                   (NOT SERVICED) (Not Serviced)
+                                                 3       5134 137AA       1         J                                  ER0                        COVER, Power Distribution Center
+                                                 4       56010 210AB      1                                                                       BRACKET, Power Distribution Center
+
+
+
+
+                                           JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                           SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                           H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                           L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                           M=X                                                                                               DDD = 5 Speed HD Manual
+                                           P = Sahara                                                                                        DG0 = Auto. Trans.
+                                           S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                             DDK = 5 Speed Manual
+
+
+                                            AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                        »
+

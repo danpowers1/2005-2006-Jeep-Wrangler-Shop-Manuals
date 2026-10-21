@@ -1,0 +1,66 @@
+                            Gear Train [DG6]
+                            Figure 42RLE-420
+                                                     PART
+                                       ITEM         NUMBER       QTY       LINE         SERIES     BODY       ENGINE    TRANS     TRIM               DESCRIPTION
+
+
+
+                                        45        4412 229AB       1                                           ER0                       THRUST BEARING, Rear Sun Gear,
+                                                                                                                                          Front
+                                        46        4567 573AB       5                                           ER0                       DISC, Clutch
+                                        47        4659 055         5                                           ER0                       PLATE, Transmission Clutch
+                                                                                                                                          Reaction
+                                        48        4377 195         1                                           ER0                       SNAP RING
+                                        49        4897 452AA       1                                           ER0                       PLATE PACKAGE, Low/Reverse
+                                                                                                                                          Clutch, 5.753/6.012
+                                        50        4897 453AA       1                                           ER0                       PLATE PACKAGE, Low/Reverse
+                                                                                                                                          Clutch, 6.013/6.272
+                                        51        4897 454AA       1                                           ER0                       PLATE PACKAGE, Low/Reverse
+                                                                                                                                          Clutch, 6.273/6.532
+                                        52        4897 455AA       1                                           ER0                       PLATE PACKAGE, Low/Reverse
+                                                                                                                                          Clutch, 6.533/6.792
+                                        53        4897 456AA       1                                           ER0                       PLATE PACKAGE, Low/Reverse
+                                                                                                                                          Clutch, 6.793/7.052
+                                         54       4799 858AA       1                                           ER0                       SNAP RING
+                                         55       4799 794         1                                           ER0                       GEAR, Annulus
+                                         56       6035 238         2                                           ER0                       SNAP RING
+                                         57       4567 539AB       1                                           ER0                       CARRIER, Planetary Pinion
+                                        -58       4412 209         1                                           ER0                       THRUST BEARING
+                                         59       6035 238         2                                           ER0                       SNAP RING
+                                         60       4505 591         1                                           ER0                       SNAP RING
+                                         61       5102 880AA       1                                           ER0                       RETAINER PACKAGE, 2nd & 4th
+                                                                                                                                          Clutch Piston
+                                        62        5102 880AA       1                                           ER0                       RETAINER PACKAGE, 2nd & 4th
+                                                                                                                                          Clutch Piston
+                                        63        4412 248         1                                           ER0                       SPRING, 2nd And 4th Clutch Piston
+                                        64        4412 216AB       1                                           ER0                       THRUST WASHER, Second and
+                                                                                                                                          Fourth Clutch
+                                        65        4659 618AB       1                                           ER0                       HUB AND GEAR, Second And
+                                                                                                                                          Fourth Clutch
+                                        66        4659 054         4                                           ER0                       PLATE, Transmission Clutch
+                                                                                                                                          Reaction
+                                         67       4799 860AB       4                                           ER0                       DISC, Clutch
+                                         68       4377 195         1                                           ER0                       SNAP RING
+                                        -69       3681 949         6                                           ER0                       THRUST WASHER, Planet Pinion
+                                        -70       3743 664        95                                           ER0                       ROLLER, Front and Rear Pinion
+                                         71       52852 915AA      1                                           ER0                       SHAFT, Intermediate
+                                        -72       52852 916AA     1                                            ER0                       CLIP
+
+
+
+
+                                    JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                    SERIES               LINE                             BODY               ENGINE                   TRANSMISSION
+                                    H = Sport         J = Wrangler 4WD                  77 = 93.4 WB      ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                    L = SE            U = Wrangler 4WD (RHD)                              ERH = 4.0L Power Tech           Auto.
+                                    M=X                                                                                             DDD = 5 Speed HD Manual
+                                    P = Sahara                                                                                      DG0 = Auto. Trans.
+                                    S = Rubicon                                                                                     DBB = Manual Trans.
+                                                                                                                                    DDK = 5 Speed Manual
+
+
+                                     AR = Use as required    - = Non illustrated part    # = New this model year                                              August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                        «
+

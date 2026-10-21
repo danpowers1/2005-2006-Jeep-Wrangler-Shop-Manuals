@@ -1,0 +1,66 @@
+                            Housing,Front Axle,4 Wheel Drive
+                                    Figure 002-310
+                                                             PART
+                                               ITEM         NUMBER        QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM                DESCRIPTION
+
+
+
+                                             Note: Sales Codes;
+                                             [DSE]=Axle - Trulok Differential
+                                                 1     J417 5376        1                                                                           STRAP, Tie
+                                                 2     J535 2955        1                                                                           VENT, Axle, Upper
+                                                 3     J014 0780        1                                                                           CLIP, Wrap Around, Upper
+                                                 4     HFV00 516AB 1                                                                                HOSE, Fuel And Vapor, 25 Foot Roll
+                                                                                                                                                     5/16", Axle Vent
+                                                  5       5083 664AA        1         J                                                             HOSE, Axle Vent, For pump hose
+                                                                                                                                                     connection
+                                                  6       6503 573          1                                                                       CLAMP, Hose, Axle Vent Hose,
+                                                                                                                                                     Lower
+                                                  7                                                                                                 VENT, Axle
+                                                          8350 4653         1         J                                                               Lower
+                                                                            1         U                         77                                    Lower
+                                                          5083 663AB        1         J                         77                                    [DSE] With Nipple for Pump Hose
+                                                                                                                                                        Connection, Lower
+                                                  8       1101 0069         2         J                                                             PIN, Cotter, M4x40.00, Upper Ball
+                                                                                                                                                     Joint, Mounting
+                                                  9       3420 1535         6         J                                                             BOLT, Knuckle to Hub and Bearing,
+                                                                                                                                                     Mounting
+                                                10                                                                                                  RING, Ball Joint
+                                                          8350 0203         2         J
+                                                                            2         U                         77
+                                                11        J012 5258         2         J                                                             NUT, Steering Knuckle Socket,
+                                                                                                                                                     Upper Ball Joint, Mounting
+                                                12                                                                                                  KNUCKLE, Front
+                                                          5206 7576         1         J                                                               Right
+                                                          5206 7577         1         U                         77                                    Left
+                                                13        J812 3318         2         J                                                             NUT, Lower Ball Joint, Mounting
+                                                14                                                                                                  PIN, Cotter, M4x40.00
+                                                          1101 0069         2         J                                                               Lower Ball Joint, Mounting
+                                                                            2         U                         77                                    Lower Ball Joint, Mounting
+                                                15                                                                                                  BALL JOINT KIT, Knuckle
+                                                          8350 0202         1         J                                                               Right or Left
+                                                          5014 877AC        1         J                                                               1 Degree, Right or Left
+                                                          5016 972AC        1         J                                                               1 1/2 Degree, Right or Left
+                                                          8350 0202         1         U                         77                                    Right or Left
+                                                          5014 876AC        1         U                         77                                    1/2 Degree, Right or Left
+                                                          5014 877AC        1         U                         77                                    1 Degree, Right or Left
+                                                          5016 972AC        1         U                         77                                    1 1/2 Degree, Right or Left
+                                                16        J400 6708        10         J                                                             SCREW, Pan Head, .312-18x.56
+
+
+
+                                            JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                            SERIES               LINE                              BODY                 ENGINE                   TRANSMISSION
+                                            H = Sport         J = Wrangler 4WD                   77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                            L = SE            U = Wrangler 4WD (RHD)                                 ERH = 4.0L Power Tech           Auto.
+                                            M=X                                                                                                DDD = 5 Speed HD Manual
+                                            P = Sahara                                                                                         DG0 = Auto. Trans.
+                                            S = Rubicon                                                                                        DBB = Manual Trans.
+                                                                                                                                               DDK = 5 Speed Manual
+
+
+                                             AR = Use as required     - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                          »
+

@@ -1,0 +1,66 @@
+                            Propshaft,Front and Rear
+                                Figure 016-110
+                                                         PART
+                                           ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                         Note:Sales Codes;
+                                         [DBB]=Transmissions - All Manual
+                                         [DDK]=Transmission - 5-Speed Heavy Duty Manual
+                                         [DG0]=Transmissions - All Automatic
+                                         [DG6]=Transmission 4-Speed Automatic, 42RL
+                                         [DHN]= Command-Trac Part Time 4WD System
+                                         [DHW]=4:1 Rock-Trac HD Part Time 4WD System
+                                         [DRJ]=Axle - Rear,Dana M35/194MM
+                                         [DRK]=Axle - Rear,Dana 44/226MM
+                                         [ED0]=Engines - All 2.2L,2.5L,2.4L 4 Cylinder Gas
+                                         [ER0=]Engines - All 4.0L 6 Cylinder Gas
+                                             1                                                                                                 YOKE, Drive Shaft
+                                                  4882 714          1                                               ED0                         [DRJ]
+                                                                    1                                               ED0                         [DRJ]
+                                                                    1                                               ER0                         [DRJ]
+                                                                    1       J                              78       ER0                         [DRK,DHN]
+                                                                    1                                      77       ER0                         [DRK,DHN]
+                                             2                                                                                                 SHAFT, Drive, Rear 1-Piece
+                                                  52098 784AC 1                                                     ER0                         [DRJ]
+                                                  52098 787AC 1                                            77       ER0                         [DRK,DHN]
+                                                  52853 160AA       1       J                              78       ER0                         [DRK,DHN]
+                                                  52853 405AA       1                                               ED0                         [DRJ]
+                                                  52853 407AA       1                                               ED0                         [DRJ]
+                                             3                                                                                                 U JOINT
+                                                  4882 793          2                                               ER0                         [DRJ]
+                                                                    2                                      77       ER0                         [DRK,DHN]
+                                                  5015 694AA        2       J                              78       ER0                         [DRK,DHN]
+                                                                    2                                               ED0                         [DRJ]
+                                                                    2                                               ED0                         [DRJ]
+                                                  5093 377AA        1                                               ER0                         [DRK,DHW], Front
+                                            -4                                                                                                 RING, U Joint
+                                                  J320 7886         4                                               ER0                         [DRJ]
+                                                                    4                                      77       ER0                         [DRK,DHN]
+                                                                    4       J                              78       ER0                         [DRK,DHN]
+                                                                    4                                               ED0                         [DRJ]
+                                                                    4                                               ED0                         [DRJ]
+                                            -5    5093 823AA        1                                               ER0                        BOOT, Drive Shaft
+                                            -6    5093 824AA        1                                      77       ER0                        FLANGE, Drive Shaft, On rear of
+                                                                                                                                                rear drive shaft
+                                             -7       6506 497AA       4                                                                       BOLT, Hex Head, M12, [DRK,DHW]
+                                                                                                                                                Flange to Rear Axle Yoke,
+                                                                                                                                                Mounting
+
+
+                                        JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                        SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                        H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                        L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                        M=X                                                                                               DDD = 5 Speed HD Manual
+                                        P = Sahara                                                                                        DG0 = Auto. Trans.
+                                        S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                          DDK = 5 Speed Manual
+
+
+                                         AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                     »
+

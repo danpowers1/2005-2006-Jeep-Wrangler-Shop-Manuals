@@ -1,0 +1,49 @@
+                            Sensors Drive Train
+                              Figure 008-630
+                                                       PART
+                                         ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                            1                                                                                                SENSOR, Vehicle Speed
+                                                    5033 202AB       1
+                                                    5602 7905        1                    H, L, M,
+                                                                                             P
+                                            2                                                                                                O RING
+                                                    4799 062         1                                   77       ED0
+                                                                     1                                            ER0
+                                            3                                                                                                SENSOR, Transmission Output
+                                                                                                                                              Speed
+                                                    52854 001AA      1                                   77       ED0
+                                                                     1                                            ER0
+                                            4                                                                                                SENSOR, Transmission Input Speed
+                                                    4799 061AB       1                                   77       ED0
+                                                                     1                                            ER0
+                                            5                                                                                                SENSOR, Manual Valve Lever
+                                                    4659 677AC       1                                   77       ED0
+                                                                     1                                            ER0
+                                            6                                                                                                SEAL, Manual Valve Position Sensor
+                                                    4659 678         1                                   77       ED0
+                                                                     1                                            ER0
+                                            7       6503 254         2                                                                       SCREW, Hex Head, Speed Sensor
+                                                                                                                                              Wiring Clip to Frame
+                                            8       52104 610AA      1         J                                                             SENSOR, Axle Locker
+
+
+
+
+                                      JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                      SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                      H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                      L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                      M=X                                                                                               DDD = 5 Speed HD Manual
+                                      P = Sahara                                                                                        DG0 = Auto. Trans.
+                                      S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                        DDK = 5 Speed Manual
+
+
+                                       AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX
+

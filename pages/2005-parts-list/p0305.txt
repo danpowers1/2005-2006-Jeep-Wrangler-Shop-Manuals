@@ -1,0 +1,66 @@
+                              Seat Belts
+                            Figure ITJ-710
+                                                    PART
+                                      ITEM         NUMBER       QTY       LINE         SERIES     BODY        ENGINE     TRANS     TRIM               DESCRIPTION
+
+
+
+                                         1                                                                                                SEAT BELT, Front Outer
+                                                 5JC57 1X9AC      1                                   77                           O0      Left,Export
+                                                 5JC56 1X9AC      1                                                                O0      Right,Export
+                                                 5KK64 1X9AA      1                                                                O0      Right
+                                                 5KK65 1X9AA      1                                                                O0      Left
+                                         2       55217 173AD      2                                                                       ADJUSTER, Seat Belt Turning Loop
+                                         3       6036 108AA       2                                                                       SCREW, Pan Head
+                                         4                                                                                                COVER, Turning Loop
+                                                 5HM32 DX9AC 1                            S                                        O0      Right
+                                                             1                         H, L, M                                     O0      Right
+                                                             1                            P                                        O0      Right
+                                                 5HM33 DX9AC 1                            S                                        O0      Left
+                                                             1                         H, L, M                                     O0      Left
+                                                             1                            P                                        O0      Left
+                                         5                                                                                                SEAT BELT, Front Inner
+                                                 5HS49 1X9AE      1         J                       77                             H6      Driver
+                                                                  1         U                       77                             H6      Driver
+                                                                  1         J                       78                             S5      Driver
+                                                                  1         J                       77                             S5      Driver
+                                                                  1         U                       77                             P5      Driver
+                                                                  1         J                     77, 78                           P5      Driver
+                                                                  1         U                       77                             S5      Driver
+                                                                  1         J                       77                             Q5      Driver
+                                                 5HS50 1X9AE      1         J                     77, 78                           P5      Passenger
+                                                                  1         J                       77                             Q5      Passenger
+                                                                  1         U                       77                             S5      Passenger
+                                                                  1         J                       77                             S5      Passenger
+                                                                  1         J                       78                             S5      Passenger
+                                                                  1         U                       77                             P5      Passenger
+                                                                  1         U                       77                             H6      Passenger
+                                                                  1         J                       77                             H6      Passenger
+                                         6                                                                                                BOLT, Seat Belt, Front Traveling
+                                                                                                                                           Inboard Buckle Mounting
+                                                 5093 709AA       2         J                       77                             H6
+                                                                  2         U                       77                             H6
+                                                                  2         J                     77, 78                           P5
+                                                                  2         U                       77                             P5
+                                                                  2         J                       77                             Q5
+                                                                  2         J                       78                             S5
+                                                                  2         J                       77                             S5
+                                                                  2         U                       77                             S5
+                                         7                                                                                                SEAT BELT, Rear Outer
+
+
+                                   JEEP WRANGLER (TJ) ——————————————————————————————————————————————————————————————
+                                   SERIES               LINE                             BODY                 ENGINE                   TRANSMISSION
+                                   H = Sport         J = Wrangler 4WD                  77 = 93.4 WB        ED1, ED0 = 2.4L DOHC      DGG, DGD = 32RH 3 Spd.
+                                   L = SE            U = Wrangler 4WD (RHD)                                ERH = 4.0L Power Tech           Auto.
+                                   M=X                                                                                               DDD = 5 Speed HD Manual
+                                   P = Sahara                                                                                        DG0 = Auto. Trans.
+                                   S = Rubicon                                                                                       DBB = Manual Trans.
+                                                                                                                                     DDK = 5 Speed Manual
+
+
+                                    AR = Use as required    - = Non illustrated part    # = New this model year                                                August 27, 2004
+
+
+«   RETURN TO GROUP INDEX                                                                                                                                                »
+
