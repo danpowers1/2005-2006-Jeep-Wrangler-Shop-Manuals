@@ -1,0 +1,27 @@
+DRIVEABILITY - NGC
+
+P0171-FUEL SYSTEM 1/1 LEAN — Continued
+
+ TEST                                        ACTION                                      APPLICABILITY
+  14    Turn the ignition off.                                                                All
+        WARNING: The fuel system is under a constant pressure (even with the
+        engine off). Before testing or servicing any fuel system hose,fitting or line,
+        the fuel system pressure must be released.
+        Remove the Fuel Pump Module and inspect the Fuel Inlet Strainer.
+        Is the Fuel Inlet Strainer plugged?
+                 Yes   → Replace the Fuel Pump Inlet Strainer.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    15
+
+  15    If there are no possible causes remaining, view repair.                               All
+
+                 Repair
+                          Replace the Fuel Pump Module.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      94
+

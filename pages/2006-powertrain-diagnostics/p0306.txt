@@ -1,0 +1,69 @@
+TRANSMISSION - 42RLE
+
+P0713-TRANSMISSION TEMPERATURE SENSOR HIGH — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  3     Turn the ignition off to the lock position.                                               All
+        Remove the Starter Relay.
+        NOTE: Failure to remove Starter Relay can cause a Transmission - No
+        Response condition.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        With the Transmission Simulator, turn the Input/Output switch to OFF.
+        With the DRBIIIt, monitor the TRANS TEMP VOLTS while turning the Thermistor
+        Voltage switch to all three positions on the Transmission Simulator.
+        Compare the DRBIIIt readings with the numbers listed on the Transmission
+        Simulator.
+        Do the readings on the Transmission Simulator match the DRBIIIt readings ± 0.2
+        volts?
+
+                 Yes   → Go To     4
+
+                 No    → Go To    5
+
+  4     If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace Transmission Solenoid/TRS Assembly per the Service
+                          Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  5     Turn the ignition off to the lock position.                                               All
+        Disconnect the TCM harness connector..
+        Disconnect the Transmission Solenoid /TRS Assembly harness connector
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Transmission Temperature Sensor Signal circuit from
+        the TCM harness connector to the Transmission Solenoid/TRS Assembly harness
+        connector.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Repair the Transmission Temperature Sensor Signal circuit for
+                         an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     6
+
+  6     Turn the ignition off to the lock position.                                               All
+        Disconnect the TCM harness connector.
+        Remove the Transmission Control Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector.
+        Ignition on, engine not running.
+        Measure the voltage of the Transmission Temperature Sensor Signal circuit in the
+        TCM harness connector.
+        Is the voltage above 0.5 volts?
+
+                 Yes   → Repair the Transmission Temperature Sensor Signal circuit for a
+                         short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     7
+
+
+                                                      298
+

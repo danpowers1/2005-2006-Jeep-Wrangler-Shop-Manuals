@@ -1,0 +1,20 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0734-GEAR RATIO ERROR IN 4TH — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  6     If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Repair internal transmission problem. Check all of the compo-
+                          nents related to the Overdrive and 2/4 clutches. Inspect the Oil
+                          Pump per the Service Information and repair or replace as
+                          necessary.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                      323
+

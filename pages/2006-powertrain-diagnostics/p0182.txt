@@ -1,0 +1,40 @@
+DRIVEABILITY - NGC
+
+P0498-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT LOW —
+Continued
+ TEST                                      ACTION                                          APPLICABILITY
+   3    Turn the ignition off.                                                                  All
+        Disconnect the NVLD electrical harness connector.
+        Measure the resistance of the NVLD Solenoid coil.
+        Is the resistance between 7.5 and 8.5 ohms?
+
+                Yes   → Go To    4
+
+                No    → Replace the NVLD Assembly.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   4    Disconnect the C3 PCM harness connector.                                                All
+        Measure the resistance between ground and the (K106) NVLD Sol Control circuit at
+        the NVLD electrical harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the short to ground in the (K106) NVLD Sol Control
+                        circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    5
+
+   5    NOTE: Before continuing, check the PCM harness connector terminals for                  All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                   174
+

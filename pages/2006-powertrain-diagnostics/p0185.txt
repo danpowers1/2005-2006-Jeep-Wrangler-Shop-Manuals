@@ -1,0 +1,52 @@
+                                                                             DRIVEABILITY - NGC
+
+Symptom:
+    P0501-VEHICLE SPEED SIGNAL PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0501-VEHICLE SPEED SIGNAL PERFORMANCE
+        When Monitored: With the engine running, transmission not in park or neutral, brakes
+        not applied, and engine rpm greater than 1500.
+        Set Condition: This code will set if no vehicle speed signal is received from the Body
+        Control Module for more than 11 seconds for 2 consecutive trips.
+
+
+
+                                            POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(K75) VSS CIRCUIT SHORTED TO BATTERY VOLTAGE
+RESISTANCE IN THE (F856) 5-VOLT SUPPLY
+RESISTANCE BETWEEN GROUND AND THE (F856) 5-VOLT SUPPLY CIRCUIT
+VEHICLE SPEED SENSOR
+RESISTANCE BETWEEN GROUND AND THE (K75) VSS SIGNAL CIRCUIT
+(K75) VSS SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                         ACTION                                            APPLICABILITY
+   1      Ignition on, engine not running.                                                           All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Disconnect the Vehicle Speed Sensor harness connector.                                     All
+          Disconnect the C1 PCM harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (K75) Vehicle Speed Sensor Signal circuit in the Vehicle
+          Speed Sensor harness connector.
+          Is the voltage above 5.2 volts?
+                   Yes   → Repair the short to voltage in the (K75) VSS Signal circuit.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                   No    → Go To    3
+
+
+
+
+                                                       177
+

@@ -1,0 +1,52 @@
+    CONNECTOR PINOUTS
+
+
+
+                                                 FUEL INJECTOR NO. 6 (4.0L) - 2 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1    K334 18BR                ASD RELAY OUTPUT
+                         2    K58 18BR/VT              INJECTOR CONTROL NO. 6
+
+
+
+
+                                                     FUEL PUMP MODULE - 4 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1    Z987 18BK                GROUND
+                         2    N4 20DB/WT               FUEL LEVEL SENSOR SIGNAL
+                         3    K900 20DB/DG             SENSOR GROUND
+                         4    A109 18OR/RD             FUEL PUMP RELAY OUTPUT
+
+C
+O
+N
+N
+E
+                                                     GENERATOR - BLACK 2 WAY
+C                       CAV          CIRCUIT                                    FUNCTION
+T                        1    K125 18BR/DG (EXCEPT     GEN FIELD CONTROL
+O                             MAN 6 SPD TRANS)
+R                        1    K125 20BR/DG (MAN 6      GEN FIELD CONTROL
+                              SPD TRANS)
+                         2    Z20 18BR/BK              GROUND
+P
+I
+N
+O
+U
+T
+S
+
+
+
+                                                GENERATOR (COMPONENT SIDE) - 3 WAY
+                        CAV          CIRCUIT                                    FUNCTION
+                         1                  -          FIELD WIRES
+                         2                  -          FIELD WIRE CONNECTOR
+                         3                  -          B(+) (OUTPUT TERMINAL)
+
+
+
+
+                                     456
+

@@ -1,0 +1,55 @@
+                                                                            DRIVEABILITY - NGC
+
+Symptom:
+    P0461-FUEL LEVEL SENSOR NO.1 PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0461-FUEL LEVEL SENSOR NO.1 PERFORMANCE
+        When Monitored: TEST #1: With the ignition on, the fuel level is compared to the
+        previous key down after a 20 second delay. TEST #2: The PCM monitors the fuel level at
+        ignition on.
+        Set Condition: TEST #1: If the PCM does not see a difference in fuel level of greater than
+        0.1 volt the test will fail. TEST #2: If the PCM does not see a change in the fuel level of
+        .1765 over a set amount of miles the test will fail.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VISUALLY INSPECT FUEL TANK
+(N4) FUEL LEVEL SIGNAL CIRCUIT OPEN
+(N4) FUEL LEVEL SIGNAL CIRCUIT SHORTED TO GROUND
+(K900) SENSOR GROUND CIRCUIT OPEN
+INTERNAL INSPECTION OF THE FUEL TANK
+FUEL LEVEL SENSOR
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      NOTE: Diagnose P0462 or P0463 first, if set along with P0461.                            All
+          NOTE: Inspect the Fuel Pump Module harness connector for any corrosion
+          or damage.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To     2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Visually inspect the Fuel Tank for damage that may restrict the Fuel Sending Unit        All
+          float from moving.
+          Is the Fuel Tank OK?
+
+                  Yes   → Go To     3
+
+                  No    → Replace the Fuel Tank as necessary.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      163
+

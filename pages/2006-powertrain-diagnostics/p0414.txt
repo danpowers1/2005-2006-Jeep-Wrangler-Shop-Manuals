@@ -1,0 +1,43 @@
+TRANSMISSION - 42RLE
+
+P1793-TRD LINK COMMUNICATION ERROR — Continued
+
+ TEST                                        ACTION                                           APPLICABILITY
+  7     Turn the ignition off to the lock position.                                                All
+        Disconnect the TCM harness connector.
+        Ignition on, engine not running.
+        Measure the voltage of the Torque Management Request Sense circuit in the TCM
+        harness connector.
+        Is the voltage above 7.0 volts?
+                 Yes   → Replace the Transmission Control Module per the Service Infor-
+                         mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    8
+
+  8     If there are no possible causes remaining, view repair.                                    All
+
+                 Repair
+                          Replace and program the Powertrain Control Module per the
+                          Service Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  9     The conditions necessary to set this DTC are not present at this time.                     All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                      406
+

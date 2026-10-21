@@ -1,0 +1,28 @@
+                                                                  VEHICLE THEFT/SECURITY
+
+TRANSPONDER COMMUNICATION FAILURE — Continued
+
+ TEST                                        ACTION                                  APPLICABILITY
+  6     If there are no possible causes remaining, view repair.                           All
+
+                 Repair
+                          Replace and program the Sentry Key Immobilizer Module in
+                          accordance with the Service Information.
+                          Perform SKIS VERIFICATION.
+
+  7     Turn the ignition off.                                                            All
+        Note: Visually inspect the related wiring harness. Look for any chafed,
+        pierced, pinched, or partially broken wires.
+        NOTE: Visually inspect the related wiring harness connectors. Look for
+        broken, bent, pushed out, or corroded terminals.
+        Note: Refer to any Technical Service Bulletins (TSB) that may apply.
+        Were any problems found?
+                 Yes   → Repair wiring harness/connectors as necessary.
+                         Perform SKIS VERIFICATION.
+                 No    → Test Complete.
+
+
+
+
+                                                      431
+

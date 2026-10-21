@@ -1,0 +1,37 @@
+TRANSMISSION - 42RLE
+
+P1775-SOLENOID SWITCH VALVE LATCHED IN TCC POSITION —
+Continued
+ TEST                                        ACTION                                           APPLICABILITY
+   9    Using the schematics as a guide, inspect the wiring and connectors. Repair as              All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  10    The conditions necessary to set this DTC are not present at this time.                     All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Test drive the vehicle.
+        Did you experience any 2nd gear launches or no TCC engagement?
+                 Yes   → Inspect the Valve Body for signs of a stuck valve or other problem
+                         in the SSV area. If no problems are found, replace the Solenoid/
+                         Pressure Switch Assembly. If excessive debris is present in the
+                         Pan or Valve Body, repair cause of the debris as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+
+
+
+                                                     398
+

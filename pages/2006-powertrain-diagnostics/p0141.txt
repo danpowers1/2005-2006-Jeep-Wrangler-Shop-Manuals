@@ -1,0 +1,30 @@
+                                                                          DRIVEABILITY - NGC
+
+P0420-CATALYST 1/1 EFFICIENCY — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  4     Check the exhaust for excessive smoke caused by an internal problem in the engine.        All
+        Is an engine mechanical condition present?
+                 Yes   → Repair the engine mechanical condition as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    5
+
+  5     A new rear O2 Sensor along with an aging front O2 Sensor may cause the DTC to set.        All
+        Review the vehicles repair history.
+        Has the rear O2 Sensor been replace without replacing the front O2 Sensor?
+                 Yes   → Replace the Front O2 Sensor as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     6
+
+  6     If there are no possible cause remaining, view repair.                                    All
+                 Repair
+                          Replace the Catalytic Converter.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      133
+

@@ -1,0 +1,60 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    P1694-BUS COMMUNICATION WITH ENGINE MODULE
+
+
+
+When Monitored and Set Condition:
+
+        P1694-BUS COMMUNICATION WITH ENGINE MODULE
+        When Monitored:       Continuously with ignition key on.
+        Set Condition:    If no bus messages are received from the Powertrain Control Module for
+        10 seconds.
+
+
+
+                                           POSSIBLE CAUSES
+NO COMMUNICATION WITH PCM
+OTHER BUS PROBLEMS PRESENT
+INTERMITTENT WIRING AND CONNECTORS
+TRANSMISSION CONTROL MODULE
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      With the DRBIIIt, Check the STARTS SINCE SET counter for P1694.                          All
+          Note: This counter only applies to the last DTC set.
+          Is the STARTS SINCE SET counter for P1694 set to 0?
+                  Yes   → Go To     2
+
+                  No    → Go To    5
+
+   2      With the DRBIIIt, check all of the other modules on the vehicle for evidence of a        All
+          vehicle bus problem.
+          Bus related DTC’s in other modules point to an overall vehicle bus problem. Other
+          symptoms such as a customer complaint of intermittent operation of bus controlled
+          features also indicate a bus problem.
+          Does the PRNDL display indicate 9No Bus9 or is there any evidence of an overall
+          vehicle bus problem?
+                  Yes   → Refer to the Communication category and perform the appropri-
+                          ate symptom.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+                  No    → Go To    3
+
+   3      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, attempt to communicate with the Powertrain Control Module
+          (PCM).
+          Can the DRBIIIt communicate with the PCM?
+                  Yes   → Go To     4
+
+                  No    → Refer to the Communication category and perform the appropri-
+                          ate symptom.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                      392
+

@@ -1,0 +1,48 @@
+VERIFICATION TESTS
+
+Verification Tests
+            42RLE (NGC) TRANSMISSION VERIFICATION TEST - VER 1                                      APPLICABILITY
+1. NOTE: After completion of the Transmission Verification Test, the Powertrain                          All
+Verification Test must be performed. Refer to the Powertrain Category.
+2. Connect the DRBIIIt to the Data Link Connector (DLC).
+3. Reconnect any disconnected components.
+4. With the DRBIIIt, erase all Transmission DTC’s, also erase Engine DTC’s.
+5. NOTE: If the Transmission Control Module or Torque Converter has been replaced,
+or if the Transmission has been repaired or replaced, it is necessary to perform the
+DRBIIIt Quick Learn Procedure and reset the (Pinion Factor(.
+6. Perform *PRNDL FAULT CLEARING PROCEDURE after completion of repairs for P0706
+CHECK SHIFTER SIGNAL.
+7. With the DRBIIIt, display Transmission Temperature. Start and run the engine until the
+Transmission Temperature is HOT, above 43° C or 110° F.
+8. Check the transmission fluid and adjust if necessary. Refer to the Service Information for the
+Fluid Fill procedure.
+9. NOTE: Erase DTC P0700 under Engine to turn off the MIL light after completing
+transmission repairs.
+10. If the Torque converter has been replaced, with the scan tool perform TCC BREAK-IN.
+11. Road test the vehicle. With the DRBIIIt, monitor the engine RPM. Make 15 to 20 1-2, 2-3,
+3-4 upshifts. Perform these shifts from a standing start to 45 MPH with a constant throttle
+opening of 20 to 25 degrees.
+12. Below 25 MPH, make 5 to 8 wide open throttle kickdowns to 1st gear. Allow at least 5
+seconds each in 2nd and 3rd gear between each kickdown.
+13. For a specific DTC, drive the vehicle to the Symptom’s When Monitored/When Set
+conditions to verify the DTC is repaired.
+14. If equipped with AutoStickt, upshift and downshift several times using the AutoStickt
+feature during the road test.
+15. NOTE: Use the OBDII task manager to run a Good Trip in each gear, this will
+confirm the repair and to ensure that the DTC has not re-matured.
+16. Check for Diagnostic Trouble Codes (DTCs) during and after the road test.
+17. NOTE: Erase P0700 DTC in the PCM to turn the MIL light off after making
+transmission repairs.
+Did any DTCs set during or after the road test?
+
+             Yes   → Repair is not complete, refer to the appropriate symptom.
+                     Perform 42RLE (NGC) TRANSMISSION VERIFICATION TEST - VER
+                     1.
+
+             No    → Repair is complete.
+
+
+
+
+                                                         432
+

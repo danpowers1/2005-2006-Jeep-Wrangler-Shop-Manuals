@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0123-THROTTLE POSITION SENSOR NO.1 HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0123-THROTTLE POSITION SENSOR NO.1 HIGH
+        When Monitored:      With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: Throttle Position Sensor voltage at the PCM is greater than 4.5 volts for
+        0.7 of a second. One Trip Fault.
+
+
+
+                                          POSSIBLE CAUSES
+THROTTLE POSITION SENSOR SWEEP
+INTERMITTENT CONDITION
+THROTTLE POSITION SENSOR
+(K22) TP SENSOR NO.1 SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K22) TP SENSOR NO.1 SIGNAL CIRCUIT OPEN
+(K22) TP SENSOR NO.1 SIGNAL CIRCUIT SHORTED TO THE (F855) 5-VOLT SUPPLY CIRCUIT
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                       ACTION                                        APPLICABILITY
+   1      NOTE: Ensure the throttle is fully closed and free from binding or carbon            All
+          build up.
+          Start the engine.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          NOTE: Diagnose any IAC codes before continuing.
+          With the DRBIIIt, read the TP Sensor voltage.
+          Is the voltage above 4.5 volts?
+
+                  Yes   → Go To   2
+                  No    → Go To   8
+
+   2      Turn the ignition off.                                                               All
+          Disconnect the TP Sensor harness connector.
+          Connect a jumper wire between the (K22) TP Sensor No.1 Signal circuit and the
+          (K900) Sensor ground circuit at the Sensor harness connector.
+          With the DRBIIIt, monitor the TP Sensor voltage.
+          Ignition on, engine not running.
+          Is the voltage below 0.5 of a volt?
+                  Yes   → Replace the Throttle Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To   3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                    66
+

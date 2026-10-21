@@ -1,0 +1,52 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0594-SPEED CONTROL SERVO POWER CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0594-SPEED CONTROL SERVO POWER CIRCUIT
+        When Monitored: Engine running, the speed control switched on and learned, and the
+        brake pedal is not pressed. No other fault has occured this trip.
+        Set Condition: The speed control power supply circuit is either open or shorted to ground.
+        Cruise will be disabled for the remainder of that key-on cycle. One Trip Fault. Three good
+        trips to clear the MIL.
+
+
+
+                                             POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(V32) S/C SUPPLY CIRCUIT OPEN
+(V32) S/C SUPPLY CIRCUIT SHORTED TO GROUND
+BRAKE LAMP SWITCH
+(V30) S/C BRAKE SWITCH OUTPUT
+(V30) S/C BRAKE SWITCH OUPUT CIRCUIT OPEN
+(V30) S/C BRAKE SWITCH OUTPUT CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                          ACTION                                             APPLICABILITY
+   1      Ignition on, engine not running.                                                             All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter equal to zero?
+                   Yes   → Go To     2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+   2      Disconnect the Brake Lamp Switch harness connector.                                          All
+          Start the engine.
+          Using a 12-volt test light connected to ground, probe the (V32) S/C Supply circuit in
+          the Switch harness connector while holding the Cruise Switch in the ON position.
+          Does the test light illuminate brightly?
+                   Yes   → Go To     3
+
+                   No    → Go To     7
+
+
+
+
+                                                        222
+

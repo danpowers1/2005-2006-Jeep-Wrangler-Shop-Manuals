@@ -1,0 +1,66 @@
+GENERAL INFORMATION
+> High speed 4-2, 3-2, 2-1 kickdown shifts are                 > Aggressive driving in low gear
+  prevented                                                    > Trailer towing in OD gear position (use 3 position
+> No EMCC                                                        (or A/S 3rd) if frequent shifting occurs)
+Warm: Oil temperature at start up above 2.2°C                  > Cooling system failure causing engine to operate
+(36°F) and below 27°C (80°F)                                     over 110°C (230°F)
+> Goes to a Hot schedule above 27°C (80°F) oil                 > Engine coolant temperature stays low too long -
+  temperature                                                    If engine coolant temperature drops below 65°C
+                                                                 (150°F), the transmission will disengage EMCC.
+> Normal operation (upshifts, kickdowns, and
+                                                                 Extended operation with the EMCC disengaged
+  coastdowns)
+                                                                 will cause the transmission to overheat.
+> No EMCC
+                                                               > Brake switch issue will cause the EMCC to
+Hot: Oil temperature at start up above 27°C                      disengage. Extended operation with the EMCC
+(80°F)                                                           disengaged will cause the transmission to over-
+> Goes to a Overheat schedule above 115°C (240°F)                heat.
+  oil temperature                                              > Transmission fluid overfilled
+> Normal operation (upshifts, kickdowns, and                   > Transmission cooler or cooler lines restricted
+  coastdowns)                                                  > Transmission Temperature Sensor circuit
+> Full EMCC, No PEMCC except to engage
+  FEMCC, except at closed throttle at speeds above             3.2.4     O2 SENSOR (NGC)
+  113-133 Km/h (70 - 83 MPH)                                      The O2 system will with ignition on and engine
+Overheat: Oil temperature above 115°C                          off have a normalized O2 voltage of around 5 volts
+(240 °F) or engine coolant temperature above                   as displayed on the DRBIII or measured with a high
+118°C (244°F)                                                  impedance voltmeter. As the O2 sensor starts gen-
+> Goes to a Hot below 110°C (230°F) oil tempera-               erating a signal the voltage will move towards 2.5
+  ture or a Super Overheat above 115°C (240°F) oil             volts. The voltage will typically vary between 2.5
+  temperature                                                  volts and 3.5 volts on a normal running engine. The
+                                                               goal voltage is also typically between 2.5 and 3.5
+> Delayed 2-3 upshift 40-51 Km/h (25-32 MPH)                   volts. This implies that the 0-volt through 1-volt
+> Delayed 3-4 upshift 66-77 Km/h (41-48 MPH)                   range that you are used to is still valid, only it is
+> 3rd gear FEMCC from 48-77 Km/h (30-48 MPH)                   shifted up by a 2.5 volt offset. This 2.5 volt supply is
+> 3rd gear PEMCC from 43-50 Km/h (27-31 MPH)                   being delivered through the sensor return line.
+
+Super Overheat: Oil temperature above 127°C                    3.2.5    OTHER CONTROLS
+(260°F)
+> Goes back to a Overheat below 115°C (240°F) oil              Charging System (NGC)
+  temperature                                                    The charging system is turned on when the
+> All a Overheat shift schedules features apply                engine is started. The Generator Field is controlled
+                                                               by the PCM using a 12-volt high side driver and a
+> 2nd gear PEMCC above 35 Km/h (22 MPH)                        body ground. The PCM determines the Generator
+> Above 35 Km/h (22 MPH) the torque converter                  output voltage by an input from the Battery Tem-
+  will not unlock unless the throttle is closed (i.e. at       perature Sensor. The PCM applies a longer duty
+  80 Km/h (50 MPH) a 4th FEMCC to 3rd FEMCC                    cycle on time to the Generator Field Control circuit
+  shift will be made during a part throttle kick-              when more system voltage is needed. When a lower
+  down or a 4th FEMCC to 2nd PEMCC shift will                  system voltage is needed, the PCM shortens the
+  be made at wide open throttle) or if a wide open             duty cycle on time of the high side driver.
+  throttle 2nd PEMCC to 1 kickdown is made.
+                                                               Vehicle Speed Control (NGC)
+Causes for operation in the wrong tempera-                        The PCM controls vehicle speed by operation of
+ture shift schedule:
+                                                               the speed control servo vacuum and vent solenoids.
+  Extreme Cold or Cold shift schedule at start up:
+                                                               Energizing the vacuum solenoid applies vacuum to
+> Temperature Sensor circuit.                                  the servo to increase throttle position. Operation of
+> Overheat or Super Overheat shift schedule after              the vent solenoid slowly releases the vacuum allow-
+  extended operation:                                          ing throttle position to decrease. A special dump
+> Operation in city traffic or stop and go traffic             solenoid allows immediate release of throttle posi-
+                                                               tion caused by braking, cruise control turn off,
+> Engine idle speed too high
+
+
+                                                           6
+

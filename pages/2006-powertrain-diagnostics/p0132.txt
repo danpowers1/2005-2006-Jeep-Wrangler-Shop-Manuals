@@ -1,0 +1,60 @@
+DRIVEABILITY - NGC
+
+P0340-CAMSHAFT POSITION SENSOR CIRCUIT — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  3     Measure the voltage on the (K44) CMP Signal circuit in the CMP Sensor harness            All
+        connector.
+        Is the voltage between 4.5 and 5.0 volts?
+
+                Yes   → Go To     4
+
+                No    → Go To    7
+
+  4     Turn the ignition off.                                                                   All
+        Disconnect the C1 and C2 PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K900) Sensor ground circuit from the CMP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     5
+                No    → Repair the open in the (K900) Sensor ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     Measure the resistance between the (K44) CMP Signal circuit and the (F856) 5-volt        All
+        Supply circuit in the CMP Sensor harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the short between the (K44) CMP Signal circuit and the
+                        (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    6
+
+  6     NOTE: Inspect the Camshaft sprocket for damage per the Service Informa-                  All
+        tion. If a problem is found repair as necessary.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Replace the Camshaft Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  7     Turn the ignition off.                                                                   All
+        Disconnect the C2 PCM harness connector.
+        Ignition on, engine not running.
+        Measure the voltage on the (K44) CMP Signal circuit in the CMP Sensor harness
+        connector.
+        Is the voltage above 5.2 volts?
+
+                Yes   → Repair the short to voltage in the (K44) CMP Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    8
+
+
+
+
+                                                    124
+

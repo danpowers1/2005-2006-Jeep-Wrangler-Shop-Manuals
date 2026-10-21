@@ -1,0 +1,40 @@
+                                                                             DRIVEABILITY - NGC
+
+P1603-PCM INTERNAL DUAL-PORT RAM COMMUNICATION — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  1     Turn the ignition off.                                                                       All
+        Disconnect the C1 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        With a 12-volt test light connected to ground and with special tool #8815 installed,
+        probe the (F1), (F26) Fused Ignition Switch Output circuits.
+        Perform the above check with the Ignition key in the off lock position, Ignition on,
+        engine not running position, and during cranking.
+        Wiggle the related wire harness while probing the special tool with the test light to
+        try to interrupt the circuit.
+        Does the test light illuminate brightly?
+                 Yes   → Go To     2
+
+                 No    → Repair the open or excessive resistance in the (F11) Fused
+                         Ignition Switch (Off, Run, Start) circuit. Inspect the related fuse,
+                         if the fuse is open check the circuit for a short to ground.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+  2     NOTE: Before continuing, check the PCM harness connector terminals for                       All
+        corrosion, damage, or terminal push out. Repair as necessary
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        The Powertrain Control Module is reporting internal errors, view repair to continue.
+                 Repair
+                          Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                      249
+

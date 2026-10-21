@@ -1,0 +1,27 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    *INCORRECT TRANSMISSION FLUID LEVEL
+
+
+
+
+                                           POSSIBLE CAUSES
+INCORRECT FLUID LEVEL
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     The transmission must be above 70 degree F. prior to checking fluid level. Adjusting        All
+        fluid level on a cold transmission will result in an overfilled transmission.
+        Check the transmission fluid level per the service information.
+        Is the fluid level OK?
+
+                 Yes   → Test Complete.
+                 No    → Adjust fluid level. Repair cause of incorrect fluid level.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+
+
+
+                                                     418
+

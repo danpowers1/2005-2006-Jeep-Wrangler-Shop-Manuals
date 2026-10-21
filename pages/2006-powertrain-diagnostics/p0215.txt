@@ -1,0 +1,59 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0572-BRAKE SWITCH NO.1 CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0572-BRAKE SWITCH NO.1 CIRCUIT LOW
+        When Monitored:       Ignition on.
+        Set Condition: When the PCM recognizes Brake Switch #1 is mechanically stuck in the
+        low/on position. One Trip Fault. Three Global Good Trips to Clear.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+BRAKE LAMP SWITCH OPERATION
+(B15) BRAKE SWITCH NO.1 SIGNAL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      NOTE: Verify battery voltage is greater than 10 volts.                                  All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+   2      Turn the ignition off.                                                                  All
+          Remove the Brake Lamp Switch and disconnect the harness connector.
+          Measure the resistance between the (Z249) Ground circuit terminal and the (B15)
+          Brake Switch No.1 Signal terminal at the Brake Lamp Switch.
+          Apply and release the brake pedal plunger while monitoring the ohmmeter.
+          Does the resistance change from below 5.0 ohms to an open circuit?
+
+                  Yes   → Go To    3
+
+                  No    → Replace the Brake Lamp Switch.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+   3      Turn the ignition off.                                                                  All
+          Disconnect the C3 PCM harness connector.
+          Measure the resistance between ground and the (B15) Brake Switch No.1 Signal
+          circuit in the Brake Lamp Switch harness connector.
+          Is the resistance below 100 ohms?
+                  Yes   → Repair the short to ground in the (B15) Brake Switch No.1 Signal
+                          circuit.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                  No    → Go To    4
+
+
+
+
+                                                     207
+

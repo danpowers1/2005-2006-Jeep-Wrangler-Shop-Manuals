@@ -1,0 +1,62 @@
+                                                                          GENERAL INFORMATION
+shifting into neutral, excessive RPM (tires spin-                 The normally closed valve in the NVLD is in-
+ning) or ignition key off.                                     tended to maintain the seal on the evaporative
+NATURAL VACUUM LEAK DETECTION (NVLD)                           system during the engine off condition. If vacuum in
+   The Natural Vacuum Leak Detection (NVLD)                    the evaporative system exceeds 39 to 69 H2O (0.75 to
+system is the next generation evaporative leak                 1.5 KPA), the valve will be pulled off the seat,
+detection system that will first be used on vehicles           opening the seal. This will protect the system from
+equipped with the Powertrain Control Module                    excessive vacuum as well as allowing sufficient
+(PCM) or Next Generation Controller (NGC) start-               purge flow in the event that the solenoid was to
+ing in 2002 M.Y. This new system replaces the leak             become inoperative. The solenoid actuates the valve
+detection pump as the method of evaporative sys-               to unseal the canister vent while the engine is
+tem leak detection. The current CARB requirement               running. It also will be used to close the vent during
+is to detect a leak equivalent to a 0.0209 (0.5 mm)            the medium and large leak tests and during the
+hole. This system has the capability to detect holes           purge flow check. This solenoid requires initial 1.5
+of this size very dependably.                                  amps of current to pull the valve open but after 100
+   The basic leak detection theory employed with               ms. will be duty cycled down to an average of about
+NVLD is the 9Gas Law9. This is to say that the                 150 mA for the remainder of the drive cycle.
+pressure in a sealed vessel will change if the tem-               Another feature in the NVLD Assembly is a
+perature of the gas in the vessel changes. The vessel          diaphragm that will open the seal with pressure in
+will only see this effect if it is indeed sealed. Even         the evaporative system. The seal will be opened at
+small leaks will allow the pressure in the vessel to           about 0.59 H2O (0.12 KPA) pressure to permit the
+come to equilibrium with the ambient pressure. In              venting of vapors during refueling. An added bene-
+addition to the detection of very small leaks, this            fit to this is that it will also allow the tank to
+system has the capability of detecting medium as               9breathe9 during increasing temperatures, thus lim-
+well as large evaporative system leaks.                        iting the pressure in the tank to this low level. This
+                                                               is beneficial because the induced vacuum during a
+The NVLD utilizes the Gas Law principles                       subsequent declining temperature will achieve the
+   A vent valve seals the canister vent during engine          switch closed (pass threshold) sooner than if the
+off conditions. If the vapor system has a leak of less         tank had to decay from a built up pressure.
+than the failure threshold, the evaporative system                The NVLD Assembly itself has 3 wires: Switch
+will be pulled into a vacuum, either due to the cool           sense, solenoid driver and ground. It also includes a
+down from operating temperature or diurnal ambi-               resistor to protect the switch from a short to battery
+ent temperature cycling. The diurnal effect is con-            or a short to ground. The PCM utilizes a high-side
+sidered one of the primary contributors to the leak            driver to energize and duty-cycle the solenoid.
+determination by this diagnostic.
+   When the vacuum in the system exceeds about 19              The PCM’s Role in NVLD Diagnosis:
+H2O (0.25 KPA), a vacuum switch closes. The                       The integral part of the diagnostic system that
+switch closure sends a signal to the PCM. The PCM,             makes engine-off leak detection possible is a special
+via appropriate logic strategies (described below),            circuit in the PCM controller. After the vehicle is
+utilizes the switch signal, or lack thereof, to make a         turned off, a special part of the controller stays alive
+determination of whether a leak is present.                    and monitors for an NVLD switch closure. This
+                                                               circuit within the PCM is very specific in its func-
+The NVLD Device and how it functions                           tion and consumes very little power. If a switch
+   The NVLD Assembly is designed with a normally               closure is detected, it will log the event and time
+open vacuum switch, a normally closed solenoid,                from key-off, and then power down. This informa-
+and a seal, which is actuated by both the solenoid             tion will be processed at the next key cycle.
+and a diaphragm. The NVLD is located on the
+atmospheric vent side of the canister. The NVLD                NVLD Leak Detection
+Assembly is mounted on top of the canister outlet                 Small Leak Test (Passive)
+for the DN.                                                       If, after a specified delay after key off (perhaps 5
+   The normally open vacuum switch will close with             minutes), the switch closes or is closed, the test will
+about 19 H2O (0.25 KPA) vacuum in the evaporative              be pass, indicating that there is no leak. The PCM
+system. The diaphragm actuates the switch. This is             records the switch closure. The NVLD circuit in the
+above the opening point of the fuel inlet check valve          PCM will shut down for the remainder of that
+in the fill tube so cap off leaks can be detected.             particular engine off (soak) period. When the engine
+Submerged fill systems must have recirculation lines           is started, the switch closure is recorded as a 9Pass,9
+that do not have the in-line normally closed check             and the timers that are recording accumulated time
+valve that protects the system from failed nozzle              are reset.
+liquid ingestion, in order to detect cap off conditions.
+
+                                                           7
+

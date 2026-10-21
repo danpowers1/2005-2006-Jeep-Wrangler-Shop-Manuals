@@ -1,0 +1,51 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P2096-DOWN STREAM FUEL TRIM LEAN BANK 1
+    P2097-DOWN STREAM FUEL TRIM RICH BANK 1
+    P2098-DOWN STREAM FUEL TRIM LEAN BANK 2
+    P2099-DOWN STREAM FUEL TRIM RICH BANK 2
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P2096-DOWN STREAM FUEL
+             TRIM LEAN BANK 1.
+
+
+When Monitored and Set Condition:
+
+     P2096-DOWN STREAM FUEL TRIM LEAN BANK 1
+     When Monitored: With the engine running in closed loop mode, the ambient/battery
+     temperature above (-7°C)20°F, altitude below 8500 ft and fuel level greater than 15%.
+     Set Condition: If the PCM multiplies short term compensation by long term adaptive and
+     a certain percentage is exceeded for two trips, a freeze frame is stored, the MIL illuminates
+     and a trouble code is stored. Two Trip Fault. Three good trips to turn off the MIL.
+
+     P2097-DOWN STREAM FUEL TRIM RICH BANK 1
+     When Monitored: With the engine running in closed loop mode, the ambient/battery
+     temperature above (-7°C)20°F and altitude below 8500 ft.
+     Set Condition: If the PCM multiplies short term compensation by long term adaptive as
+     well as a purge fuel multiplier and the result is below a certain value for 30 seconds over
+     two trips, a freeze frame is stored, the MIL illuminates and a trouble code is stored. Two
+     Trip Fault. Three good trips to turn off the MIL.
+
+     P2098-DOWN STREAM FUEL TRIM LEAN BANK 2
+     When Monitored: With the engine running in closed loop mode, the ambient/battery
+     temperature above (-7°C)20°F, altitude below 8500 ft and fuel level greater than 15%.
+     Set Condition: If the PCM multiplies short term compensation by long term adaptive and
+     a certain percentage is exceeded for two trips, a freeze frame is stored, the MIL illuminates
+     and a trouble code is stored. Two Trip Fault. Three good trips to turn off the MIL.
+
+     P2099-DOWN STREAM FUEL TRIM RICH BANK 2
+     When Monitored: With the engine running in closed loop mode, the ambient/battery
+     temperature above (-7°C)20°F and altitude below 8500 ft.
+     Set Condition: If the PCM multiplies short term compensation by long term adaptive as
+     well as a purge fuel multiplier and the result is below a certain value for 30 seconds over
+     two trips, a freeze frame is stored, the MIL illuminates and a trouble code is stored. Two
+     Trip Fault. Three good trips to turn off the MIL.
+
+
+
+
+                                              252
+

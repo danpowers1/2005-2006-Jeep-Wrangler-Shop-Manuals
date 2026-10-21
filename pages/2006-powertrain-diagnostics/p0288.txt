@@ -1,0 +1,65 @@
+TRANSMISSION - 42RLE
+
+P0562-LOW BATTERY VOLTAGE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  2     With the DRBIIIt, read the PCM DTC’s.                                                         All
+        Are there any Charging System related DTC’s stored in the PCM?
+                 Yes   → Refer to the Charging System category and repair any PCM
+                         Charging System DTC’s first. NOTE: After repairing the PCM
+                         charging system DTC’s, perform the Transmission Verification
+                         test to verify the transmission was not damaged.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     3
+
+  3     NOTE: Generator, battery, and charging system must be fully functional                        All
+        before performing this test.
+        With the DRBIIIt, read Transmission DTC’s.
+        With the DRBIIIt, Check the STARTS SINCE SET counter for P0562.
+        Note: This counter only applies to the last DTC set.
+        Is the Starts Since Set counter for P0562 set at 0?
+                 Yes   → Go To     4
+
+                 No    → Go To     9
+
+  4     Turn the ignition off to the lock position.                                                   All
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Using a 12-volt test light connected to 12-volts, check the ground circuits in the TCM
+        harness connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly for all the ground circuits?
+
+                 Yes   → Go To     5
+                 No    → Repair the Ground circuit(s) for an open or high resistance.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  5     Turn the ignition off to the lock position.                                                   All
+        Disconnect the TCM harness connector.
+        Remove the Transmission Control Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output in the Transmission Control Relay connector in the PDC.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, check the Fused B+ circuit in the TCM
+        harness connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     6
+
+                 No    → Repair the Fused B+ circuit for an open or high resistance. If the
+                         fuse is open make sure to check for a short to ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+
+                                                       280
+

@@ -1,0 +1,67 @@
+                                                                            DRIVEABILITY - NGC
+
+P0016-CRANKSHAFT/CAMSHAFT TIMING MISALIGNMENT — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  6     Turn the ignition off.                                                                      All
+        Remove the lab scope probe.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Ignition on, engine not running.
+        With the DRBIIIt, erase DTCs.
+        Start the engine.
+        Gently tap on the Cam Position Sensor and wiggle the Sensor.
+        Ignition on, engine not running.
+        Inspect the Sensor harness connector, PCM harness connector, Sensor connector, and
+        PCM connector for loose, bent, corroded, or pushed out pins/terminals.
+        Inspect the related wire harness and the splices in the CMP circuits.
+        Does the P0016 return?
+                 Yes   → Repair the wiring/connector concerns as needed or replace the
+                         Camshaft Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    7
+
+  7     Turn the ignition off.                                                                      All
+        With the DRBIIIt lab scope probe and the Miller special tool #6801, backprobe the
+        (K24) CKP Signal circuit at the CKP harness connector.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Start the engine.
+        Observe the lab scope screen.
+        Are there any irregular or missing signals?
+                 Yes   → Go To    8
+
+                 No    → Go To    11
+
+  8     Turn the ignition off.                                                                      All
+        Visually inspect the related wire harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Make sure the Crankshaft Position Sensor and the Camshaft Position Sensor are
+        properly installed and the mounting bolt(s) tight.
+        Refer to any TSBs that may apply.
+        Were any of the above conditions present?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    9
+
+  9     Remove the Crankshaft Position Sensor.                                                      All
+        Inspect the Tone Wheel/Flex Plate slots for damage, foreign material, or excessive
+        movement.
+        Were any problems found?
+
+                 Yes   → Repair or replace the Tone Wheel/Flex Plate as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    10
+
+
+
+
+                                                      25
+

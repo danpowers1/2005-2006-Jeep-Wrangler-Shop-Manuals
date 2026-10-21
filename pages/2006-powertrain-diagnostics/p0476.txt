@@ -1,0 +1,44 @@
+    CONNECTOR PINOUTS
+
+
+
+
+                                             THROTTLE POSITION SENSOR (2.4L) - 3 WAY
+                        CAV           CIRCUIT                                FUNCTION
+                         1    F855 20PK/YL             5 VOLT SUPPLY
+                         2    K900 20DB/DG             SENSOR GROUND
+                         3    K22 20BR/OR              TP NO. 1 SIGNAL
+
+
+
+
+                                             THROTTLE POSITION SENSOR (4.0L) - 3 WAY
+                        CAV           CIRCUIT                                FUNCTION
+C                        1    F855 20PK/YL             5 VOLT SUPPLY
+O                        2    K900 20DB/DG             SENSOR GROUND
+N                        3    K22 18BR/OR              TP NO. 1 SIGNAL
+N
+E
+C
+T
+O
+R                                               VEHICLE SPEED SENSOR - BLACK 3 WAY
+                        CAV           CIRCUIT                                FUNCTION
+P                        1    F856 18YL/PK (EXCEPT     5 VOLT SUPPLY
+I                             MAN 6 SPD TRANS)
+
+N                        1    F856 20YL/PK (MAN 6      5 VOLT SUPPLY
+                              SPD TRANS)
+O
+                         2    K900 20DB/DG             SENSOR GROUND
+U
+                         3    K75 18DB/OR (EXCEPT      VEHICLE SPEED SENSOR SIGNAL
+T                             MAN 6 SPD TRANS)
+S                        3    K75 20DB/OR (MAN 6 SPD VEHICLE SPEED SENSOR SIGNAL
+                              TRANS)
+
+
+
+
+                                     468
+

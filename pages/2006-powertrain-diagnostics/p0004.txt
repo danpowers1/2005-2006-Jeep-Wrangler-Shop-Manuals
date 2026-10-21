@@ -1,0 +1,57 @@
+                    TABLE OF CONTENTS - Continued
+P0532-A/C PRESSURE SENSOR LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .196
+P0533-A/C PRESSURE SENSOR HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .198
+P0551-POWER STEERING SWITCH PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . .200
+P0562-BATTERY VOLTAGE LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .202
+P0563-BATTERY VOLTAGE HIGH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .205
+P0572-BRAKE SWITCH NO.1 CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .207
+P0573-BRAKE SWITCH NO.1 CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .209
+P0580-SPEED CONTROL SWITCH NO.1 LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .211
+P0581-SPEED CONTROL SWITCH NO.1 HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .213
+P0582-SPEED CONTROL VACUUM SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . .216
+P0586-SPEED CONTROL VENT SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . .219
+P0594-SPEED CONTROL SERVO POWER CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . .222
+P0600-SERIAL COMMUNICATION LINK. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .225
+P0601-INTERNAL MEMORY CHECKSUM INVALID. . . . . . . . . . . . . . . . . . . . . . . . . . .225
+P0622-GENERATOR FIELD CONTROL CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . .226
+P0627-FUEL PUMP RELAY CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .228
+P0630-VIN NOT PROGRAMMED IN PCM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .230
+P0632-ODOMETER NOT PROGRAMMED IN PCM . . . . . . . . . . . . . . . . . . . . . . . . . . .231
+P0633-SKIM KEY NOT PROGRAMMED IN PCM. . . . . . . . . . . . . . . . . . . . . . . . . . . . .232
+P0645-A/C CLUTCH RELAY CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .233
+P0685-ASD RELAY CONTROL CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .235
+P0688-ASD RELAY SENSE CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .237
+P0700-TRANSMISSION CONTROL SYSTEM (MIL REQUEST) . . . . . . . . . . . . . . . . .240
+P0850-PARK/NEUTRAL SWITCH PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . .241
+P1115-GENERAL TEMPERATURE SENSOR PERFORMANCE . . . . . . . . . . . . . . . . .243
+P1593-SPEED CONTROL SWITCH NO.1 STUCK . . . . . . . . . . . . . . . . . . . . . . . . . . . .245
+P1603-PCM INTERNAL DUAL-PORT RAM COMMUNICATION . . . . . . . . . . . . . . . . .248
+P1604-PCM INTERNAL DUAL-PORT RAM READ/WRITE INTEGRITY FAILURE . . .248
+P1607-PCM INTERNAL SHUTDOWN TIMER RATIONALITY . . . . . . . . . . . . . . . . . . .248
+P2610-PCM INTERNAL ENGINE OFF TIMER RATIONALITY. . . . . . . . . . . . . . . . . . .248
+P1696-PCM FAILURE EEPROM WRITE DENIED . . . . . . . . . . . . . . . . . . . . . . . . . . . .250
+P1697-PCM FAILURE SRI MILES NOT STORED . . . . . . . . . . . . . . . . . . . . . . . . . . . .250
+P2096-DOWN STREAM FUEL TRIM LEAN BANK 1 . . . . . . . . . . . . . . . . . . . . . . . . . .252
+P2097-DOWN STREAM FUEL TRIM RICH BANK 1 . . . . . . . . . . . . . . . . . . . . . . . . . .252
+P2098-DOWN STREAM FUEL TRIM LEAN BANK 2 . . . . . . . . . . . . . . . . . . . . . . . . . .252
+P2099-DOWN STREAM FUEL TRIM RICH BANK 2 . . . . . . . . . . . . . . . . . . . . . . . . . .252
+P2302-IGNITION COIL NO.1 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .255
+P2305-IGNITION COIL NO.2 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .255
+P2308-IGNITION COIL NO.3 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .255
+P2503-CHARGING SYSTEM OUTPUT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .258
+U0101-NO BUS MESSAGE FROM TRANS CONTROL MODULE . . . . . . . . . . . . . . .261
+U0155-NO CLUSTER BUS MESSAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .263
+U0168-NO SKIM BUS MESSAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .264
+*CHECKING A/C SYSTEM OPERATION WITH NO DTCS . . . . . . . . . . . . . . . . . . . . .266
+*CHECKING PCM POWERS AND GROUNDS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .270
+
+TRANSMISSION - 42RLE
+P0122-THROTTLE POSITION SENSOR/APPS LOW . . . . . . . . . . . . . . . . . . . . . . . . .271
+P0123-THROTTLE POSITION SENSOR/APPS HIGH . . . . . . . . . . . . . . . . . . . . . . . . .273
+P0124- THROTTLE POSITION SENSOR/APPS INTERMITTENT. . . . . . . . . . . . . . . .275
+
+                                                          iv
+

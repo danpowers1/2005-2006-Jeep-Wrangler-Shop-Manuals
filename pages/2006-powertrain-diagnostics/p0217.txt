@@ -1,0 +1,49 @@
+                                                                        DRIVEABILITY - NGC
+
+Symptom:
+    P0573-BRAKE SWITCH NO.1 CIRCUIT HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0573-BRAKE SWITCH NO.1 CIRCUIT HIGH
+        When Monitored:     Ignition on.
+        Set Condition: When the PCM recognizes Brake Switch #1 is stuck in the high/off
+        position. One Trip Fault. Three good trips to turn off the MIL.
+
+
+
+                                         POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+BRAKE LAMP SWITCH OPERATION
+(B15) BRAKE SWITCH NO.1 SIGNAL CIRCUIT OPEN
+(Z249) GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                      ACTION                                         APPLICABILITY
+   1     Ignition on, engine not running.                                                      All
+         With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+         Is the Good Trip Counter displayed and equal to zero?
+                 Yes   → Go To    2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+   2     Turn the ignition off.                                                                All
+         Disconnect the Brake Lamp Switch harness connector.
+         Measure the resistance between the Ground circuit terminal and the (B15) Brake
+         Switch No.1 Signal circuit terminal in the Brake Lamp Switch.
+         Apply and release the brake pedal while monitoring the ohmmeter.
+         Does the resistance change from below 5.0 ohms to an open circuit?
+                 Yes   → Go To    3
+
+                 No    → Replace the Brake Lamp Switch.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+
+
+
+                                                   209
+

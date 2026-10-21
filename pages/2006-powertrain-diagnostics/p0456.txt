@@ -1,0 +1,63 @@
+    CONNECTOR PINOUTS
+
+
+
+
+                                        AMBIENT TEMPERATURE SENSOR (ENGINE) - 2 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+                         1    G31 20VT/LG                AAT SIGNAL
+                         2    K900 20DB/DG               SENSOR GROUND
+
+
+
+
+                                                BRAKE LAMP SWITCH - GRAY 6 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+                         1    B15 20DG/WT                BRAKE SWITCH NO. 1 SIGNAL
+                         1    B15 20DG/WT                BRAKE SWITCH NO. 1 SIGNAL
+                         2    Z249 20BK/OR               GROUND
+                         3    V32 20VT/YL (EXCEPT        S/C SUPPLY
+                              POSTAL)
+                         4    V30 20VT/WT (EXCEPT        S/C BRAKE SWITCH OUTPUT
+C                             POSTAL)
+
+O                        5    A103 18GY/RD               FUSED B(+)
+
+N                        6    L50 18WT/TN                BRAKE LAMP SWITCH OUTPUT
+
+N
+E                                                         C102 - (ENGINE SIDE)
+C                                                   CAV               CIRCUIT
+
+T                                                    1      A209 18RD
+
+O                                                    2      F26 16PK/OR
+
+R                                                    3      G301 20VT/LB (4.0L OFF-
+                                                            ROAD PACKAGE)
+                                                     3      B1 18DG/OR (ABS)
+P
+                                                     4      A850 18RD/WT (4.0L OFF-
+I                                                           ROAD PACKAGE)
+N                                                    4      B2 18DG/LB (ABS)
+O                                                    5      C20 20DB/YL (2.4L A/C)
+U                                                    6      G300 20VT/WT (4.0L OFF-
+T                                                           ROAD PACKAGE)
+
+S                                                    6      B3 18DG/YL (ABS)
+                                                     7      A750 18TN/RD (4.0L OFF-
+                                                            ROAD PACKAGE)
+                                                     7      B4 18DG/GY (ABS)
+                                                     8      N4 20DB/WT
+                                                     9      L1 20WT/LG
+                                                    10      F102 20PK/DB
+                                                    11      K334 18BR
+                                                    12      T750 14YL/GY
+                                                    13      G93 20VT/LB
+                                                    14      A109 18OR/RD
+
+
+
+
+                                     448
+

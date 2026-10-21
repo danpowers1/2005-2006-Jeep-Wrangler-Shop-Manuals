@@ -1,0 +1,36 @@
+DRIVEABILITY - NGC
+
+P0456-EVAP SYSTEM SMALL LEAK — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  2     Check for any related TSBs before continuing.                                              All
+        NOTE: The difference in ambient temperature, outside temp VS shop temp,
+        may conceal a leak, it is best to perform this test after the vehicle’s
+        temperature has stabilized in the work area.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+
+                 Yes   → Go To    3
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+  3     Perform a visual and physical inspection of the entire Evaporative Emission system.        All
+        Check for the following conditions:
+        - Holes or cracks
+        - Loose seal points
+        - Evidence of damaged components
+        - Incorrect routing of hoses and tubes
+        - Fuel Cap gasket seal
+        Were any of the above conditions found?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To    4
+
+
+
+
+                                                     154
+

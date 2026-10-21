@@ -1,0 +1,50 @@
+                                                           VEHICLE THEFT/SECURITY
+
+Symptom List:
+    PCM STATUS FAILURE
+    SERIAL LINK EXTERNAL FAULT
+
+
+Test Note:      All symptoms listed above are diagnosed using the same tests.
+                The title for the tests will be PCM STATUS FAILURE.
+
+
+When Monitored and Set Condition:
+
+        PCM STATUS FAILURE
+        When Monitored:     With the ignition on.
+        Set Condition: This DTC exists when a PCM STATUS message was not received from the
+        PCM for at least 20.0 consecutive seconds.
+
+        SERIAL LINK EXTERNAL FAULT
+        When Monitored: At ignition on, after ignition on during any rolling code handshake that
+        occurs with the PCM due to a SKIM reset, or during SECRET KEY transfers to the PCM.
+        Set Condition: When the SKIM does not receive an expected PCI BUS message trans-
+        mission acknowledgement from the PCM after 3 transmit attempts.
+
+
+
+                                        POSSIBLE CAUSES
+INTERMITTENT WIRING HARNESS PROBLEM
+WIRING HARNESS INSPECTION
+SKIM/PCM
+
+ TEST                                     ACTION                                      APPLICABILITY
+   1      NOTE: Ensure the PCM has proper power and ground connections before              All
+          continuing.
+          With the DRBIIIt, read and record the SKIM DTCs then erase the SKIM DTCs.
+          Turn the ignition off.
+          Wait 2 minutes.
+          Turn the ignition on.
+          With the DRBIIIt, read the SKIM DTCs.
+          Does the DRBIIIt display the DTC that was previously erased?
+
+                  Yes   → Go To   2
+
+                  No    → Go To   4
+
+
+
+
+                                                 425
+

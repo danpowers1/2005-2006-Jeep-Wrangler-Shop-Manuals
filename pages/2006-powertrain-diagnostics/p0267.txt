@@ -1,0 +1,66 @@
+                                                                            DRIVEABILITY - NGC
+
+P2503-CHARGING SYSTEM OUTPUT LOW — Continued
+
+ TEST                                        ACTION                                           APPLICABILITY
+  2     WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A                                   All
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        NOTE: Ensure all wires are clear of the engine’s moving parts.
+        Start the engine.
+        Warm the engine to operating temperature.
+        Measure the voltage between the Generator B+ Output Terminal and the Battery+
+        Post.
+        Is the voltage above 0.4 of a volt?
+
+                 Yes   → Repair the high resistance in the Battery Positive circuit between
+                         the Generator and Battery.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+                 No    → Go To    3
+
+  3     WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A                                   All
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        NOTE: Make sure all wires are clear of the engine’s moving parts.
+        Measure the voltage between the Generator Case and Battery ground post.
+        Is the voltage above 0.1 of a volt?
+                 Yes   → Repair high resistance in the Generator Case Ground.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 3.
+                 No    → Go To    4
+
+  4     Turn the ignition off.                                                                     All
+        Disconnect the Generator Field harness connector.
+        Using a 12-volt test light, jump it across the Generator Field harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the Generator Field Driver circuit.
+        Does the test light illuminate brightly and flash on and off?
+                 Yes   → Replace the Generator.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 3.
+                 No    → Go To    5
+
+  5     Turn the ignition off.                                                                     All
+        Using a 12-volt test connected to battery voltage, probe the (Z20) Generator Ground
+        circuit in the Generator Field harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    6
+                 No    → Repair the open in the (Z20) Generator Ground circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+  6     Disconnect the C3 PCM harness connector.                                                   All
+        Ignition on, engine not running.
+        Measure the voltage on the (K125) Gen Field Control circuit at the Generator Field
+        harness connector.
+        Is the voltage above 1.0 volt?
+
+                 Yes   → Repair the short to voltage in the (K125) Gen Field Control
+                         circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+                 No    → Go To    7
+
+
+
+                                                     259
+

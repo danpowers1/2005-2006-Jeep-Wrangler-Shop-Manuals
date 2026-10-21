@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P0325-KNOCK SENSOR NO.1 CIRCUIT
+    P0330-KNOCK SENSOR NO.2 CIRCUIT
+
+
+Test Note:       All symptoms listed above are diagnosed using the same tests.
+                 The title for the tests will be P0325-KNOCK SENSOR NO.1
+                 CIRCUIT.
+
+
+When Monitored and Set Condition:
+
+        P0325-KNOCK SENSOR NO.1 CIRCUIT
+        When Monitored: With the engine running >1312 RPM, coolant temp >65.25°C
+        (149.45°F), MAF >250mg/tdc and no ECT, MAF or CAM Sensor DTCs.
+        Set Condition: The Knock Sensor error program internal to the PCM is on, the Knock
+        Sensor voltage is <.49 volt, and the value of the Knock Sensor changes less than .06 volt
+        for >11 seconds. One Trip Fault. Three good trips to turn off the MIL.
+
+        P0330-KNOCK SENSOR NO.2 CIRCUIT
+        When Monitored: With the engine running >1312 RPM, coolant temp >65.25°C
+        (149.45°F), MAF >250mg/tdc and no ECT, MAF or CAM Sensor DTCs.
+        Set Condition: The Knock Sensor error program internal to the PCM is on, the Knock
+        Sensor voltage is <.49 volt, and the value of the Knock Sensor changes less than .06 volt
+        for >11 seconds. One Trip Fault. Three good trips to turn off the MIL.
+
+
+
+                                          POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+KNOCK SENSOR SIGNAL CIRCUIT SHORTED TO VOLTAGE
+KNOCK SENSOR SIGNAL CIRCUIT OPEN
+KNOCK SENSOR RETURN CIRCUIT OPEN
+KNOCK SENSOR SIGNAL CIRCUIT SHORTED TO GROUND
+KNOCK SENSOR SIGNAL CIRCUIT SHORTED TO KNOCK SENSOR RETURN CIRCUIT
+KNOCK SENSOR
+
+ TEST                                       ACTION                                APPLICABILITY
+   1      Ignition on, engine not running.                                             All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+                                                    112
+

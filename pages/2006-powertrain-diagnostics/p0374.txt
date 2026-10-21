@@ -1,0 +1,38 @@
+TRANSMISSION - 42RLE
+
+P0882-TCM POWER INPUT LOW — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  4     Turn the ignition off to the lock position.                                                   All
+        Remove the Transmission Control Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Using a 12-volt test light connected to 12-volts, check the Transmission Control Relay
+        Ground circuit.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+
+                 Yes   → Test Complete.
+                 No    → Repair the Transmission Control Relay Ground circuit for an open
+                         or high resistance.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  5     The conditions necessary to set this DTC are not present at this time.                        All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Test Complete.
+
+
+
+
+                                                       366
+

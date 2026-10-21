@@ -1,0 +1,67 @@
+                                                                        GENERAL INFORMATION
+  – The shift lever must stay in OD after the 9Shift            The UD clutch volume is updated when doing a
+    to Overdrive9 prompt until the DRBIIIt indi-              4-3 or 4-2 shift. The transmission temperature must
+    cates the procedure is complete.                          be above 43 C (110° F). The clutch volume should be
+                                                              between 24 and 70.
+NOTE: The above conditions must be
+maintained during the procedure to keep the                   3.3.9    NO START INFORMATION
+procedure from being aborted.
+                                                                       (POWERTRAIN)
+NOTE: After the Quick Learn Procedure is
+complete, the vehicle should be drive learned                 IMPORTANT NOTE:
+per the Drive Learn Procedure                                   If the Powertrain Control Module has been pro-
+                                                              grammed, a DTC will set in the ABS and Air Bag
+3.3.7    EATX DTC EVENT DATA                                  modules. In addition, if the vehicle is equipped with
+                                                              a Sentry Key Immobilizer Module (SKIM), Secret
+   EATX DTC EVENT DATA can be used as a
+                                                              Key data must be updated to enable starting.
+diagnostic aid when experiencing Electronic Trans-
+missions with intermittent problems. When a Diag-             FOR ABS AND AIR BAG SYSTEMS:
+nostic Trouble Code (DTC) is set, the vehicles EATX            1. Enter correct VIN and Mileage in PCM.
+inputs are stored in the controller memory and are             2. Erase codes in ABS and Air Bag modules.
+retrievable with the DRBIIIt. This information can
+be helpful when a DTC can not be duplicated.                  FOR SKIM THEFT ALARM:
+   The EATX DTC EVENT DATA is located in the                    1. Connect the DRBIIIt to the data link connec-
+DRBIIIt, under the Transmission system menu, in               tor.
+the sub-screen Miscellaneous. It is a good practice             2. Go to Theft Alarm, SKIM, Misc. and place the
+to document the EATX DTC EVENT DATA before                    SKIM in secured access mode, by using the appro-
+beginning any diagnostic or service procedure.                priate PIN code for this vehicle.
+   A thorough understanding of how the transmis-                3. Select Update the Secret Key data, data will be
+sion works is beneficial in order to interpret the            transferred from the SKIM to the PCM (This is
+data correctly. These skills are necessary in order to        required to allow the vehicle to start with the new
+avoid an incorrect diagnosis. A MASTERTECH                    PCM).
+video and reference book was produced in January                4. If three attempts are made to enter secured
+2002 that explains many of the features of the                access mode using the incorrect PIN, secured access
+EATX DTC EVENT DATA with several examples on                  mode will be locked out for one hour. To exit this
+how to interpret the information and suggested                lock out mode, leave the ignition key in the Run/
+training material to help understand all the specif-          Start position for one hour. Ensure all accessories
+ics.                                                          are turned off. Also monitor the battery state and
+   EATX DTC EVENT DATA can only be erased by:                 connect a battery charger if necessary.
+   1. Disconnecting the battery.                                After reading Section 3.0 (System Description
+   2. Performing a DRBIIIt QUICK LEARN proce-                 and Functional Operation), you should have a bet-
+dure.                                                         ter understanding of the theory and operation of the
+   3. Reprogramming the EATX controller.                      on-board diagnostics, and how this relates to the
+   Erasing Transmission DTCs does not clear the               diagnosis of a vehicle that may have a driveability-
+EATX DTC EVENT DATA.                                          related symptom or complaint.
+
+3.3.8    CLUTCH VOLUMES                                       3.4     USING THE DRBIIIT
+  The LR clutch volume is updated when doing a
+                                                                Refer to the DRBIIIt user’s guide for instructions
+2-1 or 3-1 coast down shift. The transmission tem-
+                                                              and assistance with reading trouble codes, erasing
+perature must be between 21-49 C (70-120° F). The
+                                                              trouble codes, and other DRBIIIt functions.
+clutch volume should be between 35 and 83.
+  The 2/4 clutch volume is updated when doing a
+1-2 shift. The transmission temperature must be               3.5     DRBIIIT ERROR MESSAGES AND
+above 43 C (110° F). The clutch volume should be                      BLANK SCREEN
+between 20 and 77.
+  The OD clutch volume is updated when doing a                  Under normal operation, the DRBIIIt will dis-
+2-3 shift. The transmission temperature must be               play one of only two error messages:
+above 43 C (110° F). The clutch volume should be                 – User-Requested WARM Boot by pressing
+between 40 and 150.                                                MORE and NO at the same time.
+
+
+
+                                                         13
+

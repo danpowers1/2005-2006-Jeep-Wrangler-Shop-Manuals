@@ -1,0 +1,61 @@
+                                                                                 DRIVEABILITY - NGC
+
+Symptom:
+    U0101-NO BUS MESSAGE FROM TRANS CONTROL MODULE
+
+
+
+When Monitored and Set Condition:
+
+        U0101-NO BUS MESSAGE FROM TRANS CONTROL MODULE
+        When Monitored: Equipped with automatic transmission. The ignition on. Battery
+        voltage greater than 10 volts.
+        Set Condition: An open circuit on the (F11) Fused Igniton Switch Output circuit. No bus
+        messages from the TCM for 20 seconds, two trips required.
+
+
+
+                                              POSSIBLE CAUSES
+DTC RESET
+PCM FUSED IGNITION SWITCH OUTPUT CIRCUIT
+PCI BUS UNABLE TO COMMUNICATE WITH DRBIIIt
+PCM
+
+ TEST                                            ACTION                                              APPLICABILITY
+   1      Ignition on, engine not running.                                                                All
+          With the DRBIIIt, erase DTCs.
+          Cycle the ignition key on and off several times. Leaving the ignition on for at least 20
+          seconds.
+          With the DRBIIIt, read DTCs.
+          Does the DTC reset?
+                   Yes   → Go To      2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+   2      Turn the ignition off.                                                                          All
+          Disconnect the PCM harness connectors.
+          CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+          THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+          NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+          MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+          With a 12-volt test light connected to ground and with special tool #8815 installed,
+          probe the (F11) Fused Ignition Switch Output circuit.
+          Perform the above check with the Ignition key in the off lock position, Ignition on,
+          engine not running position, and during cranking.
+          Wiggle the related wire harness while probing the special tool with the test light to
+          try to interrupt the circuit.
+          Does the test light illuminate brightly?
+
+                   Yes   → Go To      3
+
+                   No    → Repair the open or excessive resistance in the (F11) Fused
+                           Ignition Switch (Offf, Run, Start) circuit. Inspect the related fuse,
+                           if the fuse is open check the circuit for a short to ground.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+                                                          261
+

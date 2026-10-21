@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+P0340-CAMSHAFT POSITION SENSOR CIRCUIT — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  13    NOTE: Before continuing, check the PCM harness connector terminals for                    All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  14    Turn the ignition off.                                                                    All
+        With the DRBIIIt lab scope probe and the Miller special tool #6801, backprobe the
+        (K44) CMP Signal circuit in the CMP harness connector.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Ignition on, engine not running.
+        Wiggle the related wire harness and lightly tap on the Cam Position Sensor.
+        Observe the lab scope screen.
+        Allow the engine to idle.
+        Observe the lab scope screen.
+        Did the CMP Sensor generate any erratic pulses?
+                 Yes   → Replace the Camshaft Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    15
+
+  15    Turn the ignition off.                                                                    All
+        With the DRBIIIt lab scope probe and the Miller special tool #6801, back probe the
+        (K24) CKP Signal circuit in the CKP harness connector.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Ignition on, engine not running.
+        Wiggle the related wire harness and lightly tap the Crank Position Sensor.
+        Observe the lab scope screen.
+        Allow the engine to idle.
+        Observe the lab scope screen.
+        Did the CKP Sensor generate any erratic pulses?
+
+                 Yes   → Replace the Crankshaft Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Test Complete.
+
+
+
+
+                                                    126
+

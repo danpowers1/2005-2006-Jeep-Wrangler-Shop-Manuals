@@ -1,0 +1,42 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0630-VIN NOT PROGRAMMED IN PCM
+
+
+
+When Monitored and Set Condition:
+
+        P0630-VIN NOT PROGRAMMED IN PCM
+        When Monitored:      Ignition on.
+        Set Condition:    The VIN has not been programmed into the PCM.
+
+
+
+                                          POSSIBLE CAUSES
+PROGRAMMING VIN INTO PCM
+PCM
+
+ TEST                                       ACTION                                        APPLICABILITY
+   1      Ignition on, engine not running.                                                     All
+          With the DRBIIIt, erase DTCs.
+          Using the DRBIIIt, program VIN into the PCM.
+          Start the engine.
+          NOTE: If the engine will not start, crank the engine over for 15 seconds.
+          Crank at least 2 times with the ignition switch returning to the off position
+          each time.
+          Allow the engine to reach normal operating temperature.
+          With the DRBIIIt, read DTCs.
+          Does the DTC reset?
+                  Yes   → Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                  No    → The VIN has been succcessfully programmed into the PCM. Test
+                          is complete.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                    230
+

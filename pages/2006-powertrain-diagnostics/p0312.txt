@@ -1,0 +1,67 @@
+TRANSMISSION - 42RLE
+
+P0715-INPUT SPEED SENSOR ERROR — Continued
+
+ TEST                                      ACTION                                         APPLICABILITY
+  7     Turn the ignition off to the lock position.                                            All
+        Disconnect the Input Speed Sensor harness connector.
+        Disconnect the TCM harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector.
+        Ignition on, engine not running.
+        Measure the voltage of the Input Speed Sensor Signal circuit in the TCM harness
+        connector.
+        Is the voltage above 0.5 volts?
+
+                Yes   → Repair the Input Speed Sensor Signal circuit for a short to
+                        voltage.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    8
+
+  8     Turn the ignition off to the lock position.                                            All
+        Disconnect the TCM harness connector.
+        Disconnect the Input Speed Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Speed Sensor Ground circuit from the TCM harness
+        connector to the Input Speed Sensor harness connector.
+        Is the resistance above 5.0 ohms?
+                Yes   → Repair the Speed Sensor Ground circuit for an open.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    9
+
+  9     Turn the ignition off to the lock position.                                            All
+        Disconnect the TCM harness connector.
+        Disconnect the TRS harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector in the PDC.
+        Ignition on, engine not running.
+        Measure the voltage of the Speed Sensor Ground circuit in the TCM harness
+        connector.
+        Is the voltage above 0.5 volts?
+                Yes   → Repair the Speed Sensor Ground circuit for a short to voltage.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    10
+
+  10    Using the schematics as a guide, inspect the wiring and connectors. Repair as          All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace the Transmission Control Module per the Service Infor-
+                         mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+                                                   304
+

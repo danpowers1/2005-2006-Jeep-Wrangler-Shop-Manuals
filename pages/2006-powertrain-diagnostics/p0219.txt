@@ -1,0 +1,58 @@
+                                                                          DRIVEABILITY - NGC
+
+Symptom:
+    P0580-SPEED CONTROL SWITCH NO.1 LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0580-SPEED CONTROL SWITCH NO.1 LOW
+        When Monitored:       With the ignition key on. Battery voltage above 10 volts.
+        Set Condition:    When switch voltage is less than 0.60 of a volt for 2 minutes.
+
+
+
+                                           POSSIBLE CAUSES
+SPEED CONTROL SWITCH VOLTAGE LOW
+SPEED CONTROL ON/OFF SWITCH
+SPEED CONTROL RESUME/ACCEL SWITCH
+CLOCKSPRING
+(V37) S/C SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+(V37) S/C SIGNAL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                               APPLICABILITY
+   1      NOTE: Do not press any of the Speed Control Switch buttons.                      All
+          Ignition on, engine not running.
+          With the DRBIIIt, read the Speed Control voltage.
+          Is the Speed Control voltage below 1.0 volt?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+   2      With the DRBIIIt, monitor the Speed Control Switch voltage.                      All
+          Disconnect the Speed Control On/Off Switch harness connector.
+          Did the voltage change to above 4.7 volts?
+
+                  Yes   → Replace the Speed Control On/Off Switch.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                  No    → Go To    3
+
+   3      With the DRBIIIt, monitor the Speed Control Switch voltage.                      All
+          Disconnect the Speed Control Resume/Accel Switch harness connector.
+          Did the voltage change to above 4.7 volts?
+
+                  Yes   → Replace the Speed Control Resume/Accel Switch.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                  No    → Go To    4
+
+
+
+
+                                                     211
+

@@ -1,0 +1,55 @@
+                                                                          DRIVEABILITY - NGC
+
+P0594-SPEED CONTROL SERVO POWER CIRCUIT — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  3     Turn the ignition off.                                                                    All
+        Disconnect and remove the Brake Lamp Switch.
+        Measure the resistance across the (V32) S/C Supply circuit terminal and the (V30)
+        S/C Brake Switch Output circuit terminal at the Brake Lamp Switch.
+        Push the Plunger of the Switch in and let it out.
+        Does the resistance change from below 5.0 ohms to an open circuit?
+                 Yes   → Go To    4
+
+                 No    → Replace the Brake Lamp Switch.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  4     Turn the ignition off.                                                                    All
+        Connect the Brake Lamp Switch harness connecter and install the Switch.
+        Disconnect the Speed Control Servo harness connector.
+        Ignition on, engine not running.
+        NOTE: It is necessary to PRESS and HOLD the Speed Control Switch in the
+        ON position while checking for voltage.
+        Using a 12-volt test light connected to ground, probe the (V30) S/C Brake Switch
+        Output circuit in the Servo Harness connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Replace the S/C Servo.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                 No    → Go To    5
+
+  5     Turn the ignition off.                                                                    All
+        Disconnect the Brake Lamp Switch harness connector.
+        Measure the resistance of the (V30) S/C Brake Switch Output circuit from the Brake
+        Lamp Switch harness connector to the S/C Servo harness connector.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Repair the excessive resistance in the (V30) S/C Brake Switch
+                         Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                 No    → Go To    6
+
+  6     Measure the resistance between ground and the (V30) S/C Brake Switch Output               All
+        circuit at the Speed Control Servo harness connector.
+        Is the resistance below 100 ohms?
+
+                 Yes   → Repair the short to ground in the (V30) S/C Brake Switch Output
+                         circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                 No    → Go To    9
+
+
+
+
+                                                    223
+

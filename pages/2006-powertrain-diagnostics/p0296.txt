@@ -1,0 +1,65 @@
+TRANSMISSION - 42RLE
+
+P0706-CHECK SHIFTER SIGNAL — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  8     Turn the ignition off to the lock position.                                              All
+        Disconnect the TRS harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the TRS T1 circuit in the TCM harness
+        connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the TRS T1 Sense circuit for a short to ground.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    9
+
+  9     Turn the ignition off to the lock position.                                              All
+        Disconnect the TRS harness connector.
+        Disconnect the TCM harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector in the PDC.
+        Ignition on, engine not running.
+        Measure the voltage of the TRS T1 Sense circuit.
+        Is the voltage above 0.5 volt?
+                Yes   → Repair the TRS T1 Sense circuit for a short to voltage.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    19
+
+  10    Turn the ignition off to the lock position.                                              All
+        Disconnect the TRS harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the TRS T3 Sense circuit from the TCM harness connector
+        to the TRS harness connector.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the TRS T3 Sense circuit for an open.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    11
+
+  11    Turn the ignition off to the lock position.                                              All
+        Disconnect the TRS harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the TRS T3 Sense circuit in the TCM
+        harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the TRS T3 Sense circuit for a short to ground.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    12
+
+
+
+
+                                                    288
+

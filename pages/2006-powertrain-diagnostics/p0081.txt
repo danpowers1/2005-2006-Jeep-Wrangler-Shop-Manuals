@@ -1,0 +1,62 @@
+                                                                              DRIVEABILITY - NGC
+
+P0128-THERMOSTAT RATIONALITY — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  5     WARNING: MAKE SURE THE ENGINE COOLING SYSTEM IS COOL BE-                                      All
+        FORE REMOVING THE PRESSURE CAP OR ANY HOSE. SEVERE PER-
+        SONAL INJURY MAY RESULT FROM ESCAPING HOT COOLANT. THE
+        COOLING SYSTEM IS PRESSURIZED WHEN HOT.
+        With the DRBIIIt, read and record the ECT Sensor Temperature value.
+        Using the DRB Temperature Probe #CH7050, measure the engine coolant tempera-
+        ture.
+        Is the ECT Sensor value with -15°C (5°F) of the temperature probe reading?
+
+                 Yes   → Go To     6
+                 No    → Go To     7
+
+  6     Inspect the Temperature sensors for any physical damage.                                      All
+        Inspect the engine coolant. Make sure the coolant is at the proper level. Refer to the
+        Service Information COOLING.
+        Make sure the Temperature sensors are properly installed.
+        Make sure the CMP and CKP sensors are mounted properly. Check the connectors for
+        any signs of damage.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Refer to any Technical Service Bulletins (TSBs) that may apply.
+        With the engine running at normal operating temperature, monitor the Temperature
+        sensor parameters while wiggling the wire harness. Look for parameter values to
+        change.
+        Visually inspect the related wire harness. Look for any chafed, pierced, pinched,
+        partially broken wires and broken, bent, pushed out, or corroded terminals.
+        CAUTION: NEVER PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Inspect and clean all PCM, engine, and chassis grounds.
+        Were any problems found during the above inspections?
+
+                 Yes   → Repair as necessary
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Test Complete.
+
+  7     NOTE: Visually inspect both the component and the PCM connectors. Look                        All
+        for damage, partially broken wires and backed out or corroded terminals
+        Turn the ignition off.
+        Disconnect the applicable Temperature Sensor harness connector.
+        Disconnect the PCM harness connectors.
+        Ignition on, engine not running.
+        Measure the voltage of the Signal circuit in the appropriate Temperature Sensor
+        harness connector.
+        Is the voltage above 5.2 volts?
+                 Yes   → Repair the short to battery voltage in the Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     8
+
+
+
+
+                                                       73
+

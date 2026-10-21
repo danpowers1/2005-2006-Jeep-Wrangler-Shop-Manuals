@@ -1,0 +1,59 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0581-SPEED CONTROL SWITCH NO.1 HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0581-SPEED CONTROL SWITCH NO.1 HIGH
+        When Monitored:       With the ignition key on. Battery voltage above 10 volts.
+        Set Condition: The PCM detects voltage above 4.8 volts in the Speed Control Switch
+        Signal circuit. One Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+SPEED CONTROL SWITCH VOLTAGE HIGH
+SPEED CONTROL SWITCHES
+CLOCKSPRING
+(V37) S/C SWITCH SIGNAL CIRCUIT SHORTED TO VOLTAGE
+(V37) S/C SWITCH SIGNAL CIRCUIT OPEN BETWEEN PCM AND CLOCKSPRING
+(K900) SENSOR GROUND CIRCUIT OPEN BETWEEN PCM AND CLOCKSPRING
+(V37) S/C SWITCH SIGNAL CIRCUIT OPEN BETWEEN CLOCKSPRING AND S/C SWITCH
+(K900) SENSOR GROUND CIRCUIT OPEN BETWEEN CLOCKSPRING AND S/C SWITCH
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1     NOTE: Do not press any of the Speed Control Switch buttons.                               All
+         Ignition on, engine not running.
+         With the DRBIIIt, read the Speed Control voltage.
+         Is the Speed Control voltage above 4.8 volt?
+
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+   2     Turn the ignition off.                                                                    All
+         Remove the Speed Control Switches from the steering wheel.
+         Measure the resistance across each Speed Control Switch.
+         Monitor the ohmmeter while pressing each function button on each switch.
+         Resume/Accel - 15,400 ohms
+         Cancel - 909 +/- 9 ohms
+         Decel (Coast) - 2940 +/- 30 ohms
+         On/Off - 0 ohms
+         Set - 6650 +/- 66 ohms
+         Does the function on the Speed Control Switches have the correct resistance value?
+
+                  Yes   → Go To    3
+
+                  No    → Replace the Speed Control Switch that had the incorrect resis-
+                          tance value.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+
+                                                     213
+

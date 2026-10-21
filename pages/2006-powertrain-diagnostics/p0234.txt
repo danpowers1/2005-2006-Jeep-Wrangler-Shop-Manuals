@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0622-GENERATOR FIELD CONTROL CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0622-GENERATOR FIELD CONTROL CIRCUIT
+        When Monitored: With the ignition on. Engine speed greater than 1000 RPM. Battery
+        voltage greater than 10.4 volts. ASD sense switch is on.
+        Set Condition:     When the PCM tries to regulate the generator field with no result during
+        monitoring.
+
+
+
+                                            POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+GENERATOR OPERATION
+(K125) GEN FIELD CONTROL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K125) GEN FIELD CONTROL CIRCUIT OPEN
+(K125) GEN FIELD CONTROL CIRCUIT SHORTED TO GROUND
+(Z20) GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                         ACTION                                APPLICABILITY
+   1      Ignition on, engine not running.                                               All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+   2      Turn the ignition off.                                                         All
+          Disconnect the Generator Field harness connector.
+          Jump a 12-volt test light across the Generator Field harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, actuate the Generator Field Control circuit.
+          Does the test light illuminate brightly and flash on and off?
+
+                   Yes   → Replace the Generator.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+                   No    → Go To    3
+
+
+
+
+                                                       226
+

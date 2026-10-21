@@ -1,0 +1,63 @@
+                                                                          DRIVEABILITY - NGC
+
+P0340-CAMSHAFT POSITION SENSOR CIRCUIT — Continued
+
+ TEST                                       ACTION                                          APPLICABILITY
+  8     Turn the ignition off.                                                                   All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K44) CMP Signal circuit from the CMP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     9
+                No    → Repair the open in the (K44) CMP Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  9     Measure the resistance between ground and the (K44) CMP Signal circuit in the            All
+        CMP Sensor harness connector.
+        Is the resistance below 100 ohms?
+                Yes   → Repair the short to ground in the (K44) CMP Signal circuit
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    13
+
+  10    Turn the ignition off.                                                                   All
+        Disconnect the C1 and C2 PCM harness connectors.
+        Ignition on, engine not running.
+        Measure the voltage on the (F856) 5-volt Supply circuit in the CMP Sensor harness
+        connector.
+        Is the voltage above 5.3 volts?
+
+                Yes   → Repair the short to voltage in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    11
+
+  11    Turn the ignition off.                                                                   All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (F856) 5-volt Supply circuit between the CMP Sensor
+        harness connector and the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To     12
+
+                No    → Repair the open in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  12    Measure the resistance between ground and the (F856) 5-volt Supply circuit in the        All
+        CMP Sensor harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    13
+
+
+
+
+                                                    125
+

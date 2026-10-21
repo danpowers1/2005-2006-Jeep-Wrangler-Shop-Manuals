@@ -1,0 +1,51 @@
+                                                                                DRIVEABILITY - NGC
+
+Symptom:
+    P0456-EVAP SYSTEM SMALL LEAK
+
+
+
+When Monitored and Set Condition:
+
+        P0456-EVAP SYSTEM SMALL LEAK
+        When Monitored: Ignition off. Fuel Level less than 88%. Ambient Temperature between
+        4°C to 43°C (39°F to 109°F)
+        Set Condition: Due to temperature changes a vacuum is created in the fuel tank and
+        EVAP system. With the EVAP system sealed, the PCM monitors the NVLD switch. If the
+        NVLD switch does not close within a calibrated amount of time an error is detected.
+
+
+
+                                              POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VEHICLE HISTORY AND SERVICE BULLETIN INVESTIGATION
+VISUAL AND PHYSICAL INSPECTION
+VERIFY EVAPORATIVE EMISSION SYSTEM LEAK
+EVAP PURGE SOLENOID OPERATION
+EVAPORATIVE EMISSION LEAK DETECTION
+LEAK AT GAS CAP
+GAS CAP
+NVLD
+
+ TEST                                           ACTION                                             APPLICABILITY
+   1      Start by reading PCM DTC(s) and record the related Freeze Frame data in any                   All
+          DTC(s) are present.
+          Check the vehicle repair history.
+          If the vehicle has a repair history that pertains to the customer’s current complaint,
+          review the repair.
+          Inspect the vehicle for any aftermarket accessories that may have been installed
+          incorrectly.
+          Check for any service bulletin(s) related to the customer’s complaint or DTC(s).
+          If a service bulletin applies, follow the instructions per service bulletin.
+          Did the service bulletin repair the customer’s complaint?
+
+                   Yes   → Testing Complete.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+                   No    → Go To     2
+
+
+
+
+                                                         153
+

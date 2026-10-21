@@ -1,0 +1,61 @@
+                                                                             DRIVEABILITY - NGC
+
+P0172-FUEL SYSTEM 1/1 RICH — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  5     Ignition on, engine not running.                                                            All
+        With the DRBIIIt, read the TP Sensor voltage.
+        NOTE: The throttle must be against the stop.
+        Is the TP Sensor voltage 0.92 of a volt or less with the Throttle closed?
+
+                 Yes   → Go To     6
+
+                 No    → Check for a binding throttle condition. If OK, replace the Throttle
+                         Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     With the DRBIIIt, read the TP Sensor voltage.                                               All
+        While monitoring the DRBIIIt, slowly open and close the throttle.
+        Does the voltage increase and decrease smoothly?
+
+                 Yes   → Go To     7
+
+                 No    → Replace the Throttle Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  7     Turn the ignition off.                                                                      All
+        Connect a Vacuum Gauge to a Manifold Vacuum source.
+        Start the engine.
+        Allow the engine to idle.
+        NOTE: If engine will not idle, maintain a constant RPM above idle.
+        With the DRBIIIt in Sensors, read the MAP Sensor vacuum value.
+        Is the DRB reading within 19 of the Vacuum Gauge reading?
+                 Yes   → Go To     8
+                 No    → Replace the MAP Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+        NOTE: Remove the vacuum gauge before continuing.
+
+  8     NOTE: For this test to be valid, the thermostat must be operating correctly.                All
+        NOTE: This test works best if performed on a cold engine (cold soak)
+        Ignition on, engine not running.
+        With the DRBIIIt, read the ECT Sensor value. If the engine was allowed to sit
+        overnight (cold soak), the temperature value should be a sensible value that is
+        somewhere close to the ambient temperature.
+        NOTE: If engine coolant temperature is above 82°C (180°F), allow the engine
+        to cool until 65°C (150°F) is reached.
+        Start the Engine.
+        During engine warm-up, monitor the ECT Sensor value. The temp value change
+        should be a smooth transition from start up to normal operating temp 82°C (180°F).
+        The value should reach at least 82°C (180°F).
+        Did the ECT value increase smoothly and did it reach at least 180°F (82°C)?
+
+                 Yes   → Go To     9
+
+                 No    → Replace the Engine Coolant Temperature Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       97
+

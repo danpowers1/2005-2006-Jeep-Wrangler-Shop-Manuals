@@ -1,0 +1,51 @@
+                                                          DRIVEABILITY - NGC
+
+Symptom List:
+    P0300-MULTIPLE CYLINDER MISFIRE
+    P0301-CYLINDER NO.1 MISFIRE
+    P0302-CYLINDER NO.2 MISFIRE
+    P0303-CYLINDER NO.3 MISFIRE
+    P0304-CYLINDER NO.4 MISFIRE
+    P0305-CYLINDER NO.5 MISFIRE
+    P0306-CYLINDER NO.6 MISFIRE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0300-MULTIPLE CYLINDER
+             MISFIRE.
+
+
+When Monitored and Set Condition:
+
+     P0300-MULTIPLE CYLINDER MISFIRE
+     When Monitored: Any time the engine is running, and the adaptive numerator has been
+     successfully updated.
+     Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+     trips. Above 3000 RPM 1 trip less than 3000 RPM 2 trip.
+
+     P0301-CYLINDER NO.1 MISFIRE
+     When Monitored: Any time the engine is running, and the adaptive numerator has been
+     successfully updated.
+     Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+     trips, or with a 10% to 30% misfire rate during one trip.
+
+     P0302-CYLINDER NO.2 MISFIRE
+     When Monitored: Any time the engine is running, and the adaptive numerator has been
+     successfully updated.
+     Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+     trips, or with a 10% to 30% misfire rate during one trip.
+
+     P0303-CYLINDER NO.3 MISFIRE
+     When Monitored: Any time the engine is running, and the adaptive numerator has been
+     successfully updated.
+     Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+     trips, or with a 10% to 30% misfire rate during one trip.
+
+     P0304-CYLINDER NO.4 MISFIRE
+     When Monitored: Any time the engine is running, and the adaptive numerator has been
+     successfully updated.
+     Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+     trips, or with a 10% to 30% misfire rate during one trip.
+
+                                         103
+

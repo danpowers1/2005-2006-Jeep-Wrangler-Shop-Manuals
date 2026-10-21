@@ -1,0 +1,62 @@
+                                                                     TRANSMISSION - 42RLE
+
+Symptom:
+    *BACKUP LAMPS INOPERATIVE
+
+
+
+
+                                            POSSIBLE CAUSES
+OPEN LEFT BACKUP LAMP BULB
+OPEN RIGHT BACKUP LAMP BULB
+BACKUP LAMP GROUND CIRCUIT OPEN
+BACKUP LAMP SUPPLY CIRCUIT OPEN
+FUSED IGNITION SWITCH OUTPUT CIRCUIT OPEN
+BACKUP LAMP SUPPLY CIRCUIT SHORT TO GROUND
+TRANSMISSION RANGE SENSOR
+INTERMITTENT WIRING AND CONNECTORS
+
+ TEST                                         ACTION                                          APPLICABILITY
+  1     Ignition on, engine not running.                                                           All
+        Place foot firmly on brake pedal.
+        Place the shift lever in the reverse position.
+        Do either of the Backup Lamps work?
+
+                 Yes   → Go To      2
+                 No    → Go To      3
+
+  2     The condition is not present at this time.                                                 All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+                 No    → Test Complete.
+
+  3     Remove the left Backup Lamp bulb.                                                          All
+        Measure the resistance of the Backup Lamp bulb.
+        Is the resistance above 5.0 ohms?
+
+                 Yes   → Replace the Backup Lamp bulb.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+                 No    → Go To      4
+
+  4     Remove the right Backup Lamp bulb.                                                         All
+        Measure the resistance of the Backup Lamp bulb.
+        Is the resistance above 5.0 ohms?
+
+                 Yes   → Replace the Backup Lamp bulb.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+                 No    → Go To      5
+
+
+
+                                                         413
+

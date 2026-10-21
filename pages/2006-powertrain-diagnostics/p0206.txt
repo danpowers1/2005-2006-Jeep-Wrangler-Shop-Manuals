@@ -1,0 +1,55 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0533-A/C PRESSURE SENSOR HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0533-A/C PRESSURE SENSOR HIGH
+        When Monitored:       Engine running, A/C is Learned, and the AC Clutch Relay energized.
+        Set Condition: The A/C pressure sensor signal at the PCM goes above 4.92 volts for 2.6
+        seconds. One trip Fault.
+
+
+
+                                            POSSIBLE CAUSES
+A/C PRESSURE SENSOR VOLTAGE ABOVE 4.6 VOLTS
+A/C PRESSURE SENSOR
+(C18) A/C PRESSURE SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(C18) A/C PRESSURE SIGNAL CIRCUIT OPEN
+(C18) A/C PRESSURE SIGNAL CIRCUIT SHORTED TO THE (K856) 5-VOLT SUPPLY
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      NOTE: Make sure the A/C refrigerant System is properly charged per the                    All
+          Service Information.
+          Start the engine.
+          With the DRBIIIt, read the A/C Pressure Sensor voltage.
+          Is the voltage above 4.6 volts?
+                   Yes   → Go To    2
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+   2      Turn the ignition off.                                                                    All
+          Disconnect the A/C Pressure Sensor harness connector.
+          Connect a jumper wire between the (C18) A/C Pressure Signal circuit and the (K900)
+          Sensor ground circuit in the Sensor harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, monitor the A/C Pressure Sensor voltage.
+          Is the voltage below 1.0 volt?
+
+                   Yes   → Replace the A/C Pressure Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                   No    → Go To    3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      198
+

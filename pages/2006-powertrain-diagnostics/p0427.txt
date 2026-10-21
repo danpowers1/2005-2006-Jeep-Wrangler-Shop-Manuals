@@ -1,0 +1,26 @@
+                                                                    TRANSMISSION - 42RLE
+
+Symptom:
+    *NO SPEEDOMETER OPERATION
+
+
+
+
+                                         POSSIBLE CAUSES
+NO SPEEDOMETER OPERATION
+
+ TEST                                      ACTION                                      APPLICABILITY
+  1     With the DRBIIIt, check the pinion factor setting in the TCM.                       All
+        Is the pinion factor missing or set incorrectly?
+                Yes   → One possible cause is the pinion factor is not set or is set
+                        incorrectly in the TCM.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Test Complete.
+
+
+
+
+                                                    419
+

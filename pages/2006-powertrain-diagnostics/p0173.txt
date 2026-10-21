@@ -1,0 +1,58 @@
+                                                                               DRIVEABILITY - NGC
+
+Symptom:
+    P0462-FUEL LEVEL SENSOR NO.1 LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0462-FUEL LEVEL SENSOR NO.1 LOW
+        When Monitored:        Ignition on and battery voltage above 10.4 volts.
+        Set Condition: The fuel level sensor signal voltage goes below 0.0196 of a volt for more
+        than 90 seconds.
+
+
+
+                                             POSSIBLE CAUSES
+FUEL LEVEL SENSOR VOLTAGE BELOW 0.0196 OF A VOLT
+FUEL LEVEL SENSOR
+(N4) FUEL LEVEL SIGNAL CIRCUIT SHORTED TO GROUND
+(N4) FUEL LEVEL SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                          ACTION                                             APPLICABILITY
+   1      Ignition on, engine not running.                                                             All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          With the DRBIIIt, read the Fuel Level Sensor voltage.
+          Is the Fuel Level Sensor voltage below 0.0196 of a volt?
+                   Yes   → Go To     2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                       All
+          Disconnect the Fuel Pump Module harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read the Fuel Level Sensor voltage.
+          Did the Fuel Level Sensor voltage change from below 0.4 of a volt to above 4.0 volts?
+                   Yes   → Replace the Fuel Level Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To     3
+
+   3      Turn the ignition off.                                                                       All
+          Disconnect the C2 and C3 PCM harness connectors.
+          Measure the resistance between ground and the (N4) Fuel Level Signal circuit at the
+          Fuel Level Sensor harness connector.
+          Is the resistance below 100 ohms?
+                   Yes   → Repair the short to ground in the (N4) Fuel Level Signal circuit.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                   No    → Go To     4
+
+
+
+
+                                                        165
+

@@ -1,0 +1,58 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0516-BATTERY TEMPERATURE SENSOR LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0516-BATTERY TEMPERATURE SENSOR LOW
+        When Monitored:        Ignition on.
+        Set Condition: Battery temperature sensor voltage below 0.0392 of a volt for 4.8 seconds.
+        Three good trips to clear the MIL.
+
+
+
+                                            POSSIBLE CAUSES
+BATTERY TEMP VOLTS BELOW 0.0392 OF A VOLT
+BATTERY TEMPERATURE SENSOR
+(K25) BATT TEMP SIGNAL CIRCUIT SHORTED TO GROUND
+(K25) BATT TEMP SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                          All
+          With the DRBIIIt record all DTCs and the related Freeze Frame data.
+          With DRBIIIt, monitor the Battery Temperature Sensor voltage.
+          Is the voltage below 0.0392 of a volt?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+   2      With the DRBIIIt in sensors, read the Battery Temp Sensor Voltage value.                  All
+          Disconnect the Battery Temperature Sensor harness connector.
+          Did the Batt Temp Sensor voltage change from below 1.0 volt to above 4.5 volts?
+
+                   Yes   → Replace the Battery Temperature Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                   No    → Go To    3
+
+   3      Turn the ignition off.                                                                    All
+          Disconnect the C3 PCM harness connector.
+          Measure the resistance between ground and the (K25) Batt Temp Signal circuit at
+          the Battery Temp Sensor harness connector.
+          Is the resistance below 100 ohms?
+                   Yes   → Repair the short to ground in the (K25) Batt Temp Signal circuit.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                   No    → Go To    4
+
+
+
+
+                                                       190
+

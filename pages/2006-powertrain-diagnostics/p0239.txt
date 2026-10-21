@@ -1,0 +1,40 @@
+                                                                        DRIVEABILITY - NGC
+
+Symptom:
+    P0632-ODOMETER NOT PROGRAMMED IN PCM
+
+
+
+When Monitored and Set Condition:
+
+        P0632-ODOMETER NOT PROGRAMMED IN PCM
+        When Monitored:       Ignition on.
+        Set Condition:    Odometer is not programed into the PCM.
+
+
+
+                                           POSSIBLE CAUSES
+PROGRAMMING MILEAGE INTO PCM
+PCM
+
+ TEST                                        ACTION                                       APPLICABILITY
+   1      Ignition on, engine not running.                                                     All
+          With the DRBIIIt, erase DTCs.
+          Using the DRBIIIt, program the mileage into the PCM.
+          Start the engine.
+          Allow the engine to reach normal operating temperature.
+          With the DRBIIIt, read DTCs.
+          Does the DTC reset?
+
+                  Yes   → Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                  No    → The mileage has been succcessfully programmed into the PCM.
+                          Test is complete.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                     231
+

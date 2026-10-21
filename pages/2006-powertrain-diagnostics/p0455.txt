@@ -1,0 +1,53 @@
+                                                            CONNECTOR PINOUTS
+9.0   CONNECTOR PINOUTS
+
+                                              A/C COMPRESSOR CLUTCH - BLACK 2 WAY
+                      CAV           CIRCUIT                                  FUNCTION
+                       1    C3 18DB/YL (2.4L)          A/C CLUTCH RELAY OUTPUT
+                       1    C3 20DB/YL (4.0L)          A/C CLUTCH RELAY OUTPUT
+                       2    Z939 18BK (2.4L)           GROUND
+                       2    Z987 20BK (4.0L)           GROUND
+
+
+
+
+                                      A/C HIGH PRESSURE SWITCH (4.0L) - BLACK 2 WAY
+                      CAV           CIRCUIT                                  FUNCTION
+                       1    C221 20LB/OR               A/C SELECT SIGNAL
+                       2    C22 20LB/WT                A/C SWITCH SIGNAL
+
+
+
+
+                                                                                        C
+                                                                                        O
+                                                                                        N
+                                                                                        N
+                                                                                        E
+                                              A/C LOW PRESSURE SWITCH - GREEN 2 WAY     C
+                      CAV           CIRCUIT                                  FUNCTION
+                                                                                        T
+                       1    C20 20DB/YL (2.4L)         A/C REQUEST SIGNAL
+                                                                                        O
+                       1    C20 18DB/YL (4.0L)         A/C REQUEST SIGNAL
+                                                                                        R
+                       2    C221 20LB/OR (2.4L)        A/C SELECT SIGNAL
+                       2    C22 20LB/WT (4.0L)         A/C SELECT SIGNAL
+                                                                                        P
+                                                                                        I
+                                                                                        N
+                                                                                        O
+                                                                                        U
+                                                                                        T
+                                              A/C PRESSURE TRANSDUCER (2.4L) - 4 WAY    S
+                      CAV           CIRCUIT                                  FUNCTION
+                       1    K900 20DB/DG               SENSOR GROUND
+                       2    F856 20YL/PK               5 VOLT SUPPLY
+                       3    C18 20LB/BR                A/C PRESSURE SIGNAL
+                       4                  -                                      -
+
+
+
+
+                                   447
+

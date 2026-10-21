@@ -1,0 +1,56 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    P0846-2/4 PRESSURE SWITCH SENSE CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0846-2/4 PRESSURE SWITCH SENSE CIRCUIT
+        When Monitored:         Whenever the engine is running.
+        Set Condition: The appropriate DTC is set if one of the Pressure Switches are open or
+        closed at the wrong time in a given gear .
+
+
+
+                                              POSSIBLE CAUSES
+TRANSMISSION RELAY DTC’S PRESENT
+TRANSMISSION CONTROL RELAY OUTPUT CIRCUIT OPEN
+2/4 PRESSURE SWITCH SENSE CIRCUIT OPEN
+2/4 PRESSURE SWITCH SENSE CIRCUIT SHORT TO GROUND
+2/4 PRESSURE SWITCH SENSE CIRCUIT SHORT TO VOLTAGE
+2/4 PRESSURE SWITCH
+TRANSMISSION CONTROL MODULE
+INTERMITTENT WIRING AND CONNECTORS
+
+ TEST                                           ACTION                                              APPLICABILITY
+   1      NOTE: Low fluid level can be the cause of many Transmission problems. If                       All
+          the fluid level is low, locate and repair the leak, then check and adjust the
+          fluid level per the Service Information.
+          NOTE: Always perform diagnostics with a fully charged battery to avoid
+          false symptoms.
+          With the DRBIIIt, read the engine DTC’s. Check and repair all engine DTC’s prior
+          to performing Transmission Symptom Diagnostics.
+          With the DRBIIIt, read Transmission DTC’s. Record all DTC’s and 1 Trip Failures.
+          NOTE: Diagnose 1 Trip Failures as a fully matured DTC.
+          Using the wiring diagram/schematic as a guide, inspect the wiring and connectors.
+          Repair as necessary.
+          Perform the Shift Lever Position Test. If the test does not pass, refer to Symptom test
+          for P0706 Check Shifter Signal.
+          For Gear Ratio DTC’s, check and record all CVI’s.
+          Most DTC’s set on start up but some must be set by driving the vehicle such that all
+          diagnostic monitors have run.
+          NOTE: Verify flash level of Transmission Control Module. Some problems
+          are corrected by software upgrades to the Transmission Control Module.
+          NOTE: Check for applicable TSB’s related to the symptom.
+          Perform this procedure prior to Symptom diagnosis.
+
+                   Continue
+                              Go To   2
+
+
+
+
+                                                         352
+

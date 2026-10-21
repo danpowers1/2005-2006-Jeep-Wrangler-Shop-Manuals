@@ -1,0 +1,62 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    *TRANSMISSION NOISY WITH NO DTC’S PRESENT
+
+
+
+
+                                            POSSIBLE CAUSES
+INCORRECT FLUID LEVEL
+INTERNAL TRANSMISSION PROBLEM - NOISY
+INTERNAL TRANSMISSION PROBLEM - NOISY WHILE STANDING STILL
+
+ TEST                                         ACTION                                             APPLICABILITY
+  1     Check the Transmission Fluid Level per the Service Information.                               All
+        Is the fluid level OK?
+                 Yes   → Go To     2
+                 No    → Adjust fluid level and repair cause of incorrect fluid level.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+  2     Place vehicle on hoist.                                                                       All
+        WARNING: BE SURE TO KEEP HANDS AND FEET CLEAR OF ROTATING
+        WHEELS.
+        Run vehicle on hoist under conditions necessary to duplicate the noise.
+        NOTE: It may be necessary to test drive the vehicle to duplicate the noise.
+        Using Chassis Ears or other suitable listening device, verify the source of the noise.
+        Is the noise coming from the transmission?
+                 Yes   → Go To     3
+                 No    → Test Complete.
+
+  3     With the shift lever in neutral, raise the engine speed and listen to the noise.              All
+        NOTE: THE RADIO MUST BE TURNED OFF. Alternator noise can come
+        through the speakers and be misinterpreted as Transmission Pump Whine.
+        This can happen even with the volume turned down.
+        Does the noise get louder or change pitch while the engine speed is changing?
+                 Yes   → Go To     4
+
+                 No    → Go To     5
+
+  4     If there are no possible causes remaining, view repair.                                       All
+
+                 Repair
+                           Repair internal transmission problem as necessary. Inspect all of
+                           the transmission components for signs of wear. If no problems
+                           found, replace the Transmission oil pump..
+                           Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                           TION TEST.
+
+  5     If there are no possible causes remaining, view repair.                                       All
+
+                 Repair
+                           Repair internal transmission problem as necessary. Inspect all of
+                           the transmission components for signs of wear. Pay particular
+                           attention to bearings, pinion gears, etc. Repair or replace as
+                           necessary.
+                           Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                           TION TEST.
+
+
+                                                       420
+

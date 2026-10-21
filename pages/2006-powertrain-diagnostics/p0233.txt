@@ -1,0 +1,39 @@
+                                                                              DRIVEABILITY - NGC
+
+Symptom List:
+    P0600-SERIAL COMMUNICATION LINK
+    P0601-INTERNAL MEMORY CHECKSUM INVALID
+
+
+Test Note:       All symptoms listed above are diagnosed using the same tests.
+                 The title for the tests will be P0600-SERIAL COMMUNICA-
+                 TION LINK.
+
+
+When Monitored and Set Condition:
+
+        P0600-SERIAL COMMUNICATION LINK
+        When Monitored:        With the ignition on.
+        Set Condition:      Internal Bus communication failure between processors.
+
+        P0601-INTERNAL MEMORY CHECKSUM INVALID
+        When Monitored:        With the ignition on.
+        Set Condition:      Internal checksum for software failed, does not match calculated value.
+
+
+
+                                             POSSIBLE CAUSES
+PCM INTERNAL OR SPI
+
+ TEST                                          ACTION                                            APPLICABILITY
+   1      The Powertrain Control Module is reporting internal errors, view repair to continue.        All
+                   Repair
+                            Replace and program the Powertrain Control Module per Service
+                            Information.
+                            Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                       225
+

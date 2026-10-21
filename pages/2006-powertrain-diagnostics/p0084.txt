@@ -1,0 +1,51 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0129-BAROMETRIC PRESSURE OUT-OF-RANGE
+
+
+
+When Monitored and Set Condition:
+
+        P0129-BAROMETRIC PRESSURE OUT-OF-RANGE
+        When Monitored: With the ignition key on. No Cam or Crank signal within 75 ms. Engine
+        speed less than 250 RPM.
+        Set Condition: The PCM senses the voltage from the MAP sensor to be less than 2.2 volts
+        but above 0.04 of a volt for 300 milliseconds. One Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO VOLTAGE
+(F856) 5-VOLT SUPPLY CIRCUIT OPEN
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+MAP SENSOR
+(K1) MAP SIGNAL CIRCUIT OPEN
+(K1) MAP SIGNAL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To     2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the MAP Sensor harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (F856) 5-volt Supply circuit at the MAP Sensor harness
+          connector.
+          Is the voltage between 4.5 to 5.2 volts?
+                  Yes   → Go To     3
+                  No    → Go To    6
+
+
+
+
+                                                      76
+

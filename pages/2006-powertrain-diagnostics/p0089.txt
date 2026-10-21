@@ -1,0 +1,51 @@
+                                                               DRIVEABILITY - NGC
+
+Symptom List:
+    P0132-O2 SENSOR 1/1 CIRCUIT HIGH VOLTAGE
+    P0138-O2 SENSOR 1/2 CIRCUIT HIGH VOLTAGE
+    P0152-O2 SENSOR 2/1 CIRCUIT HIGH VOLTAGE
+    P0158-O2 SENSOR 2/2 CIRCUIT HIGH VOLTAGE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0132-O2 SENSOR 1/1 CIRCUIT
+             HIGH VOLTAGE.
+
+
+When Monitored and Set Condition:
+
+     P0132-O2 SENSOR 1/1 CIRCUIT HIGH VOLTAGE
+     When Monitored: O2 Sensor Heater Temperature is greater than 496°C (925°F) and
+     battery voltage greater than 10.4 volts.
+     Set Condition:   The Oxygen Sensor voltage is above 3.99 volts for 66.56 seconds. One trip
+     fault.
+
+     P0138-O2 SENSOR 1/2 CIRCUIT HIGH VOLTAGE
+     When Monitored: O2 Sensor Heater Temperature is greater than 496°C (925°F) and
+     battery voltage greater than 10.4 volts.
+     Set Condition:   The Oxygen Sensor voltage is above 3.99 volts for 76.8 seconds. One trip
+     fault.
+
+     P0152-O2 SENSOR 2/1 CIRCUIT HIGH VOLTAGE
+     When Monitored: O2 Sensor Heater Temperature is greater than 496°C (925°F) and
+     battery voltage greater than 10.4 volts.
+     Set Condition:   The Oxygen Sensor voltage is above 3.99 volts for 66.56 seconds. One trip
+     fault.
+
+     P0158-O2 SENSOR 2/2 CIRCUIT HIGH VOLTAGE
+     When Monitored: O2 Sensor Heater Temperature is greater than 496°C (925°F) and
+     battery voltage greater than 10.4 volts.
+     Set Condition:   The Oxygen Sensor voltage is above 3.99 volts for 76.8 seconds. One trip
+     fault.
+
+
+
+                                    POSSIBLE CAUSES
+O2 SENSOR VOLTAGE ABOVE 3.7 VOLTS
+O2 SENSOR SIGNAL CIRCUIT SHORTED TO VOLTAGE
+O2 SENSOR RETURN CIRCUIT SHORTED TO VOLTAGE
+O2 SENSOR
+
+
+                                             81
+

@@ -1,0 +1,66 @@
+DRIVEABILITY - NGC
+
+P2096-DOWN STREAM FUEL TRIM LEAN BANK 1 — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  3     Check for any of the following conditions/mechanical problems.                            All
+        AIR INDUCTION SYSTEM - must be free from leaks.
+        ENGINE VACUUM - must be at least 13 inches in neutral
+        ENGINE VALVE TIMING - must be within specifications
+        ENGINE COMPRESSION - must be within specifications
+        ENGINE EXHAUST SYSTEM - must be free of any restrictions or leaks.
+        ENGINE PCV SYSTEM - must flow freely
+        TORQUE CONVERTER STALL SPEED - must be within specifications
+        POWER BRAKE BOOSTER - no internal vacuum leaks
+        FUEL - must be free of contamination
+        FUEL INJECTOR - plugged or restricted injector; control wire not connected to
+        correct injector
+        Are there any engine mechanical problems?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    4
+
+  4     Ignition on, engine not running.                                                          All
+        Disconnect the O2 Sensor harness connector.
+        With the DRBIIIt, monitor the O2 Sensor voltage.
+        The O2 Sensor voltage should read 5.0 volts on the DRBIIIt with the connector
+        disconnected.
+        Using a jumper wire, jump the O2 Signal circuit to the O2 Return circuit in the O2
+        Sensor harness connector.
+        NOTE: The voltage should drop from 5.0 volts to 2.5 volts with the jumper
+        wire in place.
+        Did the O2 Sensor volts change from 5.0 volts to 2.5 volts?
+
+                 Yes   → Replace the O2 Sensor
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    5
+
+  5     Remove the jump wire.                                                                     All
+        Ignition on, engine not running.
+        With the DRBIIIt, monitor the O2 Sensor voltage.
+        Is the voltage above 4.8 volts?
+                 Yes   → Go To    6
+
+                 No    → Check the O2 Signal circuit for a short to ground, open, or short
+                         to voltage. Inspect the O2 Sensor connector and the PCM harness
+                         connector. If OK, replace and program the Powertrain Control
+                         Module in accordance with the Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     Measure the voltage on the O2 Return circuit in the O2 Sensor harness connector.          All
+        Is the voltage at 2.5 volts?
+
+                 Yes   → Check the fuel system for contaminants.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Check the O2 Return circuit for a short to ground, open, or short
+                         to voltage. Inspect the O2 Sensor connector and the PCM harness
+                         connector. If OK, replace and program the Powertrain Control
+                         Module in accordance with the Service Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     254
+

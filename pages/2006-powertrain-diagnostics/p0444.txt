@@ -1,0 +1,62 @@
+VERIFICATION TESTS
+
+Verification Tests — Continued
+
+                      POWERTRAIN VERIFICATION TEST VER - 4                                            APPLICABILITY
+1. NOTE: After completing the Powertrain Verification Test the Transmission Verifi-                        All
+cation Test must be performed.
+2. NOTE: If the PCM has been replaced and the correct VIN and mileage have not
+been programmed, a DTC will set in the ABS Module, Airbag Module and the SKIM.
+3. NOTE: If the vehicle is equipped with a Sentry Key Immobilizer System, Secret Key
+data must be updated. Refer to the Service Information for the PCM, SKIM and the
+Transponder (ignition key) for programming information.
+4. Inspect the vehicle to ensure that all engine components are properly installed and
+connected.
+5. Connect the DRBIIIt to the data link connector and erase all codes.
+6. Turn the speed control ON (if equipped, cruise light will be on).
+7. Depress and release the SET Switch when the vehicle speed is greater than 35 MPH. The
+speed control should engage and hold the selected speed.
+8. Press and hold the RESUME/ACCEL Switch. The vehicle speed should increase by at least
+2 MPH.
+9. Press and hold the COAST switch. The vehicle speed should decrease.
+10. Using caution, press and release the brake pedal. The speed control should disengage.
+11. Bring the vehicle speed back up to 35 MPH.
+12. Press the RESUME/ACCEL switch. The speed control should resume the previously set
+speed.
+13. Hold down the SET switch. The vehicle should decelerate.
+14. Ensure vehicle speed is greater than 35 mph and release the SET Switch. The vehicle
+should adjust and set a new vehicle speed.
+15. Press and release the CANCEL switch. The speed control should disengage.
+16. Bring the vehicle speed back up above 35 mph and engage speed control.
+17. Turn the Speed Control Off. (Cruise light will be off). The speed control should disengage.
+18. NOTE: OVERSHOOT/UNDERSHOOT FOLLOWING SPEED CONTROL SET.
+19. If the vehicle operator repeatedly presses and releases the SET button with their foot off of
+the accelerator (referred to as 9lift foot set9), the vehicle may accelerate and exceed the desired
+set speed by up to 5 mph (8 km/h).
+20. It may also decelerate to less than the desired set speed, before finally achieving the desired
+set speed.
+21. The Speed Control System has an adaptive strategy that compensates for vehicle-to-vehicle
+variations in speed control cable lengths.
+22. When the speed control is set with the vehicles operators foot off of the accelerator pedal,
+the speed control thinks there is excessive speed control cable slack and adapts accordingly.
+23. If the 9lift foot sets9 are continually used, a speed control overshoot/undershoot condition
+will develop.
+24. To 9unlearn9 the overshoot/undershoot condition, the vehicle operator has to press and
+release the set button while maintaining the desired set speed using the accelerator pedal (not
+decelerating or accelerating).
+25. Then turn the cruise control switch to the OFF position (or press the CANCEL button if
+equipped) after waiting 10 seconds.
+26. This procedure must be performed approximately 10-15 times to completely unlearn the
+overshoot/undershoot condition.
+Did the Speed Control pass the above test?
+
+             Yes   → Repair is complete.
+
+             No    → Check for any related Technical Service Bulletins and/or refer to the
+                     appropriate Symptom list (Diagnostic Procedure).
+
+
+
+
+                                                          436
+

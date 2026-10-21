@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0116-ENGINE COOLANT TEMPERATURE CIRCUIT PERFOR-
+    MANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0116-ENGINE COOLANT TEMPERATURE CIRCUIT PERFORMANCE
+        When Monitored: Engine off time is greater than 480 minutes. Ambient temperature is
+        greater than 4 deg C (38 deg F).
+        Set Condition: After a calibrated amount of cool down time the PCM compares the ECT
+        Sensor, IAT Sensor, and the Ambient Air Temp Sensor values. If the IAT Sensor value is not
+        within 10 deg C (18 deg F) of the other two temperature sensors. Two Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(K2) ECT SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+ECT SENSOR
+(K2) ECT SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+(K2) ECT SIGNAL CIRCUIT SHORTED TO GROUND
+(K2) ECT SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND
+PCM
+
+ TEST                                        ACTION                                      APPLICABILITY
+   1      Ignition on, engine not running.                                                    All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                              All
+          Disconnect the C2 PCM harness connector.
+          Disconnect the ECT Sensor harness connector.
+          NOTE: Visually inspect both the component and the PCM connectors. Look
+          for damaged, partially broken wires, and backed out or corroded terminals.
+          Ignition on, engine not running.
+          Measure the voltage on the (K2) ECT Signal circuit at the ECT Sensor harness
+          connector.
+          Is the voltage above 5.2 volts?
+                  Yes   → Repair the short to voltage in the (K2) ECT Signal circuit.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    3
+
+
+
+                                                      56
+

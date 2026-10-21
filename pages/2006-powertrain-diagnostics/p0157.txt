@@ -1,0 +1,38 @@
+                                                                           DRIVEABILITY - NGC
+
+P0455-EVAP SYSTEM LARGE LEAK — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  2     Check for any related TSBs before continuing.                                              All
+        NOTE: Since a hot vehicle can conceal a leak, it is best to perform this test
+        at room temperature.
+        NOTE: A loose gas cap could have caused this DTC to set. Make sure gas cap
+        is tight and in good condition. Make sure the gas cap meets OEM specifica-
+        tions.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+
+                 Yes   → Go To    3
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+  3     Perform a visual and physical inspection of the entire Evaporative Emission system.        All
+        Check for the follow conditions:
+        - Holes or cracks
+        - Loose seal points
+        - Evidence of damaged components
+        - Incorrect routing of hoses and tubes
+        - Fuel Cap gasket seal
+        Were any of the above conditions found?
+
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To    4
+
+
+
+
+                                                     149
+

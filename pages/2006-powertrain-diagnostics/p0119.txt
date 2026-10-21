@@ -1,0 +1,26 @@
+                                                                          DRIVEABILITY - NGC
+
+P0315-NO CRANK SENSOR LEARNED — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  3     Remove the Crankshaft Position Sensor.                                                    All
+        Inspect the Tone Wheel/Flex Plate slots for damage, foreign material, or excessive
+        movement.
+        Were any problems found?
+
+                 Yes   → Repair or replace the Tone Wheel/Flex Plate as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    4
+
+  4     If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace the Crankshaft Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      111
+

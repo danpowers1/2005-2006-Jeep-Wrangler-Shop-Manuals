@@ -1,0 +1,29 @@
+DRIVEABILITY - NGC
+
+P0129-BAROMETRIC PRESSURE OUT-OF-RANGE — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  8     Measure the resistance between ground and the (F856) 5-volt Supply circuit at the        All
+        MAP Sensor harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    9
+
+  9     NOTE: Before continuing, check the PCM harness connector terminals for                   All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    78
+

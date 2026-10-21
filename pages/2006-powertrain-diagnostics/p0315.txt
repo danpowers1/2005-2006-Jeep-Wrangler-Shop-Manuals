@@ -1,0 +1,56 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0720-OUTPUT SPEED SENSOR ERROR — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  2     Start the engine in park.                                                                 All
+        Raise the drive wheels off of the ground.
+        WARNING: PROPERLY SUPPORT THE VEHICLE.
+        Place transmission in drive, release foot from brake.
+        WARNING: BE SURE TO KEEP HANDS AND FEET CLEAR OF ROTATING
+        WHEELS.
+        Note: The drive wheels must be turning at this point.
+        With the DRBIIIt, read the Output RPM
+        Is the Output RPM below 100 RPM?
+
+                 Yes   → Go To     3
+                 No    → Go To    11
+
+  3     Turn the ignition off to the lock position.                                               All
+        CAUTION: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Ignition on, engine not running.
+        With the Transmission Simulator, set the 9Input/Output Speed9 switch to 9ON9 and
+        the rotary switch to the 93000/12509 position.
+        With the DRBIIIt, read the Input RPM and Output RPM.
+        Does the Input RPM read 3000 and the Output RPM read 1250 ± 50 RPM?
+                 Yes   → Go To     4
+                 No    → Go To    5
+
+  4     If there are no possible causes remaining, view repair.                                   All
+                 Repair
+                          Replace the Output Speed Sensor per the Service Information.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  5     Turn the ignition off to the lock position.                                               All
+        Disconnect the TCM harness connector.
+        Disconnect the Output Speed Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Output Speed Sensor Signal circuit from the TCM
+        harness connector to the Output Speed Sensor harness connector.
+        Is the resistance above 5.0 ohms?
+
+                 Yes   → Repair the Output Speed Sensor Signal circuit for an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     6
+
+
+
+
+                                                      307
+

@@ -1,0 +1,57 @@
+                                                                                DRIVEABILITY - NGC
+
+Symptom:
+    P0499-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0499-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT HIGH
+        When Monitored:        Engine running.
+        Set Condition: The PCM detects an open in the NVLD Canister vent solenoid circuits.
+        One trip Fault.
+
+
+
+                                              POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VEHICLE HISTORY AND SERVICE BULLETIN INVESTIGATION
+NVLD SOLENOID
+(K106) NVLD SOL CONTROL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K106) NVLD SOL CONTROL CIRCUIT OPEN
+(Z913) GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                           ACTION                                             APPLICABILITY
+   1      Start by reading PCM DTC(s) and record the related Freeze Frame data in any                   All
+          DTC(s) are present.
+          Check the vehicle repair history.
+          If the vehicle has a repair history that pertains to the customer’s current complaint,
+          review the repair.
+          Inspect the vehicle for any aftermarket accessories that may have been installed
+          incorrectly.
+          Check for any service bulletin(s) related to the customer’s complaint or DTC(s).
+          If a service bulletin applies, follow the instructions per service bulletin.
+          Did the service bulletin repair the customer’s complaint?
+
+                   Yes   → Testing Complete.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To     2
+
+   2      Check for any related TSBs before continuing.                                                 All
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+
+                   Yes   → Go To     3
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                         175
+

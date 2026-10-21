@@ -1,0 +1,65 @@
+DRIVEABILITY - NGC
+
+P0171-FUEL SYSTEM 1/1 LEAN — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  8     NOTE: For this test to be valid, the thermostat must be operating correctly.                All
+        NOTE: This test works best if performed on a cold engine (cold soak)
+        Ignition on, engine not running.
+        With the DRBIIIt, read the Engine Coolant Temperature (ECT) Sensor value. If the
+        engine was allowed to sit overnight (cold soak), the temperature value should be a
+        sensible value that is somewhere close to the ambient temperature.
+        NOTE: If engine coolant temperature is above 82°C (180°F), allow the engine
+        to cool until 65°C (150°F) is reached.
+        Start the Engine.
+        During engine warm-up, monitor the ECT Sensor value. The temperature value
+        change should be a smooth transition from start up to normal operating temperature
+        82°C (180°F). The value should reach at least 82°C (180°F).
+        Did the ECT value increase smoothly and did it reach at least 180°F (82°C)??
+                 Yes   → Go To    9
+
+                 No    → Replace the Engine Coolant Temperature Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  9     Turn the ignition off.                                                                      All
+        Check for any of the following conditions/mechanical problems.
+        AIR INDUCTION SYSTEM - must be free from leaks.
+        ENGINE VACUUM - must be at least 13 inches in neutral
+        ENGINE VALVE TIMING - must be within specifications
+        ENGINE COMPRESSION - must be within specifications
+        ENGINE EXHAUST SYSTEM - must be free of any restrictions or leaks.
+        ENGINE PCV SYSTEM - must flow freely
+        TORQUE CONVERTER STALL SPEED - must be within specifications
+        POWER BRAKE BOOSTER - no internal vacuum leaks
+        FUEL - must be free of contamination
+        FUEL INJECTOR - plugged or restricted injector; control wire not connected to
+        correct injector
+        Are there any engine mechanical problems?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    12
+
+  10    Ignition on, engine not running.                                                            All
+        NOTE: Perform the following test on the O2 Sensors whose voltage was not
+        switching properly in the previous step.
+        Disconnect the O2 Sensor harness connector.
+        With the DRBIIIt, monitor the O2 Sensor voltage.
+        O2 Sensor voltage should read 5.0 volts on the DRBIIIt with the connector
+        disconnected.
+        Connect a jumper wire between the O2 Signal circuit and the O2 Return circuit in the
+        O2 Sensor harness connector.
+        NOTE: The voltage should drop from 5.0 volts to 2.5 volts with the jumper
+        wire in place.
+        Did the O2 Sensor voltage change from 5.0 volts to 2.5 volts?
+
+                 Yes   → Replace the O2 Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    11
+
+        NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      92
+

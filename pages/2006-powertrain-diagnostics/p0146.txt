@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+P0441-EVAP PURGE SYSTEM PERFORMANCE — Continued
+
+ TEST                                       ACTION                                          APPLICABILITY
+  3     NOTE: After disconnecting the Evap Purge vacuum connections, inspect                     All
+        the lines and solenoid for any signs of contamination or foreign materials.
+        Using a hand vacuum pump, apply 10 in Hg to 9CAN9 side of the EVAP Purge
+        Solenoid.
+        Ignition on, engine not running.
+        Observe the vacuum gauge.
+        With the DRBIIIt, actuate the EVAP Purge Solenoid .
+        Does the vacuum drop when the solenoid is actuated?
+
+                Yes   → Go To     4
+                No    → Replace the Evap Purge Solenoid.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  4     Turn the ignition off.                                                                   All
+        Carefully inspect the Evap Purge Solenoid vacuum supply hose for proper routing.
+        Check for a pinched or plugged hose from the throttle body to the Purge Solenoid.
+        Inspect the vacuum port at the throttle body for any damage or plugging.
+        Were any problems found?
+                Yes   → Repair the vacuum supply hose/tube as necessary.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To     5
+
+  5     Connect the previously disconnected vacuum hoses.                                        All
+        Start the engine.
+        Allow the engine to idle.
+        Using the scan tool, perform the NVLD FORCED MONITOR TEST.
+        Monitor the NVLD Switch state.
+        NOTE: As the test runs, the NVLD Switch should go from an OPEN to a
+        CLOSED state and then return to OPEN when the test is complete. This may
+        take up to 10 minutes.
+        Did the NVLD Switch operate as described above?
+                Yes   → Test complete.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To     6
+
+  6     Perform the NVLD FORCED MONITOR TEST for the second time.                                All
+        While the NVLD FORCED MONITOR TEST is running, open/remove the gas cap.
+        Did the NVLD Switch go from OPEN to CLOSED?
+                Yes   → Replace the NVLD Assembly.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                Test Complete.
+                        Test Complete.
+
+
+
+
+                                                    138
+

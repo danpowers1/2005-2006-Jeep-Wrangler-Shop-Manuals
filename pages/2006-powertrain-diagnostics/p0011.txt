@@ -1,0 +1,57 @@
+                                                            GENERAL INFORMATION
+                                    OBD II Monitor Operation
+
+       Comprehensive                   Major Monitors                  Major Monitors
+        Components                    Non Fuel Control                  Fuel Control
+          Monitor                      & Non Misfire                     & Misfire
+
+Run constantly                   Run Once Per Trip              Run constantly
+
+Includes All Engine Hardware     Monitors Entire Emission       Monitors Entire System
+Sensors, Switches, Solenoids,    System
+etc.
+
+Most are One Trip Faults -       Most are Two Trip Faults -     Two Trip Faults - Turns On
+Usually Turns On                 Turns On                       The MIL and Sets DTC After
+The MIL and Sets DTC After       The MIL and Sets DTC After     Two Consecutive Failure
+One Failure                      Two Consecutive Failure
+
+          Priority 3                    Priority 1 or 3                 Priority 2 or 4
+
+All Checked For Continuity       Done Stop Testing = Yes        Fuel Control Monitor
+Open                             Oxygen Sensor Heater           Monitors Fuel Control
+Short To Ground                  Oxygen Sensor Response         System For:
+Short To Voltage                                                  Fuel System Lean
+                                                                  Fuel System Rich
+Inputs Checked For Rationality   Catalytic Converter            Requires 3 Consecutive
+                                 Efficiency Except EWMA up to   Fuel System Good Trips to
+                                 6 tests per trip               Extinguish the MIL
+Outputs Checked For
+                                 and a one trip fault (SBEC)
+Functionality
+                                 and a two-trip fault on JTEC
+
+                                 EGR System Evaporative         Misfire Monitor
+                                 Emission                       Monitors for Engine Misfire
+                                 System                         At:
+                                 (Purge and Leak)               4 X 1000 RPM Counter (4000
+                                   Non-LDP                      Revs)
+                                   or                             (Type B)
+                                   LDP                          **200 X 3 (600) RPM Counter
+                                                                  (Type A)
+
+Requires 3 Consecutive Good      Requires 3 Consecutive Good    Requires 3 Consecutive
+Trips to Extinguish the MIL*     Trips to Extinguish the MIL*   Good Trips
+                                                                To Extinguish the MIL
+
+           *40 Warm Up Cycles are required to erase             **Type A misfire is a one trip
+           DTCs after the MIL has been extinguished.            failure on pre-1999, 2 Trip
+                                                                failure on 1999 and later. The
+                                                                MIL will illuminate at the first
+                                                                or second failure, based on MY.
+
+
+
+
+                                                3
+

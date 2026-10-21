@@ -1,0 +1,73 @@
+                   CONNECTOR PINOUTS
+      C102 - GRAY (HEADLAMP AND DASH SIDE)
+           CAV             CIRCUIT
+            1    A209 18RD/YL
+            2    F26 16PK/OR
+            3    B1 18DG/OR (ABS)
+            3    G301 20VT/LB (OFF-ROAD
+                 PACKAGE)
+            4    B2 18DG/LB (ABS)
+            4    A850 18RD/WT (OFF-ROAD
+                 PACKAGE)
+            5    C20 20DB/YL (2.4L A/C)
+            6    B3 18DG/YL (ABS)
+            6    G300 20VT/WT (OFF-ROAD
+                 PACKAGE)
+            7    B4 18DG/GY (ABS)
+            7    A750 18TN/RD (OFF-ROAD
+                 PACKAGE)
+            8    N4 20DB/WT
+            9    L1 20WT/LG
+            10   F102 20PK/DB
+            11   K334 18BR
+            12   T750 14YL/GY
+            13   G93 20VT/LB
+            14   A109 18OR/RD
+                                             C
+                                             O
+                                             N
+           C103 - BLACK (ENGINE SIDE)
+                                             N
+           CAV             CIRCUIT
+                                             E
+            1    D20 18WT/LG
+                                             C
+            1    D20 20WT/LG (MAN 6 SPD
+                 TRANS)                      T
+            2    G31 18VT/LG                 O
+            2    G31 20VT/LG (MAN 6 SPD      R
+                 TRANS)
+            3    C221 20LB/OR (4.0L)         P
+            4    F856 20YL/PK (2.4L)         I
+            4    K399 18BR/GY (4.0L)         N
+            5    K299 18BR/WT                O
+            5    K299 20BR/WT (MAN 6         U
+                 SPD TRANS)
+                                             T
+            6    D25 18WT/VT
+                                             S
+            6    D25 20WT/VT (MAN 6 SPD
+                 TRANS)
+            7    D21 18WT/BR
+            7    D21 20WT/BR (MAN 6 SPD
+                 TRANS)
+            8    K900 20DB/DG
+            9    F1 18PK/WT
+            9    F1 20PK/WT (MAN 6 SPD
+                 TRANS)
+            10   Y3 18LG
+            10   Y3 20LG (MAN 6 SPD
+                 TRANS)
+            11   Z11 20BK/LG
+            12   K75 20DB/OR
+            13   K66 18DB/WT
+            13   K66 20DB/WT (MAN 6 SPD
+                 TRANS)
+            14   C3 20DB/BK (2.4L A/C)
+            14   C3 20DB/YL (4.0L A/C)
+
+
+
+
+449
+

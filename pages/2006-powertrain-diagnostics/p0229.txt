@@ -1,0 +1,56 @@
+                                                                           DRIVEABILITY - NGC
+
+P0586-SPEED CONTROL VENT SOLENOID CIRCUIT — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  7     Turn the ignition off.                                                                     All
+        Disconnect the S/C Servo harness connector.
+        Disconnect the C3 PCM harness connector.
+        Measure the resistance between ground and the (V35) S/C Vent Sol Control circuit at
+        the Speed Control Servo harness connector.
+        Is the resistance below 100 ohms?
+                 Yes   → Repair the short to ground in the (V35) Speed Control Vent
+                         Solenoid Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+                 No    → Go To    10
+
+  8     Turn the ignition off.                                                                     All
+        Disconnect the Brake Lamp Switch harness connector.
+        Disconnect the C3 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (V32) S/C Supply circuit from the Brake Lamp Switch
+        harness connector to the appropriate terminal of special tool # 8815.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To    9
+                 No    → Repair the open/high resistance in the (V32) S/C Supply circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  9     Turn the ignition off.                                                                     All
+        Disconnect the Brake Switch harness connector.
+        Disconnect the C3 PCM harness connector.
+        Measure the resistance between ground and the (V32) S/C Supply circuit at the
+        Speed Control Servo harness connector.
+        Is the resistance below 100 ohms?
+                 Yes   → Repair the short to ground in the (V32) S/C Supply circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                 No    → Go To    10
+
+  10    NOTE: Before continuing, check the PCM harness connector terminals for                     All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        If the there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace and program the Powertrain Control Module in accor-
+                          dance with the Service Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+
+
+
+                                                     221
+

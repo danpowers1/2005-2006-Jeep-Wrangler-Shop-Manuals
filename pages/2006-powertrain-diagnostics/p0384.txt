@@ -1,0 +1,68 @@
+TRANSMISSION - 42RLE
+
+P0891-TRANSMISSION RELAY ALWAYS ON — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  2     With the DRBIIIt, check the STARTS SINCE SET counter for P0891.                            All
+        Note: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET counter set to 0?
+
+                 Yes   → Go To    3
+
+                 No    → Go To    7
+
+  3     Turn the ignition off to the lock position.                                                All
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between the Fused B+ circuit and the Transmission Control
+        Relay Output Circuit in the Transmission Control Relay.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Go To    4
+
+                 No    → Replace the Transmission Control Relay.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  4     Turn the ignition off to the lock position.                                                All
+        Disconnect the TCM harness connector.
+        Disconnect the Solenoid/Pressure Switch Assembly harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        Measure the voltage of the Transmission Control Relay Output circuit in the
+        Solenoid/Pressure Switch Assembly harness connector.
+        Is the voltage above 0.5 volt?
+                 Yes   → Repair the Transmission Control Relay Output circuit for a short
+                         to voltage
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    5
+
+  5     Turn the ignition off to the lock position.                                                All
+        Remove the Transmission Control Relay from the PDC.
+        Ignition on, engine not running.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the voltage of the Transmission Relay Control circuit in the PDC connector.
+        Is the voltage above 0.5 volt?
+
+                 Yes   → Repair Transmission Relay Control Circuit for a short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    6
+
+  6     Using the schematics as a guide, inspect the wiring and connectors. Repair as              All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                     376
+

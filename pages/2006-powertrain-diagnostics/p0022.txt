@@ -1,0 +1,70 @@
+GENERAL INFORMATION
+ver: 2.29
+date: 1 oct 93
+file: key_itf.cc
+date: Jan 12 1994
+line: 544
+err: 0x1User-Requested WARM Boot
+Press MORE to switch between this display
+and the application screen.
+Press F4 when done noting information.
+or User Requested COLD Boot by pressing MORE
+YES at the same time.
+ver: 2.29
+date: 1 oct 99
+file: key HND1.CC
+date: Mar 8 2000
+line: 1297
+err: 0x1
+User-Requested COLD Boot                                     3.6    TRANSMISSION SIMULATOR (MILLER
+Press MORE to switch between this display
+and the application screen.                                         TOOL # 8333) AND ELECTRONIC
+Press F4 when done noting information.                              TRANSMISSION ADAPTER KIT
+  If the DRBIIIt should display any other error
+                                                                    (MILLER TOOL #8333-1A)
+message, record the entire display and call the Star
+Center.                                                      NOTE: Remove the starter Relay when using
+                                                             the transmission simulator
+3.5.1    DRBIIIT DOES NOT POWER UP                           *Failure to remove the Starter Relay can
+  If the LED’s do not light or no sound is emitted at        cause a PCM - No Response condition.
+start up, check for loose cable connections or a bad         *The removal of the Starter Relay will also
+cable. Check the vehicle battery voltage (data link          prevent the engine from starting in gear.
+connector cavity 16). Check for proper ground con-           *The Transmission Simulator will not
+nection at DLC cavity. A minimum of 11 volts is
+                                                             accurately diagnose intermittent faults.
+required to adequately power the DRBIIIt.
+                                                                The transmission simulator, simply put, is an
+  If all connections are proper between the
+                                                             electronic device that simulates the electronic func-
+DRBIIIt and the vehicle or other devices, and the
+                                                             tions of any EATX or NGC controlled transmission.
+vehicle battery is fully charged, an inoperative
+                                                             The Simulators basic function is to aid the techni-
+DRBIIIt may be the result of a faulty cable or
+                                                             cian in determining if an internal transmission
+vehicle wiring. For a blank screen, refer to the
+                                                             problem exists or if the problem resides in the
+appropriate body diagnostics manual.
+                                                             vehicle wiring or control module. It is only useful for
+                                                             electrical problems. It will not aid in the diagnosis
+3.5.2    DISPLAY IS NOT VISIBLE                              of a failed mechanical component, but it can tell you
+  Low temperatures will affect the visibility of the         that the control module and wiring are working
+display. Adjust the contrast to compensate for this          properly and that the problem is internal.
+condition.                                                      The ignition switch should be in the lock position
+                                                             before attempting to install the simulator. Follow
+3.5.3     SOME DISPLAY ITEMS READ (___(                      all instructions included with the simulator. If the
+  This is caused by scrolling the DRBIIIt display a          feedback from the simulator is in doubt, you can
+single line up or down. The line which was scrolled          verify it’s operation by installing it on a known good
+onto the screen might read 9___9. Use the page down          vehicle. A 9known good vehicle9 would be defined as
+or page up function to display the information.              a vehicle that does not set any DTC’s and drives and
+                                                             shifts as expected.
+                                                                One important point to remember is that the
+                                                             Simulator receives it’s power from the Trans Relay
+                                                             Output circuit. If the transmission system is in
+                                                             Limp-in (Relay open), the simulator will not oper-
+                                                             ate. This is not really an indication of a problem,
+
+
+
+                                                        14
+

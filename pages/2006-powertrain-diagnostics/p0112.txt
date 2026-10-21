@@ -1,0 +1,41 @@
+DRIVEABILITY - NGC
+
+P0300-MULTIPLE CYLINDER MISFIRE — Continued
+
+
+      P0305-CYLINDER NO.5 MISFIRE
+      When Monitored: Any time the engine is running, and the adaptive numerator has been
+      successfully updated.
+      Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+      trips, or with a 10% to 30% misfire rate during one trip.
+
+      P0306-CYLINDER NO.6 MISFIRE
+      When Monitored: Any time the engine is running, and the adaptive numerator has been
+      successfully updated.
+      Set Condition: When more than a 2% (2.5% LEV) misfire rate is measured during two
+      trips, or with a 10% to 30% misfire rate during one trip.
+
+
+
+                                  POSSIBLE CAUSES
+INTERMITTENT MISFIRE
+VISUAL INSPECTION
+(F142), (K334) ASD RELAY OUPUT CIRCUIT
+ENGINE MECHANICAL PROBLEM
+IGNITION COIL
+COIL CONTROL CIRCUIT
+SPARK PLUG
+CHECKING FUEL PRESSURE
+FUEL PUMP INLET STRAINER PLUGGED
+RESTRICTED FUEL SUPPLY LINE
+FUEL PUMP MODULE
+CHECKING FUEL LEAK DOWN
+FUEL INJECTOR
+INJECTOR CONTROL CIRCUIT
+PCM
+
+
+
+
+                                          104
+

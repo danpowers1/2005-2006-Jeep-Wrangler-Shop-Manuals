@@ -1,0 +1,22 @@
+                                                                              DRIVEABILITY - NGC
+
+P0122-THROTTLE POSITION SENSOR NO.1 LOW — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  9     Ignition on, engine not running.                                                              All
+        With the DRBIIIt, monitor the Throttle Position Sensor voltage.
+        Slowly open the throttle from the idle position to the wide open throttle position.
+        Does voltage start at approximately 0.8 of a volt and go above 3.5 volts with a smooth
+        transition?
+                 Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Replace the Throttle Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       65
+

@@ -1,0 +1,61 @@
+DRIVEABILITY - NGC
+
+P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELATION -
+VACUUM LEAK DETECTED — Continued
+ TEST                                        ACTION                                             APPLICABILITY
+  5     Turn the ignition off.                                                                       All
+        Disconnect the TP Sensor harness connector.
+        Disconnect the C2 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (F855) 5-volt Supply circuit from the TP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     6
+
+                 No    → Repair the excessive resistance in the (F855) 5-volt Supply circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     Measure the resistance between ground and (F855) 5-volt Supply circuit at the TP             All
+        Sensor harness connector.
+        Is the resistance above 100k ohms?
+                 Yes   → Go To     7
+
+                 No    → Repair the short to ground in the (F855) 5-volt Supply circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  7     Connect the C2 PCM harness connector.                                                        All
+        Ignition on, engine not running.
+        With the DRBIIIt, monitor the TP Sensor voltage.
+        Connect a jumper wire between the (K22) TP Sensor No.1 Signal circuit and the
+        (K900) Sensor ground circuit at the Sensor harness connector.
+        Does the TP Sensor voltage change from approximately 4.9 volts to below 0.5 of a
+        volt?
+                 Yes   → Replace the Throttle Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     8
+
+        NOTE: Remove the jumper wire before continuing.
+
+  8     Turn the ignition off.                                                                       All
+        Disconnect the C2 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K22) TP Sensor No.1 Signal circuit from the TP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Go To     9
+
+                 No    → Repair the excessive resistance in the (K22) TP Sensor No.1
+                         Signal circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       34
+

@@ -1,0 +1,20 @@
+TRANSMISSION - 42RLE
+
+P0733-GEAR RATIO ERROR IN 3RD — Continued
+
+ TEST                                        ACTION                                         APPLICABILITY
+  6     If there are no possible causes remaining, view repair.                                  All
+
+                 Repair
+                          Repair internal transmission per the Service Information. Check
+                          all of the components related to the Underdrive and Overdrive
+                          clutches. Inspect the Oil Pump per the Service Information and
+                          repair or replace as necessary.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                      320
+

@@ -1,0 +1,52 @@
+                                     CONNECTOR PINOUTS
+
+
+
+
+                               COIL CAPACITOR - 2 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1    K334 18BR                 ASD RELAY OUTPUT
+ 2                -                                        -
+
+
+
+
+                     CRANKSHAFT POSITION SENSOR - BLACK 3 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1    F855 20PK/YL              5 VOLT SUPPLY
+ 2    K900 20DB/DG              SENSOR GROUND
+ 3    K24 18BR/LB (EXCEPT       CKP SIGNAL
+      MAN 6 SPD TRANS)
+ 3    K24 20BR/LB (MAN 6 SPD    CKP SIGNAL                         C
+      TRANS)
+                                                                   O
+                                                                   N
+                                                                   N
+                                                                   E
+                                                                   C
+                                                                   T
+             ENGINE COOLANT TEMPERATURE SENSOR - BLACK 2 WAY       O
+CAV           CIRCUIT                                   FUNCTION   R
+ 1    K900 20DB/DG (2.4L)       SENSOR GROUND
+ 1    K2 18VT/OR (4.0L)         ECT SIGNAL                         P
+ 2    K2 20VT/OR (2.4L)         ECT SIGNAL                         I
+ 2    K900 20DB/DG (4.0L)       SENSOR GROUND                      N
+                                                                   O
+                                                                   U
+                                                                   T
+                                                                   S
+
+
+
+
+                      ENGINE OIL PRESSURE SWITCH - BLACK 2 WAY
+CAV           CIRCUIT                                   FUNCTION
+ 1    G6 20VT/GY (2.4L)         OIL PRESSURE SIGNAL
+ 1    G6 18VT/GY (4.0L)         OIL PRESSURE SIGNAL
+ 2                -                                        -
+
+
+
+
+             453
+

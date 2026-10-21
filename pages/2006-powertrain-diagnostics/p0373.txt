@@ -1,0 +1,58 @@
+                                                                        TRANSMISSION - 42RLE
+
+P0882-TCM POWER INPUT LOW — Continued
+
+ TEST                                         ACTION                                              APPLICABILITY
+  1     NOTE: Low fluid level can be the cause of many Transmission problems. If                       All
+        the fluid level is low, locate and repair the leak, then check and adjust the
+        fluid level per the Service Information.
+        NOTE: Always perform diagnostics with a fully charged battery to avoid
+        false symptoms.
+        With the DRBIIIt, read the engine DTC’s. Check and repair all engine DTC’s prior
+        to performing Transmission Symptom Diagnostics.
+        With the DRBIIIt, read Transmission DTC’s. Record all DTC’s and 1 Trip Failures.
+        NOTE: Diagnose 1 Trip Failures as a fully matured DTC.
+        Using the wiring diagram/schematic as a guide, inspect the wiring and connectors.
+        Repair as necessary.
+        Perform the Shift Lever Position Test. If the test does not pass, refer to Symptom test
+        for P0706 Check Shifter Signal.
+        For Gear Ratio DTC’s, check and record all CVI’s.
+        Most DTC’s set on start up but some must be set by driving the vehicle such that all
+        diagnostic monitors have run.
+        NOTE: Verify flash level of Transmission Control Module. Some problems
+        are corrected by software upgrades to the Transmission Control Module.
+        NOTE: Check for applicable TSB’s related to the symptom.
+        Perform this procedure prior to Symptom diagnosis.
+
+                 Continue
+                            Go To   2
+
+  2     With the DRBIIIt, Check the STARTS SINCE SET counter for P0888.                                All
+        Note: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET counter set at 0?
+                 Yes   → Go To      3
+
+                 No    → Go To      5
+
+  3     Turn the ignition off to the lock position.                                                    All
+        Remove the Transmission Control Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, check the Fused B+ circuit in the
+        Transmission Control Relay connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To      4
+
+                 No    → Repair the Fused B+ circuit for an open or high resistance. If the
+                         fuse is open make sure to check for a short to ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+
+
+
+                                                       365
+

@@ -1,0 +1,65 @@
+DRIVEABILITY - NGC
+
+P2302-IGNITION COIL NO.1 SECONDARY CIRCUIT- INSUFFICIENT
+IONIZATION — Continued
+ TEST                                          ACTION                                              APPLICABILITY
+  1     Check for any related TSBs.                                                                     All
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+
+                 Yes   → Go To      2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Turn the ignition off.                                                                          All
+        Disconnect the coil rail harness connector.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Relay.
+        Using a 12-volt test light connected to ground, check the (K334) ASD Relay Output
+        circuit at the coil rail harness connector.
+        Does the test light illuminate brightly?
+                 Yes   → Go To      3
+
+                 No    → Repair the excessive resistance or short to ground in the (K334
+                         ASD Relay Output circuit. Inspect the related fuse and repair as
+                         necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+        Stop All Actuations
+
+  3     Turn the ignition off.                                                                          All
+        Disconnect the coil rail harness connector.
+        Note: The following resistance measurement should be taken at 70-80
+        degrees F.
+        NOTE: The resistance of the 2.4L Primary Ignition Coil is 0.53 to 0.63 of an
+        ohm and the resistance of a 4.0L Primary Coil Rail is 0.51 to 0.61 of an ohm
+        at 70°F (21.1°C).
+        Measure the resistance of the Primary Coil Rail.
+        Is the resistance value within the noted specification for the coil being tested?
+                 Yes   → Go To      4
+
+                 No    → Replace the coil rail.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  4     Turn the ignition off.                                                                          All
+        Disconnect the Ignition Coil Rail harness connector.
+        Using a 12-volt test light connected to a 12-volt source, probe the Ignition Coil Driver
+        circuit.
+        Crank the engine for 5 seconds while observing the test light.
+        Does the test light blink/flicker?
+                 Brightly blinking or flickering.
+                          Replace the Ignition Coil Rail.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 ON constantly.
+                         Go To     5
+                 OFF constantly.
+                         Go To 6
+
+
+
+
+                                                        256
+

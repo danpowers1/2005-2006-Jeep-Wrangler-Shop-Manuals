@@ -1,0 +1,61 @@
+                                                                           DRIVEABILITY - NGC
+
+P0300-MULTIPLE CYLINDER MISFIRE — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  1     NOTE: Check for any TSBs that apply to a Misfire condition. Review the                     All
+        vehicle repair history for any misfire condition repairs that have been
+        performed.
+        Read and record the FREEZE FRAME DATA. Select OBD II MONITORS. Read and
+        record the MIS-FIRE SIMILAR CONDITIONS WINDOW DATA.
+        With these screens, attempt to duplicate the condition(s) that has set this DTC.
+        When the vehicle is operating in the SIMILAR CONDITIONS WINDOW, refer to the
+        WHICH CYLINDER IS MISFIRING screen.
+        Observe the WHICH CYLINDER IS MISFIRING screen for at least one minute.
+        Is there a misfire present?
+                 Yes   → Go To    2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     NOTE: Anything that affects the speed of the crankshaft can cause a misfire                All
+        DTC.
+        NOTE: When a Misfire is detected for a particular cylinder, the PCM will
+        shut down that cylinders Injector Control circuit.
+        - Visually inspect the engine for any of the following conditions.
+        - Worn serpentine belt
+        - Binding Engine-Driven accessories: A/C Compressor, P/S Pump, Water pump.
+        - Misalignment Water pump, P/S Pump and A/C Compressor pulleys
+        - Corroded PCM power and ground circuits.
+        - Improper CKP, CMP, MAP, and TP Sensor mounting
+        - Poor connector/terminal to component connection. i.e., CKP sensor, Fuel Injector,
+        Ign coil, etc.
+        - Vacuum leaks
+        - Restricted Air Induction system or Exhaust system.
+        - Internal engine component failures.
+        Were any of the above conditions present?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    3
+
+  3     Turn the ignition off.                                                                     All
+        Disconnect the Ignition Coil harness connector and Fuel Injector harness connector
+        of the cylinder being tested.
+        Ignition on, engine not running.
+        With the DRBIIIt, actuate the ASD Relay.
+        Using a 12-volt test light connected to ground, probe the (F142), (K334) ASD Relay
+        Output circuit at the Ignition Coil harness connector and Fuel Injector harness
+        connector.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    4
+                 No    → Repair the excessive resistance or short to ground in the (F142),
+                         (K334) ASD Relay Output circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     105
+

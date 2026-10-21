@@ -1,0 +1,49 @@
+    CONNECTOR PINOUTS
+                                          OXYGEN SENSOR 1/2 DOWNSTREAM - BLACK 4 WAY
+                        CAV           CIRCUIT                                  FUNCTION
+                         1    K299 18BR/WT (EXCEPT     O2 1/2 HEATER CONTROL
+                              MAN 6 SPD TRANS)
+                         1    K299 20BR/WT (MAN 6      O2 1/2 HEATER CONTROL
+                              SPD TRANS)
+                         2    Z43 18BK/LB (EXCEPT      GROUND
+                              MAN 6 SPD TRANS)
+                         2    Z43 20BK/LB (MAN 6 SPD   GROUND
+                              TRANS)
+                         3    K904 18DB/DG (EXCEPT     O2 RETURN (DOWNSTREAM)
+                              MAN 6 SPD TRANS)
+                         3    K904 20DB/DG (MAN 6      O2 RETURN (DOWNSTREAM)
+                              SPD TRANS)
+                         4    K141 18DB/YL (EXCEPT     O2 1/2 SIGNAL
+                              MAN 6 SPD TRANS)
+                         4    K141 20DB/YL (MAN 6      O2 1/2 SIGNAL
+                              SPD TRANS)
+
+
+
+
+                                            OXYGEN SENSOR 2/1 UPSTREAM (4.0L) - 4 WAY
+C                       CAV           CIRCUIT                                  FUNCTION
+O                        1    K199 18BR/VT             O2 2/1 HEATER CONTROL
+N                        2    Z42 18BK/LG              GROUND
+N                        3    K902 18BR/DG             O2 RETURN (UPSTREAM)
+E                        4    K43 18DB/LG              O2 2/1 SIGNAL
+C
+T
+O
+R
+
+P
+I
+N
+                                          OXYGEN SENSOR 2/2 DOWNSTREAM (4.0L) - 4 WAY
+O                       CAV           CIRCUIT                                  FUNCTION
+U                        1    K399 18BR/GY             O2 2/2 HEATER CONTROL
+T                        2    Z43 18BK/LB              GROUND
+S                        3    K904 18BD/DG             O2 RETURN (DOWNSTREAM)
+                         4    K243 18BR                O2 2/2 SIGNAL
+
+
+
+
+                                     460
+

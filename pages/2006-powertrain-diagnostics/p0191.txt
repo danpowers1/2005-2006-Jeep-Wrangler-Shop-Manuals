@@ -1,0 +1,48 @@
+                                                                              DRIVEABILITY - NGC
+
+P0507-IDLE SPEED PERFORMANCE HIGHER THAN EXPECTED —
+Continued
+ TEST                                         ACTION                                             APPLICABILITY
+   3    Start the engine.                                                                             All
+        Inspect the vehicle for external vacuum leaks.
+        Inspect the engine for internal leaks.
+        Were any vacuum leaks found?
+
+                 Yes   → Repair the vacuum leak as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     4
+
+   4    Inspect the throttle body plate for carbon build up or other restrictions.                    All
+        Verify that the throttle cable between the Accelerator Pedal and Throttle Body is not
+        binding.
+        Make sure the throttle plate is resting on the stop at idle.
+        Remove the IAC Motor and actuate the IAC Motor with the DRBIIIt to verify proper
+        operation.
+        Install the IAC Motor.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        While the vehicle is running, lightly tap on IAC Motor, with your hand, and listen for
+        idle to raise.
+        Were any problems found?
+
+                 Yes   → Repair or replace as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     5
+
+   5    NOTE: Before continuing, check the PCM harness connector terminals for                        All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                           Replace and program the Powertrain Control Module per Service
+                           Information.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       183
+

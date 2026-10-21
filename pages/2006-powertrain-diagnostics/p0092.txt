@@ -1,0 +1,52 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P0133-O2 SENSOR 1/1 SLOW RESPONSE
+    P0139-O2 SENSOR 1/2 SLOW RESPONSE
+    P0153-O2 SENSOR 2/1 SLOW RESPONSE
+    P0159-O2 SENSOR 2/2 SLOW RESPONSE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0133-O2 SENSOR 1/1 SLOW
+             RESPONSE.
+
+
+When Monitored and Set Condition:
+
+     P0133-O2 SENSOR 1/1 SLOW RESPONSE
+     When Monitored: Vehicle is started and driven between 20 and 55 MPH with the Throttle
+     open for a minimum of 120 seconds. Coolant greater than 70°C (158°F). Catalytic
+     Converter Temp greater than 600°C (1112°F) and EVAP Purge is active.
+     Set Condition: The oxygen sensor signal voltage switches less than 16 times from lean to
+     rich within 20 seconds during monitoring. Two Trip Fault.
+
+     P0139-O2 SENSOR 1/2 SLOW RESPONSE
+     When Monitored: Vehicle is started and driven between 20 and 55 MPH with the Throttle
+     open for a minimum of 120 seconds. Coolant greater than 70°C (158°F). Catalytic
+     Converter Temp greater than 600°C (1112°F) and EVAP Purge is active
+     Set Condition: The oxygen sensor signal voltage switches less than 16 times from lean to
+     rich within 20 seconds during monitoring. Two Trip Fault.
+
+     P0153-O2 SENSOR 2/1 SLOW RESPONSE
+     When Monitored: Vehicle is started and driven between 20 and 55 MPH with the Throttle
+     open for a minimum of 120 seconds. Coolant greater than 70°C (158°F). Catalytic
+     Converter Temp greater than 600°C (1112°F) and EVAP Purge is active
+     Set Condition: The oxygen sensor signal voltage switches less than 16 times from lean to
+     rich within 20 seconds during monitoring. Two Trip Fault.
+
+     P0159-O2 SENSOR 2/2 SLOW RESPONSE
+     When Monitored: Vehicle is started and driven between 20 and 55 MPH with the Throttle
+     open for a minimum of 120 seconds. Coolant greater than 70°C (158°F). Catalytic
+     Converter Temp greater than 600°C (1112°F) and EVAP Purge is active
+     Set Condition: The oxygen sensor signal voltage switches less than 16 times from lean to
+     rich within 20 seconds during monitoring. Two Trip Fault.
+
+
+
+                                   POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+
+
+                                            84
+

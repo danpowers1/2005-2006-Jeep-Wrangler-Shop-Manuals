@@ -1,0 +1,52 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0113-INTAKE AIR TEMPERATURE SENSOR CIRCUIT HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0113-INTAKE AIR TEMPERATURE SENSOR CIRCUIT HIGH
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: The Intake Air Temperature (IAT) sensor circuit voltage at the PCM goes
+        above 4.9 volts. One Trip Failure.
+
+
+
+                                           POSSIBLE CAUSES
+IAT SENSOR VOLTAGE ABOVE 4.9 VOLTS
+IAT SENSOR
+(K21) IAT SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K21) IAT SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      Ignition on, engine not running.                                                        All
+          With the DRBIIIt, read the IAT Sensor voltage.
+          Is the voltage above 4.9 volts?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the IAT harness connector.
+          Connect a jumper wire between the (K21) IAT Signal circuit and the (K900) Sensor
+          ground circuit at the IAT harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read the IAT Sensor voltage.
+          Is the voltage below 1.0 volt?
+                  Yes   → Replace the IAT Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    3
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      54
+

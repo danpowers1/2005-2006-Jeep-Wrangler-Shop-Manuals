@@ -1,0 +1,50 @@
+TRANSMISSION - 42RLE
+
+P0731-GEAR RATIO ERROR IN 1ST — Continued
+
+ TEST                                          ACTION                                              APPLICABILITY
+  3     With the DRBIIIt, perform the 1st Gear Clutch Test. Follow the instructions on the              All
+        DRBIIIt.
+        Increase the throttle angle, TPS Degree, to 30° for no more than a few seconds.
+        CAUTION: Do not overheat the transmission.
+        Did the Clutch Test pass, Input Speed remain at 0?
+                 Yes   → Go To      4
+
+                 No    → Go To      5
+
+  4     The conditions to set this DTC are not present at this time.                                    All
+        Check the gearshift linkage adjustment.
+        Gear ratio DTC’s can be set by problems in the Input and Output Speed Sensor
+        circuits. If the vehicle passes the clutch test and still sets gear ratio DTC(’s), check
+        the Speed Sensors for proper operation.
+        NOTE: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Check the Speed Sensor wiring and connectors for good connection, then perform a
+        wiggle test using the Transmission Simulator, Miller tool #8333 and the Electronic
+        Transmission Adapter kit 8333-1A.
+        This DTC can also be set under extreme temperature conditions, this is usually
+        caused by an internal problem. Verify if the problem is only experienced under
+        extreme hot or cold conditions.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Test Complete.
+
+  5     If there are no possible causes remaining, view repair.                                         All
+                 Repair
+                           Repair internal transmission per the Service Information. Check
+                           all components related to the Underdrive and L/R clutches.
+                           Inspect the Oil Pump per the Service Information and repair or
+                           replace as necessary.
+                           Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                           1.
+
+
+
+
+                                                        314
+

@@ -1,0 +1,51 @@
+                                                                        TRANSMISSION - 42RLE
+
+P0740-TCC OUT OF RANGE — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  3     Ignition on, engine not running.                                                              All
+        With the DRBIIIt, record and erase Transmission DTCs.
+        Drive the vehicle until it is fully warmed up to at least 43° C or 110° F.
+        Perform the following steps 3 times.
+        With the DRBIIIt, monitor TPS degree.
+        Drive the vehicle to the speed of 83 Km/h or 50 MPH and allow 4th gear to engage for
+        at least 10 seconds.
+        Close the throttle, then tip back in until the throttle angle, TPS degrees, is between
+        25 and 29 degrees.
+        NOTE: If you go over 30 TPS degrees, you must back off of the throttle and
+        retry.
+        Did the TCC engage during any of the attempts?
+
+                 Yes   → Go To     4
+
+                 No    → Go To     5
+
+  4     The conditions necessary to set the DTC are not present at this time.                         All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wires while checking for shorts and open circuits.
+        This DTC can also be set under extreme temperature conditions, this is usually
+        caused by an internal problem. Verify if the problem is only experienced under
+        extreme hot or cold conditions.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Test Complete.
+
+  5     If there are no possible causes remaining, view repair.                                       All
+                 Repair
+                           Perform the Hydraulic Pressure test in the Service Information.
+                           Repair the internal transmission components and torque conver-
+                           tor per the Service Information.
+                           Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                           1.
+
+
+
+
+                                                       327
+

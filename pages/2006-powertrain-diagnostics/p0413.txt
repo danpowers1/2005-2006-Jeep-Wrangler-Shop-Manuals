@@ -1,0 +1,69 @@
+                                                                  TRANSMISSION - 42RLE
+
+P1793-TRD LINK COMMUNICATION ERROR — Continued
+
+ TEST                                     ACTION                                         APPLICABILITY
+  2     With the DRBIIIt, read Transmission DTC’s.                                            All
+        Are any of the following DTCs P1694, P0731, P0732, P0733, P0734, P0736 present
+        also?
+
+                Yes   → If any of these codes are present, disregard the P1793 DTC and
+                        refer to the Transmission category and perform the appropriate
+                        symptom.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    3
+
+  3     With the DRBIIIt, Check the STARTS SINCE SET counter.                                 All
+        Note: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET equal to 0?
+
+                Yes   → Go To    4
+
+                No    → Go To    9
+
+  4     Turn the ignition off to the lock position.                                           All
+        Disconnect the PCM harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Torque Management Request Sense circuit from the
+        TCM harness connector to the PCM harness connector.
+        Is the resistance above 5.0 ohms?
+                Yes   → Repair the Torque Management Request Sense circuit for an
+                        open.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    5
+
+  5     Turn the ignition off to the lock position.                                           All
+        Disconnect the PCM harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Torque Management Request Sense
+        circuit.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair Torque Management Request Sense circuit for a short to
+                        ground.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    6
+
+  6     Turn the ignition off to the lock position.                                           All
+        Disconnect the TCM harness connector.
+        Ignition on, engine not running.
+        Measure the voltage of the Torque Management Request Sense circuit.
+        Is the voltage above 10.5 volts?
+
+                Yes   → Repair Torque Management Request Sense circuit for a short to
+                        voltage.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    7
+
+
+                                                   405
+

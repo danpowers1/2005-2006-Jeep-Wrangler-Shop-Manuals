@@ -1,0 +1,54 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0506-IDLE SPEED PERFORMANCE LOWER THAN EXPECTED
+
+
+
+When Monitored and Set Condition:
+
+        P0506-IDLE SPEED PERFORMANCE LOWER THAN EXPECTED
+        When Monitored: With the engine running at idle, MAF <250 mg/tdc, air temp >-17.8°C
+        (0°F) and <-7°C (19.4°F) enable after coolant temp >70°C (158°F) or air temp >-7°C
+        (19.4°F), coolant temp >-7°C (19.4°F) <130°C (266°F), canister purge <100% duty cycle,
+        and no VSS, MAF/MAP, ECT, TPS, ETC, CRK Sensor DTCs nor any fuel system or injector
+        DTCs.
+        Set Condition: Engine speed is 100 RPM or more below idle speed for 7 seconds. Two Trip
+        Fault. Three good trips to turn off the MIL.
+
+
+
+                                             POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+AIR INDUCTION SYSTEM
+IAC OPERATION
+PCM
+
+ TEST                                          ACTION                                           APPLICABILITY
+   1      NOTE: If any other DTCs are present, they must be diagnosed and repaired                   All
+          before continuing this test.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                   Yes   → Go To     2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Inspect the Air Induction System for the following problems.                               All
+          Restrictions: Dirty Air Cleaner, Foreign material trap in the air intake tube, etc.
+          Leaks: Air Intake tube connection, Air Cleaner housing, etc.
+          Remove the IAC and inspect for foreign debris.
+          Check the MAP Sensor for proper installation.
+          Were any problems found?
+
+                   Yes   → Repair or replace as necessary.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                   No    → Go To     3
+
+
+
+
+                                                        180
+

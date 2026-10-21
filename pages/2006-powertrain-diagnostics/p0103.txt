@@ -1,0 +1,50 @@
+                                                                   DRIVEABILITY - NGC
+
+Symptom List:
+    P0172-FUEL SYSTEM 1/1 RICH
+    P0175-FUEL SYSTEM 2/1 RICH
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P0172-FUEL SYSTEM 1/1 RICH.
+
+
+When Monitored and Set Condition:
+
+      P0172-FUEL SYSTEM 1/1 RICH
+      When Monitored: With the engine running in closed loop mode, the ambient/battery
+      temperature above 20 deg. F and altitude below 8500 ft.
+      Set Condition: If the PCM multiplies short term compensation by long term adaptive and
+      a purge fuel multiplier and the result is below a certain value for 30 seconds over two trips,
+      a freeze frame is stored, the MIL illuminates and a trouble code is stored.
+
+      P0175-FUEL SYSTEM 2/1 RICH
+      When Monitored: With the engine running in closed loop mode, the ambient/battery
+      temperature above 20 deg. F and altitude below 8500 ft.
+      Set Condition: If the PCM multiplies short term compensation by long term adaptive and
+      a purge fuel multiplier and the result is below a certain value for 30 seconds over two trips,
+      a freeze frame is stored, the MIL illuminates and a trouble code is stored.
+
+
+
+                                      POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+O2 SENSOR HEATER OPERATION
+O2 SENSOR
+O2 SIGNAL CIRCUIT
+O2 RETURN CIRCUIT
+THROTTLE POSITION SENSOR VOLTAGE GREATER THAN 0.92 VOLTS WITH THROTTLE
+CLOSED
+THROTTLE POSITION SENSOR SWEEP
+MAP SENSOR
+ECT SENSOR
+EVAP PURGE SOLENOID OPERATION
+ENGINE MECHANICAL PROBLEM
+FUEL FILTER/PRESSURE REGULATOR (HIGH)
+PCM
+
+
+
+
+                                                95
+

@@ -1,0 +1,27 @@
+VEHICLE THEFT/SECURITY
+
+ANTENNA FAILURE — Continued
+
+
+
+
+                                            POSSIBLE CAUSES
+SKIM INTERNAL DTC FAILURE
+
+ TEST                                         ACTION                                             APPLICABILITY
+  1     Note: This trouble code indicates an internal SKIM fault.                                     All
+        With the DRBIIIt, read and record the SKIM DTCs and then erase the SKIM DTCs
+        Perform 5 ignition key cycles, leaving the ignition key on for a minimum of 90 seconds
+        per cycle.
+        With the DRBIIIt , read the SKIM DTCs.
+        Did the same SKIM DTC return?
+                 Yes   → Replace and program the Sentry Key Immobilizer Module in
+                         accordance with the Service Information.
+                         Perform SKIS VERIFICATION.
+                 No    → Test Complete.
+
+
+
+
+                                                       424
+

@@ -1,0 +1,67 @@
+                                                                          DRIVEABILITY - NGC
+
+P0452-NVLD PRESSURE SWITCH STUCK CLOSED — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  3     Turn the ignition off.                                                                    All
+        Disconnect the EVAP Purge Solenoid harness connector.
+        Ignition on, engine not running.
+        Using a 12-volt test light, jump across the EVAP Purge Solenoid harness connector.
+        With the DRBIIIt, actuate the EVAP Purge Solenoid.
+        Does the test light flash on and off?
+                 Yes   → Go To    4
+
+                 No    → Go To    8
+
+  4     Turn the ignition off.                                                                    All
+        Connect the Evap Purge Solenoid harness connector.
+        Disconnect the vacuum hoses at the Evap Purge Solenoid.
+        NOTE: After disconnecting the Evap Purge Solenoid vacuum connections,
+        inspect the lines and solenoid for any signs of contamination from the EVAP
+        Canister. This may indicate a faulty check valve. Replace/repair as neces-
+        sary.
+        Using a hand vacuum pump, apply 10 in Hg to the 9CAN9 of the EVAP Purge
+        Solenoid.
+        NOTE: Monitor the vacuum gauge for at least 15 seconds.
+        Does the EVAP Purge Solenoid hold vacuum?
+                 Yes   → Go To    5
+                 No    → Replace the Evap Purge Solenoid.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     Ignition on, engine not running.                                                          All
+        Using the DRBIIIt, monitor the NVLD Switch State with the vacuum pump still
+        installed and holding vacuum.
+        Does the DRBIIIt display the NVLD state OPEN?
+                 Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    6
+        NOTE: Remove the vacuum pump and connect the vacuum hose before
+        continuing.
+
+  6     Disconnect the NVLD electrical connector.                                                 All
+        Does the Switch change from CLOSED to OPEN?
+
+                 Yes   → Replace the NVLD Assembly.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    7
+
+  7     Turn the ignition off.                                                                    All
+        Disconnect the C3 PCM harness connector.
+        Measure the resistance between ground and the (K107) NVLD Switch Signal circuit
+        in the NVLD Assembly harness connector.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the short to ground in the (K107) NVLD Switch Signal
+                         circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    9
+
+
+
+
+                                                    143
+

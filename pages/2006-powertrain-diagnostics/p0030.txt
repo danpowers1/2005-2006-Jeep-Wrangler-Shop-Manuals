@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    INTERMITTENT CONDITION
+
+
+
+
+                                           POSSIBLE CAUSES
+INTERMITTENT CONDITION
+
+ TEST                                        ACTION                                             APPLICABILITY
+  1     NOTE: The conditions that set the DTC are not present at this time. The                      All
+        following list may help in identifying the intermittent condition.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Refer to any Technical Service Bulletins (TSBs) that may apply.
+        Review the DRB Freeze Frame information. If possible, try to duplicate the
+        conditions under which the DTC set.
+        With the engine running at normal operating temperature, monitor the DRBIIIt
+        parameters related to the DTC while wiggling the related wire harness. Look for
+        parameter values to change and/or a DTC to set.
+        Turn the ignition off.
+        Visually inspect the related wire harness. Disconnect all the related harness
+        connectors. Look for any chafed, pierced, pinched, partially broken wires and broken,
+        bent, pushed out, or corroded terminals.
+        Perform a voltage drop test on the related circuits between the suspected faulty
+        component and the PCM.
+        CAUTION: NEVER PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Inspect and clean all PCM, engine, and chassis grounds that are related to the most
+        current DTC.
+        If numerous trouble codes were set, use a wire schematic and look for any common
+        ground or supply circuits.
+        For any Relay DTCs, actuate the Relay with the DRBIIIt and wiggle the related wire
+        harness to try to interrupt the actuation.
+        For intermittent Evaporative Emission trouble codes perform a visual and physical
+        inspection of the related parts including hoses and the Fuel Filler cap.
+        For intermittent Misfire DTC’s check for restrictions in the Intake and Exhaust
+        system, proper installation of Sensors, vacuum leaks, and binding components that
+        are run by the accessory drive belt.
+        Use the DRBIIIt to perform a System Test if one applies to failing component.
+        A co-pilot, data recorder, and/or lab scope should be used to help diagnose intermit-
+        tent conditions.
+        Were any problems found during the above inspections?
+                 Yes   → Repair as necessary
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Test Complete.
+
+
+
+
+                                                       22
+

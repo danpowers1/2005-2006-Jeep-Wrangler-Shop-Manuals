@@ -1,0 +1,67 @@
+DRIVEABILITY - NGC
+
+P0339-CRANKSHAFT POSITION SENSOR INTERMITTENT — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  3     Turn the ignition off.                                                                      All
+        Visually inspect the related wire harness including the ground circuit. Look for any
+        chafed, pierced, pinched, or partially broken wires.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Make sure the Crankshaft Position Sensor and the Camshaft Position Sensor are
+        properly installed and the mounting bolt(s) are tight.
+        Refer to any TSBs that may apply.
+        Were any of the above conditions present?
+
+                 Yes   → Repair as necessary
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    4
+
+  4     Disconnect the CKP Sensor connector.                                                        All
+        Ignition on, engine not running.
+        Measure the voltage on the (F855) 5-volt Supply circuit in the Sensor harness
+        connector.
+        Is the voltage between 4.5 and 5.3 volts?
+
+                 Yes   → Go To    5
+                 No    → Repair the open or short to ground in the (F855) 5-volt Supply
+                         circuit. Use Miller special tool #8815 when checking for an open
+                         circuit to prevent PCM harness connector terminal damage.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     Turn the ignition off.                                                                      All
+        Carefully disconnect the Battery Ground cable.
+        Remove the Crankshaft Position Sensor.
+        Inspect the Tone Wheel/Flex Plate slots for damage, foreign material, or excessive
+        movement.
+        Were any problems found?
+                 Yes   → Repair or replace the Tone Wheel/Flex Plate as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    6
+
+  6     NOTE: An intermittent condition in the Cam Position Sensor can cause the                    All
+        P0339 to set.
+        Install the Crankshaft Position Sensor.
+        With the DRBIIIt lab scope probe and the Miller special tool #6801, backprobe the
+        (K44) CMP Signal circuit at the Sensor harness connector.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Ignition on, engine not running.
+        Wiggle the related wire harness and lightly tap on the Cam Position Sensor.
+        Observe the lab scope screen.
+        Start the engine.
+        Observe the lab scope screen.
+        Are there any irregular or missing signals?
+
+                 Yes   → Replace the Cam Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    7
+
+
+
+
+                                                     120
+

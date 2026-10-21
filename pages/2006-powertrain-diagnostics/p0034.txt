@@ -1,0 +1,34 @@
+DRIVEABILITY - NGC
+
+P0016-CRANKSHAFT/CAMSHAFT TIMING MISALIGNMENT — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  10    If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace the Crankshaft Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  11    NOTE: The conditions that set this DTC are not present at this time. The                  All
+        following test may help in identifying the intermittent condition.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Start the engine.
+        Gently tap on the Crank Position Sensor and wiggle the CKP Sensor.
+        Turn the ignition off.
+        Inspect the Sensor harness connector, PCM harness connector, Sensor connector, and
+        PCM connector for loose, bent, corroded, or pushed out pins/terminals.
+        Inspect the related wire harness and the splices in the CKP circuits.
+        Were any problems found?
+                 Yes   → Repair the wiring/connector concerns as needed or replace the
+                         Crankshaft Position Sensor.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Test Complete.
+
+
+
+
+                                                      26
+

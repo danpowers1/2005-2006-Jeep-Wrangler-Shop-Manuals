@@ -1,0 +1,31 @@
+TRANSMISSION - 42RLE
+
+P0124-      THROTTLE             POSITION           SENSOR/APPS                INTERMITTENT              —
+Continued
+ TEST                                       ACTION                                           APPLICABILITY
+   3     Ignition On, Engine Not Running.                                                         All
+         With the DRBIIIt, under Transmission Sensors, monitor the TPS voltage in the
+         following step.
+         Slowly open and close the throttle while checking for erratic voltage changes.
+         Did the TPS voltage change smooth and consistent?
+                 Yes   → Go To    4
+
+                 No    → Replace the Throttle Position Sensor per the Service Information.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+   4     Using the schematics as a guide, inspect the wiring and connectors. Repair as            All
+         necessary. Pay particular attention to all power and ground circuits.
+         If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                     276
+

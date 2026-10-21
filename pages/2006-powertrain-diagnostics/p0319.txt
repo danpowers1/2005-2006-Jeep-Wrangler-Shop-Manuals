@@ -1,0 +1,69 @@
+                                                                  TRANSMISSION - 42RLE
+
+P0725-ENGINE SPEED SENSOR CIRCUIT — Continued
+
+ TEST                                      ACTION                                         APPLICABILITY
+  2     NOTE: This code is not a Transmission Input Speed Sensor DTC                           All
+        With the DRBIIIt, Check the STARTS SINCE SET counter.
+        NOTE: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET counter set at 0?
+
+                Yes   → Go To    3
+
+                No    → Go To    8
+
+  3     Turn ignition off to the lock position.                                                All
+        Disconnect the Powertrain Control Module (PCM) harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the EATX RPM signal circuit between the TCM connector
+        and the PCM connector.
+        Is the resistance above 5.0 ohms?
+
+                Yes   → Repair the open EATX RPM Signal circuit.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    4
+
+  4     Turn ignition off to the lock position.                                                All
+        Disconnect the Powertrain Control Module (PCM) harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between the EATX RPM Signal circuit and ground.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the EATX RPM Signal circuit for a short to ground.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    5
+
+  5     Turn ignition off to the lock position.                                                All
+        Disconnect the PCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        Measure the voltage of the EATX RPM Signal circuit in the PCM connector.
+        Is the voltage above 10.0 volts?
+
+                Yes   → Repair the EATX RPM Signal circuit for a short to voltage.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Go To    6
+
+  6     Turn the ignition off to the lock position.                                            All
+        Disconnect the PCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        Measure the voltage of the EATX RPM Signal circuit.
+        Is the voltage between 4.5 and 5.5 volts?
+
+                Yes   → Replace and program the Powertrain Control Module per the
+                        Service Information.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+
+                No    → Go To    7
+
+
+                                                   311
+

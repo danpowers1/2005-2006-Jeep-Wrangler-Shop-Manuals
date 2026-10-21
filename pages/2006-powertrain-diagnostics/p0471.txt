@@ -1,0 +1,46 @@
+                                                                                     CONNECTOR PINOUTS
+                                         LOW SPEED RADIATOR FAN RELAY (2.4L)
+CAV          CIRCUIT                                                      FUNCTION
+D2    A16 12GY         FUSED B(+)
+D4    F102 20PK/DB     FUSED IGNITION SWITCH OUTPUT (RUN)
+D4    F102 20PK/DB     FUSED IGNITION SWITCH OUTPUT (RUN)
+D6    N112 18DB/OR     LOW SPEED RADIATOR FAN RELAY CONTROL
+D8    N23 12DB/DG      LOW SPEED FAN RELAY OUTPUT
+
+
+
+
+                                                            POWER STEERING PRESSURE SWITCH (2.4L) - BLACK 2 WAY
+                                              CAV            CIRCUIT                               FUNCTION
+                                               1    K66 18DB/WT (EXCEPT      P/S PRESSURE SWITCH SIGNAL
+                                                    MAN 6 SPD TRANS)
+                                               1    K66 20DB/WT (MAN 6       P/S PRESSURE SWITCH SIGNAL
+                                                    SPD TRANS)
+                                               2    Z987 20BK                GROUND
+
+
+
+
+                                                                                                                  C
+                                                                                                                  O
+                                                                                                                  N
+                                                                                                                  N
+                                                                                                                  E
+                                                                                                                  C
+                                                                                                                  T
+                                                                                                                  O
+                                                                                                                  R
+
+                                                                                                                  P
+                                                                                                                  I
+                                                                                                                  N
+                                                                                                                  O
+                                                                                                                  U
+                                                                                                                  T
+                                                                                                                  S
+
+
+
+
+                                                             463
+

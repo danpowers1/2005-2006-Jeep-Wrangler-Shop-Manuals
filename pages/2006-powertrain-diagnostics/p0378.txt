@@ -1,0 +1,36 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    P0884-POWER UP AT SPEED
+
+
+
+When Monitored and Set Condition:
+
+        P0884-POWER UP AT SPEED
+        When Monitored:        When Transmission Control Module powers up.
+        Set Condition: This DTC will set if the TCM powers up and senses the vehicle in a valid
+        forward gear (no PRNDL DTCs) with a output speed above 800 RPM (approximately
+        32Km/h or 20 MPH).
+
+
+
+                                            POSSIBLE CAUSES
+POWER UP AT SPEED
+
+ TEST                                         ACTION                                            APPLICABILITY
+   1      This DTC is set when the TCM is initialized while the vehicle is moving down the           All
+          road in a valid forward gear.
+          Check all of the Fused B+, Fused Ignition Switch Output, and Ground circuits to the
+          TCM for an intermittent open or short to ground.
+          Were there any problems found?
+                   Yes   → Repair as necessary.
+                           Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                           1.
+                   No    → Test Complete.
+
+
+
+
+                                                       370
+

@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0532-A/C PRESSURE SENSOR LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0532-A/C PRESSURE SENSOR LOW
+        When Monitored:       Engine running, A/C is learned, and the AC Clutch Relay energized.
+        Set Condition: The A/C pressure sensor signal voltage at the PCM goes below 0.58 of a
+        volt for 2.6 seconds. One Trip Fault.
+
+
+
+                                            POSSIBLE CAUSES
+A/C PRESSURE SENSOR VOLTAGE BELOW 0.6 OF A VOLT
+(F856) 5-VOLT SUPPLY CIRCUIT OPEN
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+A/C PRESSURE SENSOR
+(C18) A/C PRESSURE SIGNAL CIRCUIT SHORTED TO GROUND
+(C18) A/C PRESSURE SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      NOTE: Make sure the A/C refrigerant System is properly charged per the                    All
+          Service Information.
+          Start the engine.
+          With the DRBIIIt, read the A/C Pressure Sensor voltage.
+          Is the voltage below 0.6 of a volt?
+                   Yes   → Go To    2
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+   2      Turn the ignition off.                                                                    All
+          Disconnect the A/C Pressure Sensor harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (F856) 5-volt Supply circuit in the A/C Pressure Sensor
+          harness connector.
+          Is the voltage between 4.5 to 5.2 volts?
+                   Yes   → Go To    3
+
+                   No    → Go To    6
+
+   3      With the DRBIIIt, monitor the A/C Pressure Sensor voltage with the Sensor harness         All
+          connector disconnected.
+          Is the voltage above 0.6 of a volt?
+                   Yes   → Replace the A/C Pressure Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                   No    → Go To    4
+
+
+                                                      196
+

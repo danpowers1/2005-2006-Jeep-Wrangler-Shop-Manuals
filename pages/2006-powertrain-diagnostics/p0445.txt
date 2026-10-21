@@ -1,0 +1,48 @@
+                                                                                 VERIFICATION TESTS
+
+Verification Tests — Continued
+
+                      POWERTRAIN VERIFICATION TEST VER - 5                                            APPLICABILITY
+1. NOTE: After completing the Powertrain Verification Test the Transmission Verifi-                        All
+cation Test must be performed.
+2. NOTE: If the PCM has been replaced and the correct VIN and mileage have not
+been programmed, a DTC will set in the ABS Module, Airbag Module and the SKIM.
+3. NOTE: If the vehicle is equipped with a Sentry Key Immobilizer System, Secret Key
+data must be updated. Refer to the Service Information for the PCM, SKIM and the
+Transponder (ignition key) for programming information.
+4. NOTE: When replacing an O2 Sensor, the PCM RAM memory must be cleared,
+either by disconnecting the PCM C-1 connector or momentarily disconnecting the
+Battery negative terminal.
+5. The NGC learns the characteristics of each O2 heater element and these old values should
+be cleared when installing a new O2 sensor. The customer may experience driveability issues
+if this is not performed.
+6. Inspect the vehicle to ensure that all engine components are properly installed and
+connected. Reassemble and reconnect components as necessary.
+7. Connect the DRBIIIt to the data link connector.
+8. Ensure the fuel tank has at least a quarter tank of fuel. Turn off all accessories.
+9. If the Catalyst was replaced, with the DRBIIIt go to the Miscellaneous Menu Option
+9Catalyst Replaced9 and press enter.
+10. If a Comprehensive Component DTC was repaired, perform steps 9 - 12. If a Major OBDII
+Monitor DTC was repaired skip those steps and continue verification.
+11. After the ignition has been off for at least 10 seconds, restart the vehicle and run 2 minutes.
+12. With the DRBIIIt, monitor the appropriate pre-test enabling conditions until all conditions
+have been met. Once the conditions have been met, switch screen to the appropriate OBDII
+monitor, (Audible beeps when the monitor is running).
+13. If the repaired OBDII trouble code has reset or was seen in the monitor while on the road
+test, the repair is not complete. Check for any related technical service bulletins or flash
+updates and return to Symptom List.
+14. If the conditions cannot be duplicated, erase all DTCs with the DRBIIIt.
+15. If another DTC has set, return to the Symptom List and follow the path specified for that
+DTC.
+Did the OBDII Monitor run successfully and has the Good Trip Counter changed to one or
+more?
+             Yes   → Repair is complete.
+
+             No    → Check for any related Technical Service Bulletins and/or refer to the
+                     appropriate Symptom list (Diagnostic Procedure).
+
+
+
+
+                                                          437
+

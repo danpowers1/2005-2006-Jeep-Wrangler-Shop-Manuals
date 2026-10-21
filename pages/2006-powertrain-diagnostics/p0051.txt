@@ -1,0 +1,52 @@
+                                                                           DRIVEABILITY - NGC
+
+Symptom:
+    P0073-AMBIENT TEMP SENSOR CIRCUIT HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0073-AMBIENT TEMP SENSOR CIRCUIT HIGH
+        When Monitored:       The ignition key on.
+        Set Condition: The Ambient Temperature Sensor voltage is greater than 4.94 volts at the
+        PCM for 4.8 seconds. Three good trips to clear the MIL.
+
+
+
+                                           POSSIBLE CAUSES
+AAT SENSOR VOLTAGE ABOVE 4.8 VOLTS
+AAT SENSOR
+(G31) AAT SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(G31) AAT SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      Ignition on, engine not running.                                                        All
+          With the DRBIIIt, read the Ambient Temperature Sensor voltage.
+          Is the voltage above 4.8 volts?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the Ambient Temperature Sensor harness connector.
+          Connect a jumper wire between the (G31) AAT Signal circuit and the (K900) Sensor
+          ground circuit at the AAT Sensor harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read Ambient Temperature Sensor voltage.
+          Is the voltage below 1.0 volt?
+                  Yes   → Replace the Ambient Temperature Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    3
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      43
+

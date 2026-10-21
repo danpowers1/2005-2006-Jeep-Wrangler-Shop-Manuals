@@ -1,0 +1,57 @@
+                  TABLE OF CONTENTS - Continued
+P0161-O2 SENSOR 2/2 HEATER PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . . .86
+P0171-FUEL SYSTEM 1/1 LEAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89
+P0174-FUEL SYSTEM 2/1 LEAN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89
+P0172-FUEL SYSTEM 1/1 RICH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .95
+P0175-FUEL SYSTEM 2/1 RICH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .95
+P0201-FUEL INJECTOR NO.1 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100
+P0202-FUEL INJECTOR NO.2 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100
+P0203-FUEL INJECTOR NO.3 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100
+P0204-FUEL INJECTOR NO.4 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100
+P0205-FUEL INJECTOR NO.5 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100
+P0206-FUEL INJECTOR NO.6 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .100
+P0300-MULTIPLE CYLINDER MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0301-CYLINDER NO.1 MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0302-CYLINDER NO.2 MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0303-CYLINDER NO.3 MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0304-CYLINDER NO.4 MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0305-CYLINDER NO.5 MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0306-CYLINDER NO.6 MISFIRE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+P0315-NO CRANK SENSOR LEARNED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .110
+P0325-KNOCK SENSOR NO.1 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .112
+P0330-KNOCK SENSOR NO.2 CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .112
+P0335-CRANKSHAFT POSITION SENSOR CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . .115
+P0339-CRANKSHAFT POSITION SENSOR INTERMITTENT . . . . . . . . . . . . . . . . . . .119
+P0340-CAMSHAFT POSITION SENSOR CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . .123
+P0344-CAMSHAFT POSITION SENSOR INTERMITTENT . . . . . . . . . . . . . . . . . . . . .127
+P0420-CATALYST 1/1 EFFICIENCY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .131
+P0421-CATALYST 1/1 EFFICIENCY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .131
+P0430-CATALYST 2/1 EFFICIENCY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .131
+P0431-CATALYST 2/1 EFFICIENCY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .131
+P0440-GENERAL EVAP SYSTEM FAILURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .134
+P0441-EVAP PURGE SYSTEM PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . . . .137
+P0443-EVAP PURGE SOLENOID CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .139
+P0452-NVLD PRESSURE SWITCH STUCK CLOSED. . . . . . . . . . . . . . . . . . . . . . . . .142
+P0453-NVLD PRESSURE SWITCH STUCK OPEN . . . . . . . . . . . . . . . . . . . . . . . . . . .145
+P0455-EVAP SYSTEM LARGE LEAK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .148
+P0456-EVAP SYSTEM SMALL LEAK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .153
+P0457-LOOSE FUEL FILL CAP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .158
+P0461-FUEL LEVEL SENSOR NO.1 PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . .163
+P0462-FUEL LEVEL SENSOR NO.1 LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .165
+P0463-FUEL LEVEL SENSOR NO.1 HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .167
+P0480-COOLING FAN NO.1 CONTROL CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . .169
+P0481-COOLING FAN NO.2 CONTROL CIRCUIT . . . . . . . . . . . . . . . . . . . . . . . . . . . .171
+P0498-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT LOW. . . . . . . . . . . . . .173
+P0499-NVLD CANISTER VENT VALVE SOLENOID CIRCUIT HIGH . . . . . . . . . . . . .175
+P0501-VEHICLE SPEED SIGNAL PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . .177
+P0506-IDLE SPEED PERFORMANCE LOWER THAN EXPECTED . . . . . . . . . . . . . .180
+P0507-IDLE SPEED PERFORMANCE HIGHER THAN EXPECTED . . . . . . . . . . . . .182
+P0508-IAC VALVE SIGNAL CIRCUIT LOW. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .184
+P0509-IAC VALVE SIGNAL CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .186
+P0513-INVALID SKIM KEY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .188
+P0516-BATTERY TEMPERATURE SENSOR LOW . . . . . . . . . . . . . . . . . . . . . . . . . . .190
+P0517-BATTERY TEMPERATURE SENSOR HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . .192
+P0522-OIL PRESSURE VOLTAGE LOW. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .194
+
+                                                     iii
+

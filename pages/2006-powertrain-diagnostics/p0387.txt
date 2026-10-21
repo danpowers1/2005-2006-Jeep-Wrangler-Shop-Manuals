@@ -1,0 +1,39 @@
+                                                                   TRANSMISSION - 42RLE
+
+P0897-WORN OUT/BURNT TRANSAXLE FLUID — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  2     Turn the ignition off.                                                                  All
+        Remove the Transmission Oil Pan and Oil Filter per the Service Information.
+        Install a new Transmission Oil Filter per Service Information.
+        Reinstall Transmission Oil Pan, and refill with new Transmission Fluid per the
+        Service Information.
+        Note: The Transmission Cooler must be flushed before prodceeding.
+        Start the engine, check and adjust the Transmission Fluid Level per Service
+        Information.
+        Allow the engine to idle for 10 minutes, in Park.
+        Flush the Transmission Oil Cooler per the Service Information.
+        Turn the ignition off.
+        Drain and refill the Transmission Fluid.
+        Flush the Transmission Oil Cooler again.
+        Start the engine, check and adjust the Transmission Fluid Level per Service
+        Information.
+        With the DRBIIIt, perform a Battery Disconnect.
+        Note: This must be done to re enable EMCC during an A/C Clutch engage-
+        ment.
+        The vehicle may exhibit intermittent shudder during the first few hundred miles.
+        Note: The oil will gradually penetrate the TCC friction material and the
+        shudder should disappear.
+        Erase the DTC and return the vehicle to the customer.
+        Did the Code reset or does the vehicle still shudder after a few thousand miles?
+
+                Yes   → Replace the Torque Convertor per the Service Information.
+                        Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                        1.
+                No    → Test Complete.
+
+
+
+
+                                                   379
+

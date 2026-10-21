@@ -1,0 +1,27 @@
+DRIVEABILITY - NGC
+
+U0101-NO BUS MESSAGE FROM TRANS CONTROL MODULE — Continued
+
+ TEST                                     ACTION                                        APPLICABILITY
+  3     NOTE: Determine which modules this vehicle is equipped with before                   All
+        beginning.
+        NOTE: When attempting to communicate with any of the modules on this
+        vehicle, the DRBIIIt will display 1 of 2 different communication errors: a
+        NO RESPONSE message or a BUS +/- SIGNALS OPEN MESSAGE.
+        Ignition on, engine not running.
+        Use the DRBIIIt, attempt to communicate with the remaining control modules.
+        Was the DRBIIIt able to communicate with one or more of the Modules?
+
+                Yes   → Replace and program the Powertrain Control Module per Service
+                        Information.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+                No    → Refer to the COMMUNICATION category and perform the PCI
+                        BUS COMMUNICATION FAILURE Symptom.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 1.
+
+
+
+
+                                                  262
+

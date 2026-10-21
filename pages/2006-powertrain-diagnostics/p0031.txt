@@ -1,0 +1,48 @@
+                                                                    DRIVEABILITY - NGC
+
+Symptom:
+    P0016-CRANKSHAFT/CAMSHAFT TIMING MISALIGNMENT
+
+
+
+When Monitored and Set Condition:
+
+        P0016-CRANKSHAFT/CAMSHAFT TIMING MISALIGNMENT
+        When Monitored:     Engine cranking and Engine running
+        Set Condition: Powertrain Control Module detects an error when the camshaft position is
+        out of phase with the crankshaft position.
+
+
+
+                                        POSSIBLE CAUSES
+INTERMITTENT CONDITION
+CMP WIRE HARNESS INSPECTION
+TONE WHEEL/PULSE RING INSPECTION
+INTERMITTENT CMP SIGNAL
+CKP WIRE HARNESS INSPECTION
+TONE WHEEL/PULSE RING INSPECTION
+INTERMITTENT CKP SIGNAL
+CAMSHAFT POSITION SENSOR
+CRANKSHAFT POSITION SENSOR
+
+ TEST                                    ACTION                                      APPLICABILITY
+   1      WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A                        All
+          DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+          PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          With the DRBIIIt, erase DTCs.
+          Start the engine and run until operating temp is reached. (Closed Loop)
+          If the DTC does not reset it may be necessary to test drive the vehicle.
+          Does the P0016 reset?
+
+                 Yes   → Go To   2
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                 23
+

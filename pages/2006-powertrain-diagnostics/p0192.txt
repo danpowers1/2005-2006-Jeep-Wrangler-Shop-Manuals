@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0508-IAC VALVE SIGNAL CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0508-IAC VALVE SIGNAL CIRCUIT LOW
+        When Monitored:       Engine running. Battery voltage greater than 10 volts. IAC motor
+        operating.
+        Set Condition: The PCM senses a short to ground or battery voltage on the Linear Idle Air
+        Control (LIAC) control circuit for 2.75 seconds while the IAC motor is active.
+
+
+
+                                           POSSIBLE CAUSES
+IAC MOTOR OPERATTION
+IAC MOTOR
+(K61) IAC CONTROL CIRCUIT SHORTED TO GROUND
+(K961) IAC SIGNAL CIRCUIT OPEN
+(K961) IAC SIGNAL CIRCUIT SHORTED TO GROUND
+(K61) IAC CONTROL CIRCUIT OPEN
+PCM
+
+ TEST                                        ACTION                                          APPLICABILITY
+   1      NOTE: If the engine will not idle, maintain an engine speed between 800 and             All
+          1500 RPM.
+          Start the engine.
+          Allow the engine to idle.
+          Check for vacuum leaks, proper PCV valve installation, proper MAP Sensor instal-
+          lation, and proper IAC installation.
+          With the DRBIIIt, read the IAC Current.
+          Is the IAC Current below 146 mA?
+                  Yes   → Go To    2
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                  All
+          Disconnect the IAC Motor harness connector.
+          Remove the IAC Motor.
+          NOTE: Inspect the IAC air passages for restriction and damage to the IAC
+          valve.
+          Measure the resistance across the IAC Motor pin terminals (component).
+          Is the resistance 9.7 +/- 1.0 ohms?
+                  Yes   → Go To    3
+
+                  No    → Replace the IAC Motor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     184
+

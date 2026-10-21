@@ -1,0 +1,44 @@
+                                                          TRANSMISSION - 42RLE
+
+Symptom List:
+    P0883-TCM POWER INPUT HIGH
+    P0891-TRANSMISSION RELAY ALWAYS ON
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0883-TCM POWER INPUT
+             HIGH.
+
+
+When Monitored and Set Condition:
+
+     P0883-TCM POWER INPUT HIGH
+     When Monitored: When the ignition is turned from the 9off9 position to the 9run9 position
+     and/or the ignition is turned from the 9crank9 position to the 9run9 position.
+     Set Condition: This DTC set if the Transmission Control Module (TCM) senses greater
+     than 3 volts at the Transmission Control Relay Output circuits at the TCM prior to the
+     TCM energizing the relay. Note: Due to the integration of the Powertrain and Transmis-
+     sion Control Modules, the transmission part of the PCM has its own specific power and
+     ground circuits.
+
+     P0891-TRANSMISSION RELAY ALWAYS ON
+     When Monitored: When the ignition is turned from the OFF position to the RUN position
+     and/or the ignition is turned from the CRANK position to RUN position.
+     Set Condition: This DTC is set if the Transmission Control Module senses greater than
+     3.0 volts at the Transmission Control Relay Output terminal of the TCM prior to the TCM
+     energizing the Transmission Control Relay.
+
+
+
+                                   POSSIBLE CAUSES
+INTERMITTENT WIRING AND CONNECTORS
+TRANSMISSION CONTROL RELAY STUCK CLOSED
+TRANSMISSION CONTROL RELAY OUTPUT CIRCUIT SHORT TO VOLTAGE
+TRANSMISSION RELAY CONTROL CIRCUIT SHORT TO VOLTAGE
+TRANSMISSION CONTROL MODULE
+
+
+
+
+                                            367
+

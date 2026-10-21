@@ -1,0 +1,39 @@
+TRANSMISSION - 42RLE
+
+Symptom List:
+    P0882-TCM POWER INPUT LOW
+    P0888-RELAY OUTPUT ALWAYS OFF
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0882-TCM POWER INPUT LOW.
+
+
+When Monitored and Set Condition:
+
+     P0882-TCM POWER INPUT LOW
+     When Monitored:    Continuously
+     Set Condition: This DTC is set when less than 3 volts are present at the Transmission
+     Control Relay output circuits at the Transmission Control Module (TCM) when the TCM
+     is energizing the relay. Note: Due to the integration of the Powertrain and Transmission
+     Control Modules, the transmission part of the PCM has its own specific power and ground
+     circuits.
+
+     P0888-RELAY OUTPUT ALWAYS OFF
+     When Monitored:    Continuously
+     Set Condition: This code is set when less than 3 volts are present at the transmission
+     control relay output circuits at the Transmission Control Module when the TCM is
+     energizing the relay.
+
+
+
+                                   POSSIBLE CAUSES
+FUSED B+ CIRCUIT OPEN
+TRANSMISSION CONTROL RELAY GROUND CIRCUIT OPEN
+INTERMITTENT WIRING AND CONNECTORS
+
+
+
+
+                                            364
+

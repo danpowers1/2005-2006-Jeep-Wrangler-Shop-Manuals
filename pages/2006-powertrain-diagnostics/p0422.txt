@@ -1,0 +1,57 @@
+TRANSMISSION - 42RLE
+
+*BACKUP LAMPS INOPERATIVE — Continued
+
+ TEST                                        ACTION                                           APPLICABILITY
+  5     Turn the ignition off to the lock position.                                                All
+        CAUTION: Remove the Starter Relay. This will prevent the vehicle from
+        being started in gear.
+        Install the Transmission Simulator, Miller tool #8333 and the FWD Adapter Cable
+        kit, Miller tool #8333-1A.
+        Ignition on, engine not running.
+        Press the 9Reverse Light Test9 button on the Transmission Simulator while observing
+        the backup lamps.
+        Do either of the back-up lamps come on?
+
+                 Yes   → Go To     6
+                 No    → Go To    7
+
+  6     If there are no possible causes remaining, view repair.                                    All
+
+                 Repair
+                          Replace Transmission Range Sensor per the Service Information.
+                          Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                          TION TEST.
+
+  7     Remove the Backup Lamp bulb.                                                               All
+        Using a 12-volt test light connected to 12-volts, check the Backup Lamp Ground
+        circuit in the Backup Lamp socket.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+                 Yes   → Go To     8
+
+                 No    → Repair the Backup Lamp Ground circuit for an open or high
+                         resistance.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+  8     Turn the ignition off to the lock position.                                                All
+        Remove the Backup Lamp bulb.
+        Disconnect the Transmission TRS harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Backup Lamp Supply circuit from the Backup Lamp
+        Socket to the TRS harness connector.
+        Is the resistance above 5.0 ohms?
+
+                 Yes   → Repair the Backup Lamp Supply circuit for an open.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+                 No    → Go To     9
+
+
+
+
+                                                      414
+

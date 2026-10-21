@@ -1,0 +1,54 @@
+    CONNECTOR PINOUTS
+
+
+
+                                                 EVAP/PURGE SOLENOID - 2 WAY
+                        CAV          CIRCUIT                                  FUNCTION
+                         1    K70 20DB/BR            EVAP/PURGE SOL SIGNAL
+                         2    K52 20DB/WT            EVAP/PURGE SOL CONTROL
+
+
+
+
+                                               FUEL INJECTOR NO. 1 (2.4L) - 2 WAY
+                        CAV          CIRCUIT                                  FUNCTION
+                         1    F142 16PK/GY           ASD RELAY OUTPUT
+                         2    K11 16BR/YL            INJECTOR CONTROL NO. 1
+
+
+
+C
+O
+N
+N
+E
+C                                              FUEL INJECTOR NO. 1 (4.0L) - 2 WAY
+T                       CAV          CIRCUIT                                  FUNCTION
+O                        1    K334 18BR              ASD RELAY OUTPUT
+R                        2    K11 18BR/YL            INJECTOR CONTROL NO. 1
+
+
+P
+I
+N
+O
+U
+T
+S                                              FUEL INJECTOR NO. 2 (2.4L) - 2 WAY
+                        CAV          CIRCUIT                                  FUNCTION
+                         1    F142 16PK/GY           ASD RELAY OUTPUT
+                         2    K12 16BR/DB            INJECTOR CONTROL NO. 2
+
+
+
+
+                                               FUEL INJECTOR NO. 2 (4.0L) - 2 WAY
+                        CAV          CIRCUIT                                  FUNCTION
+                         1    K334 18BR              ASD RELAY OUTPUT
+                         2    K12 18BR/DB            INJECTOR CONTROL NO. 2
+
+
+
+
+                                     454
+

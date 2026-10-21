@@ -1,0 +1,46 @@
+                                                                          DRIVEABILITY - NGC
+
+P1593-SPEED CONTROL SWITCH NO.1 STUCK — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  6     Disconnect the C2 and C3 PCM harness connectors.                                         All
+        Measure the resistance between the (V37) S/C Signal circuit and the (K900) Sensor
+        ground circuit in the Speed Control harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Repair the short between the (V37) S/C Signal circuit and the
+                        (K900) Sensor ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+                No    → Go To    7
+
+  7     NOTE: The measurement must be taken from both Speed Control Switch                       All
+        harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K900) Sensor ground circuit from the Speed Control
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms for both measurements?
+
+                Yes   → Go To     8
+                No    → Repair the open in the (K900) Sensor ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  8     NOTE: Before continuing, check the PCM harness connector terminals for                   All
+        corrosion, damage or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+
+
+
+                                                    247
+

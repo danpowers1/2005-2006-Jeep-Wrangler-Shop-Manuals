@@ -1,0 +1,65 @@
+                                                                              DRIVEABILITY - NGC
+
+P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELATION -
+VACUUM LEAK DETECTED — Continued
+                                            POSSIBLE CAUSES
+RESISTANCE IN THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                         ACTION                                             APPLICABILITY
+  1     NOTE: Diagnose any TP Sensor or MAP Sensor component DTCs before                              All
+        continuing.
+        NOTE: If the P0501 - No Vehicle Speed Signal is set with this DTC, refer to
+        the P0501 diagnostics before continuing.
+        NOTE: The throttle plate and linkage should be free from binding and
+        carbon build up.
+        NOTE: Make sure the throttle plate is at the idle position.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+                 Yes   → Go To     2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     NOTE: This code is enabled on engines with a plastic intake manifold and is                   All
+        intended to shut down the engine if a large crack occurs.
+        NOTE: A large vacuum leak is most likely the cause of this DTC.
+        Inspect the Intake Manifold for leaks and cracks.
+        Inspect the Power Brake Booster for vacuum leaks.
+        Inspect the PCV system for proper operation or vacuum leaks.
+        Inspect the MAP Sensor for proper installation.
+        Were any vacuum leaks found?
+
+                 Yes   → Repair the vacuum leak as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     3
+
+  3     Start the engine.                                                                             All
+        With the DRBIIIt, monitor the MAP Sensor voltage.
+        Snap the throttle.
+        Does the MAP Sensor voltage vary from below 2.0 volts at idle to above 3.5 volts at
+        WOT.
+                 Yes   → Go To     4
+
+                 No    → Go To     11
+
+  4     Ignition on, engine not running.                                                              All
+        With the DRBIIIt, monitor the TP Sensor voltage while slowly depressing the
+        throttle pedal from closed to wide open throttle.
+        Does voltage start approximately at 0.8 of a volt and go above 3.5 volts with a smooth
+        transition?
+
+                 Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     5
+
+
+
+
+                                                       33
+

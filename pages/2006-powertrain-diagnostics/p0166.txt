@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0457-LOOSE FUEL FILL CAP
+
+
+
+When Monitored and Set Condition:
+
+        P0457-LOOSE FUEL FILL CAP
+        When Monitored: Engine Running. Cold start test. Fuel Level greater than 12%. Ambient
+        Temperature between 4°C and 32°C (39°F and 89°F) Close Loop fuel system. Test runs
+        when small leak test is maturing.
+        Set Condition: The PCM activates the EVAP Purge Solenoid to pull the EVAP system into
+        a vacuum to close the NVLD switch. Once the NVLD switch is closed, the PCM turns the
+        EVAP Purge Solenoid off to seal the EVAP system. If the NVLD switch reopens before the
+        calibrated amount of time after a fuel tank fill, an error is detected. Two Trip Fault. Three
+        good trips to turn off the MIL.
+
+
+
+                                              POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VEHICLE HISTORY AND SERVICE BULLETIN INVESTIGATION
+LOOSE OR MISSING FUEL FILL CAP
+NVLD SERVICE TEST
+VERIFY EVAPORATIVE EMISSION SYSTEM LEAK
+EVAP PURGE SOLENOID OPERATION
+LEAK AT GAS CAP
+GAS CAP
+NVLD
+
+ TEST                                           ACTION                                             APPLICABILITY
+   1      Start by reading PCM DTC(s) and record the related Freeze Frame data in any                   All
+          DTC(s) are present.
+          Check the vehicle repair history.
+          If the vehicle has a repair history that pertains to the customer’s current complaint,
+          review the repair.
+          Inspect the vehicle for any aftermarket accessories that may have been installed
+          incorrectly.
+          Check for any service bulletin(s) related to the customer’s complaint or DTC(s).
+          If a service bulletin applies, follow the instructions per service bulletin.
+          Did the service bulletin repair the customer’s complaint?
+
+                   Yes   → Testing Complete.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                   No    → Go To     2
+
+
+
+
+                                                         158
+

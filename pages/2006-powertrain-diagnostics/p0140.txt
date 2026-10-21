@@ -1,0 +1,57 @@
+DRIVEABILITY - NGC
+
+P0420-CATALYST 1/1 EFFICIENCY — Continued
+
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+VISUALLY INSPECT CATALYTIC CONVERTER
+EXHAUST LEAK
+ENGINE MECHANICAL CONDITION
+AGING O2 SENSOR
+CATALYTIC CONVERTER
+
+ TEST                                        ACTION                                            APPLICABILITY
+  1     NOTE: A new rear O2 Sensor along with an aging front O2 Sensor may cause                    All
+        the DTC to set. Review the repair history of the vehicle before continuing.
+        NOTE: If a O2 Sensor DTC(s) set along with the Catalytic Converter
+        Efficiency DTC diagnose the O2 Sensor DTC(s) before continuing.
+        NOTE: Check for contaminants that may have damaged the O2 Sensor and
+        Catalytic Converter: contaminated fuel, unapproved silicone, oil and cool-
+        ant, repair necessary.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+                 Yes   → Go To    2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  2     Inspect the Catalytic Converter for the following damage.                                   All
+        Damage Catalytic Converter, dent and holes.
+        Severe discoloration caused by overheating the Catalytic Converter.
+        Catalytic Converter broke internally.
+        Leaking Catalytic Converter.
+        Were any problems found?
+
+                 Yes   → Replace the Catalytic Converter. Repair the condition that may
+                         have caused the failure.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    3
+
+  3     Start the engine.                                                                           All
+        Inspect the exhaust for leak between the engine and the O2 Sensor.
+        Inspect the exhaust for leaks between the engine and the appropriate rear O2 Sensor.
+        Are there any exhaust leaks?
+                 Yes   → Repair or replace the leaking exhaust parts as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    4
+
+
+
+
+                                                     132
+

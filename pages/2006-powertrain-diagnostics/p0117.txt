@@ -1,0 +1,62 @@
+                                                                           DRIVEABILITY - NGC
+
+P0300-MULTIPLE CYLINDER MISFIRE — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  13    Turn the ignition off.                                                                    All
+        Warning: The fuel system is under a constant pressure (even with the engine
+        off). Before testing or servicing any fuel system hose,fitting or line, the fuel
+        system pressure must be released.
+        Remove the Fuel Pump Module and inspect the Fuel Inlet Strainer.
+        Is the Fuel Inlet Strainer plugged?
+                 Yes   → Replace the Fuel Pump Inlet Strainer.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → NOTE: Before continuing, check the Fuel Pump Module harness
+                         connector terminals for corrosion, damage, or terminal push out.
+                         Ensure the ground circuit is operating properly. Repair as neces-
+                         sary. Replace the Fuel Pump Module.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  14    Disconnect the Ignition Coil harness connector.                                           All
+        Remove the Fuel Pump Relay or ASD Relay.
+        Using a 12-volt test light connected to 12-volts, probe the Ignition Coil Control
+        circuit.
+        Crank the engine for 5 second while observing the test light.
+        NOTE: The resistance of the primary Ignition Coil on a 3.7L is 0.6 to 0.9 of an
+        ohm at 77°F (25°C).
+        Does the test light brightly blink/flicker?
+
+                 Yes   → Replace the Ignition Coil.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    15
+
+  15    Turn the ignition off.                                                                    All
+        Disconnect the C2 PCM harness connector.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Check the Coil Control circuit for an open, short to ground, and short to voltage.
+        Was a problem found with the Coil Control circuit?
+                 Yes   → Repair the Coil Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To    16
+
+  16    NOTE: Before continuing, check the PCM harness connector terminals for                    All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                          Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     109
+

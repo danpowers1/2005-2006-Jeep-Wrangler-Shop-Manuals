@@ -1,0 +1,54 @@
+                                       CONNECTOR PINOUTS
+
+
+
+
+                        OXYGEN SENSOR (COMPONENT SIDE) - 4 WAY
+CAV           CIRCUIT                                     FUNCTION
+ 1                  -             GROUND
+ 2                  -             AUTOMATIC SHUT DOWN RELAY OUTPUT
+ 3                  -             OXYGEN SENSOR GROUND
+ 4                  -             OXYGEN SENSOR SIGNAL
+
+
+
+
+                        OXYGEN SENSOR 1/1 UPSTREAM (2.4L) - 4 WAY
+CAV           CIRCUIT                                     FUNCTION   C
+ 1    K99 18BR/LG (EXCEPT         O2 1/1 HEATER CONTROL              O
+      MAN 6 SPD TRANS)
+                                                                     N
+ 1    K99 20BR/LG (MAN 6 SPD      O2 1/1 HEATER CONTROL
+      TRANS)                                                         N
+ 2    Z42 18BK/LG (EXCEPT         GROUND                             E
+      MAN 6 SPD TRANS)                                               C
+ 2    Z42 20BK/LG (MAN 6 SPD      GROUND                             T
+      TRANS)
+                                                                     O
+ 3    K902 18BR/DG (EXCEPT        O2 RETURN (UPSTREAM)
+      MAN 6 SPD TRANS)                                               R
+ 3    K902 20BR/DG (MAN 6         O2 RETURN (UPSTREAM)
+      SPD TRANS)                                                     P
+ 4    K41 18DB/LB (EXCEPT         O2 1/1 SIGNAL                      I
+      MAN 6 SPD TRANS)
+                                                                     N
+ 4    K41 20DB/LB (MAN 6 SPD      O2 1/1 SIGNAL
+      TRANS)                                                         O
+                                                                     U
+                                                                     T
+                                                                     S
+
+
+
+                        OXYGEN SENSOR 1/1 UPSTREAM (4.0L) - 4 WAY
+CAV           CIRCUIT                                     FUNCTION
+ 1    K99 18BR/LG                 O2 1/1 HEATER CONTROL
+ 2    Z42 18BK/LG                 GROUND
+ 3    K902 18BR/DG                O2 RETURN (UPSTREAM)
+ 4    K41 18DB/LB                 O2 1/1 SIGNAL
+
+
+
+
+             459
+

@@ -1,0 +1,21 @@
+TRANSMISSION - 42RLE
+
+*BACKUP LAMPS COME ON WHILE SHIFTER IS NOT IN REVERSE
+POSITION — Continued
+ TEST                                       ACTION                                            APPLICABILITY
+  4     The condition is not present at this time.                                                 All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                         TION TEST.
+
+                 No    → Test Complete.
+
+
+
+
+                                                     412
+

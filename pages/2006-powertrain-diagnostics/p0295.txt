@@ -1,0 +1,63 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0706-CHECK SHIFTER SIGNAL — Continued
+
+ TEST                                        ACTION                                          APPLICABILITY
+  4     Turn the ignition off to the lock position.                                               All
+        CAUTION: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Ignition on, engine not running.
+        With the DRBIIIt, perform the Shift Lever Position Test.
+        When the DRBIII t instructs you to put the Gear Selector in a particular position,
+        you must do so using the Transmission Simulator. The LED for the gear position in
+        question must be illuminated prior to hitting 9enter9 on the DRBIIIt.
+        Did the test pass?
+
+                 Yes   → Go To     5
+
+                 No    → Go To    6
+        NOTE: Disconnect the Transmission Simulator and reconnect all the har-
+        ness connectors.
+
+  5     If there are no possible causes remaining, view repair.                                   All
+
+                 Repair
+                          Replace the Transmission Range Sensor per the Service Informa-
+                          tion.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  6     Ignition on, engine not running.                                                          All
+        With the DRBIIIt in Inputs/Outputs, read the TRS Sense circuits C1 thru C4.
+        Move the shift lever thru all gear positions, pausing momentarily in each gear
+        position. Watch for one of the circuits to not change state.
+        Pick the one that did not change state.
+                 TRS T1 sense (C4)
+                         Go To 7
+                 TRS T3 sense (C3)
+                         Go To 10
+                 TRS T41 sense (C1)
+                         Go To 13
+                 TRS T42 sense (C2)
+                         Go To 16
+
+  7     Turn the ignition off to the lock position.                                               All
+        Disconnect the TRS harness connector.
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the TRS T1 Sense circuit from the TCM harness connector
+        to the TRS harness connector.
+        Is the resistance above 5.0 ohms?
+
+                 Yes   → Repair the TRS T1 Sense circuit for an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To     8
+
+
+
+
+                                                      287
+

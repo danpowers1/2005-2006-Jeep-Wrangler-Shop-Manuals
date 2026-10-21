@@ -1,0 +1,62 @@
+DRIVEABILITY - NGC
+
+P0453-NVLD PRESSURE SWITCH STUCK OPEN — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  2     Check for any related TSBs before continuing.                                            All
+        Start the engine.
+        Allow the engine to idle.
+        Using the DRBIIIt, perform the NVLD FORCED MONITOR TEST.
+        Monitor the NVLD Switch state.
+        NOTE: As the test runs, the NVLD Switch should go from an OPEN state to
+        a CLOSED state and then return to OPEN when the test is complete.
+        Did the NVLD Switch operate as described above?
+
+                Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                        tic Procedure).
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    3
+
+  3     Turn the ignition off.                                                                   All
+        Disconnect the NVLD electrical harness connector.
+        Ignition on, engine not running.
+        Monitor the NVLD Switch state on the DRBIIIt.
+        Connect a jumper wire between the (K107) NVLD Switch Signal circuit and the
+        (Z913) Ground circuit in the NVLD harness connector.
+        Does the Switch change from OPEN to CLOSED?
+                Yes   → Replace the NVLD Assembly.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    4
+        NOTE: Remove the jumper wire before continuing.
+
+  4     Turn the ignition off.                                                                   All
+        Disconnect the C3 PCM harness connector.
+        Ignition on, engine not running.
+        Measure the voltage on the (K107) NVLD Switch Signal circuit in the NVLD
+        electrical harness connector.
+        Is the voltage above 5.3 volts?
+
+                Yes   → Repair short to voltage in the (K107) NVLD Switch Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    5
+
+  5     Turn the ignition off.                                                                   All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K107) NVLD Switch Signal circuit from the NVLD
+        electrical harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To    6
+                No    → Repair the open in the (K107) NVLD Switch Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    146
+

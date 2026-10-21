@@ -1,0 +1,51 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P0135-O2 SENSOR 1/1 HEATER PERFORMANCE
+    P0141-O2 SENSOR 1/2 HEATER PERFROMANCE
+    P0155-O2 SENSOR 2/1 HEATER PERFORMANCE
+    P0161-O2 SENSOR 2/2 HEATER PERFORMANCE
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0135-O2 SENSOR 1/1 HEATER
+             PERFORMANCE.
+
+
+When Monitored and Set Condition:
+
+     P0135-O2 SENSOR 1/1 HEATER PERFORMANCE
+     When Monitored: Engine running and heater duty cycle greater than 0%. ASD Relay is
+     energized. Battery voltage greater than 10.4 volts.
+     Set Condition: No sensor output is received when the PCM powers up the sensor heater.
+     O2 heater is out of control for 128 seconds after it has reached 300 deg C. Two trip fault
+
+     P0141-O2 SENSOR 1/2 HEATER PERFROMANCE
+     When Monitored: Engine running and heater duty cycle greater than 0%. ASD Relay is
+     energized. Battery voltage greater than 10.4 volts.
+     Set Condition: No sensor output is received when the PCM powers up the sensor heater.
+     O2 heater is out of control for 128 seconds after it has reached 350 deg C. Two trip fault.
+
+     P0155-O2 SENSOR 2/1 HEATER PERFORMANCE
+     When Monitored: Engine running and heater duty cycle greater than 0%. ASD Relay is
+     energized. Battery voltage greater than 10.4 volts.
+     Set Condition: No sensor output is received when the PCM powers up the sensor heater.
+     O2 heater is out of control for 128 seconds after it has reached 300 deg C. Two trip fault.
+
+     P0161-O2 SENSOR 2/2 HEATER PERFORMANCE
+     When Monitored: Engine running and heater duty cycle greater than 0%. ASD Relay is
+     energized. Battery voltage greater than 10.4 volts.
+     Set Condition: No sensor output is received when the PCM powers up the sensor heater.
+     O2 heater is out of control for 128 seconds after it has reached 350 deg C. Two trip fault.
+
+
+
+                                    POSSIBLE CAUSES
+O2 SENSOR HEATER OPERATION
+O2 HEATER ELEMENT
+O2 HEATER CONTROL CIRCUIT OPEN
+O2 HEATER GROUND CIRCUIT OPEN
+
+
+                                             86
+

@@ -1,0 +1,55 @@
+                                                                            DRIVEABILITY - NGC
+
+P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELATION -
+VACUUM LEAK DETECTED — Continued
+ TEST                                       ACTION                                             APPLICABILITY
+  9     Measure the resistance between ground and the (K22) TP Sensor No.1 Signal circuit           All
+        at the TP Sensor harness connector.
+        Is the resistance above 100k ohms?
+
+                Yes   → Go To     10
+
+                No    → Repair the short to ground in the (K22) TP Sensor No.1 Signal
+                        circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  10    CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING                                   All
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K900) Sensor ground circuit from the TP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To     17
+                No    → Repair the excessive resistance in the (K900) Sensor Ground
+                        circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  11    Turn the ignition off.                                                                      All
+        Disconnect the MAP Sensor harness connector.
+        Disconnect the C1 and C2 PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (F856) 5-volt Supply circuit from the MAP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To     12
+
+                No    → Repair the excessive resistance in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  12    Measure the resistance between ground and the (F856) 5-volt Supply circuit at the           All
+        MAP Sensor harness connector.
+        Is the resistance above 100k ohms?
+                Yes   → Go To     13
+
+                No    → Repair the short to ground in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                      35
+

@@ -1,0 +1,56 @@
+DRIVEABILITY - NGC
+
+P0172-FUEL SYSTEM 1/1 RICH — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  9     Turn the ignition off.                                                                      All
+        Disconnect the hoses at the Evap Purge Solenoid.
+        Using a hand vacuum pump, apply 10 inches of vacuum to the Evap Purge Solenoid
+        vacuum source port on the component side.
+        Did the Evap Purge Solenoid hold vacuum?
+                 Yes   → Go To    10
+
+                 No    → Replace the EVAP Purge Solenoid.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+        NOTE: Connect the vacuum hoses before continuing.
+
+  10    Check for any of the following conditions/mechanical problems.                              All
+        AIR INDUCTION SYSTEM - must be free from restrictions.
+        ENGINE VACUUM - must be at least 13 inches in neutral
+        ENGINE VALVE TIMING - must be within specifications
+        ENGINE COMPRESSION - must be within specifications
+        ENGINE EXHAUST SYSTEM - must be free of any restrictions or leaks.
+        ENGINE PCV SYSTEM - must flow freely
+        TORQUE CONVERTER STALL SPEED - must be within specifications
+        POWER BRAKE BOOSTER - no internal vacuum leaks
+        FUEL - must be free of contamination
+        FUEL INJECTOR - plugged or restricted injector; control wire not connected to
+        correct injector
+        Are there any engine mechanical problems?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    14
+
+  11    Ignition on, engine not running.                                                            All
+        NOTE: Perform the following test on the O2 Sensors whose voltage was not
+        switching properly in the previous step.
+        Disconnect the O2 Sensor harness connector.
+        With the DRBIIIt, monitor the O2 Sensor voltage.
+        O2 Sensor voltage should read 5.0 volts on the DRBIIIt with the connector
+        disconnected.
+        Connect a jumper wire between the O2 Signal circuit and the O2 Return circuit in the
+        O2 Sensor harness connector.
+        NOTE: The voltage should drop from 5.0 volts down to 2.5 volts with the
+        jumper wire connected.
+        Did the O2 Sensor voltage drop from 5.0 volts to 2.5 volts?
+                 Yes   → Replace the O2 Sensor
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To    12
+
+        NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      98
+

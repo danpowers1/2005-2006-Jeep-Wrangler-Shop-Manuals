@@ -1,0 +1,40 @@
+                                                                          DRIVEABILITY - NGC
+
+P0581-SPEED CONTROL SWITCH NO.1 HIGH — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  7     Measure the resistance of the (V37) S/C Switch Signal circuit from the upper             All
+        Clockspring harness connector to the On/Off switch harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     8
+
+                No    → Repair the open in the (V37) S/C Switch Signal circuit, Clock-
+                        spring to S/C Switch.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  8     Measure the resistance of the (K900) Sensor ground circuit from the On/Off Switch        All
+        2-way harness connector to the upper Clockspring harness connector.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     9
+
+                No    → Repair the open in the (K900) Sensor ground circuit between the
+                        Clockspring and S/C Switch.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+  9     NOTE: Before continuing, check the PCM harness connector terminals for                   All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If the there are no possible causes remaining, view repair.
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 4.
+
+
+
+
+                                                    215
+

@@ -1,0 +1,42 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0883-TCM POWER INPUT HIGH — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  5     Turn the ignition off to the lock position.                                                All
+        Remove the Transmission Control Relay from the PDC.
+        Ignition on, engine not running.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the voltage of the Transmission Relay Control circuit in the PDC connector.
+        Is the voltage above 0.5 volt?
+                 Yes   → Repair Transmission Relay Control Circuit for a short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    6
+
+  6     Using the schematics as a guide, inspect the wiring and connectors. Repair as              All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+  7     The conditions necessary to set this DTC are not present at this time.                     All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Test Complete.
+
+
+
+
+                                                     369
+

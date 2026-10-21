@@ -1,0 +1,60 @@
+                                                                            DRIVEABILITY - NGC
+
+Symptom:
+    P0107-MAP SENSOR CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0107-MAP SENSOR CIRCUIT LOW
+        When Monitored:       Engine speed greater than 250 RPM. Battery voltage greater than 10.3
+        volts.
+        Set Condition:    The MAP sensor signal voltage is below 0.08 of a volt for 1.7 seconds. One
+        Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+MAP SENSOR VOLTAGE BELOW 0.08 OF A VOLT
+(F856) 5-VOLT SUPPLY CIRCUIT OPEN
+(F856) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+MAP SENSOR
+(K1) MAP SIGNAL CIRCUIT SHORTED TO GROUND
+(K1) MAP SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          With the DRBIIIt, read the MAP Sensor voltage.
+          Is the voltage below 0.08 of a volt?
+
+                  Yes    → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the MAP Sensor harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (F856) 5-volt Supply circuit at the MAP Sensor harness
+          connector.
+          Is the voltage between 4.5 to 5.2 volts?
+                  Yes    → Go To    3
+
+                  No    → Go To    6
+
+   3      With the DRBIIIt, monitor the MAP Sensor voltage with the Sensor harness                 All
+          connector disconnected.
+          Is the voltage above 1.2 volts?
+
+                  Yes    → Replace the MAP Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    4
+
+
+                                                      45
+

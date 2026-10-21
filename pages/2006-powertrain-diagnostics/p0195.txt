@@ -1,0 +1,53 @@
+                                                                          DRIVEABILITY - NGC
+
+P0509-IAC VALVE SIGNAL CIRCUIT HIGH — Continued
+
+ TEST                                      ACTION                                        APPLICABILITY
+  3     With the DRBIIIt, actuate the ASD Relay.                                              All
+        Measure the voltage on the (K961) IAC Signal circuit in the IAC Motor harness
+        connector.
+        Is the voltage above 0.5 of a volt?
+
+                Yes   → Repair the short to voltage in the (K961) IAC Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    4
+
+  4     Measure the voltage on the (K61) IAC Control circuit in the IAC Motor harness         All
+        connector.
+        Is the voltage above 0.5 of a volt?
+
+                Yes   → Repair the short to voltage in the (K61) IAC Control circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    5
+
+        NOTE: Stop the ASD Relay actuation before continuing.
+
+  5     Turn the ignition off.                                                                All
+        Disconnect the C2 PCM harness connector.
+        Measure the resistance across the (K961) IAC Signal circuit and the (K61) IAC
+        Control circuit in the IAC Motor harness connector.
+        Is the resistance below 5.0 ohms?
+                Yes   → Repair the short between the (K61) IAC Control circuit and the
+                        (K961) IAC Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    6
+
+  6     NOTE: Before continuing, check the PCM harness connector terminals for                All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace and program the Powertrain Control Module per Service
+                         Information.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    187
+

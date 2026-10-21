@@ -1,0 +1,63 @@
+TRANSMISSION - 42RLE
+
+P1684-BATTERY WAS DISCONNECTED — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  2     Turn ignition off to the lock position.                                                       All
+        Disconnect the TCM harness connector.
+        Ignition on, engine not running.
+        Measure the voltage of the Fused B+ circuit in the TCM harness connector.
+        Is the voltage below 10.0 volts?
+                 Yes   → Go To     3
+
+                 No    → Go To     5
+
+  3     Turn the ignition off to the lock position.                                                   All
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, check the Fused B+ circuit in the TCM
+        harness connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+                 Yes   → Go To     4
+
+                 No    → Repair the Fused B+ circuit for an open or high resistance. If the
+                         fuse is open make sure to check for a short to ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  4     Turn ignition off to the lock position.                                                       All
+        Disconnect the TCM harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Using a 12-volt test light connected to 12-volts, check all the ground circuits in the
+        TCM harness connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the light illuminate brightly at all the ground circuits?
+                 Yes   → Test Complete.
+                 No    → Repair the Ground circuit(s) as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  5     Has the battery been disconnected, lost it’s charge, or been replaced recently?               All
+                 Yes   → This is the cause of the DTC. Erase the DTC and return the
+                         vehicle to the customer.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To     6
+
+  6     Has the Quick Learn procedure been performed?                                                 All
+                 Yes   → This is the cause of the DTC. Erase the DTC and return the
+                         vehicle to the customer.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To     7
+
+
+
+
+                                                       388
+

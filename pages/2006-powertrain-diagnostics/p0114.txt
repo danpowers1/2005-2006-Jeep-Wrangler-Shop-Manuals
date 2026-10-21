@@ -1,0 +1,59 @@
+DRIVEABILITY - NGC
+
+P0300-MULTIPLE CYLINDER MISFIRE — Continued
+
+ TEST                                      ACTION                                           APPLICABILITY
+  4     Turn the ignition off.                                                                   All
+        Remove the Ignition Coil.
+        Connect the Ignition Coil harness connector.
+        NOTE Before continuing, inspect the Ignition Coil for the following condi-
+        tions. If a problem is found, replace the Ignition Coil. Damage or Carbon
+        Tracking on the Coil or the spark plug insulator boot.
+        Install a spark tester on the Ignition Coil.
+        While cranking the engine observe the spark coming from the spark tester.
+        NOTE: A crisp blue spark that is able to jump the gap of the spark tester
+        should be generated.
+        Is good spark present?
+
+                Yes   → Go To     5
+
+                No    → Go To    14
+        NOTE: Connect the Fuel Injector harness connector before continuing.
+
+  5     Turn the ignition off.                                                                   All
+        Remove the Spark Plug.
+        Inspect the Spark Plug for the following conditions.
+        - Cracks
+        - Carbon Tracking
+        - Foreign Material
+        - Gap size out of specifications
+        - Loose or broke electrode
+        NOTE: Lightly tap the bottom of the spark plug on a solid surface. The
+        electrode in the spark plug should not move.
+        Were any of the above condition present?
+                Yes   → Replace the Spark Plug.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    6
+
+  6     Warning: The fuel system is under a constant pressure (even with the engine              All
+        off). Before testing or servicing any fuel system hose, fitting or line, the fuel
+        system pressure must be released.
+        Install a fuel pressure gauge.
+        Start the engine and observe the fuel pressure reading.
+        NOTE: Fuel pressure specification is 407 KPa +/- 34 KPa (59 psi +/- 5 psi).
+        Choose a conclusion that best matches your fuel pressure reading.
+                Within Specification
+                        Go To 7
+
+                Below Specification
+                        Go To 12
+
+                Above Specification
+                        Replace the fuel filter/pressure regulator.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    106
+

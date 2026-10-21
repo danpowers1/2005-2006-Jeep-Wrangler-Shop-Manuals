@@ -1,0 +1,52 @@
+DRIVEABILITY - NGC
+
+Symptom List:
+    P1696-PCM FAILURE EEPROM WRITE DENIED
+    P1697-PCM FAILURE SRI MILES NOT STORED
+
+
+Test Note:       All symptoms listed above are diagnosed using the same tests.
+                 The title for the tests will be P1696-PCM FAILURE EEPROM
+                 WRITE DENIED.
+
+
+When Monitored and Set Condition:
+
+        P1696-PCM FAILURE EEPROM WRITE DENIED
+        When Monitored:      Ignition key on, Continuous.
+        Set Condition: An attempt to program/write to the internal EEPROM failed, Also checks
+        at powerdown.
+
+        P1697-PCM FAILURE SRI MILES NOT STORED
+        When Monitored:      Ignition key on, Continuous.
+        Set Condition: An attempt to program/write to the internal EEPROM failed, Also checks
+        at powerdown.
+
+
+
+                                          POSSIBLE CAUSES
+DRB DISPLAYS WRITE FAILURE
+DRB DISPLAYS WRITE REFUSED 2ND TIME
+DRB DISPLAYS SRI MILEAGE INVALID
+COMPARE SRI MILEAGE WITH ODOMETER
+
+ TEST                                       ACTION                                        APPLICABILITY
+   1      With the DRBIIIt, perform the SRI Memory Test.                                       All
+          Does the DRBIIIt display Write Failure?
+
+                  Yes   → Replace and program the Powertrain Control Module per Service
+                          Information.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 1.
+                  No    → Go To    2
+
+   2      With the DRBIIIt, perform the SRI Memory Test.                                       All
+          Does the DRBIIIt display Write Refused?
+                  Yes   → Go To    3
+
+                  No    → Go To    4
+
+
+
+
+                                                    250
+

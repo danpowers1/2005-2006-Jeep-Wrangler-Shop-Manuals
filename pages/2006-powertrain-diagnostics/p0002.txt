@@ -1,0 +1,58 @@
+                          TABLE OF CONTENTS - Continued
+5.0   REQUIRED TOOLS AND EQUIPMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+6.0   ACRONYMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+      6.1     DEFINITIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .19
+
+7.0   DIAGNOSTIC INFORMATION AND PROCEDURES . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+
+      DRIVEABILITY - NGC
+      INTERMITTENT CONDITION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+      P0016-CRANKSHAFT/CAMSHAFT TIMING MISALIGNMENT. . . . . . . . . . . . . . . . . . . .23
+      P0031-O2 SENSOR 1/1 HEATER CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+      P0037-O2 SENSOR 1/2 HEATER CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+      P0051-O2 SENSOR 2/1 HEATER CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+      P0057-O2 SENSOR 2/2 HEATER CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+      P0032-O2 SENSOR 1/1 HEATER CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+      P0038-O2 SENSOR 1/2 HEATER CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+      P0052-O2 SENSOR 2/1 HEATER CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+      P0058-O2 SENSOR 2/2 HEATER CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .29
+      P0068-MANIFOLD PRESSURE/THROTTLE POSITION CORRELATION - VACUUM
+      LEAK DETECTED . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .32
+      P2074-MAP SENSOR/TP SENSOR CORRELATION - VACUUM LEAK DETECTED .32
+      P0071-AMBIENT TEMP SENSOR PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . . .38
+      P0072-AMBIENT TEMP SENSOR CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .41
+      P0073-AMBIENT TEMP SENSOR CIRCUIT HIGH . . . . . . . . . . . . . . . . . . . . . . . . . . . . .43
+      P0107-MAP SENSOR CIRCUIT LOW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .45
+      P0108-MAP SENSOR CIRCUIT HIGH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .47
+      P0111-INTAKE AIR TEMPERATURE SENSOR PERFORMANCE . . . . . . . . . . . . . . . . .49
+      P0112-INTAKE AIR TEMPERATURE SENSOR CIRCUIT LOW . . . . . . . . . . . . . . . . . . .52
+      P0113-INTAKE AIR TEMPERATURE SENSOR CIRCUIT HIGH . . . . . . . . . . . . . . . . . .54
+      P0116-ENGINE COOLANT TEMPERATURE CIRCUIT PERFORMANCE. . . . . . . . . . .56
+      P0117-ENGINE COOLANT TEMPERATURE SENSOR CIRCUIT LOW . . . . . . . . . . . .59
+      P0118-ENGINE COOLANT TEMPERATURE SENSOR CIRCUIT HIGH . . . . . . . . . . . .61
+      P0122-THROTTLE POSITION SENSOR NO.1 LOW . . . . . . . . . . . . . . . . . . . . . . . . . . .63
+      P0123-THROTTLE POSITION SENSOR NO.1 HIGH. . . . . . . . . . . . . . . . . . . . . . . . . . .66
+      P0125-INSUFFICIENT COOLANT TEMP FOR CLOSED-LOOP FUEL CONTROL . . .69
+      P0128-THERMOSTAT RATIONALITY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .71
+      P0129-BAROMETRIC PRESSURE OUT-OF-RANGE . . . . . . . . . . . . . . . . . . . . . . . . . .76
+      P0131-O2 SENSOR 1/1 CIRCUIT LOW VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .79
+      P0137-O2 SENSOR 1/2 CIRCUIT LOW VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .79
+      P0151-O2 SENSOR 2/1 CIRCUIT LOW VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .79
+      P0157-O2 SENSOR 2/2 CIRCUIT LOW VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .79
+      P0132-O2 SENSOR 1/1 CIRCUIT HIGH VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+      P0138-O2 SENSOR 1/2 CIRCUIT HIGH VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+      P0152-O2 SENSOR 2/1 CIRCUIT HIGH VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+      P0158-O2 SENSOR 2/2 CIRCUIT HIGH VOLTAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . .81
+      P0133-O2 SENSOR 1/1 SLOW RESPONSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .84
+      P0139-O2 SENSOR 1/2 SLOW RESPONSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .84
+      P0153-O2 SENSOR 2/1 SLOW RESPONSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .84
+      P0159-O2 SENSOR 2/2 SLOW RESPONSE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .84
+      P0135-O2 SENSOR 1/1 HEATER PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . . .86
+      P0141-O2 SENSOR 1/2 HEATER PERFROMANCE . . . . . . . . . . . . . . . . . . . . . . . . . . .86
+      P0155-O2 SENSOR 2/1 HEATER PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . . . . . .86
+
+
+                                                                ii
+

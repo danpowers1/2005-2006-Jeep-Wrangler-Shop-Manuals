@@ -1,0 +1,58 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0071-AMBIENT TEMP SENSOR PERFORMANCE
+
+
+
+When Monitored and Set Condition:
+
+        P0071-AMBIENT TEMP SENSOR PERFORMANCE
+        When Monitored: Engine off time is greater than 480 minutes and Ambient Temperature
+        is greater than 4 deg C (39 deg F).
+        Set Condition: After a calibrated amount of cool down time, the PCM compares the ECT
+        Sensor, IAT Sensor and the Ambient Air Temperature Sensor values. The Ambient Air
+        Temperature Sensor value is not within -10 deg C (18 deg F) of the other two temperature
+        sensor’s. Two Trip Fault.
+
+
+
+                                             POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(G31) AAT SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+AAT SENSOR
+(G31) AAT SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+(G31) AAT SIGNAL CIRCUIT SHORTED TO GROUND
+(G31) AAT SIGNAL CIRCUIT SHORTED TO (K900) SENSOR GROUND
+PCM
+
+ TEST                                          ACTION                                            APPLICABILITY
+   1      Ignition on, engine not running.                                                            All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      NOTE: Visually inspect both the component and the PCM connectors. Look                      All
+          for damage, partially broken wires and backed out or corroded terminals
+          Turn the ignition off.
+          Disconnect the C1 and C2 PCM harness connectors.
+          Disconnect the Ambient Temp Sensor harness connector.
+          Ignition on, engine not running.
+          Using a 12-volt test light connected to ground probe the (G31) AAT Signal circuit at
+          the Ambient Temp Sensor harness connector.
+          Does the test light illuminate brightly?
+                   Yes   → Repair the short to voltage in the (G31) AAT Signal circuit.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To    3
+
+
+
+                                                        38
+

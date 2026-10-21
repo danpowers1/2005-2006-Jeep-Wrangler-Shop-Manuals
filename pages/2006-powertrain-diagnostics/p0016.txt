@@ -1,0 +1,59 @@
+GENERAL INFORMATION
+  This diagnostic test can take at least a week to          2. Purge Flow:
+mature a leak fault. A week has been chosen for this          The above rationality check is considered suffi-
+because the vehicle will have been exposed to the           cient to confirm purge solenoid function and con-
+largest possible drive scenarios before a decision is       formance with the purge flow test requirement. The
+made (most vehicles should see both daily work and          Purge Flow Monitor is passed based on switch
+weekend driving cycles). This also satisfies CARB’s         activity when purge is turned on or based on a rich
+stated goal of getting 3 MIL illuminations within a         fuel control shift when purge is turned on.
+month for 0.0209 (0.5 mm) leak detection diagnostic.
+                                                            Medium and Large Leak Test (Intrusive)
+  The diagnostics will log engine run time and
+engine off time to determine when a week has                NOTE: This intrusive test will only be run if
+elapsed. There is a limit on the total amount of run        the Small Leak (passive) test fails, or is
+time that is applied to the one-week timer. There is
+                                                            inconclusive (the switch does not close)
+also a limit on the total soak time that will be
+                                                              Enabling Conditions:
+allowed to apply to the one-week timer. There will
+be a limit on the amount of accrued run time during         • 40 °F to 90 °F
+one specific drive that can be applied to the one-          • Engine temperature at startup within 10 °F of
+week timer.                                                   the ambient temperature
+  The enabling criteria to run this monitor are:            • Fuel level less than 85%
+• Fuel level less than 85%                                    The intrusive Medium and Large leak are con-
+• Ambient temperature greater than 40 °F (4.4 °C)           ducted as follows:
+                                                            • De-energize the NVLD solenoid to seal the can-
+Rationality Tests
+                                                              ister vent.
+1. The rationality check of the switch, solenoid and
+seal will be performed as follows:                          • Activate purge shortly after closed loop. Pull the
+                                                              tank vacuum past the vacuum switch point (19
+• At key-on, the NVLD solenoid will be energized to
+                                                              H2O vacuum) of the NVLD for a specific time
+   vent any vacuum that may be trapped in the
+                                                              while tracking the standard purge flow rate.
+   evaporative system from the previous soak. This
+   should result in an open switch condition.               • Turn purge off and determine how long it takes to
+                                                              decay the tank vacuum and reopen the switch.
+• The solenoid will be de-energized (to seal the
+                                                              Determine the leak size from the time it took to
+  system) at the point where purge begins. The
+                                                              reopen the switch. Note: Fuel level is an impor-
+  system / NVLD component rationality passes for
+                                                              tant determining factor.
+  that drive cycle if the switch closes after purge
+  begins.                                                   • If the switch does not close, a more aggressive
+                                                              purge flow will be applied to determine if it is a
+• The solenoid is then re-energized for the remain-
+                                                              very large leak, missing fuel cap, problem with
+  der of the drive cycle.
+                                                              the NVLD device, purge flow problem, etc...
+• If the switch events are not seen in a certain
+  period of time, the rationality check will have
+  failed (2 trip rule).
+
+
+
+
+                                                        8
+

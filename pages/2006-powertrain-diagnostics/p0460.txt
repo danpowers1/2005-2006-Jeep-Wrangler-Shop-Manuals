@@ -1,0 +1,75 @@
+    CONNECTOR PINOUTS
+                                                   C182 (2.4L) - BLACK (ENGINE SIDE)
+                                                      CAV               CIRCUIT
+                                                       1                   -
+                                                       2                   -
+                                                       3      K61 18VT/GY (EXCEPT MAN
+                                                              6 SPD TRANS)
+                                                       3      K61 20VT/GY (MAN 6 SPD
+                                                              TRANS)
+                                                       4      K961 18BR/VT (EXCEPT
+                                                              MAN 6 SPD TRANS)
+                                                       4      K961 20BR/VT (MAN 6 SPD
+                                                              TRANS)
+                                                       5      K21 18DB/LG (EXCEPT
+                                                              MAN 6 SPD TRANS)
+                                                       5      K21 20DB/LG (MAN 6 SPD
+                                                              TRANS)
+                                                       6      K2 18VT/OR (EXCEPT MAN
+                                                              6 SPD TRANS)
+                                                       6      K2 20VT/OR (MAN 6 SPD
+                                                              TRANS)
+                                                       7      K1 18VT/BR (EXCEPT MAN
+                                                              6 SPD TRANS)
+                                                       7      K1 20VT/BR (MAN 6 SPD
+                                                              TRANS)
+                                                       8      K22 18BR/OR (EXCEPT
+C                                                             MAN 6 SPD TRANS)
+O                                                      8      K22 20BR/OR (MAN 6 SPD
+N                                                             TRANS)
+
+N                                                      9      F856 18YL/PK (EXCEPT
+                                                              MAN 6 SPD TRANS)
+E                                                      9      F856 20YL/PK (MAN 6 SPD
+C                                                             TRANS)
+T                                                     10      G6 18VT/GY (EXCEPT MAN
+O                                                             6 SPD TRANS)
+
+R                                                     10      G6 20VT/GY (MAN 6 SPD
+                                                              TRANS)
+                                                      11                   -
+P                                                     12      F855 18PK/YL (EXCEPT
+I                                                             MAN 6 SPD TRANS)
+N                                                     12      F855 20PK/YL (MAN 6 SPD
+O                                                             TRANS)
+
+U                                                     13                   -
+
+T                                                     14                   -
+
+S
+
+
+
+                                               CAMSHAFT POSITION SENSOR - BLACK 3 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+                         1    F856 20YL/PK                 5 VOLT SUPPLY
+                         2    K900 20DB/DG                 SENSOR GROUND
+                         3    K44 20DB/GY (2.4L)           CMP SIGNAL
+                         3    K44 18DB/GY (4.0L)           CMP SIGNAL
+
+
+
+
+                                                       CLOCKSPRING C1 - 4 WAY
+                        CAV           CIRCUIT                                        FUNCTION
+                         1    X3 20RD/YL                   HORN RELAY CONTROL
+                         2    V37 20VT                     S/C SWITCH NO. 1 SIGNAL
+                         3    K900 20DB/DG                 SENSOR GROUND
+                         4                 -                                            -
+
+
+
+
+                                     452
+

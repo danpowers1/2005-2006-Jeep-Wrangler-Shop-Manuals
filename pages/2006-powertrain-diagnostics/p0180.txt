@@ -1,0 +1,63 @@
+DRIVEABILITY - NGC
+
+P0481-COOLING FAN NO.2 CONTROL CIRCUIT — Continued
+
+ TEST                                         ACTION                                             APPLICABILITY
+  3     Ignition on, engine not running.                                                              All
+        Using a 12-volt test light connected to ground, probe the (F20) Fused Ignition Switch
+        Output circuit at the Relay connector in the PDC.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     4
+
+                 No    → Repair the open or short to ground in the (F20) Fused Ignition
+                         Output. Inspect the related fuse and repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  4     Using a 12-volt test light connected to ground probe the (A16) Fused B+ circuit in the        All
+        PDC.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To     5
+
+                 No    → Repair the open or short to ground (A16) Fused B+ circuit. Inspect
+                         the related fuse and repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     Turn the ignition off.                                                                        All
+        Disconnect the C3 PCM harness connector.
+        Measure the resistance of the (N112) High Speed Rad Fan Relay Control circuit from
+        the PDC to the PCM harness connector.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Go To     6
+
+                 No    → Repair the open in the (N112) High Speed Rad Fan Relay Control
+                         circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  6     Measure the resistance between ground and the (N112) High Speed Rad Fan Relay                 All
+        Control circuit in the PDC.
+        Is the resistance below 5.0 ohms?
+
+                 Yes   → Repair the short to ground in the (N112) High Speed Rad Fan
+                         Relay Control circuit.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     7
+
+  7     NOTE: Before continuing, check the PCM harness connector terminals for                        All
+        corrosion, damage, or terminal push out. Repair as necessary.
+        Using the schematics as a guide, inspect the wire harness and connectors. Pay
+        particular attention to all Power and Ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                 Repair
+                           Replace and program the Powertrain Control Module per Service
+                           Information.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       172
+

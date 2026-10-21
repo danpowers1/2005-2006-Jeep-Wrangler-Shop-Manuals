@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P2503-CHARGING SYSTEM OUTPUT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P2503-CHARGING SYSTEM OUTPUT LOW
+        When Monitored:      The engine running. The engine speed greater than 1157 RPM.
+        Set Condition: The battery sensed voltage is 1 volt below the charging goal for 13.47
+        seconds. The PCM senses the battery voltage turns off the field driver and senses the
+        battery voltage again. If the voltages are the same, the code is set.
+
+
+
+                                        POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+BATTERY POSITIVE CIRCUIT HIGH RESISTANCE
+CASE GROUND HIGH RESISTANCE
+GENERATOR OPERATION
+(Z20) GEN GROUND CIRCUIT OPEN
+(K125) GEN FIELD CONTROL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K125) GEN FIELD CONTROL CIRCUIT OPEN
+(K125) GEN FIELD CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                     ACTION                                      APPLICABILITY
+   1      NOTE: Inspect the vehicle for aftermarket accessories that may exceed the        All
+          Generator System output.
+          Ignition on, engine not running.
+          NOTE: The battery must be fully charged.
+          NOTE: The Generator belt tension and condition must be checked before
+          continuing.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          With the DRBIIIt, erase DTCs.
+          Start the engine.
+          Allow the idle to stabilize.
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To   2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 3.
+
+
+
+
+                                                 258
+

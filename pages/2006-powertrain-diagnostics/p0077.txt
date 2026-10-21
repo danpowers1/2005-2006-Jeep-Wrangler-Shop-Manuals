@@ -1,0 +1,49 @@
+                                                                        DRIVEABILITY - NGC
+
+Symptom:
+    P0125-INSUFFICIENT COOLANT TEMP FOR CLOSED-LOOP FUEL
+    CONTROL
+
+
+
+When Monitored and Set Condition:
+
+        P0125-INSUFFICIENT COOLANT TEMP FOR CLOSED-LOOP FUEL CONTROL
+        When Monitored:      With battery voltage greater than 10.4 volts and after engine is started.
+        Set Condition: The engine temperature does not go above -10°C (15°F). Failure time
+        depends on start-up coolant temperature and ambient temperature. (i.e. 2 minutes for a
+        start temp of -10°C (15°F) or up to 10 mintues for a vehicle with a start-up temp of -28°C
+        (5°F). Two Trip Fault.
+
+
+
+                                          POSSIBLE CAUSES
+LOW COOLANT LEVEL
+THERMOSTAT OPERATION
+ECT SENSOR
+
+ TEST                                       ACTION                                       APPLICABILITY
+   1      NOTE: If a Engine Coolant Temperature (ECT) DTC is set along with this              All
+          code, diagnose the ECT DTC first.
+          NOTE: Inspect the ECT terminals and related PCM terminals. Ensure the
+          terminals are free from corrosion and damage.
+          NOTE: The best way to diagnose this DTC is to allow the vehicle to sit
+          overnight outside in order to have a totally cold soaked engine.
+          NOTE: Extremely cold outside ambient temperatures may have caused this
+          DTC to set.
+          WARNING: Never open the cooling system when the engine is hot. The
+          system is under pressure. Extreme burns or scalding may result. Allow the
+          engine to cool before opening the cooling system.
+          Inspect the coolant system for proper level and condition.
+          Is the coolant level and condition OK?
+                  Yes   → Go To   2
+
+                  No    → Inspect the vehicle for a coolant leak and add the necessary
+                          amount of coolant.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                    69
+

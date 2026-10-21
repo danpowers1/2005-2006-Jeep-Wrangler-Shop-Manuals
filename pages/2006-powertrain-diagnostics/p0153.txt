@@ -1,0 +1,49 @@
+                                                                                DRIVEABILITY - NGC
+
+Symptom:
+    P0453-NVLD PRESSURE SWITCH STUCK OPEN
+
+
+
+When Monitored and Set Condition:
+
+        P0453-NVLD PRESSURE SWITCH STUCK OPEN
+        When Monitored:        Engine running.
+        Set Condition: If the PCM does not see the NVLD switch close during test an error is
+        detected. One Trip Fault.
+
+
+
+                                              POSSIBLE CAUSES
+NVLD SWITCH OPERATION
+VEHICLE HISTORY AND SERVICE BULLETIN INVESTIGATION
+NVLD ASSEMBLY
+(K107) NVLD SWITCH SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K107) NVLD SWITCH SIGNAL CIRCUIT OPEN
+(K107) NVLD SWITCH SIGNAL CIRCUIT SHORTED TO THE (K106) SOLENOID CONTROL CIR-
+CUIT
+(Z913) GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                           ACTION                                             APPLICABILITY
+   1      Start by reading PCM DTC(s) and record the related Freeze Frame data in any                   All
+          DTC(s) are present.
+          Check the vehicle repair history.
+          If the vehicle has a repair history that pertains to the customer’s current complaint,
+          review the repair.
+          Inspect the vehicle for any aftermarket accessories that may have been installed
+          incorrectly.
+          Check for any service bulletin(s) related to the customer’s complaint or DTC(s).
+          If a service bulletin applies, follow the instructions per service bulletin.
+          Did the service bulletin repair the customer’s complaint?
+
+                   Yes   → Testing Complete.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                   No    → Go To     2
+
+
+
+
+                                                         145
+

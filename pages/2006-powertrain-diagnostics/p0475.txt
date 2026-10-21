@@ -1,0 +1,51 @@
+                                     CONNECTOR PINOUTS
+
+
+
+              RADIATOR FAN MOTOR CIRCUIT BREAKER (2.4L) - 2 WAY
+FUSE              AMPS                 FUSED CIRCUIT                      FUNCTION
+ NO.
+ A                              Z823 12BK/DG                     GROUND
+ B                              Z823 12BK/DG                     GROUND
+
+
+
+
+                         RIGHT SPEED CONTROL SWITCH - 4 WAY
+CAV            CIRCUIT                                    FUNCTION
+ 1                   -
+ 2     K4 20BR/LB               SENSOR RETURN
+ 3     V37 20VT                 S/C SWITCH NO. 1 SIGNAL
+ 4                   -                                                               C
+                                                                                     O
+                                                                                     N
+                                                                                     N
+                                                                                     E
+                                                                                     C
+                                                                                     T
+                                                                                     O
+                   SENTRY KEY IMMOBILIZER MODULE - BLACK 6 WAY                       R
+CAV            CIRCUIT                                    FUNCTION
+ 1                   -                                       -                       P
+ 2     D25 20WT/VT              PCI BUS                                              I
+ 3                   -                                       -                       N
+ 4     F1 20PK/WT               FUSED IGNITION SWITCH OUTPUT (RUN-START)             O
+ 5     Z120 20BK/WT             GROUND                                               U
+ 6     L177 20WT/OR             FUSED B(+)                                           T
+                                                                                     S
+
+
+
+
+                         SPEED CONTROL SERVO - BLACK 4 WAY
+CAV            CIRCUIT                                    FUNCTION
+ 1     V36 20VT/YL              S/C VACUUM SOL CONTROL
+ 2     V35 20VT/LG              S/C VENT SOL CONTROL
+ 3     V30 20VT/WT              S/C BRAKE SWITCH OUTPUT
+ 4     Z901 18BK                GROUND
+
+
+
+
+              467
+

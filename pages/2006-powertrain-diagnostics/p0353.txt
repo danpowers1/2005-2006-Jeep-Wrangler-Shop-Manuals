@@ -1,0 +1,67 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0841-LR PRESSURE SWITCH SENSE CIRCUIT — Continued
+
+ TEST                                       ACTION                                           APPLICABILITY
+  2     With the DRBIIIt, check for other Transmission DTC’s.                                     All
+        Is the DTC P0944 present also?
+                 Yes   → Refer to the Transmission category and perform the appropriate
+                         symptom.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    3
+
+  3     With the DRBIIIt, read Transmission DTC’s                                                 All
+        Are there any Transmission Control Relay DTC’s present also?
+
+                 Yes   → Refer to the Transmission category and perform the appropriate
+                         symptom.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    4
+
+  4     With the DRBIIIt, Check the STARTS SINCE SET counter for P0841.                           All
+        NOTE: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET counter 2 or less?
+
+                 Yes   → Go To    5
+                 No    → Go To    11
+
+  5     Turn the ignition off to the lock position.                                               All
+        CAUTION: Remove the Starter Relay from the PDC. This will prevent the
+        vehicle from being started in gear.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Note: Check connectors - Clean/repair as necessary.
+        Ignition on, engine not running.
+        On the Transmission Simulator select L/R on the Pressure Switch selector switch.
+        With the DRBIIIt, monitor the L/R Pressure Switch state while pressing the
+        Pressure Switch Test button on the Transmission Simulator.
+        Did the Pressure Switch state change from OPEN to CLOSED when the test button
+        was pressed?
+
+                 Yes   → Replace the Transmission Solenoid/Pressure Switch Assembly per
+                         the Service Information.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    6
+
+  6     Turn the ignition off to the lock position.                                               All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the L/R Pressure Switch Sense circuit from the TCM
+        harness connector to the Transmission Solenoid/Pressure Switch Assembly harness
+        connector.
+        Is the resistance above 5.0 ohms?
+                 Yes   → Repair the L/R Pressure Switch Sense circuit for an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    7
+
+
+                                                    345
+

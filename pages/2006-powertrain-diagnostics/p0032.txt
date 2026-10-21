@@ -1,0 +1,53 @@
+DRIVEABILITY - NGC
+
+P0016-CRANKSHAFT/CAMSHAFT TIMING MISALIGNMENT — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  2     Turn the ignition off.                                                                       All
+        With the DRBIIIt lab scope probe and the Miller special tool #6801, backprobe the
+        (K44) CMP Signal circuit at the CMP harness connector.
+        WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+        DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+        PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+        Start the engine.
+        Observe the lab scope screen.
+        Are there any irregular or missing signals?
+
+                 Yes   → Go To     3
+                 No    → Go To     6
+
+  3     Turn the ignition off.                                                                       All
+        Visually inspect the related wire harness. Look for any chafed, pierced, pinched, or
+        partially broken wires.
+        Visually inspect the related wire harness connectors. Look for broken, bent, pushed
+        out, or corroded terminals.
+        Make sure the Crankshaft Position Sensor and the Camshaft Position Sensor are
+        properly installed and the mounting bolt(s) are torqued to the correct specification.
+        Refer to any TSBs that may apply.
+        Were any of the above conditions present?
+
+                 Yes   → Repair as necessary
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                 No    → Go To     4
+
+  4     Remove the Camshaft Position Sensor.                                                         All
+        Inspect the Tone Wheel/Pulse Ring for damage, foreign material, or excessive
+        movement.
+        Were any problems found?
+
+                 Yes   → Repair or replace the Tone Wheel/Pulse Ring as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                 No    → Go To     5
+
+  5     If there are no possible causes remaining, view repair.                                      All
+
+                 Repair
+                          Replace the Camshaft Position Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                       24
+

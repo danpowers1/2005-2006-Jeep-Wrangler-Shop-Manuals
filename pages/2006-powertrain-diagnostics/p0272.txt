@@ -1,0 +1,47 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    U0168-NO SKIM BUS MESSAGE
+
+
+
+When Monitored and Set Condition:
+
+        U0168-NO SKIM BUS MESSAGE
+        When Monitored:     Ignition on or engine running.
+        Set Condition: No J1850 messages received from the Smart Key Immobilizer Module
+        (SKIM) for 20 seconds. One Trip Fault. Three good trips to turn off the MIL.
+
+
+
+                                         POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+NO RESPONSE FROM SKIM
+PCI BUS CIRCUIT OPEN FROM PCM TO SKIM
+SKIM/PCM
+
+ TEST                                      ACTION                                      APPLICABILITY
+   1     Ignition on, engine not running.                                                   All
+         With the DRBIIIt, read the DTCs and record the related Freeze Frame data.
+         Is the Good Trip Counter displayed and equal to zero?
+                 Yes   → Go To    2
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform SKIS VERIFICATION.
+
+   2     With the DRBIIIt, attempt to communicate with the SKIM.                            All
+         NOTE: This test will indicate if the bus is operational from the DLC to the
+         SKIM.
+         Was the DRBIIIt able to communicate with the SKIM?
+                 Yes   → Go To    3
+
+                 No    → Refer to Symptom BUS +/- SIGNAL OPEN FROM SKIM in the
+                         COMMUNICATION category.
+                         Perform SKIS VERIFICATION.
+
+
+
+
+                                                   264
+

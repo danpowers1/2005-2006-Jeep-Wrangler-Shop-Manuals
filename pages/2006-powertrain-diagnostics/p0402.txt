@@ -1,0 +1,61 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    P1713-RESTRICTED MANUAL VALVE IN T2 RANGE
+
+
+
+When Monitored and Set Condition:
+
+        P1713-RESTRICTED MANUAL VALVE IN T2 RANGE
+        When Monitored:        Ignition on, engine running with the gear shift selector in a valid
+        forward gear.
+        Set Condition: This DTC sets whenever Transmission control system detects the manual
+        valve is in the T2 range when it should be in OD. This is mainly an informational DTC.
+
+
+
+                                             POSSIBLE CAUSES
+RELATED TRANSMISSION DTC’S PRESENT
+CUSTOMER DRIVING HABITS
+MISADJUSTED SHIFTER CABLE
+
+ TEST                                          ACTION                                             APPLICABILITY
+   1      With the DRBIIIt, check for other transmission DTC’s                                         All
+          Are there any speed sensor or gear ratio DTCs present?
+                   Yes   → Refer to the Transmission category and perform the appropriate
+                           symptom.
+                           Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                           1.
+
+                   No    → Go To     2
+
+   2      Check the Gear shift cable adjustment per the Service Information.                           All
+          Also check the cable for possible binding or improperly routed.
+          Is the Gear shift cable properly adjusted and not binding or improperly routed?
+
+                   Yes   → Go To     3
+                   No    → Adjust the Shifter Assembly per the Service Information.
+                           Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                           1.
+
+   3      This DTC can be set if the customer does not move the shift lever completely into the        All
+          OD position (in between gears) causing the manual valve to be in the T2 position.
+          When this occurs, the feed port to the clutch is restricted, the transmission will
+          declare neutral, and this DTC will set.
+          This DTC can also be set by simply bumping the shift lever toward neutral while
+          accelerating.
+          With the DRBIIIt, check the EATX DTC EVENT DATA to help identify the
+          conditions in which the DTC was set.
+          If there are no possible causes remaining, view repair.
+
+                   Repair
+                            This DTC can be set by the shift lever in the wrong position or not
+                            completely in the OD position. Make sure the customer is properly
+                            informed.
+                            Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                            1.
+
+
+                                                        394
+

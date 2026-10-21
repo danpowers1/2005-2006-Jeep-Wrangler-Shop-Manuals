@@ -1,0 +1,67 @@
+DRIVEABILITY - NGC
+
+P0440-GENERAL EVAP SYSTEM FAILURE — Continued
+
+ TEST                                        ACTION                                             APPLICABILITY
+  5     To continue testing you will need Miller Tool #8404 Evaporative Emission Leak                All
+        Detector (EELD).
+        WARNING: Keep lit cigarettes, sparks, flames, and other ignition sources
+        away from the test area to prevent the ignition of explosive gases. Keep the
+        test area well ventilated.
+        Connect the red power lead of EELD to the battery positive terminal and the black
+        ground lead to battery negative terminal.
+        Disconnect the vacuum hoses at he Evap Purge Solenoid.
+        Connect the SMOKE supply tip (black hose) to the service port (if equipped) or to the
+        #8404-ADP adapter.
+        Set the smoke/air control switch to SMOKE.
+        Press the remote smoke/air start button.
+        NOTE: Below is an optional method of checking the purge valve for leaks if
+        the EELD is unavailable.
+        Turn the ignition off.
+        Disconnect the vacuum supply hoses from the EVAP Purge Solenoid.
+        Using a hand vacuum pump, apply 10 in Hg to the 9CAN9 side of the EVAP Purge
+        Solenoid.
+        Observe the vacuum gauge for at least 15 seconds.
+        With the DRBIIIt, actuate the Evap Purge Solenoid.
+        NOTE: If the Evap Purge Solenoid does not hold a vacuum, it will need to be
+        replaced.
+        Is smoke visible from the Evap Purge Solenoid?
+
+                 Yes   → Replace the Evap Purge Solenoid.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+                 No    → Go To     6
+
+  6     To continue testing you will need Miller Tool #8404 Evaporative Emission Leak                All
+        Detector (EELD).
+        WARNING: Keep lit cigarettes, sparks, flames, and other ignition sources
+        away from the test area to prevent the ignition of explosive gases. Keep the
+        test area well ventilated.
+        Connect the red power lead of EELD to the battery positive terminal and the black
+        ground lead to battery negative terminal.
+        Disconnect the vacuum hoses at he Evap Purge Solenoid.
+        Connect the SMOKE supply tip (black hose) to the service port (if equipped) or to the
+        #8404-ADP adapter.
+        Set the smoke/air control switch to SMOKE.
+        Press the remote smoke/air start button.
+        NOTE: Below is an optional method of checking the purge valve for leaks if
+        the EELD is unavailable.
+        Turn the ignition off.
+        Disconnect the vacuum supply hoses from the EVAP Purge Solenoid.
+        Using a hand vacuum pump, apply 10 in Hg to the 9CAN9 side of the EVAP Purge
+        Solenoid.
+        Observe the vacuum gauge for at least 15 seconds.
+        With the DRBIIIt, actuate the Evap Purge Solenoid.
+        NOTE: If the Evap Purge Solenoid does not hold a vacuum, it will need to be
+        replaced.
+        Is smoke visible from the Evap Purge Solenoid?
+                 Yes   → Replace the Evap Purge Solenoid.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+
+                                                      136
+

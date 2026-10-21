@@ -1,0 +1,59 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0112-INTAKE AIR TEMPERATURE SENSOR CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0112-INTAKE AIR TEMPERATURE SENSOR CIRCUIT LOW
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts.
+        Set Condition: The Intake Air Temperature (IAT) sensor circuit voltage at the PCM goes
+        below 0.5 of a volt. One Trip Failure.
+
+
+
+                                           POSSIBLE CAUSES
+IAT SENSOR VOLTAGE BELOW 0.5 OF A VOLT
+IAT SENSOR
+(K21) IAT SIGNAL CIRCUIT SHORTED TO GROUND
+(K21) IAT SIGNAL CIRCUIT SHORTED TO THE (K900) SENSOR GROUND CIRCUIT
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, read the IAT Sensor voltage.
+          Is the voltage below 0.5 of a volt?
+                  Yes   → Go To     2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the IAT harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, read the IAT Sensor voltage.
+          Is the voltage above 1.0 volt?
+
+                  Yes   → Replace the IAT Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    3
+
+   3      Turn the ignition off.                                                                   All
+          Disconnect the C2 PCM harness connector.
+          Measure the resistance between ground and the (K21) IAT Signal circuit at the IAT
+          Sensor harness connector.
+          Is the resistance below 100 ohms?
+
+                  Yes   → Repair the short to ground in the (K21) IAT Signal circuit.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                  No    → Go To    4
+
+
+
+
+                                                      52
+

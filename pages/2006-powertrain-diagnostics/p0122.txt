@@ -1,0 +1,26 @@
+DRIVEABILITY - NGC
+
+P0325-KNOCK SENSOR NO.1 CIRCUIT — Continued
+
+ TEST                                       ACTION                                         APPLICABILITY
+  7     Turn the ignition off.                                                                  All
+        Replace the Knock Sensor.
+        Ignition on, engine not running.
+        With the DRBIIIt, erase DTC.
+        Attempt to operate the vehicle using the information noted in the Freeze Frame.
+        With the DRBIIIt, read DTCs.
+        Does the DRBIIIt display the DTC that was previously erased?
+
+                Yes   → NOTE: Before continuing, check the PCM harness connector
+                        terminals for corrosion, damage, or terminal push out. Repair as
+                        necessary. Replace and program the Powertrain Control Module
+                        in accordance with the Service Information.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Test Complete.
+
+
+
+
+                                                    114
+

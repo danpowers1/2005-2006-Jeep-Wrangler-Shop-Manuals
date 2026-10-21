@@ -1,0 +1,62 @@
+DRIVEABILITY - NGC
+
+P0128-THERMOSTAT RATIONALITY — Continued
+
+ TEST                                      ACTION                                          APPLICABILITY
+  8     Connect a jumper wire across the Temperature Sensor harness connector.                  All
+        With the DRBIIIt, read the Temperature voltage.
+        Does the voltage start at 5.0 volts and drop below 1.0 volt?
+
+                Yes   → Replace the suspected Temperature Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    9
+
+  9     Turn the ignition off.                                                                  All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the Sensor Signal circuit from the Temperature Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To    10
+
+                No    → Repair the open in the Sensor Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  10    CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING                               All
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K900) Sensor ground circuit from the appropriate
+        Temperature Sensor harness connector to the appropriate terminal of special tool
+        #8815.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To    11
+
+                No    → Repair the open in the (K900) Sensor ground circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  11    Measure the resistance between ground and the Sensor Signal circuit in the              All
+        Temperature Sensor harness connector.
+        Is the resistance below 100 ohms?
+                Yes   → Repair the short to ground in the Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    12
+
+  12    Measure the resistance between the Signal circuit and the (K900) Sensor ground          All
+        circuit at the Temperature Sensor harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short between the (K900) Sensor ground circuit and
+                        the Sensor Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    13
+
+
+
+
+                                                    74
+

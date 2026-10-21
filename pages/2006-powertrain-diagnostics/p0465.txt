@@ -1,0 +1,53 @@
+                                      CONNECTOR PINOUTS
+
+
+                            IDLE AIR CONTROL MOTOR - 2 WAY
+CAV           CIRCUIT                                 FUNCTION
+ 1    K961 20BR/VT (2.4L)        IAC SIGNAL
+ 1    K961 18BR/VT (4.0L)        IAC SIGNAL
+ 2    K61 20VT/GY (2.4L)         IAC CONTROL
+ 2    K61 18VT/GY (4.0L)         IAC CONTROL
+
+
+
+
+                     IGNITION COIL PACK (2.4L) - BLACK 3 WAY
+CAV           CIRCUIT                                 FUNCTION
+ 1    K17 18DB/TN (EXCEPT        COIL CONTROL NO. 2
+      MAN 6 SPD TRANS)
+ 1    K17 20DB/TN (MAN 6 SPD     COIL CONTROL NO. 2
+      TRANS)
+ 2    K334 18BR                  ASD RELAY OUTPUT
+ 3    K19 18DB/DG (EXCEPT        COIL CONTROL NO. 1
+      MAN 6 SPD TRANS)
+ 3    K19 20DB/DG (MAN 6 SPD COIL CONTROL NO. 1                  C
+      TRANS)                                                     O
+                                                                 N
+                                                                 N
+                                                                 E
+                                                                 C
+                                                                 T
+                     IGNITION COIL PACK (4.0L) - BLACK 4 WAY     O
+CAV           CIRCUIT                                 FUNCTION   R
+ 1    K19 18DB/DG                COIL CONTROL NO. 1
+ 2    K334 18BR                  ASD RELAY OUTPUT                P
+ 3    K17 18DB/TN                COIL CONTROL NO. 2              I
+ 4    K18 18DB/OR                COIL CONTROL NO. 3              N
+                                                                 O
+                                                                 U
+                                                                 T
+                                                                 S
+
+
+
+
+                  INTAKE AIR TEMPERATURE SENSOR (2.4L) - 2 WAY
+CAV           CIRCUIT                                 FUNCTION
+ 1    K900 20DB/DG               SENSOR GROUND
+ 2    K21 20BR/WT                IAT SIGNAL
+
+
+
+
+             457
+

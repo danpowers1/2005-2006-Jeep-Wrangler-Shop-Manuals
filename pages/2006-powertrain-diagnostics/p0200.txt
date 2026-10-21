@@ -1,0 +1,55 @@
+DRIVEABILITY - NGC
+
+Symptom:
+    P0517-BATTERY TEMPERATURE SENSOR HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0517-BATTERY TEMPERATURE SENSOR HIGH
+        When Monitored:       Ignition on.
+        Set Condition: Battery temperature voltage goes above 4.9412 volts for more than 4.8
+        seconds. Three good trips to clear the MIL.
+
+
+
+                                            POSSIBLE CAUSES
+BATTERY TEMP SENSOR VOLTAGE ABOVE 4.9412 VOLTS
+BATTERY TEMPERATURE SENSOR
+(K118) BATT TEMP SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K25) BATT TEMP SIGNAL CIRCUIT OPEN
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                         ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                          All
+          Record all DTCs and the related Freeze Frame data.
+          With the DRBIIIt, monitor the Battery Temperature Sensor voltage.
+          Is the voltage above 4.9412 volts?
+                   Yes   → Go To    2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+   2      Turn the ignition off.                                                                    All
+          Disconnect the Battery Temperature Sensor harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt in sensors, read the Battery Temp Voltage value.
+          Connect a jumper wire between the (K25) Batt Temp Signal circuit and the (K900)
+          Sensor ground circuit at the Battery Temp Sensor harness connector.
+          Did the Battery Temp voltage value change from greater than 4.5 volts to less than
+          1.0 volt?
+
+                   Yes   → Replace the Battery Temperature Sensor.
+                           Perform POWERTRAIN VERIFICATION TEST VER - 2.
+                   No    → Go To    3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                      192
+

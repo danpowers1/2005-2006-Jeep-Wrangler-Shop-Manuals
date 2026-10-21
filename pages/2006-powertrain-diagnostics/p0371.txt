@@ -1,0 +1,23 @@
+                                                                     TRANSMISSION - 42RLE
+
+P0871-OD PRESSURE SWITCH SENSE CIRCUIT — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  11    The conditions necessary to set this DTC are not present at this time.                     All
+        Using the schematics as a guide, inspect the wiring and connectors specific to this
+        circuit.
+        Wiggle the wiring while checking for shorts and open circuits.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Were there any problems found?
+
+                 Yes   → Repair as necessary.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Test Complete.
+
+
+
+
+                                                     363
+

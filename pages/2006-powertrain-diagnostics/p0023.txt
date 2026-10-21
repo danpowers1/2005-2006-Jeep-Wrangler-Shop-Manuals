@@ -1,0 +1,64 @@
+                                                                        GENERAL INFORMATION
+but an additional symptom. If the simulator does              important that accurate shift lever position data is
+not power up (9P9 led lit), this is an indication that        available to the PCM. The accuracy of any DTC
+the problem is still present with the simulator               found in memory is doubtful unless the Shift Lever
+hooked up. This indicates that the problem is in the          Test, performed on the DRBIIIt Scan Tool, passes
+wiring or control module and not the transmission.            without failure.
+  Miller Tool # 8333-1A consists of the adapter
+cables and overlay necessary to adapt the simulator           4.2.3    SEVICING SUB-ASSEMBLIES
+to TE/AE/LE/RLE transmissions.                                  Some components of the powertrain system are
+                                                              intended to be serviced in assembly only. Attempt-
+4.0     DISCLAIMERS, SAFETY,                                  ing to remove or repair certain system sub-
+                                                              components may result in personal injury and/or
+        WARNINGS                                              improper system operation. Only those components
+                                                              with approved repair and installation procedures in
+                                                              the service manual should be serviced.
+4.1     DISCLAIMERS
+  All information, illustrations, and specifications          4.2.4    DRBIIIT SAFETY INFORMATION
+contained in this manual are based on the latest
+information available at the time of publication.             WARNING: EXCEEDING THE LIMITS OF THE
+The right is reserved to make changes at any time             DRBIIIT MULTIMETER IS DANGEROUS. IT
+without notice.                                               CAN EXPOSE YOU TO SERIOUS INJURY.
+                                                              CAREFULLY READ AND UNDERSTAND THE
+4.2     SAFETY                                                CAUTIONS AND     THE   SPECIFICATION
+                                                              LIMITS.
+                                                                Follow the vehicle manufacturer’s service specifi-
+4.2.1    TECHNICIAN SAFETY INFORMATION                        cations at all times.
+                                                              • Do not use the DRBIIIt if it has been damaged.
+WARNING: ENGINES PRODUCE CARBON
+MONOXIDE THAT IS ODORLESS, CAUSES                             • Do not use the test leads if the insulation is
+SLOWER REACTION TIME, AND CAN LEAD                              damaged or if metal is exposed.
+TO SERIOUS INJURY. WHEN THE ENGINE IS                         • To avoid electrical shock, do not touch the test
+OPERATING, KEEP SERVICE AREAS WELL                              leads, tips, or the circuit being tested.
+VENTILATED OR ATTACH THE VEHICLE                              • Choose the proper range and function for the
+EXHAUST SYSTEM TO THE SHOP EXHAUST                              measurement. Do not try voltage or current mea-
+REMOVAL SYSTEM.                                                 surements that may exceed the rated capacity.
+   Set the parking brake and block the wheels before          • Do not exceed the limits shown in the table below:
+testing or repairing the vehicle. It is especially
+important to block the wheels on front-wheel drive            Function                   Input Limit
+vehicles; the parking brake does not hold the drive
+                                                              Volts                      0 - 500 peak volts AC
+wheels.
+                                                                                         0 - 500 volts DC
+   When servicing a vehicle, always wear eye pro-
+tection, and remove any metal jewelry such as                 Ohms (resistance)*         0 - 1.12 megohms
+watchbands or bracelets that might make an inad-
+                                                              Frequency Measured         0 - 10 kHz
+vertent electrical contact.
+                                                              Frequency Generated
+   When diagnosing a powertrain system problem,
+it is important to follow approved procedures where           Temperature                - 50 - 600°C
+applicable. These procedures can be found in the                                         - 58 - 1100°F
+service manual procedures. Following these proce-             * Ohms cannot be measured if voltage is present.
+dures is very important to the safety of individuals             Ohms can be measured only in a non-powered
+performing diagnostic tests.                                  circuit.
+                                                              • Voltage between any terminal and ground must
+4.2.2     VEHICLE PREPARATION FOR                               not exceed 500v DC or 500v peak AC.
+          TESTING                                             • Use caution when measuring voltage above 25v
+  Make sure the vehicle being tested has a fully                DC or 25v AC.
+charged battery. If it does not, false diagnostic             • A 10A fuse or circuit breaker must protect the
+DTC’s or error messages may occur. It is extremely              circuit being tested.
+
+
+                                                         15
+

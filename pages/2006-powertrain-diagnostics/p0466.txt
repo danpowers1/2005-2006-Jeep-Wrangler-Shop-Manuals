@@ -1,0 +1,54 @@
+    CONNECTOR PINOUTS
+
+
+
+                                      INTAKE AIR TEMPERATURE SENSOR (4.0L) - GRAY 2 WAY
+                        CAV           CIRCUIT                                      FUNCTION
+                         1    K900 20DB/DG               SENSOR GROUND
+                         2    K21 18BK/RD                IAT SIGNAL
+
+
+
+
+                                                  LEFT SPEED CONTROL SWITCH - 4 WAY
+                        CAV           CIRCUIT                                      FUNCTION
+                         1                 -                                          -
+                         2    K4 20BR/LB                 SENSOR RETURN
+                         3    V37 20VT                   S/C SWITCH NO. 1 SIGNAL
+C
+                         4                 -                                          -
+O
+N
+N
+E
+C
+T
+O
+R
+
+P
+I                                          MANIFOLD ABSOLUTE PRESSURE SENSOR - 3 WAY
+N                       CAV           CIRCUIT                                      FUNCTION
+
+O                        1    K1 20VT/BR (2.4L)          MAP SIGNAL
+
+U                        1    K1 18VT/BR (4.0L)          MAP SIGNAL
+
+T                        2    K900 20DB/DG               SENSOR GROUND
+
+S                        3    F856 20YL/PK               5 VOLT SUPPLY
+
+
+
+
+                                  NATURAL VACUUM LEAK DETECTION ASSEMBLY - BLACK 3 WAY
+                        CAV           CIRCUIT                                      FUNCTION
+                         1    Z913 20BK                  GROUND
+                         2    K107 20VT/WT               NVLD SWITCH SIGNAL
+                         3    K106 20VT/LB               NVLD SOL CONTROL
+
+
+
+
+                                     458
+

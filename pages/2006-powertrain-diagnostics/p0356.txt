@@ -1,0 +1,35 @@
+TRANSMISSION - 42RLE
+
+Symptom:
+    P0845-2/4 HYDRAULIC PRESSURE TEST FAILURE
+
+
+
+When Monitored and Set Condition:
+
+     P0845-2/4 HYDRAULIC PRESSURE TEST FAILURE
+     When Monitored: In any forward gear with engine speed above 1000 RPM shortly after
+     a shift and every minute thereafter.
+     Set Condition: After a shift into a forward gear, with engine speed > 1000 RPM, the TCM
+     momentarily turns on element pressure to the clutch ckts that don’t have pressure to
+     identify the correct pressure sw closes. If the pressure sw does not close 2 times the code
+     sets.
+
+
+
+                                    POSSIBLE CAUSES
+LOSS OF PRIME P0944 PRESENT
+RELATED DTC’S PRESENT
+TRANSMISSION CONTROL RELAY OUTPUT CIRCUIT OPEN
+2/4 PRESSURE SWITCH SENSE CIRCUIT OPEN
+2/4 PRESSURE SWITCH SENSE CIRCUIT SHORT TO GROUND
+2/4 PRESSURE SWITCH SENSE CIRCUIT SHORT TO VOLTAGE
+INTERNAL TRANSMISSION
+TRANSMISSION CONTROL MODULE
+INTERMITTENT WIRING AND CONNECTORS
+
+
+
+
+                                             348
+

@@ -1,0 +1,84 @@
+                                                                       GENERAL INFORMATION
+immediately as a 1 trip failure, it may take up to           3.3.3    INTERMITTENT CODE
+five minutes of accumulated trouble confirmation to
+                                                               A diagnostic trouble code that is not present every
+set the DTC and illuminate the MIL. Three consec-
+                                                             time the PCM checks the circuit is an 9intermittent’’
+utive successful OBDII/EURO III trips or clearing
+                                                             code. Most intermittent codes are caused by wiring
+the DTCs with a diagnostic tool (DRBIIIt or equiv-
+                                                             or connector problems. Intermittent conditions that
+alent) is required to extinguish the MIL. When the
+                                                             come and go like this are the most difficult to
+Transmission requests that the PCM illuminate the
+                                                             diagnose; they must be looked for under specific
+MIL, the PCM sets a DTC P0700 ($89) to alert the
+                                                             conditions that cause them. The following proce-
+technician that there are DTCs in the Transmis-
+                                                             dures may assist you in identifying a possible
+sion. The PCM DTC ($89) must also be erased in the
+                                                             intermittent problem:
+PCM in order to extinguish the MIL.
+                                                             • Visually inspect related wire harness connectors.
+3.3.1    HARD CODE                                             Look for broken, bent, pushed out, or corroded
+                                                               terminals.
+POWERTRAIN                                                   • Visually inspect the related harnesses. Look for
+
+  A diagnostic trouble code that comes back within             chafed, pierced, or partially broken wire.
+one cycle of the ignition key is a 9hard9 code. This         • Refer to any S.T.A.R. Hotline Newsletters, Ser-
+means that the problem is present when the PCM                  vice Information Tune ups (SITs) or Service Bul-
+checks that circuit or function. Most procedures in             letins that may apply.
+this manual verify if the trouble code is a hard code        • Use the DRBIIIt data recorder or co-pilot.
+at the beginning of each test. When it is not a hard            Some Transmission intermittent DTCs are
+code, an 9intermittent9 test must be performed.              caused by wiring or connector problems. However
+  Codes that are for OBDII monitors will not set             intermittent Speed ratio codes are usually caused
+with just the ignition key on. Comparing these to            by intermittent hydraulic seal leakage in the clutch
+non-emission codes, they will seem like an intermit-         and/or accumulator circuits. Intermittent speed ra-
+tent. These codes require a set of parameters to be          tio codes can be set by intermittent speed sensor
+performed (The DRBIIIt pre-test screens will help            circuitry or by line noise being induced onto one or
+with this for MONITOR codes), this is called a               both of the speed sensor signal circuits. Problems
+9TRIP9. All OBDII DTCs will be set after two or in           that come and go like this are the most difficult to
+some cases one trip failures, and the MIL will be            diagnose, they must be looked for under the specific
+turned on. These codes require three successful, no          conditions that cause them.
+failures, TRIPS to extinguish the MIL, followed by
+40 warm-up cycles to erase the code. For further             3.3.4     STARTS SINCE SET COUNTER
+explanation of TRIPS, Pre-test screens, Warm-up
+cycles, and the use of the DRBIIIt, refer to the On
+                                                             POWERTRAIN
+Board Diagnostic training booklet #81-699-97094.
+                                                               This reset counter counts the number of times the
+                                                             vehicle has been started since codes were last set or
+TRANSMISSION
+                                                             erased. This counter will count up to 255 start
+  Any Diagnostic Trouble Code (DTC) that is set
+                                                             counts. The number of starts helps determine when
+whenever the system or component is monitored is
+                                                             the trouble code actually happened. This is recorded
+a HARD code. This means that the problem is there
+                                                             by the PCM and can be viewed on the DRBIIIt as
+every time the PCM checks that system or compo-
+                                                             STARTS since set. When there are no trouble codes
+nent. Some codes will set immediately at start up
+                                                             stored in memory, the DRBIIIt will display 9NO
+and others will require a road test under specific
+                                                             TROUBLE CODES FOUND’’ and the reset counter
+conditions. It must be determined if a code is
+                                                             will show 9STARTS since set = XXX.’’ OBDII vehi-
+repeatable (Hard) or intermittent before attempt-
+                                                             cles will also display a DTC Specific or Global 9Good
+ing transmission diagnosis.
+                                                             Trip9 counter which will indicate the number of
+                                                             9Good Trips9 since the DTC was set. After 3 consec-
+3.3.2     ONE TRIP FAILURE                                   utive 9Good Trips,9 the MIL is extinguished and the
+  A One Trip Failure, when read from the PCM, is             good trip counter is replaced by a 9Warm Up Cycle9
+a hard OBDII/EURO III code that has not matured              counter. 40 Warm-Up Cycles will erase the DTC and
+to the full 5 minutes. This DTC can take up to five          Freeze Frame information.
+minutes of problem identification before illuminat-
+ing the MIL                                                  TRANSMISSION
+                                                               The Starts Since Set counter counts the number
+                                                             of times the vehicle has started since the most
+
+
+
+                                                        11
+

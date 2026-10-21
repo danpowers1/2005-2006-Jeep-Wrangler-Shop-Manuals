@@ -1,0 +1,65 @@
+TRANSMISSION - 42RLE
+
+P0720-OUTPUT SPEED SENSOR ERROR — Continued
+
+ TEST                                       ACTION                                            APPLICABILITY
+  6     Turn the ignition off to the lock position.                                                All
+        Disconnect the TCM harness connector.
+        Disconnect the Output Speed Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Output Speed Sensor Signal circuit.
+        Is the resistance Below 5.0 ohms?
+                 Yes   → Repair the Output Speed Sensor Signal circuit for a short to
+                         ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    7
+
+  7     Turn ignition off to the lock position.                                                    All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Simulator.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B(+) and Transmission Control Relay
+        Output circuits in the Transmission Control Relay connector (In PDC).
+        Ignition on, engine not running.
+        Measure the voltage of the Output Speed Sensor Signal circuit in the TCM connector.
+        Is the voltage above 3.0 volts?
+                 Yes   → Repair Output Speed Sensor Signal circuit short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    8
+
+  8     Turn the ignition off to the lock position.                                                All
+        Disconnect the TCM harness connector.
+        Disconnect the Output Speed Sensor harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance of the Speed Sensor Ground circuit from the TCM harness
+        connector to the Output Speed Sensor harness connector.
+        Is the resistance above 5.0 ohms?
+
+                 Yes   → Repair the Speed Sensor Ground circuit for an open.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    9
+
+  9     Turn ignition off to the lock position.                                                    All
+        Disconnect the TCM harness connector.
+        Disconnect the TRS harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B(+) and Transmission Control Relay
+        Output circuits in the Transmission Control Relay connector (In PDC).
+        Ignition on, engine not running.
+        Measure the voltage of the Speed Sensor Ground circuit in the TCM connector.
+        Is the voltage above 3.0 volts?
+                 Yes   → Repair the Speed Sensor Ground circuit for a short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+                 No    → Go To    10
+
+
+                                                     308
+

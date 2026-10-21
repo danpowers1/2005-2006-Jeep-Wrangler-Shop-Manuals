@@ -1,0 +1,65 @@
+                                                                          DRIVEABILITY - NGC
+
+P0129-BAROMETRIC PRESSURE OUT-OF-RANGE — Continued
+
+ TEST                                       ACTION                                          APPLICABILITY
+  3     With the DRBIIIt, monitor the MAP Sensor voltage with the Sensor harness                 All
+        connector disconnected.
+        Is the voltage above 4.5 volts?
+
+                Yes   → Replace the MAP Sensor.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    4
+
+  4     Turn the ignition off.                                                                   All
+        Disconnect the C1 and C2 PCM harness connectors.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (K1) MAP Signal circuit from the MAP Sensor harness
+        connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+
+                Yes   → Go To     5
+                No    → Repair the open in the (K1) MAP Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+  5     Measure the resistance between ground and the (K1) MAP Signal circuit at the MAP         All
+        Sensor harness connector.
+        Is the resistance below 100 ohms?
+
+                Yes   → Repair the short to ground in the (K1) MAP Signal circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+                No    → Go To    9
+
+  6     Turn the ignition off.                                                                   All
+        Disconnect the C1 and C2 PCM harness connectors.
+        Ignition on, engine not running.
+        Measure the voltage on the (F856) 5-volt Supply circuit at the MAP Sensor harness
+        connector.
+        Is the voltage above 5.2 volts?
+                Yes   → Repair the short to voltage in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                No    → Go To    7
+
+  7     Turn the ignition off.                                                                   All
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Measure the resistance of the (F856) 5-volt Supply circuit from the MAP Sensor
+        harness connector to the appropriate terminal of special tool #8815.
+        Is the resistance below 5.0 ohms?
+                Yes   → Go To     8
+
+                No    → Repair the open in the (F856) 5-volt Supply circuit.
+                        Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+
+
+
+                                                     77
+

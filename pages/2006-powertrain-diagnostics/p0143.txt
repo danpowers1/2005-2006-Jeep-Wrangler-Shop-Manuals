@@ -1,0 +1,47 @@
+                                                                            DRIVEABILITY - NGC
+
+P0440-GENERAL EVAP SYSTEM FAILURE — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  2     Check for any related TSBs before continuing.                                               All
+        NOTE: If any of the following DTCs are set (P0443, P0452, P0453, P0498 or
+        P0499) diagnose them first before continuing with P0440.
+        NOTE: A loose gas cap could have set this DTC to set. Make sure the gas cap
+        is tight and in good condition.
+        Ignition on, engine not running.
+        With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+        Is the Good Trip Counter displayed and equal to zero?
+
+                 Yes   → Go To    3
+                 No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                         tic Procedure).
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+
+  3     Perform a visual and physical inspection of the entire Evaporative Emission system.         All
+        Check for the following conditions:
+        - Hoses disconnected or left off
+        - Holes or cracks
+        - Loose seal points
+        - Evidence of damaged components
+        - Incorrect routing of hoses and tubes
+        - Fuel Cap left off or bad gasket seal
+        Were any of the above conditions found?
+                 Yes   → Repair as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To    4
+
+  4     Turn the ignition off.                                                                      All
+        Carefully inspect the Evap Purge Solenoid vacuum supply hose for proper routing.
+        Check for a pinched or plugged hose from the throttle body or intake manifold to the
+        Purge Solenoid.
+        Make sure the vacuum port at the throttle body is free from any blockage.
+        Were any problems found?
+                 Yes   → Repair the vacuum supply, hose/tube as necessary.
+                         Perform POWERTRAIN VERIFICATION TEST VER - 6.
+                 No    → Go To    5
+
+
+
+
+                                                     135
+

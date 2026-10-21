@@ -1,0 +1,61 @@
+GENERAL INFORMATION
+OBDII MONITOR RUN PROCESS                                  NOTE
+NGC VEHICLES                                               A. Only the monitors, which are not YES in
+   The following procedure has been established to         the CARB Readiness Status, need to be
+assist Chrysler Dealer Technicians in the field with       completed.
+enabling and running OBD II Monitors. The order            B. Specific criteria need to be met for each
+listed in the following procedure is intended to           monitor. Each monitor has a Pre-Test screen
+allow the technician to effectively complete each          to assist in running the monitor.
+monitor and to set the CARB Readiness Status in            For additional information, refer to the
+the least time possible.                                   Chrysler Corporation Technical Training
+NOTE                                                       Workbook titled On Board Diagnostics:
+A. Once the monitor run process has begun,                 OBDII/EOBD, part number 81-699-01050.
+do not turn off the ignition. By turning the               C. The most efficient order to run the
+ignition key off, monitor enabling conditions              monitors has been outlined below, including
+will be lost. NVLD Monitor runs after key off.             suggestions to aid the process.
+B. By performing a Battery Disconnect, or                  1. Natural Vacuum Leak Detection with Purge
+Selecting Erase DTCs, the CARB Readiness                   Monitor
+and all additional OBD II information will be                 This monitor requires a cool down cycle, usually
+cleared.                                                   an overnight soak for at least 8 hours without the
+   Monitor Preliminary Checks:                             engine running. The ambient temperature must
+   1. Plug a DRB IIIt into the vehicle’s DLC.              decrease overnight - parking the vehicle outside is
+   2. Turn the ignition, KEY ON - ENGINE OFF.              advised. To run this test the fuel level must be
+Watch for MIL lamp illumination during the bulb            between 15-85% full. For the monitor run condi-
+check. MIL lamp must have illuminated, if not,             tions select the EVAP MON PRE-TEST in the
+repair MIL lamp.                                           DRB IIIt, OBD II Monitors Menu. The Purge mon-
+   3. On the DRB IIIt Select #1 DRBIIIt Stand-             itor will run if the small leak test reports a pass.
+alone.                                                        Criteria for NVLD monitor
+   4. Select #1 1998-2006 Diagnostics                         1) Engine off time greater than one hour
+   5. Select #1 Engine                                        2) Fuel Level between 15% and 85%
+   6. Select #2 DTCs and Related Functions                    3) Start Up ECT and IAT within 10° C (18° F).
+   7. Select #1 Read DTCs                                     4) Vehicle started and run until Purge Monitor
+   * Verify that No Emissions Related DTCs are             reports a result.
+Present.                                                      Note: If the vehicle does not report a result and
+   * If an Emissions DTC is Present, the OBD II            the conditions where correct. It may take up to two
+Monitors may not run and the CARB Readiness will           weeks to fail the small leak monitor. DO NOT use
+not update.                                                this test to attempt to determine a fault. Use the
+   *The Emissions related DTC, will need to be             appropriate service information procedure for find-
+repaired, then cleared. By clearing DTCs, the OBD          ing a small leak. If there are no faults and the
+Monitors will need to be run and completed to set          conditions are correct this test will run and report a
+the CARB Readiness Status.                                 pass. Note the Small leak test can find leaks less
+   8. Return to Engine Select Function Menu and            than 10 thousands of an inch. If a small leak is
+Select #9, OBD II Monitors.                                present it takes approximately one week of normal
+   9. Select #3 CARB Readiness Status.                     driving to report a failure.
+   Do all the CARB Readiness Status Locations read
+YES?                                                       2. Catalyst / O2 Monitor
+   *YES, then all monitors have been completed and           With NGC, Catalyst and O2 Monitor information
+this vehicle is ready to be I/M or Emission Tested.        are acquired and processed at the same time. Most
+   *NO, then the following procedure needs to be           vehicles will need to be driven at highway speed
+followed to run/complete all available monitors.           (< 50 mph) for a few minutes. Some trucks run the
+                                                           monitor at idle in drive. If the vehicle is equipped
+                                                           with a manual transmission, using 4th gear may
+                                                           assist in meeting the monitor running criteria. For
+                                                           the monitor run conditions, select the BANK 1 CAT
+                                                           MON PRE-TEST in the DRB IIIt, OBD II Monitors
+                                                           Menu.
+
+
+
+
+                                                       4
+

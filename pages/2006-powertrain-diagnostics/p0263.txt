@@ -1,0 +1,51 @@
+                                                                 DRIVEABILITY - NGC
+
+Symptom List:
+    P2302-IGNITION COIL NO.1 SECONDARY CIRCUIT- INSUFFI-
+    CIENT IONIZATION
+    P2305-IGNITION COIL NO.2 SECONDARY CIRCUIT- INSUFFI-
+    CIENT IONIZATION
+    P2308-IGNITION COIL NO.3 SECONDARY CIRCUIT- INSUFFI-
+    CIENT IONIZATION
+
+
+Test Note:    All symptoms listed above are diagnosed using the same tests.
+              The title for the tests will be P2302-IGNITION COIL NO.1
+              SECONDARY CIRCUIT- INSUFFICIENT IONIZATION.
+
+
+When Monitored and Set Condition:
+
+      P2302-IGNITION COIL NO.1 SECONDARY CIRCUIT- INSUFFICIENT IONIZA-
+      TION
+      When Monitored:    Engine running and battery voltage greater than 10 volts.
+      Set Condition: If PCM detects that the secondary ignition burn time is incorrect or not
+      present an error is detected. One Trip Fault. Three good trips to turn off the MIL.
+
+      P2305-IGNITION COIL NO.2 SECONDARY CIRCUIT- INSUFFICIENT IONIZA-
+      TION
+      When Monitored:    Engine running and battery voltage greater than 10 volts.
+      Set Condition: If PCM detects that the secondary ignition burn time is incorrect or not
+      present an error is detected. One Trip Fault. Three good trips to turn off the MIL.
+
+      P2308-IGNITION COIL NO.3 SECONDARY CIRCUIT- INSUFFICIENT IONIZA-
+      TION
+      When Monitored:    Engine running and battery voltage greater than 10 volts.
+      Set Condition: If PCM detects that the secondary ignition burn time is incorrect, to short,
+      or not present, an error is detected. One Trip Fault. Three good trips to turn off the MIL.
+
+
+
+                                     POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+(K334) ASD RELAY OUTPUT CIRCUIT
+COIL RAIL RESISTANCE
+IGNITION COIL
+IGNITION COIL DRIVER CIRCUIT OPEN
+IGNITION COIL DRIVER CIRCUIT SHORTED TO GROUND
+PCM
+
+
+
+                                              255
+

@@ -1,0 +1,51 @@
+TRANSMISSION - 42RLE
+
+P1776-SOLENOID SWITCH VALVE LATCHED IN LR POSITION —
+Continued
+ TEST                                        ACTION                                           APPLICABILITY
+   2    With the scan tool, check for other transmission DTC’s                                     All
+        Is the DTC P0841 present also?
+                 Yes   → Refer to the Transmission category and perform the appropriate
+                         symptom.
+                         Perform 42RLE (NGC) TRANSMISSION VERIFICATION TEST
+                         - VER 1.
+                 No    → Go To    3
+
+   3    With the scan tool, check the DTC EVENT DATA for P1776.                                    All
+        Does the DTC EVENT DATA show a TRS Code of TR2?
+
+                 Yes   → This indicates the shift lever and the manual control valve were
+                         in an invalid position between Neutral and OD. Check the shifter
+                         cable for: proper adjustment, binding, friction, improper routing,
+                         or the shifter was moved in transit. Repair as necessary.
+                         Perform 42RLE (NGC) TRANSMISSION VERIFICATION TEST
+                         - VER 1.
+                 No    → Go To    4
+
+   4    With the scan tool, check the STARTS SINCE SET counter for P1776.                          All
+        NOTE: This counter only applies to the last DTC set.
+        Is the STARTS SINCE SET counter 2 or less?
+
+                 Yes   → Go To    5
+                 No    → Go To    11
+
+   5    Turn the ignition off to the lock position.                                                All
+        CAUTION: Removal of the Starter Relay is to prevent a Transmission, NO
+        RESPONSE, condition and disable the starter.
+        Install the Transmission Simulator, Miller tool #8333 and the Electronic Transmis-
+        sion Adapter kit 8333-1A.
+        Ignition on, engine not running.
+        With the Transmission Simulator, turn the Pressure Switch selector switch to L/R.
+        With the DRBIIIt monitor the L/R Pressure Switch state while pressing the Pressure
+        Switch Test button on the Transmission Simulator.
+        Did the Pressure Switch state change from open to closed when the test button was
+        pressed?
+                 Yes   → Go To    6
+
+                 No    → Go To    7
+
+
+
+
+                                                     400
+

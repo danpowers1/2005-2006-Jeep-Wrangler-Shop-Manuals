@@ -1,0 +1,55 @@
+                                                                          DRIVEABILITY - NGC
+
+Symptom:
+    P0645-A/C CLUTCH RELAY CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0645-A/C CLUTCH RELAY CIRCUIT
+        When Monitored:       With the ignition on. Battery voltage greater than 10 volts. A/C Switch
+        on.
+        Set Condition: An open or shorted condition is detected in the A/C clutch relay control
+        circuit. The desired A/C state does not equal the actual A/C clutch relay state. Three good
+        trips to clear the MIL.
+
+
+
+                                           POSSIBLE CAUSES
+A/C CLUTCH RELAY OPERATION
+(F960) FUSED IGNITION SWITCH OUTPUT CIRCUIT
+(A926) FUSED B+ CIRCUIT
+A/C CLUTCH RELAY
+(C13) A/C CLUTCH RELAY CONTROL CIRCUIT OPEN
+(C13) A/C CLUTCH RELAY CONTROL CIRCUIT SHORTED TO GROUND
+PCM
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Ignition on, engine not running.                                                       All
+          With the DRBIIIt, actuate the A/C Clutch Relay.
+          Is the A/C Clutch Relay operating?
+                  Yes   → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+                  No    → Go To    2
+
+   2      Turn the ignition off.                                                                 All
+          Remove the A/C Clutch Relay from the PDC.
+          Ignition on, engine not running.
+          Using a 12-volt test light connected to ground, probe the (F960) Fused Ignition
+          Switch Output circuit.
+          Does the test light illuminate brightly?
+
+                  Yes   → Go To    3
+
+                  No    → Repair the open or short to ground in the (F960) Fused Ignition
+                          Switch Output circuit. Inspect and replace any open fuses.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 2.
+
+
+
+
+                                                     233
+

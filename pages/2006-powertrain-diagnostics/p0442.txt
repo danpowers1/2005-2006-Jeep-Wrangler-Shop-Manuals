@@ -1,0 +1,57 @@
+VERIFICATION TESTS
+
+Verification Tests — Continued
+
+                      POWERTRAIN VERIFICATION TEST VER - 1                                            APPLICABILITY
+1. NOTE: After completing the Powertrain Verification Test the Transmission Verifi-                        All
+cation Test must be performed.
+2. NOTE: If the PCM has been replaced and the correct VIN and mileage have not
+been programmed, a DTC will set in the ABS Module, Airbag Module and the SKIM.
+3. NOTE: If the vehicle is equipped with a Sentry Key Immobilizer System, Secret Key
+data must be updated. Refer to the Service Information for the PCM, SKIM and the
+Transponder (ignition key) for programming information.
+4. Inspect the vehicle to ensure that all components related to the repair are properly installed
+and connected.
+5. Inspect the engine oil for fuel contamination. Replace the oil and filter as necessary.
+6. Attempt to start the engine.
+7. If the No Start condition is still present, refer to the symptom list and perform the diagnostic
+testing as necessary. Refer to any Technical Service Bulletins that may apply.
+8. Run the engine for one warm-up cycle to verify operation.
+9. With the DRBIIIt, confirm that no DTCs or Secondary Indicators are present and that all
+components are functioning properly.
+Are any DTCs or symptoms remaining?
+
+             Yes   → Check for any related Technical Service Bulletins and/or refer to the
+                     appropriate Symptom list (Diagnostic Procedure).
+             No    → Repair is complete.
+
+
+                      POWERTRAIN VERIFICATION TEST VER - 2                                            APPLICABILITY
+1. NOTE: After completing the Powertrain Verification Test the Transmission Verifi-                        All
+cation Test must be performed.
+2. NOTE: If the PCM has been replaced and the correct VIN and mileage have not
+been programmed, a DTC will set in the ABS Module, Airbag Module and the SKIM.
+3. NOTE: If the vehicle is equipped with a Sentry Key Immobilizer System, Secret Key
+data must be updated. Refer to the Service Information for the PCM, SKIM and the
+Transponder (ignition key) for programming information.
+4. Inspect the vehicle to ensure that all components related to the repair are properly installed
+and connected.
+5. With the DRBIIIt, clear DTCs and Reset Memory all engine values.
+6. Run the engine for one warm-up cycle to verify proper operation.
+7. Road test the vehicle. Use all accessories that may be related to this repair.
+8. With the DRBIIIt, confirm that no DTC’s or Secondary Indicators are present and that all
+components are functioning properly.
+9. If this test is being performed after a No Trouble Code test, verify the symptom is no longer
+present.
+Are any DTCs or symptoms remaining?
+
+             Yes   → Check for any related Technical Service Bulletins and/or refer to the
+                     appropriate Symptom list (Diagnostic Procedure).
+
+             No    → Repair is complete.
+
+
+
+
+                                                          434
+

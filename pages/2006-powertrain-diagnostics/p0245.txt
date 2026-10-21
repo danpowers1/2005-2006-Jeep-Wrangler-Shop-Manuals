@@ -1,0 +1,50 @@
+                                                                                 DRIVEABILITY - NGC
+
+Symptom:
+    P0688-ASD RELAY SENSE CIRCUIT LOW
+
+
+
+When Monitored and Set Condition:
+
+        P0688-ASD RELAY SENSE CIRCUIT LOW
+        When Monitored:         With ignition key on. Battery voltage greater than 10 volts.
+        Set Condition: No voltage sensed at the PCM when the ASD relay is energized for 3.075
+        seconds. Three good trips to clear the MIL.
+
+
+
+                                              POSSIBLE CAUSES
+VERIFY ASD DTC
+ASD RELAY
+(A209) FUSED B+ CIRCUITS
+(K334) ASD RELAY OUTPUT CIRCUIT OPEN (NO START)
+(K334) ASD RELAY OUTPUT CIRCUIT SHORTED TO GROUND
+(K334) ASD RELAY OUTPUT CIRCUIT OPEN (START)
+PCM
+
+ TEST                                            ACTION                                              APPLICABILITY
+   1      NOTE: Diagnose P0685 - Auto Shutdown Relay Control Circuit first if set                         All
+          along with this DTC.
+          With the DRBIIIt, erase the DTC.
+          Attempt to start the engine. If the engine will not start, crank the engine for at least
+          15 seconds. It may be necessary to repeat several times.
+          Does the DTC reset?
+                   Yes   → Go To      2
+
+                   No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                           tic Procedure).
+                           Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Attempt to start the engine.                                                                    All
+          Does the engine start?
+
+                   Yes   → Go To      3
+
+                   No    → Go To      4
+
+
+
+
+                                                          237
+

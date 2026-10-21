@@ -1,0 +1,55 @@
+TRANSMISSION - 42RLE
+
+P1776-SOLENOID SWITCH VALVE LATCHED IN LR POSITION —
+Continued
+ TEST                                       ACTION                                             APPLICABILITY
+   9    Turn the ignition off to the lock position.                                                 All
+        Disconnect the PCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Remove the Transmission Control Relay.
+        Note: Check connectors - Clean/repair as necessary.
+        CAUTION: DO NOT PROBE THE PCM HARNESS CONNECTORS. PROBING
+        THE PCM HARNESS CONNECTORS WILL DAMAGE THE PCM TERMI-
+        NALS RESULTING IN POOR TERMINAL TO PIN CONNECTION. INSTALL
+        MILLER SPECIAL TOOL #8815 TO PERFORM DIAGNOSIS.
+        Connect a jumper wire between the Fused B+ circuit and Transmission Control Relay
+        Output circuit at the Transmission Control Relay connector.
+        Ignition on, engine not running.
+        Measure the voltage of the L/R Pressure Switch Sense circuit.
+        Is the voltage above 0.5 volt?
+                Yes   → Repair the L/R Pressure Switch Sense circuit for a short to
+                        voltage.
+                        Perform 42RLE (NGC) TRANSMISSION VERIFICATION TEST
+                        - VER 1.
+                No    → Go To     10
+
+  10    Using the schematics as a guide, inspect the wiring and connectors. Repair as               All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+
+                Repair
+                         Replace the Powertrain Control Module per the Service Informa-
+                         tion. WITH THE DRBIIIt PERFORM QUICK LEARN AND
+                         REPROGRAM PINION FACTOR.
+                         Perform 42RLE (NGC) TRANSMISSION VERIFICATION TEST -
+                         VER 1.
+
+  11    The conditions necessary to set this DTC are not present at this time.                      All
+        Test Drive and verify if the transmission is launching in 2nd gear and/or no TCC
+        engagement.
+        With the DRBIIIt, check the EATX EVENT DATA to help identify the conditions in
+        which the DTC was set.
+        Are there 2nd gear launches and/or no TCC engagement?
+
+                Yes   → Disassemble and inspect the Valve Body per the Service Informa-
+                        tion. Inspect the Solenoid Switch Valve for sticking in its bore and
+                        repair or replace as necessary.
+                        Perform 42RLE (NGC) TRANSMISSION VERIFICATION TEST
+                        - VER 1.
+                No    → Test Complete.
+
+
+
+
+                                                     402
+

@@ -1,0 +1,65 @@
+TRANSMISSION - 42RLE
+
+P0755-2/4 SOLENOID CIRCUIT — Continued
+
+ TEST                                        ACTION                                            APPLICABILITY
+  7     Turn the ignition off to the lock position.                                                 All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the 2/4 Solenoid Control circuit.
+        Is the resistance below 5.0 ohms?
+                 Yes   → Repair the 2/4 Solenoid Control circuit for a short to ground.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    8
+
+  8     Turn the ignition off to the lock position.                                                 All
+        Disconnect the TCM harness connector.
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and Transmission Control Relay
+        Output circuit in the Transmission Control Relay connector in the PDC.
+        Ignition on, engine not running.
+        Measure the voltage of the 2/4 Solenoid Control circuit.
+        Is the voltage above 0.5 volt?
+
+                 Yes   → Repair the 2/4 Solenoid Control circuit for a short to voltage.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+                 No    → Go To    9
+
+  9     Turn the ignition off to the lock position.                                                 All
+        Disconnect the Transmission Solenoid/Pressure Switch Assembly harness connector.
+        Remove the Transmission Control Relay from the PDC.
+        Note: Check connectors - Clean/repair as necessary.
+        Connect a jumper wire between the Fused B+ circuit and the Transmission Control
+        Relay Output circuit in the Transmission Control Relay connector.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, check the Transmission Control Relay
+        Output circuit.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+
+                 Yes   → Go To    10
+                 No    → Repair the Transmission Control Relay Output circuit for an open
+                         or high resistance.
+                         Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                         1.
+
+  10    Using the schematics as a guide, inspect the wiring and connectors. Repair as               All
+        necessary. Pay particular attention to all power and ground circuits.
+        If there are no possible causes remaining, view repair.
+                 Repair
+                          Replace the Transmission Control Module per the Service Infor-
+                          mation. WITH THE DRBIIIt PERFORM QUICK LEARN.
+                          Perform 42RLE TRANSMISSION VERIFICATION TEST - VER
+                          1.
+
+
+
+
+                                                     334
+

@@ -1,0 +1,37 @@
+                                                                  TRANSMISSION - 42RLE
+
+*BACKUP LAMPS INOPERATIVE — Continued
+
+ TEST                                      ACTION                                         APPLICABILITY
+  9     Turn the ignition off to the lock position.                                            All
+        Disconnect the Transmission TRS harness connector.
+        Ignition on, engine not running.
+        Using a 12-volt test light connected to ground, check the Fused Ignition Switch
+        Output circuit in the TRS harness connector.
+        NOTE: The test light must illuminate brightly. Compare the brightness to
+        that of a direct connection to the battery.
+        Does the test light illuminate brightly?
+
+                Yes   → Go To    10
+                No    → Repair the Fused Ignition Switch Output circuit for an open. If
+                        the fuse is open make sure to check for a short to ground.
+                        Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                        TION TEST.
+
+  10    Turn ignition off to the lock position.                                                All
+        Remove the Backup Lamp bulb.
+        Disconnect the Transmission TRS harness connector.
+        Note: Check connectors - Clean/repair as necessary.
+        Measure the resistance between ground and the Backup Lamp Supply circuit.
+        Is the resistance below 5.0 ohms?
+                Yes   → Repair Backup Lamp Supply circuit for a short to ground. Check
+                        the fuse and replace if necessary.
+                        Perform TRANSMISSION NO TROUBLE CODE VERIFICA-
+                        TION TEST.
+                No    → Test Complete.
+
+
+
+
+                                                   415
+

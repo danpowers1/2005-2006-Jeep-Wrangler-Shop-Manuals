@@ -1,0 +1,72 @@
+    CONNECTOR PINOUTS
+                                                          A/C COMPRESSOR CLUTCH RELAY
+    CAV             CIRCUIT                                                        FUNCTION
+    A6    F960 20PK/LG             FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    A7                 -                                                               -
+    A8    C13 18LB/OR              A/C CLUTCH RELAY CONTROL
+    A9    C3 20DB/YL               A/C CLUTCH RELAY OUTPUT
+    A10   A926 20RD                FUSED B(+)
+
+
+                                                           AUTOMATIC SHUT DOWN RELAY
+    CAV             CIRCUIT                                                        FUNCTION
+    A11   K342 18BR/WT (EXCEPT     ASD RELAY CONTROL
+          FED ABS)
+    A11   K51 18BR/WT (FED ABS)    ASD RELAY CONTROL
+    A12                -                                                               -
+    A13   F1 20PK/WT (EXCEPT FED   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+          ABS)
+    A13   F1 20PK/WT (EXCEPT FED   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+          ABS)
+    A13   F22 20PK/TN (FED ABS)    FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    A14   K334 14BR (FED ABS)      ASD RELAY OUTPUT
+    A15   A209 18RD/YL (EXCEPT     FUSED B(+)
+          FED ABS)
+    A15   A14 18RD/YL (FED ABS)    FUSED B(+)
+C
+O
+N                                                          ENGINE STARTER MOTOR RELAY
+    CAV             CIRCUIT                                                        FUNCTION
+N
+    B1    A8 14RD                  FUSED B(+)
+E
+    B2    T750 14YL/GY             ENGINE STARTER MOTOR RELAY OUTPUT
+C
+    B3    T752 18DG/OR             STARTER MOTOR RELAY CONTROL
+T
+    B4                 -                                                               -
+O
+    B5    F26 16PK/OR (EXCEPT FED IGNITION SWITCH OUTPUT (START)
+R         ABS)
+    B5    F22 18PK/TN (FED ABS)    IGNITION SWITCH OUTPUT (START)
+P
+I
+                                                                 FUEL PUMP RELAY
+N   CAV             CIRCUIT                                                        FUNCTION
+O   C6    F1 20PK/WT (EXCEPT FED   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+U         ABS)
+T   C6    F1 20PK/WT (EXCEPT FED   FUSED IGNITION SWITCH OUTPUT (RUN-START)
+          ABS)
+S
+    C6    F22 20PK/TN (FED ABS)    FUSED IGNITION SWITCH OUTPUT (RUN-START)
+    C7                 -                                                               -
+    C8    K31 18BR                 FUEL PUMP RELAY CONTROL
+    C9    A109 18OR/RD             FUEL PUMP RELAY OUTPUT
+    C10   A930 18RD (EXCEPT FED    FUSED B(+)
+          ABS)
+    C10   A930 18RD/BK (FED ABS)   FUSED B(+)
+
+
+                                                       HIGH SPEED RADIATOR FAN RELAY (2.4L)
+    CAV             CIRCUIT                                                        FUNCTION
+    D10   A16 12GY                 FUSED B(+)
+    D11   N24 12DG/DB              HIGH SPEED RADIATOR FAN RELAY CONTROL
+    D13   F102 20PK/DB             FUSED IGNITION SWITCH OUTPUT (RUN)
+    D13   F102 20PK/DB             FUSED IGNITION SWITCH OUTPUT (RUN)
+    D14   N201 18DB/LG             HIGH SPEED RADIATOR RELAY OUTPUT
+
+
+
+
+                                                                        462
+

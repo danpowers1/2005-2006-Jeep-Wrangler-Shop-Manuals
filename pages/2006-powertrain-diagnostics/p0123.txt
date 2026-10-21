@@ -1,0 +1,54 @@
+                                                                            DRIVEABILITY - NGC
+
+Symptom:
+    P0335-CRANKSHAFT POSITION SENSOR CIRCUIT
+
+
+
+When Monitored and Set Condition:
+
+        P0335-CRANKSHAFT POSITION SENSOR CIRCUIT
+        When Monitored:       Engine cranking.
+        Set Condition: No CKP signal is present during engine cranking, and at least 8 camshaft
+        position sensor signals have occurred.
+
+
+
+                                           POSSIBLE CAUSES
+INTERMITTENT CKP SIGNAL
+INTERMITTENT CMP SIGNAL
+(F855) 5-VOLT SUPPLY CIRCUIT SHORTED TO VOLTAGE
+(F855) 5-VOLT SUPPLY CIRCUIT OPEN
+(F855) 5-VOLT SUPPLY CIRCUIT SHORTED TO GROUND
+(K24) CKP SIGNAL CIRCUIT OPEN
+(K24) CKP SIGNAL CIRCUIT SHORTED TO VOLTAGE
+(K24) CKP SIGNAL CIRCUIT SHORTED GROUND
+(K24) CKP SIGNAL CIRCUIT SHORTED TO (F855) 5-VOLT SUPPLY CIRCUIT
+(K900) SENSOR GROUND CIRCUIT OPEN
+CRANKSHAFT POSITION SENSOR
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Crank the engine.                                                                        All
+          Ignition on, engine not running.
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To     2
+
+                  No    → Go To    14
+
+   2      Turn the ignition off.                                                                   All
+          Disconnect the CKP Sensor harness connector.
+          Ignition on, engine not running.
+          Measure the voltage on the (F855) 5-volt Supply circuit at the CKP Sensor harness
+          connector.
+          Is the voltage between 4.8 and 5.2 volts?
+                  Yes   → Go To     3
+
+                  No    → Go To    10
+
+
+
+
+                                                      115
+

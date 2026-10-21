@@ -1,0 +1,57 @@
+                                                                            DRIVEABILITY - NGC
+
+Symptom:
+    P0344-CAMSHAFT POSITION SENSOR INTERMITTENT
+
+
+
+When Monitored and Set Condition:
+
+        P0344-CAMSHAFT POSITION SENSOR INTERMITTENT
+        When Monitored:       While cranking the engine and engine running.
+        Set Condition:    When the failure counter reaches 20. One Trip Fault.
+
+
+
+                                           POSSIBLE CAUSES
+GOOD TRIP EQUAL TO ZERO
+CMP WIRE HARNESS INSPECTION
+(F856) 5-VOLT SUPPLY CIRCUIT OPEN OR SHORTED TO GROUND
+TONE WHEEL/PULSE RING INSPECTION
+CHECKING CKP SENSOR SIGNAL WITH THE DRBIIIt LAB SCOPE
+CAMSHAFT POSITION SENSOR
+(K44) CMP SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K44) CMP SIGNAL CIRCUIT OPEN
+(K44) CMP SIGNAL CIRCUIT SHORTED TO GROUND
+(K44) CMP SIGNAL CIRCUIT SHORTED TO THE (F856) 5-VOLT SUPPLY CIRCUIT
+PCM
+
+ TEST                                        ACTION                                           APPLICABILITY
+   1      Ignition on, engine not running.                                                         All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          Is the Good Trip Counter displayed and equal to zero?
+                  Yes   → Go To     2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                   All
+          With the DRBIIIt lab scope probe and the Miller special tool #6801, backprobe the
+          (K44) CMP Signal circuit in the CMP harness connector.
+          WARNING: WHEN THE ENGINE IS OPERATING, DO NOT STAND IN A
+          DIRECT LINE WITH THE FAN. DO NOT PUT YOUR HANDS NEAR THE
+          PULLEYS, BELTS OR FAN. DO NOT WEAR LOOSE CLOTHING.
+          Ignition on, engine not running.
+          Observe the lab scope screen.
+          Start the engine.
+          Observe the lab scope screen.
+          Are there any irregular or missing signals?
+
+                  Yes   → Go To     3
+
+                  No    → Go To    8
+
+
+                                                      127
+

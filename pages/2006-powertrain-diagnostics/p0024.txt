@@ -1,0 +1,73 @@
+GENERAL INFORMATION
+• Use the low current shunt to measure circuits up            4.3.3    ROAD TESTING A COMPLAINT
+  to 10A. Use the high current clamp to measure
+  circuits exceeding 10A.                                              VEHCILE (TRANSMISSION)
+• When testing for the presence of voltage or cur-               Some complaints will require a test drive as part
+  rent, make sure the meter is functioning cor-               of the repair verification procedure. The purpose of
+  rectly. Take a reading of a known voltage or                the test drive is to try to duplicate the diagnostic
+  current before accepting a zero reading.                    DTC or symptom condition.
+• When measuring current, connect the meter in                CAUTION: Before road testing a vehicle, be
+  series with the load.                                       sure that all components are reassembled.
+• Disconnect the live test lead before disconnecting          During the test drive, do not try to read
+  the common test lead.                                       DRBIIIT screen while in motion. Do not hang
+• When using the meter function, keep the                     the DRBIIIT from the rear view mirror or
+  DRBIIIt away from spark plug or coil wires to               operate it yourself. Have an assistant
+  avoid measuring error from outside interference.            available to operate the DRBIIIT.
+                                                                 Road testing is an essential step in the diagnostic
+4.3     WARNINGS AND CAUTIONS                                 process that must not be overlooked. Along with the
+                                                              diagnostic information obtained from the DRBIIIt
+                                                              Scan Tool and the original customer concern, the
+4.3.1    ROAD TEST WARNINGS                                   road test helps verify the problem was current and
+   Some complaints will require a test drive as part          any repairs performed, fixed the vehicle correctly.
+of the repair verification procedure. The purpose of          Always operate and observe the vehicle under ac-
+the test drive is to try to duplicate the diagnostic          tual driving conditions. Just as important as the
+code or symptom condition.                                    road test is, there are preliminary inspections that
+                                                              should be performed prior to the road test. Always
+CAUTION: Before road testing a vehicle, be                    check the fluid level and condition before taking the
+sure that all components are reassembled.                     vehicle on a road test. Determine if the incorrect
+During the test drive, do not try to read the                 fluid is being used, improper fluid will result in
+DRBIIIT screen while in motion. Do not hang                   erratic transmission operation.
+the DRBIIIT from the rear view mirror or                         Some of the conditions of incorrect fluid level are
+operate it yourself. Have an assistant                        as follows:
+available to operate the DRBIIIT.                             • Delayed engagement
+                                                              • Poor shifting or erratic shifting
+4.3.2    VEHICLE DAMAGE WARNINGS                              • Excessive noise
+  Before disconnecting any control module, make
+                                                              • Overheating
+sure the ignition is 9lock9 position. Failure to do so
+                                                                 The next step is to verify that the shift linkage is
+could damage the module.
+                                                              correctly adjusted. If the shift linkage is incorrectly
+  When testing voltage or continuity at any control
+                                                              adjusted, a number of complaints can result.
+module, use the Miller tool #8815 (not the wire end
+                                                                 The PCM monitors the Shift Lever Position (SLP)
+or terminal) in the connector. Do not probe a wire
+                                                              Sensor continuously. If the linkage is incorrectly
+through the insulation: this will damage the wire
+                                                              adjusted, the PCM will sense a shift lever position
+and eventually cause the wire to fail because of
+                                                              that is not correct for the gear chosen by the driver.
+corrosion.
+                                                              This may cause a DTC to be set.
+  Be careful when performing electrical tests so as
+                                                                 The following complaints may also be the result
+to prevent accidental shorting of terminals. Such
+                                                              of an incorrectly adjusted or worn linkage:
+mistakes can damage fuses or components. Also, a
+                                                              • Delayed clutch engagement
+second DTC could be set, making diagnosis of the
+original problem more difficult.                              • Erratic shifts
+  When replacing a blown fuse, it is important to             • Vehicle will drive in neutral
+use only a fuse having the correct amperage rating.           • Engine will not crank in park or neutral
+The use of a fuse with a rating other than indicated
+                                                              • Gear shift linkage will be able to be shifted
+may result in a dangerous electrical system over-
+load. If a properly rated fuse continues to blow, it             without the key in the ignition
+indicates a problem in the circuit that must be               • Not able to remove the ignition key in park
+corrected.                                                    • Parking pawl will not engage properly
+                                                                The shift linkage should also be adjusted when
+                                                              replacing the Transmission, repairing the valve
+
+                                                         16
+

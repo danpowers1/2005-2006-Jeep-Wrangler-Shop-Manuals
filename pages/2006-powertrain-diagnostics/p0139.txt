@@ -1,0 +1,52 @@
+                                                              DRIVEABILITY - NGC
+
+Symptom List:
+    P0420-CATALYST 1/1 EFFICIENCY
+    P0421-CATALYST 1/1 EFFICIENCY
+    P0430-CATALYST 2/1 EFFICIENCY
+    P0431-CATALYST 2/1 EFFICIENCY
+
+
+Test Note:   All symptoms listed above are diagnosed using the same tests.
+             The title for the tests will be P0420-CATALYST 1/1 EFFI-
+             CIENCY.
+
+
+When Monitored and Set Condition:
+
+     P0420-CATALYST 1/1 EFFICIENCY
+     When Monitored: After engine warm up to 70°C (158°F), 180 seconds of open throttle
+     operation, at a speed greater than 18 mph and less than 55 mph, with the engine at
+     1200-1700 rpm and MAP vacuum between 15.0 and 21.0 inches of mercury (Hg).
+     Set Condition: As catalyst efficiency deteriorates, the switch rate of the downstream O2
+     sensor approaches that of the upstream O2 sensor. If at any point during the test the
+     switch ratio reaches a predetermined value a counter is incremented by one.
+
+     P0421-CATALYST 1/1 EFFICIENCY
+     When Monitored: After engine warm up to 70°C (158°F), 180 seconds of open throttle
+     operation, at a speed greater than 18 mph and less than 55 mph, with the engine at
+     1200-1700 rpm and MAP vacuum between 15.0 and 21.0 inches of mercury (Hg).
+     Set Condition: As catalyst efficiency deteriorates, the switch rate of the downstream O2
+     sensor approaches that of the upstream O2 sensor. If at any point during the test the
+     switch ratio reaches a predetermined value a counter is incremented by one.
+
+     P0430-CATALYST 2/1 EFFICIENCY
+     When Monitored: After engine warm up to 147 deg. F, 180 seconds of open throttle
+     operation, at a speed greater than 20 mph, with the engine at 1200-1700 rpm and MAP
+     vacuum between 15.0 and 21.0 inches of mercury (Hg).
+     Set Condition: As catalyst efficiency deteriorates, the switch rate of the downstream O2
+     sensor approaches that of the upstream O2 sensor. If at any point during the test the
+     switch ratio reaches a predetermined value a counter is incremented by one. Three good
+     trips to turn off the MIL.
+
+     P0431-CATALYST 2/1 EFFICIENCY
+     When Monitored: After engine warm up to 147 deg. F, 180 seconds of open throttle
+     operation, at a speed greater than 20 mph, with the engine at 1200-1700 rpm and MAP
+     vacuum between 15.0 and 21.0 inches of mercury (Hg).
+     Set Condition: As catalyst efficiency deteriorates, the switch rate of the downstream O2
+     sensor approaches that of the upstream O2 sensor. If at any point during the test the
+     switch ratio reaches a predetermined value a counter is incremented by one. Three good
+     trips to turn off the MIL.
+
+                                            131
+

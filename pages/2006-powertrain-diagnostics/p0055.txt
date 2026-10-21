@@ -1,0 +1,54 @@
+                                                                          DRIVEABILITY - NGC
+
+Symptom:
+    P0108-MAP SENSOR CIRCUIT HIGH
+
+
+
+When Monitored and Set Condition:
+
+        P0108-MAP SENSOR CIRCUIT HIGH
+        When Monitored:      Engine RPM greater than 260. Battery voltage greater than 10.3 volts
+        Set Condition:    The MAP sensor signal voltage is greater than 4.93 volts.
+
+
+
+                                           POSSIBLE CAUSES
+MAP SENSOR VOLTAGE ABOVE 4.93 VOLTS
+MAP SENSOR
+(K1) MAP SIGNAL CIRCUIT SHORTED TO BATTERY VOLTAGE
+(K1) MAP SIGNAL CIRCUIT OPEN
+(K1) MAP SIGNAL CIRCUIT SHORTED TO THE (F856) 5-VOLT SUPPLY CIRCUIT
+(K900) SENSOR GROUND CIRCUIT OPEN
+PCM
+
+ TEST                                        ACTION                                         APPLICABILITY
+   1      Start the engine.                                                                      All
+          With the DRBIIIt, read DTCs and record the related Freeze Frame data.
+          With the DRBIIIt, read the MAP Sensor voltage.
+          Is the voltage above 4.93 volts?
+                  Yes   → Go To    2
+
+                  No    → Refer to the INTERMITTENT CONDITION Symptom (Diagnos-
+                          tic Procedure).
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+
+   2      Turn the ignition off.                                                                 All
+          Disconnect the MAP Sensor harness connector.
+          Connect a jumper wire between the (K1) MAP Signal circuit and the (K900) Sensor
+          ground circuit in the harness connector.
+          Ignition on, engine not running.
+          With the DRBIIIt, monitor the MAP Sensor voltage.
+          Is the voltage below 1.0 volt?
+
+                  Yes   → Replace the MAP Sensor.
+                          Perform POWERTRAIN VERIFICATION TEST VER - 5.
+                  No    → Go To    3
+
+          NOTE: Remove the jumper wire before continuing.
+
+
+
+
+                                                     47
+
