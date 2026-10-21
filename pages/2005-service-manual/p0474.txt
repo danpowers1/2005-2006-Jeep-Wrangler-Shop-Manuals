@@ -1,0 +1,55 @@
+8L - 4    LAMPS/LIGHTING - EXTERIOR                                                                               TJ
+LAMPS/LIGHTING - EXTERIOR (Continued)
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                         TEM CAPACITOR TO DISCHARGE BEFORE PER-
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                          FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+ATTEMPTING ANY STEERING WHEEL, STEERING                         IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+COLUMN, OR INSTRUMENT PANEL COMPONENT                           SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                       CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                       BAG DEPLOYMENT AND POSSIBLE PERSONAL
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                       INJURY.
+
+          CONDITION                          POSSIBLE CAUSES                           CORRECTION
+
+   ONE TURN SIGNAL LAMP             1. Faulty or missing bulb                  1. Test and replace turn signal
+    DOES NOT ILLUMINATE                                                        bulb as required.
+                                    2. Faulty ground circuit.                  2. Test and repair open ground
+                                                                               circuit
+                                    3. Faulty signal circuit.                  3. Test and repair open right or
+                                                                               left turn signal circuit.
+
+   ALL RIGHT SIDE AND/OR            1. Faulty multifunction switch.            1. Test and replace the
+   LEFT SIDE TURN SIGNAL                                                       multifunction switch as required.
+    LAMPS DO NOT FLASH
+                                    2. Faulty flasher.                         2. Replace the hazard
+                                                                               switch/combination flasher.
+
+
+  ALL RIGHT SIDE OR LEFT            1. Faulty or missing bulb.                 1. Test and replace faulty bulb
+    SIDE TURN SIGNALS                                                          as required.
+      FLASH RAPIDLY
+                                    2. Faulty ground circuit.                  2. Test and repair open ground
+                                                                               circuit as required.
+                                    3. Faulty signal circuit.                  3. Test and repair high
+                                                                               resistance or open signal circuit
+                                                                               as required.
+                                    4. Faulty flasher.                         4. Replace flasher.
+
+      HAZARD WARNING                1. Faulty or missing fuse.                 2. Test and replace fuse as
+    LAMPS DO NOT FLASH                                                         required.
+                                    2. Faulty ground circuit.                  2. Test and repair high
+                                                                               resistance or open ground
+                                                                               circuit.
+                                    3. Open battery positive voltage           3. Test and repair open battery
+                                    circuit to hazard warning switch.          voltage circuit to hazard
+                                                                               warning switch.
+                                    4. Faulty flasher                          4. Replace flasher
+                                    5. Faulty multifunction switch.            5. Test and replace the
+                                                                               multifunction switch as required.
+
+
+DIAGNOSIS AND TESTING - HEADLAMP
+SYSTEM
+  Always begin any diagnosis by testing all of the
+fuses and circuit breakers in the system. Refer to the
+appropriate wiring information.
+

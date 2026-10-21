@@ -1,0 +1,31 @@
+TJ                                                          AUTOMATIC TRANSMISSION - 42RLE           21 - 107
+BEARINGS (Continued)
+bearing seat will give a false end play reading, while     BRAKE TRANSMISSION SHIFT
+gauging for proper shims. Improperly seated bearing
+cup and cones are subject to low-mileage failure.          INTERLOCK MECHANISM
+  Bearing cups and cones should be replaced if they
+show signs of pitting or heat distress.                    DESCRIPTION
+  If distress is seen on either the cup or bearing roll-     The Brake Transmission Shifter/Ignition Interlock
+ers, both cup and cone must be replaced.                   (BTSI), is a cable and solenoid operated system. It
+                                                           interconnects the automatic transmission floor
+NOTE: Bearing drag torque specifications must be           mounted shifter to the steering column ignition
+maintained to avoid premature bearing failures.            switch (Fig. 147).
+
+  Used (original) bearing may lose up to 50 percent
+of the original drag torque after break-in.
+
+NOTE: All bearing adjustments must be made with
+no other component interference or gear inter-
+mesh.
+
+  Oil all bearings before checking turning torque.
+
+
+
+
+                                    Fig. 147 Ignition Interlock Cable Routing
+1 - SHIFT MECHANISM                                        5 - SOLENOID
+2 - LOCK-TAB                                               6 - WIRE CONNECTOR
+3 - IGNITION LOCK INTERLOCK                                7 - TIE STRAP
+4 - STEERING COLUMN                                        8 - PARK/BRAKE INTERLOCK CABLE
+

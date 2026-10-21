@@ -1,0 +1,69 @@
+14 - 8    FUEL DELIVERY                                                                                          TJ
+
+
+FUEL RAIL - 4.0L ENGINE                                    REMOVAL - 4.0L
+                                                             The fuel damper is not serviced separately.
+DESCRIPTION - 4.0L
+                                                           WARNING: THE FUEL SYSTEM IS UNDER CON-
+  The fuel rail is mounted to the intake manifold
+                                                           STANT FUEL PRESSURE EVEN WITH ENGINE OFF.
+(Fig. 8). It is used to mount the fuel injectors to the
+                                                           THIS PRESSURE MUST BE RELEASED BEFORE
+engine. On the 4.0L 6–cylinder engine, a fuel
+                                                           SERVICING FUEL RAIL.
+damper is located near the center of the fuel rail
+(Fig. 8).                                                     (1) Remove fuel tank filler tube cap.
+                                                              (2) Perform Fuel System Pressure Release Proce-
+                                                           dure.
+                                                              (3) Disconnect negative battery cable from battery.
+                                                              (4) Remove air tube at top of throttle body. Note:
+                                                           Some engine/vehicles may require removal of air
+                                                           cleaner ducts at throttle body.
+                                                              (5) Disconnect electrical connectors at all 6 fuel
+                                                           injectors. To remove connector refer to (Fig. 9). Push
+                                                           red colored slider away from injector (1). While push-
+                                                           ing slider, depress tab (2) and remove connector (3)
+                                                           from injector. The factory fuel injection wiring har-
+                                                           ness is numerically tagged (INJ 1, INJ 2, etc.) for
+                                                           injector position identification. If harness is not
+                                                           tagged, note wiring location before removal.
+                                                              (6) Disconnect fuel supply line latch clip and fuel
+                                                           line at fuel rail. Refer to Quick-Connect Fittings.
+                                                              (7) Disconnect throttle cable at throttle body. Refer
+                                                           to Throttle Cable Removal/Installation.
+                                                              (8) Disconnect speed control cable at throttle body
+                                                           (if equipped). Refer to Speed Control Cable in Speed
+                                                           Control System.
+                                                              (9) Disconnect automatic transmission cable at
+                                                           throttle body (if equipped).
+                                                              (10) Remove cable routing bracket at intake man-
+                                                           ifold.
+  Fig. 8 FUEL RAIL/FUEL DAMPER - 4.0L ENGINE
+                                                              (11) If equipped, remove wiring harnesses at injec-
+1 - INJ. #1                                                tion rail studs by removing nuts.
+2 - INJ. #2
+3 - INJ. #3                                                   (12) Clean dirt/debris from each fuel injector at
+4 - INJ. #4                                                intake manifold.
+5 - INJ. #5
+6 - INJ. #6
+                                                              (13) Remove fuel rail mounting nuts/bolts (Fig.
+7 - FUEL INJECTOR RAIL                                     10).
+8 - FUEL DAMPER                                               (14) Remove fuel rail by gently rocking until all
+9 - PRESSURE TEST PORT CAP
+10 - MOUNTING BOLTS (4)
+                                                           the fuel injectors are out of intake manifold.
+11 - QUICK-CONNECT FITTING
+                                                           INSTALLATION - 4.0L
+OPERATION - 4.0L                                              (1) Clean each injector bore at intake manifold.
+  The fuel injector rail supplies the necessary fuel to       (2) Apply a small amount of clean engine oil to
+each individual fuel injector.                             each injector o-ring. This will aid in installation.
+  The fuel damper is used only to help control fuel           (3) Position tips of all fuel injectors into the corre-
+pressure pulsations. These pulsations are the result       sponding injector bore in intake manifold. Seat injec-
+of the firing of the fuel injectors. It is not used as a   tors into manifold.
+fuel pressure regulator. The fuel pressure regulator is       (4) Install and tighten fuel rail mounting bolts to
+not mounted to the fuel rail on any engine. It is          11 ±3 N·m (100 ±25 in. lbs.) torque.
+located on the fuel tank mounted fuel pump module.            (5) If equipped, connect wiring harnesses to injec-
+Refer to Fuel Filter/Fuel Pressure Regulator for           tion rail studs.
+information.                                                  (6) Connect electrical connectors at all fuel injec-
+  The fuel rail is not repairable.                         tors. To install connector, refer to (Fig. 9). Push con-
+

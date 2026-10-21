@@ -1,0 +1,58 @@
+TJ                                                                                            ENGINE      7 - 33
+FAN DRIVE VISCOUS CLUTCH (Continued)
+CAUTION: When installing a serpentine accessory          DIAGNOSIS AND TESTING - RADIATOR
+drive belt, the belt MUST be routed correctly. If not,
+                                                         COOLANT FLOW
+the engine may overheat due to the water pump
+                                                            The following procedure will determine if coolant is
+rotating in the wrong direction.
+                                                         flowing through the cooling system.
+  (3) Install accessory drive belt (Refer to 7 - COOL-      If engine is cold, idle engine until normal operating
+ING/ACCESSORY DRIVE/DRIVE BELTS - INSTAL-                temperature is reached. Then feel the upper radiator
+LATION).                                                 hose. If hose is hot, the thermostat is open and water
+                                                         is circulating through cooling system.
+
+RADIATOR                                                 REMOVAL
+
+DESCRIPTION                                              WARNING: DO NOT REMOVE THE CYLINDER
+                                                         BLOCK DRAIN PLUGS OR LOOSEN THE RADIATOR
+CAUTION: Plastic tanks, while stronger than brass,       DRAINCOCK WITH THE SYSTEM HOT AND PRES-
+are subject to damage by impact, such as                 SURIZED. SERIOUS BURNS FROM THE COOLANT
+wrenches, mishandling, etc.                              CAN OCCUR.
+
+  A heavy duty down-flow aluminum/plastic radiator         Do not waste reusable coolant. If the solution is
+is used (Fig. 18). The radiator consists of an alumi-    clean, drain the coolant into a clean container for
+num core and plastic end tanks, which are fastened       reuse.
+to the core with clinch tabs and sealed with a high
+                                                         WARNING: CONSTANT TENSION HOSE CLAMPS
+temperature rubber gasket. On automatic transmis-
+                                                         ARE USED ON MOST COOLING SYSTEM HOSES.
+sion equipped vehicles, the lower tank contains a
+                                                         WHEN REMOVING OR INSTALLING, USE ONLY
+concentric-tube transmission oil cooler.
+                                                         TOOLS DESIGNED FOR SERVICING THIS TYPE OF
+  If the plastic tank has been damaged, individual
+                                                         CLAMP, SUCH AS SPECIAL CLAMP TOOL NUMBER
+parts are not available, and the radiator must be
+                                                         6094 (Fig. 19). ALWAYS WEAR SAFETY GLASSES
+replaced.
+                                                         WHEN SERVICING CONSTANT TENSION CLAMPS.
+
+
+                                                         CAUTION: A number or letter is stamped into the
+                                                         tongue of constant tension clamps (Fig. 20). If
+                                                         replacement is necessary, use only an original
+                                                         equipment clamp with matching number or letter.
+
+
+
+
+        Fig. 18 Downflow Radiator - Typical
+1 - DOWNFLOW RADIATOR
+2 - INTEGRAL TRANSMISSION OIL COOLER (INTERNAL TO
+RADIATOR)
+                                                                   Fig. 19 Hose Clamp Tool - Typical
+OPERATION                                                1 - HOSE CLAMP TOOL 6094
+  As air passes through the radiator core, the heat      2 - HOSE CLAMP
+within the coolant is dissipated into the ambient air.
+

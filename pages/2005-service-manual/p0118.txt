@@ -1,0 +1,57 @@
+3 - 60    FRONT AXLE - 216FBI                                                                                 TJ
+FRONT AXLE - 216FBI (Continued)
+  (19) Push and hold differential case toward pinion      (21) Subtract the backlash shim thickness from
+gear and zero dial indicator (Fig. 21).                 the total preload shim thickness. The remainder is
+                                                        the shim thickness required on the pinion side of the
+                                                        housing.
+                                                          (22) Rotate dial indicator out of the way on pilot
+                                                        stud.
+                                                          (23) Remove differential case and dummy bearings
+                                                        from the housing.
+                                                          (24) Install the selected shims onto the differential
+                                                        case hubs.
+                                                          (25) Install side bearings on differential case hubs
+                                                        with Install C-3716-A and Handle C-4171.
+                                                          (26) Install bearing cups on differential.
+                                                          (27) Install Spreader W-129-B and some items
+                                                        from Adapter Set 6987 on the housing and spread
+                                                        open enough to receive differential case.
+
+                                                        CAUTION: Do not spread housing over 0.38 mm
+          Fig. 21 ZERO DIAL INDICATOR                   (0.015 in.). Failure to heed caution may result in
+                                                        damage.
+1 - DIAL INDICATOR FACE
+2 - DIFFERENTIAL CASE TO PINION GEAR SIDE
+3 - PINION GEAR                                           (28) Install differential case into the housing.
+4 - DIFFERENTIAL HOUSING                                  (29) Remove spreader from the housing.
+5 - DIFFERENTIAL CASE                                     (30) Rotate the differential case several times to
+                                                        seat the side bearings.
+  (20) Push and hold differential case to ring gear
+                                                          (31) Position the indicator plunger against a ring
+side of the housing and record dial indicator reading
+                                                        gear tooth (Fig. 23).
+(Fig. 22). Subtract 0.05 mm (0.002 in.) from this
+reading. This is the shim thickness for the ring gear
+side.
+
+NOTE: This is the shim needed on the ring gear
+side for proper backlash.
+
+
+
+
+                                                          Fig. 23 RING GEAR BACKLASH MEASUREMENT
+                                                        1 - DIAL INDICATOR
+
+                                                          (32) Push and hold ring gear upward while not
+                                                        allowing the pinion gear to rotate.
+    Fig. 22 RECORD DIAL INDICATOR READING                 (33) Zero dial indicator face to pointer.
+                                                          (34) Push and hold ring gear downward while not
+1 - DIAL INDICATOR
+2 - DIFFERENTIAL CASE TO RING GEAR SIDE                 allowing the pinion gear to rotate. Dial indicator
+3 - PINION GEAR                                         reading should be between 0.12 mm - 0.20 mm (0.005
+4 - DIFFERENTIAL HOUSING                                in. - 0.008 in.). If backlash is not within specifications
+5 - DIFFERENTIAL CASE
+                                                        transfer the necessary amount of shim thickness
+                                                        from one side of the housing to the other (Fig. 24).
+

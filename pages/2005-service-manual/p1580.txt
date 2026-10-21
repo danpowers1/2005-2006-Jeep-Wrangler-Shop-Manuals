@@ -1,0 +1,71 @@
+24 - 12    CONTROLS                                                                                           TJ
+A/C COMPRESSOR CLUTCH (Continued)
+tion for testing of the compressor clutch circuit and
+PCM control. The following components must be
+checked and repaired as required before you can com-
+plete testing of the clutch coil:
+   • Fuses in the fuse block and the power distribu-
+tion center (PDC)
+   • A/C-heater mode control
+   • A/C clutch relay
+   • A/C High pressure switch (4.0L engine)
+   • A/C Low pressure switch
+   • Powertrain control module (PCM)
+   (5) The A/C compressor clutch coil is acceptable if
+the current draw is 2.0 to 3.7 amperes. Specifications
+apply for a work area temperature of 21° C (70° F). If
+voltage is more than 12.5 volts, add electrical loads
+by turning on electrical accessories until voltage                       Fig. 2 Diode Identification
+reads below 12.5 volts.                                    1 - CURRENT FLOW
+     (a) If the A/C clutch coil current reading is zero,   2 - BAND INDICATES CURRENT FLOW
+                                                           3 - DIODE AS SHOWN IN WIRE DIAGRAMS
+   the coil is open and must be replaced.
+     (b) If the A/C clutch coil current reading is above      Examine the friction surfaces of the clutch pulley
+   specifications, the coil is shorted and must be         and the clutch plate for wear (Fig. 3). The pulley and
+   replaced.                                               plate should be replaced if there is excessive wear or
+                                                           scoring.
+STANDARD PROCEDURE                                            If the friction surfaces are oily, inspect the shaft
+                                                           and nose area of the A/C compressor for refrigerant
+                                                           oil. If refrigerant oil is found, the compressor shaft
+DIODE REPLACEMENT                                          seal is leaking and the A/C compressor must be
+  (1) Disconnect and isolate the negative battery
+                                                           replaced.
+cable.
+                                                              Check the clutch pulley bearing for roughness or
+  (2) Locate the diode in the A/C clutch wire harness
+                                                           excessive leakage of grease. Replace the pulley and
+and remove the protective covering.
+                                                           bearing assembly, if required.
+  (3) Remove the diode from the wire harness while
+paying attention to the current flow direction (Fig. 2).
+  (4) Remove the insulation from the wires in the
+                                                           A/C CLUTCH BREAK-IN
+                                                             After a new A/C compressor clutch has been
+harness. Only remove enough insulation to solder in
+                                                           installed, cycle the compressor clutch approximately
+the new diode.
+                                                           twenty times (five seconds on, then five seconds off).
+  (5) Install the new diode in the harness, making
+                                                           During this procedure, set the A/C-heater controls to
+sure current flow is correct. If necessary refer to the
+                                                           the A/C Recirculation Mode, the blower motor in the
+appropriate wiring diagram for current flow.
+                                                           highest speed position, and the engine speed at 1500
+CAUTION: To prevent damage to the diode and wir-           to 2000 rpm. This procedure (burnishing) will seat
+ing, DO NOT use acid core solder.                          the opposing friction surfaces and provide a higher
+                                                           compressor clutch torque capability.
+  (6) Solder the connections together using rosin
+core type solder only.                                     REMOVAL
+  (7) Tape the diode to the harness using electrical
+tape making, sure the diode is completely sealed           NOTE: The compressor clutch can be serviced in
+from the elements.                                         the vehicle. The refrigerant system can remain fully-
+  (8) Reconnect the negative battery cable, and test       charged during compressor clutch, pulley, or coil
+A/C clutch operation.                                      replacement.
+
+A/C CLUTCH INSPECTION                                        (1) Disconnect and isolate the battery negative
+                                                           cable.
+NOTE: The A/C clutch can be serviced in the vehi-            (2) Remove the serpentine drive belt (Refer to 7 -
+cle. The refrigerant system can remain fully-charged       COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+during compressor clutch, pulley and bearing               REMOVAL) and (Refer to 7 - COOLING/ACCES-
+assembly, or coil replacement.                             SORY DRIVE/DRIVE BELTS - REMOVAL).
+

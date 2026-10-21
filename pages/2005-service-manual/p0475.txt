@@ -1,0 +1,56 @@
+TJ                                                             LAMPS/LIGHTING - EXTERIOR                8L - 5
+LAMPS/LIGHTING - EXTERIOR (Continued)
+WARNING: ON VEHICLES EQUIPPED WITH AIR-               IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+ATTEMPTING ANY STEERING WHEEL, STEERING               CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+COLUMN, OR INSTRUMENT PANEL COMPONENT                 BAG DEPLOYMENT AND POSSIBLE PERSONAL
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-             INJURY.
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,               Conventional and halogen headlamps are inter-
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-             changeable. It is recommended that they not be
+TEM CAPACITOR TO DISCHARGE BEFORE PER-                intermixed.
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+
+      CONDITION                 POSSIBLE CAUSES                               CORRECTION
+
+HEADLAMPS ARE DIM       1. Loose or corroded battery cables.   1. Clean and secure battery cable clamps
+WITH ENGINE IDLING OR                                          and posts.
+IGNITION TURNED OFF
+                        2. Loose or worn generator drive       2. Adjust or replace generator drive belt.
+                        belt.
+                        3. Charging system output too low.     3. Test and repair charging system. (Refer
+                                                               to 8 - ELECTRICAL/CHARGING -
+                                                               DIAGNOSIS AND TESTING)
+                        4. Battery has insufficient charge.    4. Test battery state-of -charge. (Refer to 8 -
+                                                               ELECTRICAL/BATTERY SYSTEM/
+                                                               BATTERY - DIAGNOSIS AND TESTING)
+                        5. Battery is sulfated or shorted.     5. Load test battery. (Refer to 8 -
+                                                               ELECTRICAL/BATTERY SYSTEM/
+                                                               BATTERY - DIAGNOSIS AND TESTING)
+                        6. Poor lighting circuit ground.       6. Test for voltage drop across ground
+                                                               locations.
+                        7. Both headlamp bulbs faulty.         7. Replace both headlamp bulbs.
+
+HEADLAMP BULBS BURN     1. Charging system output too high.    1. Test and repair charging system. (Refer
+OUT FREQUENTLY                                                 to 8 - ELECTRICAL/CHARGING -
+                                                               DIAGNOSIS AND TESTING)
+                        2. Loose or corroded terminals or      2. Inspect and repair all connectors and
+                        splices in headlamp circuit.           splices.
+
+HEADLAMPS ARE DIM       1. Charging system output too low.     1. Test and repair charging system. (Refer
+WITH ENGINE RUNNING                                            to 8 - ELECTRICAL/CHARGING -
+                                                               DIAGNOSIS AND TESTING)
+ABOVE IDLE*             2. Poor lighting circuit ground.       2. Test for voltage drop across ground
+                                                               locations.
+                        3. High resistance in headlamp         3. Test amperage draw of headlamp circuit.
+                        circuit.
+                        4. Both headlamp bulbs faulty.         4. Replace both headlamp bulbs.
+
+HEADLAMPS FLASH         1. Poor lighting circuit ground.       1. Test for voltage drop across ground
+RANDOMLY                                                       locations.
+                        2. High resistance in headlamp         2. Test amperage draw of headlamp circuit.
+                        circuit.                               Should not exceed 30 amps.
+                        3. Faulty headlamps switch circuit     3. Replace headlamp switch. (Refer to 8 -
+                        breaker.                               ELECTRICAL/LAMPS/LIGHTING -
+                                                               EXTERIOR/HEADLAMP SWITCH -
+                                                               REMOVAL)
+

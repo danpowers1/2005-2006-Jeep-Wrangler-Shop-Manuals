@@ -1,0 +1,60 @@
+8O - 20     RESTRAINTS                                                                                       TJ
+DRIVER AIRBAG (Continued)
+proper electrical signal to the initiator the electrical   NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+energy generates enough heat to initiate a small           MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+pyrotechnic charge which, in turn ignites chemical         CHARGE BEFORE PERFORMING FURTHER DIAG-
+pellets within the inflator. Once ignited, these chem-     NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+ical pellets burn rapidly and produce a large quantity     TO DISABLE THE SUPPLEMENTAL RESTRAINT
+of inert gas. The inflator is sealed to the back of the    SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+airbag housing and a diffuser in the inflator directs      CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+all of the inert gas into the airbag cushion, causing      BAG DEPLOYMENT.
+the cushion to inflate. As the cushion inflates, the
+driver airbag trim cover will split at predetermined       WARNING: TO AVOID PERSONAL INJURY OR
+breakout lines, then fold back out of the way along        DEATH, WHEN REMOVING A DEPLOYED AIRBAG,
+with the horn switch unit. Following an airbag             RUBBER GLOVES, EYE PROTECTION, AND A
+deployment, the airbag cushion quickly deflates by         LONG-SLEEVED SHIRT SHOULD BE WORN. THERE
+venting the inert gas towards the instrument panel         MAY BE DEPOSITS ON THE AIRBAG CUSHION AND
+through the porous fabric material used to construct       OTHER INTERIOR SURFACES. IN LARGE DOSES,
+the back (steering wheel side) panel of the airbag         THESE DEPOSITS MAY CAUSE IRRITATION TO THE
+cushion.                                                   SKIN AND EYES.
+   Some of the chemicals used to create the inert gas
+may be considered hazardous while in their solid             (1) Disconnect and isolate the battery negative
+state before they are burned, but they are securely        cable. Wait two minutes for the system capacitor to
+sealed within the airbag inflator. Typically, all poten-   discharge before further service.
+tially hazardous chemicals are burned during an air-         (2) From the underside of the steering wheel,
+bag deployment event. The inert gas that is produced       remove the two screws that secure the driver airbag
+when the chemicals are burned is harmless. How-            to the steering wheel armature (Fig. 22).
+ever, a small amount of residue from the burned
+chemicals may cause some temporary discomfort if it
+contacts the skin, eyes, or breathing passages. If skin
+or eye irritation is noted, rinse the affected area with
+plenty of cool, clean water. If breathing passages are
+irritated, move to another area where there is plenty
+of clean, fresh air to breath. If the irritation is not
+alleviated by these actions, contact a physician.
+
+REMOVAL
+  The following procedure is for replacement of a
+faulty or damaged driver airbag. If the airbag is
+faulty or damaged, but not deployed, review the rec-
+ommended procedures for handling non-deployed
+supplemental restraints. (Refer to 8 - ELECTRICAL/
+RESTRAINTS - STANDARD PROCEDURE - HAN-
+DLING       NON-DEPLOYED           SUPPLEMENTAL                    Fig. 22 Driver Airbag Remove/Install
+RESTRAINTS). If the driver airbag has been                 1 - STEERING WHEEL
+deployed, review the recommended procedures for            2 - CLOCKSPRING PIGTAIL WIRE (HORN SWITCH)
+service after a supplemental restraint deployment          3 - DRIVER AIRBAG
+                                                           4 - CLOCKSPRING PIGTAIL WIRE (AIRBAG)
+before removing the airbag from the vehicle. (Refer to     5 - SCREW (2)
+8 - ELECTRICAL/RESTRAINTS - STANDARD PRO-
+CEDURE - SERVICE AFTER A SUPPLEMENTAL                         (3) Pull the driver airbag away from the steering
+RESTRAINT DEPLOYMENT).                                     wheel far enough to access the two electrical connec-
+                                                           tions at the back of the airbag housing.
+WARNING: TO AVOID PERSONAL INJURY OR                          (4) Disconnect the clockspring pigtail wire connec-
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                  tor for the horn switch from the horn switch feed pig-
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                    tail wire connector located on the back of the driver
+TEM BEFORE ATTEMPTING ANY STEERING                         airbag.
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+

@@ -1,0 +1,60 @@
+21 - 50    AUTOMATIC TRANSMISSION - 42RLE                                                                   TJ
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+
+DIAGNOSIS AND TESTING - CLUTCH AIR                        REVERSE CLUTCH
+PRESSURE TESTS                                              Apply air pressure to the reverse clutch apply pas-
+                                                          sage and watch for the push/pull piston to move rear-
+                                                          ward. The piston should return to its starting
+                                                          position when the air pressure is removed.
+
+                                                          LOW/REVERSE CLUTCH
+                                                            Apply air pressure to the low/reverse clutch feed
+                                                          hole passage. Look in the area where the low/reverse
+                                                          piston contacts the first separator plate. Watch care-
+                                                          fully for the piston to move forward. The piston
+                                                          should return to its original position after the air
+                                                          pressure is removed.
+
+                                                          UNDERDRIVE CLUTCH
+
+
+
+            Fig. 9 Air Pressure Test Plate
+1 - AIR PRESSURE TEST PLATES
+2 - 2/4 CLUTCH RETAINER HOLE
+
+  Inoperative clutches can be located by substituting
+air pressure for fluid pressure. The clutches may be
+tested by applying air pressure to their respective
+passages after the valve body has been removed. Use
+Special Tool 6599-1 (1) and 6599-2 (1) to perform test
+(Fig. 9).
+  To make air pressure tests, proceed as follows:
+
+NOTE: The compressed air supply must be free of
+all dirt and moisture. Use a pressure of 30 psi.                   Fig. 10 Testing Underdrive Clutch
+                                                          1 - AIR PRESSURE TEST PLATE 6599-1
+   (1) Remove oil pan and valve body. (Refer to 21 -      2 - AIR NOZZLE
+TRANSMISSION/AUTOMATIC             -   42RLE/VALVE
+BODY - REMOVAL)                                             Because this clutch piston cannot be seen, its oper-
+   (2) Apply air pressure to the holes in the special     ation is checked by function. Air pressure is applied
+tool (1), one at a time.                                  to the low/reverse or the 2/4 clutches. This locks the
+   (3) Listen for the clutch to apply. It will give a     output shaft. Use a piece of rubber hose wrapped
+slight thud sound. If a large amount of air is heard      around the input shaft and a pair of clamp-on pliers
+escaping, the transmission must be removed from           to turn the input shaft. Next apply air pressure (Fig.
+vehicle, disassembled and all seals inspected.            10) to the underdrive clutch. The input shaft should
+                                                          not rotate with hand torque. Release the air pressure
+2/4 CLUTCH                                                and confirm that the input shaft will rotate.
+  Apply air pressure to the feed hole located on the
+2/4 clutch retainer (2). Look in the area where the       DIAGNOSIS AND TESTING - FLUID LEAKAGE
+2/4 piston contacts the first separator plate and
+watch carefully for the 2/4 piston to move rearward.      FLUID LEAKAGE - TORQUE CONVERTER HOUSING
+The piston should return to its original position after   AREA
+the air pressure is removed.                                When diagnosing converter housing fluid leaks,
+                                                          three actions must be taken before repair:
+OVERDRIVE CLUTCH                                            (1) Verify proper transmission fluid level.
+  Apply air pressure to the overdrive clutch apply          (2) Verify that the leak originates from the con-
+passage and watch for the push/pull piston to move        verter housing area and is transmission fluid.
+forward. The piston should return to its starting           (3) Determine the true source of the leak.
+position when the air pressure is removed.
+

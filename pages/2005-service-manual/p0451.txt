@@ -1,0 +1,63 @@
+TJ                                                                           INSTRUMENT CLUSTER            8J - 25
+
+
+CRUISE INDICATOR                                           indicator remains illuminated until the cluster
+                                                           receives a cruise lamp-off message from the PCM or
+                                                           until the ignition switch is turned to the Off position,
+DESCRIPTION
+                                                           whichever occurs first.
+                                                              • Actuator Test - Each time the cluster is put
+                                                           through the actuator test, the cruise indicator will be
+               Fig. 11 Cruise Indicator                    turned on, then off again during the bulb check por-
+                                                           tion of the test in order to confirm the functionality
+   A cruise indicator is standard equipment on all         of the LED and the cluster control circuitry.
+instrument clusters (Fig. 11). However, on vehicles           The PCM continually monitors the speed control
+not equipped with the optional speed control system,       switches to determine the proper outputs to the
+this indicator is electronically disabled. The cruise      speed control servo. The PCM then sends the proper
+indicator is located near the upper edge of the instru-    cruise indicator lamp-on and lamp-off messages to
+ment cluster, to the left of center. The cruise indica-    the instrument cluster. For further diagnosis of the
+tor consists of a stencil-like cutout of the word          cruise indicator or the instrument cluster circuitry
+“CRUISE” in the opaque layer of the instrument             that controls the indicator, (Refer to 8 - ELECTRI-
+cluster overlay. The dark outer layer of the overlay       CAL/INSTRUMENT CLUSTER - DIAGNOSIS AND
+prevents the indicator from being clearly visible          TESTING). For proper diagnosis of the speed control
+when it is not illuminated. A green Light Emitting         system, the PCM, the PCI data bus, or the electronic
+Diode (LED) behind the cutout in the opaque layer of       message inputs to the instrument cluster that control
+the overlay causes the “CRUISE” text to appear in          the cruise indicator, a DRBIIIt scan tool is required.
+green through the translucent outer layer of the           Refer to the appropriate diagnostic information.
+overlay when the indicator is illuminated from
+behind by the LED, which is soldered onto the
+instrument cluster electronic circuit board. The illu-     ENGINE TEMPERATURE
+mination intensity of the cruise indicator is one-step
+dimmable. When the exterior lighting is turned On,
+                                                           GAUGE
+the indicator is dimmed; and, when the exterior
+lighting is turned Off, the indicator is illuminated at    DESCRIPTION
+full intensity. The cruise indicator is serviced as a
+unit with the instrument cluster.
+
+OPERATION                                                        Fig. 12 Engine Coolant Temperature Icon
+   The cruise indicator gives an indication to the vehi-      An engine coolant temperature gauge is standard
+cle operator when the speed control system is turned       equipment on all instrument clusters. The engine
+On, regardless of whether the speed control is             coolant temperature gauge is located in the lower
+engaged. This indicator is controlled by the instru-       right quadrant of the instrument cluster, below the
+ment cluster circuit board based upon cluster pro-         oil pressure gauge. The engine coolant temperature
+gramming and electronic messages received by the           gauge consists of a movable gauge needle or pointer
+cluster from the Powertrain Control Module (PCM)           controlled by the instrument cluster circuitry and a
+over the Programmable Communications Interface             fixed 90 degree scale on the cluster overlay that
+(PCI) data bus. The cruise indicator Light Emitting        reads left-to-right from 40° C (or 100° F) to 125° C
+Diode (LED) is completely controlled by the instru-        (or 260° F). An International Control and Display
+ment cluster logic circuit, and that logic will only       Symbol icon for “Engine Coolant Temperature” is
+allow this indicator to operate when the instrument        located on the cluster overlay, directly above the hub
+cluster receives a battery current input on the fused      of the gauge needle (Fig. 12). The engine coolant tem-
+ignition switch output (run-start) circuit. Therefore,     perature gauge graphics are white and blue against a
+the LED will always be off when the ignition switch        black field except for a single red graduation at the
+is in any position except On or Start. The LED only        high end of the gauge scale, making them clearly vis-
+illuminates when it is provided a path to ground by        ible within the instrument cluster in daylight. When
+the instrument cluster transistor. The instrument          illuminated from behind by the panel lamps dimmer
+cluster will turn on the cruise indicator for the fol-     controlled cluster illumination lighting with the exte-
+lowing reasons:                                            rior lamps turned On, the white graphics appear
+   • Cruise Lamp-On Message - Each time the                white, the blue graphics appear blue, and the red
+cluster receives a cruise lamp-on message from the         graphics appear red. The orange gauge needle is
+PCM indicating the speed control system has been           internally illuminated. Gauge illumination is pro-
+turned On, the cruise indicator is illuminated. The        vided by replaceable incandescent bulb and bulb
+

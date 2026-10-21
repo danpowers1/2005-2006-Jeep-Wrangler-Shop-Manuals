@@ -1,0 +1,60 @@
+9 - 52    ENGINE 2.4L                                                                                        TJ
+OIL PAN (Continued)
+
+INSTALLATION                                                • A 5 volt power supply from the Powertrain Con-
+  (1) Install the oil pan gasket to the block.            trol Module (PCM)
+  (2) Apply a 3MM (1/8 inch) bead of Mopart Engine          • A sensor ground through the PCM’s sensor
+RTV at the oil pump to engine block parting line          return
+(Fig. 82).                                                  • A signal to the PCM relating to engine oil pres-
+                                                          sure
+                                                            The oil pressure sensor has a 3 wire electrical
+                                                          function very much like the Manifold Absolute Pres-
+                                                          sure (MAP) sensor. Meaning different pressures
+                                                          relate to different output voltages.
+                                                            A 5 volt supply is sent to the sensor from the PCM
+                                                          to power up the sensor. The sensor returns a voltage
+                                                          signal back to the PCM relating to engine oil pres-
+                                                          sure. This signal is then transferred (bussed) to the
+                                                          instrument panel on either a CCD or PCI bus circuit
+                                                          (depending on vehicle line) to operate the oil pressure
+                                                          gauge and the check gauges lamp. Ground for the
+                                                          sensor is provided by the PCM through a low-noise
+                                                          sensor return.
+
+
+                                                          OIL PUMP
+                                                          REMOVAL
+                                                            (1) Disconnect negative cable from battery.
+                                                            (2) Remove timing belt. (Refer to 9 - ENGINE/
+                                                          VALVE     TIMING/TIMING        BELT/CHAIN     AND
+                                                          SPROCKETS - REMOVAL)
+      Fig. 82 OIL PAN GASKET INSTALLATION                   (3) Remove timing belt rear cover. (Refer to 9 -
+1 - SEALER LOCATION                                       ENGINE/VALVE TIMING/TIMING BELT / CHAIN
+                                                          COVER(S) - REMOVAL)
+  (3) Install pan and tighten the screws to 12 N·m          (4) Remove oil pan. (Refer to 9 - ENGINE/LUBRI-
+(105 in. lbs.).                                           CATION/OIL PAN - REMOVAL)
+  (4) Lower engine, and remove Special Tool 8534.           (5) Remove crankshaft sprocket using Special
+  (5) Tighten engine mount thru bolts.                    Tools 6793 and C-4685-C2 (Fig. 83).
+  (6) Raise the front axle into position, and reinstall     (6) Remove crankshaft key (Fig. 84).
+front axle mounting bolts. If equipped.
+  (7) Reconnect exhaust pipe to manifold.
+  (8) Install structural collar, if equipped.
+  (9) Lower vehicle.
+  (10) Fill engine crankcase with proper oil to cor-
+rect level.
+  (11) Reinstall air cleaner assembly.
+
+
+OIL PRESSURE SENSOR/
+SWITCH
+DESCRIPTION
+  The 3–wire, electrical/mechanical engine oil pres-             Fig. 83 Crankshaft Sprocket - Removal
+sure sensor (sending unit) is located in an engine oil
+                                                          1 - SPECIAL TOOL 6793
+pressure gallery.                                         2 - SPECIAL TOOL C-4685–C2
+                                                          3 - CRANKSHAFT SPROCKET
+OPERATION
+  The oil pressure sensor uses three circuits. They         (7) Remove oil pick-up tube.
+are:                                                        (8) Remove oil pump (Fig. 85) and front crankshaft
+                                                          seal.
+

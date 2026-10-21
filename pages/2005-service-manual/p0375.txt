@@ -1,0 +1,50 @@
+TJ                                                                                 CHARGING         8F - 23
+CHARGING (Continued)
+
+TORQUE
+
+     DESCRIPTION                    N-m                      Ft. Lbs.                    In. Lbs.
+ Generator Mounting Bolts
+                                     57                        42                           -
+          (2.4L)
+ Generator Mounting Bolt             55                        41                           -
+         (4.0L)
+ Generator Pivot Bolt/Nut            55                        41                           -
+         (4.0L)
+ Generator B+ Cable Nut              13                         -                          115
+
+
+SPECIAL TOOLS                                        OPERATION
+                                                       The BTS is used to determine the battery temper-
+                                                     ature and control battery charging rate. This temper-
+                                                     ature data, along with data from monitored line
+                                                     voltage, is used by the PCM to vary the battery
+                                                     charging rate. System voltage will be higher at colder
+                                                     temperatures and is gradually reduced at warmer
+                                                     temperatures.
+                                                       The PCM sends 5 volts to the sensor and is
+                                                     grounded through the sensor return line. As temper-
+                                                     ature increases, resistance in the sensor decreases
+                                                     and the detection voltage at the PCM increases.
+                                                       The BTS is also used for OBD II diagnostics. Cer-
+                                                     tain faults and OBD II monitors are either enabled
+      GENERATOR DECOUPLER TOOL #8433                 or disabled, depending upon BTS input (for example,
+                                                     disable purge and enable Leak Detection Pump
+                                                     (LDP) and O2 sensor heater tests). Most OBD II
+                                                     monitors are disabled below 20 degrees F.
+
+                                                     REMOVAL
+
+
+
+
+      GENERATOR DECOUPLER TOOL #8823
+                                                      Fig. 1 Battery Temperature Sensor Remove/Install
+BATTERY TEMPERATURE                                  1 - BATTERY TEMPERATURE SENSOR
+SENSOR                                               2 - BATTERY TRAY
+
+
+DESCRIPTION                                            The battery temperature sensor is located under
+  The Battery Temperature Sensor (BTS) is attached   the vehicle battery (Fig. 1) and is attached to a
+to the battery tray located under the battery.       mounting hole on battery tray.
+

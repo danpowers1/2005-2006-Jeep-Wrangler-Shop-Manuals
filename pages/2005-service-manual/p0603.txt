@@ -1,0 +1,71 @@
+TJ                                                                       REAR WIPERS/WASHERS            8R - 41
+REAR WIPER/WASHER SWITCH (Continued)
+or until the ignition switch is turned to the Off posi-      (2) Using an ohmmeter, check the rear wiper and
+tion, whichever occurs first. When the switch toggle      washer switch continuity at the switch terminals as
+button is depressed downward to its Wipe detent           shown in the Rear Wiper & Washer Switch Continu-
+position, the switch provides ignition switched bat-      ity chart (Fig. 24).
+tery current to the rear wiper motor and the rear
+wiper system operates. When the switch toggle but-
+ton is depressed downward to the momentary Wash
+position, the switch provides ignition switched bat-
+tery current to both the rear wiper motor and the
+rear washer pump motor for as long as the switch is
+held depressed. Refer to the owner’s manual in the
+vehicle glove box for more information on the fea-
+tures, use and operation of the rear wiper and
+washer switch.
+   The incandescent switch illumination lamp is con-
+trolled by a lamp driver output from the instrument
+cluster based upon the panel lamps dimmer input to
+the cluster from the left multi-function switch. The
+rear wiper and washer switch can be diagnosed using
+conventional diagnostic tools and methods.
+
+DIAGNOSIS AND TESTING - REAR WIPER &
+WASHER SWITCH
+  Be certain to perform the diagnosis for the rear
+wiper system and/or rear washer system before test-         Fig. 24 Rear Wiper & Washer Switch Continuity
+ing the rear wiper and washer switch. (Refer to 8 -
+ELECTRICAL/REAR WIPERS/WASHERS - DIAG-                       SWITCH POSITION           CONTINUITY BETWEEN
+NOSIS AND TESTING). Refer to the appropriate                         OFF                        1&4
+wiring information. The wiring information includes                 WIPE                        4&5
+wiring diagrams, proper wire and connector repair
+                                                                    WASH                     2 & 5, 4 & 5
+procedures, details of wire harness routing and
+retention, connector pin-out information and location               LAMP                        1&3
+views for the various wire harness connectors, splices
+                                                            (3) If the switch fails any of the continuity checks,
+and grounds.
+                                                          replace the faulty switch. If the switch checks OK,
+WARNING: TO AVOID PERSONAL INJURY OR                      repair the open or shorted rear wiper and/or rear
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                 washer system circuits as required.
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+TEM BEFORE ATTEMPTING ANY STEERING                        REMOVAL
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                          WARNING: TO AVOID PERSONAL INJURY OR
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                          DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                          DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                          TEM BEFORE ATTEMPTING ANY STEERING
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                          WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+                                                          MENT PANEL COMPONENT DIAGNOSIS OR SER-
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+                                                          VICE. DISCONNECT AND ISOLATE THE BATTERY
+TO DISABLE THE SUPPLEMENTAL RESTRAINT
+                                                          NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                          MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                          CHARGE BEFORE PERFORMING FURTHER DIAG-
+BAG DEPLOYMENT.
+                                                          NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+  (1) Disconnect and isolate the battery negative         TO DISABLE THE SUPPLEMENTAL RESTRAINT
+cable. Remove the accessory switch bezel from the         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+instrument panel and disconnect the instrument            CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+panel wire harness connector for the rear wiper and       BAG DEPLOYMENT.
+washer switch from the switch connector receptacle.
+

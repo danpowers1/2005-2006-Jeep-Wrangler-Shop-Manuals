@@ -1,0 +1,42 @@
+TJ                                                                                    ENGINE 4.0L       9 - 79
+ENGINE 4.0L (Continued)
+  (4) Remove the upper radiator hose and coolant           (17) Disconnect the following connectors and
+recovery hose (Fig. 4).                                  secure their harness out of the way.
+  (5) Remove the lower radiator hose.                      • Power steering pressure switch
+  (6) Remove upper radiator support retaining bolts        • Coolant temperature sensor
+and remove radiator support.                               • Six (6) fuel injector connectors
+  (7) Remove the fan assembly from the water pump          • Intake air temperature sensor
+(Refer to 7 - COOLING/ENGINE/FAN DRIVE VIS-                • Throttle position sensor
+COUS CLUTCH - REMOVAL).                                    • Map sensor
+  (8) Remove the fan shroud (Fig. 4).                      • Crankshaft position sensor
+  (9) Disconnect the transmission fluid cooler lines       • Oxygen sensor
+(automatic transmission).                                  • Camshaft position sensor
+  (10) Discharge the A/C system (Refer to 24 -             • Generator connector and B+ terminal wire
+HEATING & AIR CONDITIONING/PLUMBING -                      (18) Disconnect the coil rail electrical connections
+STANDARD PROCEDURE).                                     and the oil pressure switch connector.
+  (11) Remove the service valves and cap the com-          (19) Perform the fuel pressure release procedure
+pressor ports.                                           (Refer to 14 - FUEL SYSTEM/FUEL DELIVERY -
+  (12) Remove the radiator (Refer to 7 - COOLING/        STANDARD PROCEDURE).
+ENGINE/RADIATOR - REMOVAL) or radiator/con-                (20) Disconnect the fuel supply line at the injector
+denser (if equipped with A/C).                           rail (Refer to 14 - FUEL SYSTEM/FUEL DELIVERY/
+  (13) Disconnect the heater hoses at the engine         QUICK CONNECT FITTING - STANDARD PROCE-
+thermostat housing and water pump (Fig. 4).              DURE).
+
+
+
+
+   Fig. 4 Upper Radiator Hose, Coolant Recovery            Fig. 5 Accelerator Cable, Vehicle Speed Control
+                 Hose, Fan Shroud                                  Cable, Automatic Transmission
+1 - UPPER RADIATOR HOSE                                  1 - ACCELERATOR CABLE
+2 - HEATER HOSES                                         2 - SPEED CONTROL CABLE
+3 - FAN SHROUD                                           3 - QUICK-CONNECT FUEL LINES
+4 - COOLANT RECOVERY HOSE                                4 - AUTOMATIC TRANSMISSION CONTROL CABLE
+
+
+   (14) Disconnect the accelerator cable, transmission     (21) Remove the fuel line bracket from the intake
+line pressure cable and speed control cable (if          manifold.
+equipped) from the throttle body (Fig. 5).                 (22) Remove the air cleaner assembly (Fig. 6).
+   (15) Remove cables from the bracket and secure          (23) Disconnect the hoses from the fittings at the
+out of the way.                                          steering gear.
+   (16) Disconnect the body ground at the engine.          (24) Drain the pump reservoir.
+

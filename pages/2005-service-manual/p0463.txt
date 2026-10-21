@@ -1,0 +1,59 @@
+TJ                                                                           INSTRUMENT CLUSTER             8J - 37
+SEATBELT INDICATOR (Continued)
+tery current input on the fused ignition switch out-       instrument cluster, to the right of center. The four-
+put (run-start) circuit. Therefore, the LED will           wheel drive indicator consists of a stencil-like cutout
+always be off when the ignition switch is in any posi-     of the text “4WD” in the opaque layer of the instru-
+tion except On or Start. The LED only illuminates          ment cluster overlay. The dark outer layer of the
+when it is provided a path to ground by the instru-        overlay prevents the indicator from being clearly vis-
+ment cluster transistor. The instrument cluster will       ible when it is not illuminated. A amber Light Emit-
+turn on the seatbelt indicator for the following rea-      ting Diode (LED) behind the cutout in the opaque
+sons:                                                      layer of the overlay causes the “4WD” text to appear
+   • Seatbelt Reminder Function - Each time the            in amber through the translucent outer layer of the
+cluster receives a battery current input on the fused      overlay when the indicator is illuminated from
+ignition switch output (run-start) circuit, the indica-    behind by the LED, which is soldered onto the
+tor will be illuminated as a seatbelt reminder for         instrument cluster electronic circuit board. The illu-
+about seven seconds, or until the ignition switch is       mination intensity of the four-wheel drive indicator is
+turned to the Off position, whichever occurs first.        one-step dimmable. When the exterior lighting is
+This reminder function will occur regardless of the        turned On, the indicator is dimmed; and, when the
+status of the seatbelt switch input to the cluster.        exterior lighting is turned Off, the indicator is illumi-
+   • Driver Side Front Seatbelt Not Buckled -              nated at full intensity. The four-wheel drive indicator
+Following the seatbelt reminder function, each time        is serviced as a unit with the instrument cluster.
+the cluster detects a ground on the seat belt switch
+sense circuit (seatbelt switch closed = seatbelt           OPERATION
+unbuckled) with the ignition switch in the Start or           The four-wheel drive indicator gives an indication
+On positions, the indicator will be illuminated. The       to the vehicle operator that a four-wheel drive oper-
+seatbelt indicator remains illuminated until the seat      ating mode of the four-wheel drive transfer case is
+belt switch sense input to the cluster is an open cir-     selected. The four-wheel drive indicator lights when
+cuit (seatbelt switch open = seatbelt buckled), or         the transfer case is engaged in the 4H or 4L posi-
+until the ignition switch is turned to the Off position,   tions. This indicator is controlled by a transistor on
+whichever occurs first.                                    the instrument cluster electronic circuit board based
+   • Actuator Test - Each time the cluster is put          upon cluster programming. On models not equipped
+through the actuator test, the seatbelt indicator will     with the optional Off-Road Package the cluster also
+be turned on, then off again during the bulb check         uses a hard wired transfer case switch input. Models
+portion of the test to confirm the functionality of the    that are equipped with the Off-Road Package do not
+LED and the cluster control circuitry.                     have a hard wired transfer case switch input, so the
+   The seatbelt switch is connected in series between      cluster uses electronic messages received by the clus-
+ground and the seat belt switch sense input to the         ter from the Powertrain Control Module (PCM) over
+instrument cluster. The seatbelt switch input to the       the Programmable Communications Interface (PCI)
+instrument cluster circuitry can be diagnosed using        data bus to determine the transfer case operating
+conventional diagnostic tools and methods. For fur-        mode. The four-wheel drive indicator Light Emitting
+ther diagnosis of the seatbelt indicator or the instru-    Diode (LED) is completely controlled by the instru-
+ment cluster circuitry that controls the LED, (Refer       ment cluster logic circuit, and that logic will only
+to 8 - ELECTRICAL/INSTRUMENT CLUSTER -                     allow this indicator to operate when the instrument
+DIAGNOSIS AND TESTING).                                    cluster receives a battery current input on the fused
+                                                           ignition switch output (run-start) circuit. Therefore,
+                                                           the LED will always be off when the ignition switch
+SHIFT INDICATOR (TRANSFER                                  is in any position except On or Start. The LED only
+CASE)                                                      illuminates when it is provided a path to ground by
+                                                           the instrument cluster transistor. The instrument
+DESCRIPTION                                                cluster will turn on the four-wheel drive indicator for
+                                                           the following reasons:
+                                                              • Transfer Case Switch Input - Each time the
+                                                           cluster detects a ground on the 4WD switch sense
+                                                           circuit (transfer case switch closed = 4WD mode
+                                                           selected) the part time indicator is illuminated. The
+                Fig. 23 4WD Indicator                      indicator remains illuminated until the 4WD switch
+  A four-wheel drive indicator is standard equipment       sense input to the cluster is an open circuit (transfer
+on all instrument clusters (Fig. 23). The four-wheel       case switch open = 4WD mode not selected), or until
+drive indicator is located near the upper edge of the
+

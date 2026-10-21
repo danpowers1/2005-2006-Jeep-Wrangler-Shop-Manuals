@@ -1,0 +1,50 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                             8W - 80 - 11
+
+
+                   C109 (A/T) - LT. GRAY (ENGINE SIDE)
+              CAV                     CIRCUIT
+               1      -
+               2      T515 18YL/DB
+               3      T16 16YL/OR
+               4      D15 18WT/DG
+               5      D16 18WT/OR
+               6      -
+               7      T56 18DG/LB
+               8      -
+               9      T6 18DG
+              10      -
+
+
+
+
+              C170 - WHITE (HEADLAMP AND DASH SIDE)
+              CAV                     CIRCUIT
+               1      L13 20WT/YL (HEADLAMP LEVELING)
+               2      C115 20DB
+               3      A502 12RD/LG (EXCEPT HEATER ONLY)
+               3      A111 12RD/LB (HEATER ONLY)
+               4      F306 16DB/PK
+               5      T56 20DG/LB (A/T)
+               6      C221 20LB/OR (A/C)
+               7      T6 20DG (A/T)
+               8      G231 20VT/YL
+               9      D20 20WT/LG
+              10      D21 20WT/BR
+              11      A205 18RD/OR
+              12      L300 14LG/WT
+              12      L340 14WT/OR
+              13      G305 20VT/LG (OFF-ROAD PACKAGE)
+              14      Z11 20BK/LG
+              15      D16 20WT/OR
+              16      G300 20VT/WT (OFF-ROAD PACKAGE)
+              17      G301 20VT/LB (OFF-ROAD PACKAGE)
+              18      G32 20VT/LB
+              19      G4 20VT/LB (ABS)
+              20      L39 18WT/OR
+              21      -
+              22      B83 20DG/WT
+              23      D15 20WT/DG (A/T)
+              24      G304 20VT/DB (OFF-ROAD PACKAGE)
+              25      -
+              26      -
+

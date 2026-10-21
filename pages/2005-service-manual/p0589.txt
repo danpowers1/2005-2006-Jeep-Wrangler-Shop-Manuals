@@ -1,0 +1,60 @@
+TJ                                                                        REAR WIPERS/WASHERS            8R - 27
+REAR WIPERS/WASHERS (Continued)
+through the rear wiper motor control circuit to the        the various wire harness connectors, splices and
+rear wiper motor, which causes the rear wiper to           grounds.
+cycle continuously at a fixed speed.
+   When the Off position of the rear wiper and             WARNING: TO AVOID PERSONAL INJURY OR
+washer switch is selected, one of two events is possi-     DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+ble. The event that will occur depends upon the posi-      DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+tion of the wiper blade on the liftglass at the moment     TEM BEFORE ATTEMPTING ANY STEERING
+that the Off position is selected. If the wiper blade is   WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+in the up position on the glass when the Off position      MENT PANEL COMPONENT DIAGNOSIS OR SER-
+is selected, the park switch in the rear wiper motor       VICE. DISCONNECT AND ISOLATE THE BATTERY
+is closed to ground through the rear wiper motor con-      NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+trol circuit input and the wiper motor ceases to oper-     MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+ate. If the wiper blade is not in the up position on       CHARGE BEFORE PERFORMING FURTHER DIAG-
+the glass when the Off position is selected, the park      NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+switch is closed to battery current through the fused      TO DISABLE THE SUPPLEMENTAL RESTRAINT
+ignition switch output (run) circuit. The park switch      SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+directs this battery current to the rear wiper motor       CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+brush causing the motor to continue running until          BAG DEPLOYMENT.
+the wiper blade is in the up position on the glass, at
+which time the park switch opens the battery current          (1) Check the rear wiper and washer fuse (Fuse 6 -
+feed to the rear wiper motor brush and is again            20 ampere) in the fuse block. If OK, go to Step 2. If
+closed to ground through the rear wiper motor con-         not OK, repair the shorted circuit or component as
+trol circuit input and the wiper motor ceases to oper-     required and replace the faulty fuse.
+ate.                                                          (2) Turn the ignition switch to the On position.
+                                                           Check for battery voltage at rear wiper and washer
+WASH MODE                                                  fuse (Fuse 6 - 20 ampere) in the fuse block. If OK, go
+  When the momentary Wash position of the rear             to Step 3. If not OK, repair the open fused ignition
+wiper and washer switch rocker is selected, the Wash       switch output (run) circuit between the fuse block
+position circuitry within the switch directs battery       and the ignition switch as required.
+current to the rear washer pump and to the rear               (3) Turn the ignition switch to the Off position.
+washer motor control circuit input of the rear wiper       Disconnect and isolate the battery negative cable.
+motor, which causes both the rear washer pump and          Disconnect the instrument panel wire harness con-
+the rear wiper motor to operate for as long as the         nector for the rear wiper and washer switch from the
+rear wiper and washer switch rocker is held in the         switch connector receptacle. Reconnect the battery
+momentary Wash position.                                   negative cable. Turn the ignition switch to the On
+                                                           position. Check for battery voltage at the fused igni-
+DIAGNOSIS AND TESTING - REAR WIPER &                       tion switch output (run) circuit cavity of the instru-
+                                                           ment panel wire harness connector for the rear wiper
+WASHER SYSTEM                                              and washer switch. If OK, go to Step 4. If not OK,
+                                                           repair the open fused ignition switch output (run) cir-
+WIPER SYSTEM                                               cuit between the rear wiper and washer switch and
+   The diagnosis found here addresses an electrically      the fuse block as required.
+inoperative rear wiper system. If the rear wiper              (4) Turn the ignition switch to the Off position.
+motor operates, but the wiper does not move on the         Disconnect and isolate the battery negative cable.
+liftglass, inspect the mechanical connection between       Check for continuity between the ground circuit cav-
+the rear wiper arm and the rear wiper motor output         ity of the instrument panel wire harness connector
+shaft. If OK, replace the faulty rear wiper motor. If      for the rear wiper and washer switch and a good
+the wiper operates, but chatters, lifts, or does not       ground. There should be continuity. If OK, go to Step
+clear the glass, clean and inspect the rear wiper sys-     5. If not OK, repair the open ground circuit to ground
+tem components as required. (Refer to 8 - ELECTRI-         (G200) as required.
+CAL/REAR WIPERS/WASHERS - INSPECTION) and                     (5) Test the rear wiper and washer switch continu-
+(Refer to 8 - ELECTRICAL/REAR WIPERS/WASH-                 ity. (Refer to 8 - ELECTRICAL/REAR WIPERS/
+ERS - CLEANING). Refer to the appropriate wiring           WASHERS/REAR WIPER/WASHER SWITCH -
+information. The wiring information includes wiring        DIAGNOSIS AND TESTING). If OK, go to Step 6. If
+diagrams, proper wire and connector repair proce-          not OK, replace the faulty rear wiper and washer
+dures, details of wire harness routing and retention,      switch.
+connector pin-out information and location views for
+

@@ -1,0 +1,45 @@
+TJ                                                                          INSTRUMENT CLUSTER           8J - 5
+INSTRUMENT CLUSTER (Continued)
+
+
+
+
+                                          Fig. 3 Gauges & Indicators
+1 - FOG LAMP INDICATOR                                    14 - 4WD INDICATOR
+2 - VOLTAGE GAUGE                                         15 - NOT APPLICABLE
+3 - CRUISE INDICATOR                                      16 - ENGINE TEMPERATURE GAUGE
+4 - SKIS INDICATOR                                        17 - AIRBAG INDICATOR
+5 - TACHOMETER                                            18 - CHECK GAUGES INDICATOR
+6 - LEFT TURN INDICATOR                                   19 - MALFUNCTION INDICATOR LAMP
+7 - HIGH BEAM INDICATOR                                   20 - ODOMETER/TRIP ODOMETER SWITCH BUTTON
+8 - SEATBELT INDICATOR                                    21 - ODOMETER/TRIP ODOMETER DISPLAY
+9 - RIGHT TURN INDICATOR                                  22 - ABS INDICATOR
+10 - SPEEDOMETER                                          23 - BRAKE INDICATOR
+11 - FRONT LOCK INDICATOR                                 24 - LOW FUEL INDICATOR
+12 - REAR LOCK INDICATOR                                  25 - FUEL GAUGE
+13 - OIL PRESSURE GAUGE
+
+
+
+tinct visual and/or audible indications of a problem to   ground screw to the back of the instrument panel
+the vehicle operator. The instrument cluster circuitry    structural support near the lower left corner of the
+may also produce audible warnings for other elec-         instrument panel, just inboard of the left instrument
+tronic modules in the vehicle based upon electronic       panel end bracket.
+tone request messages received over the PCI data            The EMIC also has a self-diagnostic actuator test
+bus. Each audible warning is intended to provide the      capability, which will test each of the PCI bus mes-
+vehicle operator with an audible alert to supplement      sage-controlled functions of the cluster by lighting
+a visual indication.                                      the appropriate indicators, positioning the gauge nee-
+  The EMIC circuitry operates on battery current          dles at several predetermined calibration points
+received through the Ignition-Off Draw (IOD) fuse in      across the gauge faces, and illuminating all segments
+the Power Distribution Center (PDC) on a non-             of the odometer/trip odometer Vacuum-Fluorescent
+switched fused B(+) circuit, and on battery current       Display (VFD) unit. (Refer to 8 - ELECTRICAL/IN-
+received through a fuse in the fuse block on a fused      STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+ignition switch output (run-start) circuit. This          ING). See the owner’s manual in the vehicle glove
+arrangement allows the EMIC to provide some fea-          box for more information on the features, use and
+tures regardless of the ignition switch position, while   operation of the EMIC.
+other features will operate only with the ignition
+switch in the On or Start positions. The EMIC cir-        GAUGES
+cuitry is grounded through a ground circuit and take        All gauges receive battery current through the
+out of the instrument panel wire harness with an          EMIC circuitry only when the ignition switch is in
+eyelet terminal connector that is secured under a         the On or Start positions. With the ignition switch in
+

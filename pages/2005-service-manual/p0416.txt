@@ -1,0 +1,53 @@
+8I - 10    IGNITION CONTROL                                                                                 TJ
+CAMSHAFT POSITION SENSOR - 4.0L (Continued)
+OIL PUMP DRIVE AND CMP SENSOR - 4.0L
+  If the CMP and oil pump drive are to be
+removed and installed, do not allow engine
+crankshaft or camshaft to rotate. CMP sensor
+relationship will be lost.
+
+
+
+
+                                                               Fig. 17 4.0L CMP REMOVAL/INSTALLATION
+                                                           1 - OIL PUMP DRIVE HOUSING
+                                                           2 - CMP SENSOR
+                                                           3 - SENSOR MOUNTING BOLT
+                                                           4 - TARGET WHEEL
+                                                           5 - HOUSING
+
+
+
+
+          Fig. 16 4.0L CMP LOCATION (’05)
+1 - OIL PUMP DRIVE ASSEMBLY
+2 - CMP
+3 - CMP ELECTRICAL CONNECTOR
+4 - HOUSING HOLD DOWN BOLT
+5 - HOUSING
+6 - PLASTIC COVER
+7 - COVER SCREWS (2)
+
+  (1) Remove two plastic cover screws (7) (Fig. 16)
+and remove plastic cover (6).
+  (2) Note and mark rotational position of target
+wheel (4) (Fig. 17) in relationship to housing (5).
+  (3) Disconnect CMP electrical jumper harness (3)
+at engine wiring harness (Fig. 16).
+  (4) Before proceeding to next step, mark and note
+rotational position of oil pump drive housing (5) (Fig.
+16) in relationship to engine block. After installation,
+the CMP sensor should face the 4 o’clock position as           Fig. 18 4.0L CMP REMOVAL/INSTALLATION
+viewed from right side of engine.                          1 - OIL PUMP DRIVE HOUSING
+  (5) Remove hold-down bolt (4) and clamp (Fig. 16).       2 - CMP SENSOR
+                                                           3 - SENSOR MOUNTING BOLT
+  (6) Pull assembly from engine.                           4 - TARGET WHEEL
+  (7) Remove and discard old oil pump drive-to-en-         5 - HOUSING
+gine block gasket.
+                                                              (2) Install sensor mounting bolt (3) (Fig. 18) and
+INSTALLATION - 4.0L                                        tighten to 2 N·m (15 in. lbs.) torque.
+                                                              (3) Connect CMP electrical jumper harness (3)
+SENSOR ONLY - 4.0L                                         (Fig. 19) to engine wiring harness.
+  (1) Install sensor (2) (Fig. 18) to oil pump drive
+housing (1).
+

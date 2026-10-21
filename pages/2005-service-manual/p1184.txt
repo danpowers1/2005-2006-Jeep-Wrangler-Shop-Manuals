@@ -1,0 +1,49 @@
+21 - 40      AUTOMATIC TRANSMISSION - 42RLE                                                                TJ
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+1 - DRIVEPLATE                         6 - REVERSE CLUTCH                     11 - STUB SHAFT
+2 - TORQUE CONVERTER                   7 - FRONT PLANET CARRIER               12 - LOW/REVERSE CLUTCH
+3 - INPUT SHAFT                        8 - REAR PLANET CARRIER                13 - 2/4 CLUTCH
+4 - UNDERDRIVE CLUTCH                  9 - OUTPUT SHAFT                       14 - OIL PUMP
+5 - OVERDRIVE CLUTCH                   10 - SNAP RING
+
+
+
+TRANSMISSION IDENTIFICATION                               OPERATION
+                                                            The 42RLE transmission ratios are:
+
+                                                                    First                       2.84 : 1
+                                                                  Second                        1.57 : 1
+                                                                    Third                       1.00 : 1
+                                                                  Overdrive                     0.69 : 1
+                                                                  Reverse                       2.21 : 1
+
+
+
+
+          Fig. 2 Identification Label Breakdown
+1 - T=TRACEABILITY
+2 - SUPPLIER CODE (PK=KOKOMO)
+3 - COMPONENT CODE (TK=KOKOMO TRANSMISSION)
+4 - BUILD DAY (350=DEC. 15)
+5 - BUILD YEAR (1=2001)
+6 - ASSEMBLY LINE CODE
+7 - BUILD SEQUENCE NUMBER
+8 - LAST THREE OF P/N
+9 - CHANGE LEVEL
+10 - TRANSMISSION PART NUMBER
+11 - P=PART NUMBER
+
+  The 42RLE transmission can be identified by a
+barcode label that is affixed to the upper left area of
+the bellhousing.
+  The label contains a series of digits that can be
+translated into useful information such as transmis-
+sion part number (10), date of manufacture (4, 5),
+manufacturing origin (2), assembly line identifier (6),
+build sequence number (7), etc. (Fig. 2).
+  If the tag is not legible or is missing, the “PK”
+number, which is stamped into the left rear flange of
+the transmission case, can be referred to for identifi-
+cation. The entire part number, build code, and
+sequence number are stamped into the flange.
+

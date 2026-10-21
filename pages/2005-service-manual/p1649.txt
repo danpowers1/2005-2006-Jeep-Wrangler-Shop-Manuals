@@ -1,0 +1,69 @@
+TJ                                                                                      PLUMBING        24 - 81
+REFRIGERANT LINE COUPLER (Continued)
+
+INSTALLATION                                                There are different PAG oils available, and each
+  (1) Check to ensure that the garter spring is           contains a different additive package. The 10PA17
+located within the cage of the male coupler fitting,      compressor used in this vehicle is designed to use an
+and that the garter spring is not damaged.                ND-8 PAG refrigerant oil. Use only refrigerant oil of
+    (a) If the garter spring is missing, install a new    this same type to service the refrigerant system.
+  spring by pushing it into the coupler cage opening.
+    (b) If the garter spring is damaged, remove it        OPERATION
+  from the coupler cage with a small wire hook (DO           After performing any refrigerant recovery or recy-
+  NOT use a screwdriver) and install a new garter         cling operation, always replenish the refrigerant sys-
+  spring.                                                 tem with the same amount of the recommended
+  (2) Clean any dirt or foreign material from both        refrigerant oil as was removed. Too little refrigerant
+halves of the coupler fitting.                            oil can cause A/C compressor damage, and too much
+  (3) Install new O-rings on the male half of the cou-    can reduce A/C system performance.
+pler fitting.                                                PAG refrigerant oil is more hygroscopic than min-
+                                                          eral oil, and will absorb any moisture it comes into
+CAUTION: Use only the specified O-rings as they           contact with, even moisture in the air. The PAG oil
+are made of a special material for the R-134a sys-        container should always be kept tightly capped until
+tem. The use of any other O-rings may allow the           it is ready to be used. After use, recap the oil con-
+connection to leak intermittently during vehicle          tainer immediately to prevent moisture contamina-
+operation.                                                tion.
+
+  (4) Lubricate the male fitting and O-rings, and the
+inside of the female fitting with clean R-134a refrig-    STANDARD PROCEDURE
+erant oil. Use only refrigerant oil of the type recom-
+mended for the compressor in the vehicle.                 REFRIGERANT OIL LEVEL
+  (5) Fit the female half of the coupler fitting over
+the male half of the fitting.                             WARNING: Review safety precautions and warnings
+  (6) Push together firmly on the two halves of the       in this group before performing this procedure
+coupler fitting until the garter spring in the cage on    (Refer to 24 - HEATING & AIR CONDITIONING/
+the male half of the fitting snaps over the flanged       PLUMBING - WARNINGS) and (Refer to 24 - HEAT-
+end on the female half of the fitting.                    ING & AIR CONDITIONING/PLUMBING - CAUTIONS).
+  (7) Ensure that the spring-lock coupler is fully        Failure to follow the warnings and cautions could
+engaged by trying to separate the two coupler halves.     result in possible personal injury or death.
+This is done by pulling the refrigerant lines on either
+side of the coupler away from each other.
+                                                          CAUTION: The oil used in the A/C compressor is
+  (8) Reinstall the secondary retaining clip over the
+                                                          ND-8 PAG R-134a refrigerant oil. Only refrigerant oil
+spring-lock coupler cage.
+                                                          of the same type should be used to service the A/C
+  (9) Evacuate the refrigerant system (Refer to 24 -
+                                                          system. Do not use any other refrigerant oil. The oil
+HEATING & AIR CONDITIONING/PLUMBING -
+                                                          container should be kept tightly capped until it is
+STANDARD PROCEDURE - REFRIGERANT SYS-
+                                                          ready for use and then tightly capped after use to
+TEM EVACUATE).
+                                                          prevent contamination from dirt and moisture.
+  (10) Charge the refrigerant system (Refer to 24 -
+                                                          Refrigerant oil will quickly absorb any moisture it
+HEATING & AIR CONDITIONING/PLUMBING -
+                                                          comes in contact with, therefore, special effort must
+STANDARD PROCEDURE - REFRIGERANT SYS-
+                                                          be used to keep all R-134a system components
+TEM CHARGE).
+                                                          moisture-free. Moisture in the refrigerant oil is very
+                                                          difficult to remove and will cause a reliability prob-
+REFRIGERANT OIL                                           lem with the A/C compressor.
+
+DESCRIPTION                                               NOTE: Most reclaim/recycling equipment will mea-
+   The refrigerant oil used in R-134a refrigerant sys-    sure the lubricant being removed during recovery.
+tems is a synthetic-based, PolyAlkylene Glycol (PAG),     This amount of lubricant should be added back into
+wax-free lubricant. Mineral-based R-12 refrigerant        the system. Refer to the reclaim/recycling equip-
+oils are not compatible with PAG oils, and should         ment manufacturers instructions.
+never be introduced to an R-134a refrigerant system.
+

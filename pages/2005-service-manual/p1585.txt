@@ -1,0 +1,56 @@
+TJ                                                                                      CONTROLS        24 - 17
+A/C HEATER CONTROL (Continued)
+
+DIAGNOSIS AND TESTING                                     VACUUM CHECK VALVE
+                                                            (1) Remove the vacuum check valve. The valve is
+VACUUM CONTROL SYSTEM                                     located in the (black) vacuum supply tube at the
+   Vacuum control is used to operate the mode-air         intake manifold vacuum tap.
+doors within the HVAC housing. Testing the opera-           (2) Connect the test set vacuum supply hose to the
+tion of the heating-only and heating-A/C system           A/C-heater control side of the vacuum check valve.
+mode control will determine if the vacuum and             When connected to this side of the check valve, no
+mechanical controls are functioning. However, it is       vacuum should pass and the test set gauge should
+possible that a vacuum control system that operates       return to the 27 kPa (8 in. Hg.) setting. If OK, go to
+correctly at engine idle (high engine vacuum) may         Step 3. If not OK, replace the faulty vacuum check
+not function properly at high engine speeds or loads      valve.
+(low engine vacuum). This can be caused by leaks            (3) Connect the test set vacuum supply hose to the
+within the vacuum system, or a faulty vacuum check        engine vacuum side of the vacuum check valve.
+valve.                                                    When connected to this side of the check valve, vac-
+   A vacuum system test will help to identify the         uum should flow through the check valve without
+source of poor vacuum system performance or vac-          restriction. If not OK, replace the faulty vacuum
+uum system leaks. Before starting this test, stop the     check valve.
+engine and make certain that the problem is not a
+disconnected vacuum supply line at the engine intake      A/C HEATER CONTROLS
+manifold vacuum tap or at the vacuum reservoir.              (1) Connect the test set vacuum probe to the heat-
+   Use an adjustable vacuum test set (Special Tool        er-A/C vacuum supply (black) tube in the engine
+C-3707-B) and a suitable vacuum pump to test the          compartment. Position the test set gauge so that it
+HVAC vacuum control system. With a finger placed          can be viewed from the passenger compartment.
+over the end of the vacuum test hose probe (Fig. 12),        (2) Place the A/C-heater mode control in each
+adjust the bleed valve on the test set gauge to obtain    mode position, one position at a time, and pause
+a vacuum of exactly 27 kPa (8 in. Hg.). Release and       after each selection. The test set gauge should return
+block the end of the probe several times to verify that   to the 27 kPa (8 in. Hg.) setting shortly after each
+the vacuum reading returns to the exact 27 kPa (8         selection is made. If not OK, a component or vacuum
+in. Hg.) setting. Otherwise, a false reading will be      line in the vacuum circuit of the selected mode has a
+obtained during testing.                                  leak. See the procedure in Locating Vacuum Leaks.
+
+                                                          LOCATING VACUUM LEAKS
+                                                          WARNING: On vehicles equipped with airbags, dis-
+                                                          able the airbag system before attempting any steer-
+                                                          ing wheel, steering column, or instrument panel
+                                                          component diagnosis or service. Disconnect and
+                                                          isolate the battery negative (ground) cable, then
+                                                          wait two minutes for the airbag system capacitor to
+                                                          discharge before performing further diagnosis or
+                                                          service. This is the only sure way to disable the air-
+                                                          bag system. Failure to take the proper precautions
+                                                          could result in accidental airbag deployment and
+                                                          possible personal injury or death.
+
+
+                                                          CAUTION: Do not use lubricant on the switch ports
+      Fig. 12 Adjust Vacuum Test Bleed Valve              or in the holes of the connector, as lubricant will
+                                                          ruin the vacuum valve in the switch. A drop of clean
+1 - VACUUM PUMP TOOL C-4289
+2 - VACUUM TEST SET C-3707                                water in the connector holes will help the connector
+3 - BLEED VALVE                                           slide onto the switch ports.
+4 - PROBE
+

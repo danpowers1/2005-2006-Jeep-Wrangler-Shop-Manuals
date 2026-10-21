@@ -1,0 +1,61 @@
+TJ                                                                                                                      CLUTCH          6-1
+
+
+                                                              CLUTCH
+                                                    TABLE OF CONTENTS
+
+                                                               page                                                                     page
+
+CLUTCH                                                                   PILOT BEARING
+  WARNING    .............................1                                REMOVAL    .............................8
+  DIAGNOSIS AND TESTING              ................1                     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+  SPECIFICATIONS                                                         LINKAGE
+    CLUTCH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5     REMOVAL    .............................8
+CLUTCH DISC                                                                INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+  REMOVAL    .............................6                              MASTER CYLINDER
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6       INSPECTION . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+CLUTCH RELEASE BEARING                                                   CLUTCH PEDAL
+  REMOVAL    .............................6                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+FLYWHEEL                                                                 CLUTCH PEDAL POSITION SWITCH
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 7        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+  DIAGNOSIS AND TESTING              ................8                     DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 11
+
+CLUTCH                                                                   release properly, remove and inspect the clutch com-
+                                                                         ponents. If the problem is noise or hard shifting, fur-
+                                                                         ther diagnosis may be needed as the transmission or
+WARNING
+                                                                         another driveline component may be at fault.
+WARNING: Exercise care when servicing clutch
+                                                                         NOTE: Vehicles equipped with a Dual Mass Fly-
+components. Factory installed clutch discs do not
+                                                                         wheel may produce a rattle when the engine is shut
+contain asbestos fibers. Dust and dirt on clutch
+                                                                         off. This noise is considered normal.
+parts may contain asbestos fibers from aftermarket
+components. Breathing excessive concentrations of
+these fibers can cause serious bodily harm. Wear a                       CLUTCH CONTAMINATION
+respirator during service and never clean clutch                            Fluid contamination is a frequent cause of clutch
+components with compressed air or with a dry                             malfunctions. Oil, water or clutch fluid on the clutch
+brush. Either clean the components with water                            disc and pressure plate surfaces will cause chatter,
+dampened rags or use a vacuum cleaner specifi-                           slip and grab. Inspect components for oil, hydraulic
+cally designed to remove asbestos fibers and dust.                       fluid or water/road splash contamination.
+Do not create dust by sanding a clutch discs.                               Oil contamination indicates a leak at either the
+Replace the disc if the friction material is damaged.                    rear main seal or transmission input shaft. Clutch
+Dispose of all dust and dirt containing asbestos                         fluid leaks are usually from damaged slave cylinder
+fibers in sealed bags or containers. This will mini-                     push rod seals. Heat buildup caused by slippage
+mize exposure to yourself and to others. Follow all                      between the pressure plate, disc and flywheel can
+recommended safety practices prescribed by the                           bake the oil residue onto the components. The glaze-
+occupational safety and health administration                            like residue ranges in color from amber to black.
+(OSHA) and the environmental safety agency (EPA),                           Road splash contamination is dirt/water entering
+for the handling and disposal of products contain-                       the clutch housing due to loose bolts, housing cracks.
+ing asbestos. Failure to follow these instructions                       Driving through deep water puddles can force water/
+may result in personal injury or death                                   road splash into the housing through such openings.
+
+                                                                         IMPROPER RELEASE OR CLUTCH ENGAGEMENT
+DIAGNOSIS AND TESTING                                                      Clutch release or engagement problems are caused
+  Drive the vehicle at normal speeds. Shift the trans-                   by wear or damage clutch components. A visual
+mission through all gear ranges and observe clutch                       inspection of the release components will usually
+action. If the clutch chatters, grabs, slips or does not                 reveal the problem part.
+

@@ -1,0 +1,43 @@
+3 - 22    FRONT AXLE - 181FBI                                                                                TJ
+FRONT AXLE - 181FBI (Continued)
+                                     PINION GEAR DEPTH VARIANCE
+
+  Original Pinion                          Replacement Pinion Gear Depth Variance
+   Gear Depth
+     Variance             24    23       22          21          0         +1        +2       +3        +4
+         +4           +0.008   +0.007   +0.006   +0.005       +0.004     +0.003     +0.002   +0.001     0
+         +3           +0.007   +0.006   +0.005   +0.004       +0.003     +0.002     +0.001     0      20.001
+         +2           +0.006   +0.005   +0.004   +0.003       +0.002     +0.001       0      20.001   20.002
+         +1           +0.005   +0.004   +0.003   +0.002       +0.001       0        20.001   20.002   20.003
+         0            +0.004   +0.003   +0.002   +0.001          0      20.001      20.002   20.003   20.004
+         21           +0.003   +0.002   +0.001       0        20.001    20.002      20.003   20.004   20.005
+         22           +0.002   +0.001     0      20.001       20.002    20.003      20.004   20.005   20.006
+         23           +0.001     0      20.001   20.002       20.003    20.004      20.005   20.006   20.007
+         24               0    20.001   20.002   20.003       20.004    20.005      20.006   20.007   20.008
+
+
+PINION DEPTH MEASUREMENT AND ADJUSTMENT                     (1) Assemble Pinion Height Block 6739, Pinion
+  Measurements are taken with pinion bearing cups         Block 6733 and rear pinion bearing onto Screw 6741
+and pinion bearings installed in the housing. Take        (Fig. 10).
+measurements with Pinion Gauge Set and Dial Indi-           (2) Insert assembled height gauge components,
+cator C-3339 (Fig. 10).                                   rear bearing and screw into the housing through pin-
+                                                          ion bearing cups (Fig. 11).
+                                                            (3) Install front pinion bearing and Cone-nut 6740
+                                                          hand tight.
+
+
+
+
+                                                                     Fig. 11 PINION HEIGHT BLOCK
+                                                          1 - PINION BLOCK
+                                                          2 - PINION HEIGHT BLOCK
+   Fig. 10 PINION GEAR DEPTH GAUGE TOOLS
+1 - DIAL INDICATOR
+2 - ARBOR
+3 - PINION HEIGHT BLOCK
+4 - CONE
+5 - SCREW
+6 - PINION BLOCK
+7 - SCOOTER BLOCK
+8 - ARBOR DISC
+

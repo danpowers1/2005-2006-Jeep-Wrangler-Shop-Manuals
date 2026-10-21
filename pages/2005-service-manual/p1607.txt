@@ -1,0 +1,60 @@
+TJ                                                                                 DISTRIBUTION        24 - 39
+BLOWER MOTOR (Continued)
+NOTE: For circuit descriptions and diagrams, refer         (2) Disconnect the wire harness connector from the
+to Air Conditioning/Heater in Group 8W - Wiring          blower motor (Fig. 4).
+Diagrams.                                                  (3) Release the locking tab that secures the blower
+                                                         motor to the HVAC housing and rotate blower motor
+                                                         counterclockwise.
+OPERATION                                                  (4) Rotate and tilt the blower motor as needed for
+  Possible causes of an inoperative blower motor or      clearance to remove the blower motor and wheel
+blower motor not operating in all speeds include:        from the HVAC housing.
+  • Faulty fuse
+  • Faulty blower motor resistor
+  • Faulty blower motor switch
+  • Faulty blower motor
+  • Faulty blower motor circuit wiring or wire har-
+ness connectors
+
+VIBRATION
+  Possible causes of blower motor vibration include:
+  • Improper blower motor mounting
+  • Improper blower wheel mounting
+  • Deformed blower wheel
+  • Out of balance blower wheel due to foreign
+material in the wheel
+  • Faulty blower motor
+
+NOISE
+  To determine if the blower motor is the source of
+the noise, simply switch the blower motor from Off to
+On. To verify that the blower motor is the source of
+the noise, unplug the blower motor wire harness con-
+nector and operate the heating-A/C system. If the
+noise goes away, possible causes include:
+  • Foreign material in the HVAC air inlet housing          Fig. 4 Blower Motor - LHD shown, RHD similar
+  • Improper blower motor mounting                       1 - HVAC HOUSING
+                                                         2 - BLOWER MOTOR
+  • Improper blower wheel mounting                       3 - RETAINER-LOCKING TAB
+  • Faulty blower motor                                  4 - WIRE HARNESS CONNECTOR
+
+REMOVAL                                                  INSTALLATION
+WARNING: On vehicles equipped with airbags, dis-         NOTE: Failure to install the blower motor assembly
+able the airbag system before attempting any steer-      correctly could result in an air leak or the blower
+ing wheel, steering column, or instrument panel          motor assembly becoming completely disengaged
+component diagnosis or service. Disconnect and           from the HVAC housing.
+isolate the battery negative (ground) cable, then
+wait two minutes for the airbag system capacitor to        (1) Align and install the blower motor into the
+discharge before performing further diagnosis or         HVAC housing.
+service. This is the only sure way to disable the air-     (2) Rotate the blower motor until all of the locking
+bag system. Failure to take the proper precautions       tabs have secured the blower motor assembly to the
+could result in an accidental airbag deployment and      HVAC housing.
+possible personal injury or death.                         (3) Connect the wire harness connector to the
+                                                         blower motor.
+NOTE: The blower motor is located on the passenger         (4) Reconnect the battery negative cable.
+side of the vehicle under the instrument panel. The        (5) Test the blower motor for proper installation by
+blower motor can be removed without having to            turning the blower motor speed to its fastest position
+remove the instrument panel or the HVAC housing.         and checking around the outer edges of the blower
+                                                         assembly for air leaks. If any air leaks are found,
+  (1) Disconnect and isolate the negative battery        remove and reinstall the blower motor.
+cable.
+

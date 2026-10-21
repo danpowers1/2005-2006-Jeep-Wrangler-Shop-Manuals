@@ -1,0 +1,58 @@
+19 - 24    PUMP                                                                                               TJ
+
+
+HOSES                                                     pump and system if any other fluid is used, and do
+                                                          not overfill.
+                                                             The power steering fluid level can be viewed on the
+DESCRIPTION                                               dipstick attached to the filler cap. There are two
+                                                          ranges listed on the dipstick, COLD and HOT. Before
+DESCRIPTION - PRESSURE LINE                               opening power steering system, wipe the reservoir
+  The hose consists of two metal ends and rubber          filler cap free of dirt and debris. Remove the cap and
+center section that contains a tuning cable.              check the fluid level on its dipstick. When the fluid is
+                                                          at normal ambient temperature, approximately 21°C
+DESCRIPTION - RETURN LINE                                 to 27°C (70°F to 80°F), the fluid level should read
+  Power steering return line is a hose which is           between the minimum and maximum area of the cold
+clamped at the pump and the gear.                         range. When the fluid is hot, fluid level is allowed to
+                                                          read up to the highest end of the HOT range. Only
+                                                          add fluid when the vehicle is cold.
+OPERATION                                                    Use only Mopart ATF+4 Do not overfill the
+                                                          power steering system.
+OPERATION - PRESSURE LINE
+  Power steering pressure line, is used to transfer
+high pressure power steering fluid, from the power        POWER STEERING PRESSURE
+steering pump to the power steering gear.                 SWITCH
+OPERATION - RETURN LINE                                   DESCRIPTION
+  Power steering return line, is used to transfer low       A pressure sensing switch (Fig. 5) is included in
+pressure power steering fluid, from the power steer-      the power steering system (mounted on the high-
+ing gear to the power steering pump.                      pressure line). This switch will be used only on vehi-
+                                                          cles equipped with a 2.4L engine and power steering.
+FLUID
+DESCRIPTION
+   The recommended fluid for the power steering sys-
+tem is Mopart ATF +4.
+   Mopart ATF+4, when new is red in color. The
+ATF+4 is dyed red so it can be identified from other
+fluids used in the vehicle such as engine oil or anti-
+freeze. The red color is not permanent and is not an
+indicator of fluid condition, As the vehicle is driven,
+the ATF+4 will begin to look darker in color and may
+eventually become brown. THIS IS NORMAL.
+ATF+4 also has a unique odor that may change with
+age. Consequently, odor and color cannot be used to
+indicate the fluid condition or the need for a fluid
+change.
+                                                          Fig. 5 2.4L POWER STEERING PRESSURE SWITCH
+STANDARD PROCEDURE - POWER STEERING                       1 - PRESSURE SWITCH
+                                                          2 - PRESSURE HOSE
+FLUID LEVEL CHECKING                                      3 - POWER STEERING PUMP AND PULLEY ASSEMBLY
+
+WARNING: FLUID LEVEL SHOULD BE CHECKED                    OPERATION
+WITH THE ENGINE OFF TO PREVENT PERSONAL                     The power steering pressure switch provides an
+INJURY FROM MOVING PARTS.                                 input to the Powertrain Control Module (PCM). This
+                                                          input is provided during periods of high pump load
+CAUTION: MOPART ATF+4 is to be used in the                and low engine rpm; such as during parking maneu-
+power steering system. No other power steering or         vers. The PCM will then increase the idle speed
+automatic transmission fluid is to be used in the         through the Idle Air Control (IAC) motor. This is
+system. Damage may result to the power steering           done to prevent the engine from stalling under the
+                                                          increased load.
+

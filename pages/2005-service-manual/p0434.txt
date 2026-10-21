@@ -1,0 +1,59 @@
+8J - 8    INSTRUMENT CLUSTER                                                                                  TJ
+INSTRUMENT CLUSTER (Continued)
+speaker architecture found within the particular              In addition, once activated, both enable circuits
+vehicle into which the radio has been installed.           will remain active regardless of the status of the
+   Proper testing of the PCI data bus and the elec-        ignition switch input. Therefore, any locked axle will
+tronic data bus message inputs to and outputs from         remain locked and the various components of the
+the EMIC that control audio system cabin equaliza-         axle locker system will remain functional after the
+tion requires the use of a DRBIIIt scan tool. Refer to     ignition switch is turned to the Off position. How-
+the appropriate diagnostic information.                    ever, while the currently selected axle locker mode
+                                                           remains active with the ignition switch turned Off, if
+AXLE LOCKER CONTROL                                        the key is removed from the ignition lock cylinder,
+   The EMIC contains a logic circuit and program-          Off is the only other axle locker mode that can be
+ming to perform the axle locker control functions for      selected with the axle lock switch. For as long as the
+models equipped with the optional off-road package.        key is removed from the ignition lock cylinder, the
+The EMIC monitors hard wired inputs from the igni-         cluster logic will interpret any revision to the input
+tion switch on the fused ignition switch output (run-      status of either request circuit from the axle lock
+start) circuit and the key-in ignition switch on the       switch as a cancellation request and will deactivate
+key-in ignition switch sense circuit. The EMIC also        the enable 1 circuit and all outputs from the axle
+monitors vehicle speed and transfer case shift posi-       lock switch are dropped, causing both axles to
+tion switch electronic message inputs received from        unlock. Otherwise, once locked, any locked axle will
+the Powertrain Control Module (PCM) over the PCI           remain locked until the axle lock switch is deacti-
+data bus. The internal programming of the EMIC             vated (enable 1 circuit is deactivated), or until the
+then determines whether to activate or deactivate          Off mode is manually selected by moving the axle
+the axle locker function by enabling or disabling the      lock switch rocker to the Off position. The EMIC also
+axle lock switch located in the instrument panel           provides the vehicle operator with distinct visual
+accessory switch bezel.                                    and/or audible indications as to the current status of
+   The EMIC programming controls the axle lock             the axle locker system through chime warnings and
+switch through two separate axle lock switch enable        illumination of the rear/front lock indicators in the
+circuits, enable 1 and enable 2. In all cases, the         cluster as outlined elsewhere in this service informa-
+EMIC will not activate either enable circuit if there      tion.
+are any transfer case shift position switch or vehicle        The hard wired input and output circuits of the
+speed sensor faults present. Whenever the ignition         EMIC axle locker control may be diagnosed using
+switch is in the On or Start positions, the key is in      conventional diagnostic methods. However, proper
+the ignition lock cylinder, the transfer case is in 4 X    testing of the EMIC programming and the electronic
+4 Low range, and the vehicle speed is less than about      vehicle speed and transfer case shift position switch
+72 kilometers per hour (45 miles per hour) the first       messages received by the EMIC over the PCI data
+enable (enable 1) circuit is activated. The second         bus requires the use of a DRBIIIt scan tool. Refer to
+enable (enable 2) circuit is activated only if the vehi-   the appropriate diagnostic information.
+cle speed is less than about 16 kilometers per hour
+(10 miles per hour). When both enable circuits are         CHIME SERVICE
+activated, the axle lock switch becomes functional.           The EMIC is equipped with hardware and software
+   Once activated, the enable 1 circuit is automati-       to provide chime service for all available features in
+cally deactivated whenever the transfer case is            the chime warning system. Upon receiving the proper
+moved out of the 4 X 4 Low range, or if the vehicle        chime inputs, the EMIC activates an integral
+speed is greater than about 72 kilometers per hour         on-board audible tone generator to provide audible
+(45 miles per hour). If the enable 1 circuit is deacti-    chime tones to the vehicle operator. The chime tone
+vated after the rear or the front and rear axle lockers    generator in the EMIC is capable of producing single
+are engaged, all outputs from the axle lock switch         chime tones or repeated chime tones at two different
+are dropped causing both axles to unlock. The enable       rates: a slow rate of about fifty chime tones per
+2 circuit is automatically deactivated whenever the        minute, and a fast rate of about 180 chime tones per
+vehicle speed is greater than about 16 kilometers per      minute. The internal programming of the EMIC
+hour (10 miles per hour). If the enable 2 circuit is       determines the priority of each chime tone request
+deactivated after the rear or the front and rear axle      input that is received, as well as the rate and dura-
+lockers are engaged, the outputs from the axle lock        tion of each chime tone that is to be generated.
+switch are unaffected and the locked axles remain             The EMIC relies upon hard wired inputs from the
+locked. However, an unlocked axle cannot be locked         door ajar switches, the left multi-function switch, the
+until the vehicle speed is reduced and the enable 2        ignition switch, and the park brake/brake warning
+circuit is again activated.                                indicator switches to provide chime service for the
+

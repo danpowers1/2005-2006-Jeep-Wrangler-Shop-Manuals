@@ -1,0 +1,44 @@
+TJ                                                                 LAMPS/LIGHTING - EXTERIOR            8L - 23
+
+
+LEFT MULTI-FUNCTION
+SWITCH
+DESCRIPTION
+
+
+
+
+                                      Fig. 24 MULTI-FUNCTION SWITCH
+1 - LEFT MULTI-FUNCTION SWITCH CONTROL STALK             5 - TURN SIGNAL CANCEL ACTUATOR
+2 - HAZARD WARNING SWITCH BUTTON                         6 - LEFT MULTI-FUNCTION SWITCH CONTROL RING
+3 - RIGHT MULTI-FUNCTION SWITCH CONTROL STALK            7 - LEFT MULTI-FUNCTION SWITCH CONTROL KNOB
+4 - SCREW (2)
+
+
+
+
+  The left multi-function switch is secured to the          The left multi-function switch cannot be adjusted
+upper steering column housing, below the steering        or repaired. If any function of the switch is faulty, or
+wheel. (Fig. 24). The hazard warning switch push         if the switch is damaged, the entire switch unit must
+button is located on the top of the multi-function       be replaced. The combination flasher and the right
+switch housing.                                          multi-function switch are available for separate ser-
+  A connector containing eighteen terminal pins is       vice replacement.
+located on the back of the switch housing and con-
+nects the switch to the vehicle electrical system. A     OPERATION
+second connector on the back of the switch housing         The left multi-function switch uses a combination
+accepts the combination flasher. The right and left      of resistor multiplexed and conventionally switched
+multi-function switches are mounted together by two      outputs to control the many functions and features it
+screws, and the combined multi-function switch is        provides. The switch is grounded to the left cowl side
+secured to the upper steering column housing.            inner panel, beneath the instrument panel. The
+  The left multi-function switch is the primary con-     switch receives battery voltage from a fuse in the
+trol for the interior and exterior lighting systems of   Power Distribution Center (PDC), a fused B(+) circuit
+the vehicle. The left multi-function switch supports     and, when the ignition switch is in the Accessory or
+the following functions:                                 On positions, from a fuse in the fuse block through a
+  • Hazard Warning Control                               fused ignition switch output (run-acc) circuit. Follow-
+  • Exterior Lighting Control                            ing are descriptions of the how the left multi-function
+  • Headlamp Beam Selection                              switch operates to control the many functions and
+  • Headlamp Optical Horn                                features it provides:
+  • Interior Lighting Control                              • Front Fog Lamps - The control knob on the
+  • Turn Signal Control                                  end of the left multi-function switch control stalk is
+                                                         pulled outward to activate the optional front fog
+

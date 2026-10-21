@@ -1,0 +1,61 @@
+TJ                                                                                                        ENGINE SYSTEMS                  8F - 1
+
+
+                                                  ENGINE SYSTEMS
+                                                     TABLE OF CONTENTS
+
+                                                                page                                                                        page
+
+BATTERY SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . 1        STARTING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+CHARGING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+
+
+                                                  BATTERY SYSTEM
+
+                                                          TABLE OF CONTENTS
+                                                                page                                                                        page
+
+BATTERY SYSTEM                                                               STANDARD PROCEDURE - USING MICRO
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1            420 BATTERY TESTER . . . . . . . . . . . . . . . . . 12
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+ DIAGNOSIS AND TESTING - BATTERY                                           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2     BATTERY HOLDDOWN
+ CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+ INSPECTION . . . . . . . . . . . . . . . . . . . . . . . . . . . 6        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ SPECIFICATIONS                                                            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+   BATTERY SYSTEM SPECIFICATIONS . . . . . . . 6                           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ SPECIAL TOOLS                                                            BATTERY CABLES
+   BATTERY SYSTEM SPECIAL TOOLS . . . . . . . 7                            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 16
+BATTERY                                                                    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 7         DIAGNOSIS AND TESTING - BATTERY
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8         CABLES   . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+ DIAGNOSIS AND TESTING - BATTERY . . . . . . . 8                           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+ STANDARD PROCEDURE                                                        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 18
+   STANDARD PROCEDURE - BATTERY                                           BATTERY TRAY
+    CHARGING . . . . . . . . . . . . . . . . . . . . . . . . . . . 8       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 19
+   STANDARD PROCEDURE - BUILT-IN                                           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+    INDICATOR TEST . . . . . . . . . . . . . . . . . . . . . 10            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+   STANDARD PROCEDURE - OPEN-CIRCUIT                                       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 20
+    VOLTAGE TEST . . . . . . . . . . . . . . . . . . . . . . . 11
+   STANDARD PROCEDURE - IGNITION-OFF
+    DRAW TEST . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+BATTERY SYSTEM                                                              • Battery - The storage battery provides a reli-
+                                                                          able means of storing a renewable source of electrical
+                                                                          energy within the vehicle.
+DESCRIPTION
+                                                                            • Battery Cable - The battery cables connect the
+  A single 12-volt battery is standard factory-in-
+                                                                          battery terminal posts to the vehicle electrical sys-
+stalled equipment on this model. All of the compo-
+                                                                          tem.
+nents of the battery system are located within the
+                                                                            • Battery Holddown - The battery holddown
+engine compartment of the vehicle. The battery sys-
+                                                                          hardware secures the battery in the battery tray in
+tem for this vehicle covers the following related com-
+                                                                          the engine compartment.
+ponents, which are covered in further detail later in
+this section of the service manual:
+

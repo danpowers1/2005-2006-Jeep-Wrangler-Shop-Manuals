@@ -1,0 +1,52 @@
+8Q - 2    VEHICLE THEFT SECURITY                                                                                 TJ
+VEHICLE THEFT SECURITY (Continued)
+   Pre-programmed Sentry Key transponders are pro-          detected. The SKIS can be diagnosed, and any stored
+vided with the vehicle from the factory. Each Sentry        DTC’s can be retrieved using a DRBIIIt scan tool.
+Key Immobilizer Module (SKIM) will recognize a              Refer to the appropriate diagnostic information.
+maximum of eight Sentry Keys. If the customer
+would like additional keys other than those provided        DIAGNOSIS AND TESTING - SENTRY KEY
+with the vehicle, they may be purchased from any            IMMOBILIZER SYSTEM
+authorized dealer. These additional keys must be pro-
+grammed to the SKIM in the vehicle in order for the         WARNING: ON VEHICLES EQUIPPED WITH AIR-
+system to recognize them as valid keys. This can be         BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+done by the dealer using a DRBIIIt scan tool or, if         ATTEMPTING ANY STEERING WHEEL, STEERING
+Customer Learn programming is an available SKIS             COLUMN, OR INSTRUMENT PANEL COMPONENT
+feature in the market where the vehicle was pur-            DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+chased, the customer can program the additional             LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+keys, as long as at least two valid Sentry Keys are         THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+already available. (Refer to 8 - ELECTRICAL/VEHI-           TEM CAPACITOR TO DISCHARGE BEFORE PER-
+CLE THEFT SECURITY - STANDARD PROCE-                        FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+DURE       -   SENTRY       KEY      TRANSPONDER            IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+PROGRAMMING).                                               SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+   The SKIS performs a self-test each time the igni-        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+tion switch is turned to the On position, and will          BAG DEPLOYMENT AND POSSIBLE PERSONAL
+store fault information in the form of Diagnostic           INJURY.
+Trouble Codes (DTC’s) if a system malfunction is
+
+                              SENTRY KEY IMMOBILIZER SYSTEM DIAGNOSIS
+
+         CONDITION                 POSSIBLE CAUSES                                CORRECTION
+
+SKIS INDICATOR FAILS TO        1. Indicator faulty.             1. Test and replace the faulty instrument cluster
+LIGHT DURING BULB TEST                                          or bulb as required.
+                               2. Fuse faulty.                  2. Test and replace the SKIM fused B(+) and
+                                                                fused ignition switch output (run-start) fuses in the
+                                                                fuse block as required.
+                               3. Ground circuit faulty.        3. Test and repair the SKIM ground circuit as
+                                                                required.
+                               4. Fused B(+) circuit faulty.    4. Test and repair the SKIM fused B(+) circuit as
+                                                                required.
+                               5. Fised ignition switch         5. Terst and repair the SKIM fused ignition switch
+                               output circuit faulty.           output (run-start) circuit as required.
+
+SKIS INDICATOR FLASHES         1. Invalid key in ignition       1. Replace the key with a known valid key.
+WHEN IGNITION SWITCH IS        switch lock cylinder.
+TURNED TO THE 9ON9
+POSITION                       2. Key-related fault.            2. Use a DRBIIIT scan tool to diagnose the
+                                                                key-related fault. Refer to the appropriate
+                                                                diagnostic information.
+
+SKIS INDICATOR LIGHTS          1. SKIS system malfunction/      1. Use a DRBIIIT scan tool to diagnose the SKIS.
+SOLID FOLLOWING BULB           fault detected.                  Refer to the appropriate diagnostic information.
+TEST
+

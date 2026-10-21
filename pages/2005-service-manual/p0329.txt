@@ -1,0 +1,99 @@
+TJ                                                                                                   CHIME/BUZZER           8B - 1
+
+
+                                                    CHIME/BUZZER
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                            page
+
+CHIME WARNING SYSTEM                                                    DIAGNOSIS AND TESTING - CHIME
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1        WARNING SYSTEM . . . . . . . . . . . . . . . . . . . . . 3
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+CHIME WARNING SYSTEM                                                   circuits are integral to several wire harnesses, which
+                                                                       are routed throughout the vehicle and retained by
+                                                                       many different methods. Refer to the appropriate
+DESCRIPTION
+                                                                       wiring information.
+   A chime warning system is standard factory-in-
+                                                                          The instrument cluster chime warning system cir-
+stalled equipment on this model. The chime warning
+                                                                       cuitry and the integral chime tone generator cannot
+system uses a single chime tone generator that is
+                                                                       be adjusted or repaired. If the instrument cluster or
+integral to the instrument cluster to provide an audi-
+                                                                       the chime tone generator are damaged or faulty, the
+ble indication of various vehicle conditions that may
+                                                                       instrument cluster must be replaced.
+require the attention of the vehicle operator. The
+chime warning system includes the following major
+components, which are described in further detail
+                                                                       OPERATION
+                                                                          The chime warning system is designed to provide
+elsewhere in this service information:
+                                                                       an audible output as an indication of various condi-
+   • Door Ajar Switch - A door ajar switch is
+                                                                       tions that may require the attention or awareness of
+mounted to each front door hinge pillar. This switch
+                                                                       the vehicle operator. The chime warning system com-
+provides an input to the chime warning system indi-
+                                                                       ponents operate on battery voltage received through
+cating whether the front doors are open or closed.
+                                                                       the Ignition-Off Draw (IOD) fuse in the Power Distri-
+   • Ignition Switch - A key-in ignition switch is
+                                                                       bution Center (PDC) so that the system may operate
+integral to the ignition switch. The key-in ignition
+                                                                       regardless of the ignition switch position.
+switch provides an input to the chime warning sys-
+                                                                          The chime warning system provides an audible
+tem indicating whether a key is present in the igni-
+                                                                       warning to the vehicle operator under the following
+tion lock cylinder.
+                                                                       conditions:
+   • Instrument Cluster - The instrument cluster
+                                                                          • Air Bag Warning - The instrument cluster
+contains an integral chime tone generator, integrated
+                                                                       chime tone generator will generate a single chime
+circuitry, a central processing unit and the program-
+                                                                       tone when the airbag indicator is illuminated for an
+ming to provide all of the proper chime warning sys-
+                                                                       airbag system fault condition. The instrument cluster
+tem features based upon the monitored inputs. The
+                                                                       uses airbag indicator lamp-on and lamp-off message
+instrument cluster circuitry monitors hard-wired
+                                                                       inputs received from the Airbag Control Module
+switch inputs, as well as message inputs received
+                                                                       (ACM) over the Programmable Communications
+from other vehicle electronic modules on the Pro-
+                                                                       Interface (PCI) data bus indicating that the airbag
+grammable Communications Interface (PCI) data bus
+                                                                       indicator should be illuminated for an airbag system
+network.
+                                                                       fault condition.
+   • Left Multi-Function Switch - The exterior
+                                                                          • Charging System Warning - The instrument
+lighting switch is integral to the left multi-function
+                                                                       cluster chime tone generator will generate a single
+switch. The exterior lighting switch provides an
+                                                                       chime when the check gauges indicator is illuminated
+input to the chime warning system indicating when
+                                                                       for a charging system fault or a system voltage high
+the exterior lamps are turned On or Off.
+                                                                       warning condition. The instrument cluster uses sys-
+   • Seat Belt Switch - A seat belt switch is inte-
+                                                                       tem voltage status message inputs received from the
+gral to the driver side front seat belt buckle-half
+                                                                       Powertrain Control Module (PCM) over the PCI data
+unit. The seat belt switch provides an input to the
+                                                                       bus to illuminate the check gauges indicator for a
+chime warning system indicating whether the driver
+                                                                       charging system fault. This chime feature will only
+side front seat belt is fastened.
+                                                                       occur once in an ignition cycle.
+   Hard wired circuitry connects many of the chime
+                                                                          • Driver Door Ajar Warning - The instrument
+warning system components to each other through
+                                                                       cluster chime tone generator will generate repetitive
+the electrical system of the vehicle. These hard wired
+                                                                       chimes at a slow rate to announce that the hard
+

@@ -1,0 +1,78 @@
+9 - 126    ENGINE 4.0L                                                                                       TJ
+OIL PAN (Continued)
+  (13) Install the engine starter motor. (Refer to 8 -     OIL PUMP
+ELECTRICAL/STARTING/STARTER                MOTOR       -
+INSTALLATION).
+                                                           REMOVAL
+  (14) Connect the exhaust pipe to the hanger and to
+                                                             A gear-type oil pump is mounted at the underside
+the engine exhaust manifold.
+                                                           of the cylinder block opposite the No.4 main bearing.
+  (15) Install transmission oil cooling lines (if
+                                                             (1) Drain the engine oil.
+equipped) and oxygen sensor wiring supports that
+                                                             (2) Remove the oil pan (Refer to 9 - ENGINE/LU-
+attach to the oil pan studs.
+                                                           BRICATION/OIL PAN - REMOVAL).
+  (16) Install the oil pan drain plug (Fig. 85).
+                                                             (3) Remove the pump-to-cylinder block attaching
+Tighten the plug to 34 N·m (25 ft. lbs.) torque.
+                                                           bolts. Remove the pump assembly with gasket (Fig.
+  (17) Lower the vehicle.
+                                                           86).
+  (18) Connect negative cable to battery.
+  (19) Fill the oil pan with engine oil to the specified   CAUTION: If the oil pump is not to be serviced, DO
+level.                                                     NOT disturb position of oil inlet tube and strainer
+                                                           assembly in pump body. If the tube is moved within
+WARNING: USE EXTREME CAUTION WHEN THE
+                                                           the pump body, a replacement tube and strainer
+ENGINE IS OPERATING. DO NOT STAND IN A
+                                                           assembly must be installed to assure an airtight
+DIRECT LINE WITH THE FAN. DO NOT PUT YOUR
+                                                           seal.
+HANDS NEAR THE PULLEYS, BELTS OR FAN. DO
+NOT WEAR LOOSE CLOTHING.
+
+  (20) Start the engine and inspect for leaks.
+
+
+ENGINE OIL PRESSURE
+SENSOR
+DESCRIPTION
+  The 3 wire, solid-state engine oil pressure sensor
+(sending unit) is located in an engine oil pressure
+gallery.
+
+OPERATION
+  The oil pressure sensor uses three circuits. They
+are:
+  • A 5 volt power supply from the Powertrain Con-
+trol Module (PCM)
+  • A sensor ground through the PCM’s sensor
+return
+  • A signal to the PCM relating to engine oil pres-
+sure
+  The oil pressure sensor has a 3 wire electrical                       Fig. 86 Oil Pump Assembly
+function very much like the Manifold Absolute Pres-        1 - OIL FILTER ADAPTOR
+sure (MAP) sensor. Meaning different pressures             2 - BLOCK
+                                                           3 - GASKET
+relate to different output voltages.                       4 - OIL INLET TUBE
+  A 5 volt supply is sent to the sensor from the PCM       5 - OIL PUMP
+to power up the sensor. The sensor returns a voltage       6 - STRAINER ASSEMBLY
+                                                           7 - ATTACHING BOLTS
+signal back to the PCM relating to engine oil pres-
+sure. This signal is then transferred (bussed) to the
+instrument panel on either a CCD or PCI bus circuit
+                                                           INSTALLATION
+                                                             A gear-type oil pump is mounted at the underside
+(depending on vehicle line) to operate the oil pressure
+                                                           of the cylinder block opposite the No.4 main bearing.
+gauge and the check gauges lamp. Ground for the
+                                                             (1) Install the oil pump on the cylinder block using
+sensor is provided by the PCM through a low-noise
+                                                           a replacement gasket. Tighten the bolts to 23 N·m
+sensor return.
+                                                           (17 ft. lbs.) torque.
+                                                             (2) Install the oil pan (Refer to 9 - ENGINE/LU-
+                                                           BRICATION/OIL PAN - INSTALLATION).
+

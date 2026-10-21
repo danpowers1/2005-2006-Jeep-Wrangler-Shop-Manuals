@@ -1,0 +1,40 @@
+TJ                                                              ELECTRONIC CONTROL MODULES                8E - 11
+SENTRY KEY IMMOBILIZER MODULE (Continued)
+
+
+
+
+                                 Fig. 9 Sentry Key Immobilizer Module - Typical
+1 - UPPER SHROUD                                           5 - IGNITION LOCK CYLINDER
+2 - STEERING COLUMN                                        6 - SCREW
+3 - WIRE HARNESS CONNECTOR                                 7 - LOWER SHROUD
+4 - SENTRY KEY IMMOBILIZER MODULE                          8 - STEERING WHEEL
+
+
+
+Secret Key code. This code is stored in memory, sent       technician during the SKIS initialization procedure if
+over the PCI data bus to the PCM, and is encoded to        new Sentry Keys are required.
+the transponder of every Sentry Key that is pro-              When the ignition switch is On, the SKIM trans-
+grammed into the SKIM. Therefore, the Secret Key           mits an RF signal to the transponder in the ignition
+code is a common element that is found in every com-       key. The SKIM then waits for an RF signal response
+ponent of the Sentry Key Immobilizer System (SKIS).        from the transponder. If the response received iden-
+Another security code, called a PIN, is used to gain       tifies the key as valid, the SKIM sends a valid key
+access to the SKIM Secured Access Mode. The                message to the PCM over the PCI data bus. If the
+Secured Access Mode is required during service to          response received identifies the key as invalid, or if
+perform the SKIS initialization and Sentry Key tran-       no response is received from the key transponder, the
+sponder programming procedures. The SKIM also              SKIM sends an invalid key message to the PCM. The
+stores the Vehicle Identification Number (VIN) in its      PCM will enable or disable engine operation based
+memory, which it learns through a PCI data bus             upon the status of the SKIM messages. It is impor-
+message from the PCM during SKIS initialization.           tant to note that the default condition in the PCM is
+  In the event that a SKIM replacement is required,        an invalid key; therefore, if no message is received
+the Secret Key code can be transferred to the new          from the SKIM by the PCM, the engine will be dis-
+SKIM from the PCM using the DRBIIIt scan tool              abled and the vehicle immobilized after two seconds
+and the SKIS initialization procedure. Proper com-         of running.
+pletion of the SKIS initialization will allow the exist-      The SKIM also sends SKIS indicator status mes-
+ing Sentry Keys to be programmed into the new              sages to the EMIC. This indicator status message
+SKIM so that new keys will not be required. In the         tells the EMIC to turn the indicator on for about
+event that the original Secret Key code cannot be          three seconds each time the ignition switch is turned
+recovered, SKIM replacement will also require new          On, as a bulb test. The SKIM sends indicator status
+Sentry Keys. The DRBIIIt scan tool will alert the          messages to the EMIC to turn the indicator off, turn
+                                                           the indicator on, or to flash the indicator on and off.
+

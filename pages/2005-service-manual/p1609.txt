@@ -1,0 +1,60 @@
+TJ                                                                                 DISTRIBUTION        24 - 41
+FLOOR DISTRIBUTION DUCT (Continued)
+  (2) Install the three screws that secure the floor
+distribution duct to HVAC housing. Tighten the
+screws to 2 N·m (17 in. lbs.).
+  (3) Install the airbag control module (Refer to 8 -
+ELECTRICAL/RESTRAINTS/AIRBAG              CONTROL
+MODULE - INSTALLATION).
+
+
+HVAC HOUSING
+DESCRIPTION
+   Both the single zone manual temperature control
+(MTC) heating-A/C system and the heater-only sys-
+tem are equipped with a common HVAC housing
+assembly that combines A/C and heating capabilities
+into a single unit located within the passenger com-
+partment (Fig. 7). The HVAC housing assembly con-
+sists of the following:
+   • HVAC housing — The HVAC housing consists
+of an upper housing and a lower housing that are           Fig. 7 HVAC Housing - LHD shown, RHD similar
+attached together by screws and clips and is mounted     1 - HVAC HOUSING
+to the dash panel behind the instrument panel. The       2 - HEATER CORE
+                                                         3 - A/C EVAPORATOR
+HVAC housing contains the heater core , A/C evapo-       4 - RECIRCULATION DOOR ACTUATOR
+rator , blend-air and mode-air doors, and has mount-     5 - BLOWER MOTOR RELAY
+ing provisions for the air-door actuators, floor         6 - BLOWER MOTOR
+                                                         7 - BLOWER MOTOR RESISTOR
+distribution duct, blower motor, blower motor resis-     8 - BLEND DOOR ACTUATOR
+tor, blower motor relay and the HVAC wire harness        9 - MODE DOOR ACTUATORS
+and vacuum harness.
+   • Air inlet housing — The air inlet housing is        motor controls the velocity of air flowing through the
+mounted to the right end of the HVAC housing and         HVAC housing assembly by spinning the blower
+contains the recirculation-air door and has mounting     wheel within the HVAC housing at the selected speed
+provisions for the recirculation door actuator and its   by use of the blower motor resistor.
+linkage.                                                   The HVAC housing must be removed from the
+   The heating-A/C system is a blend-air type system.    vehicle and disassembled for service of the heater
+The blend-air door controls the amount of condi-         core, A/C evaporator, blend-air and mode-air doors.
+tioned air that is allowed to flow through, or around,   The air inlet housing must be removed from HVAC
+the heater core.                                         housing and disassembled for service of the recircu-
+   The A/C system is designed for the use of a non-      lation-air door.
+CFC, R-134a refrigerant and uses an A/C evaporator
+to cool and dehumidify the incoming air prior to
+blending it with the heated air. A temperature con-      REMOVAL
+trol determines the discharge air temperature by
+operating the blend door actuator, which moves the       HVAC HOUSING
+blend-air door. This allows an almost immediate con-
+trol of the output air temperature of the system. The    WARNING: On vehicles equipped with airbags, dis-
+two mode door actuators operate the mode-air doors       able the airbag system before attempting any steer-
+which direct the flow of the conditioned air out the     ing wheel, steering column, or instrument panel
+various air outlets, depending on the mode selected.     component diagnosis or service. Disconnect and
+The recirculation door actuator operates the recircu-    isolate the battery negative (ground) cable, then
+lation-air door which closes off the fresh air intake    wait two minutes for the airbag system capacitor to
+and recirculates the air already inside the vehicle.     discharge before performing further diagnosis or
+The electric recirculation door actuator is connected    service. This is the only sure way to disable the air-
+to the vehicle electrical system by the HVAC wire        bag system. Failure to take the proper precautions
+harness and, the recirculation door actuator and         could result in an accidental airbag deployment and
+mode door actuators are connected to the A/C-heater      possible personal injury or death.
+control by the HVAC vacuum harness. The blower
+

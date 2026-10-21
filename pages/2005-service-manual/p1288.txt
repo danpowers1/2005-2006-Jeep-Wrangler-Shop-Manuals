@@ -1,0 +1,51 @@
+21 - 144     AUTOMATIC TRANSMISSION - 42RLE                                                                      TJ
+TORQUE CONVERTER (Continued)
+STATOR                                                     The stator contains an over-running clutch (1-4)
+                                                         (Fig. 247), which allows the stator to rotate only in a
+                                                         clockwise direction. When the stator is locked against
+                                                         the over-running clutch, the torque multiplication
+                                                         feature of the torque converter is operational.
+
+                                                         TORQUE CONVERTER CLUTCH (TCC)
+
+
+
+
+                 Fig. 246 Stator Location
+1 - STATOR
+2 - IMPELLER
+3 - FLUID FLOW
+4 - TURBINE                                                     Fig. 248 Torque Converter Clutch (TCC)
+                                                         1 - IMPELLER FRONT COVER
+   The stator assembly (Fig. 246) is mounted on a sta-   2 - THRUST WASHER ASSEMBLY
+tionary shaft which is an integral part of the oil       3 - IMPELLER
+                                                         4 - STATOR
+pump. The stator (1) is located between the impeller     5 - TURBINE
+(2) and the turbine (4) within the torque converter      6 - PISTON
+case.                                                    7 - FRICTION DISC
+
+                                                            The TCC (Fig. 248) was installed to improve the effi-
+                                                         ciency of the torque converter that is lost to the slippage
+                                                         of the fluid coupling. Although the fluid coupling pro-
+                                                         vides smooth, shock-free power transfer, it is natural for
+                                                         all fluid couplings to slip. If the impeller (3) and turbine
+                                                         (5) were mechanically locked together, a zero slippage
+                                                         condition could be obtained. A hydraulic piston (6) with
+                                                         friction material (7) was added to the turbine assembly
+                                                         (5) to provide this mechanical lock-up.
+                                                            In order to reduce heat build-up in the transmission
+                                                         and buffer the powertrain against torsional vibrations,
+                                                         the TCM can duty cycle the L/R-CC Solenoid to achieve
+                                                         a smooth application of the torque converter clutch.
+                                                         This function, referred to as Electronically Modulated
+                                                         Converter Clutch (EMCC) can occur at various times
+                                                         depending on the following variables:
+            Fig. 247 Stator Components                      • Shift lever position
+1 - CAM (OUTER RACE)                                        • Current gear range
+2 - ROLLER                                                  • Transmission fluid temperature
+3 - SPRING                                                  • Engine coolant temperature
+4 - INNER RACE
+                                                            • Input speed
+                                                            • Throttle angle
+                                                            • Engine speed
+

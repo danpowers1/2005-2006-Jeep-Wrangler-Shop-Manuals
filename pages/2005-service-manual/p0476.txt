@@ -1,0 +1,58 @@
+8L - 6    LAMPS/LIGHTING - EXTERIOR                                                                                 TJ
+LAMPS/LIGHTING - EXTERIOR (Continued)
+
+         CONDITION                   POSSIBLE CAUSES                                    CORRECTION
+
+                              4. Short in headlamp circuit               Test headlamp circuit, repair as necessary.
+                              4. Loose or corroded terminals or          4. Inspect and repair all connectors and
+                              splices in headlamp circuit.               splices.
+
+HEADLAMPS DO NOT              1. No voltage to headlamps.                1. Repair open headlamp circuit.
+ILLUMINATE LOW OR
+HIGH BEAM
+                              2. No ground at headlamps.                 2. Repair circuit ground.
+                              3. Faulty headlamp switch.                 3. Replace headlamp switch. (Refer to 8 -
+                                                                         ELECTRICAL/LAMPS/LIGHTING -
+                                                                         EXTERIOR/HEADLAMP SWITCH -
+                                                                         REMOVAL)
+                              4. Faulty headlamp dimmer                  4. Replace multi-function switch.
+                              (multi-function) switch.
+                              5. Broken connector terminal or wire       5. Repair connector terminal or wire splice.
+                              splice in headlamp circuit.
+                              6. Both headlamp bulbs faulty.             6. Replace both headlamp bulbs.
+
+*Canada vehicles must have lamps ON.
+
+
+SPECIFICATIONS                                                           LAMP                        BULB
+                                                             Tail/Stop                      1157 or P21/5W
+EXTERIOR LAMPS
+                                                             Underhood lamp                 W5W
+CAUTION: Do not use bulbs that have a higher can-            Underhood Retractable          105
+dle power than the bulb listed in the Bulb Applica-          Lamp
+tion Table. Damage to lamp can result. Do not touch
+halogen bulbs with fingers or other oily surfaces.
+Bulb life will be reduced.                                   SPECIAL TOOLS
+   The following Bulb Application Table lists the lamp       HEADLAMP ALIGNMENT
+title on the left side of the column and trade number
+or part number on the right for domestic and export
+vehicles.
+
+          LAMP                       BULB
+Back-up lamp                1156 or P21W
+Center High Mounted         921 or W16W
+Stoplamp
+                                                                         Headlamp Aiming Kit C-4466-A
+Front Fog lamp              H3
+Front Position lamp         T4W                              BRAKE LAMP SWITCH
+Front Side Marker           168 or W3W
+Headlamp/Sealed Beam        H6024 or H4
+                                                             DESCRIPTION
+                                                                The brake lamp switch consists of multiple switch
+License Plate lamp          W5W                              contacts either normally open or closed. The switch
+                            Export Only                      contacts provide brake pedal status to the various
+Park/Turn Signal            3157 or P27/7W                   controllers. The primary function of the switch is to
+Rear Fog lamp               P21W                             illuminate the brake lamps. The brake lamp switch
+                                                             is adjustable and mounted on the brake pedal mount-
+Side Repeater lamp          W3W                              ing bracket under the instrument panel.
+

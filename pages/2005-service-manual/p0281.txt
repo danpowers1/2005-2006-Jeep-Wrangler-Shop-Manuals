@@ -1,0 +1,47 @@
+TJ                                                                                        COOLING         7-7
+COOLING (Continued)
+
+         CONDITION                   POSSIBLE CAUSES                              CORRECTION
+
+DETONATION OR PRE-IGNITION   1. Engine overheating.                    1. Check reason for overheating and
+(NOT CAUSED BY IGNITION                                                repair as necessary.
+SYSTEM). GAUGE MAY OR MAY
+NOT BE READING HIGH          2. Freeze point of coolant not correct.   2. Check coolant concentration.
+                             Mixture is too rich or too lean.          (Refer to LUBRICATION &
+                                                                       MAINTENANCE/FLUID TYPES -
+                                                                       DESCRIPTION).
+
+HOSE OR HOSES COLLAPSE       1. Vacuum created in cooling system       1. (a) Radiator cap relief valve stuck.
+WHILE ENGINE IS RUNNING      on engine cool-down is not being          (Refer to 7 - COOLING/ENGINE/
+                             relieved through coolant reserve/         RADIATOR PRESSURE CAP -
+                             overflow system.                          DIAGNOSIS AND TESTING). Replace
+                                                                       if necessary
+
+                                                                       (b) Hose between coolant reserve/
+                                                                       overflow tank and radiator is kinked.
+                                                                       Repair as necessary.
+                                                                       (c) Vent at coolant reserve/overflow
+                                                                       tank is plugged. Clean vent and repair
+                                                                       as necessary.
+                                                                       (d) Reserve/overflow tank is internally
+                                                                       blocked or plugged. Check for
+                                                                       blockage and repair as necessary.
+
+NOISY VISCOUS FAN/DRIVE      1. Fan blades loose.                      1. Replace fan blade assembly. (Refer
+                                                                       to 7 - COOLING/ENGINE/RADIATOR
+                                                                       FAN - REMOVAL)
+
+                             2. Fan blades striking a surrounding      2. Locate point of fan blade contact
+                             object.                                   and repair as necessary.
+                             3. Air obstructions at radiator or air    3. Remove obstructions and/or clean
+                             conditioning condenser.                   debris or insects from radiator or A/C
+                                                                       condenser.
+                             4. Thermal viscous fan drive has          4. Replace fan drive. Bearing is not
+                             defective bearing.                        serviceable. (Refer to 7 - COOLING/
+                                                                       ENGINE/FAN DRIVE VISCOUS
+                                                                       CLUTCH - REMOVAL).
+                             5. A certain amount of fan noise may      5. (Refer to 7 - COOLING/ENGINE/
+                             be evident on models equipped with        FAN DRIVE VISCOUS CLUTCH -
+                             a thermal viscous fan drive. Some of      DESCRIPTION) for an explanation of
+                             this noise is normal.                     normal fan noise.
+

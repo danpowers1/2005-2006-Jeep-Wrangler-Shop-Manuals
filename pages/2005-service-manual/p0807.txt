@@ -1,0 +1,43 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                            8W - 80 - 7
+
+
+                                       BLOWER MOTOR RESISTOR BLOCK - 4 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C71 14TN (EXCEPT HEATER ONLY)         BLOWER MOTOR LOW DRIVER
+               1    C4 14TN (HEATER ONLY)                 BLOWER MOTOR LOW DRIVER
+               2    C72 14LG (EXCEPT HEATER ONLY)         BLOWER MOTOR M1 DRIVER
+               2    C5 14LG (HEATER ONLY)                 BLOWER MOTOR M1 DRIVER
+               3    C73 14LB (EXCEPT HEATER ONLY)         BLOWER MOTOR M2 DRIVER
+               3    C6 14LB (HEATER ONLY)                 BLOWER MOTOR M2 DRIVER
+               4    C75 12BK/TN (EXCEPT HEATER ONLY)      BLOWER MOTOR HIGH DRIVER
+               4    C7 12BK/TN (HEATER ONLY)              BLOWER MOTOR HIGH DRIVER
+
+
+
+
+                                             BRAKE LAMP SWITCH - GRAY 6 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    B15 20DG/WT                           BRAKE SWITCH NO. 1 SIGNAL
+               1    B15 20DG/WT                           BRAKE SWITCH NO. 1 SIGNAL
+               2    Z249 20BK/OR                          GROUND
+               3    V32 20VT/YL (EXCEPT POSTAL)           S/C SUPPLY
+               4    V30 20VT/WT (EXCEPT POSTAL)           S/C BRAKE SWITCH OUTPUT
+               5    A103 18GY/RD                          FUSED B(+)
+               6    L50 18WT/TN                           BRAKE LAMP SWITCH OUTPUT
+
+
+
+
+                          BRAKE TRANSMISSION SHIFT INTERLOCK SOLENOID - WHITE 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    B15 20DG/WT                           BRAKE SWITCH NO. 1 SIGNAL
+               2    F505 20PK/YL                          FUSED IGNITION SWITCH OUTPUT (RUN-START)
+
+
+
+
+                                   BRAKE WARNING INDICATOR SWITCH - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    G9 20GY/BK                            BRAKE WARNING INDICATOR DRIVER
+               2    B83 20DG/WT                           BRAKE PRESSURE SENSOR SUPPLY
+

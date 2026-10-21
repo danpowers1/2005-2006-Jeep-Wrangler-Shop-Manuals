@@ -1,0 +1,62 @@
+TJ                                                                            REAR AXLE - 216RBI          3 - 141
+DIFFERENTIAL (Continued)
+
+INSTALLATION
+NOTE: If replacement differential bearings or differ-
+ential case are being installed, differential side
+bearing shim requirements may change. Refer
+Adjustments (Differential Bearing Preload and Gear
+Backlash) to determine the proper shim selection.
+
+  (1) Position Spreader W-129-B and adapters from
+Adapter set 6987, with the tool dowel pins seated in
+the locating holes (Fig. 46). Install hold-down clamps
+and tighten turnbuckle finger-tight.
+
+
+
+
+                                                                   Fig. 47 BEARING CAP REFERENCE
+                                                           1 - REFERENCE LETTERS
+                                                           2 - REFERENCE LETTERS
+
+                                                             (9) Tighten bearing cap bolts to 108 N·m (80 ft.
+                                                           lbs.).
+                                                             (10) Install axle shafts.
+                                                             (11) Install cover and identification tag.
+
+
+                                                           DIFFERENTIAL -TRAC-LOK
+                                                           DESCRIPTION
+                                                              The Trac-Lokt differential has a one-piece differen-
+                                                           tial case, and similar internal components as a stan-
+                                                           dard differential, plus two clutch disc packs.
+                                                           Differential bearing preload and ring gear backlash
+                                                           are adjusted with shims located between the differ-
+           Fig. 46 SPREADER LOCATION                       ential case bearing cups and housing. Pinion bearing
+1 - DIFFERENTIAL HOUSING                                   preload is set and maintained by the use of a collaps-
+2 - DOWEL                                                  ible spacer.
+3 - SAFETY HOLD DOWN
+4 - SPREADER
+5 - TURNBUCKLE                                             OPERATION
+                                                             This differentials clutches are engaged by two con-
+  (2) Install Pilot Stud C-3288-B at the left side of      current forces. The first being the preload force
+the differential housing. Attach Dial Indicator C-3339     exerted through Belleville spring washers within the
+to pilot stud. Load indicator plunger against the          clutch packs. The second is the separating forces gen-
+opposite side of the housing and zero the indicator.       erated by the side gears as torque is applied through
+  (3) Spread housing while measuring the distance          the ring gear (Fig. 48).
+with the dial indicator.                                     This design provides the differential action needed
+                                                           for turning corners and for driving straight ahead
+CAUTION: Never spread over 0.38 mm (0.015 in).
+                                                           during periods of unequal traction. When one wheel
+Failure to heed caution may result in damage.
+                                                           looses traction, the clutch packs transfer additional
+  (4) Remove dial indicator.                               torque to the wheel having the most traction. This
+  (5) Install differential case in the housing. Tap dif-   differential resist wheel spin on bumpy roads and
+ferential case to seat bearings cups in the housing.       provide more pulling power when one wheel looses
+  (6) Install bearing caps in their original locations     traction. Pulling power is provided continuously until
+(Fig. 47).                                                 both wheels loose traction. If both wheels slip due to
+  (7) Loosely install differential bearing cap bolts.      unequal traction, Trac-lokt operation is normal. In
+  (8) Remove axle housing spreader.                        extreme cases of differences of traction, the wheel
+                                                           with the least traction may spin.
+

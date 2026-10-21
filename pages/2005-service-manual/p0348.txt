@@ -1,0 +1,61 @@
+8E - 14    ELECTRONIC CONTROL MODULES                                                                       TJ
+SENTRY KEY IMMOBILIZER MODULE (Continued)
+  (9) Reinstall the steering column opening cover.
+(Refer to 23 - BODY/INSTRUMENT PANEL/STEER-
+ING COLUMN OPENING COVER - INSTALLA-
+TION).
+  (10) Reconnect the battery negative cable.
+
+NOTE: If the SKIM has been replaced with a new
+unit, the Sentry Key Immobilizer System (SKIS)
+MUST be initialized before the vehicle can be oper-
+ated. (Refer to 8 - ELECTRICAL/VEHICLE THEFT
+SECURITY - STANDARD PROCEDURE - SKIS INI-
+TIALIZATION).
+
+
+
+TRANSMISSION CONTROL
+MODULE
+DESCRIPTION
+                                                            Fig. 13 PCM MOUNTING - RIGHT HAND DRIVE
+                                                         1 - PCM
+                                                         2 - MOUNTING SCREWS (3)
+                                                         3 - PCM ELECTRICAL CONNECTORS
+
+
+                                                         OPERATION
+                                                           The TCM is the controlling unit for all electronic
+                                                         operations of the transmission. The TCM receives
+                                                         information regarding vehicle operation from both
+                                                         direct and indirect inputs, and selects the operational
+                                                         mode of the transmission. Direct inputs are hard-
+                                                         wired to, and used specifically by the TCM. Indirect
+                                                         inputs originate from other components/modules, and
+                                                         are shared with the TCM via the PCI bus.
+                                                           Some examples of direct inputs to the TCM are:
+                                                           • Battery (B+) voltage
+                                                           • Ignition “ON” voltage
+                                                           • Transmission Control Relay (Switched B+)
+                                                           • Throttle Position Sensor
+                                                           • Crankshaft Position Sensor (CKP)
+   Fig. 12 PCM MOUNTING - LEFT HAND DRIVE                  • Transmission Range Sensor (TRS)
+1 - MOUNTING SCREWS (3)                                    • Pressure Switches (L/R, 2/4, OD)
+2 - PCM
+3 - PCM ELECTRICAL CONNECTORS
+                                                           • Transmission Temperature Sensor (Integral to
+                                                         TRS)
+   The Transmission Control Module (TCM) is a sub-         • Input Shaft Speed Sensor
+module within the Powertrain Control Module (PCM)          • Output Shaft Speed Sensor
+(2).                                                       Some examples of indirect inputs to the TCM
+   The PCM (2) is located on the right side of the       are:
+dash panel in the engine compartment (Fig. 12) on          • Engine/Body Identification
+left hand drive vehicles. The PCM is referred to as        • Manifold Pressure
+the NGC.                                                   • Target Idle
+   The PCM (1) is located on the left side of the dash     • Torque Reduction Confirmation
+panel in the engine compartment (Fig. 13) on right         • Speed Control ON/OFF Switch
+hand drive vehicles.                                       • Engine Coolant Temperature
+                                                           • Ambient/Battery Temperature
+                                                           • Brake Switch Status
+                                                           • DRBt III Communication
+

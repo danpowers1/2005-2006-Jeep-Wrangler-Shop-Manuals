@@ -1,0 +1,10 @@
+TJ                                          8W-33 VEHICLE SPEED CONTROL                                                           8W - 33 - 1
+
+                                     8W-33 VEHICLE SPEED CONTROL
+Component                                                          Page    Component                                                          Page
+Brake Lamp Switch . . . . . . . . . . . . . . . . . . 8W-33-2              G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-33-2
+Brake Transmission Shift Interlock                                         Left Speed Control Switch . . . . . . . . . . . . . 8W-33-3
+  Solenoid . . . . . . . . . . . . . . . . . . . . . . . . . 8W-33-2       Powertrain Control Module . . . . . . . . . . 8W-33-2, 3
+Clockspring . . . . . . . . . . . . . . . . . . . . . . . . 8W-33-3        Right Speed Control Switch . . . . . . . . . . . . 8W-33-3
+G100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-33-2   Speed Control Servo . . . . . . . . . . . . . . . . . . 8W-33-2
+

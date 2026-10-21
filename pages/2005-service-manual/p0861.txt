@@ -1,0 +1,51 @@
+TJ                        8W-91 CONNECTOR/GROUND/SPLICE LOCATION                       8W - 91 - 5
+CONNECTOR/GROUND/SPLICE LOCATION (Continued)
+
+Connector Name/Number          Color     Location                             Fig.
+Powertrain Control Module -    BK/BK     Right Rear of Engine Compartment     9, 17
+C1 (LHD)
+Powertrain Control Module -    BK/BK     Left Rear of Engine Compartment      9
+C1 (RHD)
+Powertrain Control Module -    BK/OR     Right Rear of Engine Compartment     9, 17
+C2 (LHD)
+Powertrain Control Module -    BK/OR     Left Rear of Engine Compartment      9
+C2 (RHD)
+Powertrain Control Module -    BK/NAT    Right Rear of Engine Compartment     10, 17
+C3 (LHD)
+Powertrain Control Module -    BK/NAT    Left Rear of Engine Compartment      12
+C3 (RHD)
+Powertrain Control Module -    BK/GN     Left Rear Engine Compartment         17
+C4 (LHD)
+Powertrain Control Module -    BK/GN     Right Rear Engine Compartment        9
+C4 (RHD)
+Radiator Fan Motor (2.4L)      BK        On Right Radiator Fan Shroud         6
+Radiator Fan Motor Circuit     BK        On Right Radiator Fan Shroud         6
+Breaker (2.4L)
+Radio                          GY        Rear of Radio                        26, 29
+Rear Fog Lamp (Export)         BK        At Lamp                              41, 42
+Rear Locker Indicator Switch   BK        Top of Rear Differential             34
+(Off Road)
+Rear Locker Pump (Off          LT-GY     Top of Locker Pump Bracket           32
+Road)
+Rear Washer Pump (Hard         BK        Under Washer Fluid Reservoir         N/S
+Top)
+Rear Window Defogger                     At Rear Window                       38, 39
+Rear Window Defogger           GY        Behind Rear Window Defogger Switch   26, 28
+Switch (Hard Top)
+Rear Wiper Motor (Hard Top)    BK        At Rear Wiper Motor                  38, 39
+Rear Wiper/Washer Switch       WT        Behind Rear Wiper/Washer Switch      26, 28
+(Hard Top)
+Right Courtesy Lamp            BK        Right Side of Instrument Panel       25, 27
+Right Dome Lamp                WT        In Right Speaker Pod
+Right Fog Lamp (Except         BK        At Lamp                              2
+Export)
+Right Front Park/Turn Signal   BK        At Lamp                              2
+Lamp (Except Export)
+Right Front Position Lamp      BK        At Lamp                              2
+(Export
+Right Front Speaker            BK        At Speaker                           25, 27
+Right Front Turn Signal Lamp   BK        At Lamp                              2
+(Export)
+Right Front Wheel Speed        BK        Rear of Engine                       10, 12
+Sensor
+

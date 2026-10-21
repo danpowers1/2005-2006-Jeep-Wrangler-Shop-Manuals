@@ -1,0 +1,56 @@
+8O - 22     RESTRAINTS                                                                                  TJ
+DRIVER AIRBAG (Continued)
+  (5) Remove the upper and lower trim cover retain-
+ers from the airbag housing studs (Fig. 24).
+
+
+
+
+                                                           Fig. 25 Driver Airbag Trim Cover Remove/Install
+                                                          1 - UPPER RETAINER SLOT (2)
+                                                          2 - LOCKING BLOCK (4)
+          Fig. 24 Driver Airbag Trim Cover                3 - LOWER RETAINER SLOT (2)
+1 - UPPER RETAINER
+2 - AIRBAG HOUSING                                        CHARGE BEFORE PERFORMING FURTHER DIAG-
+3 - TRIM COVER
+4 - NUT (4)                                               NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+5 - LOWER RETAINER                                        TO DISABLE THE SUPPLEMENTAL RESTRAINT
+6 - INFLATOR                                              SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+7 - STUD (4)
+                                                          CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+   (6) Disengage the horn switch feed pigtail wire        BAG DEPLOYMENT.
+connector retainer from the mounting hole in the
+                                                          WARNING: TO AVOID PERSONAL INJURY OR
+upper trim cover retainer.
+                                                          DEATH, SERVICE OF THIS UNIT SHOULD BE PER-
+   (7) Remove the horn switch ground pigtail wire
+                                                          FORMED ONLY BY DAIMLERCHRYSLER-TRAINED
+eyelet terminal from the upper right inflator stud on
+                                                          AND AUTHORIZED DEALER SERVICE TECHNI-
+the back of the driver airbag housing.
+                                                          CIANS. FAILURE TO TAKE THE PROPER PRECAU-
+   (8) Disengage the four trim cover locking blocks
+                                                          TIONS    OR   TO   FOLLOW    THE   PROPER
+from the lip around the outside edge of the driver
+                                                          PROCEDURES COULD RESULT IN ACCIDENTAL,
+airbag housing and remove the housing from the
+                                                          INCOMPLETE, OR IMPROPER AIRBAG DEPLOY-
+trim cover receptacle (Fig. 25).
+                                                          MENT AND POSSIBLE OCCUPANT INJURIES.
+ASSEMBLY
+  The following procedures can be used to replace         WARNING: TO AVOID PERSONAL INJURY OR
+the driver airbag trim cover and/or to access the horn    DEATH, USE EXTREME CARE TO PREVENT ANY
+switch unit for service. If the driver airbag is faulty   FOREIGN MATERIAL FROM ENTERING THE DRIVER
+or deployed, the entire driver airbag, trim cover, and    AIRBAG, OR BECOMING ENTRAPPED BETWEEN
+horn switch must be replaced as a unit.                   THE DRIVER AIRBAG CUSHION AND THE DRIVER
+                                                          AIRBAG TRIM COVER. FAILURE TO OBSERVE THIS
+WARNING: TO AVOID PERSONAL INJURY OR                      WARNING COULD RESULT IN OCCUPANT INJURIES
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                 UPON AIRBAG DEPLOYMENT.
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+TEM BEFORE ATTEMPTING ANY STEERING
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+

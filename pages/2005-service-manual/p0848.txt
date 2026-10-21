@@ -1,0 +1,42 @@
+8W - 80 - 48   8W-80 CONNECTOR PIN-OUTS                                                    TJ
+
+
+                                               RIGHT DOME LAMP - WHITE 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    M21 20PK/WT                           FUSED B(+)
+                 2    M22 20YL                              COURTESY LAMPS DRIVER
+
+
+
+
+                                     RIGHT FOG LAMP (EXCEPT EXPORT) - BLACK 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    Z962 18BK                             GROUND
+                 2    L39 16LB                              FOG LAMP RELAY OUTPUT
+
+
+
+
+                                    RIGHT FRONT PARK/TURN SIGNAL LAMP - BLACK 3 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    L60 18WT/TN                           RIGHT TURN SIGNAL
+                 2    L7 18WT/YL (EXCEPT EXPORT)            HEADLAMP SWITCH OUTPUT
+                 3    Z962 18BK                             GROUND
+
+
+
+
+                                    RIGHT FRONT POSITION LAMP (EXPORT) - BLACK 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    L7 18WT/YL                            HEADLAMP SWITCH OUTPUT
+                 2    Z962 20BK                             GROUND
+
+
+
+
+                                           RIGHT FRONT SPEAKER - BLACK 3 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    X54 18GY                              RIGHT FRONT SPEAKER (+)
+                 2    -                                     -
+                 3    X56 18GY/BR                           RIGHT FRONT SPEAKER (-)
+

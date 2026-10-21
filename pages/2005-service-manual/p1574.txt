@@ -1,0 +1,43 @@
+24 - 6   HEATING & AIR CONDITIONING                                                                                 TJ
+HEATING & AIR CONDITIONING (Continued)
+
+          Condition                    Possible Causes                                Correction
+                                3. Refrigerant flow through      3. See A/C Evaporator in this group. Replace the
+                                the A/C evaporator is            restricted A/C evaporator, if required.
+                                restricted.
+                                4. Faulty A/C compressor.        4. See A/C Compressor in this group. Replace
+                                                                 the A/C compressor, if required.
+The low side pressure is        1. A/C condenser air flow        1. Check the A/C condenser for damaged fins,
+normal or slightly high, and    restricted.                      foreign objects obstructing air flow through the
+the high side pressure is too                                    condenser fins, and missing or improperly
+high.                                                            installed air seals. Clean, repair, or replace
+                                                                 components as required.
+                                2. Inoperative radiator          2. Test the radiator cooling fan and replace, if
+                                cooling fan.                     required. Refer to Group 7.
+                                3. Refrigerant system            3. See Refrigerant System Charge in this group.
+                                overcharged.                     Recover the refrigerant from the refrigerant
+                                                                 system. Charge the refrigerant system to the
+                                                                 proper level, if required.
+                                4. Air in the refrigerant        4. See Refrigerant System Leaks in this group.
+                                system.                          Test the refrigerant system for leaks. Repair,
+                                                                 evacuate and charge the refrigerant system, if
+                                                                 required.
+                                5. Engine overheating.           5. Test the engine cooling system and repair, if
+                                                                 required. Refer to Group 7.
+The low side pressure is too    1. Accessory drive belt          1. Inspect the accessory drive belt condition and
+high, and the high side         slipping.                        tension. Tighten or replace the accessory drive
+pressure is too low.                                             belt, if required. Refer to Group 7.
+                                2. Faulty A/C orifice tube.      2. See A/C Orifice Tube in this group. Replace
+                                                                 the liquid line, if required.
+                                3. Faulty A/C compressor.        3. See A/C Compressor in this group. Replace
+                                                                 the A/C compressor, if required.
+The low side pressure is too    1. Restricted refrigerant flow   1. See Liquid Line and Suction and Discharge
+low, and the high side          through the refrigerant lines.   Line in this group. Inspect the refrigerant lines for
+pressure is too high.                                            kinks, tight bends or improper routing. Correct
+                                                                 the routing or replace the refrigerant line, if
+                                                                 required.
+                                2. Restricted refrigerant flow   2. See A/C Orifice Tube in this group. Replace
+                                through the A/C orifice tube.    the liquid line, if required.
+                                3. Restricted refrigerant flow   3. See A/C Condenser in this group. Replace the
+                                through the A/C condenser.       restricted condenser, if required.
+

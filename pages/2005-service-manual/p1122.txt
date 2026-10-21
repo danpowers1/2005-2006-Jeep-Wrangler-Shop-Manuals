@@ -1,0 +1,69 @@
+19 - 4    STEERING                                                                                                TJ
+STEERING (Continued)
+
+            CONDITION                          POSSIBLE CAUSE                            CORRECTION
+
+STEERING WHEEL                        1. Tire pressure.                       1. Adjust tire pressure.
+DOES NOT WANT TO RETURN TO            2. Wheel alignment.                     2. Align front end.
+CENTER POSITION
+                                      3. Lack of lubrication.                 3. Inspect and lubricate steering and
+                                                                              suspension compnents.
+                                      4. High friction in steering gear.      4. Test and adjust as necessary.
+                                      5. Ball joints binding.                 5. Inspect and repair as necessary.
+
+
+NOTE:
+Some roads will cause a vehicle to drift, due to the
+crown in the road.
+
+                           LOOSE STEERING AND VEHICLE LEADS/DRIFTS
+
+            CONDITION                          POSSIBLE CAUSE                            CORRECTION
+
+EXCESSIVE PLAY IN STEERING            1. Worn or loose suspension or          1. Repair as necessary.
+WHEEL                                 steering components.
+
+                                      2. Worn or loose wheel bearings.        2. Repair as necessary.
+                                      3. Steering gear mounting.              3. Tighten gear mounting bolts to
+                                                                              specification.
+                                      4. Gear out of adjustment.              4. Adjust gear to specification.
+                                      5. Worn or loose steering coupler.      5. Repair as necessary.
+
+VEHICLE PULLS TO ONE SIDE             1. Tire Pressure.                       1. Adjust tire pressure.
+DURING BRAKING
+                                      2. Air in brake hydraulics system.      2. Bleed brake system.
+                                      3. Worn brake components.               3. Repair as necessary.
+
+VEHICLE LEADS OR DRIFTS               1. Tire pressure.                       1. Adjust tire pressure.
+FROM STRAIGHT AHEAD                   2. Radial tire lead.                    2. Cross front tires.
+DIRECTION ON UNCROWNED
+                                      3. Brakes dragging.                     3. Repair as necessary.
+ROAD.
+                                      4. Wheel alignment.                     4. Align vehicle.
+                                      5. Weak or broken spring.               5. Replace spring.
+                                      6. Loose or worn steering/              6. Repair as necessary.
+                                      suspension components.
+                                      7. Cross caster out of spec.            7. Adjust or replace axle as
+                                                                              necessary.
+
+
+DIAGNOSIS AND TESTING - POWER STEERING                       ing pressure and flow test is performed using Power
+                                                             Steering Analyzer Tool 6815 (Fig. 4) and Adapter kit
+FLOW AND PRESSURE
+                                                             6893.
+   The following procedure is used to test the opera-
+tion of the power steering system on the vehicle. This
+                                                             FLOW AND PRESSURE TEST
+test will provide the gallons per minute (GPM) or
+                                                               (1) Check the power steering belt to ensure it is in
+flow rate of the power steering pump along with the
+                                                             good condition and adjusted properly.
+maximum relief pressure. Perform test any time a
+                                                               (2) Connect pressure gauge hose from the Power
+power steering system problem is present. This test
+                                                             Steering Analyzer to Tube 6865.
+will determine if the power steering pump or power
+                                                               (3) Connect Adapter 6826 to Power Steering Ana-
+steering gear is not functioning properly. The follow-
+                                                             lyzer test valve end.
+

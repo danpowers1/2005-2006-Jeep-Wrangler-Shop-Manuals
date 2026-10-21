@@ -1,0 +1,60 @@
+8J - 16    INSTRUMENT CLUSTER                                                                               TJ
+INSTRUMENT CLUSTER (Continued)
+cluster. If not OK, repair the open rear window          harness connector (Connector C2) for the instrument
+defogger relay control circuit between the instrument    cluster from the cluster connector receptacle. Check
+cluster and the PDC as required.                         for continuity between the panel lamp dimmer signal
+                                                         circuit cavity of the instrument panel wire harness
+CLUSTER ILLUMINATION DIAGNOSIS                           connector (Connector C2) for the instrument cluster
+   The diagnosis found here addresses an inoperative     and a good ground. There should be no continuity. If
+instrument cluster illumination lamp condition. If       OK, go to Step 3. If not OK, repair the shorted panel
+the problem being diagnosed is a single inoperative      lamp dimmer signal circuit between the instrument
+illumination lamp, be certain that the bulb and bulb     cluster and the left multi-function switch as required.
+holder unit are properly installed in the instrument        (3) Check for continuity between the panel lamp
+cluster electronic circuit board. If no installation     dimmer signal circuit cavities of the instrument
+problems are found replace the faulty bulb and bulb      panel wire harness connector (Connector C2) for the
+holder unit. If all of the cluster illumination lamps    instrument cluster and the body wire harness con-
+are inoperative and the problem being diagnosed          nector for the left multi-function switch. There
+includes inoperative exterior lighting controlled by     should be continuity. If OK, use a DRBIIIt scan tool
+the left multi-function switch, that system needs to     to complete the diagnosis of the instrument cluster
+be repaired first. If the exterior lamps controlled by   illumination lighting. Refer to the appropriate diag-
+the left multi-function switch are inoperative, (Refer   nostic information. If not OK, repair the open panel
+to 8 - ELECTRICAL/LAMPS/LIGHTING - EXTERI-               lamp dimmer signal circuit between the instrument
+OR/HEADLAMP - DIAGNOSIS AND TESTING). If                 cluster and the left multi-function switch as required.
+no exterior lighting system problems are found, the
+following procedure will help locate a short or open     REMOVAL
+in the cluster illumination lamp circuit. Refer to the
+appropriate wiring information. The wiring informa-      WARNING: TO AVOID PERSONAL INJURY OR
+tion includes wiring diagrams, proper wire and con-      DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+nector repair procedures, details of wire harness        DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+routing and retention, connector pin-out information     TEM BEFORE ATTEMPTING ANY STEERING
+and location views for the various wire harness con-     WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+nectors, splices and grounds.                            MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                         VICE. DISCONNECT AND ISOLATE THE BATTERY
+WARNING: TO AVOID PERSONAL INJURY OR                     NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                  CHARGE BEFORE PERFORMING FURTHER DIAG-
+TEM BEFORE ATTEMPTING ANY STEERING                       NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-               TO DISABLE THE SUPPLEMENTAL RESTRAINT
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                   SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+VICE. DISCONNECT AND ISOLATE THE BATTERY                 CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                   BAG DEPLOYMENT.
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+CHARGE BEFORE PERFORMING FURTHER DIAG-                     (1) Disconnect and isolate the battery negative
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY              cable.
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                      (2) Remove the cluster bezel from the instrument
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                  panel. (Refer to 23 - BODY/INSTRUMENT PANEL/
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                 CLUSTER BEZEL - REMOVAL).
+BAG DEPLOYMENT.                                            (3) Remove the four screws that secure the instru-
+                                                         ment cluster to the instrument panel structural sup-
+  (1) Disconnect and isolate the battery negative        port (Fig. 4).
+cable. Disconnect the body wire harness connector for      (4) Pull the instrument cluster rearward far
+the left multi-function switch from the switch connec-   enough to access and disconnect the two instrument
+tor receptacle. Check for continuity between the         panel wire harness connectors for the instrument
+ground circuit cavity of the body wire harness con-      cluster from the connector receptacles on the back of
+nector for the left multi-function switch and a good     the cluster housing.
+ground. There should be continuity. If OK, go to Step      (5) Remove the instrument cluster from the instru-
+2. If not OK, repair the open ground circuit to ground   ment panel.
+(G300) as required.
+  (2) Remove the instrument cluster from the instru-
+ment panel. Disconnect the instrument panel wire
+

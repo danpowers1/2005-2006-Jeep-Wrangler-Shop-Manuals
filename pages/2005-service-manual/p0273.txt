@@ -1,0 +1,21 @@
+TJ                                                                                         CLUTCH      6 - 11
+CLUTCH PEDAL POSITION SWITCH (Continued)
+
+
+
+
+     Fig. 12 CPPS ELECTRICAL CONNECTION                      Fig. 13 CPPS ELECTRICAL CONNECTION
+1 - CPPS CONNECTION TO MAIN HARNESS                     1 - CPPS CONNECTION TO MAIN HARNESS
+
+
+OPERATION                                                 (2) Check switch continuity with an ohmmeter
+  The clutch pedal position switch is used to prevent   while operating clutch pedal.
+starter motor engagement unless the clutch pedal is       • Pedal Depressed - Continuity
+depressed. An input from this switch is also used to      • Pedal Released - No Continuity
+either shut down/prevent operation of the speed con-      (3) If continuity is not present or always present,
+trol system when pedal is depressed.                    replace clutch master cylinder. Switch is not serviced
+                                                        separately.
+DIAGNOSIS AND TESTING
+  (1) Disconnect 2-wire switch     connector   under
+instrument panel (Fig. 13).
+

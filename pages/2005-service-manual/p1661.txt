@@ -1,0 +1,24 @@
+TJ                                                                         EMISSIONS CONTROL         25 - 9
+EMISSIONS CONTROL (Continued)
+must stay below that threshold for a calibrated            • RPM When Misfire Occurred — The stored
+amount of time.                                         RPM reading at the time of failure. Informs the user
+  • Test Done This Trip — Indicates that the            at what engine RPM the failure occurred.
+monitor has already been run and completed during          • Engine RPM — A live reading of engine RPM
+the current trip.                                       to aid the user in accessing the Similar Conditions
+  MISFIRE                                               Window.
+  • Same Misfire Warm-Up State — Indicates if              • Adaptive Memory Factor — The PCM utilizes
+the misfire occurred when the engine was warmed up      both Short Term Compensation and Long Term Adap-
+(above 160° F).                                         tive to calculate the Adaptive Memory Factor for
+  • In Similar Misfire Window — An indicator            total fuel correction.
+that ’Absolute MAP When Misfire Occurred’ and              • 200 Rev Counter — Counts 0–100 720 degree
+’RPM When Misfire Occurred’ are all in the same         cycles.
+range when the failure occurred. Indicated by switch-      • SCW Cat 200 Rev Counter — Counts when in
+ing from ’NO’ to ’YES’.                                 similar conditions.
+  • Absolute MAP When Misfire Occurred —                   • SCW FTP 1000 Rev Counter — Counts 0–4
+The stored MAP reading at the time of failure.          when in similar conditions.
+Informs the user at what engine load the failure           • Misfire Good Trip Counter — Counts up to
+occurred.                                               three to turn OFF the MIL.
+  • Absolute MAP — A live reading of engine load           • Misfire Data— Data collected during test.
+to aid the user in accessing the Similar Conditions        • Test Done This Trip— Indicates YES when the
+Window.                                                 test is done.
+

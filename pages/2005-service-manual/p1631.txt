@@ -1,0 +1,60 @@
+TJ                                                                                       PLUMBING        24 - 63
+PLUMBING (Continued)
+will reduce the performance of the A/C system and         NOTE: Always refer to the A/C Underhood Specifi-
+damage the A/C compressor. Moisture will boil at          cation Label for the refrigerant fill capacity of the
+near room temperature when exposed to vacuum. A           vehicle being serviced.
+R-134a refrigerant recovery/recycling/charging sta-
+tion that meets SAE Standard J2210 must be used to           After all refrigerant system leaks have been
+evacuate the refrigerant system. See the operating        repaired and the refrigerant system has been evacu-
+instructions supplied by the equipment manufacturer       ated, a refrigerant charge can be injected into the
+for proper care and use of this equipment. To evacu-      system. For the proper amount of the refrigerant
+ate the refrigerant system, use the following proce-      charge, always refer to the A/C Underhood Specifica-
+dure:                                                     tion Label located in the engine compartment. An
+                                                          R-134a refrigerant recovery/recycling/charging sta-
+NOTE: When connecting the service equipment               tion that meets SAE Standard J2210 must be used to
+couplings to the refrigerant system service ports,        charge the refrigerant system with R-134a refriger-
+be certain that the valve of each coupling is fully       ant. See the operating instructions supplied by the
+closed. This will reduce the amount of effort             equipment manufacturer for proper care and use of
+required to make the connection.                          this equipment.
+
+   (1) Connect a suitable charging station, refrigerant   CHARGING PROCEDURE
+recovery machine or a manifold gauge set with vac-
+uum pump and refrigerant recovery equipment               CAUTION: A small amount of refrigerant oil is
+(Refer to 24 - HEATING & AIR CONDITIONING/                removed from the A/C system each time the refrig-
+PLUMBING - STANDARD PROCEDURE - REFRIG-                   erant system is recovered and evacuated. Before
+ERANT SYSTEM SERVICE EQUIPMENT).                          charging the A/C system, you MUST replenish any
+   (2) Recover the refrigerant system (Refer to 24 -      oil lost during the recovery process. Refer the
+HEATING & AIR CONDITIONING/PLUMBING -                     equipment manufacturer instructions for more infor-
+STANDARD PROCEDURE - REFRIGERANT SYS-                     mation.
+TEM RECOVERY).
+   (3) Open the suction and discharge valves and            (1) Evacuate the refrigerant system (Refer to 24 -
+start the vacuum pump. The vacuum pump should             HEATING & AIR CONDITIONING/PLUMBING -
+run a minimum of 45 minutes prior to charge to            STANDARD PROCEDURE - REFRIGERANT SYS-
+eliminate all moisture within the refrigerant system.     TEM EVACUATE).
+When the suction gauge reads -88 kPa (-26 in. Hg)           (2) A manifold gauge set and a R-134a refrigerant
+vacuum or greater for 30 minutes, close all valves        recovery/recycling/charging station that meets SAE
+and turn off vacuum pump. If the refrigerant system       standard J2210 should still be connected to the A/C
+fails to reach the specified vacuum, the refrigerant      refrigerant system.
+system likely has a leak that must be corrected. If         (3) Measure the proper amount of R-134a refriger-
+the refrigerant system maintains specified vacuum         ant and heat it to 52° C (125° F) with the charging
+for at least 30 minutes, start the vacuum pump, open      station. See the operating instructions supplied by
+the suction and discharge valves. Then allow the sys-     the equipment manufacturer for proper use of this
+tem to evacuate an additional 10 minutes.                 equipment.
+   (4) Close all valves. Turn off and disconnect the        (4) Open both the suction and discharge valves,
+vacuum pump.                                              then open the charge valve to allow the heated
+   (5) Charge the refrigerant system (Refer to 24 -       refrigerant to flow into the system.
+HEATING & AIR CONDITIONING/PLUMBING -                       (5) When the transfer of refrigerant has stopped,
+STANDARD PROCEDURE - REFRIGERANT SYS-                     close both the suction and discharge valves.
+TEM CHARGE).                                                (6) If all of the refrigerant charge did not transfer
+                                                          from the dispensing device, open all of the windows
+REFRIGERANT SYSTEM CHARGE                                 in the vehicle and set the A/C-heater controls so that
+                                                          the A/C compressor is engaged and the blower motor
+WARNING: Refer to the applicable warnings and             is operating at its lowest speed setting. Run the
+cautions for this system before performing the fol-       engine at a steady high idle (about 1400 rpm). If the
+lowing operation (Refer to 24 - HEATING & AIR             A/C compressor will not engage, test the compressor
+CONDITIONING/PLUMBING - WARNINGS) and (Refer              clutch control circuit and repair as required.
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -               (7) Open the suction valve to allow the remaining
+CAUTIONS). Failure to follow the warnings and cau-        refrigerant to transfer to the refrigerant system.
+tions could result in possible personal injury or
+death.
+

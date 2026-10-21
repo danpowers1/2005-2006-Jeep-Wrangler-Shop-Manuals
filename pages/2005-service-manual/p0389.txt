@@ -1,0 +1,57 @@
+TJ                                                                                                 STARTING      8F - 37
+STARTING (Continued)
+
+SPECIFICATIONS
+STARTER
+
+                                              Starter Motor and Solenoid
+Manufacturer                                                                          Mitsubishi
+Engine Application                                                                    2.4L, 4.0L
+                                                                     2.4L - 1.4 Kilowatt (1.9 Horsepower)
+Power Rating
+                                                                     4.0L - 1.4 Kilowatt (1.9 Horsepower)
+Voltage                                                                                12 Volts
+** Number of Permanent Magnets                                                            6
+Number of Brushes                                                                         4
+Drive Type                                                                     Planetary Gear Reduction
+Free Running Test Voltage                                                             11.2 Volts
+Free Running Test Maximum Amperage Draw                                              90 Amperes
+                                                                                  2.4L - 24400 rpm
+Free Running Test Minimum Speed
+                                                                                  4.0L - 2500 rpm
+Solenoid Closing Maximum Voltage Required                                             7.8 Volts
+                                                                                 2.4L - 160 Amperes
+*Cranking Amperage Draw Test
+                                                                                 4.0L - 160 Amperes
+* Test at operating temperature. Cold engine, tight (new) engine, or heavy oil will increase starter amperage draw.
+** The starter is equipped with permanent magnets. Never strike the starter case to attempt to loosen a sticking/
+stuck armature as permanent magnets may crack or break.
+
+
+TORQUE
+
+       DESCRIPTION                       N-m                        Ft. Lbs.                          In. Lbs.
+     Starter Solenoid B+                 11.3                              -                            100
+        Terminal Nut
+   Starter Mounting Bolts                54                            40                                 -
+           (2.4L)
+      Starter Heat Shield                 6                                -                              55
+        Mounting Bolts
+     Starter Mounting Bolt               41                            30                                 -
+     (forward facing 4.0L)
+    Starter Mounting Bolt                48                            35                                 -
+   (rearward facing 4.0L)
+
+
+STARTER MOTOR                                               CAUTION: Permanent magnets are used in the
+                                                            starter. Permanent magnet starters are highly sensi-
+                                                            tive to hammering, shocks, external pressure and
+DIAGNOSIS AND TESTING - STARTER
+                                                            reverse polarity. This starter motor must never be
+MOTOR/SOLENOID                                              clamped in a vise by starter field frame. The starter
+  Correct starter motor operation can be confirmed          should only be clamped by mounting flange. Do not
+by performing the following free running bench test.        reverse battery cable connections to starter motor
+This test can only be performed with starter motor          when testing. The permanent magnets may be dam-
+removed from vehicle. Refer to starter motor specifi-       aged and starter rendered unserviceable if it is sub-
+cations.                                                    jected to any of these conditions.
+

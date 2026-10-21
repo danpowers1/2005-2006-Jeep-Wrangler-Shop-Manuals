@@ -1,0 +1,52 @@
+8W - 80 - 20   8W-80 CONNECTOR PIN-OUTS               TJ
+
+
+                           C324 - BLACK (BODY SIDE)
+                CAV                    CIRCUIT
+                 A     M21 20YL/BR
+                 B     M22 20YL/OR
+                 C     X58 18GY/OR
+                 D     X52 18GY/DB
+
+
+
+
+                  C324 - BLACK (SPEAKER POD JUMPER)
+                CAV                    CIRCUIT
+                 A     M21 20PK/WT
+                 B     M22 20YL
+                 C     X58 18DB/PK
+                 D     X52 18GY/DB
+
+
+
+
+                  C325 - BLACK (SPEAKER POD JUMPER)
+                CAV                    CIRCUIT
+                 A     M21 20PK/WT
+                 B     M22 20YL
+                 C     X57 18BR/LB
+                 D     X51 18BR/YL
+
+
+
+
+                           C325 - BLACK (BODY SIDE)
+                CAV                    CIRCUIT
+                 A     M21 20YL/BR
+                 B     M22 20YL/OR
+                 C     X57 18DG/OR
+                 D     X51 18DG/DB
+
+
+
+
+                      C326 (HARD TOP) - (BODY SIDE)
+                CAV                    CIRCUIT
+                 1     C15 12BK/WT
+                 2     -
+                 3     W13 18BR/LG
+                 4     F302 18GY/PK
+                 5     F302 18GY/PK
+                 6     Z913 12BK
+

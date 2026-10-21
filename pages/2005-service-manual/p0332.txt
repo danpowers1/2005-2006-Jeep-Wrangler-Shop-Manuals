@@ -1,0 +1,60 @@
+8B - 4   CHIME/BUZZER                                                                                  TJ
+CHIME WARNING SYSTEM (Continued)
+
+         CONDITION           POSSIBLE CAUSES                             CORRECTION
+
+ NO SEAT BELT WARNING    1. Seat belt switch ground    1. Check for continuity between the ground circuit
+  CHIME WITH SEAT BELT   circuit open.                 of the floor wire harness connector for the seat
+ UNBUCKLED, BUT OTHER                                  belt switch and a good ground. Repair open
+   CHIME FEATURES OK                                   ground circuit, if required.
+
+                         2. Seat belt switch sense     2. Check for continuity between the seat belt
+                         circuit open.                 switch sense circuit of the floor wire harness
+                                                       connector for the seat belt switch and the
+                                                       instrument panel wire harness instrument cluster
+                                                       connector. Repair the open seat belt switch sense
+                                                       circuit, if required.
+                         3. Faulty seat belt switch.   3. Check for continuity between the ground circuit
+                                                       and the seat belt switch sense circuit of the seat
+                                                       belt switch pigtail connector. There should be
+                                                       continuity with the seat belt unbuckled. Replace
+                                                       the faulty seat belt, if required.
+
+   SEAT BELT WARNING     1. Seat belt switch sense     1. With the floor wire harness connector for the
+  CHIME WITH SEAT BELT   circuit shorted.              seat belt switch and the instrument panel wire
+        BUCKLED                                        harness instrument cluster connector
+                                                       disconnected, there should be no continuity
+                                                       between the seat belt switch sense circuit and a
+                                                       good ground. Repair the shorted seat belt switch
+                                                       sense circuit, if required.
+
+                         2. Faulty seat belt switch.   2. Check for continuity between the ground circuit
+                                                       cavity and the seat belt switch sense circuit of the
+                                                       seat belt switch pigtail connector. There should
+                                                       be no continuity with the seat belt buckled.
+                                                       Replace the faulty seat belt, if required.
+
+   NO KEY-IN IGNITION    1. Driver door ajar switch    1. Check for continuity between the driver door
+  WARNING CHIME, BUT     sense circuit open.           ajar switch sense circuit of the connector for the
+ OTHER CHIME FEATURES                                  driver door ajar switch and the cross body wire
+          OK                                           harness ignition switch connector. Repair the
+                                                       open driver door ajar switch sense circuit, if
+                                                       required.
+
+                         2. Key-in ignition switch     2. Check for continuity between the key-in ignition
+                         sense circuit open.           switch sense circuit of the cross body wire
+                                                       harness ignition switch connector and the
+                                                       instrument panel wire harness instrument cluster
+                                                       connector. Repair the open key-in ignition switch
+                                                       sense circuit, if required.
+                         3. Ignition switch ground     3. Check for continuity between the ground circuit
+                         circuit open.                 cavity of the cross body wire harness ignition
+                                                       switch connector and a good ground. Repair the
+                                                       open ground circuit, if required
+                         4. Faulty ignition switch.    4. Check for continuity between the ground circuit
+                                                       terminal and the key-in ignition switch sense
+                                                       circuit terminal in the ignition switch connector.
+                                                       There should be continuity with a key in the
+                                                       ignition lock cylinder. Replace the faulty ignition
+                                                       switch, if required.
+

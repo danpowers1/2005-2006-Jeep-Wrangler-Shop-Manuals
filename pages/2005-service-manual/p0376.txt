@@ -1,0 +1,60 @@
+8F - 24    CHARGING                                                                                             TJ
+BATTERY TEMPERATURE SENSOR (Continued)
+  (1) Remove battery. Refer to 8, Battery for proce-       DO SO CAN RESULT IN INJURY OR DAMAGE TO
+dures.                                                     ELECTRICAL SYSTEM.
+  (2) Disconnect sensor pigtail harness from engine          (1) Disconnect negative battery cable at battery.
+wire harness.                                                (2) Remove generator drive belt. Refer to 7, Cool-
+  (3) Pry sensor straight up from battery tray             ing System for procedure.
+mounting hole.                                               (3) Remove generator pivot and mounting bolts/nut
+                                                           (Fig. 2) , or (Fig. 3). Position generator for access to
+INSTALLATION                                               wire connectors.
+  The battery temperature sensor is located under            (4) If equipped, unsnap plastic cover from B+ ter-
+the vehicle battery and is attached to a mounting          minal.
+hole on battery tray.                                        (5) Remove B+ cable output terminal mounting
+  (1) Feed pigtail harness through hole in top of bat-     nut at rear of generator (Fig. 4), (Fig. 5), or (Fig. 6).
+tery tray and press sensor into top of battery tray.       Disconnect terminal from generator.
+  (2) Connect pigtail harness.                               (6) Disconnect field wire connector at rear of gen-
+  (3) Install battery. Refer to 8, Battery for proce-      erator by pushing on connector tab.
+dures.                                                       (7) Remove generator from vehicle.
+
+
+GENERATOR
+DESCRIPTION
+  The generator is belt-driven by the engine using a
+serpentine type drive belt. It is serviced only as a
+complete assembly. If the generator fails for any rea-
+son, the entire assembly must be replaced.
+
+OPERATION
+   As the energized rotor begins to rotate within the
+generator, the spinning magnetic field induces a cur-
+rent into the windings of the stator coil. Once the
+generator begins producing sufficient current, it also
+provides the current needed to energize the rotor.
+   The Y type stator winding connections deliver the
+induced AC current to 3 positive and 3 negative
+diodes for rectification. From the diodes, rectified DC
+current is delivered to the vehicle electrical system          Fig. 2 GENERATOR REMOVE/INSTALL - 4.0L
+through the generator battery terminal.                    1 - GENERATOR
+   Although the generators appear the same exter-          2 - UPPER BOLT
+                                                           3 - LOWER BOLT
+nally, different generators with different output rat-
+ings are used on this vehicle. Be certain that the
+replacement generator has the same output rating
+                                                           INSTALLATION
+and part number as the original unit. Refer to Gen-           (1) Position generator to engine and snap field
+erator Ratings in the Specifications section at the        wire connector into rear of generator.
+back of this group for amperage ratings and part              (2) Install B+ terminal to generator mounting
+numbers.                                                   stud. Tighten mounting nut. Refer to Torque Specifi-
+   Noise emitting from the generator may be caused         cations.
+by: worn, loose or defective bearings; a loose or defec-      (3) If equipped, snap plastic cover to B+ terminal.
+tive drive pulley; incorrect, worn, damaged or misad-         (4) Install generator mounting fasteners and
+justed fan drive belt; loose mounting bolts; a             tighten. Refer to Torque Specifications.
+misaligned drive pulley or a defective stator or diode.
+                                                           CAUTION: Never force a belt over a pulley rim
+                                                           using a screwdriver. The synthetic fiber of the belt
+REMOVAL                                                    can be damaged.
+WARNING: DISCONNECT NEGATIVE CABLE FROM
+BATTERY BEFORE REMOVING BATTERY OUTPUT
+WIRE (B+ WIRE) FROM GENERATOR. FAILURE TO
+

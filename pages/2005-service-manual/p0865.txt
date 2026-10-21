@@ -1,0 +1,47 @@
+TJ              8W-91 CONNECTOR/GROUND/SPLICE LOCATION                             8W - 91 - 9
+CONNECTOR/GROUND/SPLICE LOCATION (Continued)
+
+Splice Number   Location                                                Fig.
+S152            Left Rear Engine Compartment                            14
+S152 (RHD)      Right Rear Engine Compartment                           12
+S153            Rear Engine Compartment                                 7, 17
+S155            Left Rear Engine Compartment                            10, 12
+S156            Near T/O for ABS Pump Motor                             10
+S158 (2.4L)     Near T/O For Power Steering Pressure Switch             N/S
+S159 (2.4L)     In T/O for PCM                                          4, 9
+S160 (2.4L)     Left Rear Engine Compartment                            4
+S160 (4.0L)     Front of Transmission                                   5, 7
+S161            Rear of Engine Compartment                              9, 17
+S162 (2.4L)     Near T/O for Oxygen Sensor 1/1 Upstream                 N/S
+S164            Near T/O For Rer Locker Indicator Switch Inline C116    32
+S170            Rear of Engine Compartment                              10, 12
+S172            Between G100 and C103                                   10, 12
+S173            Near G100                                               10, 12
+S176            In Fuel InjectorHarness                                 N/S
+S177            Rear of Engine Compartment                              7, 17
+S178            Near T/O for C103 on Engine Harness                     N/S
+S180 (LHD)      In PDC                                                  10
+S180 (RHD)      Left Rear Engine Compartment                            12
+S184            Left Side of Engine                                     5
+S185            Rear of Engine                                          7
+S202 (LHD)      Center of Instrument Panel                              24, 26
+S202 (RHD)      Center Rear of Instrument Panel                         26, 27
+S204            Center Rear of Instrument Panel                         26, 27
+S206            Center Rear of Instrument Panel                         26, 27
+S207            Near Cigar Lighter T/O                                  26, 29
+S208            Near Blower Motor                                       N/S
+S209            Near T/O for C202, C203, and C204                       24, 26, 27, 28
+S210            Near T/O for A/C Heater Control C3                      26, 29
+S211            Near T/O for C202                                       N/S
+S212            Near T/O to Right Courtesy Lamp                         N/S
+S213            Center Rear of Instrument Panel                         N/S
+S214            Center Rear of Instrument Panel                         N/S
+S215            Center Rear of Instrument Panel                         25, 27
+S216            Left Side of Instrument Panel                           24
+S217            Left Side of Instrument Panel                           24
+S218            Driver Side Instrument Panel                            24, 27
+S302(LHD)       In T/O to Steering Column                               19
+S302(RHD)       Between S315 and S331, near T/O to ACM                  21
+S304 (LHD)      Center Rear of Dash Panel, Near Front Wiper Motor T/O   19
+S304 (RHD)      Near T/O for C202 and C107                              21, 23
+

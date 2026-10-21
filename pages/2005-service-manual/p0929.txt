@@ -1,0 +1,63 @@
+TJ                                                                                               ENGINE 2.4L         9-9
+ENGINE 2.4L (Continued)
+
+            CONDITION                          POSSIBLE CAUSES                               CORRECTION
+
+OIL PRESSURE DROP                      1. Low oil level.                         1. Check engine oil level.
+
+                                       2. Faulty oil pressure sending unit.      2. Install new sending unit.
+                                       3. Low oil pressure.                      3. Check sending unit and main
+                                                                                 bearing oil clearance.
+                                       4. Clogged oil filter.                    4. Install new oil filter.
+                                       5. Worn parts in oil pump.                5. Replace worn parts or pump.
+                                       6. Thin or diluted oil.                   6. Change oil to correct viscosity.
+                                       7. Oil pump relief valve stuck.           7. Replace oil pump.
+                                       8. Oil pump suction tube loose.           8. Remove oil pan and install new
+                                                                                 tube or clean, if necessary.
+                                       9. Oil pump cover warped or               9. Install new oil pump.
+                                       cracked.
+                                       10. Excessive bearing clearance.          10. Measure bearings for correct
+                                                                                 clearance.
+
+OIL LEAKS                              1. Misaligned or deteriorated             1. Replace gasket(s).
+                                       gaskets.
+
+                                       2. Loose fastener, broken or porous       2. Tighten, repair or replace the
+                                       metal part.                               part.
+                                       3. Misaligned or deteriorated cup or      3. Replace as necessary.
+                                       threaded plug.
+
+OIL CONSUMPTION OR SPARK               1. PCV system malfunction.                1. Check system and repair as
+PLUGS FOULED                                                                     necessary. (Refer to 25 -
+                                                                                 EMISSIONS CONTROL/
+                                                                                 EVAPORATIVE EMISSIONS/PCV
+                                                                                 VALVE - DIAGNOSIS AND
+                                                                                 TESTING)
+                                       2. Worn, scuffed or broken rings.         2. Hone cylinder bores. Install new
+                                                                                 rings.
+                                       3. Carbon in oil ring slots.              3. Install new rings.
+                                       4. Rings fitted too tightly in grooves.   4. Remove rings and check
+                                                                                 grooves. If groove is not proper
+                                                                                 width, replace piston.
+                                       5. Worn valve guide(s).                   5. Replace cylinder head assembly.
+                                       6. Valve stem seal(s) worn or             6. Replace seal(s).
+                                       damaged.
+
+
+STANDARD PROCEDURE                                              CAUTION: Be sure that the tapped holes maintain
+                                                                the original center line.
+REPAIR OF DAMAGED OR WORN THREADS
+                                                                  Heli-Coil tools and inserts are readily available
+  Damaged or worn threads (excluding spark plug
+                                                                from automotive parts jobbers.
+and camshaft bearing cap attaching threads) can be
+repaired. Essentially, this repair consists of drilling
+out worn or damaged threads, tapping the hole with
+                                                                HYDROSTATIC LOCKED ENGINE
+                                                                   When an engine is suspected to be hydrostatically
+a special Heli-Coil Tap, (or equivalent) and installing
+                                                                locked, regardless of what caused the problem, the
+an insert into the tapped hole. This brings the hole
+                                                                following steps should be used.
+back to its original thread size.
+

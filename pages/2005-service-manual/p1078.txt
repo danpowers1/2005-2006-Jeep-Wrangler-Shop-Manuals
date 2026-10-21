@@ -1,0 +1,52 @@
+14 - 2     FUEL DELIVERY                                                                                       TJ
+FUEL DELIVERY (Continued)
+sion Control System for fuel tank check valve              not attempt to use following steps to relieve this
+information).                                              pressure as excessive fuel will be forced into a cyl-
+   A fuel filler/vent tube assembly using a pressure/      inder chamber.
+vacuum fuel filler cap is used. The fuel filler tube          (6) Unplug connector from any fuel injector.
+contains a flap door located below the fuel fill cap.         (7) Attach one end of a jumper wire with alligator
+   Also to be considered part of the fuel system is the    clips (18 gauge or smaller) to either injector terminal.
+evaporation control system. This is designed to               (8) Connect other end of jumper wire to positive
+reduce the emission of fuel vapors into the atmo-          side of battery.
+sphere. The description and function of the Evapora-          (9) Connect one end of a second jumper wire to
+tive Control System is located in Emission Control         remaining injector terminal.
+Systems.
+   Both fuel filters (at bottom of fuel pump module        CAUTION: Powering an injector for more than a few
+and within fuel pressure regulator) are designed for       seconds will permanently damage the injector.
+extended service. They do not require normal sched-
+uled maintenance. Filters should only be replaced if         (10) Momentarily touch other end of jumper wire
+a diagnostic procedure indicates to do so.                 to negative terminal of battery for no more than a
+                                                           few seconds.
+STANDARD PROCEDURE - FUEL SYSTEM                             (11) Place a rag or towel below fuel line quick-con-
+                                                           nect fitting at fuel rail.
+PRESSURE RELEASE                                             (12) Disconnect quick-connect fitting at fuel rail.
+   Use following procedure if the fuel injector            Refer to Quick-Connect Fittings.
+rail is, or is not equipped with a fuel pressure             (13) Return fuel pump relay to PDC.
+test port.                                                   (14) One or more Diagnostic Trouble Codes (DTC’s)
+   (1) Remove fuel fill cap.                               may have been stored in PCM memory due to fuel
+   (2) Remove fuel pump relay from Power Distribu-         pump relay removal. The DRBt scan tool must be
+tion Center (PDC). For location of relay, refer to label   used to erase a DTC.
+on underside of PDC cover.
+   (3) Start and run engine until it stalls.
+   (4) Attempt restarting engine until it will no          SPECIFICATIONS
+longer run.
+   (5) Turn ignition key to OFF position.                  FUEL SYSTEM PRESSURE
+                                                             58 psi +/- 2 psi
+CAUTION: Steps 1, 2, 3 and 4 must be performed to
+relieve high pressure fuel from within fuel rail. Do
+
+TORQUE - FUEL DELIVERY
+
+         DESCRIPTION                     N-m                       Ft. Lbs.                     In. Lbs.
+ Accelerator Pedal Bracket               8.5                           -                           75
+      Mounting Nuts
+     Fuel Hose Clamps                     3                            -                           25
+ Fuel Rail Mounting Bolts -               28                           -                          250
+            2.4L
+  Fuel Rail Mounting Bolts                11                           -
+                                                                                                  100
+       or Nuts - 4.0L
+ Fuel Tank Mounting Strap      Refer to service manual                 -                            -
+           Bolts                         text.
+ Fuel Tank Skidplate Bolts                16                           -                          141
+

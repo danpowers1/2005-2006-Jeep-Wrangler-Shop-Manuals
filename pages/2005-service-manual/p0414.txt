@@ -1,0 +1,42 @@
+8I - 8   IGNITION CONTROL                                                                          TJ
+CAMSHAFT POSITION SENSOR - 2.4L (Continued)
+
+
+
+
+         Fig. 10 CMP ADJUSTMENT - 2.4L
+1 - FACE OF SENSOR
+2 - WIRE GAPPING TOOL
+                                                                 Fig. 11 4.0L CMP LOCATION (’05)
+CAMSHAFT POSITION                                       1 - OIL PUMP DRIVE ASSEMBLY
+                                                        2 - CMP
+SENSOR - 4.0L                                           3 - CMP ELECTRICAL CONNECTOR
+                                                        4 - HOUSING HOLD DOWN BOLT
+                                                        5 - HOUSING
+DESCRIPTION - 4.0L                                      6 - PLASTIC COVER
+  The CMP (Camshaft Position Sensor) sensor (2)         7 - COVER SCREWS (2)
+(Fig. 11) is bolted to the side of the oil pump drive
+assembly (5). The assembly is located on the right
+side of the engine near the oil filter (Fig. 11).
+
+OPERATION - 4.0L
+   The CMP sensor (1) (Fig. 12) uses a rotating hall
+effect device called a target wheel (3) which is
+attached to the oil pump drive shaft. The target
+wheel contains sets of machined notches (2).
+   When the leading edge of a target wheel notch
+passes by the tip of the CMP sensor, the interruption
+of magnetic field causes the voltage to switch high
+resulting in a sync signal of approximately 5 volts.
+   When the trailing edge of the target wheel notch
+passes by the tip of the CMP sensor, the change of
+the magnetic field causes the sync signal voltage to
+switch low to 0 volts.
+
+
+
+                                                                  Fig. 12 4.0L CMP OPERATION
+                                                        1 - CMP SENSOR
+                                                        2 - TARGET WHEEL NOTCHES
+                                                        3 - TARGET WHEEL
+

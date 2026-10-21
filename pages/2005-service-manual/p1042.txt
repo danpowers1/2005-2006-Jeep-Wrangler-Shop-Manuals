@@ -1,0 +1,60 @@
+9 - 122    ENGINE 4.0L                                                                                         TJ
+LUBRICATION (Continued)
+
+DIAGNOSIS AND TESTING                                        (6) If no leaks are detected, turn off the air supply
+                                                           and remove the air hose and all plugs and caps.
+DIAGNOSIS AND TESTING - ENGINE OIL                         Install the CCV valve and breather cap hose.
+                                                             (7) Clean the oil off the suspect oil leak area using
+PRESSURE                                                   a suitable solvent. Drive the vehicle at various
+  (1) Disconnect connector and remove oil pressure         speeds approximately 24 km (15 miles). Inspect the
+sending unit.                                              engine for signs of an oil leak by using a black light.
+  (2) Install Oil Pressure Line and Gauge Tool
+C-3292 or equivalent. Start engine and record pres-        INSPECTION FOR REAR SEAL AREA LEAKS
+sure. (Refer to 9 - ENGINE - SPECIFICATIONS) for              Since it is sometimes difficult to determine the
+the correct pressures.                                     source of an oil leak in the rear seal area of the
+                                                           engine, a more involved inspection is necessary. The
+DIAGNOSIS AND TESTING - ENGINE OIL LEAK                    following steps should be followed to help pinpoint
+   Begin with a thorough visual inspection of the          the source of the leak.
+engine, particularly at the area of the suspected leak.       If the leakage occurs at the crankshaft rear oil seal
+If an oil leak source is not readily identifiable, the     area:
+following steps should be followed:                           (1) Disconnect the battery.
+   (1) Do not clean or degrease the engine at this            (2) Raise the vehicle.
+time because some solvents may cause rubber to                (3) Remove torque converter or clutch housing
+swell, temporarily stopping the leak.                      cover and inspect rear of block for evidence of oil.
+   (2) Add an oil soluble dye (use as recommended by       Use a black light to check for the oil leak:
+manufacturer). Start the engine and let idle for                 (a) Circular spray pattern generally indicates
+approximately 15 minutes. Check the oil dipstick to           seal leakage or crankshaft damage.
+make sure the dye is thoroughly mixed as indicated               (b) Where leakage tends to run straight down,
+with a bright yellow color under a black light.               possible causes are a porous block, distributor seal,
+   (3) Using a black light, inspect the entire engine         camshaft bore cup plugs oil galley pipe plugs, oil
+for fluorescent dye, particularly at the suspected area       filter runoff, and main bearing cap to cylinder
+of oil leak. If the oil leak is found and identified,         block mating surfaces.
+repair per service manual instructions.                       (4) If no leaks are detected, pressurize the crank-
+   (4) If dye is not observed, drive the vehicle at var-   case as outlined in the, Inspection (Engine oil Leaks
+ious speeds for approximately 24km (15 miles), and         in general)
+repeat inspection.If the oil leak source is not pos-
+itively identified at this time, proceed with the air      CAUTION: Do not exceed 20.6 kPa (3 psi).
+leak detection test method.
+                                                             (5) If the leak is not detected, very slowly turn the
+Air Leak Detection Test Method                             crankshaft and watch for leakage. If a leak is
+  (1) Disconnect the breather cap to air cleaner hose      detected between the crankshaft and seal while
+at the breather cap end. Cap or plug breather cap          slowly turning the crankshaft, it is possible the
+nipple.                                                    crankshaft seal surface is damaged. The seal area on
+  (2) Remove the CCV valve from the cylinder head          the crankshaft could have minor nicks or scratches
+cover. Cap or plug the CCV valve grommet.                  that can be polished out with emery cloth.
+  (3) Attach an air hose with pressure gauge and
+regulator to the dipstick tube.                            CAUTION: Use extreme caution when crankshaft
+                                                           polishing is necessary to remove minor nicks and
+CAUTION: Do not subject the engine assembly to             scratches. The crankshaft seal flange is especially
+more than 20.6 kpa (3 PSI) of test pressure.               machined to complement the function of the rear oil
+                                                           seal.
+   (4) Gradually apply air pressure from 1 psi to 2.5
+psi maximum while applying soapy water at the sus-           (6) For bubbles that remain steady with shaft
+pected source. Adjust the regulator to the suitable        rotation, no further inspection can be done until dis-
+test pressure that provide the best bubbles which          assembled.
+will pinpoint the leak source. If the oil leak is
+detected and identified, repair per service informa-
+tion procedures.
+   (5) If the leakage occurs at the rear oil seal area,
+INSPECTION FOR REAR SEAL AREA LEAKS.
+

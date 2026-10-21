@@ -1,0 +1,38 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                        8W - 80 - 35
+
+
+                                     LEFT LICENSE LAMP (EXPORT) - GRAY 2 WAY
+              CAV                 CIRCUIT                                     FUNCTION
+               1    L7 18WT/YL                           HEADLAMP SWITCH OUTPUT
+               2    Z913 20BK                            GROUND
+
+
+
+
+                                          LEFT REAR LAMP ASSEMBLY - 4 WAY
+              CAV                 CIRCUIT                                     FUNCTION
+               1    L1 20WT/LG (EXCEPT EXPORT)           BACK-UP LAMP FEED
+               1    L63 18DG/RD (EXPORT)                 LEFT TURN/STOP SIGNAL
+               2    L63 18DG/RD (EXCEPT EXPORT)          LEFT TURN/STOP SIGNAL
+               2    L1 20WT/LG (EXPORT)                  BACK-UP LAMP FEED
+               3    L7 18WT/YL (EXCEPT EXPORT)           HEADLAMP SWITCH OUTPUT
+               3    L50 18WT/TN (EXPORT)                 BRAKE LAMP SWITCH OUTPUT
+               4    L7 18WT/YL (EXPORT)                  HEADLAMP SWITCH OUTPUT
+
+
+
+
+                                            LEFT REAR SPEAKER - BLACK 3 WAY
+              CAV                 CIRCUIT                                     FUNCTION
+               1    X57 20BR/LB                          LEFT REAR SPEAKER (-)
+               2    -                                    -
+               3    X51 18BR/YL                          LEFT REAR SPEAKER (+)
+
+
+
+
+                                      LEFT REAR WHEEL SPEED SENSOR - 2 WAY
+              CAV                 CIRCUIT                                     FUNCTION
+               1    B3 18DG/YL                           LEFT REAR WHEEL SPEED SENSOR (-)
+               2    B4 18DG/GY                           LEFT REAR WHEEL SPEED SENSOR (+)
+

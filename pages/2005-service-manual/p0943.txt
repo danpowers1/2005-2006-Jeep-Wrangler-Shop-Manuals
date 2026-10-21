@@ -1,0 +1,59 @@
+TJ                                                                                   ENGINE 2.4L       9 - 23
+CYLINDER HEAD (Continued)
+COOLING SYSTEM TESTER METHOD                             (17) Remove camshafts (Refer to 9 - ENGINE/
+                                                        CYLINDER HEAD/CAMSHAFT(S) - REMOVAL).
+WARNING: WITH COOLING SYSTEM TESTER IN
+PLACE, PRESSURE WILL BUILD UP FAST. EXCES-              NOTE: Identify rocker arm position to ensure cor-
+SIVE PRESSURE BUILT UP, BY CONTINUOUS                   rect re-installation in original position, if reused.
+ENGINE OPERATION, MUST BE RELEASED TO A
+SAFE PRESSURE POINT. NEVER PERMIT PRES-                   (18) Remove rocker arms. (Refer to 9 - ENGINE/
+SURE TO EXCEED 138 kPa (20 psi).                        CYLINDER HEAD/ROCKER ARMS - REMOVAL).
+                                                          (19) Remove cylinder head bolts in REVERSE
+  Install Cooling System Tester 7700 or equivalent to   sequence of tightening.
+pressure cap neck. Start the engine and observe the       (20) Remove cylinder head from engine block.
+tester’s pressure gauge. If gauge pulsates with every     (21) Inspect and clean cylinder head. (Refer to 9 -
+power stroke of a cylinder a combustion pressure        ENGINE/CYLINDER HEAD - INSPECTION) (Refer
+leak is evident.                                        to 9 - ENGINE/CYLINDER HEAD - CLEANING)
+
+CHEMICAL TEST METHOD                                    CLEANING
+  Combustion leaks into the cooling system can also       To ensure engine gasket sealing, proper surface
+be checked by using Bloc-Chek Kit C-3685-A or           preparation must be performed, especially with the
+equivalent. Perform test following the procedures       use of aluminum engine components and multi-layer
+supplied with the tool kit.                             steel cylinder head gaskets.
+
+REMOVAL - CYLINDER HEAD                                 NOTE: Multi-Layer Steel (MLS) head gaskets require
+  (1) Perform fuel system pressure release procedure    a scratch free sealing surface.
+before attempting any repairs. (Refer to 14 -
+FUEL SYSTEM/FUEL DELIVERY - SPECIFICA-                    Remove all gasket material from cylinder head and
+TIONS)                                                  block (Refer to 9 - ENGINE - STANDARD PROCE-
+  (2) Disconnect battery negative cable.                DURE). Be careful not to gouge or scratch the alumi-
+  (3) Drain cooling system. (Refer to 7 - COOLING -     num head sealing surface.
+STANDARD PROCEDURE)                                       Clean all engine oil passages.
+  (4) Remove air filter housing and inlet tube.
+  (5) Remove intake manifold.                           INSPECTION
+  (6) Remove heater tube support bracket from cyl-        (1) Cylinder head must be flat within 0.1 mm
+inder head.                                             (0.004 in.) (Fig. 8).
+  (7) Disconnect radiator upper and heater supply         (2) Inspect camshaft bearing journals for scoring.
+hoses from water outlet connections.
+  (8) Remove accessory drive belts. (Refer to 7 -
+COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+REMOVAL)
+  (9) Raise vehicle and remove exhaust pipe from
+manifold.
+  (10) Remove power steering pump and set aside.
+Do not disconnect lines.
+  (11) Remove accessory drive bracket
+  (12) Remove ignition coil and wires from engine.
+  (13) Disconnect cam sensor and fuel injector wir-
+ing connectors.
+  (14) Remove timing belt and camshaft sprockets.
+(Refer to 9 - ENGINE/VALVE TIMING/TIMING
+BELT/CHAIN AND SPROCKETS - REMOVAL)
+  (15) Remove timing belt idler pulley and rear tim-
+ing belt cover. (Refer to 9 - ENGINE/VALVE TIM-               Fig. 8 Checking Cylinder Head Flatness
+ING/TIMING BELT / CHAIN COVER(S) -                      1 - FEELER GAUGE
+REMOVAL)                                                2 - STRAIGHT EDGE
+  (16) Remove cylinder head cover. (Refer to 9 -
+ENGINE/CYLINDER          HEAD/CYLINDER        HEAD        (3) Remove carbon and varnish deposits from
+COVER(S) - REMOVAL)                                     inside of valve guides with a reliable guide cleaner.
+

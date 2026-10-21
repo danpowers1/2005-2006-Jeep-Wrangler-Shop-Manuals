@@ -1,0 +1,51 @@
+TJ                                                                    LAMPS/LIGHTING - EXTERIOR               8L - 13
+FOG LAMP UNIT (Continued)
+
+       CONDITION                    POSSIBLE CAUSES                                  CORRECTION
+
+FOG LAMPS ARE DIM           1. Charging system output too low.        1. Test and repair charging system. (Refer
+WITH ENGINE RUNNING                                                   to 8 - ELECTRICAL/CHARGING -
+ABOVE IDLE                                                            DIAGNOSIS AND TESTING)
+                            2. Poor lighting circuit ground.          2. Test for voltage drop across ground
+                                                                      locations.
+                            3. High resistance in fog lamp circuit.   3. Test amperage draw of fog lamp circuit.
+
+FOG LAMPS FLASH             1. Poor lighting circuit ground.          1. Test for voltage drop across ground
+RANDOMLY                                                              locations.
+                            2. High resistance in fog lamp circuit.   2. Test amperage draw of fog lamp circuit.
+                            3. Faulty relay                           3. Replace relay
+                            4. Faulty fog lamp switch.                4. Replace multifunction switch.
+                            5. Loose or corroded terminals or         5. Inspect and repair all connectors and
+                            splices in circuit.                       splices.
+
+FOG LAMPS DO NOT            1. Blown fuse for fog lamp.               1. Replace fuse.
+ILLUMINATE                  2. No ground at fog lamps.                2. Repair circuit ground.
+                            3. High beam headlamps illuminated        3. Switch headlamp beam selector to low
+                                                                      beam.
+                            4. Faulty relay                           4. Replace relay
+                            5. Faulty fog lamp switch.                5. Replace left multifunction switch.
+                            6. Shorted clockspring.                   6. Replace clockspring.
+                            7. Broken connector terminal or wire      7. Repair connector terminal or wire splice.
+                            splice in fog lamp circuit.
+                            8. Faulty or burned out bulb.             8. Replace bulb.
+
+
+REMOVAL                                                     ADJUSTMENTS
+  (1) Disconnect and isolate the battery negative             Prepare an alignment screen. A properly aligned
+cable.                                                      fog lamp will project a pattern on the alignment
+  (2) Disconnect the fog lamp wire harness connec-          screen 100 mm (4 in.) below the fog lamp centerline
+tor.                                                        and straight ahead (Fig. 9).
+  (3) Remove the nut attaching the fog lamp to the            (1) For adjustment, loosen the pivot nut and turn
+front bumper.                                               the foglamp adjusting screw (rear center of lamp)
+  (4) Remove the fog lamp.                                  clockwise for up, counterclockwise for down, then
+                                                            retighten the pivot nut (Fig. 10).
+INSTALLATION
+  (1) Position the fog lamp on the bumper.
+  (2) Install the nut attaching the fog lamp to the
+front bumper.
+  (3) Connect the fog lamp wire harness connector.
+  (4) Connect the battery negative cable.
+  (5) Readjust fog lamps (Refer to 8 - ELECTRICAL/
+LAMPS/LIGHTING - EXTERIOR/FOG LAMP UNIT
+- ADJUSTMENTS).
+

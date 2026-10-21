@@ -1,0 +1,60 @@
+8P - 4    SPEED CONTROL                                                                                     TJ
+CABLE (Continued)
+  (4) Slide throttle (accelerator) cable plastic mount     The vacuum and vent solenoids must be grounded
+into throttle body bracket. Continue sliding until       at the PCM to operate. When the PCM grounds the
+cable release tab is aligned to hole in throttle body    vacuum servo solenoid, the solenoid allows vacuum
+mounting bracket.                                        to enter the servo and pull open the throttle plate
+  (5) While holding throttle to wide open position,      using the cable. When the PCM breaks the ground,
+place throttle cable pin into throttle body bellcrank.   the solenoid closes and no more vacuum is allowed to
+  (6) Connect negative battery cable at battery.         enter the servo. The PCM also operates the vent sole-
+  (7) Before starting engine, operate accelerator        noid via ground. The vent solenoid opens and closes a
+pedal to check for any binding.                          passage to bleed or hold vacuum in the servo as
+                                                         required.
+4.0L                                                       The PCM duty cycles the vacuum and vent sole-
+  (1) Attach end of cable to speed control servo.        noids to maintain the set speed, or to accelerate and
+Refer to Servo Removal/Installation.                     decelerate the vehicle. To increase throttle opening,
+  (2) Install cable into cable bracket (snaps in).       the PCM grounds the vacuum and vent solenoids. To
+  (3) Install cable connector at throttle body           decrease throttle opening, the PCM removes the
+bellcrank pin (snaps on).                                grounds from the vacuum and vent solenoids. When
+  (4) Clip cable to cable guide at valve cover.          the brake is released, if vehicle speed exceeds 30
+  (5) Connect negative battery cable to battery.         mph to resume, 35 mph to set, and the RES/ACCEL
+  (6) Before starting engine, operate accelerator        switch has been depressed, ground for the vent and
+pedal to check for any binding.                          vacuum circuits is restored.
+
+                                                         REMOVAL
+SERVO                                                      (1) Disconnect negative battery cable at battery.
+                                                           (2) Disconnect vacuum line at servo (Fig. 3).
+DESCRIPTION                                                (3) Disconnect electrical connector at servo.
+  The servo unit consists of a solenoid valve body,        (4) Disconnect servo cable at throttle body. Refer to
+and a vacuum chamber. The solenoid valve body con-       Cable Removal/Installation.
+tains three solenoids:                                     (5) Remove three bracket mounting bolts (Fig. 3).
+  • Vacuum
+  • Vent
+  • Dump
+  The vacuum chamber contains a diaphragm with a
+cable attached to control the throttle linkage.
+
+OPERATION
+  The Powertrain Control Module (PCM) controls the
+solenoid valve body. The solenoid valve body controls
+the application and release of vacuum to the dia-
+phragm of the vacuum servo. The servo unit cannot
+be repaired and is serviced only as a complete assem-
+bly.
+  Power is supplied to the servo’s by the PCM
+through the brake switch. The PCM controls the
+ground path for the vacuum and vent solenoids.
+  The dump solenoid is energized anytime it receives
+power. If power to the dump solenoid is interrupted,
+the solenoid dumps vacuum in the servo. This pro-
+vides a safety backup to the vent and vacuum sole-
+noids.
+
+
+                                                             Fig. 3 SPEED CONTROL SERVO LOCATION
+                                                         1 - BRAKE POWER BOOSTER
+                                                         2 - VACUUM LINE
+                                                         3 - SERVO
+                                                         4 - BRACKET BOLTS (3)
+                                                         5 - SERVO MOUNTING BRACKET
+

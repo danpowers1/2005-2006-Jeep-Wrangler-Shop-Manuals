@@ -1,0 +1,37 @@
+TJ                                                                                                                  ENGINE 4.0L           9 - 69
+
+HYDRAULIC LIFTERS                                                             OIL
+  DESCRIPTION          . . . . . . . . . . . . . . . . . . . . . . . . 110      STANDARD PROCEDURE - ENGINE OIL
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110             SERVICE . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+  CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . 110          OIL FILTER
+  INSPECTION . . . . . . . . . . . . . . . . . . . . . . . . . . 110            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 111              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 124
+PISTON & CONNECTING ROD                                                       OIL PAN
+  DESCRIPTION           . . . . . . . . . . . . . . . . . . . . . . . . 111     DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 124
+  STANDARD PROCEDURE - PISTON FITTING . 111                                     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 124
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 125
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 113            ENGINE OIL PRESSURE SENSOR
+PISTON RINGS                                                                    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 126
+  STANDARD PROCEDURE - PISTON RING                                              OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+    FITTING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 114       OIL PUMP
+VIBRATION DAMPER                                                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 126
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 117            VALVE TIMING
+STRUCTURAL SUPPORT                                                              STANDARD PROCEDURE - VALVE TIMING . . 127
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117         TIMING BELT / CHAIN COVER(S)
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 117              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+FRONT MOUNT                                                                     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 127
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118         TIMING BELT/CHAIN AND SPROCKETS
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 119              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+REAR MOUNT                                                                      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 129
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119         INTAKE MANIFOLD
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 119              DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 129
+LUBRICATION                                                                     DIAGNOSIS AND TESTING - INTAKE
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 120                 MANIFOLD LEAKAGE . . . . . . . . . . . . . . . . . 129
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 120             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+  DIAGNOSIS AND TESTING                                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 130
+    DIAGNOSIS AND TESTING - ENGINE OIL                                        EXHAUST MANIFOLD
+      PRESSURE . . . . . . . . . . . . . . . . . . . . . . . . . 122            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 131
+    DIAGNOSIS AND TESTING - ENGINE OIL                                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+      LEAK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+

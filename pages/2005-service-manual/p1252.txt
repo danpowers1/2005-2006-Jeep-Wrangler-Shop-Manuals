@@ -1,0 +1,63 @@
+21 - 108     AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+BRAKE TRANSMISSION SHIFT INTERLOCK MECHANISM (Continued)
+
+OPERATION
+   The system locks the shifter into the PARK posi-
+tion. The Interlock system is engaged whenever the
+ignition switch is in the LOCK or ACCESSORY posi-
+tion. An additional electrically activated feature will
+prevent shifting out of the PARK position unless the
+brake pedal is depressed at least one-half an inch. A
+magnetic holding device in line with the park/brake
+interlock cable is energized when the ignition is in
+the RUN position. When the key is in the RUN posi-
+tion and the brake pedal is depressed, the shifter is
+unlocked and will move into any position. The inter-
+lock system also prevents the ignition switch from
+being turned to the LOCK or ACCESSORY position
+(Fig. 148) unless the shifter is fully locked into the
+PARK position.
+                                                                   Fig. 149 Brake/Park Interlock Cable
+                                                          1 - IGNITION LOCK
+                                                          2 - LOCK TAB
+                                                          3 - CABLE END
+
+
+                                                          INSTALLATION
+                                                             (1) Route replacement cable behind instrument
+                                                          panel and under floor console area to shift mecha-
+                                                          nism.
+                                                             (2) Insert cable end into opening in steering col-
+                                                          umn hub under ignition lock. Push cable inward
+                                                          until lock tab engages.
+      Fig. 148 Ignition Key Cylinder Actuation               (3) Insert the cable end into the shifter bellcrank.
+1 - SLIDER LOCKED                                            (4) Place gear selector in PARK.
+2 - CAM RETURN SPRING                                        (5) Push the spring-loaded cable adjuster forward
+3 - INTERLOCK CABLE
+4 - CAM                                                   and snap cable into bracket.
+5 - SLIDER                                                   (6) Adjust the brake transmission shifter interlock
+                                                          cable.
+REMOVAL                                                      (7) Verify that the cable adjuster lock clamp is
+  (1) Remove lower steering column cover. (Refer to       pushed downward to the locked position.
+23 - BODY/INSTRUMENT PANEL/STEERING COL-                     (8) Test the park-lock cable operation.
+UMN OPENING COVER - REMOVAL)                                 (9) Install the floor console and related trim.
+  (2) Remove lower steering column shroud.                   (10) Install tie strap to hold cable to base of steer-
+  (3) Remove tie strap near the solenoid retaining        ing column.
+the brake transmission interlock cable to the steering       (11) Install lower steering column shroud and igni-
+column.                                                   tion lock.
+  (4) Disengage wire connector from solenoid.                (12) Install lower steering column cover.
+  (5) With the ignition removed or in the unlocked
+position, disengage lock tab holding cable end to
+steering column (Fig. 149).
+                                                          ADJUSTMENTS
+  (6) Pull cable end from steering column.
+  (7) Remove the floor console and related trim.          ADJUSTMENT - BRAKE TRANSMISSION SHIFT
+(Refer to 23 - BODY/INTERIOR/FLOOR CONSOLE -              INTERLOCK CABLE
+REMOVAL)                                                    (1) Shift transmission into PARK.
+  (8) Disconnect the cable from the bellcrank (Fig.         (2) Remove shift lever bezel and console screws.
+150).                                                     Raise bezel and console for access to cable.
+  (9) Disconnect and remove the cable from the shift        (3) Pull cable lock button up to release cable.
+bracket.                                                    (4) Turn ignition switch to LOCK position.
+                                                            (5) Use a spacer to create a one millimeter gap
+                                                          between the shifter pawl and top of the shift gate.
+

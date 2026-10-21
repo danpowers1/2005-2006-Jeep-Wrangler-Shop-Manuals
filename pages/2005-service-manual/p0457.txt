@@ -1,0 +1,61 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 31
+HIGH BEAM INDICATOR (Continued)
+cator bulb and the cluster control circuitry by per-       LOW FUEL INDICATOR
+forming the instrument cluster actuator test. (Refer
+to 8 - ELECTRICAL/INSTRUMENT CLUSTER -
+                                                           DESCRIPTION
+DIAGNOSIS AND TESTING). If the high beam indi-
+cator fails to illuminate during the actuator test,
+replace the indicator bulb and bulb holder with a
+known good unit and repeat the test. If the indicator                   Fig. 17 Low Fuel Indicator
+still fails to illuminate, replace the faulty instrument
+cluster. If the problem being diagnosed is related to         A low fuel indicator is standard equipment on all
+inoperative headlamp high beams, be certain to             instrument clusters (Fig. 17). The low fuel indicator
+repair the headlamp system circuits and switches           is located near the lower edge of the instrument clus-
+before attempting to diagnose or repair the high           ter, to the left of center. The low fuel indicator con-
+beam indicator. If no headlamp system problems are         sists of a stencil-like cutout of the International
+found and the high beam indicator illuminates dur-         Control and Display Symbol icon for “Fuel” in the
+ing the instrument cluster actuator test, the follow-      opaque layer of the instrument cluster overlay. The
+ing procedure will help locate an open in the high         dark outer layer of the overlay prevents the indicator
+beam indicator driver circuit. Refer to the appropri-      from being clearly visible when it is not illuminated.
+ate wiring information. The wiring information             An amber Light Emitting Diode (LED) behind the
+includes wiring diagrams, proper wire and connector        cutout in the opaque layer of the overlay causes the
+repair procedures, details of wire harness routing         icon to appear in amber through the translucent
+and retention, connector pin-out information and           outer layer of the overlay when the indicator is illu-
+location views for the various wire harness connec-        minated from behind by the LED, which is soldered
+tors, splices and grounds.                                 onto the instrument cluster electronic circuit board.
+                                                           The low fuel indicator is serviced as a unit with the
+WARNING: TO AVOID PERSONAL INJURY OR                       instrument cluster.
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                    OPERATION
+TEM BEFORE ATTEMPTING ANY STEERING                           The low fuel indicator gives an indication to the
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                 vehicle operator when the level of fuel in the fuel
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                     tank becomes low. This indicator is controlled by a
+VICE. DISCONNECT AND ISOLATE THE BATTERY                   transistor on the instrument cluster circuit board
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                     based upon cluster programming and electronic mes-
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                   sages received by the cluster from the Powertrain
+CHARGE BEFORE PERFORMING FURTHER DIAG-                     Control Module (PCM) over the Programmable Com-
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                munications Interface (PCI) data bus. The low fuel
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                      indicator Light Emitting Diode (LED) is completely
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                    controlled by the instrument cluster logic circuit, and
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                   that logic will only allow this indicator to operate
+BAG DEPLOYMENT.                                            when the instrument cluster receives a battery cur-
+                                                           rent input on the fused ignition switch output (run-
+   (1) Disconnect and isolate the battery negative         start) circuit. Therefore, the LED will always be off
+cable. Remove the instrument cluster from the              when the ignition switch is in any position except On
+instrument panel. Disconnect the instrument panel          or Start. The LED only illuminates when it is pro-
+wire harness connector (Connector C1) for the instru-      vided a path to ground by the instrument cluster
+ment cluster from the connector receptacle on the          transistor. The instrument cluster will turn on the
+back of the cluster housing.                               low fuel indicator for the following reasons:
+   (2) Reconnect the battery negative cable. Turn the        • Bulb Test - Each time the ignition switch is
+headlamps On and select the headlamp high beams            turned to the On position the indicator is illuminated
+with the left multi-function switch control stalk.         for about two seconds as a bulb test.
+Check for battery voltage at the high beam indicator         • Less Than 12.5 Percent Tank Full Message -
+driver circuit cavity of the instrument panel wire         Each time the cluster receives a message from the
+harness connector (Connector C1) for the instrument        PCM indicating that the percent tank full is less
+cluster. If OK, replace the faulty instrument cluster.     than 12.5 (one-eighth), the low fuel indicator is illu-
+If not OK, repair the open high beam indicator driver      minated and a single chime tone is sounded. The low
+circuit between the instrument cluster and the left        fuel indicator remains illuminated until the cluster
+multi-function switch as required.                         receives messages from the PCM for a continuous
+                                                           twenty seconds indicating that the percent tank full
+

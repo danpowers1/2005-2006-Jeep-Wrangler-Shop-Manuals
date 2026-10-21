@@ -1,0 +1,41 @@
+TJ                                                          AUTOMATIC TRANSMISSION - 42RLE             21 - 111
+FLUID AND FILTER (Continued)
+other foreign material on the cap and tube could fall      the oil level indicator. The fluid level should be in
+into the tube if not removed beforehand. Take the          COLD region at 70° F fluid temperature. Adjust fluid
+time to wipe the cap and tube clean before withdraw-       level as necessary. Use only Mopart ATF+4, Auto-
+ing the dipstick.                                          matic Transmission Fluid.
+   Engine coolant in the transmission fluid is gener-
+ally caused by a cooler malfunction. The only remedy       FLUID LEVEL CHECK USING DRB
+is to replace the radiator as the cooler in the radiator
+is not a serviceable part. If coolant has circulated       NOTE: Engine and Transmission should be at nor-
+through the transmission, an overhaul is necessary.        mal operating temperature before performing this
+   The torque converter should be replaced whenever        procedure.
+a failure generates sludge and debris. This is neces-
+sary because normal converter flushing procedures            (1) Start engine and apply parking brake.
+will not remove all contaminants.                            (2) Connect DRBIIIt scan tool and select transmis-
+                                                           sion.
+                                                             (3) Select sensors.
+STANDARD PROCEDURE                                           (4) Read the transmission temperature value.
+                                                             (5) Compare the fluid temperature value with the
+STANDARD PROCEDURE - FLUID LEVEL                           chart.
+CHECK                                                        (6) Adjust transmission fluid level shown on the
+                                                           dipstick according to the 42RLE Fluid Temperature
+FLUID LEVEL CHECK                                          Chart (Fig. 152). Use only Mopart ATF+4, Automatic
+  The transmission sump has a dipstick to check oil        Transmission Fluid.
+similar to most automatic transmissions. It is located       (7) Check transmission for leaks.
+on the left side of the engine. Be sure to wipe all dirt
+from dipstick handle before removing.                      STANDARD PROCEDURE - FLUID/FILTER
+  The torque converter fills in both the PARK and          SERVICE
+NEUTRAL positions. Place the selector lever in
+PARK to be sure that the fluid level check is accu-        NOTE: Only fluids of the type labeled MoparT
+rate. The engine should be running at idle                 ATF+4, Automatic Transmission Fluid, should be
+speed for at least one minute, with the vehicle            used in the transmission sump. A filter change
+on level ground. At normal operating temperature           should be made at the time of the transmission oil
+(approximately 82 C. or 180 F.), the fluid level is cor-   change. The magnet (on the inside of the oil pan)
+rect if it is in the HOT region (cross-hatched area) on    should also be cleaned with a clean, dry cloth.
+
+
+
+
+                                    Fig. 152 42RLE Fluid Temperature Chart
+

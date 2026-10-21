@@ -1,0 +1,61 @@
+8W - 97 - 6                                 8W-97 POWER DISTRIBUTION                                         TJ
+IOD FUSE (Continued)
+vehicle is being prepared for delivery in order to       normally closed contact point by spring pressure.
+restore full electrical system operation.                When the relay coil is energized, an electromagnetic
+  (1) Turn the ignition switch to the Off position.      field is produced by the coil windings. This electro-
+  (2) Unlatch and open the cover from the PDC.           magnetic field draws the movable relay contact point
+  (3) Remove the stored IOD fuse from fuse cavity        away from the fixed normally closed contact point,
+#11 of the PDC.                                          and holds it against the fixed normally open contact
+  (4) Align the terminal blades of the IOD fuse with     point. When the relay coil is de-energized, spring
+the terminal receptacles in fuse cavity #15 of the       pressure returns the movable contact point back
+PDC.                                                     against the fixed normally closed contact point. A
+  (5) Use a thumb to press the IOD fuse firmly down      resistor is connected in parallel with the relay coil in
+into PDC fuse cavity #15.                                the relay, and helps to dissipate voltage spikes and
+  (6) Close and latch the cover onto the PDC.            electromagnetic interference that can be generated as
+                                                         the electromagnetic field of the relay coil collapses.
+
+MICRO-RELAY                                              DIAGNOSIS AND TESTING - MICRO-RELAY
+                                                           (1) Remove the relay from its mounting location.
+DESCRIPTION                                                (2) A relay in the de-energized position should
+                                                         have continuity between terminals 87A and 30, and
+                                                         no continuity between terminals 87 and 30 (Fig. 6). If
+                                                         OK, go to Step 3. If not OK, replace the faulty relay.
+                                                           (3) Resistance between terminals 85 and 86 (elec-
+                                                         tromagnet) should be 67.5 - 82.5 ohms. If OK, go to
+                                                         Step 4. If not OK, replace the faulty relay.
+                                                           (4) Connect a battery to terminals 85 and 86.
+                                                         There should now be continuity between terminals
+                                                         30 and 87, and no continuity between terminals 87A
+                                                         and 30. If OK, reinstall the relay and use a DRBIIIt
+                                                         scan tool to perform further testing. Refer to the
+                                                         appropriate diagnostic information.
+                                                           Refer to the appropriate wiring information. The
+                                                         wiring information includes wiring diagrams, proper
+                                                         wire and connector repair procedures, details of wire
+                                                         harness routing and retention, connector pin-out
+               Fig. 6 ISO Micro Relay                    information and location views for the various wire
+                                                         harness connectors, splices and grounds.
+30 - COMMON FEED
+85 - COIL GROUND
+86 - COIL BATTERY                                        REMOVAL
+87 - NORMALLY OPEN                                         (1) Disconnect and isolate the negative battery
+87A - NORMALLY CLOSED
+                                                         cable.
+  A micro-relay is a conventional International Stan-      (2) Remove the relay by grasping it firmly and
+dards Organization (ISO) micro relay (Fig. 6). Relays    pulling it straight out from its receptacle. A slight
+conforming to the ISO specifications have common         back and fourth rocking motion may help the
+physical dimensions, current capacities, terminal pat-   removal process.
+terns, and terminal functions. The relay is contained
+within a small, rectangular, molded plastic housing      INSTALLATION
+and is connected to all of the required inputs and         (1) Align the micro-relay terminals with the termi-
+outputs by five integral male spade-type terminals       nal cavities in the receptacle.
+that extend from the bottom of the relay base.             (2) Push firmly and evenly on the top of the relay
+  Relays cannot be adjusted or repaired and, if faulty   until the terminals are fully seated in the terminal
+or damaged, the unit must be replaced.                   cavities in the receptacle.
+                                                           (3) Connect the battery negative cable.
+OPERATION
+  A micro-relay is an electromechanical switch that
+uses a low current input from one source to control a
+high current output to another device. The movable
+common feed contact point is held against the fixed
+

@@ -1,0 +1,64 @@
+TJ                                                                                            COLUMN        19 - 9
+COLUMN (Continued)
+
+SPECIFICATIONS
+TORQUE CHART
+                                         TORQUE SPECIFICATIONS
+
+       DESCRIPTION                       N·m                       Ft. Lbs.                     In. Lbs.
+     Tilt Steering Column                 54                          40                           —
+     Steering Wheel Nut
+     Tilt Steering Column                 17                          —                           150
+         Mounting Nuts
+     Tilt Steering Column                 49                          36                           —
+          Coupler Bolt
+ Non-Tilt Steering Column                 54                          40                           —
+   Steering Wheel Nut
+ Non-Tilt Steering Column                 17                          —                           150
+     Mounting Nuts
+ Non-Tilt Steering Column                 49                          36                           —
+       Coupler Bolt
+
+
+IGNITION SWITCH                                            umn assembly must be replaced. (Refer to 19 -
+                                                           STEERING/COLUMN - REMOVAL).
+                                                             Vehicles equipped with a manual transmis-
+DESCRIPTION
+                                                           sion and a floor mounted shifter: on certain mod-
+  The electrical ignition switch is located on the
+                                                           els, a button is located on the steering column behind
+steering column. It is used as the main on/off switch-
+                                                           the ignition key cylinder. The button must be manu-
+ing device for most electrical components. The
+                                                           ally depressed to allow rotation of the ignition key
+mechanical key cylinder is used to engage/disengage
+                                                           cylinder from the off to lock positions. If it is diffi-
+the electrical ignition switch.
+                                                           cult to rotate the key to any position, the lever mech-
+                                                           anism may be defective. This mechanism is not
+DIAGNOSIS AND TESTING - IGNITION SWITCH                    serviceable. If repair is necessary, the steering col-
+                                                           umn assembly must be replaced.(Refer to 19 -
+ELECTRICAL DIAGNOSIS                                       STEERING/COLUMN - REMOVAL).
+  For ignition switch electrical schematics, Refer to
+the appropriate section for the component.
+                                                           REMOVAL
+                                                              The ignition key must be in the key cylinder for
+MECHANICAL DIAGNOSIS (KEY DIFFICULT TO
+                                                           cylinder removal. The key cylinder must be removed
+ROTATE)                                                    first before removing ignition switch.
+  Vehicles equipped with an automatic trans-                  (1) Remove key cylinder. (Refer to 19 - STEER-
+mission and a floor mounted shifter: a cable is            ING/COLUMN/LOCK CYLINDER HOUSING -
+used to connect the interlock device in the steering       REMOVAL).
+column assembly, to the transmission floor shift              (2) Remove lower steering column cover screws
+lever. This interlock system is used to lock the trans-    and remove cover.
+mission shifter in the PARK position when the key             (3) Remove the multi-function switch.
+cylinder is rotated to any position. If the ignition key      (4) Disconnect the electrical connector at the rear
+is difficult to rotate to or from any position, it may     of the ignition switch.
+not be the fault of the key cylinder or the steering          (5) Remove the ignition switch mounting screw
+column components. The brake transmission shift            (Fig. 8). Use tamper proof torx bit to remove the
+interlock cable may be out of adjustment. (Refer to        screw.
+21 - TRANSMISSION/TRANSAXLE/AUTOMATIC -                       (6) Pull the ignition switch straight out to remove
+30RH/GEAR SHIFT CABLE - ADJUSTMENTS). The                  from the locking tabs (Fig. 9)
+interlock system within the steering column is not
+serviceable. If repair is necessary, the steering col-
+

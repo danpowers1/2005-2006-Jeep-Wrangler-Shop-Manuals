@@ -1,0 +1,48 @@
+TJ                          8W-91 CONNECTOR/GROUND/SPLICE LOCATION                             8W - 91 - 3
+CONNECTOR/GROUND/SPLICE LOCATION (Continued)
+
+Connector Name/Number           Color      Location                                  Fig.
+Engine Coolant Temperature      BK         On Thermostat Housing                     5, 18
+Sensor
+Engine Oil Pressure Switch      BK         Right Side of Engine Block                7
+(4.0L)
+Engine Oil Pressure Switch      BK         Below A/C Compressor                      N/S
+(2.4L)
+Engine Starter Motor                       Left Rear of Engine                       3, 8
+Engine Starter Solenoid                    At Starter Motor                          4, 7
+Evap/Purge Solenoid             BK         Left Fender Side Shield                   13, 14
+Front Locker Indicator Switch   BK         Top of Front Differential                 33
+(Off Road)
+Front Locker Pump (Off          LT/GY      Top of Locker Pump Bracket                32
+Road)
+Front Washer Pump               BK         Under Washer Fluid Reservoir              1
+Front Wiper Motor               BK         At Motor                                  15
+Fuel Injector NO.1 (4.0L)       BK         At Injector                               5
+Fuel Injector NO.2 (4.0L)       BK         At Injector                               5
+Fuel Injector NO.3 (4.0L)       BK         At Injector                               5
+Fuel Injector NO.4 (4.0L)       BK         At Injector                               5
+Fuel Injector NO.5 (4.0L)       BK         At Injector                               5
+Fuel Injector NO.6 (4.0L)       BK         At Injector                               5
+Fuel Pump Module                BK         Above Fuel Tank                           40
+G Switch                        BK         Near T/O for Controller Anti-Lock Brake   20
+Generator                       BK         Rear of Generator                         3, 7, 8
+Headlamp Leveling Switch        WT         At Switch                                 24, 27
+(Export)
+Horn                            BK         Left Front Fender Side Shield             1
+Horn Switch                                Rear of Steering Wheel Pad                31
+Idle Air Control Motor          BK         Side of Throttle Body                     4, 5
+Ignition Coil Pack (2.4L)       GY         Right Side of Engine                      4, 17
+Ignition Coil Pack (4.0L)       BK         Right Rear of Engine                      7
+Ignition Switch                            On Steering Column                        30
+Input Speed Sensor              BK         Left Center of Trans                      16, 36
+Instrument Cluster - C1                    Rear of Cluster                           24, 27
+Instrument Cluster - C2                    Rear of Cluster                           24, 27
+Intake Air Temperature          GY         Rear of Intake Manifold                   5
+Sensor
+Left Courtesy Lamp              BK         Left Side of Instrument Panel             24, 27
+Left Dome Lamp                  WT         In Left Speaker Pod                       N/S
+Left Fog Lamp (Except           BK         At Lamp, See Right                        2
+Export)
+Left Front Park/Turn Signal     BK         At Lamp, See Right                        2
+Lamp (Except Export)
+

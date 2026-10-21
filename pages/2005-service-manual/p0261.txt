@@ -1,0 +1,53 @@
+TJ                                                                                    BRAKES - ABS      5 - 43
+REAR WHEEL SPEED SENSOR (Continued)
+sensors have a resistance between 900 and 1300
+ohms.
+
+REMOVAL
+   (1) Disconnect sensors at rear harness connectors.
+   (2) Remove wheel and tire assembly.
+   (3) Remove brake drum.
+   (4) Remove clips securing sensor wires to brake
+lines, rear axle and, brake hose.
+   (5) Unseat sensor wire support plate grommet.
+   (6) Remove bolt attaching sensor to bracket (Fig.
+5) and remove sensor.                                        Fig. 6 Setting Air Gap On Original Rear Sensor
+                                                           1 - WHEEL SPEED SENSOR
+                                                           2 - BRASS FEELER GAUGE
+                                                           3 - TONE RING
+
+
+
+
+             Fig. 5 Wheel Speed Sensor
+1 - TONE WHEEL
+2 - WHEEL SPEED SENSOR
+
+                                                                         Fig. 7 New Rear Sensor
+INSTALLATION
+                                                           1 - REAR SENSOR
+   (1) If original sensor is being installed, remove       2 - AIR GAP SPACER ATTACHED TO SENSOR FACE
+any remaining pieces of cardboard spacer from sen-
+sor pickup face. Use dry shop towel only to remove           (9) Install brake drum and wheel and tire assem-
+old spacer material.                                       bly. (Refer to 22 - TIRES/WHEELS/WHEELS -
+   (2) Insert sensor wire through support plate hole.      STANDARD PROCEDURE).
+Then seat sensor grommet in support plate.                   (10) Lower vehicle.
+   (3) Apply Mopar Lock N’ Seal or Loctite t 242 to          (11) Connect sensor wire to harness connector.
+original sensor bolt. Use new bolt if original is worn
+or damaged.
+   (4) Install sensor bolt finger tight only at this       HCU (HYDRAULIC CONTROL
+time.
+   (5) If original rear sensor was installed, adjust
+                                                           UNIT)
+sensor air gap to 0.28-1.5 mm (0.011-0.059 in.). Use
+feeler gauge to measure air gap (Fig. 6). Tighten sen-     DESCRIPTION
+sor bolt to 12-14 N·m (106-124 in. lbs.).                    The HCU consists of a valve body, pump motor,
+   (6) If new sensor was installed, push cardboard         and wire harness.
+spacer on sensor face against tone ring (Fig. 7). Then
+tighten sensor bolt to 12-14 N·m (106-124 in. lbs.).       OPERATION
+Correct air gap will be established as tone ring             Accumulators in the valve body store extra fluid
+rotates and peels spacer off sensor face.                  released to the system for ABS mode operation. The
+   (7) Secure the rear sensor wires to the retainer        pump provides the fluid volume needed and is oper-
+clips. Verify that wire is clear of rotating components.   ated by a DC type motor. The motor is controlled by
+   (8) Connect sensor wire to harness connector.           the CAB.
+

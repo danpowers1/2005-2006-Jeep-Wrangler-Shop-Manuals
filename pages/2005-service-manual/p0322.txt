@@ -1,0 +1,68 @@
+8A - 4    AUDIO/VIDEO                                                                                     TJ
+AMPLIFIED SUBWOOFER (Continued)
+  (3) Install the mounting screws to the side of the     from the coaxial connector behind the right side of
+console.                                                 the instrument panel between the radio and the
+  (4) Connect wire harness connector and retainer.       right side cowl panel, to the coaxial cable connec-
+  (5) Install the center console (Refer to 23 - BODY/    tor at the radio.
+INTERIOR/CENTER CONSOLE - INSTALLATION).
+  (6) Connect the battery negative cable.
+
+
+ANTENNA BODY & CABLE
+DESCRIPTION
+  All models use a fixed-length stainless steel rod-
+type antenna mast, installed on the right front cowl
+side panel of the vehicle. The antenna mast is con-
+nected to the center wire of the coaxial antenna
+cable, and is not grounded to any part of the vehicle.
+  To eliminate static, the antenna base must have a
+good ground. The antenna coaxial cable shield (the
+outer wire mesh of the cable) is grounded to the
+antenna base and the radio chassis.
+  The antenna coaxial cable has an additional dis-
+connect, located behind the right end of the instru-
+ment panel between the radio and the right cowl side
+panel. This additional disconnect allows the instru-
+ment panel assembly to be removed and installed
+without removing the radio.                                              Fig. 1 Antenna Tests
+
+DIAGNOSIS AND TESTING - ANTENNA BODY                     TEST 1
+                                                           Test 1 determines if the antenna mast is insulated
+AND CABLE                                                from the base. Proceed as follows:
+                                                           (1) Unplug the antenna coaxial cable connector
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                         from the radio chassis and isolate.
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)
+                                                           (2) Connect one ohmmeter test lead to the tip of
+BEFORE ATTEMPTING ANY STEERING WHEEL,
+                                                         the antenna mast. Connect the other test lead to the
+STEERING COLUMN, OR INSTRUMENT PANEL
+                                                         antenna base. Check for continuity.
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+                                                           (3) There should be no continuity. If continuity is
+TO TAKE THE PROPER PRECAUTIONS COULD
+                                                         found, replace the faulty or damaged antenna base
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+                                                         and cable assembly.
+AND POSSIBLE PERSONAL INJURY.
+
+  The following four tests are used to diagnose the
+                                                         TEST 2
+antenna with an ohmmeter:                                   Test 2 checks the antenna for an open circuit as
+  • Test 1 - Mast to ground test                         follows:
+  • Test 2 - Tip-of-mast to tip-of-conductor test           (1) Unplug the antenna coaxial cable connector
+  • Test 3 - Body ground to battery ground test          from the radio chassis.
+  • Test 4 - Body ground to coaxial shield test.            (2) Connect one ohmmeter test lead to the tip of
+  The ohmmeter test lead connections for each test       the antenna mast. Connect the other test lead to the
+are shown in Antenna Tests (Fig. 1).                     center pin of the antenna coaxial cable connector.
+                                                            (3) Continuity should exist (the ohmmeter should
+NOTE: This model has a two-piece antenna coaxial         only register a fraction of an ohm). High or infinite
+cable. Tests 2 and 4 must be conducted in two            resistance indicates damage to the base and cable
+steps to isolate an antenna cable problem. First,        assembly. Replace the faulty base and cable, if
+test the primary antenna cable (integral to the          required.
+antenna body and cable) from the coaxial cable
+connector behind the right side of the instrument        TEST 3
+panel between the radio and the right side cowl            Test 3 checks the condition of the vehicle body
+panel, to the antenna body. Then, test the second-       ground connection. This test should be performed
+ary antenna cable (instrument panel antenna cable)       with the battery positive cable removed from the bat-
+

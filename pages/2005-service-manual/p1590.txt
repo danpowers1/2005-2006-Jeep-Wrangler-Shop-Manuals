@@ -1,0 +1,64 @@
+24 - 22    CONTROLS                                                                                         TJ
+A/C HIGH PRESSURE SWITCH (Continued)
+the refrigerant system pressure exceeds 3100 - 3375      REMOVAL
+kPa (450 - 490 psi).
+  The fitting for the A/C high pressure switch on the    NOTE: It is not necessary to discharge the refriger-
+A/C discharge line is equipped with an O-ring seal       ant system to replace the A/C high pressure switch.
+and contains a Schrader-type valve, which allows the
+switch to be serviced without discharging the refrig-      (1) Disconnect and isolate the negative battery
+erant system.                                            cable.
+                                                           (2) Disconnect the wire harness connector from the
+OPERATION                                                A/C high pressure switch (Fig. 18).
+  The A/C high pressure switch is electrically con-        (3) Remove the A/C high pressure switch from the
+nected in series with the A/C low pressure switch        A/C discharge line and remove and discard the
+between ground and the powertrain control module         O-ring seal.
+(PCM). The contacts in the A/C high pressure switch
+open and close causing the PCM to turn the A/C com-
+pressor clutch on and off. This prevents A/C compres-
+sor operation when the discharge line pressure
+approaches high levels, and also reduces electrical
+surging from A/C clutch engagement.
+  The A/C high pressure switch contacts open when
+the A/C discharge line pressure rises above 3100 to
+3375 kPa (450 to 490 psi). The A/C high pressure
+switch contacts close when the A/C discharge line
+pressure drops to 1860 to 2275 kPa (270 to 330 psi).
+  The A/C high pressure switch is factory-calibrated
+and cannot be adjusted or repaired and, if faulty or
+damaged, it must be replaced.
+
+
+DIAGNOSIS AND TESTING
+                                                              Fig. 18 A/C High Pressure Switch - Typical
+A/C HIGH PRESSURE SWITCH                                 1 - A/C SUCTION LINE
+                                                         2 - SERVICE PORT
+   Before performing diagnosis of the A/C high pres-     3 - A/C HIGH PRESSURE SWITCH
+sure switch, verify that the refrigerant system has      4 - A/C COMPRESSOR
+the correct refrigerant charge (Refer to 24 - HEAT-      5 - MOUNTING BRACKET
+                                                         6 - A/C DISCHARGE LINE
+ING & AIR CONDITIONING/PLUMBING - STAN-
+DARD PROCEDURE - REFRIGERANT SYSTEM
+CHARGE)
+                                                         INSTALLATION
+   For circuit descriptions and diagrams, refer to the
+                                                         NOTE: Use only the specified O-ring as it is made
+appropriate wiring information. The wiring informa-
+                                                         of special material for R-134a. Use only refrigerant
+tion includes wiring diagrams, proper wire and con-
+                                                         oil of the type required for the A/C compressor.
+nector repair procedures, further details on wire
+harness routing and retention, as well as pin-out and      (1) Lubricate a new rubber O-ring seal with clean
+location views for the various wire harness connec-      refrigerant oil and install it on the A/C high pressure
+tors, splices and grounds.                               switch fitting.
+   (1) Disconnect and isolate the negative battery         (2) Install the A/C high pressure switch onto the
+cable.                                                   A/C discharge line. Hand-tightened the switch
+   (2) Disconnect the wire harness connector from the    securely.
+A/C high pressure switch.                                  (3) Connect the wire harness connector to the A/C
+   (3) Check for continuity between both terminals of    high pressure switch.
+the A/C high pressure switch. There should be conti-       (4) Reconnect the negative battery cable.
+nuity. If there is not continuity, replace the faulty
+A/C high pressure switch. If there is continuity, test
+the A/C high pressure switch sense circuit (Refer to 8
+- ELECTRICAL/WIRING DIAGRAM INFORMATION
+- DIAGNOSIS AND TESTING). Repair as required.
+

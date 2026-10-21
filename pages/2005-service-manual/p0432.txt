@@ -1,0 +1,59 @@
+8J - 6    INSTRUMENT CLUSTER                                                                               TJ
+INSTRUMENT CLUSTER (Continued)
+the Off position battery current is not supplied to         The EMIC VFD unit has several display capabili-
+any gauges, and the EMIC circuitry is programmed         ties including odometer, trip odometer, software ver-
+to move all of the gauge needles back to the low end     sion, and can display various diagnostic information
+of their respective scales. Therefore, the gauges do     when certain fault conditions exist. An odometer/trip
+not accurately indicate any vehicle condition unless     odometer switch on the EMIC circuit board is used to
+the ignition switch is in the On or Start positions.     control some of the display modes. This switch is
+   All of the EMIC gauges are air core magnetic          actuated manually by depressing the odometer/trip
+units. Two fixed electromagnetic coils are located       odometer switch button that extends through the
+within each gauge. These coils are wrapped at right      lower edge of the cluster lens, just right of center.
+angles to each other around a movable permanent          Actuating this switch momentarily with the ignition
+magnet. The movable magnet is suspended within           switch in the On position will toggle the VFD
+the coils on one end of a pivot shaft, while the gauge   between the odometer and trip odometer modes.
+needle is attached to the other end of the shaft. One    Depressing the switch button for about two seconds
+of the coils has a fixed current flowing through it to   while the VFD is in the trip odometer mode will
+maintain a constant magnetic field strength. Current     reset the trip odometer value to zero. Holding this
+flow through the second coil changes, which causes       switch depressed while turning the ignition switch
+changes in its magnetic field strength. The current      from the Off position to the On position will initiate
+flowing through the second coil is changed by the        the EMIC self-diagnostic actuator test. Refer to the
+EMIC circuitry in response to messages received over     appropriate diagnostic information for additional
+the PCI data bus. The gauge needle moves as the          details on this VFD function. The EMIC microproces-
+movable permanent magnet aligns itself to the            sor remembers which display mode is active when
+changing magnetic fields created around it by the        the ignition switch is turned to the Off position, and
+electromagnets.                                          returns the VFD display to that mode when the igni-
+   The gauges are diagnosed using the EMIC self-di-      tion switch is turned On again.
+agnostic actuator test. (Refer to 8 - ELECTRICAL/           The VFD is diagnosed using the EMIC self-diag-
+INSTRUMENT CLUSTER - DIAGNOSIS AND                       nostic actuator test. (Refer to 8 - ELECTRICAL/IN-
+TESTING). Proper testing of the PCI data bus and         STRUMENT CLUSTER - DIAGNOSIS AND
+the electronic data bus message inputs to the EMIC       TESTING). Proper testing of the PCI data bus and
+that control each gauge require the use of a DRBIIIt     the electronic data bus message inputs to the EMIC
+scan tool. Refer to the appropriate diagnostic infor-    that control some of the VFD functions requires the
+mation. Specific operation details for each gauge may    use of a DRBIIIt scan tool. Refer to the appropriate
+be found elsewhere in this service information.          diagnostic information. Specific operation details for
+                                                         the odometer and trip odometer functions of the VFD
+VACUUM-FLUORESCENT DISPLAY                               may be found elsewhere in this service information.
+   The Vacuum-Fluorescent Display (VFD) unit is sol-
+dered to the EMIC electronic circuit board. With the     INDICATORS
+ignition switch in the Off or Accessory positions, the     Indicators are located in various positions within
+odometer display is activated when either door is        the EMIC and are all connected to the EMIC elec-
+opened (Rental Car mode) and is deactivated after        tronic circuit board. The antilock brake system indi-
+both doors are closed. If a door is left open with the   cator, headlamp high beam indicator, fog lamp
+ignition switch in any position except On or Start,      indicator, and turn signal indicators operate based
+the VFD will remain illuminated until the interior       upon hard wired inputs to the EMIC. The brake indi-
+lights control battery saver (load shedding) timer       cator is controlled by the EMIC programming and
+expires after about twenty minutes. Otherwise, the       hard wired park brake and brake warning indicator
+display unit is active when the ignition switch is in    switch inputs to the EMIC. In vehicles without the
+the On or Start positions, and inactive when the igni-   optional off-road package the four-wheel drive indica-
+tion switch is in the Off or Accessory positions.        tor is controlled by a hard wired input from the
+   The illumination intensity of the VFD unit is con-    transfer case switch, while in vehicles equipped with
+trolled by the EMIC circuitry based upon an input        the off-road package this indicator is controlled by
+from the headlamp switch circuitry and a dimming         PCI data bus messages from the Powertrain Control
+level input received from the panel lamp dimmer          Module (PCM). The rear and front lock indicators are
+switch circuitry. The EMIC synchronizes the illumi-      controlled by the EMIC programming and hard wired
+nation intensity of other VFD units with that of the     inputs from the axle locker switch and the rear/front
+unit in the EMIC by sending electronic dimming           locker indicator switches. The seatbelt indicator is
+level messages to other electronic modules in the        controlled by the EMIC programming and a hard
+vehicle over the PCI data bus.                           wired seat belt switch input to the EMIC. The Mal-
+

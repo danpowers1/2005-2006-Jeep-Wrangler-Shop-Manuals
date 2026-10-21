@@ -1,0 +1,39 @@
+21 - 46    AUTOMATIC TRANSMISSION - 42RLE                                                                   TJ
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+
+DIAGNOSIS AND TESTING                                      • Fluid level and condition
+                                                           • Shift cable adjustment
+DIAGNOSIS AND TESTING - AUTOMATIC                          • Diagnostic trouble code inspection
+                                                           Then perform a road test to determine if the prob-
+TRANSMISSION                                             lem has been corrected or that more diagnosis is nec-
+                                                         essary. If the problem exists after the preliminary
+CAUTION: Before attempting any repair on the
+                                                         tests and corrections are completed, hydraulic pres-
+42RLE Four Speed Automatic Transmission, always
+                                                         sure checks should be performed.
+check for proper shift cable adjustment. Also check
+for diagnostic trouble codes with the DRBT scan
+tool and the 42RLE Transmission Diagnostic Proce-        DIAGNOSIS AND TESTING - ROAD TEST
+dure Manual.                                                Prior to performing a road test, verify that the
+                                                         fluid level, fluid condition, and linkage adjustment
+  42RLE automatic transmission malfunctions may          have been approved.
+be caused by these general conditions:                      During the road test, the transmission should be
+  • Poor engine performance                              operated in each position to check for slipping and
+  • Improper adjustments                                 any variation in shifting.
+  • Hydraulic malfunctions                                  If the vehicle operates properly at highway speeds,
+  • Mechanical malfunctions                              but has poor acceleration, the converter stator over-
+  • Electronic malfunctions                              running clutch may be slipping. If acceleration is nor-
+  When diagnosing a problem always begin with            mal, but high throttle opening is needed to maintain
+recording the complaint. The complaint should be         highway speeds, the converter stator clutch may
+defined as specific as possible. Include the following   have seized. Both of these stator defects require
+checks:                                                  replacement of the torque converter and thorough
+  • Temperature at occurrence (cold, hot, both)          transmission cleaning.
+  • Dynamic conditions (acceleration, deceleration,         Slipping clutches can be isolated by comparing the
+upshift, cornering)                                      “Elements in Use” chart with clutch operation
+  • Elements in use when condition occurs (what          encountered on a road test. This chart identifies
+gear is transmission in during condition)                which clutches are applied at each position of the
+  • Road and weather conditions                          selector lever.
+  • Any other useful diagnostic information.                A slipping clutch may also set a DTC and can be
+  After noting all conditions, check the easily acces-   determined by operating the transmission in all
+sible variables:                                         selector positions.
+

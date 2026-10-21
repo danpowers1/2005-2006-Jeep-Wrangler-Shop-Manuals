@@ -1,0 +1,23 @@
+TJ                                            8W-40 INSTRUMENT CLUSTER                                                           8W - 40 - 1
+
+                                        8W-40 INSTRUMENT CLUSTER
+Component                                                          Page    Component                                                         Page
+Antilock Brake Relay . . . . . . . . . . . . . . . . . 8W-40-7             Left Courtesy Lamp . . . . . . . . . . . . . . . . . . 8W-40-8
+Axle Lock Switch . . . . . . . . . . . . . . . . . . . . 8W-40-6           Left Fog Lamp . . . . . . . . . . . . . . . . . . . . . . 8W-40-5
+Brake Warning Indicator Switch . . . . . . . . 8W-40-7                     Left Side Marker Lamp . . . . . . . . . . . . . . . 8W-40-8
+Data Link Connector . . . . . . . . . . . . . . . 8W-40-3, 9               Multi-Function Switch . . . . . . . . . 8W-40-4, 5, 8, 10
+Daytime Running Lamp Module . . . . . . . . 8W-40-10                       Park Brake Switch . . . . . . . . . . . . . . . . . . . 8W-40-7
+Driver Door Ajar Switch . . . . . . . . . . . . . . . 8W-40-8              Passenger Door Ajar Switch . . . . . . . . . . . . 8W-40-8
+Engine Coolant Temperature Sensor . . . . . 8W-40-3                        Power Distribution Center . . . . . . . . . . . . . 8W-40-2
+Engine Oil Pressure Switch . . . . . . . . . . . . 8W-40-3                 Powertrain Control Module . . . . . . . . . . . . 8W-40-3
+Front Locker Indicator Switch . . . . . . . . . . 8W-40-6                  Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-9
+Fuel Pump Module . . . . . . . . . . . . . . . . . . . 8W-40-3             Rear Locker Indicator Switch . . . . . . . . . . . 8W-40-6
+Fuse 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-2    Rear Window Defogger Relay . . . . . . . . . . . 8W-40-9
+Fuse 26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-2    Rear Window Defogger Switch . . . . . . . . . . 8W-40-9
+Fuse Block . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-2       Right Courtesy Lamp . . . . . . . . . . . . . . . . . 8W-40-8
+G100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-7   Right Fog Lamp . . . . . . . . . . . . . . . . . . . . . 8W-40-5
+G201 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-2   Right Side Marker Lamp . . . . . . . . . . . . . . 8W-40-8
+G302 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-40-4   Seat Belt Switch . . . . . . . . . . . . . . . . . . . . . 8W-40-4
+Ignition Switch . . . . . . . . . . . . . . . . . . . . . . 8W-40-8        Transfer Case Switch . . . . . . . . . . . . . . . . . 8W-40-5
+Instrument Cluster . . 8W-40-2, 3, 4, 5, 6, 7, 8, 9, 10                    Vehicle Speed Sensor . . . . . . . . . . . . . . . . . 8W-40-3
+

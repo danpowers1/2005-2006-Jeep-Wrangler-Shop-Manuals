@@ -1,0 +1,53 @@
+TJ                                                                                              INTRODUCTION          5
+
+
+FASTENER IDENTIFICATION                                        marks plus 2. The most commonly used metric bolt
+                                                               strength classes are 9.8 and 10.9. The metric
+                                                               strength class identification number is imprinted on
+DESCRIPTION
+                                                               the head of the bolt. The higher the class number,
+   The SAE bolt strength grades range from grade 2
+                                                               the greater the bolt strength. Some metric nuts are
+to grade 8. The higher the grade number, the greater
+                                                               imprinted with a single-digit strength class on the
+the bolt strength. Identification is determined by the
+                                                               nut face. Refer to the Fastener Identification and
+line marks on the top of each bolt head. The actual
+                                                               Fastener Strength Charts (Fig. 6).
+bolt strength grade corresponds to the number of line
+
+                               BOLT MARKINGS AND TORQUES - METRIC
+
+  Bolt Markings                8.8/8.9                              10.9                           12.9
+     Bolt Dia.          N·m              Ft. Lbs.         N·m              Ft. Lbs.        N·m             Ft. Lbs.
+         6               12               105*             14               120*           16                   12
+         8               25               250*             32                23            38                   28
+        10               54                40              60                45            74                   55
+        12               95                70             108                80            135                 100
+        14               155               115            175                130           216                 160
+        16               243               180            324                210           324                 240
+                                                     * Inch Lbs.
+
+                        BOLT MARKINGS AND TORQUES - U. S. CUSTOMARY
+
+     Bolt Markings                         Grade 5                                       Grade 8
+       Bolt Dia.               N·m                    Ft. Lbs                      N·m               Ft. Lbs
+       1/4 - 20                 10                       95*                       14                 125*
+       1/4 - 28                 10                       95*                       17                 150*
+       5/16 - 18                22                      200*                       30                 270*
+       5/16 - 24                26                      240*                       33                 300*
+       3/8 - 16                 40                       30                        55                     40
+       3/8 - 24                 47                       35                        60                     45
+       7/16 - 14                68                       50                        88                     65
+       7/16 - 20                74                       55                        95                     70
+       1/2 - 13                101                       75                        135                    100
+        1/2 -20                115                       85                        150                    110
+       9/16 - 12               135                       105                       182                    135
+       9/16 - 18               155                       115                       202                    150
+       5/8 - 11                202                       150                       263                    195
+       5/8 - 18                215                       160                       284                    210
+       3/4 - 10                230                       170                       297                    220
+       3/4 - 16                236                       175                       304                    225
+       7/8 - 14                405                       300                       540                    400
+                                                     * Inch Lbs.
+

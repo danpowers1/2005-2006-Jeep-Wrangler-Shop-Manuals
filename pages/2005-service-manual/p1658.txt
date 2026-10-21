@@ -1,0 +1,59 @@
+25 - 6    EMISSIONS CONTROL                                                                                   TJ
+EMISSIONS CONTROL (Continued)
+THROTTLE BODY AIRFLOW                                      PCM CONNECTOR ENGAGEMENT
+  The PCM cannot detect a clogged or restricted air          The PCM may not be able to determine spread or
+cleaner inlet or filter element.                           damaged connector pins. However, it might store
+                                                           diagnostic trouble codes as a result of spread connec-
+VACUUM ASSIST                                              tor pins.
+  The PCM cannot detect leaks or restrictions in the
+vacuum circuits of vacuum assisted engine control          DESCRIPTION - HIGH AND LOW LIMITS
+system devices. However, these could cause the PCM            The PCM compares input signal voltages from each
+to store a MAP sensor diagnostic trouble code and          input device with established high and low limits for
+cause a high idle condition.                               the device. If the input voltage is not within limits
+                                                           and other criteria are met, the PCM stores a diagnos-
+PCM SYSTEM GROUND                                          tic trouble code in memory. Other diagnostic trouble
+  The PCM cannot determine a poor system ground.           code criteria might include engine RPM limits or
+However, one or more diagnostic trouble codes may          input voltages from other sensors or switches that
+be generated as a result of this condition. The mod-       must be present before verifying a diagnostic trouble
+ule should be mounted to the body at all times, also       code condition.
+during diagnostic.
+
+DESCRIPTION - LOAD VALUE
+
+      ENGINE                    IDLE/NEUTRAL                                2500 RPM/NEUTRAL
+    All Engines           2% to 8% of Maximum Load                      9% to 17% of Maximum Load
+
+
+OPERATION - TASK MANAGER                                   (pending) or the Task Manager has set a fault that
+  The Task Manager determines which tests happen           may cause a failure of the test (suspend).
+when and which functions occur when. Many of the              • Pending
+diagnostic steps required by OBD II must be per-           Under some situations the Task Manager will not
+formed under specific operating conditions. The Task       run a monitor if the MIL is illuminated and a fault is
+Manager software organizes and prioritizes the diag-       stored from another monitor. In these situations, the
+nostic procedures. The job of the Task Manager is to       Task Manager postpones monitors pending resolu-
+determine if conditions are appropriate for tests to be    tion of the original fault. The Task Manager does not
+run, monitor the parameters for a trip for each test,      run the test until the problem is remedied.
+and record the results of the test. Following are the      For example, when the MIL is illuminated for an
+responsibilities of the Task Manager software:             Oxygen Sensor fault, the Task Manager does not run
+  • Test Sequence                                          the Catalyst Monitor until the Oxygen Sensor fault is
+  • MIL Illumination                                       remedied. Since the Catalyst Monitor is based on sig-
+  • Diagnostic Trouble Codes (DTCs)                        nals from the Oxygen Sensor, running the test would
+  • Trip Indicator                                         produce inaccurate results.
+  • Freeze Frame Data Storage                                 • Conflict
+  • Similar Conditions Window                              There are situations when the Task Manager does
+                                                           not run a test if another monitor is in progress. In
+Test Sequence                                              these situations, the effects of another monitor run-
+  In many instances, emissions systems must fail           ning could result in an erroneous failure. If this con-
+diagnostic tests more than once before the PCM illu-       flict is present, the monitor is not run until the
+minates the MIL. These tests are know as ’two trip         conflicting condition passes. Most likely the monitor
+monitors.’ Other tests that turn the MIL lamp on           will run later after the conflicting monitor has
+after a single failure are known as ’one trip moni-        passed.
+tors.’ A trip is defined as ’start the vehicle and oper-   For example, if the Fuel System Monitor is in
+ate it to meet the criteria necessary to run the given     progress, the Task Manager does not run the EGR
+monitor.’                                                  Monitor. Since both tests monitor changes in air/fuel
+  Many of the diagnostic tests must be performed           ratio and adaptive fuel compensation, the monitors
+under certain operating conditions. However, there         will conflict with each other.
+are times when tests cannot be run because another            • Suspend
+test is in progress (conflict), another test has failed    Occasionally the Task Manager may not allow a two
+                                                           trip fault to mature. The Task Manager will sus-
+

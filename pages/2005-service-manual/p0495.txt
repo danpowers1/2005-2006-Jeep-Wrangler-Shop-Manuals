@@ -1,0 +1,54 @@
+TJ                                                               LAMPS/LIGHTING - EXTERIOR          8L - 25
+LEFT MULTI-FUNCTION SWITCH (Continued)
+turn signals only until the left multi-function switch
+control stalk is released. When the control stalk is
+moved to a turn signal switch detent position, the
+cancel actuator extends toward the center of the
+steering column. A turn signal cancel cam that is
+integral to the clockspring, rotates with the steering
+wheel and the cam lobes contact the cancel actuator
+when it is extended from the multi-function switch. If
+only momentary signaling is desired, the switch is
+actuated to a left or right intermediate detent posi-
+tion. In this position the signal lamps flash as
+described above, but the switch returns to the Off
+position as soon as the lever is released. When the
+system is activated, one of two turn indicators in the
+instrument cluster flashes in unison with the turn
+signal lamps, indicating to the driver that the system
+is operating.
+
+DIAGNOSIS AND TESTING - LEFT MULTI-
+FUNCTION SWITCH
+  Refer to the appropriate wiring information.
+
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                  Fig. 25 Combination Flasher Receptacle (Connector
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                                           A)
+ATTEMPTING ANY STEERING WHEEL, STEERING
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+INJURY.
+                                                            Fig. 26 Left Multi-Function Switch Connector
+  (1) Disconnect and isolate the battery negative                     Receptacle (Connector B)
+cable.
+  (2) Remove the left multi-function switch from the
+steering column (Refer to 8 - ELECTRICAL/LAMPS/
+LIGHTING - EXTERIOR/LEFT MULTI-FUNCTION
+SWITCH - REMOVAL).
+  (3) Remove the combination flasher from the left
+multi-function switch.
+  (4) Using an ohmmeter, perform the continuity
+and resistance tests at the terminals in the left
+multi-function switch connector receptacles as shown
+in the Left Multi-Function Switch Test table. Refer to
+(Fig. 25) and (Fig. 26) for connector terminal and
+cavity identification.
+

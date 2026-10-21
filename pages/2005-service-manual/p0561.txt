@@ -1,0 +1,59 @@
+TJ                                                                         VEHICLE THEFT SECURITY            8Q - 5
+VEHICLE THEFT SECURITY (Continued)
+  Each of these steps must be repeated and com-             instrument cluster electronic circuit board based
+pleted in their entirety for each additional Sentry         upon electronic messages received by the cluster from
+Key that is to be programmed. If the above steps are        the Sentry Key Immobilizer Module (SKIM) over the
+not completed in the given sequence, or within the          Programmable Communications Interface (PCI) data
+allotted time, the SKIS will exit the Customer Learn        bus. The SKIS indicator Light Emitting Diode (LED)
+programming mode and the programming will be                receives battery current on the instrument cluster
+unsuccessful. The SKIS will also automatically exit         electronic circuit board through the fused ignition
+the Customer Learn programming mode if it sees a            switch output (run-start) circuit whenever the igni-
+non-blank Sentry Key transponder when it should             tion switch is in the On or Start positions; therefore,
+see a blank, if it has already programmed eight (8)         the indicator will always be off when the ignition
+valid Sentry Keys, or if the ignition switch is turned      switch is in any position except On or Start. The
+to the Off position for more than about fifty seconds.      LED only illuminates when it is switched to ground
+                                                            by the instrument cluster transistor. The instrument
+NOTE: If an attempt is made to start the vehicle            cluster will turn on the SKIS indicator for the follow-
+while in the Customer Learn mode (SKIS indicator            ing reasons:
+flashing), the SKIS will respond as though the vehi-           • Bulb Test - Each time the ignition switch is
+cle were being started with an invalid key. In other        turned to the On position, the SKIM tells the cluster
+words, the engine will stall after about two seconds        to illuminate the SKIS indicator for about three sec-
+of operation. No faults will be set.                        onds as a bulb test.
+                                                               • SKIM Lamp-On Message - Each time the clus-
+                                                            ter receives a lamp-on message from the SKIM, the
+NOTE: Once a Sentry Key has been programmed as
+                                                            SKIS indicator will be illuminated. The indicator can
+a valid key to a vehicle, it cannot be programmed
+                                                            be flashed on and off, or illuminated solid, as dic-
+as a valid key for use on any other vehicle.
+                                                            tated by the SKIM message. For more information on
+                                                            the SKIS and the SKIS indicator control parameters,
+                                                            (Refer to 8 - ELECTRICAL/VEHICLE THEFT SECU-
+SKIS INDICATOR                                              RITY - OPERATION). The indicator remains illumi-
+                                                            nated until the cluster receives a lamp-off message
+DESCRIPTION                                                 from the SKIM or until the ignition switch is turned
+   A Sentry Key Immobilizer System (SKIS) indicator         to the Off position, whichever occurs first.
+is standard equipment on all instrument clusters, but          • Actuator Test - Each time the cluster is put
+is only operational on vehicles equipped with the           through the actuator test, the SKIS indicator will be
+optional SKIS. The SKIS indicator is located near the       turned on, then off again in a prescribed sequence to
+upper edge of the instrument cluster overlay, in the        confirm the functionality of the LED and the cluster
+upper left quadrant of the cluster. The SKIS indica-        control circuitry.
+tor consists of a stencil-like cutout of a graphical rep-      The SKIM performs a self-test each time the igni-
+resentation or icon of a key that is circled and            tion switch is turned to the On position to decide
+crossed-out in the opaque layer of the instrument           whether the system is in good operating condition.
+cluster overlay. The dark outer layer of the overlay        The SKIM then sends the proper SKIS lamp-on or
+prevents the indicator from being clearly visible           lamp-off messages to the instrument cluster. For fur-
+when it is not illuminated. An amber lens behind the        ther diagnosis of the SKIS indicator or the instru-
+cutout in the opaque layer of the overlay causes the        ment cluster circuitry that controls the indicator,
+indicator to appear in amber through the translucent        (Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-
+outer layer of the overlay when it is illuminated from      TER - DIAGNOSIS AND TESTING). If the instru-
+behind by a Light Emitting Diode (LED) soldered             ment cluster turns on the SKIS indicator after the
+onto the instrument cluster electronic circuit board.       bulb test, either solid or flashing, it indicates that a
+The SKIS indicator is serviced as a unit with the           SKIS malfunction has occurred or that the SKIS is
+instrument cluster.                                         inoperative. For proper diagnosis of the SKIS, the
+                                                            PCI data bus, or the message inputs to the instru-
+OPERATION                                                   ment cluster that control the SKIS indicator, a
+  The Sentry Key Immobilizer System (SKIS) indica-          DRBIIIt scan tool is required. Refer to the appropri-
+tor gives an indication to the vehicle operator of the      ate diagnostic information.
+status of the SKIS. This indicator is controlled by the
+

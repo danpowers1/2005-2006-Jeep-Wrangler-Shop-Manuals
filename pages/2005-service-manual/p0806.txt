@@ -1,0 +1,44 @@
+8W - 80 - 6   8W-80 CONNECTOR PIN-OUTS                                                          TJ
+
+
+                                      BATTERY TEMPERATURE SENSOR - BLACK 2 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 1    K25 20DB/VT                          BATT TEMP SIGNAL
+                 2    K900 20DB/DG                         SENSOR GROUND
+
+
+
+
+                                               BLEND DOOR ACTUATOR - 6 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 5    -                                    -
+                 6    -                                    -
+                 7    Z134 20DB/WT                         GROUND
+                 8    C132 20YL                            BLEND DOOR FEEDBACK SIGNAL
+                 9    -                                    -
+                10    F504 20OR                            FUSED IGNITION SWITCH OUTPUT (RUN)
+
+
+
+
+                                                  BLOWER MOTOR - 2 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                A     C1 12DG                              BLOWER MOTOR RELAY OUTPUT
+                B     C75 12BK/TN (EXCEPT HEATER ONLY)     BLOWER MOTOR HIGH DRIVER
+                B     C7 12BK/TN (HEATER ONLY)             BLOWER MOTOR HIGH DRIVER
+
+
+
+
+                                          BLOWER MOTOR RELAY - BLACK 5 WAY
+                CAV                  CIRCUIT                                  FUNCTION
+                 1    C1 12DG                              BLOWER MOTOR RELAY OUTPUT
+                 2    Z1 20BK                              GROUND
+                 3    -                                    -
+                 4    A502 12RD/LG (EXCEPT HEATER          FUSED B(+)
+                      ONLY)
+                 4    A111 12RD/LB (HEATER ONLY)           FUSED B(+)
+                 5    F504 20DB/WT (EXCEPT HEATER          FUSED IGNITION SWITCH OUTPUT (RUN)
+                      ONLY)
+                 5    F24 20DB/WT (HEATER ONLY)            FUSED IGNITION SWITCH OUTPUT (RUN)
+

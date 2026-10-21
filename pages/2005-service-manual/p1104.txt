@@ -1,0 +1,60 @@
+14 - 28     FUEL INJECTION                                                                                    TJ
+FUEL INJECTOR (Continued)
+
+INSTALLATION
+  (1) Install fuel injector(s) into fuel rail assembly
+and install retaining clip(s).
+  (2) If same injector(s) is being reinstalled, install
+new o-ring(s). Two different o-rings are being used.
+These can be easily identified by color. Install black
+o-ring at intake manifold end of injector. Install red/
+rust colored o-ring at fuel rail end of injector.
+  (3) Apply a small amount of clean engine oil to
+each injector o-ring. This will aid in installation.
+  (4) Install fuel rail. Refer to Fuel Rail Installation.
+  (5) Start engine and check for fuel leaks.
+
+
+FUEL PUMP RELAY
+DESCRIPTION                                                       Fig. 12 Power Distribution Center (PDC)
+  The 5–pin, 12–volt, fuel pump relay is located in         1 - BATTERY
+                                                            2 - POWER DISTRIBUTION CENTER (PDC)
+the Power Distribution Center (PDC). Refer to the
+label on the PDC cover for relay location.
+                                                            IDLE AIR CONTROL MOTOR
+OPERATION
+   The Powertrain Control Module (PCM) energizes            DESCRIPTION
+the electric fuel pump through the fuel pump relay.           The IAC stepper motor is mounted to the throttle
+The fuel pump relay is energized by first applying          body, and regulates the amount of air bypassing the
+battery voltage to it when the ignition key is turned       control of the throttle plate. As engine loads and
+ON, and then applying a ground signal to the relay          ambient temperatures change, engine rpm changes.
+from the PCM.                                               A pintle on the IAC stepper motor protrudes into a
+   Whenever the ignition key is turned ON, the elec-        passage in the throttle body, controlling air flow
+tric fuel pump will operate. But, the PCM will shut-        through the passage. The IAC is controlled by the
+down the ground circuit to the fuel pump relay in           Powertrain Control Module (PCM) to maintain the
+approximately 1–3 seconds unless the engine is oper-        target engine idle speed.
+ating or the starter motor is engaged.
+                                                            OPERATION
+REMOVAL                                                        At idle, engine speed can be increased by retract-
+   The fuel pump relay is located in the Power Distri-      ing the IAC motor pintle and allowing more air to
+bution Center (PDC) (Fig. 12). Refer to label on PDC        pass through the port, or it can be decreased by
+cover for relay location.                                   restricting the passage with the pintle and diminish-
+   (1) Remove PDC cover.                                    ing the amount of air bypassing the throttle plate.
+   (2) Remove relay from PDC.                                  The IAC is called a stepper motor because it is
+   (3) Check condition of relay terminals and PDC           moved (rotated) in steps, or increments. Opening the
+connector terminals for damage or corrosion. Repair         IAC opens an air passage around the throttle blade
+if necessary before installing relay.                       which increases RPM.
+   (4) Check for pin height (pin height should be the          The PCM uses the IAC motor to control idle speed
+same for all terminals within the PDC connector).           (along with timing) and to reach a desired MAP dur-
+Repair if necessary before installing relay.                ing decel (keep engine from stalling).
+                                                               The IAC motor has 4 wires with 4 circuits. Two of
+INSTALLATION                                                the wires are for 12 volts and ground to supply elec-
+  The fuel pump relay is located in the Power Distri-       trical current to the motor windings to operate the
+bution Center (PDC) (Fig. 12). Refer to label on PDC        stepper motor in one direction. The other 2 wires are
+cover for relay location.                                   also for 12 volts and ground to supply electrical cur-
+  (1) Install relay to PDC.                                 rent to operate the stepper motor in the opposite
+  (2) Install cover to PDC.                                 direction.
+                                                               To make the IAC go in the opposite direction, the
+                                                            PCM just reverses polarity on both windings. If only
+                                                            1 wire is open, the IAC can only be moved 1 step
+

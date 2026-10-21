@@ -1,0 +1,62 @@
+TJ                                                                   TRANSFER CASE - NV241        21 - 233
+SHIFT LEVER (Continued)
+   (6) Remove screws attaching lever assembly to
+floorpan and remove assembly and shift rod (if left
+attached).
+
+INSTALLATION
+   (1) If shift rod was not removed from lever assem-
+bly, work rod down through floorpan opening. Then
+position lever assembly on floorpan and install
+assembly attaching screws.
+   (2) Install console. (Refer to 23 - BODY/INTERI-
+OR/FLOOR CONSOLE - INSTALLATION)
+   (3) Raise vehicle.
+   (4) Connect trunnion to torque shaft arm. Or, slide
+shift rod into trunnion on range lever. Be sure shift
+rod slides freely in trunnion.
+   (5) Verify that range lever is in 4L position. Then
+tighten trunnion lock bolt.
+   (6) Lower vehicle and check transfer case shift
+operation.
+
+ADJUSTMENTS - SHIFT LINKAGE
+  (1) Shift transfer case into 4L position.
+  (2) Raise vehicle.
+  (3) Loosen lock bolt on adjusting trunnion (Fig.
+103).
+  (4) Be sure linkage rod slides freely in trunnion.
+Clean rod and apply spray lube if necessary.                            Fig. 103 Shift Linkage
+  (5) Verify that transfer case range lever is fully     1 - TRANSFER CASE SHIFT LEVER SHAFT
+engaged in 4L position.                                  2 - SEAL
+                                                         3 - TRANSFER CASE SHIFT LEVER ASSEMBLY
+  (6) Tighten adjusting trunnion lock bolt.              4 - FLOORPAN
+  (7) Lower vehicle.                                     5 - TRUNNION LOCK BOLT
+                                                         6 - SHIFT ROD
+                                                         7 - ADJUSTING TRUNNION
+                                                         8 - TORQUE SHAFT BRACKET
+VEHICLE SPEED SENSOR                                     9 - RANGE LEVER
+                                                         10 - TORQUE SHAFT ROD
+                                                         11 - TORQUE SHAFT
+DESCRIPTION                                              12 - LINKAGE BRACKET
+  The 3-wire Vehicle Speed Sensor (VSS) (Fig. 104) is
+located in the transfer case rear extension.
+
+OPERATION
+  The VSS is a 3-circuit (3–wire), magnetic, hall-ef-
+fect sensor.
+  The 3 circuits are:
+  • A 5-volt power supply from the Powertrain Con-
+trol Module (PCM).
+  • A ground is provided for the sensor though a
+low-noise sensor return circuit in the PCM.
+  • An input to the PCM is used to determine vehi-
+cle speed and distance traveled.
+  The speed sensor generates 8 pulses per sensor
+revolution. These signals, in conjunction with a
+closed throttle signal from the throttle position sen-
+sor, indicate a closed throttle deceleration to the
+PCM. When the vehicle is stopped at idle, a closed                  Fig. 104 Speedometer Sensor
+throttle signal is received by the PCM (but a speed      1 - EXTENSION HOUSING
+sensor signal is not received).                          2 - SPEEDOMETER SENSOR
+

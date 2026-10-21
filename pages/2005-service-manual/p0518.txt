@@ -1,0 +1,49 @@
+8O - 8     RESTRAINTS                                                                                           TJ
+RESTRAINTS (Continued)
+
+
+
+
+                                                                         Fig. 6 Airbag Control Module
+                                                             1 - SCREW (4)
+                                                             2 - AIRBAG CONTROL MODULE
+                                                             3 - WIRE HARNESS CONNECTOR
+                                                             4 - MOUNTING BRACKET
+                                                             5 - FRONT FLOOR PANEL
+
+    Fig. 5 16-Way Data Link Connector - Typical              plate is secured to the bottom of the ACM housing
+1 - 16–WAY DATA LINK CONNECTOR                               with four screws to enclose and protect the internal
+2 - BOTTOM OF INSTRUMENT PANEL                               electronic circuitry and components.
+                                                               The ACM housing has an integral mounting flange
+erase. Refer to the appropriate diagnostic informa-          on each side. Each mounting flange has an integral
+tion to diagnose any stored DTC that will not erase.         locating pin on its lower surface and two round
+If the stored DTC information is successfully erased,        mounting holes. An arrow cast into the top of the
+go to Step 9.                                                ACM housing near the rear provides a visual verifi-
+   (9) Turn the ignition switch to the Off position for      cation of the proper orientation of the unit, and
+about fifteen seconds, and then back to the On posi-         should always be pointed toward the front of the
+tion. Observe the airbag indicator in the instrument         vehicle. A molded plastic electrical connector recepta-
+cluster. It should illuminate for six to eight seconds,      cle containing twenty-three terminal pins exits the
+and then go out. This indicates that the supplemen-          forward facing side of the ACM housing. These ter-
+tal restraint system is functioning normally and that        minal pins connect the ACM to the vehicle electrical
+the repairs are complete. If the airbag indicator fails      system through a dedicated take out and connector of
+to light, or lights and stays on, there is still an active   the body wire harness.
+supplemental restraint system fault or malfunction.            The impact sensor and safing sensor internal to
+Refer to the appropriate diagnostic information to           the ACM are calibrated for the specific vehicle, and
+diagnose the problem.                                        are only serviced as a unit with the ACM. The ACM
+                                                             cannot be repaired or adjusted and, if damaged or
+                                                             faulty, it must be replaced.
+AIRBAG CONTROL MODULE
+                                                             OPERATION
+DESCRIPTION                                                    The microprocessor in the Airbag Control Module
+  The Airbag Control Module (ACM) is secured with            (ACM) contains the front supplemental restraint sys-
+four screws to the top mounting surface of a stamped         tem logic circuits and controls all of the supplemental
+steel bracket welded onto the top of the floor panel         restraint system components. The ACM uses
+transmission tunnel below the instrument panel and           On-Board Diagnostics (OBD) and can communicate
+forward of the center floor console in the passenger         with other electronic modules in the vehicle as well
+compartment of the vehicle (Fig. 6). Concealed within        as with the DRBIIIt scan tool using the Programma-
+a hollow in the center of the die cast aluminum ACM          ble Communications Interface (PCI) data bus net-
+housing is the electronic circuitry of the ACM which         work. This method of communication is used for
+includes a microprocessor, an electronic impact sen-         control of the airbag indicator in the ElectroMechani-
+sor, an electromechanical safing sensor, and an              cal Instrument Cluster (EMIC) and for supplemental
+energy storage capacitor. A stamped metal cover
+

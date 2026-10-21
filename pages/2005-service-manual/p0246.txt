@@ -1,0 +1,59 @@
+5 - 28     BRAKES - BASE                                                                                      TJ
+COMBINATION VALVE (Continued)
+PROPORTIONING VALVE
+  The proportioning valve is used to balance front-
+rear brake action at high decelerations. The valve
+allows normal fluid flow during moderate braking.
+The valve only controls fluid flow during high decel-
+erations brake stops.
+
+DIAGNOSIS AND TESTING - COMBINATION
+VALVE
+Pressure Differential Switch
+  (1) Have helper sit in drivers seat to apply brake
+pedal and observe red brake warning light.
+  (2) Raise vehicle on hoist.
+  (3) Connect bleed hose to a rear wheel cylinder
+and immerse hose end in container partially filled                Fig. 50 Combination Valve/Master Cylinder
+with brake fluid.                                            1 - COMBINATION VALVE
+  (4) Have helper press and hold brake pedal to floor        2 - MASTER CYLINDER
+and observe warning light.
+     (a) If warning light illuminates, switch is operat-
+  ing correctly.
+     (b) If light fails to illuminate, check circuit fuse,
+  bulb, and wiring. The parking brake switch can be
+  used to aid in identifying whether or not the brake
+  light bulb and fuse is functional. Repair or replace
+  parts as necessary and test differential pressure
+  switch operation again.
+  (5) If warning light still does not illuminate,
+switch is faulty. Replace combination valve assembly,
+bleed brake system and verify proper switch and
+valve operation.
+
+REMOVAL
+   (1) Remove brake lines that connect master cylin-
+der to combination valve (Fig. 50).
+                                                                      Fig. 51 Combination Valve Bracket
+   (2) Disconnect brake lines that connect combina-
+tion valve to front and rear brakes.                         1 - MASTER CYLINDER
+                                                             2 - COMBINATION VALVE BRACKET
+   (3) Disconnect wire from combination valve switch
+terminal. Be careful when separating wire connector            (5) Connect wire to differential pressure switch in
+as lock tabs are easily damaged if not fully disen-          combination valve.
+gaged.                                                         (6) Bleed base brake system. (Refer to 5 - BRAKES
+   (4) Remove nuts attaching combination valve               - STANDARD PROCEDURE).
+bracket to booster studs and remove valve bracket off
+booster studs (Fig. 51).
+                                                             ROTORS
+INSTALLATION
+   (1) Position valve bracket on booster studs and
+tighten bracket attaching nuts to 20 N·m (15 ft. lbs.).      DIAGNOSIS AND TESTING
+   (2) Align and start brake line fittings in combina-
+tion valve and master cylinder by hand to avoid cross        DIAGNOSIS AND TESTING - DISC BRAKE
+threading.                                                   ROTOR
+   (3) Tighten brake line fittings at combination valve        The rotor braking surfaces should not be refinished
+to 19 N·m (14 ft. lbs.).                                     unless necessary.
+   (4) Tighten brake line fittings at master cylinder          Light surface rust and scale can be removed with a
+to 19 N·m (14 ft. lbs.).                                     lathe equipped with dual sanding discs. The rotor
+

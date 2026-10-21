@@ -1,0 +1,60 @@
+TJ                                                                   LAMPS/LIGHTING - EXTERIOR            8L - 3
+LAMPS/LIGHTING - EXTERIOR (Continued)
+
+OPERATION - TURN SIGNAL & HAZARD                          WARNING
+WARNING SYSTEM
+                                                          WARNING:: EYE PROTECTION SHOULD BE USED
+   The turn signal system operates on battery voltage
+                                                          WHEN SERVICING GLASS COMPONENTS. PER-
+received on a ignition switch output (run) circuit so
+                                                          SONAL INJURY CAN RESULT.
+that the turn signals will only operate with the igni-
+tion switch in the On position. The hazard warning
+system operates on non-switched battery voltage so        CAUTION: Do not touch the glass of halogen bulbs
+that the hazard warning remains operational regard-       with fingers or other possibly oily surface, reduced
+less of the ignition switch position. When the turn       bulb life will result.
+signal switch control stalk is moved up or down, the
+turn signal system is activated. When the turn signal
+system is activated, the circuitry of the turn signal     CAUTION: Do not use bulbs with higher candle
+switch and the combination flasher will cause the         power than indicated in the Bulb Application table
+selected turn signal indicator, front park/turn signal    at the end of this group. Damage to lamp and/or
+lamp, front side marker lamp, repeater lamps, and         Daytime Running Lamp Module can result.
+rear tail/stop/turn signal lamp to flash on and off.
+When the hazard warning system is activated, the
+                                                          CAUTION: Do not use fuses, circuit breakers, or
+circuitry of the hazard warning switch and the com-
+                                                          relays having greater amperage values than indi-
+bination flasher will cause both the right side and
+                                                          cated on the fuse panel or in the Owner’s Manual.
+the left side turn signal indicators, front park/turn
+signal lamps, front side marker lamps, repeater
+lamps and rear tail/stop/turn signal lamps to flash on    NOTE: When it is necessary to remove components
+and off.                                                  to service another, it should not be necessary to
+   In order to provide the turn signal-on warning, the    apply excessive force or bend a component to
+ElectroMechanical Instrument Cluster (EMIC) moni-         remove it. Before damaging a trim component, ver-
+tors vehicle speed and distance messages received         ify hidden fasteners or captured edges are not hold-
+from the PCM over the PCI data bus and the hard           ing the component in place.
+wired turn signal switch input to the cluster elec-
+tronic circuit board. If a turn signal remains indi-
+cated for a distance of greater than about 1.6
+kilometers (1 mile) and the vehicle speed remains         DIAGNOSIS AND TESTING
+greater than about 24 kilometers-per-hour (15 miles-
+per-hour), the EMIC generates a repetitive chime at       DIAGNOSIS AND TESTING - TURN SIGNAL &
+a slow rate to provide an audible reminder that a         HAZARD WARNING SYSTEM
+turn signal has been left on (distance is slightly          Always begin any diagnosis by testing all of the
+longer with export vehicles). Once the warning chime      fuses and circuit breakers in the system. Refer to the
+begins to sound, it will continue until the turn signal   appropriate wiring information.
+is cancelled, until the vehicle speed falls below about     When diagnosing the turn signal or hazard warn-
+24 kilometers-per-hour (15 miles-per-hour), or until      ing circuits, remember that high generator output
+the ignition switch is turned to the Off position,        can burn out bulbs rapidly and repeatedly. If this is a
+whichever occurs first. This feature is not activated     problem on the vehicle being diagnosed (Refer to 8 -
+by a hazard warning input to the instrument cluster.      ELECTRICAL/CHARGING - DIAGNOSIS AND
+   During both the turn signal and the hazard warn-       TESTING). If the problem being diagnosed is related
+ing operation, if the exterior lamps are turned Off,      to a failure of the turn signals to automatically can-
+the front park/turn signal lamps, repeater lamps and      cel following completion of a turn, inspect the multi-
+the front side marker lamps will flash in unison. If      function switch for a faulty or damaged cancel
+the exterior lamps are turned On, the front park/turn     actuator and inspect the turn signal cancel cam lobes
+signal lamps, repeater lamps and the front side           on the clockspring mechanism for damage or
+marker lamps will flash alternately.                      improper installation. For complete circuit diagrams,
+                                                          refer to the appropriate wiring information.
+

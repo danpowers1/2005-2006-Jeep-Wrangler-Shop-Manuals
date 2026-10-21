@@ -1,0 +1,44 @@
+8W - 80 - 52   8W-80 CONNECTOR PIN-OUTS                                                         TJ
+
+
+                                                 SUBWOOFER - 12 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    X54 18GY                           RIGHT FRONT SPEAKER (+)
+                 2    X56 18GY/BR                        RIGHT FRONT SPEAKER (-)
+                 3    X53 18DG                           LEFT FRONT SPEAKER (+)
+                 4    X55 18DG/BR                        LEFT FRONT SPEAKER (-)
+                 5    X60 20GY/OR                        RADIO 12V OUTPUT
+                 6    X13 16BK/RD                        FUSED B(+)
+                 7    X52 18GY/DB                        RIGHT REAR SPEAKER (+)
+                 8    X58 18GY/OR                        RIGHT REAR SPEAKER (-)
+                 9    X51 18DG/DB                        LEFT REAR SPEAKER (+)
+                 10   X57 18DG/OR                        LEFT REAR SPEAKER (-)
+                 11   -                                  -
+                 12   Z513 16BK                          GROUND
+
+
+
+
+                                        THROTTLE POSITION SENSOR (2.4L) - 3 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    F855 20PK/YL                       5 VOLT SUPPLY
+                 2    K900 20DB/DG                       SENSOR GROUND
+                 3    K22 20BR/OR                        TP NO. 1 SIGNAL
+
+
+
+
+                                        THROTTLE POSITION SENSOR (4.0L) - 3 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    F855 20PK/YL                       5 VOLT SUPPLY
+                 2    K900 20DB/DG                       SENSOR GROUND
+                 3    K22 18BR/OR                        TP NO. 1 SIGNAL
+
+
+
+
+                                    TORQUE CONVERTER CLUTCH SOLENOID - BLACK 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 A    F12 20RD/LG                        FUSED IGNITION SWITCH OUTPUT (RUN-START)
+                 B    T23 18OR/LG                        TRANSMISSION LOW/OVERDRIVE SOLENOID
+

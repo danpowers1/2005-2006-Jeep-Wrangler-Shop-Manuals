@@ -1,0 +1,67 @@
+21 - 136    AUTOMATIC TRANSMISSION - 42RLE                                                                    TJ
+
+
+PLANETARY GEARTRAIN                                        (2) Clean and inspect torque converter hub. If
+                                                         nicks, scratches or hub wear are found, torque con-
+                                                         verter replacement will be required.
+DESCRIPTION
+                                                         CAUTION: If the torque converter is being replaced,
+                                                         apply a light coating of grease to the crankshaft
+                                                         pilot hole. Also inspect the engine drive plate for
+                                                         cracks. If any cracks are found replace the drive
+                                                         plate. Do not attempt to repair a cracked drive plate.
+                                                         Always use new torque converter to drive plate
+                                                         bolts.
+
+                                                           (3) Apply a light film of transmission oil to the
+                                                         torque converter hub and oil seal lips. Then install
+                                                         torque converter into transmission. Be sure that the
+                                                         hub lugs mesh with the front pump lugs when
+                                                         installing.
+                                                           (4) Reinstall the transmission into the vehicle.
+                                                         (Refer to 21 - TRANSMISSION/TRANSAXLE/AUTO-
+                                                         MATIC - 42RLE - INSTALLATION)
+            Fig. 235 Planetary Geartrain
+1 - FRONT SUN GEAR ASSEMBLY
+2 - #6 THRUST BEARING                                    SHIFT MECHANISM
+3 - #7 THRUST BEARING
+4 - REAR CARRIER FRONT ANNULUS ASSEMBLY
+5 - REAR SUN GEAR
+                                                         DESCRIPTION
+6 - FRONT CARRIER REAR ANNULUS ASSEMBLY                     The shift mechanism is cable operated and pro-
+                                                         vides six shift positions. The shift indicator is located
+  The planetary geartrain is located between the         on the console next to the gear shift. The shift posi-
+input clutch assembly and the rear of the transmis-      tions are:
+sion case. The planetary geartrain consists of two          • Park (P)
+sun gears, two planetary carriers, two annulus (ring)       • Reverse (R)
+gears, and one output shaft (Fig. 235).                     • Neutral (N)
+                                                            • Drive (D)
+OPERATION                                                   • Manual Second (2)
+  The planetary geartrain utilizes two planetary gear       • Manual Low (1)
+sets that connect the transmission input shaft to the
+output shaft. Input and holding clutches drive or lock   OPERATION
+different planetary members to change output ratio         Manual low (1) range provides first gear only. Over
+or direction.                                            run braking is also provided in this range. Manual
+                                                         second (2) range provides first and second gear only.
+                                                         Drive range provides first, second, and third gear
+OIL PUMP SEAL                                            ranges.
+
+REMOVAL                                                  DIAGNOSIS AND TESTING - SHIFT
+  (1) Remove the transmission from the vehicle           MECHANISM
+(Refer to 21 - TRANSMISSION/AUTOMATIC -
+                                                           (1) The floor shifter lever and gate positions
+42RLE - REMOVAL).
+                                                         should be in alignment with all transmission PARK,
+  (2) Remove the torque converter from the trans-
+                                                         NEUTRAL, and gear detent positions.
+mission bellhousing.
+                                                           (2) Engine starts must be possible with floor shift
+  (3) Use special tool C-3981B to remove oil pump
+                                                         lever in PARK or NEUTRAL gate positions only.
+seal.
+                                                         Engine starts must not be possible in any other gear
+                                                         position.
+INSTALLATION                                               (3) With floor shift lever handle push-button not
+  (1) Clean and inspect oil pump seal seat. Then         depressed and lever in:
+install seal using special tool C-4193-A.
+

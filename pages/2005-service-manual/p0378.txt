@@ -1,0 +1,57 @@
+8F - 26     CHARGING                                                                                     TJ
+
+
+GENERATOR DECOUPLER
+PULLEY
+DESCRIPTION
+  The generator decoupler is used only with
+certain engines. The decoupler is used in place of
+the standard generator drive pulley (Fig. 7).
+
+OPERATION
+   The generator decoupler is used only with
+certain engines. The decoupler (Fig. 7) is a one-way
+clutch designed to help reduce belt tension fluctua-
+tion, vibration, reduce fatigue loads, improve belt life,
+reduce hubloads on components, and reduce noise.
+Dry operation is used (no grease or lubricants). The
+decoupler is not temperature sensitive and also has a
+low sensitivity to electrical load. The decoupler is a
+                                                                    Fig. 7 GENERATOR DECOUPLER PULLEY
+non-serviceable item and is to be replaced as an
+assembly.
+
+DIAGNOSIS AND TESTING - GENERATOR DECOUPLER
+
+          CONDITION                           POSSIBLE CAUSES                         CORRECTION
+    Does not drive generator                     Internal failure                    Replace decoupler
+    (generator not charging)
+
+       Noise coming from                         Internal failure                    Replace decoupler
+           decoupler
+
+
+REMOVAL
+  The generator decoupler is used only with
+certain engines.
+  Two different type generator decoupler pulleys are
+used. One can be identified by the use of machined
+splines (Fig. 8). The other can be identified by a hex
+opening (Fig. 9) and will not use splines.
+  Different special tools are required to service each
+different decoupler. Refer to following procedure.
+
+INA Decoupler
+  (1) Disconnect negative battery cable.
+  (2) Remove generator and accessory drive belt.
+Refer to Generator Removal.
+  (3) Position Special Tool #8823 (VM.1048) into
+decoupler (Fig. 10).
+  (4) Determine if end of generator shaft is hex
+shaped (Fig. 11) or is splined (Fig. 12). If hex is used,
+insert a 10MM deep socket into tool #8823 (VM.1048)
+(Fig. 13). If splined, insert a 5/16” 6-point hex driver,       Fig. 8 GENERATOR DECOUPLER PULLEY (INA)
+or a 10MM 12-point triple square driver into tool             1 - GENERATOR
+#8823 (VM.1048) (Fig. 14).                                    2 - DECOUPLER (INA)
+                                                              3 - MACHINED SPLINES
+

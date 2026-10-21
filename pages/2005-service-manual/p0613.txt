@@ -1,0 +1,69 @@
+TJ                           8W-01 WIRING DIAGRAM INFORMATION                                     8W - 01 - 7
+WIRING DIAGRAM INFORMATION (Continued)
+
+DESCRIPTION - CONNECTOR, GROUND AND                      WARNING: BE SURE THAT THE IGNITION SWITCH
+                                                         ALWAYS IS IN THE OFF POSITION, UNLESS THE
+SPLICE INFORMATION
+                                                         PROCEDURE REQUIRES IT TO BE ON.
+CAUTION: Not all connectors are serviced. Some
+connectors are serviced only with a harness. A typ-      WARNING: SET THE PARKING BRAKE WHEN
+ical example might be the Supplemental Restraint         WORKING ON ANY VEHICLE. AN AUTOMATIC
+System connectors. Always check parts availability       TRANSMISSION SHOULD BE IN PARK. A MANUAL
+before attempting a repair.                              TRANSMISSION SHOULD BE IN NEUTRAL.
+
+IDENTIFICATION                                           WARNING: OPERATE THE ENGINE ONLY IN A
+   In-line connectors are identified by a number, as     WELL-VENTILATED AREA.
+follows:
+   • In-line connectors located in the engine compart-
+ment are C100 series numbers                             WARNING: KEEP AWAY FROM MOVING PARTS
+   • In-line connectors located in the Instrument        WHEN THE ENGINE IS RUNNING, ESPECIALLY THE
+Panel area are C200 series numbers.                      FAN AND BELTS.
+   • In-line connectors located in the body are C300
+series numbers.
+                                                         WARNING: TO PREVENT SERIOUS BURNS, AVOID
+   • Jumper harness connectors are C400 series
+                                                         CONTACT WITH HOT PARTS SUCH AS THE RADIA-
+numbers.
+                                                         TOR, EXHAUST MANIFOLD(S), TAIL PIPE, CATA-
+   • Grounds and ground connectors are identified
+                                                         LYTIC CONVERTER AND MUFFLER.
+with a “G” and follow the same series numbering as
+the in-line connectors.
+   • Splices are identified with an “S” and follow the   WARNING: DO NOT ALLOW FLAME OR SPARKS
+same series numbering as the in-line connectors.         NEAR THE BATTERY. GASES ARE ALWAYS
+   • Component connectors are identified by the com-     PRESENT IN AND AROUND THE BATTERY.
+ponent name instead of a number. Multiple connec-
+tors on a component use a C1, C2, etc. identifier.
+                                                         WARNING: ALWAYS REMOVE RINGS, WATCHES,
+LOCATIONS                                                LOOSE HANGING JEWELRY AND AVOID LOOSE
+  Section 8W-91 contains connector/ground/splice         CLOTHING.
+location illustrations. The illustrations contain the
+connector name (or number)/ground number/splice
+number and component identification. Connector/          DIAGNOSIS AND TESTING - WIRING HARNESS
+ground/splice location charts in section 8W-91 refer-
+ence the figure numbers of the illustrations.            TROUBLESHOOTING TOOLS
+  The abbreviation T/O is used in the component            When diagnosing a problem in an electrical circuit
+location section to indicate a point in which the wir-   there are several common tools necessary. These tools
+ing harness branches out to a component. The abbre-      are listed and explained below.
+viation N/S means Not Shown in the illustrations           • Jumper Wire - This is a test wire used to con-
+                                                         nect two points of a circuit. It can be used to bypass
+WARNINGS - GENERAL                                       an open in a circuit.
+  WARNINGS provide information to prevent per-
+                                                         WARNING: NEVER USE A JUMPER WIRE ACROSS
+sonal injury and vehicle damage. Below is a list of
+                                                         A LOAD, SUCH AS A MOTOR, CONNECTED
+general warnings that should be followed any time a
+                                                         BETWEEN A BATTERY FEED AND GROUND.
+vehicle is being serviced.
+                                                            • Voltmeter - Used to check for voltage on a cir-
+WARNING: ALWAYS WEAR SAFETY GLASSES FOR
+                                                         cuit. Always connect the black lead to a known good
+EYE PROTECTION.
+                                                         ground and the red lead to the positive side of the
+                                                         circuit.
+WARNING: USE SAFETY STANDS ANYTIME A PRO-
+CEDURE REQUIRES BEING UNDER A VEHICLE.                   CAUTION: Most of the electrical components used
+                                                         in today’s vehicles are Solid State. When checking
+                                                         voltages in these circuits, use a meter with a 10 -
+                                                         megohm or greater impedance rating.
+

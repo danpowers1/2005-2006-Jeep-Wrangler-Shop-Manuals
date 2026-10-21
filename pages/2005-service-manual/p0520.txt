@@ -1,0 +1,51 @@
+8O - 10    RESTRAINTS                                                                                     TJ
+AIRBAG CONTROL MODULE (Continued)
+
+REMOVAL                                                   (4) Remove the four screws that secure the Airbag
+                                                        Control Module (ACM) to the mounting bracket on
+WARNING: TO AVOID PERSONAL INJURY OR                    the floor panel transmission tunnel (Fig. 7).
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+TEM BEFORE ATTEMPTING ANY STEERING
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+TO DISABLE THE SUPPLEMENTAL RESTRAINT
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT.
+
+
+WARNING: TO AVOID PERSONAL INJURY OR
+DEATH, NEVER STRIKE OR DROP THE AIRBAG                      Fig. 7 Airbag Control Module Remove/Install
+CONTROL MODULE, AS IT CAN DAMAGE THE                    1 - SCREW (4)
+                                                        2 - AIRBAG CONTROL MODULE
+IMPACT SENSOR OR AFFECT ITS CALIBRATION.                3 - WIRE HARNESS CONNECTOR
+THE AIRBAG CONTROL MODULE CONTAINS THE                  4 - MOUNTING BRACKET
+IMPACT SENSOR, WHICH ENABLES THE SYSTEM                 5 - FRONT FLOOR PANEL
+TO DEPLOY THE SUPPLEMENTAL RESTRAINTS. IF
+AN AIRBAG CONTROL MODULE IS ACCIDENTALLY                   (5) Lift the ACM upward far enough to disengage
+DROPPED DURING SERVICE, THE MODULE MUST                 the locator pins on the bottom of the ACM mounting
+BE SCRAPPED AND REPLACED WITH A NEW UNIT.               flanges from the locating holes in the mounting
+FAILURE TO OBSERVE THIS WARNING COULD                   bracket, then slide the ACM out from under the
+RESULT IN ACCIDENTAL, INCOMPLETE, OR                    instrument panel far enough to access the wire har-
+IMPROPER SUPPLEMENTAL RESTRAINT DEPLOY-                 ness connector.
+MENT.                                                      (6) Disconnect the body wire harness connector for
+                                                        the ACM from the ACM connector receptacle located
+   (1) Disconnect and isolate the battery negative      on the forward facing side of the module. To discon-
+cable. Wait two minutes for the system capacitor to     nect the body wire harness connector from the ACM
+discharge before further service.                       (Fig. 8):
+   (2) Pull the carpet on the right and left sides of        (a) Pull the white Connector Positive Assurance
+the floor panel transmission tunnel rearward far           (CPA) locks on each side of the connector out about
+enough to access the Airbag Control Module (ACM),          3 millimeters (0.125 inch).
+which is forward of the floor console.                       (b) Squeeze the latch tabs on each side of the
+   (3) On models equipped with the optional Anti-lock      connector between the thumb and forefinger and
+Brake System (ABS), remove the acceleration switch         pull the connector straight away from the ACM
+from the left side of the mounting bracket on the          connector receptacle.
+floor panel transmission tunnel. (Refer to 5 -             (7) Remove the ACM from beneath the instrument
+BRAKES/ELECTRICAL/G-SWITCH - REMOVAL).                  panel.
+

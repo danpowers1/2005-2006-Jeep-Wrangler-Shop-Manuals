@@ -1,0 +1,69 @@
+24 - 30     CONTROLS                                                                                      TJ
+BLOWER MOTOR RESISTOR (Continued)
+
+INSTALLATION                                            wires, as required to achieve the selected blower
+  (1) From under the instrument panel, position the     motor speed.
+blower motor resistor into the HVAC housing.              The blower motor switch cannot be repaired and, if
+  (2) From under the instrument panel, install the      faulty or damaged, it must be replaced. The blower
+lower screw that secures the blower motor resistor to   motor switch knob is available for service replace-
+the HVAC housing. Tighten the screw to 2 N·m (17        ment.
+in. lbs.).
+  (3) Reach through the glove box opening and
+                                                        DIAGNOSIS AND TESTING
+install the upper screw that secures the blower motor
+resistor to the HVAC housing. Tighten the screw to 2
+N·m (17 in. lbs.).
+                                                        BLOWER MOTOR SWITCH
+  (4) Connect the wire harness connector to the         WARNING: On vehicles equipped with airbags, dis-
+blower motor resistor and engage the connector lock.    able the airbag system before attempting any steer-
+  (5) Install the glove box (Refer to 23 - BODY/IN-     ing wheel, steering column, or instrument panel
+STRUMENT PANEL/GLOVE BOX - INSTALLA-                    component diagnosis or service. Disconnect and
+TION).                                                  isolate the battery negative (ground) cable, then
+  (6) Reconnect the negative battery cable.             wait two minutes for the airbag system capacitor to
+                                                        discharge before performing further diagnosis or
+                                                        service. This is the only sure way to disable the air-
+BLOWER MOTOR SWITCH                                     bag system. Failure to take the proper precautions
+                                                        could result in accidental airbag deployment and
+DESCRIPTION                                             possible personal injury or death.
+  The blower motor for the heater-only or heater-A/C
+                                                           For circuit descriptions and diagrams, refer to the
+system is controlled by a rotary-type blower motor
+                                                        appropriate wiring information. The wiring informa-
+switch, mounted in the A/C-heater control (Fig. 28).
+                                                        tion includes wiring diagrams, proper wire and con-
+The blower motor switch allows the selection of four
+                                                        nector repair procedures, further details on wire
+different blower motor speeds and includes an Off
+                                                        harness routing and retention, as well as pin-out and
+position.
+                                                        location views for the various wire harness connec-
+                                                        tors, splices and grounds.
+                                                           (1) Check for battery voltage at the fuse in the
+                                                        power distribution center (PDC). If OK, go to Step 2.
+                                                        If not OK, repair the shorted circuit or component as
+                                                        required and replace the faulty fuse.
+                                                           (2) Turn the ignition switch to the Off position.
+                                                        Disconnect and isolate the negative battery cable.
+                                                        Remove the A/C-heater control from the instrument
+                                                        panel (Refer to 24 - HEATING & AIR CONDITION-
+                                                        ING/CONTROLS/A/C           HEATER      CONTROL       -
+                                                        REMOVAL). Check for continuity between the
+                                                        ground circuit cavity of the A/C-heater control wire
+                                                        harness connector and a good ground. There should
+                                                        be continuity. If OK, go to Step 3. If not OK, repair
+                                                        the open circuit to ground as required.
+                                                           (3) With the A/C-heater control wire harness con-
+                                                        nector disconnected, place the A/C-heater mode con-
+                                                        trol in any position except Off. Check for continuity
+          Fig. 28 A/C-Heater Control - Typical          between the ground circuit terminal and each of the
+                                                        blower motor driver circuit terminals of the A/C-
+1 - BLOWER SPEED CONTROL
+2 - TEMPERATURE SELECT COPNTROL                         heater control as you move the blower motor switch
+3 - MODE SELECT CONTROL                                 to each of the four speed positions. There should be
+                                                        continuity at each driver circuit terminal in only one
+OPERATION                                               blower motor switch speed position. If OK, test and
+  The blower motor switch provides a ground path        repair the blower driver circuits between the A/C-
+for the blower motor through the A/C-heater mode        heater control and the blower motor resistor as
+control. The blower motor switch directs this ground    required. If not OK, replace the faulty blower motor
+path through or around the blower motor resistor        switch.
+

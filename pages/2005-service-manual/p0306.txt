@@ -1,0 +1,63 @@
+7 - 32    ENGINE                                                                                              TJ
+FAN DRIVE VISCOUS CLUTCH (Continued)
+spun by hand), replace the fan drive. This spin test       cracks, loose blades, or loose rivets that could
+must be performed when the engine is cool.                 have resulted from excessive vibration. Replace fan
+  For the following test, the cooling system must be       blade assembly if any of these conditions are
+in good condition. It also will ensure against exces-      found. Also inspect water pump bearing and shaft
+sively high coolant temperature.                           assembly for any related damage due to a viscous
+                                                           fan drive malfunction.
+WARNING: BE SURE THAT THERE IS ADEQUATE
+FAN BLADE CLEARANCE BEFORE DRILLING.                       REMOVAL
+                                                              (1) The thermal viscous fan drive/fan blade assem-
+   (1) Drill a 3.18 mm (1/8 in.) diameter hole in the      bly is attached (threaded) to water pump hub shaft.
+top center of the fan shroud.                              Remove fan blade/viscous fan drive assembly from
+   (2) Obtain a dial thermometer with an 8 inch stem       water pump by turning mounting nut counterclock-
+(or equivalent). It should have a range of -18° - 105°C    wise as viewed from front. Threads on viscous fan
+(-4°- 220° F). Insert thermometer through the hole in      drive are RIGHT HAND. Using a suitable fan
+the shroud. Be sure that there is adequate clearance       wrench loosen the fan drive (Fig. 17).
+from the fan blades.                                          (2) Remove accessory drive belt (Refer to 7 -
+   (3) Connect a tachometer and an engine ignition         COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+timing light (timing light is to be used as a strobe       REMOVAL).
+light).                                                       (3) Some models with certain engines may require
+   (4) Block the air flow through the radiator. Secure     the removal of the fan shroud to remove the viscous
+a sheet of plastic in front of the radiator (or air con-   fan drive. The fan shroud and fan blade/viscous fan
+ditioner condenser). Use tape at the top to secure the     drive should be removed from the vehicle as one
+plastic and be sure that the air flow is blocked.          assembly.
+   (5) Be sure that the air conditioner (if equipped) is      (4) After removing fan blade/viscous fan drive
+turned off.                                                assembly, do not place thermal viscous fan drive in
+                                                           horizontal position. If stored horizontally, silicone
+WARNING: USE EXTREME CAUTION WHEN THE
+                                                           fluid in viscous fan drive could drain into its bearing
+ENGINE IS OPERATING. DO NOT STAND IN A
+                                                           assembly and contaminate lubricant.
+DIRECT LINE WITH THE FAN. DO NOT PUT YOUR
+HANDS NEAR THE PULLEYS, BELTS OR FAN. DO
+NOT WEAR LOOSE CLOTHING.
+
+   (6) Start the engine and operate at 2400 rpm.
+Within ten minutes the air temperature (indicated on
+the dial thermometer) should be up to 88° C (190° F).
+Fan drive engagement should have started to occur
+at between 74° - 85° C (165° - 185° F). Engagement
+is distinguishable by a definite increase in fan flow
+noise (roaring). The timing light also will indicate an
+increase in the speed of the fan.
+   (7) When the air temperature reaches 88° C (190°
+F), remove the plastic sheet. Fan drive disengage-
+ment should have started to occur at between 57° -
+82° C (135° - 180° F). A definite decrease of fan flow
+noise (roaring) should be noticed. If not, replace the
+defective viscous fan drive unit.
+
+CAUTION: Engines equipped with serpentine drive
+belts have reverse rotating fans and viscous fan                 Fig. 17 Fan and Fan Drive - 4.0L Engine
+drives. They are marked with the word REVERSE to
+                                                           1 - FAN AND FAN DRIVE
+designate their usage. Installation of the wrong fan       2 - WATER PUMP PULLEY
+or viscous fan drive can result in engine overheat-
+ing.                                                       INSTALLATION
+                                                             (1) Assemble fan blade to viscous fan drive.
+CAUTION: If the viscous fan drive is replaced              Tighten mounting bolts to 27 N·m (20 ft. lbs.) torque.
+because of mechanical damage, the cooling fan                (2) Thread the fan and fan drive onto the water
+blades should also be inspected. Inspect for fatigue       pump pulley.
+

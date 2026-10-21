@@ -1,0 +1,59 @@
+3 - 26    FRONT AXLE - 181FBI                                                                                   TJ
+FRONT AXLE - 181FBI (Continued)
+  (20) Push and hold differential case to ring gear         (35) Push and hold ring gear downward while not
+side of the housing and record dial indicator reading     allowing the pinion gear to rotate. Dial indicator
+(Fig. 22).                                                reading should be between 0.12 mm - 0.20 mm (0.005
+                                                          in. - 0.008 in.). If backlash is not within specifications
+                                                          transfer the necessary amount of shim thickness
+                                                          from one side of the housing to the other (Fig. 24).
+                                                            (36) Verify differential case and ring gear runout
+                                                          by measuring ring to pinion gear backlash at eight
+                                                          locations around the ring gear. Readings should not
+                                                          vary more than 0.05 mm (0.002 in.). If readings vary
+                                                          more than specified, the ring gear or the differential
+                                                          case is defective.
+                                                            After the proper backlash is achieved, perform
+                                                          Gear Contact Pattern procedure.
+
+
+
+
+  Fig. 22 DIFFERENTIAL CASE RING GEAR SIDE
+1 - READ DIAL INDICATOR
+2 - FORCE DIFFERENTIAL CASE TO RING GEAR SIDE
+3 - PINION GEAR
+4 - DIFFERENTIAL HOUSING
+5 - DIFFERENTIAL CASE
+
+  (21) Subtract 0.05 mm (0.002 in.) from the dial
+indicator reading to compensate for backlash between
+ring and pinion gears. This total is the thickness
+shim required to achieve proper backlash.
+  (22) Subtract the backlash shim thickness from
+the total preload shim thickness. The remainder is          Fig. 23 RING GEAR BACKLASH MEASUREMENT
+the shim thickness required on the pinion side of the     1 - DIAL INDICATOR
+housing.
+  (23) Rotate dial indicator out of the way on pilot
+stud.
+  (24) Remove differential case and dummy bearings
+from the housing.
+  (25) Install the selected shims onto the differential
+case hubs.
+  (26) Install side bearings and cups on differential
+case.
+  (27) Install spreader W-129-B and adaters from
+Adapter Set 6987, onto housing. Spread the housing
+to receive differential case.
+  (28) Install differential case into the housing.
+  (29) Remove spreader from the housing.
+  (30) Install bearing caps and tighten bolts to 61
+N·m (45 ft. lbs.).
+  (31) Rotate the differential case several times to
+seat the side bearings.
+  (32) Position the indicator plunger against a ring
+gear tooth (Fig. 23).
+  (33) Push and hold ring gear upward while not
+allowing the pinion gear to rotate.
+  (34) Zero dial indicator face to pointer.
+                                                                         Fig. 24 BACKLASH SHIM
+

@@ -1,0 +1,60 @@
+8J - 30    INSTRUMENT CLUSTER                                                                                 TJ
+FUEL GAUGE (Continued)
+tank. The PCM then sends the proper fuel level mes-       illuminated regardless of the ignition switch position.
+sages to the instrument cluster. For further diagnosis    The bulb only illuminates when it is provided a path
+of the fuel gauge or the instrument cluster circuitry     to ground by the instrument cluster transistor. The
+that controls the gauge, (Refer to 8 - ELECTRICAL/        instrument cluster will turn on the high beam indi-
+INSTRUMENT CLUSTER - DIAGNOSIS AND                        cator for the following reasons:
+TESTING). For proper diagnosis of the fuel tank              • Beam Select Switch Input - Each time the
+sending unit, the PCM, the PCI data bus, or the elec-     cluster detects battery current on the beam select
+tronic message inputs to the instrument cluster that      switch sense circuit (beam select switch closed = high
+control the fuel gauge, a DRBIIIt scan tool is            beams selected or optical horn feature activated) the
+required. Refer to the appropriate diagnostic infor-      high beam indicator will be illuminated solid. This
+mation.                                                   input can occur when the headlamp high beams are
+                                                          selected or when the optical horn feature is activated.
+                                                          The indicator remains illuminated until the beam
+HIGH BEAM INDICATOR                                       select switch sense input to the cluster is an open cir-
+                                                          cuit (beam select switch open = high beams not
+DESCRIPTION                                               selected and optical horn feature not activated), or
+                                                          until the exterior lighting is turned off, whichever
+                                                          occurs first.
+                                                             • Exterior Lamps-On Optical Warning - Each
+            Fig. 16 High Beam Indicator
+                                                          time the cluster detects battery current on the head-
+  A high beam indicator is standard equipment on          lamp switch output circuit (park or head lamp switch
+all instrument clusters (Fig. 16). The high beam indi-    closed = exterior lighting is On), ground on the driver
+cator is located near the upper edge of the instru-       door ajar switch sense circuit (driver door ajar switch
+ment cluster, between the tachometer and the              closed = driver door is open), and the fused ignition
+speedometer. The high beam indicator consists of a        switch output (run-start) input is an open circuit
+stencil-like cutout of the International Control and      (ignition switch is in a position other than On or
+Display Symbol icon for “High Beam” in the opaque         Start), the high beam indicator will be flashed on
+layer of the instrument cluster overlay. The dark         and off repeatedly. The indicator will continue to
+outer layer of the overlay prevents the indicator from    flash until the exterior lighting is turned Off, until
+being clearly visible when it is not illuminated. A       the driver door is closed, or until the ignition switch
+blue lens behind the cutout in the opaque layer of        is turned to the On or Start positions, whichever
+the overlay causes the icon to appear in blue through     occurs first.
+the translucent outer layer of the overlay when the          • Actuator Test - Each time the cluster is put
+indicator is illuminated from behind by a replaceable     through the actuator test, the high beam indicator
+incandescent bulb and bulb holder unit, which is          will be turned on, then off again during the bulb
+located on the instrument cluster electronic circuit      check portion of the test to confirm the functionality
+board. The high beam indicator is serviced as a unit      of the bulb and the cluster control circuitry.
+with the instrument cluster.                                 The instrument cluster continually monitors the
+                                                          headlamp beam select switch and circuitry integral
+OPERATION                                                 to the left multi-function switch, the driver door ajar
+  The high beam indicator gives an indication to the      switch, and the ignition switch and turns the high
+vehicle operator whenever the headlamp high beams         beam indicator on or off accordingly. For further
+are illuminated, or when the exterior lamps are inad-     diagnosis of the high beam indicator or the instru-
+vertently left On. This indicator is controlled by a      ment cluster circuitry that controls the indicator,
+hard wired input to the cluster from the headlamp         (Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-
+beam select switch circuitry of the left multi-function   TER - DIAGNOSIS AND TESTING). The left multi-
+switch, and by the instrument cluster circuit board       function switch, driver door ajar switch, and ignition
+based upon cluster programming based upon hard            switch inputs to the instrument cluster can be diag-
+wired inputs from the head/park/fog lamp switch cir-      nosed using conventional diagnostic tools and meth-
+cuitry of the left multi-function switch, from the        ods.
+driver door ajar switch, and from the ignition switch.
+The high beam indicator bulb is completely controlled     DIAGNOSIS AND TESTING - HIGH BEAM
+by the instrument cluster logic circuit, and that logic   INDICATOR
+will allow this indicator to operate whenever the           The diagnosis found here addresses an inoperative
+instrument cluster receives a battery current input       high beam indicator condition. Before beginning this
+on the fused B(+) circuit. Therefore, the bulb can be     test, confirm the functionality of the high beam indi-
+

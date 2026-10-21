@@ -1,0 +1,53 @@
+9 - 96    ENGINE 4.0L                                                                                        TJ
+
+
+VALVE SPRINGS
+DESCRIPTION
+  The valve springs (Fig. 26) are made of high
+strength silicon chrome spring steel. The springs are
+common for both intake and exhaust valves.
+
+
+
+
+                                                                       Fig. 27 Valve Spring Tester
+                                                          1 - TORQUE WRENCH
+                                                          2 - VALVE SPRING TESTER
+
+                                                             Each valve spring is held in place by a retainer
+                                                          and a set of conical valve locks. The locks can be
+                                                          removed only by compressing the valve spring.
+                                                             (1) Remove the engine cylinder head cover (Refer
+                                                          to 9 - ENGINE/CYLINDER HEAD/CYLINDER
+                                                          HEAD COVER(S) - REMOVAL).
+                                                             (2) Remove cap screws, bridge and pivot assem-
+                                                          blies and rocker arms (Refer to 9 - ENGINE/CYLIN-
+                                                          DER HEAD/ROCKER ARM / ADJUSTER ASSY -
+Fig. 26 VALVE AND KEEPER CONFIGURATION 4.0L               REMOVAL) for access to each valve spring to be
+1 - VALVE LOCKS (3–BEAD)                                  removed.
+2 - RETAINER                                                 (3) Remove push rods. Retain the push rods,
+3 - VALVE STEM OIL SEAL
+4 - INTAKE VALVE                                          bridges, pivots and rocker arms in the same
+5 - EXHAUST VALVE                                         order and position as removed.
+6 - VALVE SPRING                                             (4) Inspect the springs and retainer for cracks and
+                                                          possible signs of weakening.
+STANDARD PROCEDURE - VALVE SPRING                            (5) Remove the spark plug(s) adjacent to the cylin-
+TENSION TEST                                              der(s) below the valve springs to be removed.
+   Clean all carbon deposits from the combustion             (6) Connect an air hose to the adapter and apply
+chambers, valve ports, valve stems, valve stem            air pressure slowly. Maintain at least 621 kPa (90
+guides and head.                                          psi) of air pressure in the cylinder to hold the valves
+   Use a universal Valve Spring Tester and a torque       against their seats. For vehicles equipped with an air
+wrench to test each valve spring for the specified ten-   conditioner, use a flexible air adaptor when servicing
+sion value (Fig. 27).                                     the No.1 cylinder.
+   Replace valve springs that are not within specifica-      (7) Tap the retainer or tip with a rawhide hammer
+tions.                                                    to loosen the lock from the retainer. Use Valve Spring
+                                                          Compressor Tool MD-998772A to compress the spring
+REMOVAL                                                   and remove the locks (Fig. 28).
+                                                             (8) Remove valve spring and retainer (Fig. 28).
+NOTE: This procedure can be done with the engine             (9) Remove valve stem oil seals (Fig. 28). Note the
+cylinder head installed on the block.                     valve seals are different for intake and exhaust
+                                                          valves. The top of each seal is marked either INT
+  Inspect the valve stems, especially the grooves. An     (intake/black in color) or EXH (exhaust/brown in
+Arkansas smooth stone should be used to remove            color). DO NOT mix the seals.
+nicks and high spots.
+

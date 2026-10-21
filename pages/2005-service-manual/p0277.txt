@@ -1,0 +1,57 @@
+TJ                                                                                              COOLING           7-3
+COOLING (Continued)
+  • Idle with A/C off when temperature gauge is at        RECENT SERVICE OR ACCIDENT REPAIR:
+end of normal range.                                        Determine if any recent service has been per-
+  • Increasing engine speed for more air flow is rec-     formed on vehicle that may effect cooling system.
+ommended.                                                 This may be:
+                                                            • Engine adjustments (incorrect timing)
+TRAILER TOWING:                                             • Slipping engine accessory drive belt(s)
+  Consult Trailer Towing section of owners manual.          • Brakes (possibly dragging)
+Do not exceed limits.                                       • Changed parts. Incorrect water pump or pump
+                                                          rotating in wrong direction due to belt not correctly
+AIR CONDITIONING; ADD-ON OR AFTER MARKET:                 routed
+  A maximum cooling package should have been                • Reconditioned radiator or cooling system refill-
+ordered with vehicle if add-on or after market A/C is     ing (possibly under filled or air trapped in system).
+installed. If not, maximum cooling system compo-
+nents should be installed for model involved per          NOTE: If investigation reveals none of the previous
+manufacturer’s specifications.                            items as a cause for an engine overheating com-
+                                                          plaint, refer to COOLING SYSTEM DIAGNOSIS
+                                                          CHART BELOW.
+
+                                                            These charts are to be used as a quick-reference
+                                                          only. Refer to COOLING SYSTEM DIAGNOSIS
+                                                          CHART
+
+                                COOLING SYSTEM DIAGNOSIS CHART
+
+            CONDITION                       POSSIBLE CAUSES                             CORRECTION
+
+TEMPERATURE GAUGE READS              1. Has a Diagnostic Trouble Code        1. (Refer to 25 - EMISSIONS
+LOW                                  (DTC) been set indicating a stuck       CONTROL - DESCRIPTION) for
+                                     open thermostat?                        On-Board Diagnostics and DTC
+                                                                             information. Replace thermostat if
+                                                                             necessary.
+
+                                     2. Is the temperature sending unit      2. Check the temperature sensor
+                                     connected?                              connector. (Refer to 8 - ELECTRICAL/
+                                                                             INSTRUMENT CLUSTER -
+                                                                             SCHEMATIC - ELECTRICAL) Repair
+                                                                             connector if necessary.
+                                     3. Is the temperature gauge operating   3. Check gauge operation. (Refer to 8
+                                     OK?                                     - ELECTRICAL/INSTRUMENT
+                                                                             CLUSTER/ENGINE TEMPERATURE
+                                                                             GAUGE - DESCRIPTION). Repair as
+                                                                             necessary.
+                                     4. Coolant level low in cold ambient    4. Check coolant level in the coolant
+                                     temperatures accompanied with poor      reserve/overflow tank or degas bottle
+                                     heater performance.                     and the radiator. Inspect system for
+                                                                             leaks. Repair leaks as necessary.
+                                                                             Refer to the Coolant section of the
+                                                                             manual text for WARNINGS and
+                                                                             CAUTIONS associated with removing
+                                                                             the radiator cap.
+                                     5. Improper operation of internal       5. Inspect heater and repair as
+                                     heater doors or heater controls.        necessary. (Refer to 24 - HEATING &
+                                                                             AIR CONDITIONING - DIAGNOSIS
+                                                                             AND TESTING) for procedures.
+

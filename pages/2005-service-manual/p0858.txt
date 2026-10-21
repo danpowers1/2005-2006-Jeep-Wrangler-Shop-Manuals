@@ -1,0 +1,49 @@
+8W - 91 - 2                         8W-91 CONNECTOR/GROUND/SPLICE LOCATION                            TJ
+CONNECTOR/GROUND/SPLICE LOCATION (Continued)
+
+Connector Name/Number          Color        Location                                 Fig.
+C103                           BK           Rear of Engine Compartment               10, 12, 17, 18
+C104                           BK           Rear of Engine Compartment               17, 18
+C109 (A/T)                     LT-GY        Rear of Engine Compartment               10, 12, 17, 18
+C170 (LHD)                     WT           Left Kick Panel                          24
+C170 (RHD)                     WT           Right Kick Panel                         27
+C180                           BK           Below Evap/Purge Solenoid                N/S
+C181                           BK           Left Rear of Engine Head                 4
+C182                           BK           Left Rear of Engine Head                 4
+C203 (LHD)                     GN           Left Kick Panel                          26
+C203 (RHD)                     GN           Right Kick Panel                         29
+C205                           LT GN        Left Kick Panel                          25, 27
+C300 (LHD)                     GY           Left Kick Panel                          22, 24, 38
+C300 (RHD                      GY           Right Kick Panel                         23, 27
+C301 (LHD)                     YL           Left Kick Panel                          22, 38
+C301 (RHD)                     YL           Right Kick Panel, see LHD Similar        23
+C324 (Speaker Pod)             WT/BK        Right Side of Sport Bar                  N/S
+C325 (Speaker Pod)             WT/BK        Left Side of Sport Bar                   38, 39
+C326 (Hard Top)                BK           Left Rear Quarter Panel                  38, 39
+C329 (Export)                  BK           Left Rear of Rear Bumper                 41
+Camshaft Position Sensor       BK           Right Side of Engine                     7
+(4.0L)
+Camshaft Position Sensor       BK           Right Front Corner of Engine Head,       N/S
+(2.4L)                                      behind Air Cleaner
+Center High Mounted Stop       BK           Near Right Rear Lamp Assembly            41, 42
+Lamp
+Cigar Lighter/Power Outlet     RD           Rear of Cigar Lighter                    26, 28
+Circuit Breaker                GY           Near Day Time Running Lamp Module        19, 21
+Clockspring - C1               NAT          Rear of Clockspring                      30
+Clockspring - C2               YL           Rear of Clockspring                      30
+Clutch Pedal Position Switch   BK           Top of Clutch Pedal Bracket              21, 22
+(M/T)
+Coil Capacitor (2.4L)                       Rear Engine                              4, 17
+Coil Capacitor (4.0L)          BK           Right Rear of Engine Head                7
+Compass/Temperature Mirror     BK           At Top Center of Windshield              N/S
+Controller Anti-Lock Brake     BK           Rear Left Side of Dash Panel             12, 14
+Crankshaft Position Sensor     BK           At Rear of Intake Manifold               7
+(4.0L)
+Crankshaft Position Sensor     BK           Left Bellhousing                         4
+(2.4L)
+Data Link Connector            BK           Bottom Driver Side of Instrument Panel   24, 27
+Daytime Running Lamp           BK           Left Side of Engine Compartment          10
+Module (Except Export)
+Driver Airbag Squib            YL           Under Horn Pad                           31
+Driver Door Ajar Switch        NAT          At 9A9 Pillar                            22, 23
+

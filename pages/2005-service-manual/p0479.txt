@@ -1,0 +1,62 @@
+TJ                                                                    LAMPS/LIGHTING - EXTERIOR             8L - 9
+CENTER HIGH MOUNTED STOP LAMP (Continued)
+                                                            The combination flasher cannot be repaired or
+                                                          adjusted and, if faulty or damaged, it must be
+                                                          replaced.
+
+                                                          OPERATION
+                                                             Constant battery voltage is supplied to the flasher
+                                                          so that it can perform the hazard warning function,
+                                                          and ignition switched battery voltage is supplied for
+                                                          the turn signal function. The Integrated Circuit (IC)
+                                                          within the combination flasher contains the logic that
+                                                          controls the flasher operation and the flash rate. The
+                                                          IC receives sense ground inputs from the multi-func-
+                                                          tion switch for the hazard flasher, right turn signal,
+                                                          and left turn signal. A special design feature of the
+                                                          combination flasher allows it to 9sense9 that a turn
+                 Fig. 4 CHMSL Lamp                        signal circuit or bulb is not operating, and provide
+1 - SOCKET                                                the driver an indication of the condition by flashing
+2 - CHMSL LENS
+3 - LAMP
+                                                          the remaining bulbs in the affected circuit at a
+                                                          higher rate.
+                                                             Because of the active elements within the combina-
+COMBINATION FLASHER                                       tion flasher, it cannot be tested with conventional
+                                                          automotive electrical test equipment. If the combina-
+DESCRIPTION                                               tion flasher is believed to be faulty, test the turn sig-
+                                                          nal and hazard warning system prior to replacement.
+                                                          Refer to (Refer to 8 - ELECTRICAL/LAMPS/LIGHT-
+                                                          ING - EXTERIOR - DIAGNOSIS AND TESTING).
+
+                                                          REMOVAL
+                                                          WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                          BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+                                                          ATTEMPTING ANY STEERING WHEEL, STEERING
+                                                          COLUMN, OR INSTRUMENT PANEL COMPONENT
+                                                          DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+                                                          LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+                                                          THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                          TEM CAPACITOR TO DISCHARGE BEFORE PER-
+                                                          FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+             Fig. 5 Combination Flasher                   IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+                                                          SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+1 - COMBINATION FLASHER
+2 - LEFT MULTI-FUNCTION SWITCH                            CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                          BAG DEPLOYMENT AND POSSIBLE PERSONAL
+   The combination flasher is located to the back of      INJURY.
+the left multi-function switch housing on the top of
+the steering column, where it is concealed beneath          (1) Disconnect and isolate the battery negative
+the upper steering column shroud (Fig. 5). The com-       cable.
+bination flasher is a smart relay that functions as         (2) Remove the steering column cover from the
+both the turn signal system and the hazard warning        instrument panel. (Refer to 23 - BODY/INSTRU-
+system flasher. The combination flasher contains          MENT PANEL/STEERING COLUMN OPENING
+active electronic Integrated Circuitry (IC) elements.     COVER - REMOVAL).
+This flasher is designed to handle the current flow         (3) Remove the screws that secure the lower steer-
+requirements of the factory-installed lighting. If sup-   ing column shroud to the upper shroud (Fig. 6).
+plemental lighting is added to the turn signal lamp         (4) Move the tilt steering column to the fully low-
+circuits, such as when towing a trailer with lights,      ered position and leave the tilt release lever in the
+the combination flasher will automatically try to         released position.
+compensate to keep the flash rate the same.                 (5) Remove the upper shroud from the steering col-
+                                                          umn.
+

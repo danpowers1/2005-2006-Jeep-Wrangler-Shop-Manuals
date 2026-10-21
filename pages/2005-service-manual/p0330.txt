@@ -1,0 +1,59 @@
+8B - 2    CHIME/BUZZER                                                                                       TJ
+CHIME WARNING SYSTEM (Continued)
+wired inputs from the driver door ajar switch and the         • Low Fuel Warning - The instrument cluster
+ignition switch as well as an engine speed message         chime tone generator will generate one chime tone
+input received from the PCM over the PCI data bus          when the low fuel indicator is illuminated by the
+indicate that the driver door is opened with the igni-     instrument cluster. The instrument cluster uses a
+tion switch in the On position and the engine is not       percent tank full message input received from the
+running. The chimes will continue to sound for a           PCM over the PCI data bus indicating that there is
+duration of about twenty minutes, until the driver         less than about one-eighth tank of fuel remaining to
+door is closed, until the ignition switch is turned to     illuminate the low fuel indicator. This chime feature
+the Off position, or until the engine speed message        will only occur once in an ignition cycle.
+indicates the engine is running, whichever occurs             • Low Oil Pressure Warning - The instrument
+first.                                                     cluster chime tone generator will generate repetitive
+   • Engine Coolant Temperature High Warning               chimes at a fast rate when the check gauges indica-
+- The instrument cluster chime tone generator will         tor is illuminated for a low oil pressure condition.
+generate a single chime tone when the check gauges         The instrument cluster uses engine speed and oil
+indicator is illuminated for a high or critical engine     pressure message inputs received from the PCM over
+coolant temperature condition. The instrument clus-        the PCI data bus indicating that the engine is run-
+ter uses engine coolant temperature message inputs         ning at greater than 300 rpm and that the oil pres-
+received from the PCM over the PCI data bus to illu-       sure is low to illuminate the check gauges indicator.
+minate the check gauges indicator for a coolant tem-       The chimes will continue to sound for five seconds,
+perature high condition. This chime feature will only      until the engine oil pressure message indicates that
+occur once in an ignition cycle.                           the oil pressure is not low, or until the engine speed
+   • Fasten Seat Belt Warning - The instrument             message indicates that the engine is running at less
+cluster chime tone generator will generate repetitive      than 300 rpm, whichever occurs first. This chime
+chimes at a slow rate each time the ignition switch is     tone will only occur once in an ignition cycle.
+turned to the On or Start positions to announce that          • Overspeed Warning - The instrument cluster
+the hard wired inputs from the seat belt switch and        chime tone generator will generate repetitive chimes
+the ignition switch indicate that the driver side front    at a slow rate to announce that a vehicle speed mes-
+seat belt is not fastened. The chimes will continue to     sage input received from the PCM over the PCI data
+sound for a duration of about six seconds, until the       bus indicates that the vehicle speed is above 120
+driver side front seat belt is fastened, or until the      kilometers-per-hour (75 miles-per-hour). The chimes
+ignition switch is turned to the Off position, which-      will continue to sound until the vehicle speed mes-
+ever occurs first.                                         sage indicates that the vehicle speed is below 120
+   • Head/Park Lights-On Warning - The instru-             kilometers-per-hour (75 miles-per-hour). This feature
+ment cluster chime tone generator will generate            is only enabled on an instrument cluster that has
+repetitive chimes at a slow rate to announce that the      been programmed with a Middle East Gulf Coast
+hard wired inputs from the driver door ajar switch,        Country (GCC) country code.
+the ignition switch, and the exterior lighting circuitry      • Park Brake Reminder - The instrument clus-
+of the left multi-function switch indicate that the        ter chime tone generator will generate ten repetitive
+exterior lamps are turned On with the driver door          chimes at a slow rate to announce that the hard
+opened and the ignition switch in the Off position.        wired input from the park brake switch and a vehicle
+The chimes will continue to sound for about three          speed message input received from the PCM over the
+minutes or until the exterior lamps are turned Off,        PCI data bus indicates that the park brake is applied
+the driver door is closed, or the ignition switch is       and the vehicle is moving. This chime feature will
+turned to the On position, whichever occurs first.         repeat each time the input conditions are met.
+   • Key-In-Ignition Warning - The instrument                 • Passenger Door Ajar Warning - The instru-
+cluster chime tone generator will generate repetitive      ment cluster chime tone generator will generate
+chimes at a slow rate to announce that the hard            three sets of two chimes at a slow rate to announce
+wired inputs from the driver door ajar switch, the         that the hard wired inputs from the passenger door
+ignition switch, and the key-in ignition circuitry of      ajar switch and the ignition switch as well as an
+the ignition switch indicate that the key is in the        engine speed message input received from the PCM
+ignition lock cylinder with the driver door opened         over the PCI data bus indicate that the passenger
+and the ignition switch in the Off position. The           door is opened with the ignition switch in the On
+chimes will continue to sound until the key is             position and the engine is not running. This chime
+removed from the ignition lock cylinder, the driver        feature will repeat each time the input conditions are
+door is closed, or the ignition switch is turned to the    met.
+On position, whichever occurs first.
+

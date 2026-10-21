@@ -1,0 +1,49 @@
+TJ                                                                             IGNITION CONTROL       8I - 11
+CAMSHAFT POSITION SENSOR - 4.0L (Continued)
+
+
+
+
+          Fig. 19 4.0L CMP LOCATION (’05)                    Fig. 20 4.0L CMP FACTORY ALIGNMENT PIN
+1 - OIL PUMP DRIVE ASSEMBLY                               1 - OIL PUMP DRIVE HOUSING
+2 - CMP                                                   2 - FACTORY ALIGNMENT PIN
+3 - CMP ELECTRICAL CONNECTOR
+4 - HOUSING HOLD DOWN BOLT
+5 - HOUSING
+6 - PLASTIC COVER
+7 - COVER SCREWS (2)
+
+OIL PUMP DRIVE AND CMP SENSOR - 4.0L
+   (1) Clean oil pump drive mounting hole area of
+engine block.
+   (2) Install new oil pump drive-to-engine block gas-
+ket.
+   (3) If installing a new oil pump drive assembly, it
+is supplied with a temporary alignment pin (2) (Fig.
+20) to prevent the target wheel from rotating. Do not
+remove this pin until oil pump drive assembly (1) has
+been installed.
+   (4) If installing/returning a used oil pump drive
+assembly back to the engine, temporarily install a
+small screwdriver (1) (Fig. 21) or similar tool through
+target wheel access hole (2) and then through mating
+hole in housing (3).
+   (5) Install oil pump drive into engine while align-      Fig. 21 4.0L CMP TARGET WHEEL ALIGNMENT
+ing into slot on oil pump. Rotate oil pump drive hous-    1 - SMALL SCREWDRIVER
+ing back to its original 4 o’clock position as viewed     2 - TARGET WHEEL ALIGNMENT HOLE
+from right side of engine. Install hold-down clamp        3 - HOUSING ALIGNMENT HOLE
+and bolt. Tighten bolt.
+                                                             (c) Hold a finger over the open spark plug hole.
+   (6) If engine crankshaft or camshaft has been
+                                                           Rotate engine at vibration dampener bolt until
+rotated, such as during engine tear-down, CMP sen-
+                                                           compression (pressure) is felt.
+sor relationship must be reestablished.
+                                                             (d) Slowly continue to rotate engine. Do this
+     (a) Remove ignition coil rail assembly. Refer to
+                                                           until timing index mark (1) (Fig. 22) on vibration
+   Ignition Coil Removal/Installation.
+                                                           damper pulley aligns with top dead center (TDC)
+     (b) Remove cylinder number 1 spark plug.
+                                                           mark (0 degree) on timing degree scale. Always
+

@@ -1,0 +1,38 @@
+14 - 22    FUEL INJECTION                                                       TJ
+
+
+FUEL INJECTION
+DESCRIPTION
+  The Powertrain Control Module (PCM) operates the
+fuel injection system. Refer to Powertrain Control Mod-
+ule in Electronic Control Modules for information.
+
+SPECIFICATIONS
+
+TORQUE - FUEL INJECTION
+
+      DESCRIPTION                       N-m               Ft. Lbs.   In. Lbs.
+ Accelerator Pedal Bracket                                   -
+                                         8.5                           75
+      Mounting Nuts
+     Engine Coolant                      11                  -         96
+   Temperature Sensor -
+        2.4L/4.0L
+   IAC Motor-To-Throttle                  7                  -
+                                                                       60
+   Body Bolts - 2.4L/4.0L
+ Intake Manifold Air Temp.               28                 20          -
+       Sensor - 4.0L
+   MAP Sensor Mounting                    3                  -         25
+    Screws - 2.4L/4.0L
+     Oxygen Sensor -                     30                 22          -
+        2.4L/4.0L
+  PCM Mounting Screws                     4                  -         35
+  Throttle Body Mounting                 11                  -         100
+     Bolts - 2.4L/4.0L
+  Throttle Position Sensor                7                  -         60
+    Mounting Screws -
+          2.4L/4.0L
+   Vehicle Speed Sensor                  2.2                 -         20
+       Mounting Bolt
+

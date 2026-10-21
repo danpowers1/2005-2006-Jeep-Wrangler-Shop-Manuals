@@ -1,0 +1,61 @@
+8R - 16    FRONT WIPERS/WASHERS                                                                           TJ
+FRONT WIPER MODULE (Continued)
+                                                         wiper motor features an integral transmission, an
+                                                         internal park switch, and an internal automatic
+                                                         resetting circuit breaker.
+                                                           • Pivots - The two front wiper pivots are secured
+                                                         to the ends of the wiper module bracket. A crank arm
+                                                         extends from the lower end of each pivot shaft. The
+                                                         driver side pivot crank arm has a single ball stud
+                                                         secured to it, while the passenger side crank arm has
+                                                         two ball studs. The upper end of each pivot shaft
+                                                         where the wiper arms will be fastened each has an
+                                                         externally serrated drum-like driver secured to it.
+                                                           The front wiper module for this model is serviced
+                                                         only as a complete unit. If any linkage component or
+                                                         the mounting bracket of the module is faulty or dam-
+                                                         aged, the entire front wiper module unit must be
+                                                         replaced. The front wiper motor and boot are avail-
+                                                         able for service replacement as a unit only.
+
+                                                         OPERATION
+                                                            The front wiper module operation is controlled by
+                                                         the battery current inputs received by the wiper
+                                                         motor through the right multi-function switch on the
+             Fig. 17 Front Wiper Module                  steering column. The wiper motor is connected to the
+1 - SCREW (3)                                            vehicle electrical system through a dedicated take
+2 - MODULE BRACKET
+3 - WIRE HARNESS CONNECTOR
+                                                         out and wire harness connector of the body wire har-
+4 - WIPER MOTOR                                          ness. The wiper motor speed is controlled by current
+                                                         flow to either the low speed or the high speed set of
+   • Bracket - The front wiper module bracket con-       brushes. The park switch is a single pole, single
+sists of a long tubular steel main member that has a     throw, momentary switch within the wiper motor
+stamped pivot bracket formation near each end            that is mechanically actuated by the wiper motor
+where the two wiper pivots are secured. A stamped        transmission components. The park switch alter-
+steel mounting plate for the wiper motor is secured      nately closes the wiper park switch sense circuit to
+with welds near the center of the main member. The       ground or to battery current, depending upon the
+bracket includes metal-sleeved rubber isolators at       position of the wipers on the glass. This feature
+each of the three bracket mounting points.               allows the motor to complete its current wipe cycle
+   • Crank Arm - The front wiper motor crank arm         after the wiper system has been turned Off, and to
+is a stamped steel unit with a slotted hole on the       park the wiper blades in the lowest portion of the
+driven end that is secured to the wiper motor output     wipe pattern. The automatic resetting circuit breaker
+shaft with a nut, and has a ball stud secured to the     protects the motor from overloads. The wiper motor
+drive end.                                               crank arm, the two wiper linkage members, and the
+   • Linkage - The two front wiper linkage members       two wiper pivots mechanically convert the rotary out-
+are each constructed of stamped steel. A connecting      put of the wiper motor to the back and forth wiping
+link with a plastic socket-type bushing in each end is   motion of the wiper arms and blades on the glass.
+fit over the pivot ball studs to join the two pivots.
+The wiper drive link has a plastic socket-type bush-     REMOVAL
+ing on each end. One end of the drive link is snap-fit     (1) Remove the front wiper arms from the wiper
+over a second ball stud on the passenger side pivot      pivots. (Refer to 8 - ELECTRICAL/FRONT WIPERS/
+crank arm, while the other end is snap-fit over the      WASHERS/FRONT WIPER ARM - REMOVAL).
+ball stud on the wiper motor crank arm.                    (2) Unlatch, open and support the hood.
+   • Motor - The front wiper motor is secured with         (3) Disconnect and isolate the battery negative
+three screws to the motor mounting plate near the        cable.
+center of the wiper module bracket and is protected        (4) Remove the cowl plenum cover/grille panel
+by a rubber boot. The wiper motor output shaft           from over the cowl plenum. (Refer to 23 - BODY/EX-
+passes through a hole in the module bracket, where a     TERIOR/COWL          GRILLE   AND      SCREEN    -
+nut secures the wiper motor crank arm to the motor       REMOVAL).
+output shaft. The two-speed permanent magnet
+

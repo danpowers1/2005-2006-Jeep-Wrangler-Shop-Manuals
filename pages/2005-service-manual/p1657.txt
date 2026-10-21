@@ -1,0 +1,59 @@
+TJ                                                                            EMISSIONS CONTROL            25 - 5
+EMISSIONS CONTROL (Continued)
+good trips to turn the MIL OFF. In this case, it          an associated limp in will take two trips to illumi-
+depends on what type of DTC is set to know what a         nate the MIL.
+“Trip” is.                                                  Refer to the Diagnostic Trouble Codes Description
+  For the Fuel Monitor or Mis-Fire Monitor (contin-       Charts in this section and the appropriate Power-
+uous monitor), the vehicle must be operated in the        train Diagnostic Procedure Manual for diagnostic
+“Similar Condition Window” for a specified amount of      procedures.
+time to be considered a Good Trip.
+  If a Non-Contiuous OBDII Monitor fails twice in a       DESCRIPTION - NON-MONITORED CIRCUITS
+row and turns ON the MIL, re-running that monitor           The PCM does not monitor the following circuits,
+which previously failed, on the next start-up and         systems and conditions that could have malfunctions
+passing the monitor, is considered to be a Good Trip.     causing driveability problems. The PCM might not
+These will include the following:                         store diagnostic trouble codes for these conditions.
+  • Oxygen Sensor                                         However, problems with these systems may cause the
+  • Catalyst Monitor                                      PCM to store diagnostic trouble codes for other sys-
+  • Purge Flow Monitor                                    tems or components. For example, a fuel pressure
+  • Leak Detection Pump Monitor (if equipped)             problem will not register a fault directly, but could
+  • EGR Monitor (if equipped)                             cause a rich/lean condition or misfire. This could
+  • Oxygen Sensor Heater Monitor                          cause the PCM to store an oxygen sensor or misfire
+  If any other Emission DTC is set (not an OBDII          diagnostic trouble code
+Monitor), a Good Trip is considered to be when the
+Oxygen Sensor Monitor and Catalyst Monitor have           FUEL PRESSURE
+been completed; or 2 Minutes of engine run time if          The fuel pressure regulator controls fuel system
+the Oxygen Sensor Monitor or Catalyst Monitor have        pressure. The PCM cannot detect a clogged fuel
+been stopped from running.                                pump inlet filter, clogged in-line fuel filter, or a
+  It can take up to 2 Failures in a row to turn on the    pinched fuel supply or return line. However, these
+MIL. After the MIL is ON, it takes 3 Good Trips to        could result in a rich or lean condition causing the
+turn the MIL OFF. After the MIL is OFF, the PCM           PCM to store an oxygen sensor or fuel system diag-
+will self-erase the DTC after 40 Warm-up cycles. A        nostic trouble code.
+Warm-up cycle is counted when the ECT (Engine
+Coolant Temperature Sensor) has crossed 160°F and         SECONDARY IGNITION CIRCUIT
+has risen by at least 40°F since the engine has been        The PCM cannot detect an inoperative ignition coil,
+started.                                                  fouled or worn spark plugs, ignition cross firing, or
+                                                          open spark plug cables.
+DESCRIPTION - COMPONENT MONITORS
+   There are several components that will affect vehi-    CYLINDER COMPRESSION
+cle emissions if they malfunction. If one of these com-     The PCM cannot detect uneven, low, or high engine
+ponents malfunctions the Malfunction Indicator            cylinder compression.
+Lamp (MIL) will illuminate.
+   Some of the component monitors are checking for        EXHAUST SYSTEM
+proper operation of the part. Electrically operated         The PCM cannot detect a plugged, restricted or
+components now have input (rationality) and output        leaking exhaust system, although it may set a fuel
+(functionality) checks. Previously, a component like      system fault.
+the Throttle Position sensor (TPS) was checked by
+the PCM for an open or shorted circuit. If one of         FUEL INJECTOR MECHANICAL MALFUNCTIONS
+these conditions occurred, a DTC was set. Now there          The PCM cannot determine if a fuel injector is
+is a check to ensure that the component is working.       clogged, the needle is sticking or if the wrong injector
+This is done by watching for a TPS indication of a        is installed. However, these could result in a rich or
+greater or lesser throttle opening than MAP and           lean condition causing the PCM to store a diagnostic
+engine rpm indicate. In the case of the TPS, if engine    trouble code for either misfire, an oxygen sensor, or
+vacuum is high and engine rpm is 1600 or greater          the fuel system.
+and the TPS indicates a large throttle opening, a
+DTC will be set. The same applies to low vacuum if        EXCESSIVE OIL CONSUMPTION
+the TPS indicates a small throttle opening.                 Although the PCM monitors engine exhaust oxygen
+   All open/short circuit checks or any component that    content when the system is in closed loop, it cannot
+has an associated limp in will set a fault after 1 trip   determine excessive oil consumption.
+with the malfunction present. Components without
+

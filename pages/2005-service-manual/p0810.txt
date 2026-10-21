@@ -1,0 +1,50 @@
+8W - 80 - 10   8W-80 CONNECTOR PIN-OUTS                    TJ
+
+
+                C104 (RHD) - BLACK (HEADLAMP AND DASH
+                                  SIDE)
+                 CAV                    CIRCUIT
+                  1      A209 18RD
+                  2      F26 16PK/OR
+                  3      A109 18OR/RD
+                  4      K334 18BR
+                  5      -
+                  6      T750 14YL/GY
+                  7      G93 20VT/LB
+                  8      N4 20DB/WT
+                  9      L1 20WT/LG
+                 10      F102 20PK/DB
+
+
+
+
+                       C104 (RHD) - BLACK (ENGINE SIDE)
+                 CAV                    CIRCUIT
+                  1      A209 18RD
+                  2      F26 16PK/OR
+                  3      A109 18OR/RD
+                  4      K334 18BR
+                  5      -
+                  6      T750 14YL/GY
+                  7      G93 20VT/LB
+                  8      N4 20DB/WT
+                  9      L1 20WT/LG
+                 10      F102 20PK/DB
+
+
+
+
+                C109 (A/T) - LT. GRAY (HEADLAMP AND DASH
+                                    SIDE)
+                 CAV                    CIRCUIT
+                  1      -
+                  2      T515 20YL/DB
+                  3      T16 18YL/OR
+                  4      D15 20WT/DG
+                  5      D16 20WT/OR
+                  6      -
+                  7      T56 20DG/LB
+                  8      -
+                  9      T6 20DG
+                 10      -
+

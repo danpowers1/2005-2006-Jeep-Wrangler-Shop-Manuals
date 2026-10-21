@@ -1,0 +1,60 @@
+24 - 70    PLUMBING                                                                                           TJ
+A/C CONDENSER (Continued)
+  (3) Align the radiator mounting brackets to the            The A/C discharge line on models equipped with
+grille panel and install the six bolts that secure the     the 2.4L engine include a fitting for the A/C pressure
+radiator to the grille panel. Tighten the bolts to 8       transducer. For more information refer to 24 - HEAT-
+N·m (72 in. lbs.).                                         ING & AIR CONDITIONING/CONTROLS/A/C
+  (4) Raise and support the vehicle.                       PRESSURE TRANSDUCER - DESCRIPTION.
+  (5) Position the lower condenser/radiator air seal         The A/C discharge line on models equipped with
+out of the way and install the two bolts that secure       the 4.0L engine include a fitting for the A/C high
+the lower condenser mounting bracket to the bottom         pressure switch. For more information refer to 24 -
+of the grille panel. Tighten the bolts to 5 N·m (44 in.    HEATING & AIR CONDITIONING/CONTROLS/A/C
+lbs.).                                                     HIGH PRESSURE SWITCH - DESCRIPTION.
+  (6) Lower the vehicle.
+  (7) Remove the tape or plugs from the discharge          CAUTION: Use only seals specified for the vehicle.
+and liquid line fittings and the condenser ports.          Failure to use the correct seals will cause the refrig-
+  (8) Lubricate new rubber O-ring seals with clean         erant system connections to leak.
+refrigerant oil and install them onto the discharge
+and liquid line fittings. Use only the specified O-rings      The A/C discharge line has no serviceable parts
+as they are made of a special material for the R-134a      except for the O-ring seals and high-side service port
+system. Use only refrigerant oil of the type recom-        valve and it’s protective cap.
+mended for the A/C compressor in the vehicle.                 If the A/C discharge line is found to be leaking or
+  (9) Install the discharge and liquid lines onto the      is damaged, it must be replaced.
+condenser tapping block.
+  (10) Install the nuts that secures the discharge         REMOVAL
+and liquid lines to the condenser tapping block.
+Tighten the nuts to 12 N·m (105 in. lbs.).
+                                                           2.4L ENGINE
+  (11) If equipped, install the upper condenser/radia-
+tor air seal.                                              WARNING: Refer to the applicable warnings and
+  (12) Install the radiator cooling fan and fan shroud     cautions for this system before performing the fol-
+(Refer to 7 - COOLING/ENGINE/FAN DRIVE VIS-                lowing operation (Refer to 24 - HEATING & AIR
+COUS CLUTCH - INSTALLATION).                               CONDITIONING/PLUMBING - WARNINGS) and (Refer
+  (13) Connect the upper radiator hose to the radia-       to 24 - HEATING & AIR CONDITIONING/PLUMBING -
+tor and install the hose clamp (Refer to 7 - COOL-         CAUTIONS). Failure to follow the warnings and cau-
+ING - OPERATION - HOSE CLAMPS).                            tions could result in possible personal injury or
+  (14) Install the coolant recovery container (Refer to    death.
+7 - COOLING/ENGINE/COOLANT RECOVERY
+CONTAINER - INSTALLATION).                                    (1) Disconnect and isolate the negative battery
+  (15) Reconnect the battery negative cable.               cable.
+  (16) Fill the engine cooling system (Refer to 7 -           (2) Recover the refrigerant from the refrigerant
+COOLING - STANDARD PROCEDURE - COOLING                     system (Refer to 24 - HEATING & AIR CONDITION-
+SYSTEM REFILLING)                                          ING/PLUMBING - STANDARD PROCEDURE -
+  (17) Evacuate the refrigerant system (Refer to 24 -      REFRIGERANT SYSTEM RECOVERY).
+HEATING & AIR CONDITIONING/PLUMBING -                         (3) Disconnect the wire harness connector from the
+STANDARD PROCEDURE - REFRIGERANT SYS-                      A/C pressure transducer located on the A/C discharge
+TEM EVACUATE).                                             line (Fig. 10).
+  (18) Charge the refrigerant system (Refer to 24 -           (4) Remove the nut that secures the A/C discharge
+HEATING & AIR CONDITIONING/PLUMBING -                      line to the A/C compressor.
+STANDARD PROCEDURE - REFRIGERANT SYS-                         (5) Disconnect the A/C discharge line from the A/C
+TEM CHARGE).                                               compressor and remove and discard the O-ring seal.
+                                                              (6) Install plug in, or tape over the opened dis-
+                                                           charge line fitting and the compressor port.
+A/C DISCHARGE LINE                                            (7) Remove the nut that secures theA/C discharge
+                                                           line to the A/C condenser.
+DESCRIPTION                                                   (8) Disconnect the A/C discharge line from the A/C
+  The A/C discharge line is the refrigerant line that      condenser and remove discard the O-ring seal.
+carries refrigerant from the A/C compressor to the            (9) Install plug in, or tape over the opened dis-
+A/C condenser. The A/C discharge line includes the         charge line fitting and the condenser port.
+high-side service port.
+

@@ -1,0 +1,81 @@
+TJ                                                                                                                   HORN         8H - 1
+
+
+                                                               HORN
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                  page
+
+HORN SYSTEM                                                             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1     HORN SWITCH
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+HORN                                                                    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1      DIAGNOSIS AND TESTING - HORN SWITCH . . . 2
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    REMOVAL    .............................3
+ DIAGNOSIS AND TESTING - HORN . . . . . . . . . . 1                     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+ REMOVAL    .............................2
+
+HORN SYSTEM                                                            ing. The plunger is secured to the center of the dia-
+                                                                       phragm and extends into the center of the
+                                                                       electromagnet. The contact points control the current
+DESCRIPTION
+                                                                       flow through the electromagnet.
+   The horn system features one low-note horn unit.
+                                                                          When the horn is energized, electrical current
+The horn system uses a non-switched source of bat-
+                                                                       flows through the closed contact points to the electro-
+tery current so that the system will remain func-
+                                                                       magnet. The resulting electromagnetic field draws
+tional, regardless of the ignition switch position. The
+                                                                       the plunger and diaphragm toward it until that
+horn system includes the following components:
+                                                                       movement mechanically opens the contact points.
+   • Clockspring
+                                                                       When the contact points open, the electromagnetic
+   • Horn
+                                                                       field collapses allowing the plunger and diaphragm to
+   • Horn relay
+                                                                       return to their relaxed positions and closing the con-
+   • Horn switch
+                                                                       tact points again. This cycle continues repeating at a
+                                                                       very rapid rate producing the vibration and move-
+OPERATION                                                              ment of air that creates the sound that is directed
+  The horn system is activated by a horn switch con-                   through the horn outlet.
+cealed beneath the driver side airbag module trim
+cover in the center of the steering wheel. Depressing
+                                                                       DIAGNOSIS AND TESTING - HORN
+the center of the driver side airbag module trim cover
+                                                                          For complete circuit diagrams, refer to the appro-
+closes the horn switch. Closing the horn switch acti-
+                                                                       priate wiring information.
+vates the horn relay. The activated horn relay then
+                                                                          (1) Disconnect the wire harness connectors from
+switches the battery current needed to energize the
+                                                                       the horn connector receptacles. Measure the resis-
+horns.
+                                                                       tance between the ground circuit cavity of the horns
+                                                                       wire harness connectors and a good ground. There
+HORN                                                                   should be continuity. If OK, go to Step 2. If not OK,
+                                                                       repair the open ground circuit to ground as required.
+                                                                          (2) Check for battery voltage at the horn relay out-
+DESCRIPTION
+                                                                       put circuit cavity of the horns wire harness connec-
+  The horn is secured with a bracket to the left front
+                                                                       tors. There should be zero volts. If OK, go to Step 3.
+inner fender shield just ahead of the left front wheel
+                                                                       If not OK, repair the shorted horn relay output cir-
+house in the engine compartment.
+                                                                       cuit or replace the faulty horn relay as required.
+  The horn cannot be repaired or adjusted and, if
+                                                                          (3) Depress the horn switch. There should now be
+faulty or damaged, it must be replaced.
+                                                                       battery voltage at the horn relay output circuit cavity
+                                                                       of the horns wire harness connectors. If OK, replace
+OPERATION                                                              the faulty horns. If not OK, repair the open horn
+  Within the two halves of the molded plastic horn
+                                                                       relay output circuit to the horn relay as required.
+housing are a flexible diaphragm, a plunger, an elec-
+tromagnetic coil and a set of contact points. The dia-
+phragm is secured in suspension around its
+perimeter by the mating surfaces of the horn hous-
+

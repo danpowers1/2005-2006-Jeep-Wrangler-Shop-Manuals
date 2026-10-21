@@ -1,0 +1,55 @@
+TJ                                                               LAMPS/LIGHTING - EXTERIOR           8L - 21
+
+
+HEADLAMP LEVELING
+SWITCH
+
+REMOVAL
+HEADLAMP LEVELING SWITCH
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, REFER TO GROUP 8M - PASSIVE
+RESTRAINT SYSTEMS BEFORE ATTEMPTING ANY
+STEERING WHEEL, STEERING COLUMN, OR
+INSTRUMENT PANEL COMPONENT DIAGNOSIS OR
+SERVICE. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+INJURY.
+
+  (1) Disconnect the negative battery cable.
+  (2) Using a flat blade screwdriver or similar tool
+between the headlamp leveling switch and the steer-
+ing column cover (Fig. 22). Gently pry the headlamp        Fig. 23 Headlamp Leveling Switch Electrical
+leveling switch out of the steering column cover.                         Connector
+                                                       1 - I/P CENTER BEZEL
+                                                       2 - HEADLAMP LEVELING SWITCH ELECTRICAL CONNECTOR
+                                                       3 - STEERING COLUMN COVER
+                                                       4 - HEADLAMP LEVELING SWITCH
+
+
+                                                       INSTALLATION
+                                                         (1) Position the headlamp leveling switch in front
+                                                       of the steering column cover access hole and connect
+                                                       the switch electrical connector (Fig. 23).
+                                                         (2) Properly seat the headlamp leveling switch into
+                                                       the steering column cover.
+                                                         (3) Reconnect negative battery cable.
+
+
+                                                       HEADLAMP LEVELING MOTOR
+                                                       DIAGNOSIS AND TESTING - HEADLAMP
+                                                       LEVELING SYSTEM
+                                                         The following test is designed to diagnosis a faulty
+                                                       headlamp leveling system. Refer to Wiring Diagrams
+                                                       for a complete system schematic.
+
+         Fig. 22 Headlamp Leveling Switch              NOTE: Headlamps must be operating properly and
+                                                       the battery must be completely charged (12.4v)
+1 - HEADLAMP LEVELING SWITCH
+2 - I/P CENTER BEZEL                                   prior to testing. It may also be necessary to install
+3 - STEERING COLUMN COVER                              battery charger on the vehicles electrical system
+                                                       when performing this test. Refer to the Battery sec-
+   (3) Disconnect the headlamp leveling switch elec-   tion of the service manual for detailed information.
+trical connector (Fig. 23) and remove the headlamp
+leveling switch.
+

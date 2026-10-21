@@ -1,0 +1,59 @@
+8J - 34    INSTRUMENT CLUSTER                                                                                TJ
+ODOMETER (Continued)
+   • Odometer/Trip Odometer Display Toggling -           ter, above the engine coolant temperature gauge. The
+Actuating the trip odometer reset switch button          oil pressure gauge consists of a movable gauge needle
+momentarily with the VFD illuminated will toggle         or pointer controlled by the instrument cluster cir-
+the display between the odometer and trip odometer       cuitry and a fixed 90 degree scale on the cluster over-
+information. Each time the VFD is illuminated with       lay that reads left-to-right from “L” (or Low) to “H”
+the ignition switch in the On or Start positions, the    (or High). An International Control and Display Sym-
+display will automatically return to the last mode       bol icon for “Engine Oil” is located on the cluster
+previously selected (odometer or trip odometer).         overlay, in the center of the gauge directly above the
+   • Trip Odometer Reset - When the trip odome-          hub of the gauge needle (Fig. 20). The oil pressure
+ter reset switch button is pressed and held for longer   gauge graphics are white and blue against a black
+than about two seconds with the ignition switch in       field, making them clearly visible within the instru-
+the On or Start positions, trip odometer will be reset   ment cluster in daylight. When illuminated from
+to 0.0 kilometers (miles). The VFD must be display-      behind by the panel lamps dimmer controlled cluster
+ing the trip odometer information in order for the       illumination lighting with the exterior lamps turned
+trip odometer information to be reset.                   On, the white graphics appear white, and the blue
+   • Communication Error - If the cluster fails to       graphics appear blue. The orange gauge needle is
+receive a distance message during normal operation,      internally illuminated. Gauge illumination is pro-
+it will hold and display the last data received until    vided by replaceable incandescent bulb and bulb
+the ignition switch is turned to the Off position. If    holder units located on the instrument cluster elec-
+the cluster does not receive a distance message          tronic circuit board. The oil pressure gauge is ser-
+within one second after the ignition switch is turned    viced as a unit with the instrument cluster.
+to the On position, it will display the last distance
+message stored in the cluster memory. If the cluster     OPERATION
+is unable to display distance information due to an         The oil pressure gauge gives an indication to the
+error internal to the cluster, either “888888”will be    vehicle operator of the engine oil pressure. This
+displayed in the VFD or the VFD will be blank.           gauge is controlled by the instrument cluster circuit
+   • Actuator Test - Each time the cluster is put        board based upon cluster programming and elec-
+through the actuator test, the number “8” will be        tronic messages received by the cluster from the
+scrolled across the VFD from right-to-left, then the     Powertrain Control Module (PCM) over the Program-
+trip odometer decimal point “.” will be illuminated in   mable Communications Interface (PCI) data bus. The
+order to confirm the functionality of each of the VFD    oil pressure gauge is an air core magnetic unit that
+segments and the cluster control circuitry.              receives battery current on the instrument cluster
+   The PCM continually monitors the vehicle speed        electronic circuit board through the fused ignition
+pulse information received from the vehicle speed        switch output (run-start) circuit whenever the igni-
+sensor, then sends the proper distance messages to       tion switch is in the On or Start positions. The clus-
+the instrument cluster. For further diagnosis of the     ter is programmed to move the gauge needle back to
+odometer/trip odometer or the instrument cluster cir-    the low end of the scale after the ignition switch is
+cuitry that controls these functions, (Refer to 8 -      turned to the Off position. The instrument cluster
+ELECTRICAL/INSTRUMENT CLUSTER - DIAGNO-                  circuitry controls the gauge needle position and pro-
+SIS AND TESTING). For proper diagnosis of the            vides the following features:
+vehicle speed sensor, the PCM, the PCI data bus, or         • Engine Oil Pressure Message - Each time the
+the electronic message inputs to the instrument clus-    cluster receives a message from the PCM indicating
+ter that control the odometer/trip odometer, a           the engine oil pressure of a 2.4L engine is above
+DRBIIIt scan tool is required. Refer to the appropri-    about 0.2 kg/cm2 (3 psi), or of any engine other than
+ate diagnostic information.                              a 2.4L is above about 0.4 kg/cm2 (6 psi), the cluster
+                                                         moves the gauge needle to the middle of the normal
+                                                         range on the gauge scale to represent the engine oil
+OIL PRESSURE GAUGE                                       pressure. The gauge needle will continue to be posi-
+                                                         tioned at the middle of normal range on the gauge
+DESCRIPTION                                              scale until the cluster receives a message from the
+                                                         PCM that indicates the engine oil pressure is low, or
+                                                         until the ignition switch is turned to the Off position,
+               Fig. 20 Engine Oil Icon                   whichever occurs first.
+  An oil pressure gauge is standard equipment on all        • Engine Oil Pressure Low Message - Each
+instrument clusters. The oil pressure gauge is located   time the cluster receives a message from the PCM
+in the upper right quadrant of the instrument clus-      indicating the engine oil pressure of a 2.4L engine is
+

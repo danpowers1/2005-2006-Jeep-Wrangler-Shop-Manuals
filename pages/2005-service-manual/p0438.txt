@@ -1,0 +1,60 @@
+8J - 12    INSTRUMENT CLUSTER                                                                                 TJ
+INSTRUMENT CLUSTER (Continued)
+ACTUATOR TEST                                               (3) While still holding the odometer/trip odometer
+                                                          switch button depressed, turn the ignition switch to
+WARNING: TO AVOID PERSONAL INJURY OR                      the On position, but do not start the engine.
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                   (4) Release the odometer/trip odometer switch but-
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                   ton.
+TEM BEFORE ATTEMPTING ANY STEERING                          (5) The instrument cluster will automatically
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                begin the actuator test sequence, as follows:
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                         (a) The cluster will generate a single chime tone
+VICE. DISCONNECT AND ISOLATE THE BATTERY                    to confirm the functionality of the chime tone gen-
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                      erator and the chime control circuitry.
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                       (b) The cluster will scroll the number “8” across
+CHARGE BEFORE PERFORMING FURTHER DIAG-                      the odometer/trip odometer VFD to confirm the
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                 functionality of all VFD segments and their control
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                       circuitry.
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                        (c) The cluster will illuminate the decimal point
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                    in the odometer/trip odometer VFD to confirm the
+BAG DEPLOYMENT.                                             functionality of this VFD segment and its control
+                                                            circuitry.
+   The instrument cluster actuator test will put the           (d) The cluster will display the EMIC software
+instrument cluster into its self-diagnostic mode. In        level in the odometer/trip odometer VFD (example:
+this mode the instrument cluster can perform a self-        “SOF 8.9”).
+diagnostic test that will confirm that the instrument          (e) The cluster will display the last six digits
+cluster circuitry, the gauges, the PCI data bus mes-        (sequence number) of the Vehicle Identification
+sage controlled indicators, and the chime tone gener-       Number (VIN) in the odometer/trip odometer VFD.
+ator are capable of operating as designed. During the          (f) If any faults have been set by the cluster, the
+actuator test the instrument cluster circuitry will         cluster will display the fault information in the
+sound the chime tone generator, position each of the        odometer/trip odometer VFD INSTRUMENT
+gauge needles at various calibration points, illumi-        CLUSTER FAILURE MESSAGE. If no faults have
+nate all of the segments in the Vacuum-Fluorescent          been set, the cluster will scroll “no FAULtS” across
+Display (VFD) unit, turn all of the PCI data bus mes-       the odometer/trip odometer VFD.
+sage-controlled indicators on and off again, and dis-          (g) The cluster will turn on, then off again each
+play messages in the VFD for certain faults that            of the following indicators, one at a time, in
+have been set. It is suggested that a note pad and          sequence to confirm the functionality of the indica-
+pencil be used to write down any fault information          tor and the cluster control circuitry:
+that is displayed during the test for reference.            − High Beam
+   Successful completion of the actuator test will con-     − Brake
+firm that the instrument cluster is operational. How-       − Seatbelt
+ever, there may still be a problem with the PCI data        − MIL
+bus, the Powertrain Control Module (PCM), the Air-          − Check Gauges
+bag Control Module (ACM), the Sentry Key Immobi-            − Low Fuel
+lizer Module (SKIM), or the inputs to one of these          − 4WD
+electronic control modules. Use a DRBIIIt scan tool         − SKIS
+to diagnose these components. Refer to the appropri-        − Cruise
+ate diagnostic information.                                    (h) The cluster will sweep the needles for each of
+   If an individual gauge does not respond properly,        the following gauges, one at a time, to several cal-
+or does not respond at all during the actuator test,        ibration points in sequence to confirm the function-
+the instrument cluster should be removed. However,          ality of the gauge and the cluster control circuitry:
+check that the four screws securing the inoperative         − Speedometer
+gauge to the instrument cluster electronic circuit          − Fuel
+board are properly tightened before considering             − Temperature
+instrument cluster replacement. If the gauge mount-         − Tachometer
+ing screws check OK, replace the faulty instrument          − Voltage
+cluster.                                                    − Oil Pressure
+   (1) Begin the test with the ignition switch in the
+Off position.
+   (2) Depress the odometer/trip odometer switch but-
+ton.
+

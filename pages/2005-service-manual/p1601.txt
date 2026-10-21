@@ -1,0 +1,51 @@
+TJ                                                                                        CONTROLS        24 - 33
+MODE DOOR ACTUATORS (Continued)
+  (3) Connect the vacuum harness to the floor/de-
+frost door actuator.
+  (4) Install the knee blocker onto the instrument
+panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+KNEE BLOCKER - INSTALLATION).
+  (5) Reconnect the negative battery cable.
+
+PANEL DOOR ACTUATOR
+   (1) Using needle nose pliers, engage the actuator
+rod to the push-pin type retainer located on the panel
+door lever.
+   (2) Rotate and tilt the panel door actuator as
+required to install the actuator mount onto the
+HVAC housing mounting boss. Push the actuator
+onto the mount until it snaps into the locked posi-
+tion.
+   (3) Connect the vacuum harness to the panel door
+actuator.
+   (4) Install the floor distribution duct (Refer to 24 -
+HEATING & AIR CONDITIONING/DISTRIBUTION/                            Fig. 33 Recirculation Door Actuator
+FLOOR DISTRIBUTION DUCT - INSTALLATION).                    1 - RECIRCULATION DOOR ACTUATOR
+   (5) Install the airbag control module (Refer to 8 -      2 - VACUUM CONNECTOR RECEPTACLE
+ELECTRICAL/RESTRAINTS/AIRBAG                 CONTROL        3 - ACTUATOR ROD
+                                                            4 - ACTUATOR MOUNT
+MODULE - INSTALLATION).
+                                                            REMOVAL
+RECIRCULATION DOOR                                          WARNING: On vehicles equipped with airbags, dis-
+ACTUATOR                                                    able the airbag system before attempting any steer-
+                                                            ing wheel, steering column, or instrument panel
+DESCRIPTION                                                 component diagnosis or service. Disconnect and
+   When equipped with A/C, a vacuum operated recir-         isolate the battery negative (ground) cable, then
+culation door actuator is used to control the move-         wait two minutes for the airbag system capacitor to
+ment of the recirculation-air door within the HVAC          discharge before performing further diagnosis or
+housing (Fig. 33).                                          service. This is the only sure way to disable the air-
+   When vacuum is supplied by the A/C-heater control        bag system. Failure to take the proper precautions
+to the recirculation door actuator, the actuator link-      could result in accidental airbag deployment and
+age is pulled into the actuator, which moves the            possible personal injury or death.
+recirculation door lever and recirculation door to two
+Recirculation position. The recirculation door actua-
+tor is spring loaded, so when vacuum is released            NOTE: The recirculation-air door and actuator are
+from the actuator, the linkage moves the recircula-         used only on models equipped with A/C.
+tion-air door back to its static position (fresh air).
+   The recirculation door actuator can be accessed for
+service through the glove box opening in the instru-
+ment panel.
+   The recirculation door actuator cannot be adjusted
+or repaired and, if faulty or damaged, it must be
+replaced.
+

@@ -1,0 +1,88 @@
+TJ                                                                                                             STARTING          8F - 31
+
+
+                                                          STARTING
+
+                                                        TABLE OF CONTENTS
+                                                             page                                                                    page
+
+STARTING                                                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 31       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 31    STARTER MOTOR RELAY
+ DIAGNOSIS AND TESTING - STARTING                                       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+ INSPECTION - STARTING SYSTEM . . . . . . . . . 36                      DIAGNOSIS AND TESTING - STARTER RELAY . 40
+ SPECIFICATIONS                                                         REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+   STARTER . . . . . . . . . . . . . . . . . . . . . . . . . . . 37     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 41
+   TORQUE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+STARTER MOTOR
+ DIAGNOSIS AND TESTING - STARTER
+   MOTOR/SOLENOID . . . . . . . . . . . . . . . . . . . . 37
+
+STARTING                                                                 Certain starting system components are monitored
+                                                                       by the PCM and may produce a Diagnostic Trouble
+                                                                       Code (DTC).
+DESCRIPTION
+  The starting system consists of:
+  • Starter relay
+                                                                       OPERATION
+                                                                          The starting system components form two separate
+  • Starter motor (including an integral starter sole-
+                                                                       circuits. A high-amperage feed circuit that feeds the
+noid)
+                                                                       starter motor between 150 and 350 amperes (700
+  Other components to be considered as part of start-
+                                                                       amperes - diesel engine), and a low-amperage control
+ing system are:
+                                                                       circuit that operates on less than 20 amperes. The
+  • Battery
+                                                                       high-amperage feed circuit components include the
+  • Battery cables
+                                                                       battery, the battery cables, the contact disc portion of
+  • Ignition switch and key lock cylinder
+                                                                       the starter solenoid, and the starter motor. The low-
+  • Clutch pedal position switch (manual transmis-
+                                                                       amperage control circuit components include the igni-
+sion)
+                                                                       tion switch, the clutch pedal position switch (manual
+  • Park/neutral position switch (automatic trans-
+                                                                       transmission), the park/neutral position switch (auto-
+mission)
+                                                                       matic transmission), the starter relay, the electro-
+  • Wire harnesses and connections.
+                                                                       magnetic windings of the starter solenoid, and the
+  The Battery, Starting, and Charging systems oper-
+                                                                       connecting wire harness components.
+ate in conjunction with one another, and must be
+                                                                          If the vehicle is equipped with a manual transmis-
+tested as a complete system. For correct operation of
+                                                                       sion, it has a clutch pedal position switch installed in
+starting/charging systems, all components used in
+                                                                       series between the ignition switch and the coil bat-
+these 3 systems must perform within specifications.
+                                                                       tery terminal of the starter relay. This normally open
+When attempting to diagnose any of these systems, it
+                                                                       switch prevents the starter relay from being ener-
+is important that you keep their interdependency in
+                                                                       gized when the ignition switch is turned to the
+mind.
+                                                                       momentary Start position, unless the clutch pedal is
+  The diagnostic procedures used in each of these
+                                                                       depressed. This feature prevents starter motor oper-
+groups include the most basic conventional diagnostic
+                                                                       ation while the clutch disc and the flywheel are
+methods, to the more sophisticated On-Board Diag-
+                                                                       engaged. The starter relay coil ground terminal is
+nostics (OBD) built into the Powertrain Control Mod-
+                                                                       always grounded on vehicles with a manual trans-
+ule (PCM). Use of an induction-type milliampere
+                                                                       mission.
+ammeter, volt/ohmmeter, battery charger, carbon pile
+                                                                          If the vehicle is equipped with an automatic trans-
+rheostat (load tester), and 12-volt test lamp may be
+                                                                       mission, battery voltage is supplied through the low-
+required.
+                                                                       amperage control circuit to the coil battery terminal
+                                                                       of the starter relay when the ignition switch is
+                                                                       turned to the momentary Start position. The park/
+

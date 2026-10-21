@@ -1,0 +1,59 @@
+8J - 4    INSTRUMENT CLUSTER                                                                                 TJ
+INSTRUMENT CLUSTER (Continued)
+tory purposes in certain markets. While each EMIC           The EMIC modules for this model are serviced only
+may have provisions for indicators to support every       as complete units. The EMIC module cannot be
+available option, the configurable indicators will not    adjusted or repaired. If a gauge, an LED indicator, a
+be functional in a vehicle that does not have the         VFD unit, the electronic circuit board, the circuit
+equipment that an indicator supports. The EMIC            board hardware, the cluster overlay, or the EMIC
+includes provisions for the following indicators (Fig.    housing are damaged or faulty, the entire EMIC mod-
+3):                                                       ule must be replaced. The cluster lens, the cluster
+   • Airbag Indicator (with Airbag System only)           hood and mask unit, the cluster housing rear cover,
+   • Antilock Brake System (ABS) Indicator                the odometer/trip odometer switch button boot, and
+(with ABS brakes only)                                    the incandescent lamp bulbs with holders are avail-
+   • Brake Indicator                                      able for individual service replacement.
+   • Check Gauges Indicator
+   • Cruise Indicator (with Speed Control only)           OPERATION
+   • Fog Lamp Indicator (with Front or Rear                  The ElectroMechanical Instrument Cluster (EMIC)
+Fog Lamps only)                                           in this model also includes the hardware and soft-
+   • Four-Wheel Drive (4WD) Indicator                     ware necessary to serve as the electronic body control
+   • Front Lock Indicator (with Off-Road Pack-            module. The following information deals primarily
+age only)                                                 with the instrument cluster functions of this unit.
+   • High Beam Indicator                                  Additional details of the electronic body control func-
+   • Low Fuel Indicator                                   tions of this unit may be found within the service
+   • Malfunction Indicator Lamp (MIL)                     information for the system or component that the
+   • Rear Lock Indicator (with Off-Road Pack-             EMIC controls. For example: Additional details of the
+age only)                                                 audible warning functions of the EMIC are found
+   • Seatbelt Indicator                                   within the Chime/Buzzer service information.
+   • Sentry Key Immobilizer System (SKIS)                    The EMIC is designed to allow the vehicle operator
+Indicator (with SKIS only)                                to monitor the conditions of many of the vehicle com-
+   • Turn Signal (Right and Left) Indicators              ponents and operating systems. The gauges and indi-
+   The EMIC high beam indicator is illuminated by a       cators in the EMIC provide valuable information
+dedicated incandescent bulb. Each remaining indica-       about the various standard and optional powertrains,
+tor in the EMIC is illuminated by a dedicated LED         fuel and emissions systems, cooling systems, lighting
+that is soldered onto the EMIC electronic circuit         systems, safety systems, and many other convenience
+board. The LED units are not available for service        items. The EMIC is installed in the instrument panel
+replacement and, if damaged or faulty, the entire         so that all of these monitors can be easily viewed by
+EMIC must be replaced. Cluster illumination is            the vehicle operator when driving, while still allow-
+accomplished by dimmable incandescent back light-         ing relative ease of access for service. The micropro-
+ing, which illuminates the gauges for visibility when     cessor-based EMIC hardware and software uses
+the exterior lighting is turned on. Each of the incan-    various inputs to control the gauges and indicators
+descent bulbs is secured by an integral bulb holder to    visible on the face of the cluster. Some of these
+the electronic circuit board from the back of the clus-   inputs are hard wired, but most are in the form of
+ter housing.                                              electronic messages that are transmitted by other
+   Hard wired circuitry connects the EMIC to the          electronic modules over the Programmable Commuta-
+electrical system of the vehicle. These hard wired cir-   tions Interface (PCI) data bus network. (Refer to 8 -
+cuits are integral to several wire harnesses, which       ELECTRICAL/ELECTRONIC             CONTROL        MOD-
+are routed throughout the vehicle and retained by         ULES/COMMUNICATION - OPERATION).
+many different methods. These circuits may be con-           The EMIC microprocessor smooths the input data
+nected to each other, to the vehicle electrical system    using algorithms to provide gauge readings that are
+and to the EMIC through the use of a combination of       accurate, stable, and responsive to operating condi-
+soldered splices, splice block connectors, and many       tions. These algorithms are designed to provide
+different types of wire harness terminal connectors       gauge readings during normal operation that are con-
+and insulators. Refer to the appropriate wiring infor-    sistent with customer expectations. However, when
+mation. The wiring information includes wiring dia-       abnormal conditions exist, such as low/high battery
+grams, proper wire and connector repair procedures,       voltage, low oil pressure, or high coolant tempera-
+further details on wire harness routing and reten-        ture, the algorithm can drive the gauge pointer to an
+tion, as well as pin-out and location views for the       extreme position and the microprocessor can turn on
+various wire harness connectors, splices and grounds.     the Check Gauges indicator and/or sound a chime
+                                                          through the on-board tone generator to provide dis-
+

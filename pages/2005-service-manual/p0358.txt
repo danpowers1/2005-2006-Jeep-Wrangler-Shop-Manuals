@@ -1,0 +1,46 @@
+8F - 6    BATTERY SYSTEM                                                                                         TJ
+BATTERY SYSTEM (Continued)
+
+INSPECTION                                                   found on the original equipment battery label. Be
+  The following information details the recommended          certain that a replacement battery has the correct
+inspection procedures for the battery and related            Group Size number, as well as CCA, and RC or AH
+components. In addition to the maintenance sched-            ratings that equal or exceed the original equipment
+ules found in this service manual and the owner’s            specification for the vehicle being serviced. Battery
+manual, it is recommended that these procedures be           sizes and ratings are discussed in more detail below.
+performed any time the battery or related compo-               • Group Size - The outside dimensions and ter-
+nents must be removed for vehicle service.                   minal placement of the battery conform to standards
+  (1) Inspect the battery cable terminal clamps for          established by the Battery Council International
+damage. Replace any battery cable that has a dam-            (BCI). Each battery is assigned a BCI Group Size
+aged or deformed terminal clamp.                             number to help identify a correctly-sized replace-
+  (2) Inspect the battery tray and battery holddown          ment.
+hardware for damage. Replace any damaged parts.                • Cold Cranking Amperage - The Cold Crank-
+  (3) Slide the thermal guard off of the battery case.       ing Amperage (CCA) rating specifies how much cur-
+Inspect the battery case for cracks or other damage          rent (in amperes) the battery can deliver for thirty
+that could result in electrolyte leaks. Also, check the      seconds at -18° C (0° F). Terminal voltage must not
+battery terminal posts for looseness. Batteries with         fall below 7.2 volts during or after the thirty second
+damaged cases or loose terminal posts must be                discharge period. The CCA required is generally
+replaced.                                                    higher as engine displacement increases, depending
+  (4) Inspect the battery thermal guard for tears,           also upon the starter current draw requirements.
+cracks, deformation or other damage. Replace any               • Reserve Capacity - The Reserve Capacity (RC)
+battery thermal guard that has been damaged.                 rating specifies the time (in minutes) it takes for bat-
+  (5) Inspect the battery built-in test indicator sight      tery terminal voltage to fall below 10.5 volts, at a
+glass for an indication of the battery condition. If the     discharge rate of 25 amperes. RC is determined with
+battery is discharged, charge as required. Refer to          the battery fully-charged at 26.7° C (80° F). This rat-
+Standard Procedures for the proper battery built-in          ing estimates how long the battery might last after a
+indicator test procedures. Also refer to Standard Pro-       charging system failure, under minimum electrical
+cedures for the proper battery charging procedures.          load.
+                                                               • Ampere-Hours - The Ampere-Hours (AH) rat-
+                                                             ing specifies the current (in amperes) that a battery
+SPECIFICATIONS                                               can deliver steadily for twenty hours, with the volt-
+                                                             age in the battery not falling below 10.5 volts. This
+BATTERY SYSTEM SPECIFICATIONS                                rating is also sometimes identified as the twenty-
+  The battery Group Size number, the Cold Cranking           hour discharge rating.
+Amperage (CCA) rating, and the Reserve Capacity
+(RC) rating or Ampere-Hours (AH) rating can be
+
+                                          Battery Classifications and Ratings
+                        BCI Group Size       Cold Cranking       Reserve                               Load Test
+    Part Number                                                                 Ampere-Hours
+                         Classification       Amperage           Capacity                              Amperage
+    04609365AC                 34                 600          120 Minutes            66                  300
+

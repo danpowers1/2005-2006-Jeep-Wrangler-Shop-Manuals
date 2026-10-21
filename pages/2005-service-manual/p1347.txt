@@ -1,0 +1,61 @@
+TJ                                                                            TRANSFER CASE - NV241              21 - 203
+TRANSFER CASE - NV241 (Continued)
+
+             Condition                             Possible Cause                               Correction
+
+Transfer Case noisy in all operating    1) Insufficient or incorrect lubricant.   1) Drain and refill to edge of fill hole
+ranges.                                                                           with MoparT ATF +4, type 9602,
+                                                                                  Automatic Transmission fluid.
+
+Noisy in, or jumps out of, four wheel   1) Transfer case not completely           1) With the transmission in
+drive low range.                        engaged in 4L position.                   NEUTRAL, or the clutch depressed
+                                                                                  in the case of a manual
+                                                                                  transmission and the vehicle moving
+                                                                                  under 3-4 km/h (2-3 mph), shift the
+                                                                                  transfer case to NEUTRAL and then
+                                                                                  shift into the 4L position.
+
+                                        2) Shift linkage out of adjustment.       2) Adjust linkage.
+                                        3) Shift linkage loose or binding.        3) Tighten, lubricate, or repair
+                                                                                  linkage as necessary.
+                                        4) Range fork damaged, inserts            4) Disassemble unit and repair as
+                                        worn, or fork is binding on the shift     necessary.
+                                        rail.
+                                        5) Low range gear worn or                 5) Disassemble unit and repair as
+                                        damaged.                                  necessary.
+
+Lubricant leaking from output shaft     1) Transfer case overfilled.              1) Drain lubricant to the correct
+seal or vent.                                                                     level.
+
+                                        2) Vent closed or restricted.             2) Clear or replace vent as
+                                                                                  necessary.
+                                        3) Output shaft seals damaged or          3) Replace seal as necessary.
+                                        installed incorrectly.                    Check to ensure that another
+                                                                                  component, the propeller shaft slip
+                                                                                  yoke for example, is not causing
+                                                                                  damage to seal.
+
+Abnormal tire wear.                     1) Extended operation on hard, dry        1) Operate vehicle in the 2H
+                                        surfaces in the 4H position.              position on hard, dry surfaces.
+
+
+REMOVAL                                                         (10) Remove front and rear propeller shafts. (Refer
+  (1) Raise and support vehicle.                              to 3 - DIFFERENTIAL & DRIVELINE/PROPELLER
+  (2) Remove skid plate, if equipped. (Refer to 13 -          SHAFT/PROPELLER SHAFT - REMOVAL)
+FRAMES & BUMPERS/FRAME/TRANSFER CASE                            (11) Support transfer case with suitable jack.
+SKID PLATE - REMOVAL)                                         Secure transfer case to jack with safety chains.
+  (3) Position drain oil container under transfer               (12) Remove nuts attaching transfer case to trans-
+case.                                                         mission.
+  (4) Remove transfer case drain plug and drain                 (13) Move transfer case assembly rearward until
+lubricant into container.                                     free of transmission output shaft.
+  (5) Disconnect vent hose and vacuum harness at                (14) Lower jack and move transfer case from
+transfer case switch.                                         under vehicle.
+  (6) Disconnect shift rod from grommet in transfer
+case shift lever, or from floor shift arm whichever           DISASSEMBLY
+provides easy access. Use channel lock style pliers to          Position transfer case in a shallow drain pan.
+press rod out of lever grommet.                               Remove drain plug and drain any remaining lubri-
+  (7) Support transmission with jack stand.                   cant remaining in case.
+  (8) Remove rear crossmember.
+  (9) Mark front and rear propeller shafts for assem-
+bly reference.
+

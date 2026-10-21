@@ -1,0 +1,61 @@
+8W - 97 - 12                                 8W-97 POWER DISTRIBUTION                                        TJ
+POWER DISTRIBUTION CENTER (Continued)
+erator output take out onto the PDC B(+) terminal
+studs.
+   (4) Install and tighten the two nuts that secure
+the eyelet terminal of the battery positive cable take
+out and the engine wire harness generator output
+take out to the B(+) terminal studs. Tighten the nuts
+to 11.3 N·m (100 in. lbs.).
+   (5) Engage the tabs on the lower edge of the B(+)
+terminal stud cover in the slots on the back of the
+PDC housing, then engage the latch on the top of the
+cover with the latch receptacle on the PDC housing.
+   (6) Engage each of the retainers that secure the
+dash wire harness to the vehicle body and chassis
+components. Refer to Connector Locations in the
+index of this service manual for the location of more
+information on the dash wire harness retainer loca-
+tions.
+   (7) Install all of the fasteners that secure each of
+the dash wire harness ground eyelets to the vehicle
+body and chassis components. Refer to Connector
+Locations in the index of this service manual for the
+location of more information on the ground eyelet
+locations.                                                                Fig. 16 PDC Bracket
+   (8) Reconnect each of the dash wire harness con-       1 - SCREWS (3)
+                                                          2 - RIGHT FRONT FENDER
+nectors. Refer to Connector Locations in the index        3 - PDC BRACKET
+of this service manual for the location of more infor-
+mation on the dash wire harness connector locations.
+   (9) Reconnect the battery negative cable.
+                                                          POWER OUTLET
+                                                          DESCRIPTION
+POWER DISTRIBUTION                                           An instrument panel power outlet is standard fac-
+                                                          tory installed equipment on this model. The power
+CENTER SUPPORT BRACKET                                    outlet is installed in the instrument panel accessory
+                                                          switch bezel, which is located near the bottom of the
+REMOVAL                                                   center bezel area below the heater and air condition-
+  (1) Disconnect and isolate the battery negative         ing controls. The power outlet base is secured by a
+cable.                                                    snap fit within the instrument panel. A plastic pro-
+  (2) Remove the Power Distribution Center (PDC)          tective cap snaps into the power outlet base when the
+from the PDC bracket (Refer to 8 - ELECTRICAL/            power outlet is not being used, and hangs from the
+POWER DISTRIBUTION/POWER DISTRIBUTION                     power outlet base mount by an integral bail strap
+CENTER - REMOVAL).                                        while the power outlet is in use.
+  (3) Remove the three screws that secure the PDC            The power outlet receptacle unit and the accessory
+bracket to the right front inner fender (Fig. 16).        power outlet protective cap are available for service.
+  (4) Remove the PDC bracket from the right front         The power outlet receptacle cannot be repaired and,
+inner fender.                                             if faulty or damaged, it must be replaced.
+
+INSTALLATION                                              OPERATION
+  (1) Position the PDC bracket onto the right front          The power outlet base or receptacle shell is con-
+inner fender.                                             nected to ground, and an insulated contact in the
+  (2) Install and tighten the three screws that secure    bottom of the shell is connected to battery current.
+the PDC mounting bracket to the right front inner         The power outlet receives battery voltage from a fuse
+fender. Tighten the screws to 3.9 N·m (35 in. lbs.).      in the Power Distribution Center at all times.
+  (3) Install the PDC onto the PDC bracket (Refer to         While the power outlet is very similar to a cigar
+8 - ELECTRICAL/POWER DISTRIBUTION/POWER                   lighter base unit, it does not include the two small
+DISTRIBUTION CENTER - INSTALLATION).                      spring-clip retainers inside the bottom of the recepta-
+  (4) Reconnect the battery negative cable.               cle shell that are used to secure the cigar lighter
+                                                          heating element to the insulated contact.
+

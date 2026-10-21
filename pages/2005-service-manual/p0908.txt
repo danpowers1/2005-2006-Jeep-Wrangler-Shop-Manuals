@@ -1,0 +1,60 @@
+8W - 97 - 4                                  8W-97 POWER DISTRIBUTION                                       TJ
+FUSE BLOCK (Continued)
+  The fuseblock module is integral to the body wire
+harness. If any internal circuit or the fuseblock mod-
+ule housing is faulty or damaged, the entire fuse-
+block module and body harness unit must be
+replaced.
+
+OPERATION
+   All of the circuits entering and leaving the fuse-
+block module do so through the body wire harness.
+Internal connection of all of the fuseblock module cir-
+cuits is accomplished by an intricate combination of
+hard wiring and bus bars. Refer to Wiring Dia-
+grams for the location of complete fuseblock module
+circuit diagrams.
+
+REMOVAL
+  The fuseblock module is serviced as a unit with the           Fig. 4 Fuseblock Module Remove/Install
+body wire harness. If any internal circuit of the fuse-   1 - BODY WIRE HARNESS
+                                                          2 - BRACKET
+block module or if the fuseblock module housing is        3 - FUSEBLOCK MODULE
+faulty or damaged, the entire fuseblock module and        4 - SCREWS (2)
+the body wire harness unit must be replaced.
+  (1) Disconnect and isolate the battery negative         fuses from the faulty fuseblock module to the
+cable.                                                    proper cavities of the replacement fuseblock mod-
+  (2) Remove the instrument panel assembly from           ule. Refer to Fuse/Fuse Block in the index of this
+the dash panel (Refer to 23 - BODY/INSTRUMENT             service manual for the location of complete fuse-
+PANEL/INSTRUMENT            PANEL     ASSEMBLY        -   block module circuit diagrams and cavity assign-
+REMOVAL).                                                 ments.
+  (3) Disconnect each of the body wire harness con-         (1) Position the fuseblock module and the body
+nectors. Refer to Connector Locations in Wiring           wire harness onto the dash panel as a unit.
+for the location of the body wire harness connector         (2) Install and tighten the two screws that secure
+locations.                                                the fuseblock module to the bracket on the dash
+  (4) Remove all of the fasteners that secure each of     panel. Tighten the screws to 3.3 N·m (30 in. lbs.).
+the body wire harness ground eyelets to the vehicle         (3) Engage each of the retainers that secure the
+body and chassis components. Refer to Connector           body wire harness to the vehicle body and chassis
+Locations in Wiring for the location of the body wire     components. Refer to Connector Locations in Wir-
+harness ground locations.                                 ing for the location of the body wire harness retainer
+  (5) Disengage each of the retainers that secure the     locations.
+body wire harness to the vehicle body and chassis           (4) Install all of the fasteners that secure each of
+components. Refer to Connector Locations in Wir-          the body wire harness ground eyelets to the vehicle
+ing for the location of the body wire harness retainer    body and chassis components. Refer to Connector
+locations.                                                Locations in Wiring for the location of the body wire
+  (6) Remove the two screws that secure the fuse-         harness ground eyelet locations.
+block module to the bracket on the dash panel (Fig.         (5) Reconnect each of the body wire harness con-
+4).                                                       nectors. Refer to Connector Locations in Wiring
+  (7) Remove the fuseblock module and the body            for the location of the body wire harness connector
+wire harness from the dash panel as a unit.               locations.
+                                                            (6) Install the instrument panel assembly onto the
+INSTALLATION                                              dash panel (Refer to 23 - BODY/INSTRUMENT PAN-
+  The fuseblock module is serviced as a unit with the     EL/INSTRUMENT PANEL ASSEMBLY - INSTAL-
+body wire harness. If any internal circuit of the fuse-   LATION).
+block module or if the fuseblock module housing is          (7) Reconnect the battery negative cable.
+faulty or damaged, the entire fuseblock module and
+the body wire harness unit must be replaced.
+
+NOTE: If the fuseblock module is being replaced
+with a new unit, be certain to transfer each of the
+

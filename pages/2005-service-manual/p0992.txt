@@ -1,0 +1,57 @@
+9 - 72   ENGINE 4.0L                                                                                    TJ
+ENGINE 4.0L (Continued)
+
+          CONDITION                   POSSIBLE CAUSES                           CORRECTION
+
+ENGINE CRANKS BUT WILL NOT    1. No spark                            1. Check for spark. (Refer to 8 -
+START                                                                ELECTRICAL/IGNITION CONTROL
+                                                                     - SPECIFICATIONS), for correct
+                                                                     procedures.
+
+                              2. No fuel                             2. Perform fuel pressure test (Refer
+                                                                     to 14 - FUEL SYSTEM/FUEL
+                                                                     DELIVERY/FUEL PUMP -
+                                                                     DIAGNOSIS AND TESTING), and if
+                                                                     necessary, inspect fuel injector(s)
+                                                                     and driver circuits. (Refer to 14 -
+                                                                     FUEL SYSTEM/FUEL INJECTION/
+                                                                     FUEL INJECTOR - DIAGNOSIS
+                                                                     AND TESTING), for correct
+                                                                     procedures.
+                              3. Low or no engine compression        3. Perform cylinder compression
+                                                                     pressure test. (Refer to 9 - ENGINE
+                                                                     - DIAGNOSIS AND TESTING).
+
+ENGINE LOSS OF POWER          1. Worn or burned distributor rotor    1. Install new distributor rotor
+                              2. Worn camshaft position sensor       2. Remove and repair camshaft
+                              shaft                                  position sensor. (Refer to 8 -
+                                                                     ELECTRICAL/IGNITION CONTROL/
+                                                                     CAMSHAFT POSITION SENSOR -
+                                                                     REMOVAL).
+                              3. Worn or incorrect gapped spark      3. Clean plugs and set gap. (Refer
+                              plugs                                  to 8 - ELECTRICAL/IGNITION
+                                                                     CONTROL/SPARK PLUG -
+                                                                     CLEANING).
+                              4. Dirt or water in fuel system        4. Clean system and replace fuel
+                                                                     filter
+                              5. Faulty fuel pump                    5. Install new fuel pump
+                              6. Incorrect valve timing              6. Correct valve timing
+                              7. Blown cylinder head gasket          7. Install new cylinder head gasket
+                              8. Low compression                     8. Test cylinder compression. (Refer
+                                                                     to 9 - ENGINE - DIAGNOSIS AND
+                                                                     TESTING).
+                              9. Burned, warped, or pitted valves    9. Install/Reface valves as
+                                                                     necessary
+                              10. Plugged or restricted exhaust      10. Install new parts as necessary
+                              system
+                              11. Faulty ignition coil rail          11. Test and replace, as necessary.
+                                                                     (Refer to 8 - ELECTRICAL/
+                                                                     IGNITION CONTROL/COIL RAIL -
+                                                                     REMOVAL).
+
+ENGINE STALLS OR ROUGH IDLE   1. Carbon build-up on throttle plate   1. Remove throttle body and
+                                                                     de-carbon. (Refer to 14 - FUEL
+                                                                     SYSTEM/FUEL INJECTION/
+                                                                     THROTTLE BODY - REMOVAL) for
+                                                                     correct procedure.
+

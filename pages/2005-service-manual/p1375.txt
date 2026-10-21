@@ -1,0 +1,53 @@
+TJ                                                                         TRANSFER CASE - NV241            21 - 231
+FRONT OUTPUT SHAFT SEAL (Continued)
+  (3) Install yoke on front output shaft (Fig. 99).
+Install a new yoke nut onto the front output shaft.
+  (4) Using Spanner Wrench 6958 (Fig. 100), tighten
+the yoke nut to 176-271 N·m (130-200 ft. lbs.) torque.
+  (5) Install propeller shaft. (Refer to 3 - DIFFER-
+ENTIAL & DRIVELINE/PROPELLER SHAFT/PRO-
+PELLER SHAFT - INSTALLATION)
+
+
+
+
+                                                                       Fig. 100 Front Yoke Nut Installation
+                                                              1 - TRANSFER CASE
+                                                              2 - HOLDER 6958
+                                                              3 - FRONT YOKE
+
+                                                              the transfer case’s current operating mode. The sen-
+                                                              sor consists of a five position, resistive multiplexed
+                                                              circuit which returns a specific resistance value to
+           Fig. 99 Front Yoke Installation                    the Powertrain Control Module (PCM) for each trans-
+1 - TRANSFER CASE                                             fer case operating mode. The sensor is located on the
+2 - FRONT YOKE                                                top of the transfer case, just left of the transfer case
+                                                              centerline and rides against the sector plate rooster-
+POSITION SENSOR                                               comb. The PCM supplies 5VDC (+/- 0.5V) to the sen-
+                                                              sor and monitors the return voltage to determine the
+DESCRIPTION                                                   sector plate, and therefore the transfer case, position.
+  The transfer case position sensor is an electronic
+device whose output can be interpreted to indicate
+
+OPERATION
+                               OPERATING MODE VERSUS RESISTANCE
+
+        SENSOR POSITION                       OPERATING MODE                      SENSOR RESISTANCE (ohms)
+                    1                                    2H                                  1124-1243
+                    2                                    4H                                   650-719
+                    3                             NEUTRAL                                     389-431
+                    4                                    4L                                   199-221
+                    5                             NOT USED                                      57-64
+
+
+                                                                (2) Disengage the transfer case position sensor
+  During normal vehicle operation, the Powertrain             connector from the position sensor.
+Control Module (PCM) monitors the transfer case                 (3) Remove the position sensor from the transfer
+position sensor return voltage to determine the oper-         case.
+ating mode of the transfer case. Refer to the Operat-
+ing Mode Versus Resistance table for the correct              INSTALLATION
+resistance (1-6) (Fig. 101) for each position.                  (1) Inspect the o-ring seal on the transfer case
+                                                              position sensor. Replace the o-ring if necessary.
+REMOVAL
+  (1) Raise and support the vehicle.
+

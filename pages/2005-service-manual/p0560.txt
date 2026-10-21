@@ -1,0 +1,72 @@
+8Q - 4    VEHICLE THEFT SECURITY                                                                             TJ
+VEHICLE THEFT SECURITY (Continued)
+
+STANDARD PROCEDURE                                        the original SKIM. The PIN code must be used to
+                                                          enter the Secured Access Mode in the SKIM. This
+STANDARD PROCEDURE - SKIS                                 PIN number may be obtained from the vehicle owner,
+                                                          from the original vehicle invoice, or from the
+INITIALIZATION                                            DaimlerChrysler Customer Center. Refer to the
+  The Sentry Key Immobilizer System (SKIS) must           appropriate diagnostic information for the proper
+be initialized following a Sentry Key Immobilizer         Secured Access method programming procedures.
+Module (SKIM) replacement. SKIS initialization
+requires the use of a DRBIIIt scan tool. Initialization   CUSTOMER LEARN METHOD
+will also require that you have access to the unique        The Customer Learn feature is only available on
+four-digit PIN code that was assigned to the original     domestic vehicles, or those vehicles which have a
+SKIM. The PIN code must be used to enter the              U.S. country code designator. This programming
+Secured Access Mode in the SKIM. This PIN number          method also requires access to at least two valid Sen-
+may be obtained from the vehicle owner, from the          try Keys. If two valid Sentry Keys are not available,
+original vehicle invoice, or from the DaimlerChrysler     or if the vehicle does not have a U.S. country code
+Customer Center. (Refer to 8 - ELECTRICAL/ELEC-           designator, the Secured Access Method must be used
+TRONIC CONTROL MODULES - STANDARD PRO-                    to program new or additional valid keys to the SKIM.
+CEDURE - PCM/SKIM PROGRAMMING).                           The Customer Learn programming method proce-
+                                                          dures are as follows:
+NOTE: If a Powertrain Control Module (PCM) is
+                                                            (1) Obtain the blank Sentry Key(s) that are to be
+replaced on a vehicle equipped with the Sentry Key
+                                                          programmed as valid keys for the vehicle. Cut the
+Immobilizer System (SKIS), the unique Secret Key
+                                                          blank key(s) to match the ignition switch lock cylin-
+data must be transferred from the Sentry Key
+                                                          der mechanical key codes.
+Immobilizer Module (SKIM) to the new PCM using
+                                                            (2) Insert one of the two valid Sentry Keys into the
+the PCM replacement procedure. This procedure
+                                                          ignition switch and turn the ignition switch to the
+also requires the use of a DRBIIIT scan tool and the
+                                                          On position.
+unique four-digit PIN code to enter the Secured
+                                                            (3) After the ignition switch has been in the On
+Access Mode in the SKIM. Refer to the appropriate
+                                                          position for longer than three seconds, but no more
+diagnostic information for the proper PCM replace-
+                                                          than fifteen seconds, cycle the ignition switch back to
+ment procedures.
+                                                          the Off position. Replace the first valid Sentry Key in
+                                                          the ignition switch lock cylinder with the second
+STANDARD PROCEDURE - SENTRY KEY                           valid Sentry Key and turn the ignition switch back to
+                                                          the On position. The second valid Sentry Key must
+TRANSPONDER PROGRAMMING                                   be inserted in the lock cylinder within fifteen seconds
+   All Sentry Keys included with the vehicle are pre-     of removing the first valid key.
+programmed to work with the Sentry Key Immobi-              (4) About ten seconds after the completion of Step
+lizer System (SKIS) when it is shipped from the           3, the SKIS indicator in the instrument cluster will
+factory. The Sentry Key Immobilizer Module (SKIM)         start to flash and a single audible chime will sound
+can be programmed to recognize up to a total of eight     to indicate that the system has entered the Customer
+Sentry Keys. When programming a blank Sentry Key          Learn programming mode.
+transponder, the key must first be cut to match the         (5) Within sixty seconds of entering the Customer
+ignition switch lock cylinder in the vehicle for which    Learn programming mode, turn the ignition switch to
+it will be used. Once the additional or new key has       the Off position, replace the valid Sentry Key with a
+been cut, the SKIM must be programmed to recog-           blank Sentry Key transponder, and turn the ignition
+nize it as a valid key. There are two possible methods    switch back to the On position.
+to program the SKIM to recognize a new or addi-             (6) About ten seconds after the completion of Step
+tional valid key, the Secured Access Method and the       5, a single audible chime will sound and the SKIS
+Customer Learn Method. Following are the details of       indicator will stop flashing, stay on solid for three
+these two programming methods.                            seconds, then turn off to indicate that the blank Sen-
+                                                          try Key has been successfully programmed. The
+SECURED ACCESS METHOD
+                                                          SKIS will immediately exit the Customer Learn pro-
+  The Secured Access method applies to all vehicles.
+                                                          gramming mode and the vehicle may now be started
+This method requires the use of a DRBIIIt scan tool.      using the newly programmed valid Sentry Key.
+This method will also require that you have access to
+the unique four-digit PIN code that was assigned to
+

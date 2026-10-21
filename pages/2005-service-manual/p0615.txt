@@ -1,0 +1,34 @@
+TJ                          8W-01 WIRING DIAGRAM INFORMATION                                    8W - 01 - 9
+WIRING DIAGRAM INFORMATION (Continued)
+
+STANDARD PROCEDURE - TESTING OF                         STANDARD PROCEDURE - TESTING FOR
+VOLTAGE POTENTIAL                                       CONTINUITY
+  (1) Connect the ground lead of a voltmeter to a          (1) Remove the fuse for the circuit being checked
+known good ground (Fig. 7).                             or, disconnect the battery.
+  (2) Connect the other lead of the voltmeter to the       (2) Connect one lead of the ohmmeter to one side
+selected test point. The vehicle ignition may need to   of the circuit being tested (Fig. 8).
+be turned ON to check voltage. Refer to the appropri-      (3) Connect the other lead to the other end of the
+ate test procedure.                                     circuit being tested. Low or no resistance means good
+                                                        continuity.
+
+
+
+
+     Fig. 7 TESTING FOR VOLTAGE POTENTIAL
+                                                                 Fig. 8 TESTING FOR CONTINUITY
+                                                        1 - FUSE REMOVED FROM CIRCUIT
+
+
+                                                        STANDARD PROCEDURE - TESTING FOR A
+                                                        SHORT TO GROUND
+                                                          (1) Remove the fuse and disconnect all items
+                                                        involved with the fuse.
+                                                          (2) Connect a test light or a voltmeter across the
+                                                        terminals of the fuse.
+                                                          (3) Starting at the fuse block, wiggle the wiring
+                                                        harness about six to eight inches apart and watch
+                                                        the voltmeter/test lamp.
+                                                          (4) If the voltmeter registers voltage or the test
+                                                        lamp glows, there is a short to ground in that gen-
+                                                        eral area of the wiring harness.
+

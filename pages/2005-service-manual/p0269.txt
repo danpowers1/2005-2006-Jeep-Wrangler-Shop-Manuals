@@ -1,0 +1,49 @@
+TJ                                                                                         CLUTCH      6-7
+CLUTCH RELEASE BEARING (Continued)
+
+
+
+
+             Fig. 3 RELEASE BEARING                                      Fig. 4 FLYWHEEL
+1 - RETAINER SPRING                                     1 - CRANKSHAFT
+2 - PIVOT BALL STUD                                     2 - RING GEAR
+3 - CLUTCH HOUSING                                      3 - FLYWHEEL
+4 - RELEASE FORK
+5 - RELEASE BEARING
+
+release fork pivot surface. Lubricate with Mopar high
+temperature bearing grease or equivalent.
+  (2) Install new release bearing. Verify bearing is
+properly secured to release fork.
+  (3) Install transmission.
+
+
+FLYWHEEL
+DESCRIPTION
+STANDARD FLYWHEEL
+  The standard flywheel is used on the 4.0L engine.
+The flywheel (Fig. 4) is a heavy plate bolted to the
+rear of the crankshaft. The flywheel incorporates the
+ring gear to mesh with the starter. The rear face of
+the flywheel serves as the driving member to the
+clutch disc.
+
+DUAL MASS FLYWHEEL
+  The Dual Mass Flywheel is used on the 2.4L
+engine (Fig. 5). The flywheel incorporates the ring               Fig. 5 DUAL MASS FLYWHEEL
+gear to mesh with the starter. The primary flywheel     1 - LOCATING STUD
+side is bolted to the crankshaft. The secondary fly-    2 - BEARING
+wheel face serves as the driving member to the          3 - SECONDARY FLYWHEEL
+                                                        4 - DAMPER SPRING
+clutch disc. Internal springs between the flywheels     5 - RING GEAR
+are use to dampen energy.                               6 - PRIMARY FLYWHEEL
+                                                        7 - FRICTION DISC
+
+OPERATION                                               the cylinder firing pulses. The flywheel dampens
+  The flywheel serves to dampen the engine firing       these impulses by absorbing energy when the crank-
+pulses. The heavy weight of the flywheel relative to    shaft speeds and releasing the energy back into the
+the rotating mass of the engine components serves to    system when the crankshaft slows down.
+stabilize the flow of power to the remainder of the       On a Dual Mass Flywheel the additional secondary
+drivetrain. The crankshaft has the tendency to          mass coupled to the transmission lowers the natural
+attempt to speed up and slow down in response to        frequency of the transmission rotating elements. This
+

@@ -1,0 +1,62 @@
+8I - 4     IGNITION CONTROL                                                                                  TJ
+IGNITION CONTROL (Continued)
+
+SPECIFICATIONS - TORQUE - IGNITION SYSTEM
+
+         DESCRIPTION                     N·m                       Ft. Lbs.                    In. Lbs.
+ Camshaft Position Sensor                                             -
+                                          2                                                       15
+   Mounting Bolt – 4.0L
+ Camshaft Position Sensor                                             -
+                                          12                                                     106
+         – 2.4L
+ Ignition Coil Rail Mounting              29                          -                          250
+         Bolts – 4.0L
+   Ignition Coil Mounting                 11                          -                          105
+         Bolts – 2.4L
+ Oil Pump Drive Hold-down                 23                         17                           -
+        Bolt – 4.0L
+  Oil Pump Drive Housing                   -                          -                           -
+       Cover Screws
+   ** Spark Plugs - 2.4L                  15                         11                           -
+        4-Cylinder
+    Spark Plugs - 4.0L                    30                         22                           -
+        6-cylinder
+ ** Torque critical tapered
+ design. Do not exceed 15
+       ft. lbs. torque.
+
+
+AUTO SHUT DOWN RELAY                                       (PCM). The PCM operates the ASD relay by switch-
+                                                           ing its ground circuit on and off.
+                                                              The ASD relay will be shut–down, meaning the
+DESCRIPTION - PCM OUTPUT
+                                                           12–volt power supply to the ASD relay will be de-ac-
+  The 5–pin, 12–volt, Automatic Shutdown (ASD)
+                                                           tivated by the PCM if:
+relay is located in the Power Distribution Center
+                                                              • the ignition key is left in the ON position. This
+(PDC). Refer to label on PDC cover for relay location.
+                                                           is if the engine has not been running for approxi-
+                                                           mately 1.8 seconds.
+OPERATION                                                     • there is a crankshaft position sensor signal to
+                                                           the PCM that is lower than pre-determined values.
+OPERATION - ASD SENSE - PCM INPUT
+  A 12 volt signal at this input indicates to the PCM      DIAGNOSIS AND TESTING - ASD AND FUEL
+that the ASD has been activated. The relay is used to      PUMP RELAYS
+connect the oxygen sensor heater element, ignition           The following description of operation and
+coil and fuel injectors to 12 volt + power supply.         tests apply only to the Automatic Shutdown
+  This input is used only to sense that the ASD relay      (ASD) and fuel pump relays. The terminals on the
+is energized. If the Powertrain Control Module             bottom of each relay are numbered. Two different
+(PCM) does not see 12 volts at this input when the         types of relays may be used, (Fig. 2) or (Fig. 3).
+ASD should be activated, it will set a Diagnostic            • Terminal number 30 is connected to battery volt-
+Trouble Code (DTC).                                        age. For both the ASD and fuel pump relays, termi-
+                                                           nal 30 is connected to battery voltage at all times.
+OPERATION - PCM OUTPUT                                       • The PCM grounds the coil side of the relay
+  The ASD relay supplies battery voltage (12+ volts)       through terminal number 85.
+to the fuel injectors and ignition coil(s). With certain     • Terminal number 86 supplies voltage to the coil
+emissions packages it also supplies 12–volts to the        side of the relay.
+oxygen sensor heating elements.                              • When the PCM de-energizes the ASD and fuel
+  The ground circuit for the coil within the ASD           pump relays, terminal number 87A connects to termi-
+relay is controlled by the Powertrain Control Module       nal 30. This is the Off position. In the off position,
+

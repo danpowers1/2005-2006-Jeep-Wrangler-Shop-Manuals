@@ -1,0 +1,60 @@
+8R - 20     FRONT WIPERS/WASHERS                                                                               TJ
+RIGHT MULTI-FUNCTION SWITCH (Continued)
+
+     RIGHT MULTI-FUNCTION SWITCH TESTS                        (3) From below the steering column, remove the
+                                                            two screws that secure the lower steering column
+                              CONTINUITY BETWEEN            shroud to the upper shroud (Fig. 21).
+   SWITCH POSITION
+                                     PINS
+           OFF                          1&6
+          *LOW                          4&6
+          *MIST                         4&6
+          HIGH                          4&5
+          WASH                          3&4
+          *DELAY                        1&6
+*The intermittent wipe logic circuit within the right
+multi-function switch contains active electronic
+elements, which cannot be tested using conventional
+diagnostic tools. In addition, the function of the
+normally open contacts of the wiper relay internal to
+the switch cannot be tested properly unless the switch
+is connected to battery current (Pin 4) and ground
+(Pin 2). If all circuits and functions of the front wiper
+system and the right multi-function switch are
+operative except for the intermittent wipe, wipe-after-
+wash feature, and/or the front wipers will not park,
+replace the right multi-function switch with a known
+good unit and test system operation again.
+   (4) If the right multi-function switch fails any of       Fig. 21 Steering Column Shrouds Remove/Install
+the continuity checks, replace the faulty switch. If        1 - LEFT MULTI-FUNCTION SWITCH
+the switch is OK, test and repair the front wiper and       2 - UPPER SHROUD
+washer system circuits between the right multi-func-        3 - RIGHT MULTI-FUNCTION SWITCH
+                                                            4 - CLOCKSPRING
+tion switch and the front wiper motor or the front          5 - IGNITION LOCK CYLINDER HOUSING
+washer pump/motor as required.                              6 - LOWER SHROUD
+                                                            7 - SCREW (2)
+REMOVAL
+                                                              (4) If the vehicle is equipped with the optional tilt
+WARNING: TO AVOID PERSONAL INJURY OR                        steering column, move the tilt steering column to the
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                   fully lowered position and leave the tilt release lever
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                     in the released (down) position.
+TEM BEFORE ATTEMPTING ANY STEERING                            (5) Remove both the upper and lower shrouds from
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                  the steering column.
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                        (6) Disconnect the body wire harness connector for
+VICE. DISCONNECT AND ISOLATE THE BATTERY                    the left multi-function switch from the connector
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                      receptacle on the back of the switch.
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                      (7) Disconnect the body wire harness connector for
+CHARGE BEFORE PERFORMING FURTHER DIAG-                      the right multi-function switch from the connector
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                 receptacle on the back of the switch.
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                         (8) Remove the two screws that secure the multi-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                     function switch assembly to the upper steering col-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                    umn housing (Fig. 22).
+BAG DEPLOYMENT.                                               (9) Remove the multi-function switch assembly
+                                                            from the upper steering column housing.
+  (1) Disconnect and isolate the battery negative             (10) Remove the two small screws that secure the
+cable.                                                      right multi-function switch to the left multi-function
+  (2) Remove the steering column opening cover              switch mounting housing.
+from the instrument panel. (Refer to 23 - BODY/IN-            (11) Grasp the right multi-function switch control
+STRUMENT PANEL/STEERING COLUMN OPEN-                        stalk firmly and pull the switch toward the right far
+ING COVER - REMOVAL).                                       enough to disengage the alignment pins on the top (1
+

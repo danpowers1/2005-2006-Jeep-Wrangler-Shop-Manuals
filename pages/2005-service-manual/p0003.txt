@@ -1,0 +1,54 @@
+TJ                                                                                                           INTRODUCTION             1
+
+
+                                                   INTRODUCTION
+                                                  TABLE OF CONTENTS
+
+                                                             page                                                                 page
+
+VEHICLE IDENTIFICATION NUMBER                                         FASTENER IDENTIFICATION
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+VEHICLE EMISSION CONTROL INFORMATION                                  FASTENER USAGE
+  (VECI) LABEL                                                         DESCRIPTION
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 2      DESCRIPTION - FASTENER USAGE . . . . . . . . 7
+VEHICLE CERTIFICATION LABEL                                              DESCRIPTION - THREADED HOLE REPAIR . . 7
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 2   METRIC SYSTEM
+BODY CODE PLATE                                                        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+  DESCRIPTION                                                         TORQUE REFERENCES
+    BODY CODE PLATE . . . . . . . . . . . . . . . . . . . . 3          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+INTERNATIONAL SYMBOLS
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+
+VEHICLE IDENTIFICATION                                                   • Vehicle Safety Certification Label.
+                                                                         • Frame rail.
+NUMBER                                                                   To protect the consumer from theft and possible
+                                                                      fraud the manufacturer is required to include a
+DESCRIPTION                                                           Check Digit at the ninth position of the Vehicle Iden-
+  The Vehicle Identification Number (VIN) plate is                    tification Number. The check digit is used by the
+located on the lower windshield fence near the left                   manufacturer and government agencies to verify the
+A-pillar. The VIN contains 17 characters that provide                 authenticity of the vehicle and official documenta-
+data concerning the vehicle. Refer to the VIN decod-                  tion. The formula to use the check digit is not
+ing chart to determine the identification of a vehicle.               released to the general public.
+  The Vehicle Identification Number is also
+imprinted on the:
+
+                             VEHICLE IDENTIFICATION NUMBER DECODING CHART
+
+       POSITION                            INTERPRETATION                                    CODE = DESCRIPTION
+            1                               Country of Origin                         1 = Manufactured By DaimlerChrysler
+                                                                                                  Corporation
+            2                                      Make                                                J = Jeep
+            3                                  Vehicle Type                                            4 = MPV
+            4                        Gross Vehicle Weight Rating                                E = 3001-4000 lbs.
+                                                                                                F = 4001-5000 lbs.
+            5                                  Vehicle Line                                  A = Wrangler 4X4 (LHD)
+                                                                                             4 = Wrangler 4X4 (RHD)
+            6                                      Series                                              3=X
+                                                                                                4 = Sport/Unlimited
+                                                                                                    5 = Sahara
+                                                                                                   6 = Rubicon
+            7                                   Body Style                                   4 = Extended Open Body
+                                                                                                  9 = Open Body
+            8                                     Engine                                  1 = 2.4L 4 cyl DOHC Gasoline
+                                                                                             S = 4.0L 6 cyl Gasoline
+

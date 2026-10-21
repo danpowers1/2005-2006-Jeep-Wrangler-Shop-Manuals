@@ -1,0 +1,53 @@
+TJ                                                                                      ENGINE 4.0L       9 - 83
+ENGINE 4.0L (Continued)
+
+                 CONNECTING RODS                                               CAMSHAFT
+
+ DESCRIPTION                SPECIFICATION                 DESCRIPTION                  SPECIFICATION
+                        Metric           Standard                                 Metric          Standard
+      Bearing        0.025 - 0.076    0.001 - 0.003 in.     Hydraulic              Zero Lash
+     Clearance           mm                                  Tappet
+     Preferred       0.044 - 0.050    0.0015 - 0.0020       Clearance
+Side Clearance      0.25 - 0.48 mm    0.010 - 0.019 in.   Bore Diameter        26.02 - 26.04    1.0245 - 1.0252
+                                                                                   mm                 in.
+Piston Pin Bore     .023.59 - 23.62   0.9288 - 0.9298
+   Diameter               mm                in.           Bearing Journal
+                                                            Diameter
+  Bearing Bore          56.08 -       2.2080 - 2.2085
+( Less Bearings)       56.09mm              in.                No. 1           51.54 - 51.56   2.029 - 2.030 in.
+                                                                                   mm
+  Total Weight        663 - 671        23.39 - 23.67
+ (Less Bearing)        grams                oz.                No. 2           51.28 - 51.31   2.019 - 2.020 in.
+                                                                                   mm
+Length ( Center     155.52 - 155.62   6.123 - 6.127 in.
+  To Center)             mm                                    No. 3           51.03 - 51.05   2.009 - 2.010 in.
+ Twist ( MAX.)      0.002 mm per       0.002 in. per                               mm
+                         mm                inch                No. 4           50.78 - 50.80   1.999 - 2.000 in.
+ Bend (MAX.)        0.002 mm per       0.002 in. per                               mm
+                         mm                inch.            Base Circle         0.033 mm           0.001 in.
+                                                           Runout (MAX)
+                    CRANKSHAFT                               Valve Lift
+                                                              Intake            10.350 mm         0.4075 in.
+ DESCRIPTION                SPECIFICATION                    Exhaust            10.528 mm         0.4145 in.
+                        Metric           Standard
+ Main Bearing                                                               VALVE TIMING
+   Journal
+  Diameter
+                                                              DESCRIPTION                   SPECIFICATION
+          No. 1-6   63.489 - 63.502   2.499 - 2.500 in.
+                         mm                               Intake
+            No. 7   63.449 - 63.487   2.498 - 2.499 in.                Opens (BTDC)             12.4°
+      Bearing       0.03 - 0.06 mm    0.001 - 0.0025                Closes (ABDC)               60.9°
+     Clearance                              in.                             Duration            253.3°
+     Preferred        0.051 mm            0.002 in.       Exhaust
+ Out of Round         0.013 mm           0.0005 in.                 Opens (BBDC)                49.8°
+    (MAX)
+                                                                    Closes (ATDC)               29.2°
+ Taper (MAX)          0.013 mm           0.0005 in.
+                                                                            Duration            259.0°
+     End Play        0.038 - 0.165    0.0015 - 0.0065
+                         mm                 in.                Valve Overlap                    41.6°
+Connecting Rod       53.17 - 53.23    2.0934 - 2.0955
+    Journal              mm                 in.
+   Diameter
+

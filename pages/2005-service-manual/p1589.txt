@@ -1,0 +1,65 @@
+TJ                                                                                     CONTROLS        24 - 21
+A/C HEATER CONTROL (Continued)
+
+REMOVAL                                                    (6) Pull the A/C-heater control away from the
+                                                         instrument panel to access the connections on the
+WARNING: On vehicles equipped with airbags, dis-         back of the control.
+able the airbag system before attempting any steer-        (7) Disconnect the three wire harness connectors
+ing wheel, steering column, or instrument panel          from the back of the A/C-heater control (Fig. 17) and
+component diagnosis or service. Disconnect and           remove the control from the vehicle.
+isolate the negative battery (ground) cable, then
+wait two minutes for the airbag system capacitor to
+discharge before performing further diagnosis or
+service. This is the only sure way to disable the air-
+bag system. Failure to take the proper precautions
+could result in accidental airbag deployment and
+possible personal injury or death.
+
+  (1) Disconnect and isolate the battery negative
+cable.
+  (2) Remove the center bezel from the instrument
+panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+INSTRUMENT         PANEL     CENTER      BEZEL      -
+REMOVAL).
+  (3) Remove the glove box from the instrument
+panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+GLOVE BOX - REMOVAL).                                     Fig. 17 A/C-Heater Control Connections - Typical
+  (4) Reach through the glove box opening and dis-       1 - A/C-HEATER CONTROL
+connect the two halves of the A/C-heater control vac-    2 - BLOWER MOTOR SWITCH
+uum harness connector (Fig. 16).                         3 - BLOWER MOTOR SWITCH CONNECTOR
+                                                         4 - TEMPERATURE/ILLUMINATION CONNECTOR
+  (5) Remove the two screws that secure the A/C-         5 - MODE SWITCH CONNECTOR
+heater control to the instrument panel.                  6 - VACUUM HARNESS
+                                                         7 - MODE SWITCH
+
+
+                                                         INSTALLATION
+                                                           (1) Connect the three wire harness connectors to
+                                                         the back of the A/C-heater control.
+                                                           (2) Position the A/C-heater control onto the instru-
+                                                         ment panel and install the two retaining screws.
+                                                         Tighten the screws to 2 N·m (17 in. lbs.).
+                                                           (3) Reach through the glove box opening and con-
+                                                         nect the A/C-heater vacuum harness connector.
+                                                           (4) Install the glove box (Refer to 23 - BODY/IN-
+                                                         STRUMENT PANEL/GLOVE BOX - INSTALLA-
+                                                         TION).
+                                                           (5) Install the center bezel (Refer to 23 - BODY/
+                                                         INSTRUMENT         PANEL/INSTRUMENT           PANEL
+                                                         CENTER BEZEL - INSTALLATION).
+                                                           (6) Reconnect the negative battery cable.
+
+
+                                                         A/C HIGH PRESSURE SWITCH
+                                                         DESCRIPTION
+                                                           The A/C high pressure switch controls A/C com-
+        Fig. 16 A/C-Heater Control - Typical
+                                                         pressor clutch engagement and disengagement when
+1 - BLOWER MOTOR CONTROL
+2 - TEMPERATURE CONTROL
+                                                         equipped with the 4.0L engine. The A/C high pres-
+3 - MODE CONTROL                                         sure switch is mounted on a fitting located on the
+4 - VACUUM HARNESS CONNECTOR                             A/C discharge line near the A/C compressor. The A/C
+5 - MOUNTING SCREW LOCATIONS
+                                                         high pressure switch turns off the A/C compressor if
+

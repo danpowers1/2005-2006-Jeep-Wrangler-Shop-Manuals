@@ -1,0 +1,35 @@
+24 - 62    PLUMBING                                                                                        TJ
+PLUMBING (Continued)
+  (5) Observe the liquid line (discharge) pressure       tions could result in possible personal injury or
+and liquid line temperature. Using the Charge Deter-     death.
+mination Chart (Fig. 3), determine whether the              A R-134a refrigerant recovery/recycling/charging
+refrigerant system is operating within the proper        station that meets SAE Standard J2210 must be
+charge range.                                            used to recover the refrigerant from an R-134a refrig-
+     (a) If the refrigerant system is operating in the   erant system. Refer to the operating instructions sup-
+  undercharged area of the chart, add 0.057 kilogram     plied by the equipment manufacturer for the proper
+  (0.125 pound or 2 ounces) of R-134a refrigerant to     care and use of this equipment.
+  the system.
+     (b) If the refrigerant system is operating in the   REFRIGERANT SYSTEM EVACUATE
+  overcharged area of the chart, reclaim 0.057 kilo-
+  gram (0.125 pound or 2 ounces) of refrigerant from     NOTE: Special effort must be used to prevent mois-
+  the system.                                            ture from entering the A/C system oil. Moisture in
+  (6) Recheck the refrigerant system charge level fol-   the oil is very difficult to remove and will cause a
+lowing each refrigerant level adjustment. Continue       reliability problem with the A/C compressor.
+this process until the refrigerant system readings are
+in the proper charge range on the Charge Determi-          If an A/C compressor designed to use R-134a refrig-
+nation Chart.                                            erant is left open to the atmosphere for an extended
+                                                         period of time. It is recommended that the refriger-
+REFRIGERANT SYSTEM RECOVERY                              ant oil be drained and replaced with new oil or a new
+                                                         A/C compressor be used. This will eliminate the pos-
+WARNING: Refer to the applicable warnings and            sibility of contaminating the refrigerant system.
+cautions for this system before performing the fol-        If the refrigerant system has been open to the
+lowing operation (Refer to 24 - HEATING & AIR            atmosphere, it must be evacuated before the refriger-
+CONDITIONING/PLUMBING - WARNINGS) and (Refer             ant system can be filled. Moisture and air mixed
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -            with the refrigerant system will raise the compressor
+CAUTIONS). Failure to follow the warnings and cau-       head pressure above acceptable operating levels. This
+
+
+
+
+                      Fig. 3 Charge Determination Chart (Ambient Test Condition 85° F)
+

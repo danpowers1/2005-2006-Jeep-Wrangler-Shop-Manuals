@@ -1,0 +1,63 @@
+TJ                                                                                                                  RESTRAINTS             8O - 1
+
+
+                                                            RESTRAINTS
+                                                        TABLE OF CONTENTS
+
+                                                                    page                                                                     page
+
+RESTRAINTS                                                                     DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . 21
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1            ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 23
+  WARNING                                                                     FRONT SEAT BELT & RETRACTOR
+    WARNINGS - RESTRAINT SYSTEM . . . . . . . . 5                              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+  DIAGNOSIS AND TESTING - SUPPLEMENTAL                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+    RESTRAINT SYSTEM . . . . . . . . . . . . . . . . . . . 6                  FRONT SEAT BELT BUCKLE
+  STANDARD PROCEDURE                                                           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+    STANDARD PROCEDURE - HANDLING                                              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 26
+     NON-DEPLOYED SUPPLEMENTAL                                                PASSENGER AIRBAG
+     RESTRAINTS . . . . . . . . . . . . . . . . . . . . . . . . . 6            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+    STANDARD PROCEDURE - SERVICE                                               OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+     AFTER A SUPPLEMENTAL RESTRAINT                                            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+     DEPLOYMENT. . . . . . . . . . . . . . . . . . . . . . . . . 6             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+    STANDARD PROCEDURE - VERIFICATION                                         PASSENGER AIRBAG DOOR
+     TEST . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+AIRBAG CONTROL MODULE                                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 8           PASSENGER AIRBAG ON/OFF SWITCH
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 11            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+CHILD RESTRAINT ANCHOR                                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 12            REAR SEAT BELT & RETRACTOR
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 13           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 14           REAR SEAT BELT BUCKLE
+CLOCKSPRING                                                                    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 15          SEAT BELT SWITCH
+  STANDARD PROCEDURE - CLOCKSPRING                                             DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 35
+    CENTERING . . . . . . . . . . . . . . . . . . . . . . . . . 16             OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16         DIAGNOSIS AND TESTING - SEAT BELT
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 18              SWITCH   . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+DRIVER AIRBAG                                                                 SEAT BELT TURNING LOOP ADJUSTER
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 19             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 19           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 37
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+RESTRAINTS                                                                    restraints require no action by the vehicle occupants
+                                                                              to be employed (Fig. 1).
+DESCRIPTION                                                                   ACTIVE RESTRAINTS
+  An occupant restraint system is standard factory-
+                                                                                The active restraints for this model include:
+installed safety equipment on this model. Available
+                                                                                • Front Seat Belts - Both front seating positions
+occupant restraints for this model include both active
+                                                                              are equipped with three-point seat belt systems
+and passive types. Active restraints are those which
+                                                                              employing a lower sport bar mounted inertia latch-
+require the vehicle occupants to take some action to
+                                                                              type retractor, height-adjustable upper sport bar
+employ, such as fastening a seat belt; while passive
+                                                                              mounted turning loops, a fixed lower seat belt anchor
+                                                                              secured with the retractor to the lower end of the
+

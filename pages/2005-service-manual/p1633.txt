@@ -1,0 +1,61 @@
+TJ                                                                                        PLUMBING      24 - 65
+A/C COMPRESSOR (Continued)
+   (3) To duplicate a high-ambient temperature condi-       (1) Recover the refrigerant from the refrigerant
+tion (high head pressure), restrict the air flow          system (Refer to 24 - HEATING & AIR CONDITION-
+through the condenser. Install a manifold gauge set       ING/PLUMBING - STANDARD PROCEDURE -
+to be certain that the discharge pressure does not        REFRIGERANT RECOVERY).
+exceed 2760 kPa (400 psi).                                  (2) Disconnect and isolate the negative battery
+   (4) Check the refrigerant system plumbing for          cable.
+incorrect routing, rubbing or interference, which can       (3) Remove the accessory drive belt (Refer to 7 -
+cause unusual noises. Also check the refrigerant lines    COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+for kinks or sharp bends that will restrict refrigerant   REMOVAL).
+flow, which can cause noises (Refer to 24 - HEATING         (4) Disconnect the wire harness connector from the
+& AIR CONDITIONING/PLUMBING - DESCRIP-                    A/C clutch field coil.
+TION - REFRIGERANT LINES).                                  (5) Remove the nuts that secure the A/C suction
+   (5) If the noise is from opening and closing of the    and discharge lines to the A/C compressor and
+high pressure relief valve, recover, evacuate and         remove and discard the O-ring seals (Fig. 4).
+recharge the refrigerant system (Refer to 24 - HEAT-        (6) Install plugs in, or tape over all of the opened
+ING & AIR CONDITIONING/PLUMBING - STAN-                   refrigerant line fittings and compressor ports.
+DARD PROCEDURE - REFRIGERANT SYSTEM
+RECOVERY), (Refer to 24 - HEATING & AIR CON-
+DITIONING/PLUMBING - STANDARD PROCE-
+DURE - REFRIGERANT SYSTEM EVACUATE) and
+(Refer to 24 - HEATING & AIR CONDITIONING/
+PLUMBING - STANDARD PROCEDURE - REFRIG-
+ERANT SYSTEM CHARGE).
+   (6) If the noise is from liquid slugging on the suc-
+tion line, replace the accumulator (Refer to 24 -
+HEATING & AIR CONDITIONING/PLUMBING/AC-
+CUMULATOR - REMOVAL) and check the refriger-
+ant oil level and the refrigerant system charge (Refer
+to 24 - HEATING & AIR CONDITIONING/PLUMB-
+ING/REFRIGERANT OIL - STANDARD PROCE-
+DURE - REFRIGERANT SYSTEM OIL LEVEL).
+   (7) If the liquid slugging condition continues fol-
+lowing accumulator replacement, replace the A/C
+compressor and repeat Step 1.
+
+
+REMOVAL                                                     Fig. 4 A/C Compressor Refrigerant Lines - 2.4L
+                                                                              Engine
+2.4L ENGINE                                               1 - NUT
+                                                          2 - A/C DISCHARGE LINE
+                                                          3 - WIRE HARNESS CONNECTOR
+WARNING: Refer to the applicable warnings and             4 - A/C PRESSURE TRANSDUCER
+cautions for this system before performing the fol-       5 - NUT
+                                                          6 - ACCUMULATOR
+lowing operation (Refer to 24 - HEATING & AIR             7 - A/C SUCTION LINE (FRONT SECTION)
+CONDITIONING/PLUMBING - WARNINGS) and (Refer              8 - NUT (4)
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -             9 - A/C SUCTION LINE (REAR SECTION)
+                                                          10 - SECONDARY RETAINING CLIP
+CAUTIONS). Failure to follow the warnings and cau-        11 - A/C CONDENSER
+tions could result in possible personal injury or         12 - A/C COMPRESSOR
+death.
+
+
+NOTE: The A/C compressor may be removed and
+repositioned without disconnecting the refrigerant
+lines or discharging the refrigerant system. Dis-
+charging is not necessary if servicing the A/C
+clutch, clutch field coil or the engine.
+

@@ -1,0 +1,53 @@
+8I - 14   IGNITION CONTROL                                                                                TJ
+COIL RAIL - 4.0L (Continued)
+                                                        (2) Position ignition coil rubber boots to all spark
+                                                      plugs. Push down on coil assembly until bolt bases
+                                                      have contacted cylinder head
+                                                        (3) Install 4 coil mounting bolts. Loosely tighten 4
+                                                      bolts just enough to allow bolt bases to contact cylin-
+                                                      der head. Do a final tightening of each bolt in steps
+                                                      down to 29 N·m (250 in. lbs.) torque. Do not apply
+                                                      full torque to any bolt first.
+                                                        (4) Connect negative battery cable to battery.
+
+
+                                                      IGNITION COIL - 2.4L
+                                                      DESCRIPTION - 2.4L
+                                                        The coil assembly consists of 2 different coils
+                                                      molded together. The assembly is mounted to the top
+Fig. 26 Ignition Coil Rail Location—4.0L 6–Cylinder   of the engine (Fig. 28).
+                       Engine
+1 - COIL RAIL
+2 - COIL MOUNTING BOLTS (4)
+3 - COIL
+4 - COIL ELECTRICAL CONNECTION
+
+
+
+
+                                                                  Fig. 28 IGNITION COIL - 2.4L
+                                                      1 - IGNITION COIL
+                                                      2 - MOUNTING BOLTS (4)
+
+
+                                                      OPERATION - 2.4L
+                                                        The coil fires two spark plugs simultaneously. One
+                                                      plug is under compression, the other plug fires on the
+                                                      exhaust stroke (lost spark). Coil number one fires
+                                                      cylinders 1 and 4, and coil number two fires cylinders
+  Fig. 27 Ignition Coil Electrical Connector—4.0L
+                                                      2 and 3.
+                 6–Cylinder Engine
+                                                        The Auto Shutdown (ASD) relay provides battery
+1 - REAR OF VALVE COVER                               voltage to the ignition coil. The PCM provides a
+2 - COIL RAIL
+3 - SLIDE TAB                                         ground contact (circuit) for energizing the coil(s). The
+4 - RELEASE LOCK                                      PCM will de-energize the ASD relay if it does not
+5 - COIL CONNECTOR                                    receive the crankshaft position sensor and camshaft
+                                                      position sensor inputs.
+INSTALLATION - 4.0L                                     Base ignition timing is not adjustable. By con-
+  (1) Connect engine harness connector to coil by     trolling the coil ground circuit, the PCM is able to set
+snapping into position. Move slide tab towards        the base timing and adjust the ignition timing
+engine (Fig. 27) for a positive lock.                 advance. This is done to meet changing engine oper-
+                                                      ating conditions.
+

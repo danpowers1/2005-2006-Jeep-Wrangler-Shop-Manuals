@@ -1,0 +1,55 @@
+TJ                                                                                  FUEL INJECTION        14 - 23
+
+
+ACCELERATOR PEDAL                                          INSTALLATION
+                                                             (1) Place accelerator pedal assembly over mount-
+REMOVAL                                                    ing studs protruding from floor pan. Tighten mount-
+  The accelerator pedal is connected to the throttle       ing nuts to 8.5 N·m (75 in. lbs.) torque.
+body linkage by the throttle cable. The cable is pro-        (2) Slide throttle cable into opening (slot) in top of
+tected by a plastic sheathing and is connected to the      pedal arm. An index tab is located on pedal arm.
+throttle body linkage by a ball socket. It is connected    Rotate and push plastic cable retainer (clip) into
+to the upper part of the accelerator pedal arm by a        accelerator pedal arm opening until it snaps into
+plastic retainer (clip) (Fig. 1). This retainer (clip)     place on index tab.
+snaps into the top of the accelerator pedal arm.             (3) Before starting engine, operate accelerator
+Retainer tabs (built into the cable sheathing) (Fig. 1)    pedal to check for any binding.
+fasten the cable to the dash panel.
+                                                           CRANKSHAFT POSITION
+                                                           SENSOR
+                                                           DESCRIPTION
+                                                           2.4L
+                                                             The Crankshaft Position (CKP) sensor is mounted
+                                                           into the right front side of the cylinder block. It is
+                                                           positioned and bolted into a machined hole.
+
+                                                           4.0L
+                                                             The Crankshaft Position (CKP) sensor is located
+                                                           near the outer edge of the flywheel (starter ringear).
+
+                                                           OPERATION
+                                                           2.4L
+                                                              Engine speed and crankshaft position are provided
+         Fig. 1 Accelerator Pedal Mounting                 through the CKP (Crankshaft Position) sensor. The
+1 - CABLE RETAINER
+                                                           sensor generates pulses that are the input sent to the
+2 - SLOT                                                   Powertrain Control Module (PCM). The PCM inter-
+3 - MOUNTING STUDS (2)                                     prets the sensor input to determine the crankshaft
+4 - PEDAL/BRACKET ASSEMBLY
+5 - MOUNTING STUDS
+                                                           position. The PCM then uses this position, along with
+6 - RETAINER TABS                                          other inputs, to determine injector sequence and igni-
+7 - CABLE                                                  tion timing.
+8 - CABLE STOP
+                                                              The sensor is a hall effect device combined with an
+CAUTION: Be careful not to damage or kink the              internal magnet. It is also sensitive to steel within a
+cable core wire (within the cable sheathing) while         certain distance from it.
+servicing the accelerator pedal or throttle cable.            A tonewheel (targetwheel) is a part of the engine
+                                                           crankshaft (Fig. 2). This tonewheel has sets of
+  (1) From inside vehicle, hold up accelerator pedal.      notches at its outer edge.
+Remove plastic cable retainer (clip) and throttle cable       The notches cause a pulse to be generated when
+core wire from upper end of accelerator pedal arm          they pass under the sensor. The pulses are the input
+(Fig. 1). Plastic cable retainer (clip) snaps into pedal   to the PCM.
+arm.
+  (2) Remove accelerator pedal mounting bracket
+nuts.
+  (3) Remove accelerator pedal assembly.
+

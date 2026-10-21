@@ -1,0 +1,30 @@
+TJ                                                          ELECTRONIC CONTROL MODULES               8E - 17
+TRANSMISSION CONTROL MODULE (Continued)
+
+            Schedule                            Condition                     Expected Operation
+Super Overheat                      Oil temperature above 260° F       – All 9Overheat9 shift schedule
+                                                                       features apply
+                                                                       – 2nd gear PEMCC above 22 mph
+                                                                       – Above 22 mph the torque
+                                                                       converter will not unlock unless the
+                                                                       throttle is closed or if a wide open
+                                                                       throttle 2nd PEMCC to 1 kickdown
+                                                                       is made
+
+
+STANDARD PROCEDURE - TCM QUICK LEARN                    • The brakes must be applied
+  The quick learn procedure requires the use of the     • The engine speed must be above 500 rpm
+scan tool.                                              • The throttle angle (TPS) must be less than 3
+  This program allows the electronic transmission     degrees
+system to recalibrate itself. This will provide the     • The shift lever position must stay in PARK until
+proper transmission operation. The quick learn pro-   prompted to shift to overdrive
+cedure should be performed if any of the following      • The shift lever position must stay in overdrive
+procedures are performed:                             after the Shift to Overdrive prompt until the scan
+  • Transmission Assembly Replacement                 tool indicates the procedure is complete.
+  • Transmission Control Module Replacement             • The calculated oil temperature must be above
+  • Solenoid Pack Replacement                         60° and below 200°
+  • Clutch Plate and/or Seal Replacement
+  • Valve Body Replacement or Recondition
+  To perform the Quick Learn Procedure, the follow-
+ing conditions must be met:
+

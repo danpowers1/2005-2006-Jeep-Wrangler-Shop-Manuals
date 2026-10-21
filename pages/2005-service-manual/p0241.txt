@@ -1,0 +1,60 @@
+TJ                                                                                   BRAKES - BASE        5 - 23
+FLUID RESERVOIR (Continued)
+
+INSTALLATION                                              The master cylinder reservoir stores reserve brake
+                                                          fluid for the hydraulic brake circuits.
+CAUTION: Do not use any type of tool to install the
+grommets. Tools may cut, or tear the grommets cre-        DIAGNOSIS AND TESTING - MASTER
+ating a leak problem after installation. Install the      CYLINDER/POWER BOOSTER
+grommets using finger pressure only.                         (1) Start engine and check booster vacuum hose
+                                                          connections. A hissing noise indicates vacuum leak.
+  (1) Lubricate new grommets with clean brake fluid       Correct any vacuum leak before proceeding.
+and Install new grommets in cylinder body (Fig. 41).         (2) Stop engine and shift transmission into Neu-
+Use finger pressure to install and seat grommets.         tral.
+                                                             (3) Pump brake pedal until all vacuum reserve in
+                                                          booster is depleted.
+                                                             (4) Press and hold brake pedal under light foot
+                                                          pressure. The pedal should hold firm, if the pedal
+                                                          falls away master cylinder is faulty (internal leak-
+                                                          age).
+                                                             (5) Start engine and note pedal action. It should
+                                                          fall away slightly under light foot pressure then hold
+                                                          firm. If no pedal action is discernible, power booster,
+                                                          vacuum supply, or vacuum check valve is faulty. Pro-
+                                                          ceed to the POWER BOOSTER VACUUM TEST.
+                                                             (6) If the POWER BOOSTER VACUUM TEST
+                                                          passes, rebuild booster vacuum reserve as follows:
+                                                          Release brake pedal. Increase engine speed to 1500
+                                                          rpm, close the throttle and immediately turn off igni-
+                                                          tion to stop engine.
+            Fig. 41 Grommet Installation                     (7) Wait a minimum of 90 seconds and try brake
+1 - WORK NEW GROMMETS INTO PLACE USING FINGER             action again. Booster should provide two or more vac-
+PRESSURE ONLY                                             uum assisted pedal applications. If vacuum assist is
+                                                          not provided, booster is faulty.
+   (2) Start reservoir in grommets. Then rock reser-
+voir back and forth while pressing downward to seat       POWER BOOSTER VACUUM TEST
+it in grommets.                                              (1) Connect vacuum gauge to booster check valve
+   (3) Install pins that retain reservoir to cylinder     with short length of hose and T-fitting (Fig. 42).
+body.                                                        (2) Start and run engine at curb idle speed for one
+   (4) Fill and bleed master cylinder on bench before     minute.
+installation in vehicle.                                     (3) Observe the vacuum supply. If vacuum supply
+                                                          is not adequate, repair vacuum supply.
+                                                             (4) Clamp hose shut between vacuum source and
+MASTER CYLINDER                                           check valve.
+                                                             (5) Stop engine and observe vacuum gauge.
+DESCRIPTION                                                  (6) If vacuum drops more than one inch HG (33
+  The master cylinder has a removable nylon reser-        millibars) within 15 seconds, booster diaphragm or
+voir. The cylinder body is made of aluminum and           check valve is faulty.
+contains a primary and secondary piston assembly.
+The cylinder body including the piston assemblies         POWER BOOSTER CHECK VALVE TEST
+are not serviceable. If diagnosis indicates an internal     (1) Disconnect vacuum hose from check valve.
+problem with the cylinder body, it must be replaced         (2) Remove check valve and valve seal from
+as an assembly. The reservoir and grommets are the        booster.
+only replaceable parts on the master cylinder.              (3) Use a hand operated vacuum pump for test.
+                                                            (4) Apply 15-20 inches vacuum at large end of
+OPERATION                                                 check valve (Fig. 43).
+  The master cylinder bore contains a primary and           (5) Vacuum should hold steady. If gauge on pump
+secondary piston. The primary piston supplies             indicates vacuum loss, check valve is faulty and
+hydraulic pressure to the front brakes. The secondary     should be replaced.
+piston supplies hydraulic pressure to the rear brakes.
+

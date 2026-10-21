@@ -1,0 +1,72 @@
+TJ                                                                                   BRAKES - BASE        5 - 19
+BRAKE PADS/SHOES (Continued)
+  (16) Install wheel/tire assemblies and lower vehi-      drum if machining would cause drum diameter to
+cle. (Refer to 22 - TIRES/WHEELS/WHEELS -                 exceed the size limit indicated on the drum.
+STANDARD PROCEDURE).
+  (17) Verify firm brake pedal before moving vehicle.     BRAKE DRUM RUNOUT
+                                                            Measure drum diameter and runout with an accu-
+INSTALLATION - REAR DISC BRAKE PADS                       rate gauge. The most accurate method of measure-
+  (1) Bottom pistons in caliper bore with C-clamp.        ment involves mounting the drum in a brake lathe
+Place an old brake shoe between a C-clamp and cal-        and checking variation and runout with a dial indi-
+iper piston.                                              cator.
+  (2) Clean caliper mounting adapter and anti-rattle        Variations in drum diameter should not exceed
+springs.                                                  0.069 mm (0.0028 in.). Drum runout should not
+  (3) Lubricate anti-rattle springs with Mopar brake      exceed 0.18 mm (0.007 in.) out of round. Machine the
+grease.                                                   drum if runout or variation exceed these values.
+  (4) Install anti-rattle springs.                        Replace the drum if machining causes the drum to
+                                                          exceed the maximum allowable diameter.
+NOTE: Anti-rattle springs are not interchangeable.
+                                                          STANDARD PROCEDURE - BRAKE DRUM
+   (5) Install inboard brake pad in adapter.
+   (6) Install outboard brake pad in adapter.
+                                                          MACHINING
+                                                             The brake drums can be machined on a drum lathe
+   (7) Tilt the top of the caliper over rotor and under
+                                                          when necessary. Initial machining cuts should be lim-
+adapter. Then push the bottom of the caliper down
+                                                          ited to 0.12 - 0.20 mm (0.005 - 0.008 in.) at a time as
+onto the adapter.
+                                                          heavier feed rates can produce taper and surface
+   (8) Install caliper, (Refer to 5 - BRAKES/HY-
+                                                          variation. Final finish cuts of 0.025 to 0.038 mm
+DRAULIC/MECHANICAL/DISC BRAKE CALIPERS
+                                                          (0.001 to 0.0015 in.) are recommended and will gen-
+- INSTALLATION).
+                                                          erally provide the best surface finish.
+   (9) Install wheel and tire assemblies and lower
+                                                             Be sure the drum is securely mounted in the lathe
+vehicle, (Refer to 22 - TIRES/WHEELS/WHEELS -
+                                                          before machining operations. A damper strap should
+STANDARD PROCEDURE).
+                                                          always be used around the drum to reduce vibration
+   (10) Apply brakes several times to seat caliper pis-
+                                                          and avoid chatter marks.
+tons and brake shoes and obtain firm pedal.
+                                                             The maximum allowable diameter of the drum
+   (11) Top off master cylinder fluid level.
+                                                          braking surface is stamped or cast into the drum
+                                                          outer edge.
+DRUM                                                      CAUTION: Replace the drum if machining will cause
+                                                          the drum to exceed the maximum allowable diame-
+DESCRIPTION                                               ter.
+  The brake systems use a leading shoe (primary)
+and trailing shoe (secondary). The mounting hard-
+ware is similar but not interchangeable (Fig. 30).        CLEANING
+                                                            Clean the individual brake components, including
+OPERATION                                                 the support plate and wheel cylinder exterior, with a
+  When the brake pedal is depressed hydraulic pres-       water dampened cloth or with brake cleaner. Do not
+sure pushes the rear brake wheel cylinder pistons         use any other cleaning agents. Remove light rust and
+outward. The wheel cylinder push rods then push the       scale from the brake shoe contact pads on the sup-
+brake shoes outward against the brake drum. When          port plate with fine sandpaper.
+the brake pedal is released return springs attached
+to the brake shoes pull the shoes back to there orig-     INSPECTION
+inal position. (Fig. 30)                                    As a general rule, riveted brake shoes should be
+                                                          replaced when worn to within 0.78 mm (1/32 in.) of
+DIAGNOSIS AND TESTING - BRAKE DRUM                        the rivet heads. Bonded lining should be replaced
+RUNOUT                                                    when worn to a thickness of 1.6 mm (1/16 in.).
+  The maximum allowable diameter of the drum                Examine the lining contact pattern to determine if
+braking surface is indicated on the drum outer edge.      the shoes are bent or the drum is tapered. The lining
+Generally, a drum can be machined to a maximum of         should exhibit contact across its entire width. Shoes
+1.52 mm (0.060 in.) oversize. Always replace the          exhibiting contact only on one side should be
+                                                          replaced and the drum checked for runout or taper.
+

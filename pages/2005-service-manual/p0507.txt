@@ -1,0 +1,48 @@
+TJ                                                                                                  POWER SYSTEMS                8N - 1
+
+
+                                                POWER SYSTEMS
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                 page
+
+AUTOMATIC DAY / NIGHT MIRROR                                            STANDARD PROCEDURE
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1        STANDARD PROCEDURE - COMPASS
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1       CALIBRATION . . . . . . . . . . . . . . . . . . . . . . . . . 2
+ DIAGNOSIS AND TESTING - AUTOMATIC                                        STANDARD PROCEDURE - COMPASS
+   DAY/NIGHT MIRROR . . . . . . . . . . . . . . . . . . . . 2              VARIATION ADJUSTMENT . . . . . . . . . . . . . . . . 3
+
+AUTOMATIC DAY / NIGHT                                                  OPERATION
+                                                                          The automatic day/night mirror is equipped with
+MIRROR                                                                 three buttons: the left switch for the left LED lamp,
+                                                                       the right switch for the right side LED lamp and the
+DESCRIPTION                                                            center switch for the compass/temperature function.
+   The automatic dimming inside day/night rear view                    Pressing the left and right switch simultaneously will
+mirror system is a completely self-contained unit                      turn the auto dim function on or off. A green light
+that replaces the standard equipment inside rear                       next to the right button will indicate when the dim-
+view mirror. This system will automatically change                     ming feature is activated. The mirror also senses the
+the reflectance of the inside rear view mirror to pro-                 backup lamp circuit, and will automatically disable
+tect the driver from the unwanted headlight glare of                   its self-dimming feature whenever the transmission
+trailing vehicles while driving at night. The auto-                    gear selector is in the Reverse position.
+matic day/night inside mirror receives ignition                           The compass/temperature display provides the out-
+switched battery current through a fuse in the junc-                   side temperature and one of eight compass headings.
+tion block, and will only operate when the ignition                    Press and release the center button once within 3
+switch is in the On position.                                          seconds to display compass/temperature (Fahren-
+   Contained within the mirror is a compass/temper-                    heit). Press and release the center button twice
+ature display as well as two LED reading lamps.                        within 3 seconds to display compass/temperature
+   The automatic day/night mirror sensitivity cannot                   (Celsius). Press and release the center button three
+be repaired or adjusted. If any component of this unit                 times within 3 seconds to deactivate the feature.
+is inoperative or damaged, the entire automatic day/                      A thin layer of electrochromatic material between
+night inside rear view mirror unit must be replaced.                   two pieces of conductive glass make up the face of
+                                                                       the mirror. Two photocell sensors are used to monitor
+                                                                       light levels and adjust the reflectance of the mirror.
+                                                                       The ambient photocell sensor faces forward, to detect
+                                                                       the outside light levels. The headlamp sensor is
+                                                                       located on the mirror housing just to the left of the
+                                                                       switch and facing rearward, to detect the light level
+                                                                       received at the rear window side of the mirror. When
+                                                                       the difference between the two light levels becomes
+                                                                       too great (the light level received at the rear of the
+                                                                       mirror is much higher than that at the front of the
+                                                                       mirror), the mirror begins to darken.
+

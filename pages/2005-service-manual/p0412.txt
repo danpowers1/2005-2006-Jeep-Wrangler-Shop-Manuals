@@ -1,0 +1,63 @@
+8I - 6   IGNITION CONTROL                                                                                    TJ
+AUTO SHUT DOWN RELAY (Continued)
+   (3) Check condition of relay terminals and PDC         tion with the Crankshaft Position Sensor (CKP) to
+connector terminals for damage or corrosion. Repair       differentiate between fuel injection and spark events.
+if necessary before installing relay.                     It is also used to synchronize the fuel injectors with
+   (4) Check for pin height (pin height should be the     their respective cylinders.
+same for all terminals within the PDC connector).            When the leading edge of the target wheel cutout
+Repair if necessary before installing relay.              enters the tip of the CMP, the interruption of mag-
+                                                          netic field causes the voltage to switch high, result-
+INSTALLATION                                              ing in a sync signal of approximately 5 volts.
+  The ASD relay is located in the Power Distribution         When the trailing edge of the target wheel cutout
+Center (PDC) (Fig. 4). Refer to label on PDC cover        leaves the tip of the CMP, the change of the magnetic
+for relay location.                                       field causes the sync signal voltage to switch low to 0
+  (1) Install relay to PDC.                               volts.
+  (2) Install cover to PDC.
+
+
+CAMSHAFT POSITION
+SENSOR - 2.4L
+DESCRIPTION - 2.4L
+  The Camshaft Position Sensor (CMP) on the 2.4L
+4–cylinder engine is bolted to the right-front side of
+the cylinder head (Fig. 5).
+
+
+
+
+                                                               Fig. 6 CMP FACE AT TARGET WHEEL-2.4L
+                                                          1 - CAMSHAFT DRIVE GEAR
+                                                          2 - TARGETWHEEL (TONEWHEEL)
+                                                          3 - FACE OF CMP SENSOR
+                                                          4 - CUTOUT (NOTCH)
+
+
+                                                          REMOVAL - 2.4L
+                                                            The Camshaft Position Sensor (CMP) on the 2.4L
+                                                          4–cylinder engine is bolted to the right-front side of
+                                                          the cylinder head (Fig. 7). Sensor position (depth) is
+                                                          adjustable.
+            Fig. 5 CMP LOCATION - 2.4L                      (1) Disconnect electrical connector at CMP sensor.
+1 - CMP SENSOR                                              (2) Remove 2 sensor mounting bolts.
+2 - ELECTRICAL CONNECTOR                                    (3) Remove sensor from cylinder head by sliding
+3 - SLOTTED HOLES                                         towards rear of engine.
+4 - MOUNTING BOLTS (2)
+
+
+OPERATION - 2.4L                                          INSTALLATION - 2.4L
+                                                            The Camshaft Position Sensor (CMP) on the 2.4L
+  The Camshaft Position Sensor (CMP) sensor con-
+                                                          4–cylinder engine is bolted to the right-front side of
+tains a hall effect device referred to as a sync signal
+                                                          the cylinder head. Sensor position (depth) is
+generator. A rotating target wheel (tonewheel) for the
+                                                          adjustable.
+CMP is located behind the exhaust valve-camshaft
+                                                            (1) Remove plastic, upper timing belt cover (timing
+drive gear (Fig. 6). The target wheel is equipped with
+                                                          gear cover) (Fig. 8) by removing 3 bolts. Before
+a cutout (notch) around 180 degrees of the wheel.
+                                                          attempting to remove cover, remove electrical connec-
+The CMP detects this cutout every 180 degrees of
+camshaft gear rotation. Its signal is used in conjunc-
+

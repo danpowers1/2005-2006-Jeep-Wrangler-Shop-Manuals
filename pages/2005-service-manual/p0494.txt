@@ -1,0 +1,59 @@
+8L - 24    LAMPS/LIGHTING - EXTERIOR                                                                           TJ
+LEFT MULTI-FUNCTION SWITCH (Continued)
+lamps. The control knob is keyed so that it cannot be      headlamp high beams and to the instrument cluster
+pulled outward unless the knob is first rotated to         for control of the high beam indicator.
+turn on the exterior lighting. The internal circuitry of      • Interior Lamps Control - A control ring on the
+the left multi-function switch then provides battery       left multi-function switch control stalk is rotated to a
+voltage through a fused fog lamp relay output circuit      full forward detent to illuminate all interior courtesy
+and the fog lamp relay to the fog lamps and to the         lamps. The instrument cluster circuitry monitors the
+instrument cluster for control of the fog lamp indica-     hard wired variable resistor output of the left multi-
+tor.                                                       function switch through the panel lamps dimmer sig-
+   • Rear Fog Lamp(s) - The headlamp switch knob           nal circuit then, based upon that input, provides a
+must be rolled to the headlamp on position. Pulling        ground path to activate all interior courtesy lamps
+the headlamp switch knob outward and then rolling          through a courtesy lamp feed circuit output.
+the knob one more detent counterclockwise will acti-          • Panel Lamps Dimming - A control ring on the
+vate the rear fog lamp. The headlamp switch is only        left multi-function switch control stalk is rotated to
+able to pull outward while in the headlamp position.       one of six intermediate detent positions to select the
+The internal circuitry of the left multi-function          desired illumination intensity of all adjustable
+switch then provides battery voltage to the rear fog       instrument panel and instrument cluster lighting.
+lamp(s) and to the instrument cluster for control of       The control ring is rotated forward to brighten, or
+the fog lamp indicator.                                    rearward to dim the lighting. The instrument cluster
+   • Hazard Warning System - The hazard warn-              monitors the hard wired variable resistor output of
+ing push button is pushed down to unlatch the              the left multi-function switch through the panel
+switch and activate the hazard warning system, and         lamps dimmer signal circuit then, based upon that
+pushed down again to latch the switch and turn the         input, provides a pulse width modulated output, to
+system off. When the hazard warning switch is              control the instrument cluster lighting levels. The
+latched, the push button will be in a lowered position     instrument cluster also controls the lighting levels of
+on the top of the steering column shroud; and, when        the other adjustable instrument panel lighting based
+the hazard warning switch is unlatched, the push           upon this panel lamps dimmer signal through a
+button will be in a raised position. The left multi-       panel lamps driver circuit output.
+function switch hazard warning simultaneously pro-            • Parade Mode - A control ring on the left multi-
+vides a signal to the hazard warning sense of the          function switch control stalk is rotated to an interme-
+combination flasher to activate or deactivate the          diate detent that is one detent rearward from the full
+flasher output, and directs the output of the flasher      forward detent to illuminate the Vacuum Fluorescent
+to the hazard warning lamps.                               Display (VFD) in the instrument cluster and the
+   • Headlamps - The control knob on the end of            radio at full intensity. The instrument cluster moni-
+the left multi-function switch control stalk is rotated    tors the hard wired variable resistor output of the
+forward to its second detent from the Off position to      left multi-function switch through the panel lamps
+activate the headlamps. The internal circuitry of the      dimmer signal circuit then, based upon that input,
+left multi-function switch then provides battery volt-     adjusts the instrument cluster VFD to its full inten-
+age through the integral beam select switch and the        sity and provides a battery voltage signal to the radio
+headlamp low beam or high beam circuits to the             on a park lamp relay output circuit that signals the
+appropriate headlamp filaments and to the instru-          radio to light its VFD to full intensity.
+ment cluster for control of the high beam indicator.          • Park Lamps - The control knob on the end of
+   • Headlamp Beam Selection - The left multi-             the left multi-function switch control stalk is rotated
+function switch control stalk is pulled towards the        forward to its first detent to activate the parking
+steering wheel past a detent, then released to actuate     lamps. The left multi-function switch then provides
+the integral beam select switch circuitry. Each time       battery voltage to the parking lamps and to the
+the control stalk is actuated in this manner, the          instrument cluster as a request for cluster illumina-
+opposite headlamp mode from what is currently              tion and panel lamps output.
+selected will be activated.                                   • Turn Signal Control - The left multi-function
+   • Headlamp Optical Horn - The left multi-func-          switch control stalk actuates the turn signal switch.
+tion switch control stalk is pulled towards the steer-     The multi-function switch turn signal circuitry simul-
+ing wheel to just before a detent, to momentarily          taneously provides a signal to the turn signal sense
+activate the headlamp high beams. The high beams           circuit of the combination flasher to activate the
+will remain illuminated until the control stalk is         flasher output. The turn signal switch has a detent
+released. The internal beam select switch circuitry        position in each direction that provides turn signals
+directs battery voltage through the headlamp high          with automatic cancellation, and an intermediate,
+beam circuit of the left multi-function switch to the      momentary position in each direction that provides
+

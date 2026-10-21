@@ -1,0 +1,63 @@
+8O - 32     RESTRAINTS                                                                                          TJ
+PASSENGER AIRBAG ON/OFF SWITCH (Continued)
+not applied. To actuate the passenger airbag on/off           (2) Remove the passenger airbag on/off switch and
+switch, insert the ignition key into the switch key         accessory switch bezel from the instrument panel as
+actuator far enough to fully depress the plunger, then      a unit. (Refer to 23 - BODY/INSTRUMENT PANEL/
+rotate the actuator to the desired switch position.         ACCESSORY SWITCH BEZEL - REMOVAL).
+When the switch key actuator is rotated to its clock-         (3) From the back of the accessory switch bezel,
+wise stop (the key actuator slot will be aligned with       remove the three screws that secure the passenger
+the Off indicator), the Off indicator is illuminated        airbag on/off switch to the back of the bezel (Fig. 37).
+and the passenger airbag is disabled. When the
+switch is rotated to its counterclockwise stop (the key
+actuator slot will be in a vertical position), the Off
+indicator will be extinguished and the passenger air-
+bag is enabled.
+  The passenger airbag on/off switch connects one of
+two internal resistors in series between the passen-
+ger airbag mux switch sense and passenger airbag
+mux switch return circuits of the Airbag Control
+Module (ACM). The ACM continually monitors the
+resistance in these circuits to determine the switch
+position that has been selected. When the switch is
+in the Off position, the ACM provides a ground input
+to the switch through the passenger airbag indicator
+driver circuit, which energizes the Light-Emitting
+Diode (LED) that illuminates the Off indicator of the
+switch.
+                                                             Fig. 37 Passenger Airbag On/Off Switch Remove/
+  The ACM will also illuminate the Off indicator of
+                                                                                  Install
+the switch for about seven seconds each time the
+ignition switch is turned to the On position as a bulb      1 - PASSENGER AIRBAG ON/OFF SWITCH
+                                                            2 - SCREW DRIVER
+test. The ACM will store a Diagnostic Trouble Code          3 - ACCESSORY SWITCH BEZEL
+(DTC) for any fault it detects in the passenger airbag      4 - SCREW (3)
+on/off switch or Off indicator circuits, and will illumi-
+nate the airbag indicator in the instrument cluster if        (4) Remove the passenger airbag on/off switch
+a fault is detected. For proper diagnosis of the pas-       from the accessory switch bezel.
+senger airbag on/off switch or the ACM, a DRBIIIt
+scan tool is required. Refer to the appropriate diag-       INSTALLATION
+nostic information.
+                                                            WARNING: TO AVOID PERSONAL INJURY OR
+REMOVAL                                                     DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                            DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+WARNING: TO AVOID PERSONAL INJURY OR                        TEM BEFORE ATTEMPTING ANY STEERING
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                   WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                     MENT PANEL COMPONENT DIAGNOSIS OR SER-
+TEM BEFORE ATTEMPTING ANY STEERING                          VICE. DISCONNECT AND ISOLATE THE BATTERY
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                  NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                      MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+VICE. DISCONNECT AND ISOLATE THE BATTERY                    CHARGE BEFORE PERFORMING FURTHER DIAG-
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                      NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                    TO DISABLE THE SUPPLEMENTAL RESTRAINT
+CHARGE BEFORE PERFORMING FURTHER DIAG-                      SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                 CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                       BAG DEPLOYMENT.
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                      (1) Position the passenger airbag on/off switch to
+BAG DEPLOYMENT.                                             the back of the accessory switch bezel (Fig. 37).
+                                                              (2) Install and tighten the three screws that secure
+  (1) Disconnect and isolate the battery negative           the passenger airbag on/off switch to the back of the
+cable. Wait two minutes for the system capacitor to         accessory switch bezel. Tighten the screws to 2 N·m
+discharge before further service.                           (20 in. lbs.).
+

@@ -1,0 +1,44 @@
+9 - 98    ENGINE 4.0L                                                                                        TJ
+ENGINE BLOCK (Continued)
+
+INSPECTION                                                 CAMSHAFT & BEARINGS (IN
+  (1) It is mandatory to use a dial bore gauge to
+measure each cylinder bore diameter (Fig. 30). To
+                                                           BLOCK)
+correctly select the proper size piston, a cylinder bore
+gauge, capable of reading in 0.003 mm (.0001 in.)          DESCRIPTION
+INCREMENTS is required. If a bore gauge is not               The camshaft is made of gray cast iron with twelve
+available, do not use an inside micrometer.                machined lobes and four bearing journals (Fig. 31).
+                                                           When the camshaft rotates the lobes actuate the tap-
+                                                           pets and push rods, forcing upward on the rocker
+                                                           arms which applies downward force on the valves.
+
+
+
+
+         Fig. 30 Cylinder Bore Measurement
+  (2) Measure the inside diameter of the cylinder
+bore at three levels below top of bore. Start perpen-                   Fig. 31 Camshaft—Typical
+dicular (across or at 90 degrees) to the axis of the
+                                                           1 - CAMSHAFT
+crankshaft and then take two additional reading.           2 - LOBES
+  (3) Measure the cylinder bore diameter crosswise         3 - BEARING JOURNAL
+to the cylinder block near the top of the bore. Repeat
+the measurement near the middle of the bore, then          REMOVAL
+repeat the measurement near the bottom of the bore.
+  (4) Determine taper by subtracting the smaller           REMOVAL - CAMSHAFT BEARINGS
+diameter from the larger diameter.                           The camshaft rotates within four steel-shelled,
+  (5) Rotate measuring device 90° and repeat steps         babbitt-lined bearings that are pressed into the cyl-
+above.                                                     inder block and then line reamed. The camshaft
+  (6) Determine out-of-roundness by comparing the          bearing bores and bearing diameters are not the
+difference between each measurement.                       same size. They are stepped down in 0.254 mm
+  (7) If cylinder bore taper does not exceed 0.025         (0.010 inch) increments from the front bearing (larg-
+mm (0.001 inch) and out-of-roundness does not              est) to the rear bearing (smallest). This permits eas-
+exceed 0.025 mm (0.001 inch), the cylinder bore can        ier removal and installation of the camshaft. The
+be honed. If the cylinder bore taper or out- of-round      camshaft bearings are pressure lubricated. Camshaft
+condition exceeds these maximum limits, the cylinder       end play is maintained by the thrust plate.
+must be bored and then honed to accept an oversize           (1) Remove the camshaft (Refer to 9 - ENGINE/
+piston. A slight amount of taper always exists in the      ENGINE BLOCK/CAMSHAFT & BEARINGS (IN
+cylinder bore after the engine has been in use for a       BLOCK) - REMOVAL).
+period of time.
+

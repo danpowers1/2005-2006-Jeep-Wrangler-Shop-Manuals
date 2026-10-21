@@ -1,0 +1,61 @@
+TJ                                                                                FUEL INJECTION        14 - 35
+O2 SENSOR (Continued)
+ratio until the upstream sensor inputs a voltage that     REMOVAL
+the PCM has determined will make the downstream
+sensor output (oxygen content) correct.                   2.4L
+   The upstream oxygen sensor also provides an input
+to determine catalytic convertor efficiency.              CAUTION: Never apply any type of grease to the
+   Downstream Sensor - Engine Equipped With               oxygen sensor electrical connector, or attempt any
+2 Sensors: The downstream oxygen sensor (1/2) is          soldering of the sensor wiring harness.
+also used to determine the correct air-fuel ratio. As
+the oxygen content changes at the downstream sen-           Refer to (Fig. 22) for O2S (oxygen sensor) location.
+sor, the PCM calculates how much air-fuel ratio
+change is required. The PCM then looks at the             WARNING: THE EXHAUST MANIFOLD, EXHAUST
+upstream oxygen sensor voltage and changes fuel           PIPES AND CATALYTIC CONVERTER BECOME
+delivery until the upstream sensor voltage changes        VERY HOT DURING ENGINE OPERATION. ALLOW
+enough to correct the downstream sensor voltage           ENGINE TO COOL BEFORE REMOVING OXYGEN
+(oxygen content).                                         SENSOR.
+   The downstream oxygen sensor also provides an
+                                                            (1) Raise and support vehicle.
+input to determine catalytic convertor efficiency.
+                                                            (2) Disconnect wire connector from O2S sensor.
+   Upstream Sensors - Engine Equipped With 4
+Sensors: Two upstream sensors are used (1/1 and           CAUTION: When disconnecting sensor electrical
+2/1). The 1/1 sensor is the first sensor to receive       connector, do not pull directly on wire going into
+exhaust gases from the #1 cylinder. They provide an       sensor.
+input voltage to the PCM. The input tells the PCM
+the oxygen content of the exhaust gas. The PCM uses         (3) Remove O2S sensor with an oxygen sensor
+this information to fine tune fuel delivery to main-      removal and installation tool.
+tain the correct oxygen content at the downstream           (4) Clean threads in exhaust pipe using appropri-
+oxygen sensors. The PCM will change the air/fuel          ate size tap.
+ratio until the upstream sensors input a voltage that
+the PCM has determined will make the downstream
+sensors output (oxygen content) correct.
+   The upstream oxygen sensors also provide an input
+to determine mini-catalyst efficiency. Main catalytic
+convertor efficiency is not calculated with this pack-
+age.
+   Downstream Sensors - Engine Equipped With
+4 Sensors: Two downstream sensors are used (1/2
+and 2/2). The downstream sensors are used to deter-
+mine the correct air-fuel ratio. As the oxygen content
+changes at the downstream sensor, the PCM calcu-
+lates how much air-fuel ratio change is required. The
+PCM then looks at the upstream oxygen sensor volt-
+age, and changes fuel delivery until the upstream
+sensor voltage changes enough to correct the down-
+stream sensor voltage (oxygen content).
+   The downstream oxygen sensors also provide an
+input to determine mini-catalyst efficiency. Main cat-
+alytic convertor efficiency is not calculated with this
+package.
+   Engines equipped with either a downstream sen-
+sor(s), or a post-catalytic sensor, will monitor cata-
+lytic convertor efficiency. If efficiency is below                 Fig. 22 OXYGEN SENSORS - 2.4L
+emission standards, the Malfunction Indicator Lamp        1 - ELECTRICAL CONNECTORS
+                                                          2 - UPSTREAM SENSOR (1/1)
+(MIL) will be illuminated and a Diagnostic Trouble        3 - ELECTRICAL CONNECTORS
+Code (DTC) will be set. Refer to Monitored Systems        4 - DOWNSTREAM SENSOR (1/2)
+in Emission Control Systems for additional informa-
+tion.
+

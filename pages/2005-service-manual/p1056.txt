@@ -1,0 +1,59 @@
+11 - 4    EXHAUST SYSTEM                                                                                         TJ
+EXHAUST SYSTEM (Continued)
+
+DIAGNOSIS AND TESTING - EXHAUST SYSTEM
+                                 EXHAUST SYSTEM DIAGNOSIS CHART
+
+            CONDITION                            POSSIBLE CAUSE                           CORRECTION
+
+EXCESSIVE EXHAUST NOISE OR              1. Leaks at pipe joints.               1. Tighten clamps/bolts to specified
+LEAKING EXHAUST GASES                                                          torque at leaking joints.
+                                        2. Rusted or blown out muffler.        2. Replace muffler. Inspect exhaust
+                                                                               system.
+                                        3. Broken or rusted out exhaust        3. Replace exhaust pipe.
+                                        pipe.
+                                        4. Exhaust pipe leaking at manifold    4. Tighten/replace flange attaching
+                                        flange.                                nuts/bolts.
+                                        5. Exhaust manifold cracked or         5. Replace exhaust manifold.
+                                        broken.
+                                        6. Leak between exhaust manifold       6. Tighten exhaust manifold to
+                                        and cylinder head.                     cylinder head bolts.
+                                        7. Catalytic converter rusted or       7. Replace catalytic converter assy.
+                                        blown out.
+                                        8. Restriction in exhaust system.      8. Remove restriction, if possible.
+                                                                               Replace restricted part if necessary.
+
+CAUTION:
+When servicing and replacing exhaust system components, disconnect the oxygen sensor connector(s). Allowing
+the exhaust to hang by the oxygen sensor wires will damage the harness and/or sensor.
+
+
+SPECIFICATIONS                                               CATALYTIC CONVERTER
+TORQUE                                                       DESCRIPTION
+
+         DESCRIPTION             N·m       Ft.      In.      WARNING: THE NORMAL OPERATING TEMPERA-
+                                                             TURE OF THE EXHAUST SYSTEM IS VERY HIGH.
+                                          Lbs.    Lbs.       THEREFORE, NEVER WORK AROUND OR ATTEMPT
+Bolts, Crossmember to Sill       42        31        -       TO SERVICE ANY PART OF THE EXHAUST SYSTEM
+Nuts, Crossmember to             22        16        -       UNTIL IT IS COOLED. SPECIAL CARE SHOULD BE
+Transmission Mount                                           TAKEN WHEN WORKING NEAR THE CATALYTIC
+                                                             CONVERTER. THE TEMPERATURE OF THE CON-
+    Nuts, Exhaust Pipe to        31        23        -
+                                                             VERTER RISES TO A HIGH LEVEL AFTER A SHORT
+          Manifold
+                                                             PERIOD OF ENGINE OPERATION TIME.
+Nuts/Bolt, Exhaust Manifold to
+Engine
+                                                             CAUTION: DO NOT remove spark plug wires from
+                          #6&7   31        23        -
+                                                             plugs or by any other means short out cylinders.
+          #1,2,3,4,5,8,9,10&11   33        24        -       Failure of the catalytic converter can occur due to a
+Nuts, Exhaust Pipe to            28.5      21        -       temperature increase caused by unburned fuel
+Catalytic Converter Flange                                   passing through the converter.
+Clamp, Tailpipe to Rear          27        20        -         The stainless steel catalytic converter body is
+Tailpipe Hanger                                              designed to last the life of the vehicle. Excessive heat
+Oxygen Sensors                   27        20        -       can result in bulging or other distortion, but exces-
+Heat Shields                     45        33        -       sive heat will not be the fault of the converter. If
+                                                             unburned fuel enters the converter, overheating may
+                                                             occur. If a converter is heat-damaged, correct the
+

@@ -1,0 +1,60 @@
+8J - 42    INSTRUMENT CLUSTER                                                                                TJ
+TURN SIGNAL INDICATOR (Continued)
+lay causes the icon to appear in green through the        tion” is located on the cluster overlay, directly above
+translucent outer layer of the overlay when the indi-     the hub of the gauge needle (Fig. 28). The voltage
+cator is illuminated from behind the LED, which is        gauge graphics are white and blue against a black
+soldered onto the instrument cluster electronic circuit   field except for a single red graduation at each end of
+board. The turn signal indicators are serviced as a       the gauge scale, making them clearly visible within
+unit with the instrument cluster.                         the instrument cluster in daylight. When illuminated
+                                                          from behind by the panel lamps dimmer controlled
+OPERATION                                                 cluster illumination lighting with the exterior lamps
+   The turn signal indicators give an indication to the   turned On, the white graphics appear white, the blue
+vehicle operator that the turn signals (left or right     graphics appear blue, and the red graphics appear
+indicator flashing) or hazard warning (both left and      red. The orange gauge needle is internally illumi-
+right indicators flashing) have been selected and are     nated. Gauge illumination is provided by replaceable
+operating. These indicators are controlled by two         incandescent bulb and bulb holder units located on
+individual hard wired inputs received by the cluster      the instrument cluster electronic circuit board. The
+from the turn signal switch circuitry and hazard          voltage gauge is serviced as a unit with the instru-
+warning switch circuitry within the left multi-func-      ment cluster.
+tion switch. Each turn signal indicator Light Emit-
+ting Diode (LED) is grounded on the instrument            OPERATION
+cluster electronic circuit board at all times. There-        The voltage gauge gives an indication to the vehi-
+fore, these indicators remain functional regardless of    cle operator of the electrical system voltage. This
+the ignition switch position. Each LED will only illu-    gauge is controlled by the instrument cluster circuit
+minate when it is provided battery current by the cir-    board based upon cluster programming and elec-
+cuitry of the left multi-function switch.                 tronic messages received by the cluster from the
+   The turn signal indicators are connected in series     Powertrain Control Module (PCM) over the Program-
+between the output of the combination flasher on the      mable Communications Interface (PCI) data bus. The
+left multi-function switch and the left or right turn     voltage gauge is an air core magnetic unit that
+signal inputs to the instrument cluster, but in paral-    receives battery current on the instrument cluster
+lel with the other turn signal circuits. This arrange-    electronic circuit board through the fused ignition
+ment allows the turn signal indicators to remain          switch output (run-start) circuit whenever the igni-
+functional, regardless of the condition of the other      tion switch is in the On or Start positions. The clus-
+circuits in the turn signal and hazard warning sys-       ter is programmed to move the gauge needle back to
+tems. The turn signal switch and hazard warning           the left end of the scale after the ignition switch is
+switch inputs to the instrument cluster can be diag-      turned to the Off position. The instrument cluster
+nosed using conventional diagnostic tools and meth-       circuitry controls the gauge needle position and pro-
+ods. (Refer to 8 - ELECTRICAL/LAMPS/LIGHTING -            vides the following features:
+EXTERIOR/LEFT MULTI-FUNCTION SWITCH -                        • System Voltage Message - Each time the clus-
+OPERATION) for more information on the turn sig-          ter receives a system voltage message from the PCM
+nal switch and the hazard warning switch.                 indicating the system voltage is between about 9.5
+                                                          volts and about 18.5 volts, the gauge needle is moved
+                                                          to the relative voltage position on the gauge scale.
+VOLTAGE GAUGE                                                • System Voltage Low (Charge Fail) Message
+                                                          - Each time the cluster receives a message from the
+DESCRIPTION                                               PCM indicating the electrical system voltage is less
+                                                          than about 9.0 volts (charge fail condition), the gauge
+                                                          needle is moved to the 9 volt graduation on the far
+                                                          left end of the gauge scale and the check gauges indi-
+      Fig. 28 Battery Charging Condition Icon
+                                                          cator is illuminated. The gauge needle remains on
+  A voltage gauge is standard equipment on all            the 9 volt graduation and the check gauges indicator
+instrument clusters. The voltage gauge is located in      remains illuminated until the cluster receives a mes-
+the upper left quadrant of the instrument cluster,        sage from the PCM indicating the electrical system
+above the fuel gauge. The voltage gauge consists of a     voltage is greater than about 12.0 volts (but less than
+movable gauge needle or pointer controlled by the         about 16.0 volts), or until the ignition switch is
+instrument cluster circuitry and a fixed 90 degree        turned to the Off position, whichever occurs first.
+scale on the cluster overlay that reads left-to-right        • System Voltage High Message - Each time
+from 9 volts to 19 volts. An International Control and    the cluster receives a message from the PCM indicat-
+Display Symbol icon for “Battery Charging Condi-          ing the electrical system voltage is greater than
+

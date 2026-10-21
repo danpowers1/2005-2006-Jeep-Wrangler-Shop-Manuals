@@ -1,0 +1,62 @@
+TJ                                                                                           GEAR     19 - 15
+GEAR (Continued)
+  (4) Install power steering hoses/tubes to steering
+gear and tighten to 28 N·m (21 ft. lbs.).
+  (5) Install the bumper shield.
+  (6) Fill power steering system to proper level,
+(Refer to 19 - STEERING/PUMP - STANDARD PRO-
+CEDURE).
+
+ADJUSTMENTS
+CAUTION: Steering gear must be adjusted in the
+proper order. If adjustments are not performed in
+order, gear damage and improper steering response
+may result.
+
+
+NOTE: Adjusting the steering gear in the vehicle is
+not recommended. Remove gear from the vehicle
+and drain the fluid. Then mount gear in a vise to                   Fig. 6 OVER-CENTER TORQUE
+perform adjustments.                                      1 - CROWSFOOT WRENCH
+                                                          2 - INCH POUND TORQUE WRENCH
+                                                          3 - STEERING GEAR
+
+WORM THRUST BEARING PRELOAD                               (COUNTERCLOCKWISE)            increases     torque,
+                                                          (CLOCKWISE) reduces torque (Fig. 7).
+NOTE: Off center torque (180 to 360 degrees from             (8) Remeasure Over-Center Rotating Torque. If
+gear center) = 0.4 to 0.8 Nm (3.5 in-lb to 7.0 in-lb)     necessary turn the adjuster screw and repeat mea-
+This torque is set in the assembly plant and can’t        surement until correct Over-Center Rotating Torque
+be adjusted in the field                                  is reached (Fig. 7).
+
+                                                          NOTE: To increase the Over-Center Rotating Torque
+OVER-CENTER ROTATING TORQUE                               turn the screw COUNTERCLOCKWISE.
+  (1) Mount the gear carefully into a vise.
+                                                             (9) Prevent the adjuster screw from turning while
+CAUTION: Do not overtighten the vise on the gear          tightening adjuster lock nut (Fig. 7). Tighten the
+case. This may affect the adjustment                      adjuster lock nut to 65 N·m (48 ft. lbs.).
+   (2) Rotate the input shaft with a crows foot socket
+from stop to stop and count the number of turns.
+   (3) Starting at either stop, turn the input shaft
+back 1/2 the total number of turns. This is the center
+of the gear travel.
+   (4) Loosen the adjuster plug locknut.
+   (5) Place the torque wrench in the vertical position
+on the input shaft. Rotate the wrench 50 degrees
+each side of the center and record the highest rota-
+tional torque in this range (Fig. 6). This is the Over-
+Center Rotating Torque.
+
+NOTE: The input shaft must rotate smoothly with-
+out sticking or binding.
+
+  (6) The Over-Center Rotating Torque should be
+0.53-0.93 N·m (4.5 - 8 in. lbs.) higher in addition to
+                                                                  Fig. 7 OVER-CENTER ADJUSTMENT
+the off center torque from above (Fig. 6). than the
+                                                          1 - RATCHET WITH ADAPTER
+Preload Rotating Torque.                                  2 - WRENCH
+  (7) If an adjustment to the Over-Center Rotating        3 - CROWSFOOT WRENCH
+Torque is necessary, first loosen the adjuster lock       4 - INCH POUND TORQUE WRENCH
+                                                          5 - STEERING GEAR
+nut. Then turn the pitman shaft adjuster screw back       6 - ALLEN HEAD SOCKET
+

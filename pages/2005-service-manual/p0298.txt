@@ -1,0 +1,70 @@
+7 - 24    ENGINE                                                                                             TJ
+COOLANT (Continued)
+
+DESCRIPTION - ENGINE COOLANT                              conventional methods of determining freeze point will
+                                                          not be accurate. Both the refractive index and spe-
+ETHYLENE-GLYCOL MIXTURES                                  cific gravity differ between ethylene glycol and propy-
+                                                          lene glycol.
+CAUTION: Richer antifreeze mixtures cannot be
+measured with normal field equipment and can              OPERATION
+cause problems associated with 100 percent ethyl-           Coolant flows through the engine block absorbing
+ene-glycol.                                               the heat from the engine, then flows to the radiator
+                                                          where the cooling fins in the radiator transfers the
+   The required ethylene-glycol (antifreeze) and water    heat from the coolant to the atmosphere. During cold
+mixture depends upon the climate and vehicle oper-        weather the ethylene-glycol coolant prevents water
+ating conditions. The recommended mixture of 50/50        present in the cooling system from freezing within
+ethylene-glycol and water will provide protection         temperatures indicated by mixture ratio of coolant to
+against freezing to -37 deg. C (-35 deg. F). The anti-    water.
+freeze concentration must always be a minimum of
+44 percent, year-round in all climates. If percentage
+is lower than 44 percent, engine parts may be             COOLANT RECOVERY
+eroded by cavitation, and cooling system com-             CONTAINER
+ponents may be severely damaged by corrosion.
+Maximum protection against freezing is provided
+with a 68 percent antifreeze concentration, which
+                                                          DESCRIPTION
+                                                            The coolant reserve/overflow system consists of a
+prevents freezing down to -67.7 deg. C (-90 deg. F). A
+                                                          radiator mounted pressurized cap, a plastic coolant
+higher percentage will freeze at a warmer tempera-
+                                                          recovery bottle (Fig. 1), a tube (hose) connecting the
+ture. Also, a higher percentage of antifreeze can
+                                                          radiator and recovery bottle, and an overflow tube on
+cause the engine to overheat because the specific
+                                                          the side of the bottle.
+heat of antifreeze is lower than that of water.
+                                                            The reservoir bottle also has an anti-slosh insert
+   Use of 100 percent ethylene-glycol will cause for-
+                                                          located within the bottle, this insert will aid in
+mation of additive deposits in the system, as the cor-
+                                                          reducing coolant loss from splash and spillage.
+rosion inhibitive additives in ethylene-glycol require
+the presence of water to dissolve. The deposits act as
+insulation, causing temperatures to rise to as high as
+149 deg. C (300) deg. F). This temperature is hot
+enough to melt plastic and soften solder. The
+increased temperature can result in engine detona-
+tion. In addition, 100 percent ethylene-glycol freezes
+at 22 deg. C (-8 deg. F ).
+
+PROPYLENE-GLYCOL MIXTURES
+  It’s overall effective temperature range is smaller
+than that of ethylene-glycol. The freeze point of 50/50
+propylene-glycol and water is -32 deg. C (-26 deg. F).
+5 deg. C higher than ethylene-glycol’s freeze point.
+The boiling point (protection against summer boil-
+over) of propylene-glycol is 125 deg. C (257 deg. F )
+at 96.5 kPa (14 psi), compared to 128 deg. C (263
+deg. F) for ethylene-glycol. Use of propylene-glycol
+can result in boil-over or freeze-up on a cooling sys-
+tem designed for ethylene-glycol. Propylene glycol
+also has poorer heat transfer characteristics than                   Fig. 1 Coolant Recovery Bottle
+ethylene glycol. This can increase cylinder head tem-     1 - RADIATOR PRESSURE CAP
+peratures under certain conditions.                       2 - HOSE
+                                                          3 - COOLANT RECOVERY BOTTLE
+  Propylene-glycol/ethylene-glycol    Mixtures      can
+cause the destabilization of various corrosion inhibi-
+tors, causing damage to the various cooling system
+components. Also, once ethylene-glycol and propy-
+lene-glycol based coolants are mixed in the vehicle,
+

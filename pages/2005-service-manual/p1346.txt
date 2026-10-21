@@ -1,0 +1,57 @@
+21 - 202     TRANSFER CASE - NV241                                                                                        TJ
+TRANSFER CASE - NV241 (Continued)
+                                                                 SHIFT MECHANISM
+                                                                   The transfer case is operated by an adjustable floor
+                                                                 mounted shift linkage. The transfer case shift lever
+                                                                 is directly attached to the shift sector. The sector
+                                                                 operates the range and mode forks within the trans-
+                                                                 fer case.
+                                                                   A straight line shift pattern is used with a NEU-
+                                                                 TRAL detent. Lever range positions are imprinted in
+                                                                 the shift knob.
+
+                                                                 SHIFTING
+                                                                  The vehicle must have the transmission placed in
+                                                                 NEUTRAL, or the clutch depressed in the case of a
+                                                                 manual transmission, and be moving less than 2-3
+                                                                 MPH when shifting into the 4L operating range.
+
+Fig. 2 Transfer Case Identification Tag and Fill/Drain           DIAGNOSIS AND TESTING - TRANSFER CASE
+                       Plugs                                       Before beginning repair on a suspected transfer
+1 - IDENTIFICATION TAG                                           case malfunction, check all other driveline compo-
+2 - FILL PLUG                                                    nents beforehand.
+3 - DRAIN PLUG
+                                                                   The actual cause of a problem may be related to
+  The 4H and 4LO ranges are for off road use only.               such items as: front hubs, axles, propeller shafts,
+They are not for use on hard surface roads. The only             wheels and tires, transmission, or clutch instead. If
+exception being when the road surface is covered by              all other driveline components are in good condition
+ice and snow.                                                    and operating properly, refer to the Diagnosis Chart
+  The low range reduction gear system is operative               for further information.
+in 4LO range only. This range is for extra pulling
+power in off road situations. Low range reduction
+ratio is 4.0:1.
+
+                                                   DIAGNOSIS CHART
+
+               Condition                              Possible Cause                               Correction
+
+Transfer Case difficult to shift or will   1) Vehicle speed too great to permit      1) Stop vehicle and shift into
+not shift into desired range.              shifting.                                 desired range. Or, reduce speed to
+                                                                                     below 3-4 km/h (2-3 mph) before
+                                                                                     attempting the shift.
+
+                                           2) If vehicle was operated for an         2) Stop vehicle and shift the
+                                           extended period in 4H on a dry            transmission into neutral. Shift the
+                                           paved surface, the driveline torque       transfer case to 2H and operate
+                                           load may be causing a bind.               vehicle in 2H on dry paved
+                                                                                     surfaces.
+                                           3) Transfer case external shift           3) Lubricate, repair, or replace
+                                           linkage binding.                          linkage bushings, or tighten loose
+                                                                                     components as necessary.
+                                           4) Insufficient or incorrect lubricant.   4) Drain and refill to edge of fill hole
+                                                                                     with MoparT ATF +4, type 9602,
+                                                                                     Automatic Transmission fluid.
+                                           5) Internal components binding,           5) Disassemble the transfer case
+                                           worn, or damaged.                         and replace worn or damaged
+                                                                                     components as necessary.
+

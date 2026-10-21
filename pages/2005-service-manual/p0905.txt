@@ -1,0 +1,66 @@
+TJ                                          8W-97 POWER DISTRIBUTION                                                        8W - 97 - 1
+
+
+                                        8W-97 POWER DISTRIBUTION
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                    page
+
+POWER DISTRIBUTION                                                       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1      REMOVAL    .............................7
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    DISASSEMBLY
+  SPECIAL TOOLS                                                            POWER DISTRIBUTION CENTER
+    POWER DISTRIBUTION SYSTEMS . . . . . . . . . 2                          DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 8
+CIGAR LIGHTER OUTLET                                                     ASSEMBLY
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 2        POWER DISTRIBUTION CENTER
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2       ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  DIAGNOSIS AND TESTING - CIGAR LIGHTER                                  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 11
+    OUTLET   .............................2                             POWER DISTRIBUTION CENTER SUPPORT
+FUSE BLOCK                                                               BRACKET
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  REMOVAL    .............................4                             POWER OUTLET
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 4     DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 12
+IOD FUSE                                                                 OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 5      DIAGNOSIS AND TESTING - POWER OUTLET . 13
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+  REMOVAL    .............................5                              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 13
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 5    RELAY
+MICRO-RELAY                                                              DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 6      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6    DIAGNOSIS AND TESTING - RELAY . . . . . . . . . 14
+  DIAGNOSIS AND TESTING - MICRO-RELAY                         ...6       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+  REMOVAL    .............................6                              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+POWER DISTRIBUTION CENTER
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+POWER DISTRIBUTION                                                      owner’s manual in the vehicle glove box for more
+                                                                        information on the features and use of all of the
+                                                                        power distribution system components. Refer to the
+DESCRIPTION
+                                                                        index in this service manual for the location of com-
+  This group covers the various standard and
+                                                                        plete circuit diagrams for the various power distribu-
+optional power distribution components used on this
+                                                                        tion system components.
+model. The power distribution system for this vehicle
+consists of the following components:
+  • Power Distribution Center (PDC)
+                                                                        OPERATION
+  • Fuseblock                                                              The power distribution system for this vehicle is
+  • Cigar Lighter Outlet                                                designed to provide safe, reliable, and centralized dis-
+                                                                        tribution points for the electrical current required to
+  • Power Outlet
+                                                                        operate all of the many standard and optional facto-
+  The power distribution system also incorporates
+various types of circuit control and protection fea-                    ry-installed electrical and electronic powertrain,
+tures, including:                                                       chassis, safety, security, comfort and convenience sys-
+  • Blade-type fuses                                                    tems. At the same time, the power distribution sys-
+  • Cartridge fuses                                                     tem was designed to provide ready access to these
+  • Relays                                                              electrical distribution points for the vehicle techni-
+                                                                        cian to use when conducting diagnosis and repair of
+  Following are general descriptions of the major
+components in the power distribution system. See the                    faulty circuits. The power distribution system can
+                                                                        also prove useful for the sourcing of additional elec-
+

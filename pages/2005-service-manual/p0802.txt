@@ -1,0 +1,48 @@
+8W - 80 - 2                                              8W-80 CONNECTOR PIN-OUTS                                                         TJ
+
+Component                                                        Page    Component                                                       Page
+Intake Air Temperature Sensor (2.4L) . . . 8W-80-32                      Rear Locker Pump (Off-Road Package) . . . 8W-80-46
+Left Courtesy Lamp . . . . . . . . . . . . . . . . . 8W-80-32            Rear Washer Pump (Hard Top) . . . . . . . . . 8W-80-46
+Left Dome Lamp . . . . . . . . . . . . . . . . . . . . 8W-80-33          Rear Window Defogger Switch (Hard
+Left Fog Lamp (Except Export) . . . . . . . . 8W-80-33                     Top) . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-47
+Left Front Park/Turn Signal Lamp . . . . . . 8W-80-33                    Rear Wiper Motor (Hard Top) . . . . . . . . . . 8W-80-47
+Left Front Position Lamp (Export) . . . . . . 8W-80-33                   Rear Wiper/Washer Switch (Hard Top) . . . 8W-80-47
+Left Front Speaker . . . . . . . . . . . . . . . . . . 8W-80-34          Right Courtesy Lamp . . . . . . . . . . . . . . . . 8W-80-47
+Left Front Turn Signal Lamp (Export) . . . 8W-80-34                      Right Dome Lamp . . . . . . . . . . . . . . . . . . 8W-80-48
+Left Front Wheel Speed Sensor . . . . . . . . 8W-80-34                   Right Fog Lamp (Except Export) . . . . . . . 8W-80-48
+Left Headlamp . . . . . . . . . . . . . . . . . . . . . 8W-80-34         Right Front Park/Turn Signal Lamp . . . . 8W-80-48
+Left Headlamp Leveling Motor (Export) . . 8W-80-34                       Right Front Position Lamp (Export) . . . . . 8W-80-48
+Left License Lamp (Export) . . . . . . . . . . . 8W-80-35                Right Front Speaker . . . . . . . . . . . . . . . . . 8W-80-48
+Left Rear Lamp Assembly . . . . . . . . . . . . 8W-80-35                 Right Front Turn Signal Lamp (Export) . . 8W-80-49
+Left Rear Speaker . . . . . . . . . . . . . . . . . . 8W-80-35           Right Front Wheel Speed Sensor . . . . . . . 8W-80-49
+Left Rear Wheel Speed Sensor . . . . . . . . . 8W-80-35                  Right Headlamp . . . . . . . . . . . . . . . . . . . . 8W-80-49
+Left Side Marker Lamp (Except Export) . . 8W-80-36                       Right Headlamp Leveling Motor (Export) . 8W-80-49
+Left Side Repeater Lamp (Export) . . . . . . 8W-80-36                    Right License Lamp (Export) . . . . . . . . . . 8W-80-49
+Manifold Absolute Pressure Sensor . . . . . 8W-80-36                     Right Rear Lamp Assembly . . . . . . . . . . . 8W-80-50
+Multi-Function Switch C1 . . . . . . . . . . . . 8W-80-37                Right Rear Speaker . . . . . . . . . . . . . . . . . 8W-80-50
+Multi-Function Switch C2 . . . . . . . . . . . . 8W-80-37                Right Rear Wheel Speed Sensor . . . . . . . . 8W-80-50
+Natural Vacuum Leak Detection                                            Right Side Marker Lamp (Except
+  Assembly . . . . . . . . . . . . . . . . . . . . . . . 8W-80-37          Export) . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-50
+Output Speed Sensor (A/T) . . . . . . . . . . . . 8W-80-38               Right Side Repeater Lamp (Export) . . . . . 8W-80-51
+Oxygen Sensor 1/1 Upstream (2.4L) . . . . . 8W-80-38                     Seat Belt Switch (Except LHD Export) . . . 8W-80-51
+Oxygen Sensor 1/1 Upstream (4.0L) . . . . . 8W-80-38                     Sentry Key Immobilizer Module . . . . . . . . 8W-80-51
+Oxygen Sensor 1/2 Downstream . . . . . . . . 8W-80-38                    Speed Control Servo . . . . . . . . . . . . . . . . . 8W-80-51
+Oxygen Sensor 2/1 Upstream (4.0L) . . . . . 8W-80-39                     Subwoofer . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-52
+Oxygen Sensor 2/2 Downstream (4.0L) . . . 8W-80-39                       Throttle Position Sensor (2.4L) . . . . . . . . . 8W-80-52
+Passenger Airbag On-Off Switch (LHD) . . 8W-80-39                        Throttle Position Sensor (4.0L) . . . . . . . . . 8W-80-52
+Passenger Airbag Squib 1 . . . . . . . . . . . . . 8W-80-39              Torque Converter Clutch Solenoid . . . . . . 8W-80-52
+Passenger Door Ajar Switch . . . . . . . . . . . 8W-80-40                Tow/Haul Overdrive Off Switch . . . . . . . . 8W-80-53
+Power Outlet . . . . . . . . . . . . . . . . . . . . . . 8W-80-40        Transfer Case Switch (Except Off-Road
+Power Steering Pressure Switch (2.4L) . . . 8W-80-40                       Package) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-53
+Powertrain Control Module C1 . . . . . . . . . 8W-80-41                  Transfer Case Switch (Off-Road
+Powertrain Control Module C2 . . . . . . . . . 8W-80-42                    Package) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-53
+Powertrain Control Module C3 . . . . . . . . . 8W-80-43                  Transmission Range Indicator Illumination
+Powertrain Control Module C4 . . . . . . . . . 8W-80-44                    (PRNDL) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-53
+Radiator Fan Motor (2.4L) . . . . . . . . . . . . 8W-80-45               Transmission Range Sensor . . . . . . . . . . . 8W-80-54
+Radiator Fan Motor Circuit Breaker                                       Transmission Solenoid/Pressure Switch
+  (2.4L) . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-45      Assembly . . . . . . . . . . . . . . . . . . . . . . . 8W-80-54
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-45   Underhood Lamp . . . . . . . . . . . . . . . . . . . 8W-80-54
+Rear Fog Lamp (Export) . . . . . . . . . . . . . . 8W-80-46              Variable Line Pressure Sensor . . . . . . . . . 8W-80-55
+Rear Locker Indicator Switch (Off-Road                                   Vehicle Speed Sensor . . . . . . . . . . . . . . . . 8W-80-55
+  Package) . . . . . . . . . . . . . . . . . . . . . . . . 8W-80-46
+

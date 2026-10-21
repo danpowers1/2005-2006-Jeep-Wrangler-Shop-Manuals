@@ -1,0 +1,65 @@
+TJ                                                                             BATTERY SYSTEM          8F - 13
+BATTERY (Continued)
+                                                        last 4 digits of the VIN. Use the UP/DOWN arrow
+                                                        buttons to scroll to the correct character; then press
+                                                        ENTER to select and move to the next digit. Then
+                                                        press the ENTER button to view the SERVICE
+                                                        CODE. Pressing the CODE button a second time will
+                                                        return you to the test results.
+
+                                                                      BATTERY TEST RESULTS
+                                                            GOOD BATTERY                 Return to service
+                                                          GOOD - RECHARGE             Fully charge battery and
+                                                                                          return to service
+                                                           CHARGE & RETEST            Fully charge battery and
+                                                                                            retest battery
+                                                           REPLACE BATTERY            Replace the battery and
+                                                                                      retest complete system
+                                                          BAD-CELL REPLACE            Replace the battery and
+                                                                                      retest complete system
+
+                                                        NOTE: The SERVICE CODE is required on every
+                                                        warranty claim submitted for battery replacement.
+          Fig. 9 Micro 420 Battery Tester
+  (2) If testing the battery IN-THE-VEHICLE, make       REMOVAL
+certain all of the vehicle accessory loads are OFF,       (1) Turn the ignition switch to the Off position. Be
+including the ignition. The preferred test position     certain that all electrical accessories are turned off.
+is at the battery terminal. If the battery is not         (2) Loosen the battery negative cable terminal
+accessible, you may test using both the positive and    clamp pinch-bolt hex nut.
+negative jumper posts. Select TESTING AT JUMPER           (3) Disconnect the battery negative cable terminal
+POST when connecting to that location.                  clamp from the battery negative terminal post. If
+  (3) Connect the tester (Fig. 9) to the battery or     necessary, use a battery terminal puller to remove
+jumper posts, the red clamp to positive (+) and the     the terminal clamp from the battery post (Fig. 10).
+black clamp to negative (–).
+
+NOTE: Multiple batteries connected in parallel must
+have the ground cable disconnected to perform a
+battery test. Failure to disconnect may result in
+false battery test readings.
+
+  (4) Using the ARROW key select in or out of vehi-
+cle testing and press ENTER to make a selection.
+  (5) If not selected, choose the Cold Cranking Amp
+(CCA) battery rating. Or select the appropriate bat-
+tery rating for your area (see menu). The tester will
+then run its self programmed test of the battery and
+                                                          Fig. 10 Remove Battery Cable Terminal Clamp -
+display the results. Refer to the test result table
+                                                                             Typical
+noted below.
+                                                        1 - BATTERY
+                                                        2 - BATTERY TERMINAL PULLER
+CAUTION: If REPLACE BATTERY is the result of the
+test, this may mean a poor connection between the
+                                                          (4) Loosen the battery positive cable terminal
+vehicle’s cables and battery exists. After discon-
+                                                        clamp pinch-bolt hex nut.
+necting the vehicle’s battery cables from the bat-
+                                                          (5) Disconnect the battery positive cable terminal
+tery, retest the battery using the OUT-OF-VEHICLE
+                                                        clamp from the battery positive terminal post. If nec-
+test before replacing.
+                                                        essary, use a battery terminal puller to remove the
+ (6) While viewing the battery test result, press the   terminal clamp from the battery post.
+CODE button and the tester will prompt you for the
+

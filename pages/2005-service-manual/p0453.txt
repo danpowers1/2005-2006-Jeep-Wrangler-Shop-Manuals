@@ -1,0 +1,76 @@
+TJ                                                                           INSTRUMENT CLUSTER            8J - 27
+FOG LAMP INDICATOR (Continued)
+stencil-like cutout of the International Control and       of wire harness routing and retention, connector pin-
+Display Symbol icon for “Fog Lamps” in the opaque          out information and location views for the various
+layer of the instrument cluster overlay. The dark          wire harness connectors, splices and grounds.
+outer layer of the overlay prevents the indicator from
+being clearly visible when it is not illuminated. A        WARNING: TO AVOID PERSONAL INJURY OR
+green Light Emitting Diode (LED) behind the cutout         DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+in the opaque layer of the overlay causes the icon to      DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+appear in green through the translucent outer layer        TEM BEFORE ATTEMPTING ANY STEERING
+of the overlay when the indicator is illuminated from      WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+behind by the LED, which is soldered onto the              MENT PANEL COMPONENT DIAGNOSIS OR SER-
+instrument cluster electronic circuit board. The fog       VICE. DISCONNECT AND ISOLATE THE BATTERY
+lamp indicator is serviced as a unit with the instru-      NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+ment cluster.                                              MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                           CHARGE BEFORE PERFORMING FURTHER DIAG-
+OPERATION                                                  NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+   The fog lamp indicator gives an indication to the       TO DISABLE THE SUPPLEMENTAL RESTRAINT
+vehicle operator whenever the optional front and/or        SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+rear fog lamps are illuminated. The availability of        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+the front fog lamps, or rear fog lamps options varies      BAG DEPLOYMENT.
+by the market for which the vehicle is manufactured.
+                                                              (1) Disconnect and isolate the battery negative
+This indicator is controlled by a hard wired input to
+                                                           cable. Remove the instrument cluster from the
+the cluster from the fog lamp switch circuitry of the
+                                                           instrument panel. Disconnect the instrument panel
+left multi-function switch. The fog lamp indicator
+                                                           wire harness connector (Connector C1) for the instru-
+Light Emitting Diode (LED) is grounded on the
+                                                           ment cluster from the connector receptacle on the
+instrument cluster electronic circuit board at all
+                                                           back of the cluster housing.
+times. Therefore, the LED will be on any time the
+                                                              (2) Reconnect the battery negative cable. Turn the
+front or rear fog lamps are illuminated, regardless of
+                                                           fog lamps on by pulling out the control knob on the
+the ignition switch position. The LED only illumi-
+                                                           end of the left-multi-function switch control stalk.
+nates when it is provided battery current by the fog
+                                                           Check for battery voltage at the front/rear fog lamp
+lamp switch circuitry of the left multi-function
+                                                           feed circuit cavity of the instrument panel wire har-
+switch.
+                                                           ness connector (Connector C1) for the instrument
+   The fog lamp switch circuitry of the left multi-func-
+                                                           cluster. If OK, replace the faulty instrument cluster.
+tion switch is connected in series between a fused
+                                                           If not OK, repair the open front/rear fog lamp feed
+B(+) fuse in the Power Distribution Center (PDC)
+                                                           circuit between the fog lamp relay and the instru-
+and the front or rear fog lamp feed input to the
+                                                           ment cluster as required.
+instrument cluster through the fog lamp relay, which
+is also in the PDC. The fog lamp switch input to the
+instrument cluster can be diagnosed using conven-          FRONT LOCK INDICATOR
+tional diagnostic tools and methods. For proper diag-
+nosis of the fog lamp switch and circuits, (Refer to 8
+- ELECTRICAL/LAMPS/LIGHTING - EXTERIOR/
+                                                           DESCRIPTION
+LEFT MULTI-FUNCTION SWITCH - DIAGNOSIS
+AND TESTING).
+
+DIAGNOSIS AND TESTING - FRONT/REAR FOG
+LAMP INDICATOR                                                          Fig. 14 Front Lock Indicator
+  The diagnosis found here addresses an inoperative          A front lock indicator is standard equipment on all
+front/rear fog lamp indicator condition. Before begin-     instrument clusters, but is only functional on vehi-
+ning this test, confirm the functionality of the front     cles equipped with the optional off-road package (Fig.
+or rear fog lamp system. If no fog lamp system prob-       14). The front lock indicator is located near the upper
+lem is found, the following procedure will help to         edge of the instrument cluster, to the right of center.
+locate an open in the front or rear fog lamp feed cir-     The front lock indicator consists of a stencil-like cut-
+cuit between the fog lamp relay and the instrument         out of the words “FRONT LOCK” in the opaque layer
+cluster. Refer to the appropriate wiring information.      of the instrument cluster overlay. The dark outer
+The wiring information includes wiring diagrams,           layer of the overlay prevents the indicator from being
+proper wire and connector repair procedures, details       clearly visible when it is not illuminated. A amber
+

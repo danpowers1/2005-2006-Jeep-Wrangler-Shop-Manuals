@@ -1,0 +1,60 @@
+TJ                                                                               BATTERY SYSTEM          8F - 9
+BATTERY (Continued)
+  • Three hydrometer tests, taken at one-hour inter-    CAUTION: The battery should not be hot to the
+vals, indicate no increase in the temperature-cor-      touch. If the battery feels hot to the touch, turn off
+rected specific gravity of the battery electrolyte.     the charger and let the battery cool before continu-
+  • Open-circuit voltage of the battery is 12.4 volts   ing the charging operation. Damage to the battery
+or above.                                               may result.
+
+WARNING: NEVER EXCEED TWENTY AMPERES                      After the battery has been charged to 12.4 volts or
+WHEN CHARGING A COLD (-1° C [30° F] OR                  greater, perform a load test to determine the battery
+LOWER) BATTERY. THE BATTERY MAY ARC INTER-              cranking capacity (Refer to 8 - ELECTRICAL/BAT-
+NALLY AND EXPLODE. PERSONAL INJURY AND/OR               TERY SYSTEM/BATTERY - STANDARD PROCE-
+VEHICLE DAMAGE MAY RESULT.                              DURE). If the battery will endure a load test, return
+                                                        the battery to service. If the battery will not endure a
+                                                        load test, it is faulty and must be replaced.
+WARNING: IF THE BATTERY SHOWS SIGNS OF                    Clean and inspect the battery hold downs, tray,
+FREEZING, LEAKING, LOOSE POSTS, DO NOT                  terminals, posts, and top before completing battery
+TEST, ASSIST-BOOST, OR CHARGE. THE BATTERY              service (Refer to 8 - ELECTRICAL/BATTERY SYS-
+MAY ARC INTERNALLY AND EXPLODE. PERSONAL                TEM - CLEANING), and (Refer to 8 - ELECTRICAL/
+INJURY AND/OR VEHICLE DAMAGE MAY RESULT.                BATTERY SYSTEM - INSPECTION).
+
+WARNING: EXPLOSIVE HYDROGEN GAS FORMS IN                CHARGING A COMPLETELY DISCHARGED
+AND AROUND THE BATTERY. DO NOT SMOKE,                   BATTERY
+USE FLAME, OR CREATE SPARKS NEAR THE BAT-                 The following procedure should be used to recharge
+TERY. PERSONAL INJURY AND/OR VEHICLE DAM-               a completely discharged battery. Unless this proce-
+AGE MAY RESULT.                                         dure is properly followed, a good battery may be
+                                                        needlessly replaced.
+                                                          (1) Measure the voltage at the battery posts with a
+WARNING: THE BATTERY CONTAINS SULFURIC                  voltmeter, accurate to 1/10 (0.10) volt (Fig. 5). If the
+ACID, WHICH IS POISONOUS AND CAUSTIC. AVOID             reading is below ten volts, the battery charging cur-
+CONTACT WITH THE SKIN, EYES, OR CLOTHING.               rent will be low. It could take some time before the
+IN THE EVENT OF CONTACT, FLUSH WITH WATER               battery accepts a current greater than a few milliam-
+AND CALL A PHYSICIAN IMMEDIATELY. KEEP OUT              peres. Such low current may not be detectable on the
+OF THE REACH OF CHILDREN.                               ammeters built into many battery chargers.
+
+
+WARNING: IF THE BATTERY IS EQUIPPED WITH
+REMOVABLE CELL CAPS, BE CERTAIN THAT EACH
+OF THE CELL CAPS IS IN PLACE AND TIGHT
+BEFORE THE BATTERY IS RETURNED TO SER-
+VICE. PERSONAL INJURY AND/OR VEHICLE DAM-
+AGE MAY RESULT FROM LOOSE OR MISSING
+CELL CAPS.
+
+
+CAUTION: Always disconnect and isolate the bat-
+tery negative cable before charging a battery. Do
+not exceed sixteen volts while charging a battery.
+Damage to the vehicle electrical system compo-
+nents may result.
+                                                                      Fig. 5 Voltmeter - Typical
+                                                          (2) Disconnect and isolate the battery negative
+CAUTION: Battery electrolyte will bubble inside the     cable. Connect the battery charger leads. Some bat-
+battery case during normal battery charging. Elec-      tery chargers are equipped with polarity-sensing cir-
+trolyte boiling or being discharged from the battery    cuitry. This circuitry protects the battery charger and
+vents indicates a battery overcharging condition.       the battery from being damaged if they are improp-
+Immediately reduce the charging rate or turn off the    erly connected. If the battery state-of-charge is too
+charger to evaluate the battery condition. Damage       low for the polarity-sensing circuitry to detect, the
+to the battery may result from overcharging.            battery charger will not operate. This makes it
+

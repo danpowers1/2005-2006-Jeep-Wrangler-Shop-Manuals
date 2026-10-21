@@ -1,0 +1,60 @@
+TJ                                                                                       PLUMBING        24 - 61
+PLUMBING (Continued)
+                                                            2. Using a manifold gauge set, a thermocouple and
+                                                         the Charge Determination Chart (Fig. 3).
+                                                            A temperature probe is required to measure liquid
+                                                         line temperature. The clamp-on, Type K thermocou-
+                                                         ple temperature probe used in this procedure is
+                                                         available through the DaimlerChrysler Professional
+                                                         Service Equipment (PSE) program. This probe (PSE
+                                                         #66-324-0014 or #80PK-1A) is compatible with tem-
+                                                         perature-measuring instruments that accept Type K
+                                                         thermocouples, and have a miniature connector
+                                                         input. Other temperature probes are available
+                                                         through aftermarket sources; however, all references
+                                                         in this procedure will reflect the use of the probe
+                                                         made available through the PSE program.
+                                                            In order to use the temperature probe, a digital
+                                                         thermometer will also be required. If a digital ther-
+                                                         mometer is not available, an adapter is available
+                                                         through the PSE program that will convert any stan-
+                                                         dard digital multimeter into a digital thermometer.
+                                                         This adapter is designed to accept any standard Type
+                                                         K thermocouple. If a digital multimeter is not avail-
+                                                         able, this tool is also available through the PSE pro-
+        Fig. 2 Manifold Gauge Set - Typical              gram.
+1 - HIGH PRESSURE GAUGE
+2 - VALVE                                                NOTE: When connecting the service equipment
+3 - VACUUM/REFRIGERANT HOSE (YELLOW W/BLACK STRIPE)
+4 - HIGH PRESSURE HOSE (RED W/BLACK STRIPE)              couplings to the refrigerant system service ports,
+5 - LOW PRESSURE HOSE (BLUE W/BLACK STRIPE)              be certain that the valve of each coupling is fully
+6 - VALVE                                                closed. This will reduce the amount of effort
+7 - LOW PRESSURE GAUGE
+                                                         required to make the connection.
+REFRIGERANT SYSTEM CHARGE LEVEL                             (1) Remove the caps from the refrigerant system
+                                                         service ports and attach a manifold gauge set or a
+WARNING: Refer to the applicable warnings and            R-134a refrigerant recovery/recycling/charging sta-
+cautions for this system before performing the fol-      tion that meets SAE Standard J2210 to the refriger-
+lowing operation (Refer to 24 - HEATING & AIR            ant system.
+CONDITIONING/PLUMBING - WARNINGS) and (Refer                (2) Attach a clamp-on thermocouple to the A/C liq-
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -            uid line. The thermocouple must be placed as close as
+CAUTIONS). Failure to follow the warnings and cau-       possible to the inlet end of the A/C orifice tube to
+tions could result in possible personal injury or        accurately observe liquid line temperature.
+death.                                                      (3) Bring the refrigerant system up to operating
+                                                         temperature and pressure. This is done by allowing
+NOTE: Always refer to the A/C Underhood Specifi-         the engine to run at idle under the following condi-
+cation Label for the refrigerant fill capacity of the    tions for five minutes.
+vehicle being serviced.                                       (a) Front windows are open.
+                                                              (b) Transmission in Park or Neutral with the
+  The following procedure should be used to deter-          parking brake set.
+mine whether the A/C refrigerant system contains              (c) A/C-heater controls set to fresh air, full cool,
+the proper refrigerant charge. Symptoms of an               panel outlet mode, high blower speed and the A/C
+improper refrigerant charge (low) include: poor A/C         compressor engaged.
+performance, fog emitted from the air outlets, a hiss-      (4) Raise the liquid line (discharge) pressure to
+ing sound from the A/C orifice tube/liquid line area.    about 1793 kPa (260 psi) by placing a piece of card-
+There are two different methods with which the           board over the front of the A/C condenser. To place
+refrigerant charge level may be tested:                  the cardboard properly, remove the upper radiator
+  1. Using a DRBIIIt scan tool, a thermocouple and       sight shield (if equipped) and cover only enough of
+the Charge Determination Chart (Fig. 3). Refer to        the A/C condenser to raise and maintain the liquid
+the appropriate diagnostic information.                  line pressure at the previously specified level.
+

@@ -1,0 +1,51 @@
+TJ                             8W-91 CONNECTOR/GROUND/SPLICE LOCATION                                       8W - 91 - 1
+
+
+                    8W-91 CONNECTOR/GROUND/SPLICE LOCATION
+
+                                                      TABLE OF CONTENTS
+                                                            page
+
+CONNECTOR/GROUND/SPLICE LOCATION
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+CONNECTOR/GROUND/SPLICE                                              Connector, ground, and splice indexes are provided.
+                                                                     Use the wiring diagrams in each section for connec-
+LOCATION                                                             tor, ground, and splice identification. Refer to the
+                                                                     index for the proper figure number. For items that
+DESCRIPTION                                                          are not shown in this section N/S is placed in the
+  This section provides illustrations identifying con-               Fig. column.
+nector, ground, and splice locations in the vehicle.
+
+                                                          CONNECTORS
+
+ Connector Name/Number                 Color            Location                                   Fig.
+ A/C Compressor Clutch                 BK               At A/C Compressor Clutch                   5, 6
+ A/C Heater Control - C1                                Center of Instrument Panel                 26, 29
+ A/C Heater Control - C2                                Center of Instrument Panel                 26, 29
+ A/C Heater Control - C3                                Center of Instrument Panel                 26, 29
+ A/C High Pressure Switch              BK               Left Side of Engine                        5
+ A/C Low Pressure Switch               GN               Near Powertrain Control Module             5, 6
+ A/C Pressure Transducer               BK               Near Compressor                            6
+ (2.4L)
+ Airbag Control Module                 YL               Front of Floor Pan Tunnel                  20
+ Ambient Temperature Sensor                             Left Front of Engine Compartment           1
+ (Compass/Temperature
+ Mirror)
+ Ambient Temperature Sensor                             Left Front Engine Compartment              2
+ (Engine)
+ Axle Lock Switch(Off Road)                             Near Cigar Lighter                         26
+ Back-up Lamp Switch (M/T)             BK               Right Side of Transmission                 35, 37
+ Battery                                                Rear Engine Compartment                    11
+ Battery Temperature Sensor            BK               Under Battery Tray                         10, 12
+ Blend Door Actuator                                    On HVAC Harness                            N/S
+ Blower Motor                                           On HVAC Harness                            N/S
+ Blower Motor Relay                    BK               On HVAC Harness                            N/S
+ Blower Motor Resistor Block                            On HVAC Harness                            N/S
+ Brake Lamp Switch                     GY               Top of Brake Pedal Bracket                 22, 30
+ Brake Transmission Shift              WT               Near Steering Column                       30
+ Interlock Solenoid
+ Brake Warning Indicator               BK               On Brake Master Cylinder                   12, 14
+ Switch
+ C102                                  GY               Rear Engine Compartment                    10, 12
+

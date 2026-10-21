@@ -1,0 +1,59 @@
+TJ                                                                                      AUDIO/VIDEO        8A - 7
+RADIO (Continued)
+
+INSTALLATION                                               STEERING COLUMN, OR INSTRUMENT PANEL
+                                                           COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                    TO TAKE THE PROPER PRECAUTIONS COULD
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)                     RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+BEFORE ATTEMPTING ANY STEERING WHEEL,                      AND POSSIBLE PERSONAL INJURY.
+STEERING COLUMN, OR INSTRUMENT PANEL                          For complete circuit diagrams, refer to the appro-
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE                    priate wiring information. The wiring information
+TO TAKE THE PROPER PRECAUTIONS COULD                       includes wiring diagrams, proper wire and connector
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT                     repair procedures, further details on wire harness
+AND POSSIBLE PERSONAL INJURY.                              routing and retention, as well as pin-out and location
+                                                           views for the various wire harness connectors, splices
+  (1) Connect the coaxial antenna cable at the rear        and grounds. Inspect the ground paths and connec-
+of the radio chassis.                                      tions at the following locations:
+  (2) Connect the radio wire harness connectors to            • Blower motor
+the rear of the radio.                                        • Electric fuel pump
+  (3) Install the radio to the instrument panel.              • Engine-to-body ground strap
+  (4) If equipped with a CD radio, reach through the          • Generator
+glove box opening and install the nut through the CD          • Ignition module
+radio bracket stud plate. Ensure that antenna in-line         • Radio antenna base ground
+connector is properly mated and has not become dis-           • Radio receiver chassis ground wire or strap
+connected or pinched.                                         • Wiper motor.
+  (5) Install glove box.                                      If the source of RFI or EMI noise is identified as a
+  (6) Install the retaining screws. Tighten the screws     component on the vehicle (i.e., generator, blower
+to 5 N·m (20 in. lbs).                                     motor, etc.), the ground path for that component
+  (7) Install the center bezel to the instrument panel     should be checked. If excessive resistance is found in
+(Refer to 23 - BODY/INSTRUMENT PANEL/IN-                   any ground circuit, clean, tighten, or repair the
+STRUMENT PANEL CENTER BEZEL - INSTALLA-                    ground circuits or connections to ground as required
+TION).                                                     before considering any component replacement.
+  (8) Connect the battery negative cable.                     • Ignition coil
+                                                              • Spark plugs
+                                                              • Spark plug wire routing and condition.
+RADIO NOISE SUPPRESSION                                       Reroute the spark plug wires or replace the faulty
+COMPONENTS                                                 components as required.
+                                                              If the source of the RFI or EMI noise is identified
+DESCRIPTION                                                as two-way mobile radio or telephone equipment,
+  Radio Frequency Interference (RFI) and Electro-          check the equipment installation for the following:
+Magnetic Interference (EMI) noise suppression is              • Power connections should be made directly to
+accomplished primarily through circuitry internal to       the battery, and fused as closely to the battery as
+the radio receivers. These internal suppression            possible.
+devices are only serviced as part of the radio receiver.      • The antenna should be mounted on the roof or
+  External suppression devices that are used on this       toward the rear of the vehicle. Remember that mag-
+vehicle to control RFI or EMI noise include the fol-       netic antenna mounts on the roof panel can adversely
+lowing:                                                    affect the operation of an overhead console compass,
+  • Radio antenna base ground                              if the vehicle is so equipped.
+  • Radio receiver chassis ground wire                        • The antenna cable should be fully shielded coax-
+  • Engine-to-body ground strap                            ial cable, should be as short as is practical, and
+  • Resistor-type spark plugs                              should be routed away from the factory-installed
+  • Radio suppression-type secondary ignition wir-         vehicle wire harnesses whenever possible.
+ing.                                                          • The antenna and cable must be carefully
+                                                           matched to ensure a low Standing Wave Ratio
+DIAGNOSIS AND TESTING - RADIO NOISE                        (SWR).
+SUPPRESSION COMPONENTS
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)
+BEFORE ATTEMPTING ANY STEERING WHEEL,
+

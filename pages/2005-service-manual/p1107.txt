@@ -1,0 +1,50 @@
+TJ                                                                                FUEL INJECTION       14 - 31
+INTAKE AIR TEMPERATURE SENSOR (Continued)
+
+
+
+
+      Fig. 16 IAT SENSOR TAB / O-RING - 2.4L
+1 - IAT SENSOR
+2 - SENSOR O-RING
+3 - RELEASE TAB
+                                                                      Fig. 17 IAT SENSOR - 4.0L
+4.0L                                                     1 - MOUNTING BOLTS (4)
+                                                         2 - THROTTLE BODY
+   The intake manifold air temperature (IAT) sensor      3 - IAC MOTOR
+is installed into intake manifold plenum near throttle   4 - ELEC. CONN.
+body (Fig. 17).                                          5 - TPS
+                                                         6 - MAP SENSOR
+   (1) Disconnect electrical connector from IAT sen-     7 - ELEC. CONN.
+sor.                                                     8 - IAT SENSOR
+   (2) Remove sensor from intake manifold.               9 - ELEC. CONN.
+
+                                                         4.0L Early
+INSTALLATION
+                                                           The Manifold Absolute Pressure (MAP) sensor is
+2.4L                                                     attached to the side of the engine throttle body with
+  (1) Check condition of sensor o-ring.                  2 screws. The sensor is connected to the throttle body
+  (2) Clean sensor mounting hole in intake manifold.     with a rubber L-shaped fitting.
+  (3) Position sensor into intake manifold and rotate
+                                                         4.0L Late
+clockwise until past release tab.
+                                                           The Manifold Absolute Pressure (MAP) sensor is
+  (4) Install electrical connector.
+                                                         attached to the side of the engine throttle body with
+4.0L                                                     1 screw. The sensor is connected to the throttle body
+  (1) Install IAT sensor into intake manifold.           with a rubber L-shaped fitting.
+Tighten sensor to 28 N·m (20 ft. lbs.) torque.
+  (2) Connect electrical connector to sensor.            OPERATION
+                                                           The MAP sensor is used as an input to the Power-
+                                                         train Control Module (PCM). It contains a silicon
+MAP SENSOR                                               based sensing unit to provide data on the manifold
+                                                         vacuum that draws the air/fuel mixture into the com-
+DESCRIPTION                                              bustion chamber. The PCM requires this information
+                                                         to determine injector pulse width and spark advance.
+2.4L                                                     When manifold absolute pressure (MAP) equals
+  The Manifold Absolute Pressure (MAP) sensor is         Barometric pressure, the pulse width will be at max-
+mounted into the rear of the intake manifold with 1      imum.
+screw.                                                     A 5 volt reference is supplied from the PCM and
+                                                         returns a voltage signal to the PCM that reflects
+                                                         manifold pressure. The zero pressure reading is 0.5V
+

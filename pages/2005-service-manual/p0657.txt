@@ -1,0 +1,54 @@
+TJ                                            8W-15 GROUND DISTRIBUTION                                                          8W - 15 - 1
+
+                                       8W-15 GROUND DISTRIBUTION
+Component                                                          Page    Component                                                         Page
+A/C Compressor Clutch . . . . . . . . . . . . . . . 8W-15-5                Left Fog Lamp . . . . . . . . . . . . . . . . . . . . . . 8W-15-3
+A/C-Heater Control . . . . . . . . . . . . . . . . . 8W-15-8, 9            Left Front Park/Turn Signal Lamp . . . . . . . 8W-15-3
+Airbag Control Module . . . . . . . . . . . . . . . 8W-15-10               Left Front Position Lamp . . . . . . . . . . . . . . 8W-15-3
+Antilock Brake Relay . . . . . . . . . . . . . . . . . 8W-15-2             Left Headlamp . . . . . . . . . . . . . . . . . . . . . . 8W-15-3
+Axle Lock Switch . . . . . . . . . . . . . . . . . . . . 8W-15-9           Left Headlamp Leveling Motor . . . . . . . . . . 8W-15-3
+Battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-7    Left License Lamp . . . . . . . . . . . . . . . . . . 8W-15-10
+Blend Door Actuator . . . . . . . . . . . . . . . . . . 8W-15-8            Left Side Repeater Lamp . . . . . . . . . . . . . . 8W-15-3
+Blower Motor Relay . . . . . . . . . . . . . . . . . . 8W-15-9             Multi-Function Switch . . . . . . . . . . . . . . . 8W-15-10
+Brake Lamp Switch . . . . . . . . . . . . . . . . . 8W-15-10               Natural Vacuum Leak Detection
+Center High Mounted Stop Lamp . . . . . . . 8W-15-10                         Assembly . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10
+Cigar Lighter/Power Outlet . . . . . . . . . . . . 8W-15-9                 Oxygen Sensor 1/1 Upstream . . . . . . . . . . . 8W-15-6
+Clutch Pedal Position Switch . . . . . . . . . . 8W-15-10                  Oxygen Sensor 1/2 Downstream . . . . . . . . . 8W-15-6
+Compass/Temperature Mirror . . . . . . . . . . . 8W-15-9                   Oxygen Sensor 2/1 Upstream . . . . . . . . . . . 8W-15-6
+Controller Antilock Brake . . . . . . . . . . . . . . 8W-15-2              Oxygen Sensor 2/2 Downstream . . . . . . . . . 8W-15-6
+Data Link Connector . . . . . . . . . . . . . . . 8W-15-6, 9               Passenger Door Ajar Switch . . . . . . . . . . . 8W-15-10
+Daytime Running Lamp Module . . . . . . . . 8W-15-2                        Power Outlet . . . . . . . . . . . . . . . . . . . . . . . 8W-15-9
+Driver Door Ajar Switch . . . . . . . . . . . . . . 8W-15-10               Power Steering Pressure Switch . . . . . . . . . 8W-15-5
+Fog Lamp Relay . . . . . . . . . . . . . . . . . . . . . 8W-15-2           Powertrain Control Module . . . . . . . . . . . . 8W-15-6
+Front Locker Indicator Switch . . . . . . . . . . 8W-15-5                  Radiator Fan Motor . . . . . . . . . . . . . . . . . . 8W-15-7
+Front Locker Pump . . . . . . . . . . . . . . . . . . 8W-15-5              Radiator Fan Motor Circuit Breaker . . . . . 8W-15-7
+Front Washer Pump . . . . . . . . . . . . . . . . . . 8W-15-3              Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-9
+Front Wiper Motor . . . . . . . . . . . . . . . . . . 8W-15-10             Rear Fog Lamp . . . . . . . . . . . . . . . . . . . . . 8W-15-10
+Fuel Pump Module . . . . . . . . . . . . . . . . . . . 8W-15-5             Rear Locker Indicator Switch . . . . . . . . . . . 8W-15-5
+Fuse 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10    Rear Locker Pump . . . . . . . . . . . . . . . . . . . 8W-15-5
+Fuse Block . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10        Rear Washer Pump . . . . . . . . . . . . . . . . . . 8W-15-10
+G100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-2   Rear Window Defogger . . . . . . . . . . . . . . . 8W-15-10
+G101 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-2   Rear Window Defogger Switch . . . . . . . . . . 8W-15-9
+G102 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-3   Rear Wiper Motor . . . . . . . . . . . . . . . . . . . 8W-15-10
+G103 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-4   Rear Wiper/Washer Switch . . . . . . . . . . . . . 8W-15-9
+G105 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-5, 6    Right Fog Lamp . . . . . . . . . . . . . . . . . . . . . 8W-15-4
+G106 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-7   Right Front Park/Turn Signal Lamp . . . . . 8W-15-4
+G107 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-7   Right Front Position Lamp . . . . . . . . . . . . . 8W-15-4
+G108 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-7   Right Front Turn Signal Lamp . . . . . . . . . . 8W-15-4
+G190 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-7   Right Headlamp . . . . . . . . . . . . . . . . . . . . . 8W-15-4
+G200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-9   Right Headlamp Leveling Motor . . . . . . . . 8W-15-4
+G201 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-9   Right License Lamp . . . . . . . . . . . . . . . . . 8W-15-10
+G202 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-8   Right Side Repeater Lamp . . . . . . . . . . . . . 8W-15-4
+G203 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-8   Seat Belt Switch . . . . . . . . . . . . . . . . . . . . 8W-15-10
+G204 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-9   Sentry Key Immobilizer Module . . . . . . . . 8W-15-10
+G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10    Speed Control Servo . . . . . . . . . . . . . . . . . . 8W-15-2
+G301 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10    Subwoofer . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10
+G302 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10    Tow/Haul Overdrive Off Switch . . . . . . . . . 8W-15-9
+G303 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-10    Transfer Case Switch . . . . . . . . . . . . . . . . . 8W-15-5
+Generator . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-6      Transmission Control Relay . . . . . . . . . . . . 8W-15-2
+Headlamp Leveling Switch . . . . . . . . . . . . . 8W-15-9                 Transmission Range Indicator
+Heater Control . . . . . . . . . . . . . . . . . . . . 8W-15-8, 9            Illumination . . . . . . . . . . . . . . . . . . . . . 8W-15-10
+Horn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-15-3   Underhood Lamp . . . . . . . . . . . . . . . . . . . . 8W-15-2
+Ignition Switch . . . . . . . . . . . . . . . . . . . . . 8W-15-10
+Instrument Cluster . . . . . . . . . . . . . . . . . . . 8W-15-9
+

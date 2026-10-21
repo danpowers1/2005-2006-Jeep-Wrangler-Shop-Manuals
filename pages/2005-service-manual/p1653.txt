@@ -1,0 +1,59 @@
+TJ                                                                                                   EMISSIONS CONTROL                  25 - 1
+
+
+                                              EMISSIONS CONTROL
+                                                      TABLE OF CONTENTS
+
+                                                                 page                                                                     page
+
+EMISSIONS CONTROL                                                             DESCRIPTION - TASK MANAGER . . . . . . . . . . 2
+ DESCRIPTION                                                                  DESCRIPTION - MONITORED SYSTEMS . . . . 2
+   DESCRIPTION - EMISSION CONTROL                                             DESCRIPTION - TRIP DEFINITION . . . . . . . . . 4
+    SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1        DESCRIPTION - COMPONENT MONITORS                              ..5
+   DESCRIPTION - STATE DISPLAY TEST                                           DESCRIPTION - NON-MONITORED
+    MODE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2       CIRCUITS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+   DESCRIPTION - CIRCUIT ACTUATION TEST                                       DESCRIPTION - HIGH AND LOW LIMITS . . . . 6
+    MODE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2      DESCRIPTION - LOAD VALUE . . . . . . . . . . . . 6
+   DESCRIPTION - DIAGNOSTIC TROUBLE                                         OPERATION - TASK MANAGER . . . . . . . . . . . . . 6
+    CODES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2    EVAPORATIVE EMISSIONS              . . . . . . . . . . . . . . . . 10
+
+EMISSIONS CONTROL                                                            There are several operating conditions for which
+                                                                           the PCM monitors and sets DTC’s. Refer to Moni-
+                                                                           tored Systems, Components, and Non-Monitored Cir-
+DESCRIPTION                                                                cuits in this section.
+                                                                             Technicians must retrieve stored DTC’s by connect-
+DESCRIPTION - EMISSION CONTROL SYSTEM                                      ing the DRB scan tool (or an equivalent scan tool) to
+   The Powertrain Control Module (PCM) monitors                            the 16–way data link connector (Fig. 1).
+many different circuits in the fuel injection, ignition,
+emission and engine systems. If the PCM senses a                           NOTE: Various diagnostic procedures may actually
+problem with a monitored circuit often enough to                           cause a diagnostic monitor to set a DTC. For
+                                                                           instance, pulling a spark plug wire to perform a
+indicate an actual problem, it stores a Diagnostic
+Trouble Code (DTC) in the PCM’s memory. If the                             spark test may set the misfire code. When a repair
+                                                                           is completed and verified, connect the DRB scan
+code applies to a non-emissions related component or
+system, and the problem is repaired or ceases to                           tool to the 16–way data link connector to erase all
+exist, the PCM cancels the code after 40 warm-up                           DTC’s and extinguish the MIL.
+cycles. Diagnostic trouble codes that affect vehicle
+emissions illuminate the Malfunction Indicator Lamp
+(MIL). The MIL is displayed as an engine icon on the
+instrument panel. Refer to Malfunction Indicator
+Lamp (MIL) in this section.
+   Certain criteria must be met before the PCM
+stores a DTC in memory. The criteria may be a spe-
+cific range of engine RPM, engine temperature,
+and/or input voltage to the PCM.
+   The PCM might not store a DTC for a monitored
+circuit even though a malfunction has occurred. This
+may happen because one of the DTC criteria for the
+circuit has not been met. For example , assume the
+diagnostic trouble code criteria requires the PCM to
+monitor the circuit only when the engine operates
+between 750 and 2000 RPM. Suppose the sensor’s
+output circuit shorts to ground when engine operates
+above 2400 RPM (resulting in 0 volt input to the
+PCM). Because the condition happens at an engine
+speed above the maximum threshold (2000 rpm), the                              Fig. 1 DATA LINK (DIAGNOSTIC) CONNECTOR
+PCM will not store a DTC.                                                                       LOCATION
+                                                                           1 - 16–WAY DATA LINK CONNECTOR
+

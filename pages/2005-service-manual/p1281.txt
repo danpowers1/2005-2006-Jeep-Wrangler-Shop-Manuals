@@ -1,0 +1,61 @@
+TJ                                                         AUTOMATIC TRANSMISSION - 42RLE              21 - 137
+SHIFT MECHANISM (Continued)
+    (a) PARK position - Apply forward force on cen-         A solenoid is an electromechanical device that uses
+  ter of handle and remove pressure. Engine starts        a magnetic force to perform work. It consists of a coil
+  must be possible.                                       of wire, wrapped around a magnetic core made from
+    (b) PARK position - Apply rearward force on cen-      steel or iron, and a spring loaded, movable plunger,
+  ter of handle and remove pressure. Engine starts        which performs the work, or straight line motion.
+  must be possible.
+    (c) NEUTRAL position - Normal position. Engine
+  starts must be possible.
+    (d) NEUTRAL position - Engine running and
+  brakes applied, apply forward force on center of
+  shift handle. Transmission shall not be able to shift
+  from NEUTRAL to REVERSE.
+
+ADJUSTMENTS - SHIFT MECHANISM
+  Check adjustment by starting the engine in PARK
+and NEUTRAL. Adjustment is CORRECT if the
+engine starts only in these positions. Adjustment is
+INCORRECT if the engine starts in one but not both
+positions. If the engine starts in any position other
+than PARK or NEUTRAL, or if the engine will not
+start at all, the TRS may be faulty.
+                                                               Fig. 236 2/4 - Low Reverse and Underdrive
+Gearshift Adjustment Procedure                                                  Solenoids
+  (1) Shift transmission into PARK.
+                                                          1 - MANUAL VALVE
+  (2) Remove floor console as necessary for access to     2 - LINE PRESSURE
+the shift cable adjustment. (Refer to 23 - BODY/IN-       3 - 2/4 - LOW REVERSE SOLENOID ENERGIZED
+TERIOR/FLOOR CONSOLE - REMOVAL)                           4 - UNDERDRIVE SOLENOID DE-ENERGIZED
+                                                          5 - UNDERDRIVE CLUTCH
+  (3) Loosen the shift cable adjustment nut.
+  (4) Raise vehicle.                                         The solenoids used in transmission applications
+  (5) Unsnap cable eyelet from transmission shift         are attached to valves which can be classified as nor-
+lever.                                                    mally open (Fig. 236) or normally closed (Fig.
+  (6) Verify transmission shift lever is in PARK          237). The normally open solenoid valve is defined
+detent by moving lever fully rearward. Last rearward      as a valve which allows hydraulic flow when no cur-
+detent is PARK position.                                  rent or voltage is applied to the solenoid. The nor-
+  (7) Verify positive engagement of transmission          mally closed solenoid valve is defined as a valve
+park lock by attempting to rotate propeller shaft.        which does not allow hydraulic flow when no current
+Shaft will not rotate when park lock is engaged.          or voltage is applied to the solenoid. These valves
+  (8) Snap cable eyelet onto transmission shift lever.    perform hydraulic control functions for the transmis-
+  (9) Lower vehicle                                       sion and must therefore be durable and tolerant of
+  (10) Tighten the shift cable adjustment screw to 12     dirt particles. For these reasons, the valves have
+N·m (105 in.lbs.).                                        hardened steel poppets and ball valves. The solenoids
+  (11) Verify correct operation.                          operate the valves directly, which means that the
+  (12) Install any floor console components removed       solenoids must have very high outputs to close the
+for access. (Refer to 23 - BODY/INTERIOR/FLOOR            valves against the sizable flow areas and line pres-
+CONSOLE - INSTALLATION)                                   sures found in current transmissions. Fast response
+                                                          time is also necessary to ensure accurate control of
+                                                          the transmission.
+SOLENOID                                                     The strength of the magnetic field is the primary
+                                                          force that determines the speed of operation in a par-
+DESCRIPTION                                               ticular solenoid design. A stronger magnetic field will
+   The typical electrical solenoid used in automotive     cause the plunger to move at a greater speed than a
+applications is a linear actuator. It is a device that    weaker one. There are basically two ways to increase
+produces motion in a straight line. This straight line    the force of the magnetic field:
+motion can be either forward or backward in direc-           1. Increase the amount of current applied to the
+tion, and short or long distance.                         coil or
+                                                             2. Increase the number of turns of wire in the coil.
+

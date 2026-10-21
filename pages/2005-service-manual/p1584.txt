@@ -1,0 +1,57 @@
+24 - 16    CONTROLS                                                                                         TJ
+A/C CLUTCH RELAY (Continued)
+
+REMOVAL                                                   A/C HEATER CONTROL
+  (1) Disconnect and isolate the battery negative
+cable.                                                    DESCRIPTION
+  (2) Remove the cover from the power distribution           The A/C-heater control (Fig. 11) for both the man-
+center (PDC) (Fig. 10) located in the engine compart-     ual temperature control (MTC) single zone heating-
+ment.                                                     only and the heating-A/C system allows one
+                                                          temperature setting for the entire vehicle. All con-
+NOTE: Refer to the fuse and relay layout map on
+                                                          trols are identified by ISO graphic symbols.
+the inside of the PDC cover for A/C clutch relay
+                                                             The A/C-heater control is located in the instrument
+location.
+                                                          panel and contains:
+  (3) Remove the A/C clutch relay from the PDC.              • a rotary control knob for blower fan speed selec-
+                                                          tion.
+                                                             • a rotary control knob for recirculation and mode
+                                                          control of the discharged air.
+                                                             • a rotary control knob for temperature control of
+                                                          the discharged air and turning the heating-A/C sys-
+                                                          tem off.
+                                                             The A/C-heater control cannot be repaired and, if
+                                                          faulty or damaged, it must be replaced. The blower
+                                                          motor and mode control switch, control knobs and
+                                                          illumination lamps are available for service replace-
+                                                          ment.
+
+
+
+
+  Fig. 10 Power Distribution Center - LHD shown,
+                   RHD similar
+1 - BATTERY POSITIVE CABLE
+2 - BATTERY NEGATIVE CABLE
+3 - DASH PANEL
+4 - INNER FENDER
+5 - POWER DISTRIBUTION CENTER (PDC)
+6 - NUT
+
+
+INSTALLATION
+NOTE: Refer to the fuse and relay layout map on
+the inside of the power distribution center (PDC)
+cover for A/C clutch relay location.                              Fig. 11 A/C-Heater Control - Typical
+                                                          1 - BLOWER SPEED CONTROL
+  (1) Position the A/C clutch relay into the receptacle   2 - TEMPERATURE SELECT COPNTROL
+                                                          3 - MODE SELECT CONTROL
+of the PDC.
+  (2) Align the A/C clutch relay terminals with the
+terminal cavities in the PDC receptacle and push
+down firmly on the relay until the terminals are fully
+seated.
+  (3) Close the cover of the PDC.
+  (4) Reconnect the negative battery cable.
+

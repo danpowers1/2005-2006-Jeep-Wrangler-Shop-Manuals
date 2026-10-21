@@ -1,0 +1,50 @@
+24 - 34     CONTROLS                                                                                     TJ
+RECIRCULATION DOOR ACTUATOR (Continued)
+  (1) Disconnect and isolate the negative battery        actuator onto the mount until it snaps into the
+cable.                                                   locked position.
+  (2) Remove the glove box (Refer to 23 - BODY/IN-         (4) Install the right front speaker and speaker
+STRUMENT PANEL/GLOVE BOX - REMOVAL).                     bezel (Refer to 8 - ELECTRICAL/AUDIO/SPEAKER -
+  (3) Remove the right front speaker bezel and           INSTALLATION).
+speaker (Refer to 8 - ELECTRICAL/AUDIO/                    (5) Install the glove box (Refer to 23 - BODY/IN-
+SPEAKER - REMOVAL).                                      STRUMENT PANEL/GLOVE BOX - INSTALLA-
+  (4) Using a small flat bladed tool, gently pry the     TION).
+actuator latch while pulling firmly outwards on the        (6) Reconnect the negative battery cable.
+actuator (Fig. 34). Rotate and tilt the actuator as
+required to remove the actuator from the HVAC air
+inlet housing mount.                                     VACUUM CHECK VALVE
+  (5) Disengage the actuator rod from the push-pin
+type retainer located on the end of the recirculation    DESCRIPTION
+door actuator lever.                                       Two vacuum check valves (Fig. 35) are installed in
+  (6) Disconnect the vacuum harness from the recir-      the accessory vacuum supply system. One is on the
+culation door actuator and remove the actuator from      accessory vacuum supply line in the engine compart-
+the vehicle.                                             ment, near the vacuum tap on the engine intake
+                                                         manifold. A second vacuum check valve is located at
+                                                         the HVAC system takeout. The vacuum check valves
+                                                         are designed to allow vacuum to flow in only one
+                                                         direction through the vacuum supply circuits.
+
+
+
+
+          Fig. 34 Recirculation Door Actuator
+1 - VACUUM HARNESS
+2 - ACTUATOR LATCH
+3 - RECIRCULATION DOOR ACTUATOR LEVER
+4 - HVAC AIR INLET HOUSING
+5 - RECIRCULATION DOOR ACTUATOR                                 Fig. 35 Vacuum Check Valve - Typical
+                                                         1 - VACUUM CHECK VALVE
+INSTALLATION                                             2 - DIRECTION OF AIR FLOW
+
+
+NOTE: The recirculation-air door and actuator are        OPERATION
+used only on models equipped with A/C.                      The use of the two vacuum check valves help to
+                                                         maintain the system vacuum needed to retain the
+   (1) Connect the vacuum harness to the recircula-      selected A/C-heater mode settings. The check valves
+tion door actuator.                                      prevent the engine from bleeding down system vac-
+   (2) Engage the actuator rod to the push-pin type      uum through the intake manifold during extended
+retainer located on the end of the recirculation door    heavy engine load (low engine vacuum) operation.
+actuator lever.                                             The vacuum check valves cannot be repaired and,
+   (3) Rotate and tilt the recirculation door actuator   if faulty or damaged, must be replaced.
+as required to install the actuator mount onto the
+HVAC air inlet housing mounting boss. Push the
+

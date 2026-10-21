@@ -1,0 +1,62 @@
+8E - 2   ELECTRONIC CONTROL MODULES                                                                       TJ
+ELECTRONIC CONTROL MODULES (Continued)
+  (6) Press ENTER to transfer the secret key (the         If ignition key programming is unsuccessful, the
+SKIM will send the secret key to the PCM).             DRBIIIt will display one of the following messages:
+  (7) Press PAGE BACK to get to the Select System         • Programming Not Attempted - The DRBIIIt
+menu and select ENGINE, MISCELLANEOUS, and             attempts to read the programmed key status and
+SRI MEMORY CHECK.                                      there are no keys programmed into SKIM memory.
+  (8) The DRBIIIt will ask, “Is odometer reading          • Programming Key Failed (Possible Used
+between XX and XX?” Select the YES or NO button        Key From Wrong Vehicle) - SKIM is unable to pro-
+on the DRBIIIt. If NO is selected, the DRBIIIt will    gram an ignition key transponder due to one of the
+read, “Enter Odometer Reading (From I.P. odome-        following:
+ter)”. Enter the odometer reading from the instru-          − The ignition key transponder is faulty.
+ment cluster and press ENTER.                               − The ignition key transponder is or has been
+                                                          already programmed to another vehicle.
+PROGRAMMING THE SKIM                                      • 8 Keys Already Learned, Programming Not
+   (1) Turn the ignition switch to the On position     Done - The SKIM transponder ID memory is full.
+(transmission in Park/Neutral).                           • Learned Key In Ignition - The ID for the igni-
+   (2) Use the DRBIIIt and select THEFT ALARM,         tion key transponder currently in the ignition lock
+SKIM, then MISCELLANEOUS.                              cylinder is already programmed in SKIM memory.
+   (3) Select PCM REPLACED (GAS ENGINE).
+   (4) Program the vehicle four-digit PIN into SKIM.
+   (5) Select COUNTRY CODE and enter the correct       COMMUNICATION
+country.
+                                                       DESCRIPTION
+NOTE: Be sure to enter the correct country code. If       The DaimlerChrysler Programmable Communica-
+the incorrect country code is programmed into          tion Interface (PCI) data bus system is a single wire
+SKIM, it cannot be changed and the SKIM must be        multiplex system used for vehicle communications on
+replaced.                                              many DaimlerChrysler Corporation vehicles. Multi-
+                                                       plexing is a system that enables the transmission of
+  (6) Select YES to update VIN (the SKIM will learn    several messages over a single channel or circuit. All
+the VIN from the PCM).                                 DaimlerChrysler vehicles use this principle for com-
+  (7) Press ENTER to transfer the secret key (the      munication between various microprocessor-based
+PCM will send the secret key to the SKIM).             electronic control modules. The PCI data bus exceeds
+  (8) Program ignition keys to the SKIM.               the Society of Automotive Engineers (SAE) J1850
+                                                       Standard for Class B Multiplexing.
+NOTE: If the PCM and the SKIM are replaced at the
+                                                          Many of the electronic control modules in a vehicle
+same time, all vehicle ignition keys will need to be
+                                                       require information from the same sensing device. In
+replaced and programmed to the new SKIM.
+                                                       the past, if information from one sensing device was
+                                                       required by several controllers, a wire from each con-
+PROGRAMMING IGNITION KEYS TO THE SKIM                  troller needed to be connected in parallel to that sen-
+   (1) Turn the ignition switch to the On position     sor. In addition, each controller utilizing analog
+(transmission in Park/Neutral).                        sensors required an Analog/Digital (A/D) converter in
+   (2) Use the DRBIIIt and select THEFT ALARM,         order to 9read9 these sensor inputs. Multiplexing
+SKIM, then MISCELLANEOUS.                              reduces wire harness complexity, sensor current
+   (3) Select PROGRAM IGNITION KEY’S.                  loads and controller hardware because each sensing
+   (4) Enter secured access mode by entering the       device is connected to only one controller, which
+vehicle four-digit PIN.                                reads and distributes the sensor information to the
+                                                       other controllers over the data bus. Also, because
+NOTE: A maximum of eight keys can be learned to        each controller on the data bus can access the con-
+each SKIM. Once a key is learned to a SKIM it (the     troller sensor inputs to every other controller on the
+key) cannot be transferred to another vehicle.         data bus, more function and feature capabilities are
+                                                       possible.
+  (5) Obtain ignition keys to be programmed from          In addition to reducing wire harness complexity,
+the customer (8 keys maximum).                         component sensor current loads and controller hard-
+  (6) Using the DRBIIIt, erase all ignition keys by    ware, multiplexing offers a diagnostic advantage. A
+selecting MISCELLANEOUS, and ERASE ALL CUR-            multiplex system allows the information flowing
+RENT IGN. KEYS.                                        between controllers to be monitored using a diagnos-
+  (7) Program all of the ignition keys.                tic scan tool. The DaimlerChrysler system allows an
+

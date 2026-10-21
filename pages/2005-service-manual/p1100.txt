@@ -1,0 +1,46 @@
+14 - 24     FUEL INJECTION                                                                                     TJ
+CRANKSHAFT POSITION SENSOR (Continued)
+
+
+
+
+            Fig. 2 CKP OPERATION - 2.4L
+1 - NOTCHES
+2 - CRANKSHAFT
+                                                                      Fig. 3 CKP OPERATION - 4.0L
+4.0L                                                        1 - CRANKSHAFT POSITION SENSOR
+                                                            2 - FLYWHEEL
+  Engine speed and crankshaft position are provided         3 - FLYWHEEL NOTCHES
+through the CKP sensor. The sensor generates pulses
+that are the input sent to the Powertrain Control            (3) Carefully twist sensor from cylinder block.
+Module (PCM). The PCM interprets the sensor input            (4) Check condition of sensor o-ring (Fig. 5).
+to determine the crankshaft position. The PCM then
+uses this position, along with other inputs, to deter-
+mine injector sequence and ignition timing.
+  The sensor is a hall effect device combined with an
+internal magnet. It is also sensitive to steel within a
+certain distance from it.
+  The flywheel/drive plate has groups of four notches
+at its outer edge. On 4.0L 6-cylinder engines there
+are three sets of notches (Fig. 3).
+  The notches cause a pulse to be generated when
+they pass under the sensor. The pulses are the input
+to the PCM. For each engine revolution there are 3
+groups of four pulses generated on 4.0L 6-cylinder
+engines.
+  The trailing edge of the fourth notch, which causes
+the pulse, is four degrees before top dead center
+(TDC) of the corresponding piston.
+  The engine will not operate if the PCM does not
+receive a CKP sensor input.
+
+REMOVAL                                                           Fig. 4 CKP SENSOR LOCATION - 2.4L
+                                                            1 - RIGHT FRONT ENGINE MOUNT
+                                                            2 - CKP SENSOR
+2.4L                                                        3 - MOUNTING BOLT
+  The Crankshaft Position (CKP) sensor is mounted           4 - ELECTRICAL CONNECTOR
+into the right front side of the cylinder block (Fig. 4).
+It is positioned and bolted into a machined hole.
+  (1) Disconnect sensor electrical connector.
+  (2) Remove sensor bolt.
+

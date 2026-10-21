@@ -1,0 +1,40 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                    8W - 80 - 21
+
+
+              C326 (HARD TOP) - BLACK (HARD TOP SIDE)
+              CAV                    CIRCUIT
+               1      C15 12BK/WT
+               2      -
+               3      W13 18BR/LG
+               4      F302 18BR/PK
+               5      F302 18BR/PK
+               6      Z913 12BK
+
+
+
+
+                   C329 (EXPORT) - BLACK (BODY SIDE)
+              CAV                    CIRCUIT
+               1      L36 16WT/DB
+               2      L7 18WT/YL
+               3      Z913 20BK
+
+
+
+
+                C329 (EXPORT) - BLACK (BUMPER SIDE)
+              CAV                    CIRCUIT
+               1      L36 18BR/WT
+               2      L7 18WT/YL
+               3      Z913 20BK
+
+
+
+
+                                        CAMSHAFT POSITION SENSOR - BLACK 3 WAY
+              CAV                    CIRCUIT                              FUNCTION
+               1      F856 20YL/PK                       5 VOLT SUPPLY
+               2      K900 20DB/DG                       SENSOR GROUND
+               3      K44 20DB/GY (2.4L)                 CMP SIGNAL
+               3      K44 18DB/GY (4.0L)                 CMP SIGNAL
+

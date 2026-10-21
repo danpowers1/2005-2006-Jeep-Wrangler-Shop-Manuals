@@ -1,0 +1,57 @@
+8W - 97 - 10                                 8W-97 POWER DISTRIBUTION                                   TJ
+POWER DISTRIBUTION CENTER (Continued)
+NOTE: It may be necessary to remove relay cas-
+settes that are not being serviced from the PDC
+housing in order to obtain sufficient clearance to
+service the faulty relay cassette. The same service
+procedure is repeated as necessary to remove each
+of the interfering relay wedges and relay cassettes
+from the PDC housing.
+
+  (2) From the top of the PDC housing, use a small
+screwdriver or a terminal pick tool (Special Tool Kit
+6680) to release the two latches that secure the relay
+cassette in the PDC (Fig. 13).
+
+
+
+
+                                                         Fig. 14 PDC Relay Cassette Remove/Install - Typical
+                                                         1 - PDC HOUSING
+                                                         2 - PDC RELAY CASSETTE
+                                                         3 - LATCHES
+
+                                                           (2) Press the PDC housing lower cover gently and
+                                                         evenly onto the PDC until each of the latches that
+                                                         secure the cover to the PDC is fully engaged.
+                                                           (3) Engage the mounts on the PDC housing with
+                                                         the stanchions of the PDC bracket and push the unit
+                                                         downward until the mount latches fully engage the
+                                                         mounting tabs on the PDC bracket.
+   Fig. 13 PDC Relay Cassette Latches - Typical            (4) Install the eyelet terminal over the two PDC
+                                                         B(+) terminal studs.
+1 - LATCHES
+2 - FROM SPECIAL TOOL KIT 6680                             (5) Install and tighten the two nuts that secure
+3 - PDC RELAY CASSETTES                                  the eyelet terminal to the B(+) terminal studs.
+                                                         Tighten the nuts to 11.3 N·m (100 in. lbs.).
+  (3) Gently and evenly press the relay cassette           (6) Install the B(+) terminal stud cover onto the
+down through the PDC housing.                            PDC.
+  (4) From the bottom of the PDC housing, remove           (7) Install the cover onto the PDC.
+the relay cassette from the PDC (Fig. 14).                 (8) Reconnect the battery negative cable.
+
+CAUTION: Do not remove the wiring and terminals          PDC B+ TERMINAL MODULE INSTALLATION
+from the terminal cavities of the faulty PDC relay         (1) From the bottom of the PDC housing, align and
+cassette at this time. Refer to the Assembly proce-      insert the B(+) terminal module into the PDC.
+dure that follows for the proper procedures for            (2) From the bottom of the PDC housing, align and
+transferring the wiring and terminals to the replace-    insert the two studs of the PDC B(+) terminal mod-
+ment PDC relay cassette.                                 ule through the bus bar in the PDC.
+                                                           (3) From the bottom of the PDC housing, press the
+                                                         B(+) terminal module gently and evenly into the PDC
+ASSEMBLY                                                 until both of the latches are fully engaged.
+                                                           (4) Install the PDC housing lower cover.
+POWER DISTRIBUTION CENTER ASSEMBLY
+                                                         PDC RELAY WEDGE INSTALLATION
+PDC HOUSING LOWER COVER INSTALLATION                       (1) From the top of the PDC housing, align and
+  (1) Align the PDC housing lower cover to the bot-      insert the PDC relay wedge latch arms into the cor-
+tom of the PDC.                                          rect cavities in the relay cassette.
+

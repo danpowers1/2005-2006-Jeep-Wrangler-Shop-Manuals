@@ -1,0 +1,53 @@
+14 - 4    FUEL DELIVERY                                                                                       TJ
+
+
+FUEL PUMP MODULE                                           motor powers the fuel pump. The electric fuel pump
+                                                           is not a separate, serviceable component.
+DESCRIPTION                                                Fuel Filters
+  The fuel pump module assembly (6) (Fig. 1) is
+                                                             Two fuel filters are used. One is located at the bot-
+located on the top of the fuel tank.
+                                                           tom of the fuel pump module. The other is located
+  The module assembly (6) contains the following
+                                                           inside the module. A separate frame mounted fuel fil-
+components:
+                                                           ter is not used with any engine.
+  • An internal fuel filter
+                                                             Both fuel filters are designed for extended service.
+  • A separate fuel pick-up, or inlet filter
+                                                           They do not require normal scheduled maintenance.
+  • A fuel pressure regulator (4)
+                                                           Filters should only be replaced if a diagnostic proce-
+  • An electric fuel pump
+                                                           dure indicates to do so.
+  • A lockring to retain pump module to tank
+  • A soft gasket between tank flange and module
+                                                           Fuel Pressure Regulator
+  • A fuel gauge sending unit (fuel level sensor)
+                                                             The fuel pressure regulator is located within fuel
+  • Fuel line connection
+                                                           pump module.
+  If the fuel gauge sending unit , electrical fuel
+pump, primary inlet filter, fuel filter or fuel pressure
+                                                           Fuel Gauge Sending Unit (Fuel level sensor)
+regulator require service, the fuel pump module must
+                                                             The fuel gauge sending unit (fuel level sensor) is
+be replaced.
+                                                           attached to the side of the fuel pump module. The
+                                                           sending unit consists of a float, an arm, and a vari-
+Electric Fuel Pump
+                                                           able resistor track (card).
+  The electric fuel pump is located inside of the fuel
+pump module. A 12 volt, permanent magnet, electric
+
+
+
+
+                                            Fig. 1 TOP OF FUEL TANK
+1 - FUEL PUMP MODULE LOCKRING                              7 - SKID PLATE
+2 - FUEL SUPPLY LINE                                       8 - FUEL FILL FITTING
+3 - ELECTRICAL CONNECTOR                                   9 - FUEL VENT FITTING
+4 - VAPOR LINE
+5 - FUEL TANK MOUNTING STRAPS (2)
+6 - FUEL PUMP MODULE ASSEMBLY
+

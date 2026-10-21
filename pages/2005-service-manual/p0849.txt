@@ -1,0 +1,43 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                       8W - 80 - 49
+
+
+                                RIGHT FRONT TURN SIGNAL LAMP (EXPORT) - BLACK 3 WAY
+              CAV                  CIRCUIT                                   FUNCTION
+               1    L60 18WT/TN                          RIGHT TURN SIGNAL
+               2    -                                    -
+               3    Z962 18BK                            GROUND
+
+
+
+
+                                   RIGHT FRONT WHEEL SPEED SENSOR - BLACK 2 WAY
+              CAV                  CIRCUIT                                   FUNCTION
+               1    B6 18DG/WT                           RIGHT FRONT WHEEL SPEED SENSOR (-)
+               2    B7 18DG/VT                           RIGHT FRONT WHEEL SPEED SENSOR (+)
+
+
+
+
+                                             RIGHT HEADLAMP - BLACK 3 WAY
+              CAV                  CIRCUIT                                   FUNCTION
+               1    L300 14LG/WT                         DIMMER SWITCH HIGH BEAM OUTPUT
+               2    L4 14WT/LG                           DIMMER SWITCH LOW BEAM OUTPUT
+               3    Z962 18BK                            GROUND
+
+
+
+
+                            RIGHT HEADLAMP LEVELING MOTOR (EXPORT) - BLACK 3 WAY
+              CAV                  CIRCUIT                                   FUNCTION
+               1    L45 20WT/OR                          FUSED HEADLAMP SWITCH OUTPUT
+               2    L13 20WT/YL                          HEADLAMP ADJUST SIGNAL
+               3    Z962 20BK                            GROUND
+
+
+
+
+                                     RIGHT LICENSE LAMP (EXPORT) - GRAY 2 WAY
+              CAV                  CIRCUIT                                   FUNCTION
+               1    L7 18WT/YL                           HEADLAMP SWITCH OUTPUT
+               2    Z913 20BK                            GROUND
+

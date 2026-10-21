@@ -1,0 +1,64 @@
+TJ                                                                                  FUEL INJECTION         14 - 27
+
+
+FUEL INJECTOR                                                 The fuel injectors are electrical solenoids. The
+                                                           injector contains a pintle that closes off an orifice at
+                                                           the nozzle end. When electric current is supplied to
+DESCRIPTION
+                                                           the injector, the armature and needle move a short
+  An individual fuel injector (Fig. 10) is used for each
+                                                           distance against a spring, allowing fuel to flow out
+individual cylinder.
+                                                           the orifice. Because the fuel is under high pressure, a
+                                                           fine spray is developed in the shape of a pencil
+                                                           stream. The spraying action atomizes the fuel, add-
+                                                           ing it to the air entering the combustion chamber.
+                                                              The nozzle (outlet) ends of the injectors are posi-
+                                                           tioned into openings in the intake manifold just
+                                                           above the intake valve ports of the cylinder head.
+                                                           The engine wiring harness connector for each fuel
+                                                           injector is equipped with an attached numerical tag
+                                                           (INJ 1, INJ 2 etc.). This is used to identify each fuel
+                                                           injector.
+                                                              The injectors are energized individually in a
+                                                           sequential order by the powertrain control module
+                                                           (PCM). The PCM will adjust injector pulse width by
+                                                           switching the ground path to each individual injector
+         Fig. 10 FUEL INJECTOR - TYPICAL                   on and off. Injector pulse width is the period of time
+1 - FUEL INJECTOR
+                                                           that the injector is energized. The PCM will adjust
+2 - NOZZLE                                                 injector pulse width based on various inputs it
+3 - TOP (FUEL ENTRY)                                       receives.
+                                                              Battery voltage is supplied to the injectors through
+OPERATION                                                  the ASD relay.
+                                                              The PCM determines injector pulse width based on
+OPERATION - PCM OUTPUT                                     various inputs.
+  The nozzle ends of the injectors are positioned into
+openings in the intake manifold just above the intake      REMOVAL
+valve ports of the cylinder head. The engine wiring          (1) Remove fuel rail. Refer to Fuel Injector Rail
+harness connector for each fuel injector is equipped       Removal in this section.
+with an attached numerical tag (INJ 1, INJ 2 etc.).          (2) Disconnect clip(s) that retain fuel injector(s) to
+This is used to identify each fuel injector with its       fuel rail (Fig. 11).
+respective cylinder number.
+  The injectors are energized individually in a
+sequential order by the Powertrain Control Module
+(PCM). The PCM will adjust injector pulse width by
+switching the ground path to each individual injector
+on and off. Injector pulse width is the period of time
+that the injector is energized. The PCM will adjust
+injector pulse width based on various inputs it
+receives.
+  Battery voltage (12 volts +) is supplied to the injec-
+tors through the ASD relay. The ASD relay will shut-
+down the 12 volt power source to the fuel injectors if
+the PCM senses the ignition is on, but the engine is
+not running. This occurs after the engine has not
+been running for approximately 1.8 seconds.
+  The PCM determines injector on-time (pulse width)
+based on various inputs.                                           Fig. 11 FUEL INJECTOR MOUNTING
+                                                           1 - INLET FITTING
+OPERATION - FUEL INJECTOR                                  2 - FUEL INJECTOR RAIL
+                                                           3 - CLIP
+  The top (fuel entry) end of the injector (Fig. 10) is    4 - FUEL INJECTOR
+attached into an opening on the fuel rail.
+

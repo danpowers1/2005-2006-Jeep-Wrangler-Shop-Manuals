@@ -1,0 +1,64 @@
+TJ                                                                               SPEED CONTROL         8P - 7
+
+
+VACUUM RESERVOIR                                          apply vacuum. If vacuum will not hold, diaphragm
+                                                          within check valve has ruptured. Replace valve.
+DESCRIPTION
+  The vacuum reservoir is a plastic storage tank con-
+                                                        REMOVAL
+                                                          The vacuum reservoir is located under the vehicle
+nected to an engine vacuum source by vacuum lines.
+                                                        battery tray (Fig. 6).
+OPERATION
+   The vacuum reservoir is used to supply the vac-
+uum needed to maintain proper speed control opera-
+tion when engine vacuum drops, such as in climbing
+a grade while driving. A one-way check valve is used
+in the vacuum line between the reservoir and the
+vacuum source. This check valve is used to trap
+engine vacuum in the reservoir. On certain vehicle
+applications, this reservoir is shared with the heat-
+ing/air-conditioning system. The vacuum reservoir
+cannot be repaired and must be replaced if faulty.
+
+DIAGNOSIS AND TESTING - VACUUM
+RESERVOIR
+  (1) Disconnect vacuum hose at speed control servo
+and install a vacuum gauge into the disconnected
+hose.
+  (2) Start engine and observe gauge at idle. Vac-
+uum gauge should read at least ten inches of mer-
+cury.
+  (3) If vacuum is less than ten inches of mercury,
+determine source of leak. Check vacuum line to
+                                                           Fig. 6 Vacuum Reservoir Removal/Installation
+engine for leaks. Also check actual engine intake
+manifold vacuum. If manifold vacuum does not meet       1 - SCREW
+                                                        2 - VACUUM CHECK VALVE (2)
+this requirement, check for poor engine performance     3 - VACUUM LINE RETAINER (2)
+and repair as necessary.                                4 - ACCESSORY VACUUM SUPPLY LINE
+                                                        5 - ENGINE VACUUM FITTING
+  (4) If vacuum line to engine is not leaking, check    6 - HVAC VACUUM SUPPLY LINE
+for leak at vacuum reservoir. To locate and gain        7 - INNER FENDER
+access to reservoir, refer to Vacuum Reservoir Remov-   8 - VACUUM RESERVOIR
+al/Installation in this group. Disconnect vacuum line
+at reservoir and connect a hand-operated vacuum           (1) Remove battery and battery tray. Refer to Bat-
+pump to reservoir fitting. Apply vacuum. Reservoir      tery Removal/Installation.
+vacuum should not bleed off. If vacuum is being lost,     (2) Disconnect vacuum supply line at reservoir
+replace reservoir.                                      (Fig. 6).
+  (5) Verify operation of one-way check valve and         (3) Remove screw securing reservoir to inner
+check it for leaks.                                     fender.
+     (a) Locate one-way check valve. The valve is         (4) Remove reservoir from vehicle.
+  located in vacuum line between vacuum reservoir
+  and engine vacuum source. Disconnect vacuum           INSTALLATION
+  hoses (lines) at each end of valve.                     The vacuum reservoir is located under the vehicle
+     (b) Connect a hand-operated vacuum pump to         battery tray (Fig. 6).
+  reservoir end of check valve. Apply vacuum. Vac-        (1) Position reservoir to vehicle and install mount-
+  uum should not bleed off. If vacuum is being lost,    ing screw.
+  replace one-way check valve.                            (2) Tighten screw to 1.2 N·m (10 in. lbs.) torque.
+     (c) Connect a hand-operated vacuum pump to           (3) Connect vacuum line to reservoir.
+  vacuum source end of check valve. Apply vacuum.         (4) Install battery and battery tray. Refer to Bat-
+  Vacuum should flow through valve. If vacuum is        tery Removal/Installation.
+  not flowing, replace one-way check valve. Seal the
+  fitting at opposite end of valve with a finger and
+

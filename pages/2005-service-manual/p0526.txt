@@ -1,0 +1,59 @@
+8O - 16    RESTRAINTS                                                                                        TJ
+CLOCKSPRING (Continued)
+movable steering components. The clockspring must        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+be re-centered following completion of this service or   BAG DEPLOYMENT.
+the tape may be damaged.
+  Service replacement clocksprings are shipped pre-
+centered and with a plastic locking pin installed.
+This locking pin should not be disengaged until the
+clockspring has been installed on the steering col-
+umn. If the locking pin is removed or damaged before
+the clockspring is installed on a steering column, the
+clockspring centering procedure must be performed.
+(Refer to 8 - ELECTRICAL/RESTRAINTS/CLOCK-
+SPRING - STANDARD PROCEDURE - CLOCK-
+SPRING CENTERING).
+
+STANDARD PROCEDURE - CLOCKSPRING
+CENTERING
+   The clockspring is designed to wind and unwind
+when the steering wheel is rotated, but is only
+designed to rotate the same number of turns (about                        Fig. 17 Clockspring
+five complete rotations) as the steering wheel can be    1 - CASE
+turned from stop to stop. Centering the clockspring      2 - LOCKING PIN
+indexes the clockspring tape to other steering compo-    3 - ROTOR
+                                                         4 - ROTOR FLAT (2)
+nents so that it can operate within its designed         5 - CLOCKSPRING PIGTAIL WIRES (NOT SHOWN)
+travel limits. The rotor of a centered clockspring can
+be rotated two and one-half turns in either direction    NOTE: Before starting this procedure, be certain to
+from the centered position, without damaging the         turn the steering wheel until the front wheels are in
+clockspring tape.                                        the straight-ahead position.
+   However, if the clockspring is removed for service
+or if the steering column is disconnected from the         (1) Place the front wheels in the straight-ahead
+steering gear, the clockspring tape can change posi-     position.
+tion relative to the other steering components. The        (2) Remove the clockspring from the steering col-
+clockspring must then be re-centered following com-      umn. (Refer to 8 - ELECTRICAL/RESTRAINTS/
+pletion of such service or the clockspring tape may be   CLOCKSPRING - REMOVAL).
+damaged. Service replacement clocksprings are              (3) Rotate the clockspring rotor clockwise to the
+shipped pre-centered, with a plastic locking pin         end of its travel. Do not apply excessive torque.
+installed (Fig. 17). This locking pin should not be        (4) From the end of the clockwise travel, rotate the
+removed until the clockspring has been installed on      rotor about two and one-half turns counterclockwise,
+the steering column. If the locking pin is removed       until the rotor flats are horizontal. If the clockspring
+before the clockspring is installed on a steering col-   pigtail wires are not oriented towards the bottom of
+umn, the clockspring centering procedure must be         the clockspring, rotate the rotor another one-half
+performed.                                               turn in the counterclockwise direction. The clock-
+                                                         spring is now centered.
+WARNING: TO AVOID PERSONAL INJURY OR                       (5) Lock the clockspring rotor to the clockspring
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                case to maintain clockspring centering until it is
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                  reinstalled on the steering column.
+TEM BEFORE ATTEMPTING ANY STEERING                         (6) The front wheels should still be in the straight-
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-               ahead position. Reinstall the clockspring onto the
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                   steering column. (Refer to 8 - ELECTRICAL/RE-
+VICE. DISCONNECT AND ISOLATE THE BATTERY                 STRAINTS/CLOCKSPRING - INSTALLATION).
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                 REMOVAL
+CHARGE BEFORE PERFORMING FURTHER DIAG-                     The clockspring cannot be repaired. It must be
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY              replaced if faulty or damaged, or if the driver airbag
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                    has been deployed.
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+

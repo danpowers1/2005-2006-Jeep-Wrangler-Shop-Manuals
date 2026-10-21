@@ -1,0 +1,56 @@
+24 - 4    HEATING & AIR CONDITIONING                                                                             TJ
+HEATING & AIR CONDITIONING (Continued)
+  (1) Connect a tachometer and a manifold gauge set
+or an A/C recycling/charging station.
+  (2) Set the mode control to the Recirculation mode,
+the temperature control to the full cool position, and
+the blower fan to the highest speed position.
+  (3) Start the engine and hold at 1,000 rpm with
+the A/C clutch engaged.
+  (4) The engine should be warmed up to operating
+temperature with the doors closed and windows
+open.
+  (5) Insert a thermometer in the driver side center
+panel air outlet and operate the engine for five min-
+utes.
+  (6) The A/C clutch may cycle, depending upon the
+ambient temperature and humidity. If the A/C clutch
+cycles, unplug the wire harness connector from the
+A/C low pressure switch located on the accumulator                Fig. 3 A/C Low Pressure Switch - Typical
+(Fig. 3), then place a jumper wire across the termi-         1 - A/C LOW PRESSURE SWITCH
+                                                             2 - ACCUMULATOR
+nals of the wire harness connector for the switch.
+  (7) With the A/C clutch engaged, record the air
+                                                          the center panel outlet and the A/C compressor dis-
+outlet discharge temperature, the discharge pressure
+                                                          charge pressure (high side) to the A/C Performance
+(high side service port) and the suction pressure (low
+                                                          Temperature and Pressure chart.
+side service port). Compare the air temperature at
+
+                         A/C PERFORMANCE TEMPERATURE AND PRESSURE
+
+Ambient Air                    21° C             27° C               32° C           38° C             43° C
+Temperature                   (70° F)           (80° F)             (90° F)         (100° F)          (110° F)
+Air Temperature at            -3 to 3° C       1 to 7° C           3 to 9° C       6 to 13° C        10 to 18° C
+Center Panel Outlet         (27 to 38° F)    (33 to 44° F)       (37 to 48° F)    (43 to 55° F)     (50 to 64° F)
+Evaporator Inlet                                                  262 to 324       303 to 365
+                          179 to 241 kPa    221 to 283 kPa                                         345 to 414 kPa
+Pressure at Charge                                                    kPa              kPa
+                           (26 to 35 psi)    (32 to 41 psi)                                         (50 to 60 psi)
+Port                                                             (38 to 47 psi)   (44 to 53 psi)
+                           1240 to 1655      1380 to 1790        1720 to 2070     1860 to 2345
+                                                                                                    2070 to 2690
+Compressor                     kPa               kPa                 kPa              kPa
+                                                                                                         kPa
+Discharge Pressure          (180 to 240       (200 to 260         (250 to 300      (270 to 340
+                                                                                                   (300 to 390 psi)
+                                psi)              psi)                psi)             psi)
+
+
+  (8) If the air outlet temperature fails to meet the
+specifications in the A/C Performance Temperature
+and Pressure chart, or if the A/C compressor dis-
+charge pressure is high, refer to the A/C Pressure
+Diagnosis chart.
+

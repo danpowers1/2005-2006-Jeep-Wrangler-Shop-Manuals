@@ -1,0 +1,61 @@
+TJ                                                                         INSTRUMENT CLUSTER            8J - 29
+
+
+FUEL GAUGE                                                controls the gauge needle position and provides the
+                                                          following features:
+                                                             • Percent Tank Full Message - Each time the
+DESCRIPTION
+                                                          cluster receives a message from the PCM indicating
+                                                          the percent tank full, the cluster programming
+                                                          applies an algorithm to calculate the proper gauge
+                                                          needle position, then moves the gauge needle to the
+                                                          proper relative position on the gauge scale. The algo-
+               Fig. 15 Fuel Gauge Icon                    rithm is used to dampen gauge needle movement
+   A fuel gauge is standard equipment on all instru-      against the negative effect that fuel sloshing within
+ment clusters. The fuel gauge is located in the lower     the fuel tank can have on accurate inputs from the
+left quadrant of the instrument cluster, below the        fuel tank sending unit to the PCM.
+voltage gauge. The fuel gauge consists of a movable          • Less Than 12.5 Percent Tank Full Message -
+gauge needle or pointer controlled by the instrument      Each time the cluster receives a message from the
+cluster circuitry and a fixed 90 degree scale on the      PCM indicating that the percent tank full is less
+cluster overlay that reads left-to-right from “E” (or     than about 12.5 (one-eighth), the gauge needle is
+Empty) to “F” (or Full). An International Control and     moved to the proper position on the gauge scale, the
+Display Symbol icon for “Fuel” is located on the clus-    low fuel indicator is illuminated, and a single chime
+ter overlay, in the center of the gauge directly above    tone is sounded. The low fuel indicator remains illu-
+the hub of the gauge needle (Fig. 15). An arrowhead       minated until the cluster receives messages from the
+pointed toward the left side of the vehicle is            PCM for a continuous twenty seconds indicating that
+imprinted on the cluster overlay next to the “Fuel”       the percent tank full has increased by more than
+icon in the fuel gauge to provide the driver with a       0.625 gallons or until the ignition switch is turned to
+reminder as to the location of the fuel filler access.    the Off position, whichever occurs first. The chime
+The fuel gauge graphics are white and blue against a      tone feature will occur only once per ignition cycle.
+black field except for a single red graduation at the        • Less Than Empty Percent Tank Full Mes-
+low end of the gauge scale, making them clearly vis-      sage - Each time the cluster receives a message from
+ible within the instrument cluster in daylight. When      the PCM indicating that the percent tank full is less
+illuminated from behind by the panel lamps dimmer         than empty, the gauge needle is moved to the far left
+controlled cluster illumination lighting with the exte-   end of the gauge scale and the low fuel indicator is
+rior lamps turned On, the white graphics appear           illuminated immediately. This message would indi-
+white, the blue graphics appear blue, and the red         cate that the fuel tank sender input to the PCM is a
+graphics appear red. The orange gauge needle is           short circuit.
+internally illuminated. Gauge illumination is pro-           • More Than Full Percent Tank Full Message
+vided by replaceable incandescent bulb and bulb           - Each time the cluster receives a message from the
+holder units located on the instrument cluster elec-      PCM indicating the percent tank full is more than
+tronic circuit board. The fuel gauge is serviced as a     full, the gauge needle is moved to the far left end of
+unit with the instrument cluster.                         the gauge scale and the low fuel indicator is illumi-
+                                                          nated immediately. This message would indicate that
+OPERATION                                                 the fuel tank sender input to the PCM is an open cir-
+   The fuel gauge gives an indication to the vehicle      cuit.
+operator of the level of fuel in the fuel tank. This         • Communication Error - If the cluster fails to
+gauge is controlled by the instrument cluster circuit     receive a percent tank full message, it will hold the
+board based upon cluster programming and elec-            gauge needle at the last indication about twelve sec-
+tronic messages received by the cluster from the          onds or until the ignition switch is turned to the Off
+Powertrain Control Module (PCM) over the Program-         position, whichever occurs first. After twelve seconds,
+mable Communications Interface (PCI) data bus. The        the cluster will move the gauge needle to the left end
+fuel gauge is an air core magnetic unit that receives     of the gauge scale and the low fuel indicator is illu-
+battery current on the instrument cluster electronic      minated immediately.
+circuit board through the fused ignition switch out-         • Actuator Test - Each time the cluster is put
+put (run-start) circuit whenever the ignition switch is   through the actuator test, the gauge needle will be
+in the On or Start positions. The cluster is pro-         swept to several calibration points on the gauge scale
+grammed to move the gauge needle back to the low          in a prescribed sequence to confirm the functionality
+end of the scale after the ignition switch is turned to   of the gauge and the cluster control circuitry.
+the Off position. The instrument cluster circuitry           The PCM continually monitors the fuel tank send-
+                                                          ing unit to determine the level of the fuel in the fuel
+

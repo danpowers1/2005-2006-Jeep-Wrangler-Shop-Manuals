@@ -1,0 +1,34 @@
+TJ                                                                     EVAPORATIVE EMISSIONS           25 - 19
+NATURAL VACUUM LEAK DETECTION ASSEMBLY (Continued)
+
+
+
+
+Fig. 18 COMMON SUPPORT BRACKET ASSEMBLY                              Fig. 19 ORVR VAPOR LINE
+1 - LDP FILTER                                          1 - EVAP CANISTER
+2 - COMMON SUPPORT BRACKET                              2 - NVLD FILTER
+3 - EVAP CANISTER NUTS (4)                              3 - NVLD PUMP
+4 - EVAP CANISTER                                       4 - VAPOR LINES
+5 - LDP                                                 5 - FLOW VALVE
+6 - LDP ELEC. CONNECT.                                  6 - TOP OF FUEL TANK)
+
+   (3) Install EVAP canister to common support          VACUUM LINES
+bracket and install four mounting nuts (3) (Fig. 18).
+   (4) Carefully install vapor/vacuum lines to pump,    DESCRIPTION
+filter and EVAP canister. The vapor/vacuum lines           A vacuum schematic for emission related items can
+and hoses must be firmly connected. Check the           be found on the VECI label. Refer to Vehicle Emis-
+vapor/vacuum lines at the LDP, LDP filter and           sion Control Information (VECI) Label for label loca-
+EVAP canister purge solenoid for damage or              tion.
+leaks. If a leak is present, a Diagnostic Trouble
+Code (DTC) will be set.
+   (5) Raise assembly into position while connecting    VAPOR CANISTER
+electrical connector to pump. Do not allow this
+assembly to hang from the wire harness. While           DESCRIPTION
+assembly is still being supported, connect vapor line     The EVAP (vapor) canister (1), Natural Vacuum
+(4) (Fig. 19) to fuel tank.                             Leak Detection (NVLD) pump (3) and pump filter are
+   (6) Position common support bracket assembly to      attached to a common support bracket. This support
+body. Install and tighten bolts.                        assembly is located to the rear of the right / rear tire
+   (7) Install vertical support bracket.                under the plastic wheelhouse liner (Fig. 20).
+   (8) Install wheelhouse liner at right/rear wheel.
+   (9) Install right/rear tire/wheel.
+

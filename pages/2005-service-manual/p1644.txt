@@ -1,0 +1,55 @@
+24 - 76     PLUMBING                                                                                           TJ
+ACCUMULATOR (Continued)
+
+INSTALLATION                                                HEATER CORE
+NOTE: If the A/C accumulator is being replaced, add         DESCRIPTION
+90 milliliters (3 fluid ounces) of refrigerant oil to the
+                                                              The heater core (Fig. 17) is mounted in the HVAC
+refrigerant system. Use only refrigerant oil of the
+                                                            housing, located behind the instrument panel. The
+type recommended for the A/C compressor in the
+                                                            heater core is a heat exchanger made of rows of
+vehicle.
+                                                            tubes and fins. The heater core inlet and outlet tubes
+   (1) If removed, position the accumulator into the        are integral to the heater core and cannot be serviced
+retaining band and loosely install the bolt.                separately.
+   (2) Position the accumulator and retaining band            The heater core can be serviced by removing the
+into the slotted hole of the support bracket on the         HVAC housing from the vehicle.
+dash panel.
+   (3) Remove the tape or plugs from the opened
+refrigerant line fittings and the accumulator ports.
+   (4) Lubricate new rubber O-ring seals with clean
+refrigerant oil and install them on the refrigerant
+line fittings. Use only the specified O-rings as they
+are made of a special material for the R-134a system.
+Use only refrigerant oil of the type recommended for
+the A/C compressor in the vehicle.
+   (5) Connect the refrigerant lines to the accumula-
+tor.
+   (6) Install the nuts that secure the refrigerant
+lines to the accumulator. Tighten the nuts to 9 N·m
+(80 in. lbs.).
+   (7) Tighten the bolt that secures the accumulator
+retaining band to the support bracket. Tighten the
+bolt to 4.5 N·m (40 in. lbs.).
+   (8) Install the plastic retaining clip that secures
+the A/C suction line to the liquid line near the accu-
+mulator.                                                                Fig. 17 Heater Core - Typical
+   (9) If removed, install the A/C low pressure switch      1 - HEATER CORE
+onto the accumulator using a new O-ring seal. Hand-         2 - INLET AND OUTLET TUBES
+tighten the switch securely.
+   (10) Connect the wire harness connector to the A/C       OPERATION
+low pressure switch.                                           Engine coolant is circulated through the heater
+   (11) Reconnect the negative battery cable.               hoses and heater core at all times. As the coolant
+   (12) Evacuate the refrigerant system (Refer to 24 -      flows through the heater core, heat removed from the
+HEATING & AIR CONDITIONING/PLUMBING -                       engine is transferred to the heater core fins and
+STANDARD PROCEDURE - REFRIGERANT SYS-                       tubes. Air directed through the heater core picks up
+TEM EVACUATE).                                              the heat from the heater core fins. The blend door
+   (13) Charge the refrigerant system (Refer to 24 -        allows control of the heater output air temperature
+HEATING & AIR CONDITIONING/PLUMBING -                       by regulating the amount of air that is flowing
+STANDARD PROCEDURE - REFRIGERANT SYS-                       through the heater core within the HVAC housing.
+TEM CHARGE).                                                The blower motor speed controls the volume of air
+   (14) Charge the refrigerant system (Refer to 24 -        flowing through the HVAC housing.
+HEATING & AIR CONDITIONING/PLUMBING -                          The heater core cannot be repaired and, if faulty or
+STANDARD PROCEDURE).                                        damaged, it must be replaced.
+

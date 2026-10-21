@@ -1,0 +1,45 @@
+8W - 80 - 14   8W-80 CONNECTOR PIN-OUTS                   TJ
+
+                      C182 (2.4L) - BLACK (ENGINE SIDE)
+                CAV                    CIRCUIT
+                 1      -
+                 2      -
+                 3      K61 18VT/GY
+                 4      K961 18BR/VT
+                 5      K21 18DB/LG
+                 6      K2 18VT/OR
+                 7      K1 18VT/BR
+                 8      K22 18BR/OR
+                 9      F856 18YL/PK
+                 10     G6 18VT/GY
+                 11     -
+                 12     F855 18PK/YL
+                 13     -
+                 14     -
+
+
+
+
+                              C203 - (I/P SIDE)
+                CAV                    CIRCUIT
+                 1      F505 20PK/YL
+                 2      Z10 20BK
+                 3      L1 20WT/LG
+                 4      G231 20VT/YL
+                 5      G32 20VT/LB
+                 6      M22 20YL/OR
+                 7      M21 20YL/BR
+
+
+
+
+                            C203 - (MIRROR SIDE)
+                CAV                    CIRCUIT
+                 1      F505 20DB/WT
+                 2      Z2 20BK/LG
+                 3      L1 20VT/BK
+                 4      G31 20VT/LG
+                 5      G32 20BK/LB
+                 6      M22 20YL
+                 7      M21 20PK/WT
+

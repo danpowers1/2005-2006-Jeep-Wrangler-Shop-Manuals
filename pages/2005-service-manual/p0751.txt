@@ -1,0 +1,22 @@
+TJ                                               8W-44 INTERIOR LIGHTING                                                         8W - 44 - 1
+
+                                            8W-44 INTERIOR LIGHTING
+Component                                                          Page    Component                                                         Page
+A/C-Heater Control . . . . . . . . . . . . . . . . . . . 8W-44-5           Instrument Cluster . . . . . . . . . . . . . . . 8W-44-3, 4, 5
+Ambient Temperature Sensor . . . . . . . . . . . 8W-44-6                   Left Courtesy Lamp . . . . . . . . . . . . . . . . . . 8W-44-3
+Axle Lock Switch . . . . . . . . . . . . . . . . . . 8W-44-3, 5            Left Dome Lamp . . . . . . . . . . . . . . . . . . . . 8W-44-3
+Back-Up Lamp Switch . . . . . . . . . . . . . . . . 8W-44-2                Multi-Function Switch . . . . . . . . . . . . . . . . 8W-44-5
+Compass/Temperature Mirror . . . . . . . . . 8W-44-3, 6                    Passenger Door Ajar Switch . . . . . . . . . . . . 8W-44-4
+Data Link Connector . . . . . . . . . . . . . . . . . 8W-44-3              Power Distribution Center . . . . . . . . . . . . . 8W-44-2
+Driver Door Ajar Switch . . . . . . . . . . . . . . . 8W-44-4              Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-5
+Fuse 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-4     Rear Window Defogger Switch . . . . . . . . . . 8W-44-5
+Fuse 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-2     Rear Wiper/Washer Switch . . . . . . . . . . . . . 8W-44-5
+Fuse 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-6    Right Courtesy Lamp . . . . . . . . . . . . . . . . . 8W-44-3
+Fuse 26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-2    Right Dome Lamp . . . . . . . . . . . . . . . . . . . 8W-44-3
+Fuse Block . . . . . . . . . . . . . . . . . . . . . 8W-44-2, 4, 6         Tow/Haul Overdrive Off Switch . . . . . . . . . 8W-44-5
+G100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-2   Transmission Range Indicator
+G200 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-5, 6      Illumination . . . . . . . . . . . . . . . . . . . . . . 8W-44-5
+G201 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-5   Transmission Range Sensor . . . . . . . . . . . . 8W-44-2
+G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-44-4, 5    Underhood Lamp . . . . . . . . . . . . . . . . . . . . 8W-44-2
+Ignition Switch . . . . . . . . . . . . . . . . . . . . . . 8W-44-4
+

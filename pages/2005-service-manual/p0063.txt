@@ -1,0 +1,27 @@
+TJ                                                                         PROPELLER SHAFT         3-5
+PROPELLER SHAFT (Continued)
+NOTE: This measurement will give you the pinion       (9) Subtract smaller figure from larger (C minus
+shaft or Input Yoke Angle (B).                      B) to obtain axle Input Operating Angle.
+                                                      Refer to rules given below and the example in (Fig.
+                                                    7) for additional information.
+                                                      • Good cancellation of U-joint operating angles
+                                                    (within 1°).
+                                                      • Operating angles less than 3°.
+                                                      • At least 1/2 of one degree continuous operating
+                                                    (propeller shaft) angle.
+
+
+
+
+              Fig. 6 INPUT YOKE ANGLE (B)
+1 - PINION YOKE BEARING CAP
+2 - INCLINOMETER
+
+
+
+
+                                 Fig. 7 UNIVERSAL JOINT ANGLE EXAMPLE
+1 - 4.9° Angle (C)                                   4 - 3.0° Angle (A)
+2 - 3.2° Angle (B)                                   5 - Output Yoke
+3 - Input Yoke
+

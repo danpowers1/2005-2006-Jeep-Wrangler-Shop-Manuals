@@ -1,0 +1,50 @@
+8W - 91 - 4                           8W-91 CONNECTOR/GROUND/SPLICE LOCATION                        TJ
+CONNECTOR/GROUND/SPLICE LOCATION (Continued)
+
+Connector Name/Number            Color        Location                                  Fig.
+Left Front Position Lamp         BK           At Lamp                                   1
+(Export)
+Left Front Speaker               BK           At Speaker                                24, 27
+Left Front Turn Signal Lamp      BK           At Lamp, See Right                        2
+(Export)
+Left Front Wheel Speed           BK           Left Side of Engine Compartment Near      13, 14
+Sensor                                        Hydraulic Control Unit
+Left Headlamp                    BK           Rear of Lamp                              1
+Left Headlamp Leveling           BK           Near Headlamp at Motor                    1
+Motor (Export)
+Left License Lamp (Export)       GY           At Lamp                                   41, 42
+Left Rear Lamp Assembly          BK           At Lamp                                   41, 42
+Left Rear Speaker                BK           In Left Speaker/lamp Pod                  N/S
+Left Rear Wheel Speed            BK           Near Vehicle Speed Sensor T/O             16, 40
+Sensor
+Left Side Marker Lamp            GY           At Lamp, See Right                        2
+Left Side Repeater Lamp          GY           At Lamp, See Right                        2
+(Export)
+Left Speed Control Switch                     Left Steering Wheel                       31
+Manifold Absolute Pressure       BK           Side of Throttle Body                     4, 5
+Sensor
+Multi-Function Switch C1         GY           Steering Column                           30
+Multi-Function Switch C2         BK           Steering Column                           30
+Natural Vacuum Leak              BK           Under Rear Body                           41, 42
+Detection Assembly
+Output Speed Sensor              BK           Rear Left Side of Trans                   16, 36
+Oxygen Sensor 1/1 Upstream                    On Front Exhaust Pipe                     5, 17
+Oxygen Sensor 1/2                BK           Rear of Catalytic Converter               5, 36, 37
+Downstream
+Oxygen Sensor 2/1 Upstream                    Near Idle Air Control Motor T/O           5
+(4.0L California/European III)
+Oxygen Sensor 2/2                GY           T/O near Ignition Coil Pack T/O           5, 35
+Downstream (4.0L California/
+European III)
+Park Brake Switch                             Left of Seat Belt Switch                  20
+Passenger Airbag                 YL           Rear of Airbag                            19, 21
+Passenger Airbag On/Off                       Lower Center of Instrument Panel          26
+Switch
+Passenger Door Ajar Switch       BK           Near Top Hinge of Passenger Door          19, 21
+Power Distribution Center        BK           Engine Compartment Right or Left Fenter   13
+Power Distribution Center        N/A          Engine Compartment Right or Left Fenter   11
+Eyelet
+Power Outlet                                  Center of Instrument Panel                26, 28
+Power Steering Pressure          BK           Near Power Steering Pump                  4
+Switch (2.4L)
+

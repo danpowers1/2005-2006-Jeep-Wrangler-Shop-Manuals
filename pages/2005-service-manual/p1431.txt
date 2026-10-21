@@ -1,0 +1,60 @@
+TJ                                                                           INSTRUMENT PANEL          23 - 39
+AXLE LOCK SWITCH (Continued)
+  (5) Turn the ignition to the OFF position. Discon-
+nect and isolate the negative battery cable. Remove
+the Instrument Cluster. Disconnect the cluster har-
+ness connectors C1 and C2. Check for continuity
+between each of the Enable circuits and each of the
+request circuits between the switch harness connec-
+tor and the cluster harness connectors. If OK go to
+step 6. If not OK, repair the circuits as required.
+  (6) Turn the ignition to the OFF position. Discon-
+nect and isolate the negative battery cable. Remove
+the axle Lock switch. Disconnect the switch harness
+connector. Check for continuity between each of the
+Request circuits, between the switch harness connec-
+tor and each of the Locker relays in the PDC. If OK,
+refer to Axle Lock Indicator Problems in the Instru-
+ment Cluster section of the appropriate Body Manual
+or the Chassis Diagnostic Manual and perform the                Fig. 2 ACCESSORY SWITCH REMOVE
+appropriate symptom. If not OK, repair the circuit(s)    1 - TRIM STICK
+as required.                                             2 - REAR WIPER/WASHER SWITCH
+                                                         3 - OVERDRIVE-OFF SWITCH
+                                                         4 - AXLE LOCKER SWITCH
+REMOVAL                                                  5 - ACCESSORY SWITCH BEZEL
+                                                         6 - REAR WINDOW DEFOGGER SWITCH
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE SUPPLEMENTAL RESTRAINT                 PASSENGER AIRBAG, OR INSTRUMENT PANEL
+SYSTEM BEFORE ATTEMPTING ANY STEERING                    COMPONENT DIAGNOSIS OR SERVICE. DISCON-
+WHEEL, STEERING COLUMN, DRIVER AIRBAG,                   NECT AND ISOLATE THE BATTERY NEGATIVE
+PASSENGER AIRBAG, OR INSTRUMENT PANEL                    (GROUND) CABLE, THEN WAIT TWO MINUTES FOR
+COMPONENT DIAGNOSIS OR SERVICE. DISCON-                  THE SYSTEM CAPACITOR TO DISCHARGE BEFORE
+NECT AND ISOLATE THE BATTERY NEGATIVE                    PERFORMING FURTHER DIAGNOSIS OR SERVICE.
+(GROUND) CABLE, THEN WAIT TWO MINUTES FOR                THIS IS THE ONLY SURE WAY TO DISABLE THE
+THE SYSTEM CAPACITOR TO DISCHARGE BEFORE                 SUPPLEMENTAL RESTRAINT SYSTEM. FAILURE TO
+PERFORMING FURTHER DIAGNOSIS OR SERVICE.                 TAKE THE PROPER PRECAUTIONS COULD
+THIS IS THE ONLY SURE WAY TO DISABLE THE                 RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+SUPPLEMENTAL RESTRAINT SYSTEM. FAILURE TO                AND POSSIBLE PERSONAL INJURY.
+TAKE THE PROPER PRECAUTIONS COULD                          (1) Position the axle lock switch over the proper
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT                   receptacle on the back of the accessory switch bezel
+AND POSSIBLE PERSONAL INJURY.                            (Fig. 2).
+                                                           (2) Evenly push the axle lock switch into the
+   (1) Disconnect and isolate the battery negative       receptacle until the snap features on the top and bot-
+cable.                                                   tom of the switch housing are fully engaged to the
+   (2) Remove the accessory switch bezel from the        receptacle.
+instrument panel center bezel from the instrument          (3) Reinstall the accessory switch bezel onto the
+panel (Refer to 23 - BODY/INSTRUMENT PANEL/              instrument panel (Refer to 23 - BODY/INSTRU-
+ACCESSORY SWITCH BEZEL - REMOVAL)                        MENT PANEL/ACCESSORY SWITCH BEZEL -
+   (3) Using a trim stick or another suitable wide       INSTALLATION).
+flat-bladed tool, gently pry the latch tabs at the top     (4) Reconnect the battery negative cable.
+and bottom of the axle lock switch on the back of the
+accessory switch bezel far enough to disengage the
+snap features on the switch housing then pull the
+switch out of the receptacle (Fig. 2).
+
+INSTALLATION
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE SUPPLEMENTAL RESTRAINT
+SYSTEM BEFORE ATTEMPTING ANY STEERING
+WHEEL, STEERING COLUMN, DRIVER AIRBAG,
+

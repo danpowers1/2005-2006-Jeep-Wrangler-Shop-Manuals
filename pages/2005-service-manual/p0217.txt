@@ -1,0 +1,38 @@
+TJ                                                                            REAR AXLE - 216RBI       3 - 159
+PINION GEAR/RING GEAR/TONE RING (Continued)
+  (10) Check bearing preload torque with an inch           (13) Invert differential case and start two ring
+pound torque wrench (Fig. 100). The torque neces-        gear bolts. This will provide case-to-ring gear bolt
+sary to rotate the pinion gear should be:                hole alignment.
+
+                                                         CAUTION: Never reuse ring gear bolts, the bolts
+                                                         can fracture causing extensive damage. Failure to
+                                                         heed caution may result in damage.
+
+                                                            (14) Invert differential case in the vise.
+                                                            (15) Install new ring gear bolts and alternately
+                                                         tighten to 108 N·m (100 ft. lbs.) (Fig. 101).
+
+
+
+
+        Fig. 100 PINION ROTATING TORQUE
+1 - TORQUE WRENCH
+2 - PINION YOKE
+
+  • Original Bearings: 1 to 2.26 N·m (10 to 20 in.
+lbs.).
+  • New Bearings: 2.26 to 4.52 N·m (20 to 40 in.
+lbs.).
+  (11) If rotating torque is above the desired                           Fig. 101 RING GEAR
+amount, remove the pinion yoke and increase the          1 - TORQUE WRENCH
+preload shim pack thickness. Increasing the shim         2 - RING GEAR BOLT
+                                                         3 - RING GEAR
+pack thickness 0.025 mm (0.001 in.) will decrease the    4 - CASE
+rotating torque approximately 0.9 N·m (8 in. lbs.).
+  (12) If the maximum tightening torque is reached         (16) Install differential in axle housing and verify
+prior to achieving the desired rotating torque, remove   gear mesh and contact pattern. Refer to Adjustment
+the pinion yoke and decrease the thickness of the        (Gear Contact Pattern).
+preload shim pack. Decreasing the shim pack thick-
+ness 0.025 mm (0.001 in.) will increase the rotating
+torque approximately 0.9 N·m (8 in. lbs.).
+

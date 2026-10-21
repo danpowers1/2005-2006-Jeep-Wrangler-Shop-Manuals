@@ -1,0 +1,64 @@
+TJ                                                          AUTOMATIC TRANSMISSION - 42RLE              21 - 149
+
+
+TRANSMISSION                                               VALVE BODY
+TEMPERATURE SENSOR
+                                                           DESCRIPTION
+DESCRIPTION
+
+
+
+
+     Fig. 257 Transmission Temperature Sensor
+1 - TRANSMISSION RANGE SENSOR
+2 - TEMPERATURE SENSOR
+                                                                      Fig. 258 Valve Body Assembly
+  The transmission temperature sensor (2) (Fig. 257)       1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+                                                           2 - TRS
+is located in the transmission range sensor (1) and        3 - TRANSFER PLATE
+communicates transmission sump temperature to the          4 - SEPARATOR PLATE
+TCM.                                                       5 - VALVE BODY
+
+                                                             The valve body assembly (Fig. 258) consists of a
+OPERATION
+                                                           cast aluminum valve body (5),separator plate (4), and
+  The transmission range sensor (TRS) has an inte-
+                                                           transfer plate (3). The valve body contains valves and
+grated thermistor that the TCM uses to monitor the
+                                                           check balls that control fluid delivery to the torque
+transmission’s sump temperature. Since fluid tem-
+                                                           converter clutch, solenoid/pressure switch assembly,
+perature can affect transmission shift quality and
+                                                           and frictional clutches.
+convertor lock up, the TCM requires this information
+                                                             Also mounted to the valve body assembly are the
+to determine which shift schedule to operate in. The
+                                                           solenoid/pressure switch assembly and the transmis-
+TCM also monitors this temperature data so it can
+                                                           sion range sensor (2) (Fig. 258).
+energize the vehicle cooling fan(s) when a transmis-
+                                                             The valves contained within the valve body (1)
+sion “overheat” condition exists. If the thermistor cir-
+                                                           include the following (Fig. 259):
+cuit fails, the TCM will revert to calculated oil
+                                                             • Regulator valve(2)
+temperature usage.
+                                                             • Solenoid switch valve(7)
+                                                             • Manual valve(5)
+CALCULATED TEMPERATURE
+                                                             • Converter clutch switch valve(6)
+  A failure in the temperature sensor or circuit will
+                                                             • Converter clutch control valve(4)
+result in calculated temperature being substituted for
+                                                             • Torque converter regulator valve(2)
+actual temperature. Calculated temperature is a pre-
+                                                             • Low/Reverse switch valve(3)
+dicted fluid temperature which is calculated from a
+                                                             In addition, the valve body also contains the ther-
+combination of inputs:
+                                                           mal valve, #2, 3, 4 & 5 check balls and the 2/4 accu-
+  • Battery (ambient) temperature
+                                                           mulator assembly.
+  • Engine coolant temperature
+  • In-gear run time since start-up
+

@@ -1,0 +1,60 @@
+TJ                                                              ELECTRONIC CONTROL MODULES               8E - 7
+POWERTRAIN CONTROL MODULE (Continued)
+sure A/C switches. Refer to Group 24, Heating and           • Engine coolant temperature sensor
+Air Conditioning for additional information.                • Crankshaft position sensor
+  On 2.5L 4–cylinder engines, a power steering pres-        • Intake manifold air temperature sensor
+sure switch is used to supply an input to the PCM           • Manifold absolute pressure (MAP) sensor
+when steering pump pressure is high. This will raise        • Throttle position sensor (TPS)
+engine speed. Refer to Power Steering Pressure              • Camshaft position sensor signal (in the distribu-
+Switch in this group for additional information. The     tor)
+4.0L 6–cylinder engine does not use this switch.            • Park/neutral switch (gear indicator signal—auto.
+                                                         trans. only)
+CRUISE MODE                                                 • Vehicle speed sensor
+  When the engine is at operating temperature, this         If the vehicle is under hard deceleration with the
+is a Closed Loop mode. At cruising speed, the PCM        proper rpm and closed throttle conditions, the PCM
+receives inputs from:                                    will ignore the oxygen sensor input signal. The PCM
+  • Air conditioning select signal (if equipped)         will enter a fuel cut-off strategy in which it will not
+  • Air conditioning request signal (if equipped)        supply a ground to the injectors. If a hard decelera-
+  • Battery voltage                                      tion does not exist, the PCM will determine the
+  • Engine coolant temperature sensor                    proper injector pulse width and continue injection.
+  • Crankshaft position sensor                              Based on the above inputs, the PCM will adjust
+  • Intake manifold air temperature sensor               engine idle speed through the idle air control (IAC)
+  • Manifold absolute pressure (MAP) sensor              motor.
+  • Throttle position sensor (TPS)                          The PCM adjusts ignition timing by turning the
+  • Camshaft position sensor signal (in the distribu-    ground path to the coil on and off.
+tor)
+  • Park/neutral switch (gear indicator signal—auto.     WIDE OPEN THROTTLE MODE
+trans. only)                                                This is an Open Loop mode. During wide open
+  • Oxygen (O2S) sensors                                 throttle operation, the PCM receives the following
+  Based on these inputs, the following occurs:           inputs.
+  • Voltage is applied to the fuel injectors with the       • Battery voltage
+ASD relay via the PCM. The PCM will then adjust             • Crankshaft position sensor
+the injector pulse width by turning the ground circuit      • Engine coolant temperature sensor
+to each individual injector on and off.                     • Intake manifold air temperature sensor
+  • The PCM monitors the O2S sensor input and               • Manifold absolute pressure (MAP) sensor
+adjusts air-fuel ratio. It also adjusts engine idle         • Throttle position sensor (TPS)
+speed through the idle air control (IAC) motor.             • Camshaft position sensor signal (in the distribu-
+  • The PCM adjusts ignition timing by turning the       tor)
+ground path to the coil on and off.                         During wide open throttle conditions, the following
+  • The PCM operates the A/C compressor clutch           occurs:
+through the clutch relay. This happens if A/C has           • Voltage is applied to the fuel injectors with the
+been selected by the vehicle operator and requested      ASD relay via the PCM. The PCM will then control
+by the A/C thermostat.                                   the injection sequence and injector pulse width by
+  • The Up-shift Indicator Lamp is operated (man-        turning the ground circuit to each individual injector
+ual transmission only).                                  on and off. The PCM ignores the oxygen sensor input
+                                                         signal and provides a predetermined amount of addi-
+ACCELERATION MODE                                        tional fuel. This is done by adjusting injector pulse
+  This is an Open Loop mode. The PCM recognizes          width.
+an abrupt increase in throttle position or MAP pres-        • The PCM adjusts ignition timing by turning the
+sure as a demand for increased engine output and         ground path to the coil on and off.
+vehicle acceleration. The PCM increases injector            • The Up-shift Indicator Lamp is operated (man-
+pulse width in response to increased throttle opening.   ual transmission only).
+
+DECELERATION MODE                                        IGNITION SWITCH OFF MODE
+   When the engine is at operating temperature, this       When ignition switch is turned to OFF position,
+is an Open Loop mode. During hard deceleration, the      the PCM stops operating the injectors, ignition coil,
+PCM receives the following inputs.                       ASD relay and fuel pump relay.
+   • Air conditioning select signal (if equipped)
+   • Air conditioning request signal (if equipped)
+   • Battery voltage
+

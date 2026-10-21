@@ -1,0 +1,60 @@
+8J - 36     INSTRUMENT CLUSTER                                                                                   TJ
+REAR LOCK INDICATOR (Continued)
+cluster will turn on the rear lock indicator for the fol-   the switch is enabled and the rear or the rear and
+lowing reasons:                                             front axle lock position of the switch is selected by
+   • Rear Axle Lock Request Input - Each time               the vehicle operator. The rear locker indicator switch
+the cluster detects ground on the rear axle lock            on the rear axle housing provides a hard wired
+request circuit from the axle lock switch (rear axle        ground input to the instrument cluster whenever the
+lock request circuit ground = rear axle lock request        rear axle locker mechanism is engaged. The key-in
+active) while the key is in the ignition lock cylinder,     ignition switch integral to the ignition switch pro-
+the rear lock indicator flashes on and off at a slow        vides a hard wired ground input to the instrument
+rate. The indicator continues to flash until the rear       cluster whenever a key is present in the ignition lock
+axle lock request input to the cluster is an open cir-      cylinder. Each of these inputs to the instrument clus-
+cuit (rear axle lock request circuit open = rear axle       ter can be diagnosed using conventional diagnostic
+lock request inactive), or until the cluster detects a      tools and methods. For further diagnosis of the
+change in the inputs from the rear locker indicator         instrument cluster circuitry that controls the rear
+switch or the key-in ignition switch, whichever occurs      lock indicator LED, (Refer to 8 - ELECTRICAL/IN-
+first.                                                      STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+   • Rear Locker Indicator Switch Input - Each              ING).
+time the cluster detects ground on the rear locker
+indicator switch sense circuit (rear locker indicator
+switch closed = rear axle locker engaged) while the         SEATBELT INDICATOR
+rear axle lock request is active and the key is in the
+ignition lock cylinder, the rear lock indicator is illu-    DESCRIPTION
+minated solid. The indicator remains illuminated
+solid until the rear locker indicator switch input to
+the cluster is an open circuit (rear locker indicator
+switch open = rear axle locker disengaged), or until
+                                                                          Fig. 22 Seatbelt Indicator
+the cluster detects a change in the inputs from the
+axle lock switch or the key-in ignition switch, which-        A seatbelt indicator is standard equipment on all
+ever occurs first.                                          instrument clusters (Fig. 22). The seatbelt indicator
+   • Rear Lock Request/Feedback Mismatch -                  is located near the center of the instrument cluster,
+Each time the cluster detects that the inputs from          between the tachometer and the speedometer. The
+the axle lock switch (request) on the rear axle lock        seatbelt indicator consists of a stencil-like cutout of
+request circuit and from the rear locker indicator          the International Control and Display Symbol icon
+switch (feedback) on the rear locker indicator switch       for “Seat Belt” in the opaque layer of the instrument
+sense circuit are mismatched, the rear lock indicator       cluster overlay. The dark outer layer of the overlay
+flashes on and off at a slow rate. This condition           prevents the indicator from being clearly visible
+occurs when the lock request is active but the axle         when it is not illuminated. A red Light Emitting
+locker remains disengaged, or when the lock request         Diode (LED) behind the cutout in the opaque layer of
+is inactive but the axle locker remains engaged. The        the overlay causes the icon to appear in red through
+indicator continues to flash until the request and the      the translucent outer layer of the overlay when the
+feedback are matching.                                      indicator is illuminated from behind by the LED,
+   • Key-In Ignition Switch Input - Each time the           which is soldered onto the instrument cluster elec-
+cluster detects that the key has been removed from          tronic circuit board. The seatbelt indicator is serviced
+the ignition lock cylinder (key-in ignition switch open     as a unit with the instrument cluster.
+= key is not in ignition switch) while the rear axle
+lock request is still active, the rear lock indicator       OPERATION
+flashes at a fast rate and three chime tones are               The seatbelt indicator gives an indication to the
+sounded. The indicator will continue to flash at this       vehicle operator of the status of the driver side front
+rate until the key is replaced in the ignition switch       seatbelt. This indicator is controlled by a transistor
+lock cylinder (key-in ignition switch closed = key is in    on the instrument cluster circuit board based upon
+ignition switch) while the rear axle lock request is        cluster programming and a hard wired input from
+still active, or until the rear axle lock request input     the seatbelt switch in the driver side front seatbelt
+is deactivated, whichever occurs first.                     buckle through the seat belt indicator driver circuit.
+   The axle lock switch in the accessory switch bezel       The seatbelt indicator Light Emitting Diode (LED) is
+on the instrument panel provides a hard wired               completely controlled by the instrument cluster logic
+ground input to the instrument cluster circuitry            circuit, and that logic will only allow this indicator to
+through the rear axle lock request circuit whenever         operate when the instrument cluster receives a bat-
+

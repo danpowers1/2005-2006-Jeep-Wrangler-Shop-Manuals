@@ -1,0 +1,63 @@
+TJ                                                                               FRONT AXLE - 216FBI          3 - 57
+FRONT AXLE - 216FBI (Continued)
+   (4) Place Arbor Disc 6732 on Arbor D-115-3 in posi-
+tion in the housing side bearing cradles (Fig. 12).
+
+NOTE: Arbor Discs 6732 has different step diame-
+ters to fit other axles. Choose proper step for axle
+being serviced.
+
+  (5) Install differential bearing caps on arbor discs
+and install bearing cap bolts. Tighten bearing cap
+bolts to 108 N·m (80 ft. lbs.).
+
+
+
+
+                                                                   Fig. 13 PINION DEPTH MEASUREMENT
+                                                            1 - ARBOR
+                                                            2 - SCOOTER BLOCK
+                                                            3 - DIAL INDICATOR
+
+                                                            depth is essential to establishing gear backlash and
+                                                            tooth contact patterns. After the overall shim thickness
+                                                            to take up differential side play is measured, the pinion
+                                                            is installed, and the gear backlash shim thickness is
+                                                            measured. The overall shim thickness is the total of the
+        Fig. 12 GAUGE TOOLS IN HOUSING                      dial indicator reading and the preload specification
+1 - ARBOR DISC
+                                                            added together. The gear backlash measurement deter-
+2 - PINION BLOCK                                            mines the thickness of the shim used on the ring gear
+3 - ARBOR                                                   side of the differential case. Subtract the gear backlash
+4 - PINION HEIGHT BLOCK
+                                                            shim thickness from the total overall shim thickness
+                                                            and select that amount for the pinion gear side of the
+   (6) Assemble Dial Indicator C-3339 into Scooter
+                                                            differential (Fig. 14). Differential shim measurements
+Block D-115-2 and secure set screw.
+                                                            are performed with spreader W-129-B removed.
+   (7) Position Scooter Block/Dial Indicator flush on
+the pinion height block. Hold scooter block and zero
+the dial indicator.
+   (8) Slowly slide the scooter block across the pinion
+height block over to the arbor (Fig. 13). Move the
+scooter block till dial indicator crests the arbor, then
+record the highest reading.
+   (9) Select a shim/oil slinger equal to the dial indi-
+cator reading plus the pinion depth variance number
+etched in the face of the pinion (Fig. 8). For example,
+if the depth variance is –2, add +0.002 in. to the dial
+indicator reading.
+
+PRELOAD SHIM SELECTION
+  Differential side bearing preload and gear backlash is
+achieved by selective shims positioned between the dif-
+ferential side bearing cups and the housing. The proper
+shim thickness is determined using slip-fit Dummy                          Fig. 14 SHIM LOCATION
+Bearings D-345 in place of the differential side bearings   1. PINION DEPTH SHIM
+and a Dial Indicator C-3339. Before proceeding with the     2. DIFFERENTIAL SHIM PINION GEAR SIDE
+                                                            3. RING GEAR
+differential bearing preload and gear backlash measure-     4. DIFFERENTIAL SHIM RING GEAR SIDE
+ments, measure the pinion gear depth and prepare the
+pinion for installation. Establishing proper pinion gear
+

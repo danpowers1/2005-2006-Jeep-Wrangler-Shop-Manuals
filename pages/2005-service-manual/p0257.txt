@@ -1,0 +1,57 @@
+TJ                                                                                                         BRAKES - ABS             5 - 39
+
+
+                                                      BRAKES - ABS
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                    page
+
+BRAKES - ABS                                                             OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 39        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 39      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 42
+ DIAGNOSIS AND TESTING - ANTILOCK                                       REAR WHEEL SPEED SENSOR
+   BRAKES . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39     DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 42
+ STANDARD PROCEDURE - BLEEDING ABS                                       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+   BRAKE SYSTEM . . . . . . . . . . . . . . . . . . . . . . 40           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ SPECIFICATIONS                                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 43
+   T0RQUE CHART . . . . . . . . . . . . . . . . . . . . . . 40          HCU (HYDRAULIC CONTROL UNIT)
+FRONT WHEEL SPEED SENSOR                                                 DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 41        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 41      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 44
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 41
+G-SWITCH
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+BRAKES - ABS                                                            OPERATION
+                                                                          During normal braking, the master cylinder, power
+DESCRIPTION                                                             booster and wheel brake units all function as they
+   The purpose of the antilock system is to prevent                     would in a vehicle without ABS. The HCU compo-
+wheel lockup during periods of high wheel slip. Pre-                    nents are not activated.
+venting lockup helps maintain vehicle braking action                      During antilock braking fluid pressure is modu-
+and steering control.                                                   lated according to wheel speed, degree of slip and
+   The antilock CAB activates the system whenever                       rate of deceleration. A sensor at each wheel converts
+sensor signals indicate periods of high wheel slip.                     wheel speed into electrical signals. These signals are
+High wheel slip can be described as the point where                     transmitted to the CAB for processing and determi-
+wheel rotation begins approaching 20 to 30 percent of                   nation of wheel slip and deceleration rate.
+actual vehicle speed during braking. Periods of high                      The ABS system has three fluid pressure control
+wheel slip occur when brake stops involve high pedal                    channels. The front brakes are controlled separately
+pressure and rate of vehicle deceleration.                              and the rear brakes in tandem. A speed sensor input
+   Battery voltage is supplied to the CAB ignition ter-                 signal indicating a high slip condition activates the
+minal when the ignition switch is turned to Run posi-                   CAB antilock program. Two solenoid valves are used
+tion. The CAB performs a system initialization                          in each antilock control channel. The valves are all
+procedure at this point. Initialization consists of a                   located within the HCU valve body and work in pairs
+static and dynamic self check of system electrical                      to either increase, hold, or decrease apply pressure as
+components.                                                             needed in the individual control channels. The sole-
+   The static check occurs after the ignition switch is                 noid valves are not static during antilock braking.
+turned to Run position. The dynamic check occurs                        They are cycled continuously to modulate pressure.
+when vehicle road speed reaches approximately 30                        Solenoid cycle time in antilock mode can be mea-
+kph (18 mph). During the dynamic check, the CAB                         sured in milliseconds.
+briefly cycles the pump and solenoids to verify oper-
+ation.                                                                  DIAGNOSIS AND TESTING - ANTILOCK
+   If an ABS component exhibits a fault during ini-                     BRAKES
+tialization, the CAB illuminates the amber warning                        The ABS brake system performs several self-tests
+light and registers a fault code in the microprocessor                  every time the ignition switch is turned on and the
+memory.                                                                 vehicle is driven. The CAB monitors the systems
+                                                                        input and output circuits to verify the system is oper-
+

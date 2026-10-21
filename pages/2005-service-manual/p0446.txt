@@ -1,0 +1,75 @@
+8J - 20    INSTRUMENT CLUSTER                                                                                 TJ
+
+
+ABS INDICATOR                                                • ABS Diagnostic Test - The ABS indicator is
+                                                           blinked on and off by the CAB during the perfor-
+                                                           mance of the ABS diagnostic tests.
+DESCRIPTION
+                                                             The CAB continually monitors the ABS circuits
+                                                           and sensors to decide whether the system is in good
+                                                           operating condition. If the CAB turns the ABS indi-
+                 Fig. 7 ABS Indicator                      cator on after the bulb test, it indicates that the CAB
+                                                           has detected a system malfunction and/or that the
+  An Antilock Brake System (ABS) indicator is stan-        ABS system has become inoperative. The CAB will
+dard equipment on all instrument clusters (Fig. 7).        store a Diagnostic Trouble Code (DTC) for any mal-
+However, this indicator is only functional on vehicles     function it detects. (Refer to 5 - BRAKES -
+equipped with the ABS option. The ABS indicator is         DESCRIPTION). The ABS indicator can be diagnosed
+located near the lower edge of the instrument cluster,     using conventional diagnostic tools and methods.
+to the left of center. The ABS indicator consists of a
+stencil-like cutout of the International Control and
+                                                           DIAGNOSIS AND TESTING - ABS INDICATOR
+Display Symbol icon for “Failure of Anti-lock Braking
+                                                             The diagnosis found here addresses an inoperative
+System” in the opaque layer of the instrument clus-
+                                                           Antilock Brake System (ABS) indicator condition. If
+ter overlay. The dark outer layer of the overlay pre-
+                                                           there are problems with several indicators in the
+vents the indicator from being clearly visible when it
+                                                           instrument cluster, (Refer to 8 - ELECTRICAL/IN-
+is not illuminated. An amber Light Emitting Diode
+                                                           STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+(LED) behind the cutout in the opaque layer of the
+                                                           ING). If the ABS indicator stays on with the ignition
+overlay causes the icon to appear in amber through
+                                                           switch in the On position or comes on and stays on
+the translucent outer layer of the overlay when the
+                                                           while driving, proceed to the diagnosis for the ABS
+indicator is illuminated from behind by the LED,
+                                                           brake system. (Refer to 5 - BRAKES - DIAGNOSIS
+which is soldered onto the instrument cluster elec-
+                                                           AND TESTING). If no ABS problem is found, the fol-
+tronic circuit board. The ABS indicator is serviced as
+                                                           lowing procedure will help to locate a short or open
+a unit with the instrument cluster.
+                                                           in the ABS warning indicator driver circuit. Refer to
+                                                           the appropriate wiring information. The wiring infor-
+OPERATION                                                  mation includes wiring diagrams, proper wire and
+   The ABS indicator gives an indication to the vehi-      connector repair procedures, details of wire harness
+cle operator when the ABS system is faulty or inop-        routing and retention, connector pin-out information
+erative. This indicator is hard wired on the               and location views for the various wire harness con-
+instrument cluster electronic circuit board, and is        nectors, splices and grounds.
+completely controlled by the Controller Antilock
+Brake (CAB). The ABS indicator Light Emitting              WARNING: TO AVOID PERSONAL INJURY OR
+Diode (LED) receives battery current on the instru-        DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+ment cluster electronic circuit board through the          DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+fused ignition switch output (run-start) circuit when-     TEM BEFORE ATTEMPTING ANY STEERING
+ever the ignition switch is in the On or Start posi-       WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+tions; therefore, the LED will always be off when the      MENT PANEL COMPONENT DIAGNOSIS OR SER-
+ignition switch is in any position except On or Start.     VICE. DISCONNECT AND ISOLATE THE BATTERY
+The LED only illuminates when it is provided a path        NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+to ground by the CAB through the CAB relay in the          MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+Power Distribution Center (PDC). The CAB will turn         CHARGE BEFORE PERFORMING FURTHER DIAG-
+on the ABS indicator for the following reasons:            NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+   • Bulb Test - Each time the ignition switch is          TO DISABLE THE SUPPLEMENTAL RESTRAINT
+turned to the On position the ABS indicator is illu-       SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+minated by the cluster for about two seconds as a          CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+bulb test.                                                 BAG DEPLOYMENT.
+   • ABS Self-Test Fault - Each time the CAB
+detects a fault in a monitored ABS circuit, the ABS          (1) Disconnect and isolate the battery negative
+indicator will be illuminated. The indicator remains       cable. Remove the instrument cluster from the
+illuminated until the fault condition is corrected, or     instrument panel. Disconnect the instrument panel
+until the ignition switch is turned to the Off position,   wire harness connector (Connector C2) for the instru-
+whichever occurs first.                                    ment cluster from the connector receptacle on the
+                                                           back of the cluster housing. Reconnect the battery
+                                                           negative cable. Turn the ignition switch to the On
+

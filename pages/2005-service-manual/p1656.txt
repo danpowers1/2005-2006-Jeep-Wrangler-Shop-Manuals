@@ -1,0 +1,59 @@
+25 - 4    EMISSIONS CONTROL                                                                                    TJ
+EMISSIONS CONTROL (Continued)
+to the flow through the purge system, the leak check         Normal vehicle miles or engine misfire can cause a
+portion of the diagnostic is complete.                     catalyst to decay. This can increase vehicle emissions
+  The canister vent valve will unseal the system           and deteriorate engine performance, driveability and
+after completion of the test sequence as the pump          fuel economy.
+diaphragm assembly moves to the full travel position.        The catalyst monitor uses dual oxygen sensors
+  Evaporative system functionality will be verified by     (O2S’s) to monitor the efficiency of the converter. The
+using the stricter evap purge flow monitor. At an          dual O2S’s sensor strategy is based on the fact that
+appropriate warm idle the LDP will be energized to         as a catalyst deteriorates, its oxygen storage capacity
+seal the canister vent. The purge flow will be clocked     and its efficiency are both reduced. By monitoring
+up from some small value in an attempt to see a            the oxygen storage capacity of a catalyst, its effi-
+shift in the 02 control system. If fuel vapor, indicated   ciency can be indirectly calculated. The upstream
+by a shift in the 02 control, is present the test is       O2S is used to detect the amount of oxygen in the
+passed. If not, it is assumed that the purge system is     exhaust gas before the gas enters the catalytic con-
+not functioning in some respect. The LDP is again          verter. The PCM calculates the A/F mixture from the
+turned off and the test is ended.                          output of the O2S. A low voltage indicates high oxy-
+                                                           gen content (lean mixture). A high voltage indicates a
+MISFIRE MONITOR                                            low content of oxygen (rich mixture).
+  Excessive engine misfire results in increased cata-        When the upstream O2S detects a lean condition,
+lyst temperature and causes an increase in HC emis-        there is an abundance of oxygen in the exhaust gas.
+sions. Severe misfires could cause catalyst damage.        A functioning converter would store this oxygen so it
+To prevent catalytic convertor damage, the PCM             can use it for the oxidation of HC and CO. As the
+monitors engine misfire.                                   converter absorbs the oxygen, there will be a lack of
+  The Powertrain Control Module (PCM) monitors             oxygen downstream of the converter. The output of
+for misfire during most engine operating conditions        the downstream O2S will indicate limited activity in
+(positive torque) by looking at changes in the crank-      this condition.
+shaft speed. If a misfire occurs the speed of the            As the converter loses the ability to store oxygen,
+crankshaft will vary more than normal.                     the condition can be detected from the behavior of
+                                                           the downstream O2S. When the efficiency drops, no
+FUEL SYSTEM MONITOR                                        chemical reaction takes place. This means the con-
+   To comply with clean air regulations, vehicles are      centration of oxygen will be the same downstream as
+equipped with catalytic converters. These converters       upstream. The output voltage of the downstream
+reduce the emission of hydrocarbons, oxides of nitro-      O2S copies the voltage of the upstream sensor. The
+gen and carbon monoxide. The catalyst works best           only difference is a time lag (seen by the PCM)
+when the Air Fuel (A/F) ratio is at or near the opti-      between the switching of the O2S’s.
+mum of 14.7 to 1.                                            To monitor the system, the number of lean-to-rich
+   The PCM is programmed to maintain the optimum           switches of upstream and downstream O2S’s is
+air/fuel ratio of 14.7 to 1. This is done by making        counted. The ratio of downstream switches to
+short term corrections in the fuel injector pulse width    upstream switches is used to determine whether the
+based on the O2S sensor output. The programmed             catalyst is operating properly. An effective catalyst
+memory acts as a self calibration tool that the engine     will have fewer downstream switches than it has
+controller uses to compensate for variations in engine     upstream switches i.e., a ratio closer to zero. For a
+specifications, sensor tolerances and engine fatigue       totally ineffective catalyst, this ratio will be one-to-
+over the life span of the engine. By monitoring the        one, indicating that no oxidation occurs in the device.
+actual fuel-air ratio with the O2S sensor (short term)       The system must be monitored so that when cata-
+and multiplying that with the program long-term            lyst efficiency deteriorates and exhaust emissions
+(adaptive) memory and comparing that to the limit,         increase to over the legal limit, the MIL will be illu-
+it can be determined whether it will pass an emis-         minated.
+sions test. If a malfunction occurs such that the PCM
+cannot maintain the optimum A/F ratio, then the            DESCRIPTION - TRIP DEFINITION
+MIL will be illuminated.                                      The term “Trip” has different meanings depending
+                                                           on what the circumstances are. If the MIL (Malfunc-
+CATALYST MONITOR                                           tion Indicator Lamp) is OFF, a Trip is defined as
+  To comply with clean air regulations, vehicles are       when the Oxygen Sensor Monitor and the Catalyst
+equipped with catalytic converters. These converters       Monitor have been completed in the same drive cycle.
+reduce the emission of hydrocarbons, oxides of nitro-         When any Emission DTC is set, the MIL on the
+gen and carbon monoxide.                                   dash is turned ON. When the MIL is ON, it takes 3
+

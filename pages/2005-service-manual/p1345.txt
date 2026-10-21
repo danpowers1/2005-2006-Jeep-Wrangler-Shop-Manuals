@@ -1,0 +1,56 @@
+TJ                                                                                          TRANSFER CASE - NV241                   21 - 201
+
+
+                                          TRANSFER CASE - NV241
+
+                                                            TABLE OF CONTENTS
+                                                                  page                                                                   page
+
+TRANSFER CASE - NV241                                                       FRONT OUTPUT SHAFT SEAL
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 201             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 201           INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 230
+ DIAGNOSIS AND TESTING - TRANSFER                                           POSITION SENSOR
+   CASE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 231
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 203         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+ DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 203             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+ CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . 214          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 231
+ INSPECTION         . . . . . . . . . . . . . . . . . . . . . . . . . 214   SHIFT LEVER
+ ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 215          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 232
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 226            INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 233
+ SPECIFICATIONS                                                              ADJUSTMENTS - SHIFT LINKAGE . . . . . . . . . 233
+   TRANSFER CASE - NV241 . . . . . . . . . . . . . 227                      VEHICLE SPEED SENSOR
+ SPECIAL TOOLS                                                               DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 233
+   TRANSFER CASE - NV241 . . . . . . . . . . . . . 227                       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 233
+REAR EXTENSION SEAL                                                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 234
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 234
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 229
+FLUID
+ STANDARD PROCEDURE - FLUID DRAIN AND
+   FILL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+
+TRANSFER CASE - NV241
+DESCRIPTION
+   The NV241 transfer case (Fig. 1) is a part-time
+transfer case with a low-range gear system. It pro-
+vides three operating ranges plus a NEUTRAL posi-
+tion. The low range position provides a gear
+reduction ratio of 4.0:1 for increased low speed torque
+capability.
+   The gear cases, retainer and extension are all of
+aluminum. Drive sprockets and an interconnecting
+drive chain are used to transmit engine torque to the
+front/rear propeller shafts. The mainshaft, input gear
+and front output shaft are supported by ball and nee-
+dle bearings.
+
+IDENTIFICATION                                                                               Fig. 1 NV241 - Front View
+  An identification tag (Fig. 2) is attached to the rear                    OPERATION
+case of every transfer case. The tag provides the
+transfer case model number, assembly number, serial                         OPERATING RANGES
+number, and low range ratio.                                                  Transfer case operating ranges are:
+  The transfer case serial number also represents                             • 2H (2-wheel drive)
+the date of build.                                                            • 4H (4-wheel drive)
+                                                                              • 4LO (4-wheel drive low range
+                                                                              The 2H range is for use on any road surface at any
+                                                                            time.
+

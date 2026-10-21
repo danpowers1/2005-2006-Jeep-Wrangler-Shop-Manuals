@@ -1,0 +1,59 @@
+3-4      PROPELLER SHAFT                                                                                       TJ
+PROPELLER SHAFT (Continued)
+that the effects of the weld process will not enter into
+the measurements.
+   (4) Refer to Runout Specifications chart.
+   (5) If the propeller shaft runout is out of specifica-
+tion, remove the propeller shaft, index the shaft 180°,
+and re-install the propeller shaft. Measure shaft
+runout again.
+   (6) If the propeller shaft runout is now within
+specifications, mark the shaft and yokes for proper
+orientation.
+   (7) If the propeller shaft runout is not within spec-
+ifications, verify that the runout of the transmission/
+transfer case and axle are within specifications.
+Correct as necessary and re-measure propeller shaft
+runout.
+   (8) Replace the propeller shaft if the runout still
+exceeds the limits.
+
+            RUNOUT SPECIFICATIONS
+
+Front of Shaft               0.020 in. (0.50 mm)                      Fig. 4 OUTPUT YOKE ANGLE (A)
+Center of Shaft              0.025 in. (0.63 mm)            1 - SLIP YOKE BEARING CAP
+                                                            2 - INCLINOMETER
+Rear of Shaft                0.020 in. (0.50 mm)
+note:                                                       NOTE: This measurement will give you the Propel-
+Measure front/rear runout approximately 3 inches (76        ler Shaft Angle (C).
+mm) from the weld seam at each end of the shaft
+tube for tube lengths over 30 inches. For tube lengths
+under 30 inches, the maximum allowed runout is
+0.020 in. (0.50 mm) for the full length of the tube.
+
+STANDARD PROCEDURE
+PROPELLER SHAFT ANGLE
+  (1) Place transmission in netural.
+  (2) Raise and support the vehicle at the axles as
+level as possible.
+  (3) Remove any external bearing snap rings from
+universal joint so protractor base sits flat.
+  (4) Rotate the shaft until transmission/transfer
+case output yoke bearing is facing downward.
+
+NOTE: Always make measurements from front to
+rear and from the same side of the vehicle.
+
+  (5) Place Inclinometer 7663 (J-23498A) on yoke
+bearing (A) parallel to the shaft (Fig. 4). Center bub-            Fig. 5 PROPELLER SHAFT ANGLE (C)
+ble in sight glass and record measurement.                  1 - SHAFT YOKE BEARING CAP
+                                                            2 - INCLINOMETER
+NOTE: This measurement will give you the Output
+Yoke Angle (A).                                               (7) Subtract smaller figure from larger (C minus
+                                                            A) to obtain Transmission Output Operating Angle.
+  (6) Rotate propeller shaft 90 degrees and place             (8) Rotate propeller shaft 90 degrees and place
+Inclinometer on yoke bearing parallel to the shaft          Inclinometer on pinion yoke bearing parallel to the
+(Fig. 5). Center bubble in sight glass and record mea-      shaft (Fig. 6). Center bubble in sight glass and record
+surement. This measurement can also be taken at             measurement.
+the rear end of the shaft.
+

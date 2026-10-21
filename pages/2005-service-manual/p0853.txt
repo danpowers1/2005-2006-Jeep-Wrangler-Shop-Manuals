@@ -1,0 +1,34 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                   8W - 80 - 53
+
+
+                                      TOW/HAUL OVERDRIVE OFF SWITCH - 4 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    Z1 20BK                           GROUND
+               2    T6 20DG                           TOW/HAUL OVERDRIVE OFF SWITCH SENSE
+               3    T56 20DB/LB                       OVERDRIVE OFF SWITCH INDICATOR
+               4    E2 20OR/BR                        PANEL LAMPS FEED
+
+
+
+
+                        TRANSFER CASE SWITCH (EXCEPT OFF-ROAD PACKAGE) - BLACK 2 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               A    G93 20VT/LB                       4WD INDICATOR
+               B    Z987 18BK                         GROUND
+
+
+
+
+                              TRANSFER CASE SWITCH (OFF-ROAD PACKAGE) - BLACK 2 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    K77 18BR/WT                       TRANSFER CASE POSITION SENSOR INPUT
+               2    K900 20DB/DG                      SENSOR GROUND
+
+
+
+
+                       TRANSMISSION RANGE INDICATOR ILLUMINATION (PRNDL) - BLACK 2 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    E2 20OR/BR                        PANEL LAMPS FEED
+               2    Z902 20BK                         GROUND
+

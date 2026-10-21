@@ -1,0 +1,57 @@
+TJ                                                                                     ENGINE 2.4L       9 - 55
+OIL PUMP (Continued)
+CAUTION: The crankshaft sprocket is set to a pre-        DIAGNOSIS AND TESTING
+determined depth from the factory for correct tim-
+ing belt tracking. If removed, use of Special Tool       INTAKE MANIFOLD LEAKS
+6792 is required to set the sprocket to original           An intake manifold air leak is characterized by
+installation depth. An incorrectly installed sprocket    lower than normal manifold vacuum. Also, one or
+will result in timing belt and engine damage.            more cylinders may not be functioning.
+  (7) Install crankshaft sprocket using Special Tool     WARNING: USE EXTREME CAUTION WHEN THE
+6792 (Fig. 91).                                          ENGINE IS OPERATING. DO NOT STAND IN A
+                                                         DIRECT LINE WITH THE FAN. DO NOT PUT YOUR
+                                                         HANDS NEAR THE PULLEYS, BELTS OR THE FAN.
+                                                         DO NOT WEAR LOOSE CLOTHING.
+
+                                                           (1) Start the engine.
+                                                           (2) Spray a small stream of water (Spray Bottle) at
+                                                         the suspected leak area.
+                                                           (3) If engine RPM’S change, the area of the sus-
+                                                         pected leak has been found.
+                                                           (4) Repair as required.
+
+                                                         REMOVAL
+                                                           (1) Disconnect negative cable from battery.
+                                                           (2) Disconnect connector from inlet air tempera-
+                                                         ture sensor.
+     Fig. 91 Crankshaft Sprocket - Installation            (3) Disconnect air intake tube at throttle body and
+                                                         remove upper air cleaner housing.
+1 - SPECIAL TOOL 6792
+2 - TIGHTEN NUT TO INSTALL                                 (4) Disconnect connector from throttle position
+                                                         sensor (TPS).
+  (8) Install oil pump pick-up tube.                       (5) Disconnect connector from idle air control (IAC)
+  (9) Install oil pan. (Refer to 9 - ENGINE/LUBRI-       motor.
+CATION/OIL PAN - INSTALLATION)                             (6) Disconnect connector from MAP sensor.
+  (10) Install timing belt rear cover. (Refer to 9 -       (7) Remove vacuum lines for purge solenoid and
+ENGINE/VALVE TIMING/TIMING BELT / CHAIN                  PCV valve at intake manifold.
+COVER(S) - INSTALLATION)                                   (8) Remove vacuum lines for power brake booster,
+  (11) Install timing belt. (Refer to 9 - ENGINE/        LDP, EGR transducer, and speed control vacuum res-
+VALVE      TIMING/TIMING        BELT/CHAIN      AND      ervoir (if equipped) at intake manifold fittings.
+SPROCKETS - INSTALLATION)                                  (9) Disconnect throttle, speed control (if equipped),
+                                                         and transaxle control (if equipped) and cables from
+                                                         throttle lever and bracket. (Refer to 14 - FUEL SYS-
+INTAKE MANIFOLD                                          TEM/FUEL INJECTION/THROTTLE CONTROL
+                                                         CABLE - REMOVAL)
+DESCRIPTION                                                (10) Perform fuel system pressure release proce-
+  The intake manifold is a one piece composite mod-      dure before attempting any repairs. (Refer to 14 -
+ule that attaches to the cylinder head with fasteners.   FUEL SYSTEM/FUEL DELIVERY - STANDARD
+The manifold is a long branch design to enhance low      PROCEDURE)
+and mid-range torque                                       (11) Disconnect fuel line. (Refer to 14 - FUEL SYS-
+                                                         TEM/FUEL DELIVERY/QUICK CONNECT FIT-
+OPERATION                                                TING - STANDARD PROCEDURE)
+  The intake manifold delivers air to the combustion       (12) Disconnect coolant temperature sensor/fuel
+chambers. This air allows the fuel delivered by the      injector wire harness connector.
+fuel injectors to ignite when the spark plug fire.         (13) Disconnect fuel injector harness.
+                                                           (14) Remove intake manifold to cylinder head fas-
+                                                         teners.
+                                                           (15) Remove the manifold from engine.
+

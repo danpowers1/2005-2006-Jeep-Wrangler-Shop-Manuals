@@ -1,0 +1,60 @@
+7-2     COOLING                                                                                             TJ
+COOLING (Continued)
+  • Thermostat
+  • Coolant reserve/overflow system
+  • Automatic transmission oil cooler (internal to
+radiator)
+  • Coolant
+  • Water pump
+  • Coolant hoses and clamps
+
+DESCRIPTION - HOSE CLAMPS
+  The cooling system utilizes both worm drive and
+spring type hose clamps. If a spring type clamp
+replacement is necessary, replace with the original
+Mopart equipment spring type clamp.
+
+CAUTION: A number or letter is stamped into the
+tongue of constant tension clamps. If replacement
+                                                                       Fig. 3 Hose Clamp Tool
+is necessary, use only a original equipment clamp
+with matching number or letter (Fig. 2).                1 - HOSE CLAMP TOOL 6094
+                                                        2 - HOSE CLAMP
+
+
+                                                        DIAGNOSIS AND TESTING
+                                                        ON-BOARD DIAGNOSTICS - OBD
+                                                        COOLING SYSTEM RELATED DIAGNOSTICS
+                                                          The Powertrain Control Module (PCM) has been
+                                                        programmed to monitor the certain following cooling
+                                                        system components:
+                                                          • If the engine has remained cool for too long a
+                                                        period, such as with a stuck open thermostat, a Diag-
+                                                        nostic Trouble Code (DTC) can be set.
+                                                          • If an open or shorted condition has developed in
+                                                        the relay circuit controlling the electric radiator fan,
+                                                        a Diagnostic Trouble Code (DTC) can be set.
+                                                          If the problem is sensed in a monitored circuit
+                                                        often enough to indicate an actual problem, a DTC is
+                                                        stored. The DTC will be stored in the PCM memory
+         Fig. 2 Spring Clamp Size Location              for eventual display to the service technician.
+1 - SPRING CLAMP SIZE LOCATION
+                                                        ACCESSING DIAGNOSTIC TROUBLE CODES
+OPERATION - HOSE CLAMPS                                   To read DTC’s and to obtain cooling system data,
+   The worm type hose clamp uses a specified torque     (Refer to 25 - EMISSIONS CONTROL - DESCRIPTION).
+value to maintain proper tension on a hose connec-
+tion.                                                   DIAGNOSIS AND TESTING - PRELIMINARY
+   The spring type hose clamp applies constant ten-     CHECKS
+sion on a hose connection. To remove a spring type
+hose clamp, use Special Tool 6094 or equivalent, con-   ENGINE COOLING SYSTEM OVERHEATING
+stant tension clamp pliers (Fig. 3) to compress the       Establish what driving conditions caused the com-
+hose clamp.                                             plaint. Abnormal loads on the cooling system such as
+                                                        the following may be the cause:
+                                                          • Prolonged idle
+                                                          • Very high ambient temperature
+                                                          • Slight tail wind at idle
+                                                          • Slow traffic
+                                                          • Traffic jams
+                                                          • High speed or steep grades
+                                                          Driving techniques that avoid overheating are:
+

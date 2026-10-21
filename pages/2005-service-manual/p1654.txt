@@ -1,0 +1,83 @@
+25 - 2    EMISSIONS CONTROL                                                                                    TJ
+EMISSIONS CONTROL (Continued)
+
+DESCRIPTION - STATE DISPLAY TEST MODE                        (6) To erase DTC’s, use the “Erase Trouble Code”
+  The switch inputs to the Powertrain Control Mod-         data screen on the DRB scan tool. Do not erase any
+ule (PCM) have two recognized states; HIGH and             DTC’s until problems have been investigated
+LOW. For this reason, the PCM cannot recognize the         and repairs have been performed.
+difference between a selected switch position versus
+an open circuit, a short circuit, or a defective switch.   DESCRIPTION - TASK MANAGER
+If the State Display screen shows the change from             The PCM is responsible for efficiently coordinating
+HIGH to LOW or LOW to HIGH, assume the entire              the operation of all the emissions-related compo-
+switch circuit to the PCM functions properly. Connect      nents. The PCM is also responsible for determining if
+the DRB scan tool to the data link connector and           the diagnostic systems are operating properly. The
+access the state display screen. Then access either        software designed to carry out these responsibilities
+State Display Inputs and Outputs or State Display          is referred to as the ’Task Manager’.
+Sensors.
+                                                           DESCRIPTION - MONITORED SYSTEMS
+DESCRIPTION - CIRCUIT ACTUATION TEST                          There are new electronic circuit monitors that
+MODE                                                       check fuel, emission, engine and ignition perfor-
+   The Circuit Actuation Test Mode checks for proper       mance. These monitors use information from various
+operation of output circuits or devices the Powertrain     sensor circuits to indicate the overall operation of the
+Control Module (PCM) may not internally recognize.         fuel, engine, ignition and emission systems and thus
+The PCM attempts to activate these outputs and             the emissions performance of the vehicle.
+allow an observer to verify proper operation. Most of         The fuel, engine, ignition and emission systems
+the tests provide an audible or visual indication of       monitors do not indicate a specific component prob-
+device operation (click of relay contacts, fuel spray,     lem. They do indicate that there is an implied prob-
+etc.). Except for intermittent conditions, if a device     lem within one of the systems and that a specific
+functions properly during testing, assume the device,      problem must be diagnosed.
+its associated wiring, and driver circuit work cor-           If any of these monitors detect a problem affecting
+rectly. Connect the DRB scan tool to the data link         vehicle emissions, the Malfunction Indicator Lamp
+connector and access the Actuators screen.                 (MIL) will be illuminated. These monitors generate
+                                                           Diagnostic Trouble Codes that can be displayed with
+                                                           the MIL or a scan tool.
+DESCRIPTION - DIAGNOSTIC TROUBLE CODES
+                                                              The following is a list of the system monitors:
+   A Diagnostic Trouble Code (DTC) indicates the
+                                                              • Misfire Monitor
+PCM has recognized an abnormal condition in the
+                                                              • Fuel System Monitor
+system.
+                                                              • Oxygen Sensor Monitor
+   Remember that DTC’s are the results of a sys-
+                                                              • Oxygen Sensor Heater Monitor
+tem or circuit failure, but do not directly iden-
+                                                              • Catalyst Monitor
+tify the failed component or components.
+                                                              • Leak Detection Pump Monitor (if equipped)
+BULB CHECK                                                    All these system monitors require two consecutive
+                                                           trips with the malfunction present to set a fault.
+  Each time the ignition key is turned to the ON
+                                                              Refer to the appropriate Powertrain Diagnos-
+position, the malfunction indicator (check engine)
+                                                           tics Procedures manual for diagnostic proce-
+lamp on the instrument panel should illuminate for
+                                                           dures.
+approximately 2 seconds then go out. This is done for
+                                                              The following is an operation and description of
+a bulb check.
+                                                           each system monitor:
+OBTAINING DTC’S USING DRB SCAN TOOL
+  (1) Obtain the applicable Powertrain Diagnostic
+                                                           OXYGEN SENSOR (O2S) MONITOR
+                                                              Effective control of exhaust emissions is achieved
+Manual.
+                                                           by an oxygen feedback system. The most important
+  (2) Obtain the DRB Scan Tool.
+                                                           element of the feedback system is the O2S. The O2S
+  (3) Connect the DRB Scan Tool to the data link
+                                                           is located in the exhaust path. Once it reaches oper-
+(diagnostic) connector. This connector is located in
+                                                           ating temperature 300° to 350°C (572° to 662°F), the
+the passenger compartment; at the lower edge of
+                                                           sensor generates a voltage that is inversely propor-
+instrument panel; near the steering column.
+                                                           tional to the amount of oxygen in the exhaust. The
+  (4) Turn the ignition switch on and access the
+                                                           information obtained by the sensor is used to calcu-
+“Read Fault” screen.
+                                                           late the fuel injector pulse width. This maintains a
+  (5) Record all the DTC’s and “freeze frame” infor-
+                                                           14.7 to 1 Air Fuel (A/F) ratio. At this mixture ratio,
+mation shown on the DRB scan tool.
+

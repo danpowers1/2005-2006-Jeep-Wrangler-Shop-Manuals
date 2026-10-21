@@ -1,0 +1,33 @@
+24 - 18    CONTROLS                                                                                         TJ
+A/C HEATER CONTROL (Continued)
+  (1) Disconnect the vacuum harness connector at            (3) Determine the vacuum line color of the vacuum
+the back of the A/C-heater control (Refer to 24 -        circuit that is leaking. To determine the vacuum line
+HEATING & AIR CONDITIONING/CONTROLS/A/C                  colors, refer to the Vacuum Circuit charts (Fig. 14)
+HEATER CONTROL - REMOVAL).                               and (Fig. 15).
+  (2) Connect the test set vacuum hose probe to each        (4) Disconnect and plug the vacuum line from the
+port in the vacuum harness connector, one port at a      component (fitting, actuator, valve, switch, or reser-
+time, and pause after each connection (Fig. 13). The     voir) on the other end of the leaking circuit. Instru-
+test set gauge should return to the 27 kPa (8 in. Hg.)   ment panel disassembly or removal may be necessary
+setting shortly after each connection is made. If OK,    to gain access to some components. See the appropri-
+replace the faulty mode control switch. If not OK, go    ate service procedures.
+to Step 3.                                                  (5) Connect the test set hose or probe to the open
+                                                         end of the leaking circuit. The test set gauge should
+                                                         return to the 27 kPa (8 in. Hg.) setting shortly after
+                                                         each connection is made. If OK, replace the faulty
+                                                         disconnected component. If not OK, go to Step 6.
+                                                            (6) To locate a leak in a vacuum line, leave one
+                                                         end of the line plugged and connect the test set hose
+                                                         or probe to the other end of the line. Run your fin-
+                                                         gers slowly along the line while watching the test set
+                                                         gauge. The vacuum reading will fluctuate when your
+                                                         fingers contact the source of the leak. To repair the
+                                                         vacuum line, cut out the leaking section of the line.
+                                                         Then, insert the loose ends of the line into a suitable
+                                                         length of 3 millimeter (0.125 inch) inside diameter
+                                                         rubber hose.
+
+
+
+
+            Fig. 13 Vacuum Circuit Test
+

@@ -1,0 +1,58 @@
+9 - 68        ENGINE 4.0L                                                                                                                     TJ
+
+                                                            ENGINE 4.0L
+
+                                                             TABLE OF CONTENTS
+                                                                   page                                                                     page
+
+ENGINE 4.0L                                                                    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 90
+  DESCRIPTION                                                                INTAKE/EXHAUST VALVES & SEATS
+    DESCRIPTION - ENGINE BLOCK . . . . . . . . . 70                            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 91
+    DESCRIPTION - ENGINE                  . . . . . . . . . . . . . . . 70     STANDARD PROCEDURE - VALVE SERVICE . . 91
+  DIAGNOSIS AND TESTING                                                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+    DIAGNOSIS AND TESTING - ENGINE                                             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 93
+     DIAGNOSIS - INTRODUCTION . . . . . . . . . . . 71                       ROCKER ARM / ADJUSTER ASSEMBLY
+    DIAGNOSIS AND TESTING - ENGINE                                             DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 94
+     DIAGNOSIS - PERFORMANCE . . . . . . . . . . . 71                          OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+    DIAGNOSIS AND TESTING - ENGINE                                             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+     DIAGNOSIS - MECHANICAL . . . . . . . . . . . . . 74                       CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+    DIAGNOSIS AND TESTING—CYLINDER                                             INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+     COMPRESSION PRESSURE . . . . . . . . . . . . . 76                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 95
+    DIAGNOSIS AND TESTING - CYLINDER                                         VALVE STEM SEALS
+     COMBUSTION PRESSURE LEAKAGE . . . . . . 76                                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 95
+  STANDARD PROCEDURE                                                         VALVE SPRINGS
+    STANDARD PROCEDURE - FORM-IN-                                              DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 96
+     PLACE GASKETS . . . . . . . . . . . . . . . . . . . . . 77                STANDARD PROCEDURE - VALVE SPRING
+    STANDARD PROCEDURE - HYDROSTATIC                                             TENSION TEST . . . . . . . . . . . . . . . . . . . . . . . 96
+     LOCK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+    STANDARD PROCEDURE - SERVICE                                               INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 97
+     ENGINE ASSEMBLY (SHORT BLOCK) . . . . . . 78                            ENGINE BLOCK
+    STANDARD PROCEDURE - REPAIR                                                CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97
+     DAMAGED OR WORN THREADS . . . . . . . . . 78                              INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 98
+    STANDARD PROCEDURE - ENGINE                                              CAMSHAFT & BEARINGS (IN BLOCK)
+     PERFORMANCE . . . . . . . . . . . . . . . . . . . . . . 78                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 98
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78         REMOVAL
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 80              REMOVAL - CAMSHAFT BEARINGS . . . . . . . 98
+  SPECIFICATIONS                                                                 REMOVAL - CAMSHAFT . . . . . . . . . . . . . . . . 99
+    ENGINE - 4.0L . . . . . . . . . . . . . . . . . . . . . . . . 81           INSTALLATION
+    TORQUE - 4.0L ENGINE . . . . . . . . . . . . . . . . 85                      INSTALLATION - CAMSHAFT BEARINGS                          . . 100
+AIR CLEANER ELEMENT                                                              INSTALLATION - CAMSHAFT . . . . . . . . . . . . 100
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86       CONNECTING ROD BEARINGS
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 86            STANDARD PROCEDURE - FITTING
+AIR CLEANER HOUSING                                                              CONNECTING ROD BEARINGS . . . . . . . . . . 101
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86       CRANKSHAFT
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 86            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 103
+CYLINDER HEAD                                                                CRANKSHAFT MAIN BEARINGS
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 86             STANDARD PROCEDURE - FITTING
+  DIAGNOSIS AND TESTING - ENGINE                                                 CRANKSHAFT MAIN BEARINGS . . . . . . . . . 103
+    CYLINDER HEAD GASKET FAILURE . . . . . . . 87                              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87         INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . 107
+  CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 107
+  INSPECTION        . . . . . . . . . . . . . . . . . . . . . . . . . . 88   CRANKSHAFT OIL SEAL - FRONT
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 88            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+CYLINDER HEAD COVER(S)                                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 109
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 90           CRANKSHAFT OIL SEAL - REAR
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90         REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+  CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 109
+  INSPECTION        . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+

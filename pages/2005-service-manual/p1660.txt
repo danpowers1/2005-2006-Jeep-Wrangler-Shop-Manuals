@@ -1,0 +1,59 @@
+25 - 8    EMISSIONS CONTROL                                                                                 TJ
+EMISSIONS CONTROL (Continued)
+   • If the MIL is ON and a DTC was set by the Fuel        can determine under what vehicle operating condi-
+Monitor or Misfire Monitor (both continuous moni-          tions the failure occurred.
+tors), the vehicle must be operated in the Similar            The data stored in Freeze Frame is usually
+Condition Window for a specified amount of time.           recorded when a system fails the first time for two
+   • If the MIL is ON and a DTC was set by a Task          trip faults. Freeze Frame data will only be overwrit-
+Manager commanded once-per-trip monitor (such as           ten by a different fault with a higher priority.
+the Oxygen Sensor Monitor, Catalyst Monitor, Purge
+Flow Monitor, Leak Detection Pump Monitor, EGR             CAUTION: Erasing DTCs, either with the DRB III or
+Monitor or Oxygen Sensor Heater Monitor), a good           by disconnecting the battery, also clears all Freeze
+trip is when the monitor is passed on the next start-      Frame data.
+up.
+   • If the MIL is ON and any other emissions DTC
+was set (not an OBD II monitor), a good trip occurs        Similar Conditions Window
+when the Oxygen Sensor Monitor and Catalyst Mon-              The Similar Conditions Window displays informa-
+itor have been completed, or two minutes of engine         tion about engine operation during a monitor. Abso-
+run time if the Oxygen Sensor Monitor and Catalyst         lute MAP (engine load) and Engine RPM are stored
+Monitor have been stopped from running.                    in this window when a failure occurs. There are two
+   Fuel System Good Trip                                   different Similar conditions Windows: Fuel System
+   To count a good trip (three required) and turn off      and Misfire.
+the MIL, the following conditions must occur:                 FUEL SYSTEM
+   • Engine in closed loop                                    • Fuel System Similar Conditions Window —
+   • Operating in Similar Conditions Window                An indicator that ’Absolute MAP When Fuel Sys Fail’
+   • Short Term multiplied by Long Term less than          and ’RPM When Fuel Sys Failed’ are all in the same
+threshold                                                  range when the failure occurred. Indicated by switch-
+   • Less than threshold for a predetermined time          ing from ’NO’ to ’YES’.
+   If all of the previous criteria are met, the PCM will      • Absolute MAP When Fuel Sys Fail — The
+count a good trip (three required) and turn off the        stored MAP reading at the time of failure. Informs
+MIL.                                                       the user at what engine load the failure occurred.
+   Misfire Good Trip                                          • Absolute MAP — A live reading of engine load
+   If the following conditions are met the PCM will        to aid the user in accessing the Similar Conditions
+count one good trip (three required) in order to turn      Window.
+off the MIL:                                                  • RPM When Fuel Sys Fail — The stored RPM
+   • Operating in Similar Condition Window                 reading at the time of failure. Informs the user at
+   • 1000 engine revolutions with no misfire               what engine RPM the failure occurred.
+   Warm-Up Cycles                                             • Engine RPM — A live reading of engine RPM
+   Once the MIL has been extinguished by the Good          to aid the user in accessing the Similar Conditions
+Trip Counter, the PCM automatically switches to a          Window.
+Warm-Up Cycle Counter that can be viewed on the               • Adaptive Memory Factor — The PCM utilizes
+DRB III. Warm-Up Cycles are used to erase DTCs             both Short Term Compensation and Long Term Adap-
+and Freeze Frames. Forty Warm-Up cycles must               tive to calculate the Adaptive Memory Factor for
+occur in order for the PCM to self-erase a DTC and         total fuel correction.
+Freeze Frame. A Warm-Up Cycle is defined as fol-              • Upstream O2S Volts — A live reading of the
+lows:                                                      Oxygen Sensor to indicate its performance. For
+   • Engine coolant temperature must start below           example, stuck lean, stuck rich, etc.
+and rise above 160° F                                         • SCW Time in Window (Similar Conditions
+   • Engine coolant temperature must rise by 40° F         Window Time in Window) — A timer used by the
+   • No further faults occur                               PCM that indicates that, after all Similar Conditions
+                                                           have been met, if there has been enough good engine
+Freeze Frame Data Storage                                  running time in the SCW without failure detected.
+  Once a failure occurs, the Task Manager records          This timer is used to increment a Good Trip.
+several engine operating conditions and stores it in a        • Fuel System Good Trip Counter — A Trip
+Freeze Frame. The Freeze Frame is considered one           Counter used to turn OFF the MIL for Fuel System
+frame of information taken by an on-board data             DTCs. To increment a Fuel System Good Trip, the
+recorder. When a fault occurs, the PCM stores the          engine must be in the Similar Conditions Window,
+input data from various sensors so that technicians        Adaptive Memory Factor must be less than cali-
+                                                           brated threshold and the Adaptive Memory Factor
+

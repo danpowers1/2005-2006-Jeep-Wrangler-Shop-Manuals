@@ -1,0 +1,60 @@
+TJ                                                                         INSTRUMENT CLUSTER            8J - 33
+MALFUNCTION INDICATOR LAMP (MIL) (Continued)
+  • Actuator Test - Each time the cluster is put         odometer latches at these values, and will not roll
+through the actuator test, the MIL will be turned on,    over to zero. The trip odometer can display values up
+then off again during the bulb check portion of the      to 9,999.9 kilometers (9,999.9 miles) before it rolls
+test to confirm the functionality of the LED and the     over to zero. The odometer display does not have a
+cluster control circuitry.                               decimal point and will not show values less than a
+  The PCM continually monitors the fuel and emis-        full unit (kilometer or mile), while the trip odometer
+sions system circuits and sensors to decide whether      display does have a decimal point and will show
+the system is in good operating condition. The PCM       tenths of a unit (kilometer or mile). The unit of mea-
+then sends the proper lamp-on or lamp-off messages       sure (kilometers or miles) for the odometer and trip
+to the instrument cluster. For further diagnosis of      odometer display is not shown in the VFD. The unit
+the MIL or the instrument cluster circuitry that con-    of measure for the instrument cluster odometer/trip
+trols the LED, (Refer to 8 - ELECTRICAL/INSTRU-          odometer is selected at the time that it is manufac-
+MENT CLUSTER - DIAGNOSIS AND TESTING). If                tured, and cannot be changed. If the instrument clus-
+the instrument cluster turns on the MIL after the        ter has a speedometer with a primary scale in
+bulb test, it may indicate that a malfunction has        kilometers-per-hour, the letters “KM” are printed on
+occurred and that the fuel and emissions system may      the cluster mask next to the VFD window to indicate
+require service. For proper diagnosis of the fuel and    the odometer unit of measure.
+emissions systems, the PCM, the PCI data bus, or            The odometer has a “Rental Car” mode, which will
+the electronic message inputs to the instrument clus-    illuminate the odometer information in the VFD
+ter that control the MIL, a DRBIIIt scan tool is         whenever the driver side front door is opened with
+required. Refer to the appropriate diagnostic infor-     the ignition switch in the Off or Accessory positions.
+mation.                                                  During daylight hours (exterior lamps are Off) the
+                                                         VFD is illuminated at full brightness for clear visibil-
+                                                         ity. At night (exterior lamps are On) the VFD lighting
+ODOMETER                                                 level is adjusted with the other cluster illumination
+                                                         lamps using the panel lamps dimmer control ring on
+DESCRIPTION                                              the control stalk of the left multi-function switch.
+                                                         However, a “Parade” mode position of the panel
+                                                         lamps dimmer control ring allows the VFD to be illu-
+                                                         minated at full brightness if the exterior lamps are
+                                                         turned On during daylight hours.
+             Fig. 19 Odometer Display                       The VFD, the trip odometer switch, and the trip
+                                                         odometer switch button are serviced as a unit with
+   An odometer and trip odometer are standard            the instrument cluster. The rubber trip odometer
+equipment in all instrument clusters (Fig. 19). The      reset knob boot that seals the hole in the cluster lens
+odometer and trip odometer information are dis-          through which the reset knob protrudes is available
+played in a common electronic, blue-green Vacuum         for individual service replacement.
+Fluorescent Display (VFD). The VFD is soldered onto
+the cluster electronic circuit board and is visible      OPERATION
+through a window with a smoked clear lens located           The odometer and trip odometer give an indication
+near the lower edge of the cluster overlay between       to the vehicle operator of the distance the vehicle has
+the tachometer and speedometer. The dark lens over       traveled. This indicator is controlled by the instru-
+the VFD prevents it from being clearly visible when      ment cluster circuitry based upon cluster program-
+it is not illuminated. However, the odometer, and trip   ming and electronic messages received by the cluster
+odometer information are not displayed simulta-          from the Powertrain Control Module (PCM) over the
+neously. The trip odometer reset switch on the           Programmable Communications Interface (PCI) data
+instrument cluster circuit board toggles the display     bus. The odometer and trip odometer information is
+between odometer and trip odometer modes by              displayed by the instrument cluster Vacuum Fluores-
+depressing the odometer/trip odometer switch button      cent Display (VFD). The VFD will display the odom-
+that extends through the lower edge of the cluster       eter information whenever the driver door is opened
+lens, just right of the odometer VFD.                    with the ignition switch in the Off or Accessory posi-
+   The odometer and trip odometer information is         tions, and will display the last previously selected
+stored in the instrument cluster memory. This infor-     odometer or trip odometer information when the igni-
+mation can be increased when the proper inputs are       tion switch is turned to the On or Start positions.
+provided to the instrument cluster, but the informa-     The instrument cluster circuitry controls the VFD
+tion cannot be decreased. The odometer can display       and provides the following features:
+values up to 999,999 kilometers (999,999 miles). The
+

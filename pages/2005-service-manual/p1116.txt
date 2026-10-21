@@ -1,0 +1,54 @@
+14 - 40    FUEL INJECTION                                                                                     TJ
+THROTTLE CONTROL CABLE (Continued)
+
+INSTALLATION                                               signal (voltage) that represents the throttle blade
+                                                           position of the throttle body. The sensor is connected
+2.4L                                                       to the throttle blade shaft. As the position of the
+   (1) Slide accelerator cable plastic mount into throt-   throttle blade changes, the resistance (output volt-
+tle body mounting bracket. Continue sliding until          age) of the TPS changes.
+release tab is aligned to hole in mounting bracket.           The PCM supplies approximately 5 volts to the
+   (2) Hold throttle in wide open position. While held     TPS. The TPS output voltage (input signal to the
+in this position, slide throttle cable pin into throttle   PCM) represents the throttle blade position. The
+body bellcrank.                                            PCM receives an input signal voltage from the TPS.
+   (3) Push cable housing into rubber grommet and          This will vary in an approximate range of from .26
+through opening in dash panel.                             volts at minimum throttle opening (idle), to 4.49 volts
+   (4) Push other end of cable through opening in          at wide open throttle. Along with inputs from other
+dash panel until retaining tabs lock into panel.           sensors, the PCM uses the TPS input to determine
+   (5) From inside vehicle, slide throttle cable core      current engine operating conditions. In response to
+wire into opening (slot) in top of pedal arm.              engine operating conditions, the PCM will adjust fuel
+   (6) Push plastic cable retainer (clip) into pedal arm   injector pulse width and ignition timing.
+opening until it snaps in place.                              The PCM needs to identify the actions and position
+   (7) Install air box to throttle body.                   of the throttle blade at all times. This information is
+   (8) Before starting engine, operate accelerator         needed to assist in performing the following calcula-
+pedal to check for any binding.                            tions:
+                                                              • Ignition timing advance
+4.0L                                                          • Fuel injection pulse-width
+  (1) Slide throttle cable through hole in throttle           • Idle (learned value or minimum TPS)
+body bracket until retainer tabs lock into bracket.           • Off-idle (0.06 volt)
+Connect cable ball end to throttle body linkage ball          • Wide Open Throttle (WOT) open loop (2.608
+(snaps on).                                                volts above learned idle voltage)
+  (2) Snap cable into clip guides on engine cylinder          • Deceleration fuel lean out
+head (valve) cover.                                           • Fuel cutoff during cranking at WOT (2.608 volts
+  (3) Push other end of cable through opening in           above learned idle voltage)
+dash panel until retaining tabs lock into panel.              • A/C WOT cutoff (certain automatic transmis-
+  (4) From inside drivers compartment, slide throttle      sions only)
+cable core wire into opening in top of accelerator
+pedal arm. An index tab is located on pedal arm.           REMOVAL
+Rotate and push cable retainer (clip) into pedal arm
+opening until it snaps in place on index tab.              2.4L
+  (5) Install air box to throttle body.                      The Throttle Position Sensor (TPS) is mounted to
+  (6) Before starting engine, operate accelerator          the throttle body (Fig. 32).
+pedal to check for any binding.                              (1) Disconnect TPS electrical connector.
+                                                             (2) Remove 2 TPS mounting screws.
+                                                             (3) Remove TPS.
+THROTTLE POSITION SENSOR
+                                                           4.0L
+DESCRIPTION                                                  The TPS is mounted to the throttle body.
+  The 3–wire Throttle Position Sensor (TPS) is               (1) Remove air cleaner tube at throttle body.
+mounted on the throttle body and is connected to the         (2) Disconnect TPS electrical connector.
+throttle blade.                                              (3) Remove TPS mounting screws (Fig. 33).
+                                                             (4) Remove TPS.
+OPERATION
+  The TPS is a 3–wire variable resistor that provides
+the Powertrain Control Module (PCM) with an input
+

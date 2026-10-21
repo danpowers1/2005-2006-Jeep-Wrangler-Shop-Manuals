@@ -1,0 +1,55 @@
+2    INTRODUCTION                                                                                          TJ
+VEHICLE IDENTIFICATION NUMBER (Continued)
+
+     POSITION                      INTERPRETATION                                 CODE = DESCRIPTION
+          9                            Check Digit                                    0 through 9 or X
+         10                            Model Year                                         5=2005
+          11                         Assembly Plant                                    P = Toledo #2
+      12 thru 17                                          Vehicle Build Sequence
+
+
+VEHICLE EMISSION CONTROL
+INFORMATION (VECI) LABEL
+DESCRIPTION
+   All models have a Vehicle Emission Control Infor-
+mation (VECI) Label. DaimlerChrysler permanently
+attaches the label in the engine compartment (Fig.
+1). It cannot be removed without defacing informa-
+tion and destroying the label.
+   The label contains the vehicle’s emission specifica-
+tions and vacuum hose routings. All hoses must be
+connected and routed according to the label.
+   The VECI label contains the following:
+   • Engine family and displacement
+   • Evaporative family
+   • Emission control system schematic
+   • Certification application
+   • Engine timing specifications (if adjustable)
+   • Idle speeds (if adjustable)
+   • Spark plug and gap
+   The label also contains an engine vacuum sche-
+matic. These labels are permanently attached and                             Fig. 1 VECI Label Location
+cannot be removed without defacing information and          1 - VECI LABEL
+destroying label.
+                                                             The label is located on the driver-side door shut-
+                                                           face.
+VEHICLE CERTIFICATION
+LABEL
+DESCRIPTION
+  A vehicle certification label (Fig. 2) is attached to
+every DaimlerChrysler Corporation vehicle. The label
+certifies that the vehicle conforms to all applicable
+Federal Motor Vehicle Standards. The label also lists:
+  • Month and year of vehicle manufacture.
+  • Gross Vehicle Weight Rating (GVWR). The gross
+front and rear axle weight ratings (GAWR’s) are
+based on a minimum rim size and maximum cold tire
+inflation pressure.
+  • Vehicle Identification Number (VIN).
+  • Type of vehicle.
+  • Type of rear wheels.
+  • Bar code.                                               Fig. 2 VEHICLE CERTIFICATION LABEL - TYPICAL
+  • Month, Day and Hour (MDH) of final assembly.
+  • Paint and Trim codes.
+  • Country of origin.
+

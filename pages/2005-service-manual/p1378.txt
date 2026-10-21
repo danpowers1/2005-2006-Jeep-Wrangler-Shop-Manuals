@@ -1,0 +1,17 @@
+21 - 234     TRANSFER CASE - NV241                                                                           TJ
+VEHICLE SPEED SENSOR (Continued)
+  Under deceleration conditions, the PCM adjusts            (3) Remove sensor mounting bolt.
+the Idle Air Control (IAC) motor to maintain a              (4) Remove sensor (pull straight out) from rear
+desired MAP value. Under idle conditions, the PCM         extension.
+adjusts the IAC motor to maintain a desired engine
+speed.                                                    INSTALLATION
+                                                             (1) Install sensor into transfer case rear extension
+REMOVAL                                                   and install mounting bolt. Before tightening bolt, ver-
+  The Vehicle Speed Sensor (VSS) is located in the        ify speed sensor is fully seated (mounted flush) to
+transfer case rear extension.                             rear extension.
+  (1) Raise and support vehicle.                             (2) Tighten sensor mounting bolt to 11-16 N·m
+  (2) Disconnect electrical connector from sensor by      (8-12 ft. lbs.) torque.
+pushing slide tab. After slide tab has been positioned,      (3) Connect electrical connector to sensor.
+push in on secondary release lock on side of connec-
+tor and pull connector from sensor.
+

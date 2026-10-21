@@ -1,0 +1,52 @@
+24 - 10       CONTROLS                                                                                                                   TJ
+
+
+                                                          CONTROLS
+
+                                                         TABLE OF CONTENTS
+                                                               page                                                                    page
+
+A/C COMPRESSOR CLUTCH                                                    BLEND DOOR ACTUATOR
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 11        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 26
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 11      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+  DIAGNOSIS AND TESTING                                                   REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+    A/C COMPRESSOR CLUTCH COIL . . . . . . . . 11                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+  STANDARD PROCEDURE                                                     BLOWER MOTOR RELAY
+    DIODE REPLACEMENT . . . . . . . . . . . . . . . . . 12                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 27
+    A/C CLUTCH INSPECTION . . . . . . . . . . . . . . 12                  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+    A/C CLUTCH BREAK-IN             . . . . . . . . . . . . . . . . 12    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 14      BLOWER MOTOR RESISTOR
+A/C CLUTCH RELAY                                                          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 15        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 15      DIAGNOSIS AND TESTING
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16      BLOWER MOTOR RESISTOR . . . . . . . . . . . . 29
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 16       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+A/C HEATER CONTROL                                                        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 16       BLOWER MOTOR SWITCH
+  DIAGNOSIS AND TESTING                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+    VACUUM CONTROL SYSTEM . . . . . . . . . . . . 17                      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21    DIAGNOSIS AND TESTING
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 21         BLOWER MOTOR SWITCH . . . . . . . . . . . . . . 30
+A/C HIGH PRESSURE SWITCH                                                  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 21        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 22     MODE DOOR ACTUATORS
+  DIAGNOSIS AND TESTING                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+    A/C HIGH PRESSURE SWITCH . . . . . . . . . . . 22                     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 22      RECIRCULATION DOOR ACTUATOR
+A/C LOW PRESSURE SWITCH                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 23        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 23      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  DIAGNOSIS AND TESTING                                                  VACUUM CHECK VALVE
+    A/C LOW PRESSURE SWITCH . . . . . . . . . . . 23                      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 24       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+A/C PRESSURE TRANSDUCER                                                   INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24       VACUUM RESERVOIR
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 24      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  DIAGNOSIS AND TESTING                                                   OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+    A/C PRESSURE TRANSDUCER . . . . . . . . . . 25                        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 36
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+

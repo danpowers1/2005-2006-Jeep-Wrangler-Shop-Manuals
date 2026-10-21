@@ -1,0 +1,78 @@
+23 - 38    INSTRUMENT PANEL                                                                                 TJ
+ACCESSORY SWITCH BEZEL (Continued)
+  (4) Pull the accessory switch bezel away from the      OPERATION
+instrument panel far enough to access the instru-           The Axle Lock switch receives battery current on a
+ment panel wire harness connectors.                      fused B(+) circuit from a fuse in the Power Distribu-
+  (5) Disconnect the instrument panel wire harness       tion Center (PDC). The switch is grounded at all
+connectors from the connector receptacles for the        times. The Axle Lock switch is only operational when
+accessory switches and the cigar lighter/power outlet    the instrument cluster sends an activation signal to
+on the back of the accessory switch bezel.               the switch logic.
+  (6) Remove the accessory switch bezel from the            With the transfer case in the 4WD Low Range and
+instrument panel.                                        the vehicle speed below 10 MPH (16kph), a momen-
+                                                         tary push to the lower portion of the rocker switch to
+INSTALLATION                                             Lock:
+                                                            • 1st Push: Rear Axle Locked
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                     • 2nd Push: Rear and Front Axle Locked
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                      Momentary pushes, will toggle between Rear Axle
+ATTEMPTING ANY STEERING WHEEL, STEERING                  Locked or Rear/Front Axle Locked. A momentary
+COLUMN, OR INSTRUMENT PANEL COMPONENT                    push to the upper portion of the rocker switch to
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                “OFF”, (both axles unlocked).
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                DIAGNOSIS AND TESTING - AXLE LOCK
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS               SWITCH
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+                                                         WARNING: ON VEHICLES EQUIPPED WITH AIR-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                         BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                         ATTEMPTING ANY STEERING WHEEL, STEERING
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+                                                         COLUMN, OR INSTRUMENT PANEL COMPONENT
+INJURY.
+                                                         DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+  (1) Position the accessory switch bezel to the         LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+instrument panel.                                        THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+  (2) Reconnect the instrument panel wire harness        TEM CAPACITOR TO DISCHARGE BEFORE PER-
+connectors to the connector receptacles for the acces-   FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+sory switches and the cigar lighter/power outlet on      IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+the back of the accessory switch bezel.                  SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+  (3) Position the accessory switch bezel onto the       CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+instrument panel.                                        BAG DEPLOYMENT AND POSSIBLE PERSONAL
+  (4) Install and tighten the four screws that secure    INJURY.
+the accessory switch bezel to the instrument panel.
+                                                           (1) Check the fused B(+) fuse in the Power Distri-
+Tighten the screws to 2 N·m (20 in. lbs.).
+                                                         bution Center (PDC). If OK, go to step 2. If not,
+  (5) Reinstall the center bezel onto the instrument
+                                                         repair the shorted circuit or component required and
+panel. (Refer to 23 - BODY/INSTRUMENT PANEL/
+                                                         replace the fuse.
+CENTER BEZEL - INSTALLATION).
+                                                           (2) Check for battery voltage at the fused B(+) fuse
+  (6) Reconnect the battery negative cable.
+                                                         in the PDC. If OK, go to step 3. If not, repair the
+                                                         open B(+) circuit to the fuse.
+AXLE LOCK SWITCH                                           (3) Turn the ignition to the off position. Disconnect
+                                                         and isolate the negative battery cable. Remove the
+                                                         Axle Lock switch. Disconnect the switch harness con-
+DESCRIPTION
+                                                         nector. Check for continuity between the fuse cavity
+  If equipped, the Axle Lock switch is located in the
+                                                         in the PDC and the Fused B(+) circuit in the switch
+Accessory Switch Bezel, below the HVAC controls.
+                                                         harness connector. If OK got to step 4. If not OK,
+The switch will activate the Rear Axle locker and
+                                                         repair the open Fused B(+) circuit.
+Rear/Front Axle locker. The switch is a double-action
+                                                           (4) Turn the ignition to the off position. Disconnect
+momentary rocker type. The Axle Lock Switch is
+                                                         and isolate the negative battery cable. Remove the
+secured by a snap fit within the bezel. The axle Lock
+                                                         Axle Lock switch. disconnect the switch harness con-
+Switch cannot be repaired and, if faulty or damaged,
+                                                         nector. check for continuity between the switch
+the entire switch must be replaced.
+                                                         ground and a known good ground. If OK got to step
+                                                         5. If not OK, repair open ground circuit.
+

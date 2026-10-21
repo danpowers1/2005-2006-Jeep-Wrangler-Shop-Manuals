@@ -1,0 +1,61 @@
+TJ                                                                                   SPEED CONTROL   8P - 3
+
+
+CABLE
+DESCRIPTION
+  The speed control servo cable is connected between
+the speed control vacuum servo diaphragm and the
+throttle body control linkage.
+
+OPERATION
+  This cable causes the throttle control linkage to
+open or close the throttle valve in response to move-
+ment of the vacuum servo diaphragm.
+
+REMOVAL
+2.4L
+  (1) Disconnect negative battery cable at battery.
+  (2) Hold throttle in wide open position. While held
+in this position, slide throttle control cable pin (Fig.
+1) from throttle body bellcrank. Also slide servo cable    Fig. 1 SERVO CABLE AT THROTTLE BODY - 2.4L
+pin from throttle body bellcrank.
+                                                           1 - MOUNTING BRACKET
+  (3) Using a pick or small screwdriver, press release     2 - SPEED CONTROL CABLE
+tab (Fig. 1) to release plastic cable mount from           3 - THROTTLE CABLE
+bracket. Press on tab only enough to release               4 - RELEASE TAB
+                                                           5 - CABLE PINS
+cable from bracket. If tab is pressed too much,            6 - BELLCRANK
+it will be broken. To remove throttle cable from
+throttle body bracket, slide cable towards front of
+vehicle.
+  (4) After removing throttle control cable at throttle
+body, slide servo cable from throttle body.
+  (5) If necessary, disconnect opposite end of servo
+cable at servo. Refer to Servo Removal/Installation.
+
+4.0L
+  (1) Disconnect negative battery cable at battery.
+  (2) Using finger pressure only, remove cable con-
+nector by pushing connector off the throttle body
+bellcrank pin (Fig. 2). DO NOT try to pull cable
+connector off perpendicular to the bellcrank
+pin. Connector will be broken.
+  (3) Two release tabs are located on sides of speed
+control cable at cable bracket (Fig. 2). Squeeze tabs
+together and push cable out of bracket.
+  (4) Unclip cable from cable guide at valve cover.
+  (5) If necessary, disconnect opposite end of servo
+cable at servo. Refer to Servo Removal/Installation.
+
+INSTALLATION
+2.4L                                                       Fig. 2 SERVO CABLE AT THROTTLE BODY - 4.0L
+   (1) Install end of cable to speed control servo.        1 - ACCELERATOR CABLE
+                                                           2 - OFF
+Refer to Servo Removal/Installation.                       3 - OFF
+   (2) Slide speed control cable plastic mount into        4 - THROTTLE BODY BELLCRANK
+throttle body bracket.                                     5 - SPEED CONTROL CABLE
+                                                           6 - RELEASE TABS
+   (3) Install speed control cable connector onto throt-   7 - BRACKET
+tle body bellcrank pin (push rearward to snap into
+location).
+

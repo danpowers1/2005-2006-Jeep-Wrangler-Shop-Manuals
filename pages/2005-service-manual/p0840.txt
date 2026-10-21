@@ -1,0 +1,26 @@
+8W - 80 - 40   8W-80 CONNECTOR PIN-OUTS                                                     TJ
+
+
+                                      PASSENGER DOOR AJAR SWITCH - BLACK 3 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    M23 20YL/DG                        DOOR AJAR SWITCH OUTPUT
+                 2    -                                  -
+                 3    G76 20VT/YL                        PASSENGER DOOR AJAR SWITCH SENSE
+
+
+
+
+                                                 POWER OUTLET - 3 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    A205 18RD/OR                       FUSED B(+)
+                 2    -                                  -
+                 3    Z1 16BK                            GROUND
+
+
+
+
+                                  POWER STEERING PRESSURE SWITCH (2.4L) - BLACK 2 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    K66 18DB/WT                        P/S PRESSURE SWITCH SIGNAL
+                 2    Z987 20BK                          GROUND
+

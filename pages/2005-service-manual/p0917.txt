@@ -1,0 +1,62 @@
+TJ                                 8W-97 POWER DISTRIBUTION                                        8W - 97 - 13
+POWER OUTLET (Continued)
+
+DIAGNOSIS AND TESTING - POWER OUTLET
+   For complete circuit diagrams, refer to Power
+Outlet in Wiring Diagrams.
+   (1) Check the fused B(+) fuse in the Power Distri-
+bution Center. If OK, go to Step 2. If not OK, repair
+the shorted circuit or component as required and
+replace the faulty fuse.
+   (2) Check for battery voltage at the fused B(+) fuse
+in the Power Distribution Center. If OK, go to Step 3.
+If not OK, repair the open fused B(+) circuit to the
+battery as required.
+   (3) Remove the plastic protective cap from the
+power outlet receptacle. Check for continuity between
+the inside circumference of the power outlet recepta-
+cle and a good ground. There should be continuity. If
+OK, go to Step 4. If not OK, go to Step 5.
+   (4) Check for battery voltage at the insulated con-
+tact located at the back of the power outlet recepta-
+cle. If not OK, go to Step 5.
+   (5) Disconnect and isolate the battery negative
+cable. Remove the power outlet receptacle from the
+instrument panel. Disconnect the wire harness con-          Fig. 17 Cigar Lighter and Power Outlet Remove/
+nector from the power outlet receptacle. Check for                                Install
+continuity between the ground circuit cavity of the
+                                                          1 - KNOB AND ELEMENT
+power outlet wire harness connector and a good            2 - RETAINING BOSSES-ENGAGE PLIERS HERE
+ground. There should be continuity. If OK, go to Step     3 - BASE
+6. If not OK, repair the open ground circuit to ground    4 - PARTIALLY REMOVED
+                                                          5 - EXTERNAL SNAP-RING PLIERS
+as required.                                              6 - MOUNT
+   (6) Connect the battery negative cable. Check for      7 - BASE
+battery voltage at the fused B(+) circuit cavity of the
+power outlet wire harness connector. If OK, replace         (7) Disconnect the instrument panel wire harness
+the faulty power outlet receptacle. If not OK, repair     connector from the cigar lighter or power outlet
+the open fused B(+) circuit to the Power Distribution     receptacle base connector receptacle.
+Center fuse as required.                                    (8) Remove the cigar lighter or power outlet mount
+                                                          from the instrument panel.
+REMOVAL
+  (1) Disconnect and isolate the battery negative         INSTALLATION
+cable.                                                       (1) Reconnect the instrument panel wire harness
+  (2) Pull the cigar lighter knob and element out of      connector to the cigar lighter or power outlet recep-
+the cigar lighter receptacle base, or unsnap the pro-     tacle base connector receptacle.
+tective cap from the power outlet receptacle base.           (2) Install the cigar lighter or power outlet mount
+  (3) Look inside the cigar lighter or power outlet       into the instrument panel.
+receptacle base and note the position of the rectangu-       (3) Align the splines on the outside of the cigar
+lar retaining bosses of the mount that secures the        lighter or power outlet receptacle base connector
+receptacle base to the instrument panel (Fig. 17).        receptacle with the grooves on the inside of the
+  (4) Insert a pair of external snap ring pliers into     mount.
+the cigar lighter or power outlet receptacle base and        (4) Press firmly on the cigar lighter or power out-
+engage the tips of the pliers with the retaining          let receptacle base until the retaining bosses of the
+bosses of the mount.                                      mount are fully engaged in their receptacles.
+  (5) Squeeze the pliers to disengage the mount              (5) Install the cigar lighter knob and element into
+retaining bosses from the receptacle base and, using      the cigar lighter receptacle base, or the protective cap
+a gentle rocking motion, pull the pliers and the          into the power outlet receptacle base.
+receptacle base out of the mount.                            (6) Reconnect the battery negative cable.
+  (6) Pull the receptacle base away from the instru-
+ment panel far enough to access the instrument
+panel wire harness connector.
+

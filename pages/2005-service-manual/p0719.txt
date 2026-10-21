@@ -1,0 +1,14 @@
+TJ                                               8W-35 ANTILOCK BRAKES                                                           8W - 35 - 1
+
+                                            8W-35 ANTILOCK BRAKES
+Component                                                         Page    Component                                                          Page
+Antilock Brake Relay . . . . . . . . . . . . . . . . . 8W-35-2            G100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-2
+Brake Lamp Switch . . . . . . . . . . . . . . . . . . 8W-35-3             G101 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-2
+Controller Antilock Brake . . . . . . . . . . 8W-35-2, 3, 4               Instrument Cluster . . . . . . . . . . . . . . . . . . . 8W-35-2
+Fuse 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-3    Left Front Wheel Speed Sensor . . . . . . . . . 8W-35-4
+Fuse 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-2    Left Rear Wheel Speed Sensor . . . . . . . . . . 8W-35-4
+Fuse 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-2    Power Distribution Center . . . . . . . . . . . . . 8W-35-2
+Fuse 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-2   Powertrain Control Module . . . . . . . . . . . . 8W-35-3
+Fuse Block . . . . . . . . . . . . . . . . . . . . . . . 8W-35-2, 3       Right Front Wheel Speed Sensor . . . . . . . . 8W-35-4
+G-Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-35-3    Right Rear Wheel Speed Sensor . . . . . . . . . 8W-35-4
+

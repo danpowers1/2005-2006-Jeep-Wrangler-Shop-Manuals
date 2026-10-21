@@ -1,0 +1,62 @@
+14 - 32    FUEL INJECTION                                                                                     TJ
+MAP SENSOR (Continued)
+and full scale is 4.5V. For a pressure swing of 0–15          The PCM recognizes a decrease in manifold pres-
+psi, the voltage changes 4.0V. To operate the sensor,      sure by monitoring a decrease in voltage from the
+it is supplied a regulated 4.8 to 5.1 volts. Ground is     reading stored in the barometric pressure memory
+provided through the low-noise, sensor return circuit      cell. The MAP sensor is a linear sensor; meaning as
+at the PCM.                                                pressure changes, voltage changes proportionately.
+   The MAP sensor input is the number one contrib-         The range of voltage output from the sensor is usu-
+utor to fuel injector pulse width. The most important      ally between 4.6 volts at sea level to as low as 0.3
+function of the MAP sensor is to determine baromet-        volts at 26 in. of Hg. Barometric pressure is the pres-
+ric pressure. The PCM needs to know if the vehicle is      sure exerted by the atmosphere upon an object. At
+at sea level or at a higher altitude, because the air      sea level on a standard day, no storm, barometric
+density changes with altitude. It will also help to cor-   pressure is approximately 29.92 in Hg. For every 100
+rect for varying barometric pressure. Barometric           feet of altitude, barometric pressure drops 0.10 in.
+pressure and altitude have a direct inverse correla-       Hg. If a storm goes through, it can change baromet-
+tion; as altitude goes up, barometric goes down. At        ric pressure from what should be present for that
+key-on, the PCM powers up and looks at MAP volt-           altitude. You should know what the average pressure
+age, and based upon the voltage it sees, it knows the      and corresponding barometric pressure is for your
+current barometric pressure (relative to altitude).        area.
+Once the engine starts, the PCM looks at the voltage
+again, continuously every 12 milliseconds, and com-        REMOVAL
+pares the current voltage to what it was at key-on.
+The difference between current voltage and what it         2.4L
+was at key-on, is manifold vacuum.                           The Manifold Absolute Pressure (MAP) sensor is
+   During key-on (engine not running) the sensor           mounted into the rear of the intake manifold (Fig.
+reads (updates) barometric pressure. A normal range        18). An o-ring is used to seal the sensor to the intake
+can be obtained by monitoring a known good sensor.         manifold (Fig. 19).
+   As the altitude increases, the air becomes thinner        (1) Disconnect electrical connector at sensor.
+(less oxygen). If a vehicle is started and driven to a       (2) Clean area around MAP sensor.
+very different altitude than where it was at key-on,         (3) Remove sensor mounting screw (TORX head).
+the barometric pressure needs to be updated. Any             (4) Remove MAP sensor from intake manifold.
+time the PCM sees Wide Open Throttle (WOT), based            (5) Check condition of sensor o-ring (Fig. 19).
+upon Throttle Position Sensor (TPS) angle and RPM,
+it will update barometric pressure in the MAP mem-
+ory cell. With periodic updates, the PCM can make
+its calculations more effectively.
+   The PCM uses the MAP sensor input to aid in cal-
+culating the following:
+   • Manifold pressure
+   • Barometric pressure
+   • Engine load
+   • Injector pulse-width
+   • Spark-advance programs
+   • Shift-point strategies (certain automatic trans-
+missions only)
+   • Idle speed
+   • Decel fuel shutoff
+   The MAP sensor signal is provided from a single
+piezoresistive element located in the center of a dia-
+phragm. The element and diaphragm are both made
+of silicone. As manifold pressure changes, the dia-
+phragm moves causing the element to deflect, which
+                                                                  Fig. 18 MAP SENSOR LOCATION - 2.4L
+stresses the silicone. When silicone is exposed to
+                                                           1 - REAR OF INTAKE MANIFOLD
+stress, its resistance changes. As manifold vacuum         2 - MAP SENSOR
+increases, the MAP sensor input voltage decreases          3 - ALIGNMENT PIN
+proportionally. The sensor also contains electronics       4 - MOUNTING BOLT (TORX)
+                                                           5 - ELECTRICAL CONNECTOR
+that condition the signal and provide temperature          6 - MAIN ENGINE HARNESS CONNECTORS
+compensation.
+

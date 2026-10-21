@@ -1,0 +1,58 @@
+8J - 10    INSTRUMENT CLUSTER                                                                                 TJ
+INSTRUMENT CLUSTER (Continued)
+  The timer function of the EMIC will also automat-         • Axle Lock Switch Enable 1 (w/Off-Road
+ically turn the rear window defogger system Off. The      Package Only)
+timer turns the system Off after about ten minutes of       • Axle Lock Switch Enable 2 (w/Off-Road
+operation; however, after the first timed interval has    Package Only)
+expired, each time the system is turned On again            • Panel Lamp Feed
+during that same ignition cycle, the timer will auto-       • Rear Window Defogger Relay Control
+matically turn it Off after about five minutes of oper-     Refer to the appropriate wiring information for
+ation.                                                    additional details.
+  The hard wired input and output of the EMIC rear
+window defogger control may be diagnosed using con-       GROUNDS
+ventional diagnostic methods; however, there are no         The EMIC receives a ground path through the fol-
+other diagnostic tools available for the EMIC rear        lowing hard wired circuit:
+window defogger timer and logic circuitry. If the           • Ground - G201
+input and output components and circuits of the rear        Refer to the appropriate wiring information for
+window defogger system test OK, but the system            additional details.
+fails to operate as designed, the EMIC must be
+replaced.                                                 COMMUNICATION
+                                                             The EMIC has the following data bus communica-
+INPUT AND OUTPUT CIRCUITS                                 tion circuit:
+                                                             • PCI Data Bus
+HARD WIRED INPUTS                                            Refer to the appropriate wiring information for
+  The hard wired inputs to the EMIC include the fol-      additional details.
+lowing:
+  • ABS Warning Indicator Driver                          DIAGNOSIS AND TESTING - INSTRUMENT
+  • Brake Warning Indicator Sense                         CLUSTER
+  • Driver Door Ajar Switch Sense                           If all of the instrument cluster gauges and/or indi-
+  • Fog Lamp Feed                                         cators are inoperative, refer to PRELIMINARY
+  • Front Axle Lock Request (w/Off-Road Pack-             DIAGNOSIS. If an individual gauge or Programma-
+age Only)                                                 ble Communications Interface (PCI) data bus mes-
+  • Front Lock Indicator Switch Sense (w/Off-             sage-controlled indicator is inoperative, refer to
+Road Package Only)                                        ACTUATOR TEST. If an individual hard wired indi-
+  • Fused B(+) - Ignition-Off Draw                        cator is inoperative, refer to the diagnosis and testing
+  • Fused Ignition Switch Output (Run-Start)              information for that specific indicator. If the instru-
+  • Headlamp Switch Output                                ment cluster interior lighting control function is inop-
+  • High Beam Indicator Driver                            erative, refer to INTERIOR LIGHTING CONTROL
+  • Key-In Ignition Switch Sense                          DIAGNOSIS. If the axle locker control is inoperative,
+  • Left Turn Signal                                      refer to AXLE LOCKER CONTROL DIAGNOSIS. If
+  • Panel Lamps Dimmer Signal                             the instrument cluster rear window defogger control
+  • Passenger Door Ajar Switch Sense                      function is inoperative, refer to REAR WINDOW
+  • Rear Axle Lock Request (w/Off-Road Pack-              DEFOGGER CONTROL DIAGNOSIS.
+age Only)                                                   Refer to the appropriate wiring information. The
+  • Rear Lock Indicator Switch Sense (w/Off-              wiring information includes wiring diagrams, proper
+Road Package Only)                                        wire and connector repair procedures, details of wire
+  • Rear Window Defogger Switch Sense                     harness routing and retention, connector pin-out
+  • Right Turn Signal                                     information and location views for the various wire
+  • Seat Belt Switch Sense                                harness connectors, splices and grounds.
+  • 4WD Switch Sense (w/o Off-Road Package
+only)
+  Refer to the appropriate wiring information for
+additional details.
+
+HARD WIRED OUTPUTS
+   The hard wired outputs of the EMIC include the
+following:
+   • Courtesy Lamp Feed
+

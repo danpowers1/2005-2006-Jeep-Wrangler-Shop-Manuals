@@ -1,0 +1,62 @@
+5 - 10    BRAKES - BASE                                                                                         TJ
+
+
+DISC BRAKE CALIPERS                                          Application and release of the brake pedal gener-
+                                                           ates only a very slight movement of the caliper and
+                                                           piston. Upon release of the pedal, the caliper and pis-
+DESCRIPTION
+                                                           ton return to a rest position. The brake shoes do not
+  The calipers are a single piston type. The calipers
+                                                           retract an appreciable distance from the rotor. In
+are free to slide laterally, this allows continuous com-
+                                                           fact, clearance is usually at, or close to zero. The rea-
+pensation for lining wear.
+                                                           sons for this are to keep road debris from getting
+                                                           between the rotor and lining and in wiping the rotor
+OPERATION                                                  surface clear each revolution.
+  When the brakes are applied fluid pressure is
+                                                             The caliper piston seal controls the amount of pis-
+exerted against the caliper piston. The fluid pressure
+                                                           ton extension needed to compensate for normal lining
+is exerted equally and in all directions. This means
+                                                           wear.
+pressure exerted against the caliper piston and
+                                                             During brake application, the seal is deflected out-
+within the caliper bore will be equal (Fig. 5).
+                                                           ward by fluid pressure and piston movement (Fig. 6).
+                                                           When the brakes (and fluid pressure) are released,
+                                                           the seal relaxes and retracts the piston.
+                                                             The amount of piston retraction is determined by
+                                                           the amount of seal deflection. Generally the amount
+                                                           is just enough to maintain contact between the pis-
+                                                           ton and inboard brake shoe.
+
+
+
+
+                                                             Fig. 6 Lining Wear Compensation By Piston Seal
+                                                           1 - PISTON
+                                                           2 - CYLINDER BORE
+                                                           3 - PISTON SEAL BRAKE PRESSURE OFF
+           Fig. 5 Brake Caliper Operation                  4 - CALIPER HOUSING
+1 - CALIPER                                                5 - DUST BOOT
+2 - PISTON                                                 6 - PISTON SEAL BRAKE PRESSURE ON
+3 - PISTON BORE
+4 - SEAL
+5 - INBOARD SHOE                                           REMOVAL
+6 - OUTBOARD SHOE
+                                                           REMOVAL - FRONT
+  Fluid pressure applied to the piston is transmitted        (1) Raise and support vehicle.
+directly to the inboard brake shoe. This forces the          (2) Remove front wheel and tire assembly.
+shoe lining against the inner surface of the disc            (3) Drain small amount of fluid from master cylin-
+brake rotor. At the same time, fluid pressure within       der brake reservoir with suction gun.
+the piston bore forces the caliper to slide inward on        (4) Bottom caliper piston in bore with C-clamp.
+the mounting bolts. This action brings the outboard        Position clamp screw on outboard brake shoe and
+brake shoe lining into contact with the outer surface      clamp frame on rear of caliper (Fig. 7). Do not allow
+of the disc brake rotor.                                   clamp screw to bear directly on outboard shoe
+  In summary, fluid pressure acting simultaneously         retainer spring. Use wood or metal spacer
+on both piston and caliper, produces a strong clamp-       between shoe and clamp screw.
+ing action. When sufficient force is applied, friction
+will attempt to stop the rotors from turning and
+bring the vehicle to a stop.
+

@@ -1,0 +1,44 @@
+8F - 2    BATTERY SYSTEM                                                                                       TJ
+BATTERY SYSTEM (Continued)
+  • Battery Tray - The battery tray provides a             and the battery to maintain its charge properly, all of
+secure mounting location in the vehicle for the bat-       the components that are used in these systems must
+tery and an anchor point for the battery holddown          perform within specifications. It is important that
+hardware.                                                  the battery, starting, and charging systems be thor-
+  For battery system maintenance schedules and             oughly tested and inspected any time a battery needs
+jump starting procedures, see the owner’s manual in        to be charged or replaced. The cause of abnormal bat-
+the vehicle glove box. Optionally, refer to the Lubri-     tery discharge, overcharging or early battery failure
+cation and Maintenance section of this manual for          must be diagnosed and corrected before a battery is
+the recommended battery maintenance schedules and          replaced and before a vehicle is returned to service.
+for the proper battery jump starting procedure. While      The service information for these systems has been
+battery charging can be considered a maintenance           separated within this service manual to make it eas-
+procedure, the battery charging procedure and              ier to locate the specific information you are seeking.
+related information are located later in this section of   However, when attempting to diagnose any of these
+this service manual. This was done because the bat-        systems, it is important that you keep their interde-
+tery must be fully-charged before any battery system       pendency in mind.
+diagnosis or testing procedures can be performed.            The diagnostic procedures used for the battery,
+                                                           starting, and charging systems include the most
+OPERATION                                                  basic conventional diagnostic methods, to the more
+   The battery system is designed to provide a safe,       sophisticated On-Board Diagnostics (OBD) built into
+efficient, reliable and mobile means of delivering and     the Powertrain Control Module (PCM). Use of an
+storing electrical energy. This electrical energy is       induction-type milliampere ammeter, a volt/ohmme-
+required to operate the engine starting system, as         ter, a battery charger, a carbon pile rheostat (load
+well as to operate many of the other vehicle acces-        tester) and a 12-volt test lamp may be required. All
+sory systems for limited durations while the engine        OBD-sensed systems are monitored by the PCM.
+and/or the charging system are not operating. The          Each monitored circuit is assigned a Diagnostic Trou-
+battery system is also designed to provide a reserve       ble Code (DTC). The PCM will store a DTC in elec-
+of electrical energy to supplement the charging sys-       tronic memory for any failure it detects. Refer to
+tem for short durations while the engine is running        Charging System for the proper charging system on-
+and the electrical current demands of the vehicle          board diagnostic test procedures.
+exceed the output of the charging system. In addition
+to delivering, and storing electrical energy for the       MICRO 420 BATTERY TESTER
+vehicle, the battery system serves as a capacitor and        The Micro 420 automotive battery tester is
+voltage stabilizer for the vehicle electrical system. It   designed to help the dealership technicians diagnose
+absorbs most abnormal or transient voltages caused         a defective battery. Follow the instruction manual
+by the switching of any of the electrical components       supplied with the tester to properly diagnose a vehi-
+or circuits in the vehicle.                                cle. If the instruction manual is not available refer to
+                                                           the standard procedure in this section, which
+DIAGNOSIS AND TESTING - BATTERY SYSTEM                     includes the directions for using the Micro 420 bat-
+  The battery, starting, and charging systems in the       tery tester.
+vehicle operate with one another and must be tested
+as a complete system. In order for the engine to start
+

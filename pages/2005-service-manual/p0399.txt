@@ -1,0 +1,60 @@
+TJ                                                                                  HEATED GLASS         8G - 5
+REAR WINDOW DEFOGGER SWITCH (Continued)
+
+DIAGNOSIS AND TESTING
+REAR WINDOW DEFOGGER SWITCH
+WARNING: On vehicles equipped with airbags, dis-
+able the airbag system before attempting any steer-
+ing wheel, steering column, or instrument panel
+component diagnosis or service. Disconnect and
+isolate the battery negative (ground) cable, then
+wait two minutes for the airbag system capacitor to
+discharge before performing further diagnosis or
+service. Failure to take the proper precautions
+could result in accidental airbag deployment and
+possible personal injury or death.
+
+
+NOTE: For circuit descriptions and diagrams, refer
+to Rear Window Defogger in Group 8W - Wiring Dia-
+grams.
+
+  (1) Disconnect and isolate the negative battery
+cable. Remove the accessory switch bezel from the          Fig. 7 Rear Window Defogger Switch Continuity
+instrument panel and disconnect the wire harness              SWITCH POSITION           CONTINUITY BETWEEN
+connector from the defogger switch.                                  OFF                      LAMPS
+  (2) Check for continuity between the ground cir-                   ON                  MOMENTARY 1 AND 2
+                                                             ILLUMINATION LAMP                1 AND 4
+cuit cavity of the defogger switch wire harness con-           INDICATOR LAMP                 1 AND 3
+nector and a good ground. There should be
+continuity. If OK, go to Step 3. If not OK, repair the     (2) Remove the center bezel from the instrument
+open circuit as required.                                panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+  (3) Check for continuity between the ground cir-       CLUSTER BEZEL - REMOVAL).
+cuit terminal and the rear window defogger switch          (3) Remove the four screws that secure the acces-
+sense circuit terminal on the back of the defogger       sory switch bezel to the instrument panel (Fig. 8).
+switch housing (Fig. 7). There should be momentary         (4) Pull the accessory switch bezel out from the
+continuity as the defogger switch is pressed, and        instrument panel far enough to access the wire har-
+then no continuity. If OK, test the instrument cluster   ness connectors.
+(Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-                  (5) Disconnect the wire harness connectors from
+TER - DIAGNOSIS AND TESTING). If not OK,                 the rear of the accessory switches and the cigar light-
+replace the faulty rear window defogger switch (Refer    er/power outlet.
+to 8 - ELECTRICAL/HEATED GLASS/REAR WIN-                   (6) Remove the accessory switch bezel from the
+DOW DEFOGGER SWITCH - REMOVAL).                          instrument panel.
+                                                           (7) Using a small thin-bladed screwdriver, gently
+REMOVAL                                                  pry the snap clips at the top and at the bottom of the
+                                                         rear window defogger switch receptacle on the back
+WARNING: On vehicles equipped with airbags, dis-         of the accessory switch bezel and pull the switch out
+able the airbag system before attempting any steer-      of the bezel.
+ing wheel, steering column, or instrument panel
+component diagnosis or service. Disconnect and           INSTALLATION
+isolate the battery negative (ground) cable, then          (1) Install the rear window defogger switch into
+wait two minutes for the airbag system capacitor to      the back of the accessory switch bezel by pushing the
+discharge before performing further diagnosis or         switch firmly into the bezel.
+service. Failure to take the proper precautions            (2) Connect the wire harness connectors to the
+could result in accidental airbag deployment and         rear of the accessory switches and the cigar lighter/
+possible personal injury or death.                       power outlet.
+                                                           (3) Install the accessory switch bezel to the instru-
+  (1) Disconnect and isolate the negative battery
+                                                         ment panel.
+cable.
+

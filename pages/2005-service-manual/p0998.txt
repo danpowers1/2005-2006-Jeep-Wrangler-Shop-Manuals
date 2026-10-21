@@ -1,0 +1,67 @@
+9 - 78    ENGINE 4.0L                                                                                          TJ
+ENGINE 4.0L (Continued)
+
+STANDARD PROCEDURE - HYDROSTATIC                            low the appropriate procedures for cleaning, inspec-
+                                                            tion and torque tightening.
+LOCK
+  When an engine is suspected of hydrostatic lock
+(regardless of what caused the problem), follow the
+                                                            STANDARD PROCEDURE - REPAIR DAMAGED
+steps below.                                                OR WORN THREADS
+  (1) Perform the Fuel Pressure Release Procedure .
+  (2) Disconnect the negative cable from the battery.       CAUTION: Be sure that the tapped holes maintain
+  (3) Inspect air cleaner, induction system and             the original center line.
+intake manifold to ensure system is dry and clear of
+                                                               Damaged or worn threads can be repaired. Essen-
+foreign material.
+                                                            tially, this repair consists of:
+  (4) Place a shop towel around the spark plugs to
+                                                               • Drilling out worn or damaged threads.
+catch any fluid that may possibly be under pressure
+                                                               • Tapping the hole with a special Heli-Coil Tap, or
+in the cylinder head. Remove the plugs from the
+                                                            equivalent.
+engine.
+                                                               • Installing an insert into the tapped hole to bring
+CAUTION: DO NOT use the starter motor to rotate             the hole back to its original thread size.
+the crankshaft. Severe damage could occur.
+                                                            STANDARD PROCEDURE - ENGINE
+   (5) With all spark plugs removed, rotate the crank-      PERFORMANCE
+shaft using a breaker bar and socket.                         It is important that the vehicle is operating to its
+   (6) Identify the fluid in the cylinders (i.e. coolant,   optimum performance level to maintain fuel economy
+fuel, oil, etc.).                                           and the lowest emission levels. If vehicle is not oper-
+   (7) Make sure all fluid has been removed from the        ating to these standards, refer to Engine Diagnosis
+cylinders.                                                  outlined in this section. The following procedures can
+   (8) Repair engine or components as necessary to          assist in achieving the proper engine diagnosis.
+prevent this problem from occurring again.                    (1) Test cranking amperage draw. (Refer to 8 -
+   (9) Squirt engine oil into the cylinders to lubricate    ELECTRICAL/STARTING - DIAGNOSIS AND TEST-
+the walls. This will prevent damage on restart.             ING).
+   (10) Install new spark plugs. Tighten the spark            (2) Check intake manifold bolt torque (Refer to 9 -
+plugs to 37 N·m (27 ft. lbs.) torque.                       ENGINE/MANIFOLDS/INTAKE               MANIFOLD        -
+   (11) Drain engine oil. Remove and discard the oil        INSTALLATION).
+filter.                                                       (3) Perform cylinder compression test. (Refer to 9 -
+   (12) Install the drain plug. Tighten the plug to 34      ENGINE - DIAGNOSIS AND TESTING).
+N·m (25 ft. lbs.) torque.                                     (4) Clean (Refer to 8 - ELECTRICAL/IGNITION
+   (13) Install a new oil filter.                           CONTROL/SPARK PLUG - CLEANING) or replace
+   (14) Fill engine crankcase with the specified            spark plugs (Refer to 8 - ELECTRICAL/IGNITION
+amount and grade of oil.                                    CONTROL/SPARK PLUG - REMOVAL) as necessary.
+   (15) Connect the negative cable to the battery.            (5) Test coil output voltage and primary resistance.
+   (16) Start the engine and check for any leaks.           (Refer to 8 - ELECTRICAL/IGNITION CONTROL -
+                                                            SPECIFICATIONS) Replace parts as necessary.
+STANDARD PROCEDURE - SERVICE ENGINE                           (6) Test fuel pump for pressure. (Refer to 14 -
+ASSEMBLY (SHORT BLOCK)                                      FUEL SYSTEM/FUEL DELIVERY/FUEL PUMP -
+  A service replacement engine assembly (short              DIAGNOSIS AND TESTING).
+block) may be installed whenever the original cylin-          (7) The air filter elements should be replaced as
+der block is defective or damaged beyond repair. It         specified.
+consists of the cylinder block, crankshaft, piston and        (8) Inspect crankcase ventilation system.
+rod assemblies. If needed, the camshaft must be pro-          (9) Road test vehicle as a final test.
+cured separately and installed before the engine is
+installed in the vehicle.                                   REMOVAL
+  A short block is identified with the letter “S”             (1) Disconnect the battery negative cable.
+stamped on the same machined surface where the                (2) Mark the hinge locations on the hood panel for
+build date code is stamped for complete engine              alignment reference during installation. Remove the
+assemblies.                                                 engine compartment lamp. Remove the hood.
+  Installation includes the transfer of components            (3) Drain engine coolant (Refer to 7 - COOLING -
+from the defective or damaged original engine. Fol-         STANDARD PROCEDURE), drain the coolant into a
+                                                            clean container for reuse.
+

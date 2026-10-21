@@ -1,0 +1,52 @@
+8F - 18    BATTERY SYSTEM                                                                                     TJ
+BATTERY CABLES (Continued)
+                                                             (9) Remove the screw that secures the battery neg-
+                                                          ative cable eyelet terminal to the dash panel near the
+                                                          battery.
+                                                             (10) Unlatch and remove the cover from the gener-
+                                                          ator output terminal stud housing on the back of the
+                                                          generator.
+                                                             (11) Remove the nut that secures the generator
+                                                          output cable eyelet terminal to the generator output
+                                                          terminal stud.
+                                                             (12) Remove the generator output cable eyelet ter-
+                                                          minal from the generator output terminal stud.
+                                                             (13) Remove the nut that secures the battery neg-
+                                                          ative cable ground eyelet terminal to the stud on the
+                                                          right side of the engine block.
+                                                             (14) Remove the battery negative cable ground
+  Fig. 17 Test Ground Circuit Resistance - Typical        eyelet terminal from the engine block stud.
+1 - VOLTMETER                                                (15) Remove the nut that secures the battery pos-
+2 - BATTERY                                               itive cable eyelet terminal to the B(+) terminal stud
+3 - ENGINE GROUND
+                                                          on the starter solenoid.
+                                                             (16) Remove the battery positive cable eyelet ter-
+REMOVAL                                                   minal from the B(+) terminal stud on the starter
+  Both the battery negative cable and the battery         solenoid.
+positive cable are serviced in the battery wire har-         (17) Remove the battery wire harness from the
+ness. If either battery cable is damaged or faulty, the   engine compartment.
+battery wire harness unit must be replaced.
+  (1) Turn the ignition switch to the Off position. Be    INSTALLATION
+certain that all electrical accessories are turned off.     Both the battery negative cable and the battery
+  (2) Loosen the battery negative cable terminal          positive cable are serviced in the battery wire har-
+clamp pinch-bolt hex nut.                                 ness. If either battery cable is damaged or faulty, the
+  (3) Disconnect the battery negative cable terminal      battery wire harness unit must be replaced.
+clamp from the battery negative terminal post. If           (1) Clean and inspect the battery cable terminal
+necessary, use a battery terminal puller to remove        clamps and the battery terminal posts (Refer to 8 -
+the terminal clamp from the battery post.                 ELECTRICAL/BATTERY SYSTEM - CLEANING),
+  (4) Loosen the battery positive cable terminal          and (Refer to 8 - ELECTRICAL/BATTERY SYSTEM -
+clamp pinch-bolt hex nut.                                 INSPECTION).
+  (5) Disconnect the battery positive cable terminal        (2) Position the battery wire harness into the
+clamp from the battery positive terminal post. If nec-    engine compartment.
+essary, use a battery terminal puller to remove the         (3) Install the battery positive cable eyelet terminal
+terminal clamp from the battery post.                     onto the B(+) terminal stud on the starter solenoid.
+  (6) Unlatch and remove the B(+) terminal stud             (4) Install and tighten the nut that secures the
+cover from the rear of the Power Distribution Center      battery positive cable eyelet terminal to the B(+) ter-
+(PDC).                                                    minal stud on the starter solenoid. Tighten the nut to
+  (7) Remove the two nuts that secure the battery         10 N·m (90 in. lbs.).
+positive cable and the generator output cable eyelet        (5) Install the battery negative cable ground eyelet
+terminal to the two B(+) terminal studs on the PDC.       terminal onto the stud on the right side of the engine
+  (8) Remove the battery positive cable and the gen-      block.
+erator output eyelet terminal from the two B(+) ter-
+minal studs on the PDC.
+

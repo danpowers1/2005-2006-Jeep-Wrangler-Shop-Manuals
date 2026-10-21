@@ -1,0 +1,63 @@
+8J - 38    INSTRUMENT CLUSTER                                                                                TJ
+SHIFT INDICATOR (TRANSFER CASE) (Continued)
+the ignition switch is turned to the Off position,        of the four-wheel drive indicator Light Emitting
+whichever occurs first.                                   Diode (LED) and the cluster control circuitry by per-
+   • 4WD Transfer Case Status Message - Each              forming the instrument cluster actuator test. (Refer
+time the cluster receives a message from the PCM          to 8 - ELECTRICAL/INSTRUMENT CLUSTER -
+indicating that the transfer case is operating in a       DIAGNOSIS AND TESTING). If the four-wheel drive
+four-wheel drive mode, the 4WD indicator is illumi-       indicator fails to illuminate during the actuator test,
+nated. The 4WD indicator remains illuminated until        replace the faulty instrument cluster. If the problem
+the cluster receives messages from the PCM indicat-       being diagnosed is related to indicator accuracy, be
+ing that the transfer case is not in a four-wheel drive   certain to confirm that the problem is with the indi-
+mode or until the ignition switch is turned to the Off    cator or transfer case switch and not a mechanical
+position, whichever occurs first.                         malfunction of the transfer case or transfer case shift
+   • Actuator Test - Each time the cluster is put         linkage. (Refer to 21 - TRANSMISSION/TRANS-
+through the actuator test, the 4WD indicator will be      AXLE/TRANSFER CASE - DIAGNOSIS AND TEST-
+turned on, then off again during the bulb check por-      ING). If no transfer case problem is found, the
+tion of the test to confirm the functionality of the      following procedure will help to locate a short or open
+LED and the cluster control circuitry.                    in the 4WD switch sense circuit. Refer to the appro-
+   On models without the Off-Road Package, the            priate wiring information. The wiring information
+transfer case shift position switch is connected in       includes wiring diagrams, proper wire and connector
+series between ground and the 4WD switch sense            repair procedures, details of wire harness routing
+input to the instrument cluster. The transfer case        and retention, connector pin-out information and
+switch input to the instrument cluster circuitry can      location views for the various wire harness connec-
+be diagnosed using conventional diagnostic tools and      tors, splices and grounds.
+methods. (Refer to 21 - TRANSMISSION/TRANS-
+AXLE/TRANSFER CASE - DESCRIPTION) for more                WARNING: TO AVOID PERSONAL INJURY OR
+information on the transfer case switch. For further      DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+diagnosis of the 4WD indicator or the instrument          DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+cluster circuitry that controls the LED, (Refer to 8 -    TEM BEFORE ATTEMPTING ANY STEERING
+ELECTRICAL/INSTRUMENT CLUSTER - DIAGNO-                   WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+SIS AND TESTING).                                         MENT PANEL COMPONENT DIAGNOSIS OR SER-
+   On models equipped with the Off-Road Package,          VICE. DISCONNECT AND ISOLATE THE BATTERY
+the PCM continually monitors the transfer case shift      NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+position switch to determine the operating mode of        MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+the transfer case. The PCM then sends the proper          CHARGE BEFORE PERFORMING FURTHER DIAG-
+transfer case shift position status messages to the       NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+instrument cluster. For further diagnosis of the 4WD      TO DISABLE THE SUPPLEMENTAL RESTRAINT
+indicator or the instrument cluster circuitry that con-   SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+trols the LED, (Refer to 8 - ELECTRICAL/INSTRU-           CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+MENT CLUSTER - DIAGNOSIS AND TESTING).                    BAG DEPLOYMENT.
+For proper diagnosis of the transfer case shift posi-
+tion switch, the PCM, the PCI data bus, or the elec-
+                                                          INDICATOR DOES NOT ILLUMINATE WITH 4WD MODE
+tronic message inputs to the instrument cluster that      SELECTED
+control the 4WD indicator, a DRBIIIt scan tool is
+                                                            (1) Disconnect and isolate the battery negative
+required. Refer to the appropriate diagnostic infor-
+                                                          cable. Disconnect the engine wire harness connector
+mation.
+                                                          for the transfer case switch from the transfer case
+                                                          switch connector receptacle. Check for continuity
+DIAGNOSIS AND TESTING - 4WD INDICATOR                     between the ground circuit cavity of the engine wire
+  The diagnosis found here addresses an inoperative       harness connector for the transfer case switch and a
+four-wheel drive indicator condition only on models       good ground. There should be continuity. If OK, go to
+that are not equipped with the optional Off-Road          Step 2. If not OK, repair the open ground circuit to
+Package. If the vehicle is equipped with the Off-Road     ground (G105) as required.
+Package, for proper diagnosis of the transfer case          (2) Reconnect the battery negative cable. Turn the
+switch, the PCM, the PCI data bus, or the electronic      ignition switch to the On position. Install a jumper
+message inputs to the instrument cluster that control     wire between the 4WD switch sense circuit cavity of
+the 4WD indicator, a DRBIIIt scan tool is required.       the engine wire harness connector for the transfer
+Refer to the appropriate diagnostic information.          case switch and a good ground. The 4WD indicator
+Before beginning this test, confirm the functionality
+

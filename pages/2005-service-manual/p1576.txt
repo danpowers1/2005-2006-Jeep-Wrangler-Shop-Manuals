@@ -1,0 +1,57 @@
+24 - 8      HEATING & AIR CONDITIONING                                                                     TJ
+HEATING & AIR CONDITIONING (Continued)
+
+SPECIFICATIONS                                               Item          Description            Notes
+                                                        Refrigerant       Refer to the       R-134a
+HEATING-A/C SYSTEM                                      Charge            A/C Underhood      refrigerant
+                   A/C SYSTEM                           Capacity          Specification
+                                                                          Label located in
+                                                                          the engine
+         Item       Description           Notes
+                                                                          compartment
+A/C                Denso 10PA17      ND-8 PAG Oil
+                                                        A/C Clutch Coil   2.0 - 3.7 amps     @ 12V ± 0.5V
+Compressor
+                                                        Draw                                 @ 21° C (70° F)
+Freeze–up          A/C low           Input to PCM,
+                                                        A/C Clutch Air    0.35 - 0.65 mm
+Control            pressure switch   accumulator
+                                                        Gap               (0.014 - 0.026
+                                     mounted -
+                                                                          in)
+                                     cycles A/C
+                                     clutch off below
+                                     172 kPa (25
+                                     psi) - cycles
+                                     back on above
+                                     276 kPa (40
+                                     psi)
+Low psi Control    A/C low           Input to PCM,
+                   pressure switch   opens below
+                                     172 kPa (25
+                                     psi) - resets
+                                     above 276 kPa
+                                     (40 psi)
+High psi Control   A/C high          Input to PCM,
+                   pressure switch   A/C discarge
+                   (4.0L engine)     line mounted -
+                                     opens at
+                                     discharge
+                                     pressure above
+                                     3100 - 3375
+                                     kPa (450 - 490
+                                     psi) - resets at
+                                     1860 - 2275
+                                     kPa (270 - 330
+                                     psi)
+                   A/C pressure      Input to PCM,
+                   transducer        A/C discarge
+                   (2,4L engine)     line mounted -
+                                     opens at
+                                     discharge
+                                     pressure above
+                                     2971 kPa (431
+                                     psi) and below
+                                     206 kPa (30
+                                     psi)
+

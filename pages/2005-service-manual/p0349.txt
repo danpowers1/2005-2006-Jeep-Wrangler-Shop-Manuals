@@ -1,0 +1,58 @@
+TJ                                                            ELECTRONIC CONTROL MODULES                8E - 15
+TRANSMISSION CONTROL MODULE (Continued)
+   Based on the information received from these var-
+ious inputs, the TCM determines the appropriate
+shift schedule and shift points, depending on the
+present operating conditions and driver demand.
+This is possible through the control of various direct
+and indirect outputs.
+   Some examples of TCM direct outputs are:
+   • Transmission Control Relay
+   • Solenoids (L/R, 2/4, OD and UD)
+   • Vehicle Speed (to PCM)
+   • Torque Reduction Request (to PCM)
+   Some examples of TCM indirect outputs are:
+   • Transmission Temperature (to PCM)
+   • PRNDL Position (to BCM)
+   In addition to monitoring inputs and controlling
+outputs, the TCM has other important responsibili-
+ties and functions:
+   • Storing and maintaining Clutch Volume Indices
+(CVI)
+   • Storing and selecting appropriate Shift Sched-
+ules
+   • System self-diagnostics                                      Fig. 14 Example of CVI Calculation
+   • Diagnostic capabilities (with DRBt III scan tool)
+                                                         1 - OUTPUT SPEED SENSOR
+                                                         2 - OUTPUT SHAFT
+NOTE: If the TCM has been replaced, the “Quick           3 - CLUTCH PACK
+Learn Procedure” must be performed. (Refer to 8 -        4 - SEPARATOR PLATE
+                                                         5 - FRICTION DISCS
+ELECTRICAL/ELECTRONIC CONTROL MODULES/                   6 - INPUT SHAFT
+TRANSMISSION CONTROL MODULE - STANDARD                   7 - INPUT SPEED SENSOR
+PROCEDURE)                                               8 - PISTON AND SEAL
+
+                                                         then the TCM can determine that the gear ratio is
+CLUTCH VOLUME INDEX (CVI)                                2:1. In direct drive (3rd gear), the gear ratio changes
+  An important function of the TCM is to monitor         to 1:1. The gear ratio changes as clutches are applied
+Clutch Volume Index (CVI). CVIs represent the vol-       and released. By monitoring the length of time it
+ume of fluid needed to compress a clutch pack.           takes for the gear ratio to change following a shift
+  The TCM monitors gear ratio changes by monitor-        request, the TCM can determine the volume of fluid
+ing the Input and Output Speed Sensors. The Input,       used to apply or release a friction element.
+or Turbine Speed Sensor sends an electrical signal to       The volume of transmission fluid needed to apply
+the TCM that represents input shaft rpm. The Out-        the friction elements are continuously updated for
+put Speed Sensor provides the TCM with output            adaptive controls. As friction material wears, the vol-
+shaft speed information.                                 ume of fluid need to apply the element increases.
+  By comparing the two inputs, the TCM can deter-           Certain mechanical problems within the input
+mine transmission gear position. This is important to    clutch assembly (broken return springs, out of posi-
+the CVI calculation because the TCM determines           tion snap rings, excessive clutch pack clearance,
+CVIs by monitoring how long it takes for a gear          improper assembly, etc.) can cause inadequate or out-
+change to occur (Fig. 14).                               of-range element volumes. Also, defective Input/Out-
+  Gear ratios can be determined by using the DRBt        put Speed Sensors and wiring can cause these
+III Scan Tool and reading the Input/Output Speed         conditions. The following chart identifies the appro-
+Sensor values in the “Monitors” display. Gear ratio      priate clutch volumes and when they are monitored/
+can be obtained by dividing the Input Speed Sensor       updated:
+value by the Output Speed Sensor value.
+  For example, if the input shaft is rotating at 1000
+rpm and the output shaft is rotating at 500 rpm,
+

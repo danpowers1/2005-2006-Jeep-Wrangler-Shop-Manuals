@@ -1,0 +1,63 @@
+8R - 12    FRONT WIPERS/WASHERS                                                                           TJ
+FRONT WASHER PUMP MOTOR (Continued)
+                                                         headlamp and dash wire harness. The motor is
+                                                         grounded at all times through another take out of
+                                                         the headlamp and dash wire harness with a single
+                                                         eyelet terminal connector that is secured under a
+                                                         ground screw to the radiator closure panel behind
+                                                         the left headlamp in the engine compartment. The
+                                                         motor receives battery current through the closed
+                                                         contacts of the momentary front washer switch cir-
+                                                         cuitry within the right multi-function switch only
+                                                         when the switch control stalk is pulled towards the
+                                                         steering wheel.
+                                                           Washer fluid is gravity-fed from the washer reser-
+                                                         voir to the inlet side of the washer pump. When the
+                                                         pump motor is energized, the motor spins the rotor
+                                                         within the rotor-type washer pump. The spinning
+                                                         pump rotor pressurizes the washer fluid and forces it
+                                                         through the pump outlet nipple, the front washer
+                                                         plumbing, and the front washer nozzle onto the
+                                                         windshield glass. The front washer pump/motor unit
+            Fig. 10 Washer Pump/Motor                    can be diagnosed using conventional diagnostic tools
+1 - MOTOR                                                and methods.
+2 - CONNECTOR RECEPTACLE
+3 - OUTLET NIPPLE
+4 - INLET NIPPLE
+                                                         REMOVAL
+5 - PUMP                                                   (1) Disconnect and isolate the battery negative
+                                                         cable.
+rotor-type washer pump. A seal flange with a barbed        (2) Disconnect the washer supply hose from the
+inlet nipple on the pump housing passes through a        barbed outlet nipple of the front washer pump/motor
+rubber grommet seal installed in a dedicated mount-      and allow the washer fluid from the washer reservoir
+ing hole in the sump area near the bottom of the         to drain into a clean container for reuse (Fig. 11).
+washer reservoir. On vehicles with the optional rear
+washer system, the front washer pump/motor unit is
+always mounted in the forward-most, lowest pump
+mounting hole of the reservoir. An integral filter
+screen is located within the pump inlet nipple. When
+the pump is installed in the reservoir a barbed outlet
+nipple on the pump housing connects the unit to the
+washer system through the front washer supply hose.
+   The washer pump/motor unit is retained on the
+reservoir by the interference fit between the barbed
+pump inlet nipple and the grommet seal, which is a
+light press fit. An integral connector receptacle
+between the motor housing and the pump housing
+connects the unit to the vehicle electrical system. A
+small capacitor internal to the connector receptacle
+insulator is connected in parallel with the motor
+leads to control ElectroMagnetic Interference (EMI)          Fig. 11 Washer Pump/Motor Remove/Install
+created by washer motor operation. The front washer
+                                                         1 - REAR BODY WIRE HARNESS
+pump/motor unit cannot be repaired. If faulty or         2 - WASHER RESERVOIR
+damaged, the entire washer pump/motor unit must          3 - REAR WASHER PUMP/MOTOR
+be replaced.                                             4 - HEADLAMP & DASH WIRE HARNESS
+                                                         5 - FRONT WASHER SUPPLY HOSE
+                                                         6 - FRONT WASHER PUMP/MOTOR
+OPERATION                                                7 - REAR WASHER SUPPLY HOSE
+  The front washer pump/motor unit features a small
+Direct Current (DC) electric motor. The motor is con-      (3) Disconnect the headlamp and dash wire har-
+nected to the vehicle electrical system through a sin-   ness connector from the connector receptacle for the
+gle take out and two-cavity connector of the             front washer pump/motor.
+

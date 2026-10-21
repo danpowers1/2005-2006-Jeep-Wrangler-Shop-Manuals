@@ -1,0 +1,60 @@
+TJ                                                                                    AUDIO/VIDEO      8A - 9
+SPEAKER (Continued)
+NOTE: If poor sound quality is noted in the audio         FRONT
+system, check the Cabin Equalization curve pro-             (1) Disconnect and isolate the battery negative
+grammed in the instrument cluster. Make sure a            cable.
+base speaker system has the Base Cabin Equaliza-            (2) Remove the two screws that secure the out-
+tion Curve programmed to the vehicle. If the vehicle      board end of the speaker bezel to the instrument
+has a premium speaker system, make sure the Pre-          panel (Fig. 4).
+mium Cabin Equalization Curve is programmed to
+the vehicle
+
+  (1) If all speakers are inoperative, check the fuses
+in the Power Distribution Center (PDC). If OK, go to
+Step 2. If not OK, repair the shorted circuit or com-
+ponent as required and replace the faulty fuse.
+  (2) Turn the ignition switch to the ON position.
+Turn the radio receiver ON. Adjust the balance and
+fader control controls to check the performance of
+each individual speaker. Note the speaker locations
+that are not performing correctly. Go to Step 3.
+  (3) Turn the radio receiver OFF. Turn the ignition
+OFF. Disconnect and isolate the battery negative
+cable. Remove the radio receiver. Go to Step 4.
+  (4) Check both the speaker feed (+) circuit and
+return (-) circuit cavities for the inoperative speaker
+at the radio receiver wire harness connector for con-       Fig. 4 Instrument Panel Speaker Bezel Remove/
+tinuity to ground. There should be no continuity. If                            Install
+OK, go to Step 5. If not OK, repair the shorted           1 - PRY HERE
+                                                          2 - SPEAKER BEZEL
+speaker feed (+) and/or return (-) circuits(s) to the     3 - PRY HERE
+speaker as required.                                      4 - MOUNTING SCREWS
+  (5) Disconnect wire harness connector at the inop-
+erative speaker. Check for continuity between the           (3) Using a trim stick, gently pry at the top and
+speaker feed (+) circuit cavities of the radio receiver   bottom edges of the speaker bezel to release the two
+wire harness connector and the speaker wire harness       snap clip retainers that secure the bezel to the
+connector. Repeat the check between the speaker           instrument panel.
+return (-) circuit cavities of the radio receiver wire      (4) Remove the speaker bezel from the instrument
+harness connector and the speaker wire harness con-       panel.
+nector. In each case, there should be continuity. If        (5) Remove the four screws that secure the
+OK, replace the faulty speaker. If not OK, repair the     speaker to the instrument panel (Fig. 5).
+open speaker feed (+) and/or return (-) circuits(s) as      (6) Pull the speaker away from the instrument
+required.                                                 panel far enough to access the speaker wire harness
+                                                          connector.
+REMOVAL                                                     (7) Unplug the wire harness connector from the
+                                                          speaker.
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                    REAR
+ATTEMPTING ANY STEERING WHEEL, STEERING                     (1) Disconnect and isolate the battery negative
+COLUMN, OR INSTRUMENT PANEL COMPONENT                     cable.
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                   (2) Remove mounting screws and speaker grill.
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                   (3) Remove speaker from housing and disconnect
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                 wire harness connector.
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+INJURY.
+

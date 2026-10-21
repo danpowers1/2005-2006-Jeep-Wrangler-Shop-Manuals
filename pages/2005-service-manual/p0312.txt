@@ -1,0 +1,53 @@
+7 - 38    ENGINE                                                                                        TJ
+WATER PUMP - 4.0L (Continued)
+  This aluminum water pump (Fig. 28) is the heart
+of the cooling system. The water pump is located at
+the front of the cylinder block, above the timing
+chain cover
+  The water pump impeller is pressed onto the rear
+of a shaft that rotates in bearings pressed into the
+housing. The housing has two small holes to allow
+seepage to escape. The water pump seals are lubri-
+cated by the antifreeze in the coolant mixture. No
+additional lubrication is necessary.
+
+
+
+
+                                                                 Fig. 29 Water Pump - 4.0L Engine
+                                                        1 - HEATER HOSE FITTING BORE
+                                                        2 - WATER PUMP
+                                                        3 - WATER PUMP HUB
+
+                                                          The water pump impeller is pressed on the rear of
+                                                        the pump shaft and bearing assembly. The water
+                                                        pump is serviced only as a complete assembly.
+
+                                                        WARNING: DO NOT REMOVE THE BLOCK DRAIN
+                                                        PLUG(S) OR LOOSEN RADIATOR DRAINCOCK
+           Fig. 28 Water Pump - Typical                 WITH THE SYSTEM HOT AND UNDER PRESSURE.
+1 - HEATER HOSE FITTING BORE                            SERIOUS BURNS FROM COOLANT CAN OCCUR.
+2 - WATER PUMP
+3 - WATER PUMP HUB                                        DO NOT WASTE reusable coolant. If the solution
+                                                        is clean, drain coolant into a clean container for
+OPERATION                                               reuse.
+  A centrifugal water pump circulates coolant             (1) Disconnect negative battery cable at battery.
+through the water jackets, passages, intake manifold,     (2) Drain the cooling system (Refer to 7 - COOL-
+radiator core, cooling system hoses and heater core.    ING - STANDARD PROCEDURE).
+The pump is driven from the engine crankshaft by a
+single serpentine drive belt on all engines.            NOTE: The engine accessory drive belt must be
+                                                        removed prior to removing the fan.
+REMOVAL
+  The water pump can be removed without discharg-         (3) Remove accessory drive belt (Refer to 7 -
+ing the air conditioning system (if equipped).          COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+                                                        REMOVAL).
+CAUTION: All engines have a reverse (counterclock-        (4) The thermal viscous fan drive/fan blade assem-
+wise) rotating water pump. The letter R is stamped      bly is attached (threaded) to water pump hub shaft.
+into the back of the water pump impeller (Fig. 29) to   Remove fan blade/viscous fan drive assembly from
+identify. Engines from previous model years,            water pump by turning mounting nut counterclock-
+depending upon application, may be equipped with        wise as viewed from front. Threads on viscous fan
+a forward (clockwise) rotating water pump. Installa-    drive are RIGHT HAND. Using a suitable fan
+tion of the wrong water pump will cause engine          wrench loosen the fan drive (Fig. 30).
+over heating.                                             (5) Remove power steering pump (Refer to 19 -
+                                                        STEERING/PUMP - REMOVAL).
+

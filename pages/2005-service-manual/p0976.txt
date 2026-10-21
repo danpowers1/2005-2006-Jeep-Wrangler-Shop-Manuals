@@ -1,0 +1,54 @@
+9 - 56    ENGINE 2.4L                                                                                        TJ
+INTAKE MANIFOLD (Continued)
+CAUTION: Cover intake manifold openings to pre-               (10) Connect the fuel line. (Refer to 14 - FUEL
+vent foreign material from entering engine.                 SYSTEM/FUEL DELIVERY/QUICK CONNECT FIT-
+                                                            TING - STANDARD PROCEDURE)
+ (16) Inspect the manifold. (Refer to 9 - ENGINE/             (11) Connect coolant temperature sensor/fuel injec-
+MANIFOLDS/INTAKE MANIFOLD - INSPECTION)                     tor wiring harness electrical connector.
+                                                              (12) Install the air cleaner housing and air intake
+INSPECTION                                                  tube to throttle body.
+  (1) Check manifold surfaces for flatness with               (13) Connect inlet air temperature sensor connec-
+straight edge. Surface must be flat within 0.15 mm          tor.
+per 300 mm (0.006 in. per foot) of manifold length.           (14) Connect negative cable to battery.
+  (2) Inspect manifold for cracks or distortion.
+Replace manifold if necessary.
+                                                            EXHAUST MANIFOLD
+INSTALLATION
+  (1) Clean manifold sealing surfaces.                      DESCRIPTION
+  (2) Install new manifold to cylinder head seals.            The exhaust manifold is made of Hi-Silicone Moly
+  (3) Install manifold to head.                             nodular cast iron for strength and high tempera-
+  (4) Install and tighten intake manifold fasteners to      tures. The manifold attaches to the cylinder head.
+28 N·m (250 in. lbs.) in the sequence shown (Fig. 92).
+Repeat procedure until all bolts are at specified torque.   OPERATION
+                                                              The exhaust manifold collects the exhaust gasses
+                                                            exiting the combustion chambers. Then it channels
+                                                            the exhaust gasses to the exhaust pipe attached to
+                                                            the manifold.
+
+                                                            REMOVAL
+                                                              (1) Raise vehicle and disconnect exhaust pipe from
+                                                            the exhaust manifold.
+                                                              (2) Lower the vehicle.
+                                                              (3) Disconnect upstream oxygen sensor connector
+                                                            at the rear of exhaust manifold.
+                                                              (4) Remove the air cleaner bracket (Fig. 93).
+
+
+
+
+  Fig. 92 LOWER INTAKE MANIFOLD TIGHTENING
+                  SEQUENCE
+  (5) Install throttle cables in bracket.
+  (6) Connect throttle, speed control, (if equipped),
+cables to throttle lever.
+  (7) Connect vacuum lines for power brake booster,
+LDP, EGR transducer, and speed control vacuum res-
+ervoir (if equipped) at upper intake manifold fittings.
+  (8) Connect vacuum lines for purge solenoid and
+PCV valve.
+  (9) Connect electrical connectors for MAP sensor,
+throttle position sensor (TPS), and idle air control
+(IAC) motor.                                                          Fig. 93 AIR CLEANER BRACKET
+                                                            1 - AIR CLEANER BRACKET
+                                                            2 - BOLT (2)
+

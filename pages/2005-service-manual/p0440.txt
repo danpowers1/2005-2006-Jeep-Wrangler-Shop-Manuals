@@ -1,0 +1,60 @@
+8J - 14    INSTRUMENT CLUSTER                                                                                 TJ
+INSTRUMENT CLUSTER (Continued)
+circuit between the driver or passenger door ajar          WARNING: ON VEHICLES EQUIPPED WITH AIR-
+switch and the fuse block as required.                     BAGS, DISABLE THE SUPPLEMENTAL RESTRAINT
+   (4) Remove the instrument cluster from the instru-      SYSTEM BEFORE ATTEMPTING ANY STEERING
+ment panel. Disconnect the instrument panel wire           WHEEL, STEERING COLUMN, DRIVER AIRBAG,
+harness connector (Connector C2) for the instrument        PASSENGER AIRBAG, OR INSTRUMENT PANEL
+cluster from the cluster connector receptacle. Check       COMPONENT DIAGNOSIS OR SERVICE. DISCON-
+for continuity between the driver and/or passenger         NECT AND ISOLATE THE BATTERY NEGATIVE
+door ajar switch sense circuit cavities of the instru-     (GROUND) CABLE, THEN WAIT TWO MINUTES FOR
+ment panel wire harness connector (Connector C2)           THE SYSTEM CAPACITOR TO DISCHARGE BEFORE
+for the instrument cluster and a good ground. There        PERFORMING FURTHER DIAGNOSIS OR SERVICE.
+should be no continuity. If OK, go to Step 5. If not       THIS IS THE ONLY SURE WAY TO DISABLE THE
+OK, repair the shorted driver and/or passenger door        SUPPLEMENTAL RESTRAINT SYSTEM. FAILURE TO
+ajar switch sense circuits between the instrument          TAKE THE PROPER PRECAUTIONS COULD
+cluster and the driver and/or passenger door ajar          RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+switches as required.                                      AND POSSIBLE PERSONAL INJURY.
+   (5) Check for continuity between the driver and/or
+passenger door ajar switch sense circuit cavities of          (1) Disconnect and isolate the battery negative
+the instrument panel wire harness connector (Con-          cable. Remove the rear and front axle locker relays
+nector C2) for the instrument cluster and the body         from their receptacles in the Power Distribution Cen-
+wire harness connector for the driver and/or passen-       ter (PDC). Remove the axle lock switch from the
+ger door ajar switches. There should be continuity. If     instrument panel. Disconnect the instrument panel
+OK, use a DRBIIIt scan tool to complete the diagno-        wire harness connector for the axle lock switch from
+sis of the instrument cluster interior lighting control.   the switch connector receptacle. Remove the instru-
+Refer to the appropriate diagnostic information. If        ment cluster from the instrument panel.
+not OK, repair the open driver and/or passenger door          (2) Check for continuity between each of the rear
+ajar switch sense circuits between the instrument          and front axle lock request circuit cavities of the
+cluster and the driver and/or passenger door ajar          appropriate instrument panel wire harness connec-
+switches as required.                                      tors (Connector C1 for rear, Connector C2 for front)
+                                                           for the instrument cluster and a good ground. There
+AXLE LOCKER CONTROL DIAGNOSIS                              should be no continuity. If OK, go to Step 3. If not
+   If the problem being diagnosed involves a rear or       OK, repair the shorted rear or front axle lock request
+front lock indicator in the instrument cluster that is     circuit between the instrument cluster, the axle lock
+blinking on and off, be certain to complete inspection     switch, and the rear or front axle locker relay as
+of the appropriate front or rear axle locker relays,       required.
+locker pumps, pneumatic lines, locker indicator               (3) Check for continuity between each of the rear
+switches, and axle locker mechanisms before per-           and/or front axle lock request circuit cavities of the
+forming the following tests. If the problem being          instrument panel wire harness connectors (Connector
+diagnosed involves a rear or front lock indicator in       C1 for rear, Connector C2 for front) for the instru-
+the instrument cluster that stays on when it should        ment cluster, the instrument panel wire harness con-
+be off, or stays off when it should be on, complete the    nector for the axle lock switch, and the rear or front
+testing of the axle locker switch before performing        axle locker relay receptacle in the PDC. In each case,
+the following tests.                                       there should be continuity. If OK, go to Step 4. If not
+   These tests will establish the integrity of the hard    OK, repair the open rear and/or front axle lock
+wired circuits related to the axle locker control func-    request circuit between the instrument cluster, the
+tion of the instrument cluster. However, proper test-      axle lock switch, and the PDC as required.
+ing of the instrument cluster programming and the             (4) Check for continuity between the axle lock
+electronic vehicle speed and transfer case shift posi-     switch enable 1 and/or enable 2 circuit cavity of the
+tion messages received by the cluster over the PCI         instrument panel wire harness connector (Connector
+data bus requires the use of a DRBIIIt scan tool.          C1 for enable 1, Connector C2 for enable 2) for the
+Refer to the appropriate diagnostic information.           instrument cluster and a good ground. There should
+Refer to the appropriate wiring information. The wir-      be no continuity. If OK, go to Step 5. If not OK,
+ing information includes wiring diagrams, proper           repair the shorted axle lock switch enable 1 or enable
+wire and connector repair procedures, details of wire      2 circuit between the instrument cluster and the axle
+harness routing and retention, connector pin-out           lock switch as required.
+information and location views for the various wire           (5) Check for continuity between the axle lock
+harness connectors, splices and grounds.                   switch enable 1 and/or enable 2 circuit cavities of the
+                                                           instrument panel wire harness connector (Connector
+

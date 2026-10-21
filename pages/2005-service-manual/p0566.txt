@@ -1,0 +1,59 @@
+8R - 4    FRONT WIPERS/WASHERS                                                                                TJ
+FRONT WIPERS/WASHERS (Continued)
+vehicle under numerous types of inclement operating        OPERATING MODES
+conditions.                                                  Following are paragraphs that briefly describe the
+  The vehicle operator initiates all front wiper and       operation of each of the front wiper and washer sys-
+washer system functions with the control stalk and         tem operating modes.
+control knob of the right multi-function switch that
+extends from the right side of the steering column,        CONTINUOUS WIPE MODE
+just below the steering wheel. Moving the control             When the Low position of the right multi-function
+stalk upward selects the front wiper system operat-        switch control stalk is selected, the Low mode cir-
+ing mode. The front wiper system allows the vehicle        cuitry within the switch directs battery current to
+operator to select from two continuous wiper speeds,       the low speed brush of the front wiper motor, which
+High or Low, or the intermittent wipe Delay mode.          causes the front wipers to cycle at a low speed. When
+Pulling the control stalk downwards and releasing it       the High position of the control stalk is selected, the
+selects the front wiper system Mist mode, which            High mode circuitry within the switch directs battery
+operates the front wipers for one complete wipe cycle      current to the high speed brush of the front wiper
+after the control stalk is released. Rotating the con-     motor, which causes the front wipers to cycle at a
+trol knob on the end of the control stalk allows the       high speed.
+vehicle operator to select the intermittent wipe Delay        When the Off position of the right multi-function
+interval. Pulling the control stalk towards the steer-     switch control stalk is selected, one of two events is
+ing wheel activates the front washer pump/motor,           possible. The event that occurs depends upon the
+which dispenses washer fluid onto the windshield           position of the wiper blades on the windshield at the
+glass through the front washer nozzle.                     moment that the control stalk Off position is
+  When the ignition switch is in the Accessory or On       selected. If the wiper blades are in the down position
+positions, battery current from a fuse in the Power        on the windshield when the Off position is selected,
+Distribution Center (PDC) is provided to the front         the park switch that is integral to the front wiper
+wiper and washer system fuse in the fuse block. This       motor is closed to ground and the wiper motor ceases
+fuse provides battery current through separate fused       to operate.
+ignition switch output (run-acc) circuits to the right        If the wiper blades are not in the down position on
+multi-function switch, and to the front wiper motor.       the windshield at the moment the Off position is
+Within the right multi-function switch, this battery       selected, the park switch is closed to battery current
+current is fed to one side of the control coil in the      through the fused ignition switch output (run-acc)
+wiper motor relay, and to the electronic intermittent      circuit of the front wiper motor. The park switch
+wipe logic circuit, which are both integral to the         sense circuit directs this battery current to the low
+switch.                                                    speed brush of the wiper motor through the normally
+  The intermittent wipe and wipe-after-wash fea-           closed circuit of the wiper motor relay and the Off
+tures of the front wiper and washer system are both        mode circuitry of the wiper switch. This causes the
+provided by the electronic intermittent wipe logic cir-    wiper motor to continue running until the wiper
+cuit within the right multi-function switch. In order      blades are in the down position on the windshield
+to provide the intermittent wipe feature, the logic cir-   and the park switch is again closed to ground.
+cuit monitors the wiper switch state, the intermittent
+delay resistance setting, and the wiper motor park         INTERMITTENT WIPE MODE
+switch state. In order to provide the wipe-after-wash        When the control stalk of the right multi-function
+feature, the logic circuit monitors both the front         switch is moved to the Delay position, the Delay
+washer switch state and the wiper motor park switch        mode circuitry within the switch directs battery cur-
+state.                                                     rent to a request input of the integral logic circuit.
+  The hard wired circuits and components of the            The Delay mode circuitry also directs battery current
+front wiper and washer system may be diagnosed             through an internal variable resistor to the intermit-
+and tested using conventional diagnostic tools and         tent wipe delay sense input of the logic circuit, which
+procedures. However, conventional diagnostic meth-         indicates the delay interval that has been selected by
+ods are not possible in the diagnosis of the intermit-     the vehicle operator using the control knob on the
+tent wipe mode circuitry and logic within the right        end of the right multi-function switch control stalk.
+multi-function switch. If the front wiper and washer         The logic circuit responds to the Delay mode
+system operates satisfactorily in all modes except the     request inputs by calculating the correct delay inter-
+Delay mode, the faulty right multi-function switch         val. The logic circuit then energizes the wiper motor
+must be replaced. Refer to the appropriate diagnostic      relay by pulling the relay control coil to ground. The
+information.                                               energized wiper motor relay directs battery current
+                                                           from the normally open relay terminal through the
+

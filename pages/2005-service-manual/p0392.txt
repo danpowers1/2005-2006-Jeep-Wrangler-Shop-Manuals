@@ -1,0 +1,62 @@
+8F - 40    STARTING                                                                                         TJ
+STARTER MOTOR (Continued)
+
+INSTALLATION                                            is turned to the Start position. The starter relay is
+                                                        located in the Power Distribution Center (PDC), in
+2.4L                                                    the engine compartment. See the fuse and relay lay-
+  (1) Connect solenoid terminal wire harness connec-    out label affixed to the inside surface of the PDC
+tor to starter solenoid. Always support starter motor   cover for starter relay identification and location.
+during this process. Do not let starter motor hang        The starter relay is a International Standards
+from wire harness.                                      Organization (ISO) micro-relay. Relays conforming to
+  (2) Install battery cable eyelet onto starter sole-   the ISO specifications have common physical dimen-
+noid stud. Refer to Torque Specifications.              sions, current capacities, terminal patterns, and ter-
+  (3) Position starter motor to transmission. Install   minal functions. The ISO micro-relay terminal
+and tighten 2 bolts. Refer to Torque Specifications.    functions are the same as a conventional ISO relay.
+  (4) Lower vehicle.                                    However, the ISO micro-relay terminal pattern (or
+  (5) Connect negative battery cable.                   footprint) is different, the current capacity is lower,
+                                                        and the physical dimensions are smaller than those
+4.0L                                                    of the conventional ISO relay.
+  (1) Connect solenoid terminal wire harness connec-      The starter relay cannot be repaired or adjusted
+tor to starter solenoid. Always support starter motor   and, if faulty or damaged, it must be replaced.
+during this process. Do not let starter motor hang
+from wire harness.                                      OPERATION
+  (2) Install battery cable eyelet onto starter sole-      The ISO relay consists of an electromagnetic coil, a
+noid stud. Refer to Torque Specifications.              resistor or diode, and three (two fixed and one movable)
+  (3) Position starter motor to transmission housing.   electrical contacts. The movable (common feed) relay
+Loosely install two mounting bolts.                     contact is held against one of the fixed contacts (nor-
+  (4) Tighten upper (rearward facing) mounting bolt     mally closed) by spring pressure. When the electromag-
+to 47.5 N·m (35 ft. lbs.).                              netic coil is energized, it draws the movable contact
+  (5) Tighten lower (forward facing) mounting bolt to   away from the normally closed fixed contact, and holds
+40.7 N·m (30 ft. lbs.).                                 it against the other (normally open) fixed contact.
+  (6) Lower vehicle.                                       When the electromagnetic coil is de-energized,
+  (7) Connect negative battery cable.                   spring pressure returns the movable contact to the
+                                                        normally closed position. The resistor or diode is con-
+                                                        nected in parallel with the electromagnetic coil in the
+STARTER MOTOR RELAY                                     relay, and helps to dissipate voltage spikes that are
+                                                        produced when the coil is de-energized.
+DESCRIPTION
+                                                        DIAGNOSIS AND TESTING - STARTER RELAY
+                                                          The starter relay (Fig. 14) is located in the Power
+                                                        Distribution Center (PDC), in engine compartment.
+                                                        Refer to fuse and relay layout label affixed to under-
+                                                        side of PDC cover starter relay identification and
+                                                        location.
+
+                                                        RELAY TEST
+                                                          (1) Remove starter relay from PDC. Refer to
+                                                        Starter Relay.
+                                                          (2) A relay in de-energized position should have
+                                                        continuity between terminals 87A and 30, and no
+                                                        continuity between terminals 87 and 30. If OK, go to
+                Fig. 13 Starter Relay                   Step 3. If not OK, replace faulty relay.
+                                                          (3) Resistance between terminals 85 and 86 (elec-
+30 - COMMON FEED
+85 - COIL GROUND                                        tromagnet) should be 75 ± 5 ohms. If OK, go to Step
+86 - COIL BATTERY                                       4. If not OK, replace faulty relay.
+87 - NORMALLY OPEN                                        (4) Connect a battery to terminals 85 and 86.
+87A - NORMALLY CLOSED
+                                                        There should now be continuity between terminals
+  The starter relay (Fig. 13) is an electromechanical   30 and 87, and no continuity between terminals 87A
+device that switches battery current to the pull-in     and 30. If OK, perform Relay Circuit Test that fol-
+coil of the starter solenoid when the ignition switch   lows. If not OK, replace faulty relay.
+

@@ -1,0 +1,53 @@
+3 - 128    REAR AXLE - 216RBI                                                                                  TJ
+REAR AXLE - 216RBI (Continued)
+                                                           (30) Install differential bearing caps loosely.
+                                                           (31) Remove spreader from the housing.
+                                                           (32) Tighten bearing caps bolts to 108 N·m (80 ft.
+                                                         lbs.).
+                                                           (33) Rotate the differential case several times to
+                                                         seat the side bearings.
+                                                           (34) Position the indicator plunger against a ring
+                                                         gear tooth (Fig. 20).
+                                                           (35) Push and hold ring gear upward while not
+                                                         allowing the pinion gear to rotate and zero dial indi-
+                                                         cator.
+                                                           (36) Push and hold ring gear downward while not
+                                                         allowing the pinion gear to rotate. Dial indicator
+                                                         reading should be between 0.12 mm - 0.20 mm (0.005
+                                                         in. - 0.008 in.). If backlash is not within specifications
+                                                         transfer the necessary amount of shim thickness
+           Fig. 18 ZERO DIAL INDICATOR                   from one side of the housing to the other (Fig. 21).
+1 - DIAL INDICATOR FACE                                    (37) Verify differential case and ring gear runout
+2 - DIFFERENTIAL CASE TO PINION GEAR SIDE                by measuring ring to pinion gear backlash at eight
+3 - PINION GEAR
+4 - DIFFERENTIAL HOUSING                                 locations around the ring gear. Readings should not
+5 - DIFFERENTIAL CASE                                    vary more than 0.05 mm (0.002 in.). If readings vary
+                                                         more than specified, the ring gear or the differential
+                                                         case is defective.
+                                                           After the proper backlash is achieved, perform
+                                                         Gear Contact Pattern Analysis procedure.
+
+
+
+
+    Fig. 19 RECORD DIAL INDICATOR READING
+1 - DIAL INDICATOR
+2 - DIFFERENTIAL CASE TO RING GEAR SIDE
+3 - PINION GEAR
+4 - DIFFERENTIAL HOUSING                                   Fig. 20 RING GEAR BACKLASH MEASUREMENT
+5 - DIFFERENTIAL CASE
+                                                         1 - DIAL INDICATOR
+  (24) Rotate dial indicator out of the way on pilot
+stud.                                                    GEAR CONTACT PATTERN
+  (25) Remove differential case and dummy bearings          The ring gear and pinion teeth contact patterns
+from the housing.                                        will show if the pinion depth is correct in the hous-
+  (26) Install side bearing shims on differential case   ing. It will also show if the ring gear backlash has
+hubs.                                                    been adjusted correctly. The backlash can be adjusted
+  (27) Install new side bearing cones and cups on        within specifications to achieve desired tooth contact
+differential case.                                       patterns.
+  (28) Install spreader W-129-B on the housing and          The TOP LAND of the gear tooth is the top surface
+spread axle opening enough to receive differential       of the tooth. The PROFILE of the gear tooth is the
+case.                                                    depth of the tooth. The TOE of the gear is the por-
+  (29) Install differential case in the housing.         tion of the tooth surface at the end towards the cen-
+                                                         ter. The HEEL of the gear is the portion of the tooth
+

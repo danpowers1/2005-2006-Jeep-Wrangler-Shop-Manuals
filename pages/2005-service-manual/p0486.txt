@@ -1,0 +1,58 @@
+8L - 16     LAMPS/LIGHTING - EXTERIOR                                                                           TJ
+FOG LAMP UNIT - REAR (Continued)
+
+DIAGNOSIS AND TESTING - REAR FOG LAMP                      FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+                                                           IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                    SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                     CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+ATTEMPTING ANY STEERING WHEEL, STEERING                    BAG DEPLOYMENT AND POSSIBLE PERSONAL
+COLUMN, OR INSTRUMENT PANEL COMPONENT                      INJURY.
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                    Always begin any diagnosis by testing all of the
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                  fuses and circuit breakers in the system. Refer to the
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                  appropriate wiring information.
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+
+                               REAR FOG LAMP CONDITION CHART
+
+          CONDITION                POSSIBLE CAUSES                                  CORRECTION
+
+REAR FOG LAMP IS ON        1. Shorted multifunction switch.          1. Test and replace multifunction switch
+WITH IGNITION KEY ON       2. Shorted steering column clock          2. Test and replace clock spring.
+                           spring.
+                           3. Shorted fog lamp switch output         3. Repair short to voltage in fog lamp
+                           circuit                                   switch output circuit.
+
+REAR FOG LAMP BULB         1. Charging system output too high.       1. Test and repair charging system.
+BURNS OUT
+FREQUENTLY                 2. Loose or corroded terminals or         2. Inspect and repair all connectors and
+                           splices in circuit.                       splices.
+
+REAR FOG LAMP IS DIM       1. Charging system output too low.        1. Test and repair charging system.
+WITH ENGINE RUNNING        2. Poor lighting circuit ground.          2. Test for voltage drop across ground
+                                                                     locations.
+                           3. High resistance in fog lamp circuit.   3. Test amperage draw of fog lamp circuit.
+
+REAR FOG LAMP              1. Poor lighting circuit ground.          1. Test for voltage drop across ground
+FLASHES RANDOMLY                                                     locations.
+                           2. High resistance in fog lamp circuit.   2. Test amperage draw of fog lamp circuit.
+                           3. Faulty multifunction switch.           3. Replace multifunction switch.
+                           4. Loose or corroded terminals or         4. Inspect and repair all connectors and
+                           splices in circuit.                       splices.
+
+REAR FOG LAMP WILL         1. Open fuse for fog lamp.                1. Test fog lamp circuitry for short to ground
+NOT ILLUMINATE                                                       and replace fuse.
+                           2. Open battery positive voltage          2. Test and repair open battery positive
+                           circuit to multifunction switch.          voltage circuit.
+                           3. No ground at fog lamps.                3. Repair circuit ground.
+                           4. Faulty multifunction switch.           4. Replace multifunction switch.
+                           5. Broken connector terminal or wire      5. Repair connector terminal or wire splice.
+                           splice in fog lamp circuit.
+                           6. Faulty or burned out bulb.             6. Replace bulb.
+
+
+REMOVAL                                                      (3) Disconnect the wire harness connector from the
+  (1) Disconnect and isolate the negative battery          rear fog lamp connector (Fig. 13).
+cable.                                                       (4) Remove the rear fog lamp unit from the vehi-
+  (2) Remove the screws that secure the rear fog           cle.
+lamp unit to the rear bumper assembly.
+

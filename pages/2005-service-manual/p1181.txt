@@ -1,0 +1,57 @@
+TJ                                                                         AUTOMATIC TRANSMISSION - 42RLE                               21 - 37
+
+
+                          AUTOMATIC TRANSMISSION - 42RLE
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                          page
+
+AUTOMATIC TRANSMISSION - 42RLE                                          FLUID AND FILTER
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 38         DIAGNOSIS AND TESTING
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 40         DIAGNOSIS AND TESTING - CAUSES OF
+ DIAGNOSIS AND TESTING                                                       BURNT FLUID . . . . . . . . . . . . . . . . . . . . . . . 110
+   DIAGNOSIS AND TESTING - AUTOMATIC                                        EFFECTS OF INCORRECT FLUID LEVEL . . 110
+     TRANSMISSION . . . . . . . . . . . . . . . . . . . . . . 46            FLUID CONTAMINATION . . . . . . . . . . . . . . . 110
+   DIAGNOSIS AND TESTING - ROAD TEST . . . 46                             STANDARD PROCEDURE
+   DIAGNOSIS AND TESTING - HYDRAULIC                                        STANDARD PROCEDURE - FLUID LEVEL
+     PRESSURE TESTS . . . . . . . . . . . . . . . . . . . . 47               CHECK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+   DIAGNOSIS AND TESTING - CLUTCH AIR                                       STANDARD PROCEDURE - FLUID/FILTER
+     PRESSURE TESTS . . . . . . . . . . . . . . . . . . . . 50               SERVICE . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
+   DIAGNOSIS AND TESTING - FLUID                                            STANDARD PROCEDURE - TRANSMISSION
+     LEAKAGE . . . . . . . . . . . . . . . . . . . . . . . . . . . 50        FILL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+ STANDARD PROCEDURE - ALUMINUM                                          GEARSHIFT CABLE
+   THREAD REPAIR . . . . . . . . . . . . . . . . . . . . . . 51           REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 113
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 113
+ DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . 53       HOLDING CLUTCHES
+ ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69      DESCRIPTION           . . . . . . . . . . . . . . . . . . . . . . . . 114
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 85        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 114
+ SCHEMATICS AND DIAGRAMS - 42RLE                                        INPUT CLUTCH ASSEMBLY
+   TRANSMISSION        . . . . . . . . . . . . . . . . . . . . . . 88     DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 114
+ SPECIFICATIONS                                                           ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+   42RLE AUTOMATIC TRANSMISSION . . . . . . 101                         INPUT SPEED SENSOR
+ SPECIAL TOOLS                                                            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 131
+   42RLE AUTOMATIC TRANSMISSION . . . . . . 103                           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+ACCUMULATOR                                                               REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 106          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 132
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 106      OIL PUMP
+ADAPTER HOUSING SEAL                                                      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 132
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 106         DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . 132
+BEARINGS                                                                  ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+ ADJUSTMENTS                                                            OUTPUT SPEED SENSOR
+   BEARING ADJUSTMENT PROCEDURES . . . 106                                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 134
+BRAKE TRANSMISSION SHIFT INTERLOCK                                        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+ MECHANISM                                                                REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 107          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 134
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 108      OVERDRIVE SWITCH
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 135
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 108         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+ ADJUSTMENTS                                                              REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+   ADJUSTMENT - BRAKE TRANSMISSION                                        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 135
+     SHIFT INTERLOCK CABLE . . . . . . . . . . . . . 108                PLANETARY GEARTRAIN
+DRIVING CLUTCHES                                                          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 136
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . 109          OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 109      OIL PUMP SEAL
+                                                                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
+                                                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . 136
+

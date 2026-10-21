@@ -1,0 +1,61 @@
+TJ                                                               ELECTRONIC CONTROL MODULES              8E - 9
+POWERTRAIN CONTROL MODULE (Continued)
+   • Generator field driver (-)
+   • Generator field source (+)
+   • Idle Air Control (IAC) motor
+   • Ignition coil
+   • Leak detection pump (if equipped)
+   • Malfunction indicator lamp (Check engine lamp).
+Driven through CCD circuits.
+   • SCI transmit (DRB scan tool 16–way connection)
+   • Speed control vacuum solenoid
+   • Speed control vent solenoid
+   • Tachometer (if equipped). Driven through CCD
+circuits.
+   • Transmission convertor clutch solenoid
+
+OPERATION - 5 VOLT SUPPLIES
+   Primary 5–volt supply:
+   • supplies the required 5 volt power source to the
+Crankshaft Position (CKP) sensor.
+   • supplies the required 5 volt power source to the
+Camshaft Position (CMP) sensor.                               Fig. 5 PCM MOUNTING - LEFT HAND DRIVE
+   • supplies a reference voltage for the Manifold        1 - MOUNTING SCREWS (3)
+Absolute Pressure (MAP) sensor.                           2 - PCM
+                                                          3 - PCM ELECTRICAL CONNECTORS
+   • supplies a reference voltage for the Throttle
+Position Sensor (TPS) sensor.
+   Secondary 5–volt supply:
+   • supplies the required 5 volt power source to the
+oil pressure sensor.
+   • supplies the required 5 volt power source for the
+Vehicle Speed Sensor (VSS) (if equipped).
+   • supplies the 5 volt power source to the transmis-
+sion pressure sensor (if equipped with an RE auto-
+matic transmission).
+
+OPERATION - IGNITION CIRCUIT SENSE
+  The ignition circuit sense input tells the PCM the
+ignition switch has energized the ignition circuit.
+  Battery voltage is also supplied to the PCM
+through the ignition switch when the ignition is in
+the RUN or START position. This is referred to as
+the 9ignition sense9 circuit and is used to 9wake up9
+the PCM. Voltage on the ignition input can be as low
+as 6 volts and the PCM will still function. Voltage is
+supplied to this circuit to power the PCM’s 8-volt reg-      Fig. 6 PCM MOUNTING - RIGHT HAND DRIVE
+ulator and to allow the PCM to perform fuel, ignition
+                                                          1 - PCM
+and emissions control functions.                          2 - MOUNTING SCREWS (3)
+                                                          3 - PCM ELECTRICAL CONNECTORS
+REMOVAL
+  USE THE DRB SCAN TOOL TO REPROGRAM                      cable must be disconnected before unplugging PCM
+THE NEW POWERTRAIN CONTROL MODULE                         connectors.
+(PCM) WITH THE VEHICLES ORIGINAL IDEN-                      (1) Disconnect negative battery cable at battery.
+TIFICATION NUMBER (VIN) AND THE VEHI-                       (2) Remove plastic shields from over four electrical
+CLES ORIGINAL MILEAGE. IF THIS STEP IS                    connectors. Shields snap to connectors.
+NOT DONE, A DIAGNOSTIC TROUBLE CODE                         (3) Carefully unplug four electrical connectors (3)
+(DTC) MAY BE SET.                                         (Fig. 5) or (Fig. 6) from PCM.
+  To avoid possible voltage spike damage to the             (4) Remove three PCM mounting bolts (1) or (2)
+PCM, ignition key must be off, and negative battery       and remove PCM from vehicle.
+

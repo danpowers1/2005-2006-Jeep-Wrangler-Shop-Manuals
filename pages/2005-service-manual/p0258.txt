@@ -1,0 +1,51 @@
+5 - 40      BRAKES - ABS                                                                                TJ
+BRAKES - ABS (Continued)
+ating correctly. If the on board diagnostic system   STANDARD PROCEDURE - BLEEDING ABS
+senses that a circuit is malfunctioning the system
+                                                     BRAKE SYSTEM
+will set a trouble code in its memory.
+                                                        ABS system bleeding requires conventional bleed-
+NOTE: An audible noise may be heard during the       ing methods plus use of the DRB scan tool. The pro-
+self-test. This noise should be considered normal.   cedure involves performing a base brake bleeding,
+                                                     followed by use of the scan tool to cycle and bleed the
+                                                     HCU pump and solenoids. A second base brake bleed-
+NOTE: The MDS or DRB III scan tool is used to        ing procedure is then required to remove any air
+diagnose the ABS system. For additional informa-     remaining in the system.
+tion refer to the Antilock Brake section in Group       (1) Perform base brake bleeding. Refer to base
+8W. For test procedures refer to the Chassis Diag-   brake section for procedure.
+nostic Manual.                                          (2) Connect scan tool to the Data Link Connector.
+                                                        (3) Select ANTILOCK BRAKES, followed by MIS-
+                                                     CELLANEOUS, then ABS BRAKES. Follow the
+                                                     instructions displayed. When scan tool displays TEST
+                                                     COMPLETE, disconnect scan tool and proceed.
+                                                        (4) Perform base brake bleeding a second time.
+                                                     Refer to base brake section for procedure.
+                                                        (5) Top off master cylinder fluid level and verify
+                                                     proper brake operation before moving vehicle.
+
+SPECIFICATIONS
+
+T0RQUE CHART
+                                     TORQUE SPECIFICATIONS
+
+         DESCRIPTION                N·m                      Ft. Lbs.                     In. Lbs.
+           G-Sensor                  4-5                        —                          35-45
+          Sensor Bolt
+           G-Sensor                 8-13                        —                         75-115
+          Bracket Bolt
+   Hydraulic Control Unit            6.5                        —                           57
+   Bracket to HCU Bolts
+   Hydraulic Control Unit           16-24                       —                        142-212
+    Body Bracket Bolts
+   Hydraulic Control Unit           9-13                        —                         80-115
+   HCU to Body Bracket
+           Bolts
+   Hydraulic Control Unit           15-18                       —                        130-160
+       Brake Lines
+ Controller Anitlock Brakes          7-9                        —                          60-80
+      Mounting Bolt
+  Wheel Speed Sensors                4-6                        —                          34-50
+   Front Mounting Bolt
+  Wheel Speed Sensors               12-14                       —                        106-124
+   Rear Mounting Bolt
+

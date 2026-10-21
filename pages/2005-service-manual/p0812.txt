@@ -1,0 +1,49 @@
+8W - 80 - 12   8W-80 CONNECTOR PIN-OUTS                     TJ
+
+
+                           C170 - WHITE (I/P SIDE)
+                CAV                   CIRCUIT
+                 1     L13 20WT/YL (EXPORT)
+                 2     C115 20DB (HARD TOP)
+                 3     A502 12RD/LG (EXCEPT HEATER ONLY)
+                 3     A111 12RD/LB (HEATER ONLY)
+                 4     F306 16DB/PK
+                 5     T56 20DB/LB
+                 6     C221 20LB/OR
+                 7     T6 20DG
+                 8     G231 20VT/YL
+                 9     D20 20WT/LG
+                 10    D21 20WT/BR
+                 11    A205 18RD/OR
+                 12    L300 16LG/WT
+                 13    G305 20VT/LG (OFF-ROAD PACKAGE)
+                 14    Z11 20BK/LG
+                 15    D16 20WT/OR
+                 16    G300 20VT/WT (OFF-ROAD PACKAGE)
+                 17    G301 20VT/LB (OFF-ROAD PACKAGE)
+                 18    G32 20VT/LB
+                 19    G4 20VT/LB
+                 20    L39 16WT/OR
+                 21    -
+                 22    B83 20DG/WT
+                 23    D15 20WT/DG
+                 24    G304 20VT/DB (OFF-ROAD PACKAGE)
+                 25    -
+                 26    -
+
+
+
+
+                 C181 (2.4L) - BLACK (ENGINE INTAKE SIDE)
+                CAV                   CIRCUIT
+                 1     K334 18OR/DG
+                 2     C3 18DB/YL
+                 3     Z987 18BK/GR
+                 4     K11 18WT/DB
+                 5     K12 18TN
+                 6     K13 18YL/WT
+                 7     K14 18LB/BR
+                 8     K44 18TN/YL
+                 9     K900 18BK/LB
+                 10    -
+

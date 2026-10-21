@@ -1,0 +1,42 @@
+TJ                                                                             IGNITION CONTROL   8I - 7
+CAMSHAFT POSITION SENSOR - 2.4L (Continued)
+
+
+
+
+            Fig. 7 CMP LOCATION - 2.4L                    Fig. 8 UPPER TIMING BELT COVER/BOLTS-2.4L
+1 - CMP SENSOR                                           1 - UPPER TIMING BELT COVER
+2 - ELECTRICAL CONNECTOR                                 2 - ELECTRICAL CONNECTOR (ECT)
+3 - SLOTTED HOLES                                        3 - MOUNTING BOLTS (3)
+4 - MOUNTING BOLTS (2)
+
+tor from Engine Coolant Temperature (ECT) sensor
+(Fig. 8). This will prevent damage to sensor.
+  (2) Rotate (bump over) engine until camshaft tim-
+ing gear and target wheel (tonewheel) are positioned
+and aligned to face of sensor as shown in (Fig. 9). If
+not positioned as shown in (Fig. 9), damage to
+both sensor and target wheel will occur when
+attempting to start engine. Face of sensor
+MUST be behind target wheel while adjusting.
+  (3) Position sensor to cylinder head and install 2
+sensor mounting bolts finger tight.
+  (4) SENSOR AIR GAP: .030” Set air gap between
+rear of target wheel and face of sensor to .030”. This
+can best be accomplished using an L-shaped, wire-
+type spark plug gapping gauge (Fig. 10). A piece of
+.030” brass shim stock may also be used.
+  (5) Gently push sensor forward until it contacts
+gapping gauge. Do not push hard on sensor.
+Tighten 2 sensor mounting bolts. Refer to torque             Fig. 9 CMP FACE AT TARGET WHEEL-2.4L
+specifications.
+                                                         1 - CAMSHAFT DRIVE GEAR
+                                                         2 - TARGETWHEEL (TONEWHEEL)
+CAUTION: After tightening sensor mounting bolts,         3 - FACE OF CMP SENSOR
+recheck air gap and adjust as necessary. Retorque        4 - CUTOUT (NOTCH)
+bolts.
+
+  (6) Install upper timing belt cover and 3 bolts.
+  (7) Connect electrical connector to ECT sensor.
+  (8) Connect electrical connector to CMP sensor.
+

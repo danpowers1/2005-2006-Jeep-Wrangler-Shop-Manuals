@@ -1,0 +1,59 @@
+14 - 30    FUEL INJECTION                                                                                     TJ
+IDLE AIR CONTROL MOTOR (Continued)
+4.0L                                                        The PCM uses this input to calculate the following:
+  The IAC motor is located on the side of the throttle      • Injector pulse-width
+body.                                                       • Adjustment of spark timing (to help prevent
+  (1) Remove air cleaner tube at throttle body.           spark knock with high intake manifold air-charge
+  (2) Disconnect electrical connector from IAC motor.     temperatures)
+  (3) Remove two mounting bolts (screws) (Fig. 14).         The resistance values of the IAT sensor is the same
+  (4) Remove IAC motor from throttle body.                as for the Engine Coolant Temperature (ECT) sensor.
+
+                                                          REMOVAL
+                                                          2.4L
+                                                            The intake manifold air temperature (IAT) sensor
+                                                          is installed into the intake manifold plenum at the
+                                                          rear end of the intake manifold (Fig. 15).
+                                                            (1) Disconnect electrical connector from IAT sen-
+                                                          sor.
+                                                            (2) Clean dirt from intake manifold at sensor base.
+                                                            (3) Gently lift on small plastic release tab (Fig. 15)
+                                                          or (Fig. 16) and rotate sensor about 1/4 turn counter-
+                                                          clockwise for removal.
+                                                            (4) Check condition of sensor o-ring (Fig. 16).
+
+
+             Fig. 14 MOUNTING BOLTS
+1 - IDLE AIR CONTROL MOTOR
+2 - MOUNTING SCREWS
+
+
+INSTALLATION
+  (1) Install IAC motor to throttle body.
+  (2) Install and tighten two mounting bolts (screws)
+to 7 N·m (60 in. lbs.) torque.
+  (3) Install electrical connector.
+  (4) Install air cleaner tube to throttle body.
+
+
+INTAKE AIR TEMPERATURE
+SENSOR
+DESCRIPTION
+   The 2–wire Intake Manifold Air Temperature (IAT)
+sensor is installed in the intake manifold with the                    Fig. 15 IAT SENSOR - 2.4L
+sensor element extending into the air stream.             1 - RELEASE TAB
+   The IAT sensor is a two-wire Negative Thermal          2 - IAT SENSOR
+                                                          3 - PRESS HERE FOR REMOVAL
+Coefficient (NTC) sensor. Meaning, as intake mani-        4 - ELECTRICAL CONNECTOR
+fold temperature increases, resistance (voltage) in the   5 - REAR END OF INTAKE MANIFOLD
+sensor decreases. As temperature decreases, resis-
+tance (voltage) in the sensor increases.
+
+OPERATION
+  The IAT sensor provides an input voltage to the
+Powertrain Control Module (PCM) indicating the
+density of the air entering the intake manifold based
+upon intake manifold temperature. At key-on, a
+5–volt power circuit is supplied to the sensor from
+the PCM. The sensor is grounded at the PCM
+through a low-noise, sensor-return circuit.
+

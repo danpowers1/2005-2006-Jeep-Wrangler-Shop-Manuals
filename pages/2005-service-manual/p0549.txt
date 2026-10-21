@@ -1,0 +1,57 @@
+TJ                                                                                                    SPEED CONTROL               8P - 1
+
+
+                                                 SPEED CONTROL
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                   page
+
+SPEED CONTROL                                                           REMOVAL    .............................4
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1   SWITCH
+ DIAGNOSIS AND TESTING - ROAD TEST . . . . . 2                          DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+ SPECIFICATIONS                                                         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+   TORQUE - SPEED CONTROL . . . . . . . . . . . . . 2                   REMOVAL    .............................6
+CABLE                                                                   INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3     VACUUM RESERVOIR
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ REMOVAL    .............................3                              OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 3     DIAGNOSIS AND TESTING - VACUUM
+SERVO                                                                     RESERVOIR . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4      REMOVAL    .............................7
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+
+SPEED CONTROL                                                            • Depressing the CANCEL switch.
+                                                                         • Depressing the clutch pedal (if equipped).
+DESCRIPTION                                                            NOTE: Depressing the OFF switch or turning off the
+  The speed control system is electronically con-                      ignition switch will erase the set speed stored in
+trolled and vacuum operated. Electronic control of                     the PCM.
+the speed control system is integrated into the Pow-
+ertrain Control Module (PCM). The controls consist                        For added safety, the speed control system is pro-
+of two steering wheel mounted switches. The                            grammed to disengage for any of the following condi-
+switches are labeled: ON/OFF, RES/ACCEL, SET,                          tions:
+COAST, and CANCEL.                                                        • An indication of Park or Neutral
+  The system is designed to operate at speeds above                       • A rapid increase rpm (indicates that the clutch
+30 mph (50 km/h).                                                      has been disengaged)
+                                                                          • Excessive engine rpm (indicates that the trans-
+WARNING: THE USE OF SPEED CONTROL IS NOT                               mission may be in a low gear)
+RECOMMENDED WHEN DRIVING CONDITIONS DO                                    • The speed signal increases at a rate of 10 mph
+NOT PERMIT MAINTAINING A CONSTANT SPEED,                               per second (indicates that the coefficient of friction
+SUCH AS IN HEAVY TRAFFIC OR ON ROADS THAT                              between the road surface and tires is extremely low)
+ARE WINDING, ICY, SNOW COVERED, OR SLIP-                                  • The speed signal decreases at a rate of 10 mph
+PERY.                                                                  per second (indicates that the vehicle may have
+                                                                       decelerated at an extremely high rate)
+                                                                          Once the speed control has been disengaged,
+OPERATION                                                              depressing the RES/ACCEL switch (when speed is
+  When speed control is selected by depressing the                     greater than 30 mph) restores the vehicle to the tar-
+ON switch, the PCM allows a set speed to be stored                     get speed that was stored in the PCM.
+in PCM RAM for speed control. To store a set speed,                       While the speed control is engaged, the driver can
+depress the SET switch while the vehicle is moving                     increase the vehicle speed by depressing the RES/AC-
+at a speed between 35 and 85 mph. In order for the                     CEL switch. The new target speed is stored in the
+speed control to engage, the brakes cannot be                          PCM when the RES/ACCEL is released. The PCM
+applied, nor can the gear selector be indicating the                   also has a 9tap-up9 feature in which vehicle speed
+transmission is in Park or Neutral.                                    increases at a rate of approximately 2 mph for each
+  The speed control can be disengaged manually by:                     momentary switch activation of the RES/ACCEL
+  • Stepping on the brake pedal                                        switch.
+  • Depressing the OFF switch
+

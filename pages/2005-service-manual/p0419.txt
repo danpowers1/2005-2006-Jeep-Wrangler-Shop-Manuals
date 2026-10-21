@@ -1,0 +1,56 @@
+TJ                                                                                  IGNITION CONTROL        8I - 13
+COIL RAIL - 4.0L (Continued)
+                                                             (1) Disconnect negative battery cable at battery.
+                                                             (2) The coil is bolted directly to the cylinder head.
+                                                           Remove 4 coil mounting bolts (Fig. 26).
+                                                             (3) Carefully pry up coil assembly from spark
+                                                           plugs. Do this by prying alternately at each end of
+                                                           coil until rubber boots have disengaged from all
+                                                           spark plugs. If boots will not release from spark
+                                                           plugs, use a commercially available spark plug boot
+                                                           removal tool. Twist and loosen a few boots from a few
+                                                           spark plugs to help remove coil.
+                                                             (4) After coil has cleared spark plugs, position coil
+                                                           for access to primary electrical connector. Disconnect
+                                                           connector from coil by pushing slide tab outwards to
+                                                           right side of vehicle (Fig. 27). After slide tab has been
+                                                           positioned outwards, push in on secondary release
+                                                           lock (Fig. 27) on side of connector and pull connector
+         Fig. 24 Coil Location—4.0L Engine                 from coil.
+1 - COIL RAIL                                                (5) Remove coil from vehicle.
+2 - COIL MOUNTING BOLTS (4)
+3 - COIL
+4 - COIL ELECTRICAL CONNECTION
+
+  Battery voltage is supplied to the three ignition
+coils from the ASD relay. The Powertrain Control
+Module (PCM) opens and closes the ignition coil
+ground circuit for ignition coil operation.
+  Base ignition timing is not adjustable. By con-
+trolling the coil ground circuit, the PCM is able to set
+the base timing and adjust the ignition timing
+advance. This is done to meet changing engine oper-
+ating conditions.
+  The ignition coil is not oil filled. The windings are
+embedded in an epoxy compound. This provides heat
+and vibration resistance that allows the ignition coil
+to be mounted on the engine.
+  Because of coil design, spark plug cables (second-
+ary cables) are not used. The cables are integral
+within the coil rail.
+
+REMOVAL - 4.0L
+   A one-piece coil rail assembly containing three           Fig. 25 Ignition Coil Assembly—4.0L 6–Cylinder
+individual coils is used on the 4.0L engine (Fig. 25).                             Engine
+The coil rail must be replaced as one assembly. The        1 - CYL. #6
+                                                           2 - CYL. #5
+bottom of the coil is equipped with 6 individual rub-      3 - CYL. #4
+ber boots (Fig. 25) to seal the 6 spark plugs to the       4 - CYL. #3
+coil. Inside each rubber boot is a spring. The spring      5 - CYL. #2
+                                                           6 - CYL. #1
+is used for an electrical contact between the coil and     7 - COILS (3)
+the top of the spark plug. These rubber boots and          8 - MOUNTING BOLTS (4)
+springs are a permanent part of the coil and are not       9 - BOLT BASES (4)
+                                                           10 - RUBBER BOOTS (6)
+serviced separately.
+

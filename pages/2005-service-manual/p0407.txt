@@ -1,0 +1,54 @@
+TJ                                                                                                         IGNITION CONTROL                8I - 1
+
+
+                                                  IGNITION CONTROL
+                                                       TABLE OF CONTENTS
+
+                                                                   page                                                                     page
+
+IGNITION CONTROL                                                             CAMSHAFT POSITION SENSOR - 4.0L
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1            DESCRIPTION - 4.0L . . . . . . . . . . . . . . . . . . . . . 8
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1          OPERATION - 4.0L . . . . . . . . . . . . . . . . . . . . . . . 8
+  SPECIFICATIONS                                                               REMOVAL - 4.0L . . . . . . . . . . . . . . . . . . . . . . . . . 9
+    SPECIFICATIONS - IGNITION TIMING . . . . . . . 2                           INSTALLATION - 4.0L . . . . . . . . . . . . . . . . . . . . 10
+    ENGINE FIRING ORDER - 2.4L 4-CYLINDER                              .2    COIL RAIL - 4.0L
+    ENGINE FIRING ORDER - 4.0L 6-CYLINDER                                      DESCRIPTION - 4.0L . . . . . . . . . . . . . . . . . . . . 12
+      ENGINE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2     OPERATION - 4.0L . . . . . . . . . . . . . . . . . . . . . . 12
+    IGNITION COIL RESISTANCE - 2.4L . . . . . . . . 3                          REMOVAL - 4.0L . . . . . . . . . . . . . . . . . . . . . . . . 13
+    IGNITION COIL RESISTANCE - 4.0L ENGINE . 3                                 INSTALLATION - 4.0L . . . . . . . . . . . . . . . . . . . . 14
+    SPARK PLUGS . . . . . . . . . . . . . . . . . . . . . . . . 3            IGNITION COIL - 2.4L
+    SPECIFICATIONS - SPARK PLUG CABLE                                          DESCRIPTION - 2.4L . . . . . . . . . . . . . . . . . . . . 14
+      RESISTANCE . . . . . . . . . . . . . . . . . . . . . . . . . 3           OPERATION - 2.4L . . . . . . . . . . . . . . . . . . . . . . 14
+    SPECIFICATIONS - TORQUE - IGNITION                                         REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . . . 15
+      SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4       INSTALLATION - 2.4L . . . . . . . . . . . . . . . . . . . . 15
+AUTO SHUT DOWN RELAY                                                         SPARK PLUG
+  DESCRIPTION - PCM OUTPUT . . . . . . . . . . . . . 4                         DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 15
+  OPERATION                                                                    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+    OPERATION - ASD SENSE - PCM INPUT . . . . 4                                DIAGNOSIS AND TESTING - SPARK PLUG
+    OPERATION - PCM OUTPUT                     .............4                    CONDITIONS . . . . . . . . . . . . . . . . . . . . . . . . . 15
+  DIAGNOSIS AND TESTING - ASD AND FUEL                                         REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+    PUMP RELAYS . . . . . . . . . . . . . . . . . . . . . . . . 4              CLEANING SPARK PLUGS . . . . . . . . . . . . . . . . 18
+  REMOVAL      .............................5                                  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 18
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 6         SPARK PLUG CABLE
+CAMSHAFT POSITION SENSOR - 2.4L                                                DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 19
+  DESCRIPTION - 2.4L . . . . . . . . . . . . . . . . . . . . . 6               OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+  OPERATION - 2.4L . . . . . . . . . . . . . . . . . . . . . . . 6             DIAGNOSIS AND TESTING . . . . . . . . . . . . . . . . 19
+  REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . . . . 6           REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . . . 19
+  INSTALLATION - 2.4L . . . . . . . . . . . . . . . . . . . . . 6              INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+IGNITION CONTROL                                                             OPERATION
+
+DESCRIPTION                                                                  2.4L
+  The ignition systems used on both the 2.4L 4–cyl-                             A common ignition coil divided into 2 halves is
+inder and 4.0L 6–cylinder engines are a distributor-                         used. Secondary, high-tension spark plug cables are
+less type.                                                                   also used. One half of the coil fires two spark plugs
+  The ignition system consists of:                                           simultaneously (one plug is the cylinder under com-
+  • Spark Plugs                                                              pression, and the other plug is the cylinder on the
+  • Spark Plug Cables (secondary wires)                                      exhaust stroke). Coil half number one fires cylinders
+  • Ignition Coil(s)                                                         1 and 4. Coil half number two fires cylinders 2 and 3.
+  • Powertrain Control Module (PCM)                                          The PCM determines which of the coils to charge and
+  • Crankshaft Position Sensor                                               fire at the correct time.
+  • Camshaft Position Sensor
+  • The MAP, TPS, IAC and ECT also have an effect
+on the control of the ignition system.
+

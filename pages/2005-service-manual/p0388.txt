@@ -1,0 +1,60 @@
+8F - 36    STARTING                                                                                         TJ
+STARTING (Continued)
+CONTROL CIRCUIT TEST                                     Ignition Switch
+  The starter control circuit components should be         • Visually inspect ignition switch for indications of
+tested in the order in which they are listed, as fol-    physical damage and loose or corroded wire harness
+lows:                                                    connections. Clean corroded connections as required.
+                                                         Refer to Wiring Diagrams. Refer to Ignition
+Starter Relay                                            Switch and Key Lock Cylinder for ignition switch
+  • Refer to Starter Relay.                              service procedures.
+
+Starter Solenoid                                         Clutch Pedal Position Switch
+  • Refer to Starter Motor.                                • If vehicle is equipped with a manual transmis-
+                                                         sion, visually inspect clutch pedal position switch for
+Ignition Switch                                          indications of physical damage and loose or corroded
+  • Refer to Ignition Switch and Key Lock Cyl-           wire harness connections. Clean corroded connections
+inder for ignition switch diagnosis and testing proce-   as required. Refer to Clutch Hydraulic Linkage for
+dures.                                                   clutch pedal position switch service procedures.
+
+Clutch Pedal Position Switch                             Park/Neutral Position Switch
+  • If the vehicle is equipped with a manual trans-        • If vehicle is equipped with an automatic trans-
+mission, refer to Clutch Pedal Position Switch for       mission, visually inspect park/neutral position switch
+clutch pedal position switch diagnosis and testing       for indications of physical damage and loose or cor-
+procedures.                                              roded wire harness connections. Clean corroded con-
+                                                         nections as required. Refer to Park/Neutral
+Park/Neutral Position Switch                             Position Switch for park/neutral position switch
+  • If the vehicle is equipped with an automatic         service procedures.
+transmission, refer to Park/Neutral Position
+Switch for park/neutral position switch diagnosis        Starter Relay
+and testing procedures.                                    • Visually inspect starter relay for indications of
+                                                         physical damage and loose or corroded wire harness
+INSPECTION - STARTING SYSTEM                             connections. Clean corroded connections as required.
+  The following starting system components should        Refer to Starter Relay for starter relay service pro-
+be carefully inspected whenever any starting system      cedures.
+problem is encountered.
+                                                         Starter Motor
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                     • Visually inspect starter motor for indications of
+BAGS, DISABLE AIRBAG SYSTEM BEFORE                       physical damage and loose or corroded wire harness
+ATTEMPTING ANY STEERING WHEEL, STEERING                  connections. Clean corroded connections as required.
+COLUMN, OR INSTRUMENT PANEL COMPONENT                    If problem being diagnosed involves improper starter
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                engagement, disengagement or noise complaints,
+LATE BATTERY NEGATIVE (GROUND) CABLE,                    starter motor should be removed. With starter motor
+THEN WAIT TWO MINUTES FOR AIRBAG SYSTEM                  removed, inspect starter pinion and ring gears for
+CAPACITOR TO DISCHARGE BEFORE PERFORM-                   damaged or missing teeth. Replace faulty compo-
+ING FURTHER DIAGNOSIS OR SERVICE. THIS IS                nents as required. Refer to Starter Motor for
+THE ONLY SURE WAY TO DISABLE AIRBAG SYS-                 removal/installation procedures.
+TEM. FAILURE TO TAKE PROPER PRECAUTIONS
+COULD RESULT IN ACCIDENTAL AIRBAG DEPLOY-                Starter Solenoid
+MENT AND POSSIBLE PERSONAL INJURY.                         • Visually inspect starter solenoid for indications
+                                                         of physical damage and loose or corroded wire har-
+                                                         ness connections. Clean corroded connections as
+Battery                                                  required. Refer to Starter Motor for starter solenoid
+  • Visually inspect battery for indications of physi-   service procedures.
+cal damage and loose or corroded cable connections.
+Determine state-of-charge and cranking capacity of       Wiring
+battery. Charge or replace battery, if required. Refer     • Visually inspect starting system wire harnesses
+to Battery for battery cleaning and inspection proce-    for indications of physical damage. Repair or replace
+dures.                                                   any faulty wiring, as required. Refer to Wiring Dia-
+                                                         grams for repair or connector and terminal service
+                                                         procedures.
+

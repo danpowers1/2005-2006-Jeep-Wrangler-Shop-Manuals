@@ -1,0 +1,46 @@
+8W - 80 - 32   8W-80 CONNECTOR PIN-OUTS                                                           TJ
+
+
+                                               INSTRUMENT CLUSTER C2 - 16 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    C80 20DB (HARD TOP)                   REAR WINDOW DEFOGGER SWITCH SENSE
+                 2    G10 20VT/LG                           SEAT BELT SWITCH SENSE
+                 3    G76 20VT/YL                           PASSENGER DOOR AJAR SWITCH SENSE
+                 4    G75 20VT                              DRIVER DOOR AJAR SWITCH SENSE
+                 5    M22 20YL/OR                           COURTESY LAMPS FEED
+                 6    E2 20OR/BR                            PANEL LAMPS FEED
+                 7    C115 20DB (HARD TOP)                  REAR WINDOW DEFOGGER RELAY CONTROL
+                 8    G4 20VT/LB (ABS)                      ABS WARNING INDICATOR DRIVER
+                 9    B83 20DG/WT                           BRAKE PRESSURE SENSOR SUPPLY
+                 10   G304 20VT/DB (OFF-ROAD PACKAGE)       FRONT LOCKER REQUEST
+                 11   G93 20VT/LB (OFF-ROAD PACKAGE)        4WD INDICATOR
+                 12   D25 20WT/VT                           PCI BUS
+                 13   G15 20VT/TN                           KEY-IN IGNITION SWITCH SENSE
+                 14   G302 20VT/OR (OFF-ROAD PACKAGE)       LOCKER ENABLE SIGNAL 1
+                 15   E19 20OR/BR                           PANEL LAMPS DIMMER SIGNAL
+                 16   G300 20VT/WT (OFF-ROAD PACKAGE)       FRONT LOCKER INDICATOR SWITCH SENSE
+
+
+
+
+                                    INTAKE AIR TEMPERATURE SENSOR (4.0L) - GRAY 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    K900 20DB/DG                          SENSOR GROUND
+                 2    K21 18BK/RD                           IAT SIGNAL
+
+
+
+
+                                      INTAKE AIR TEMPERATURE SENSOR (2.4L) - 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    K900 20DB/DG                          SENSOR GROUND
+                 2    K21 20BR/WT                           IAT SIGNAL
+
+
+
+
+                                           LEFT COURTESY LAMP - BLACK 2 WAY
+                CAV                  CIRCUIT                                    FUNCTION
+                 1    M21 20YL/BR                           FUSED B(+)
+                 2    M22 20YL/OR                           COURTESY LAMPS DRIVER
+

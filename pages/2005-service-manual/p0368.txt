@@ -1,0 +1,111 @@
+8F - 16    BATTERY SYSTEM                                                                                     TJ
+
+
+BATTERY CABLES                                            to the B(+) terminal stud of the Power Distribution
+                                                          Center (PDC), and the other wire has an eyelet ter-
+                                                          minal that connects the battery positive cable to the
+DESCRIPTION
+                                                          B(+) terminal stud of the engine starter motor sole-
+  The battery cables are large gauge, stranded cop-
+                                                          noid. The battery negative cable terminal clamp is
+per wires sheathed within a heavy plastic or syn-
+                                                          also die cast onto the ends of two wires. One wire
+thetic rubber insulating jacket. The wire used in the
+                                                          has an eyelet terminal that connects the battery neg-
+battery cables combines excellent flexibility and reli-
+                                                          ative cable to the vehicle powertrain through a stud
+ability with high electrical current carrying capacity.
+                                                          on the right side of the engine cylinder block. The
+The battery cables feature a clamping type female
+                                                          other wire has an eyelet terminal that connects the
+battery terminal made of soft lead that is die cast
+                                                          battery negative cable to the vehicle body through a
+onto one end of the battery cable wire. A square
+                                                          ground screw on the right front fender inner shield,
+headed pinch-bolt and hex nut are installed at the
+                                                          near the battery.
+open end of the female battery terminal clamp. Large
+eyelet type terminals are crimped onto the opposite
+end of the battery cable wire and then solder-dipped.
+                                                          DIAGNOSIS AND TESTING - BATTERY CABLES
+                                                             A voltage drop test will determine if there is exces-
+The battery positive cable wires have a red insulat-
+                                                          sive resistance in the battery cable terminal connec-
+ing jacket to provide visual identification and feature
+                                                          tions or the battery cable. If excessive resistance is
+a larger female battery terminal clamp to allow con-
+                                                          found in the battery cable connections, the connec-
+nection to the larger battery positive terminal post.
+                                                          tion point should be disassembled, cleaned of all cor-
+The battery negative cable wires have a black insu-
+                                                          rosion or foreign material, then reassembled.
+lating jacket and a smaller female battery terminal
+                                                          Following reassembly, check the voltage drop for the
+clamp.
+                                                          battery cable connection and the battery cable again
+  The battery cables cannot be repaired and, if dam-
+                                                          to confirm repair.
+aged or faulty they must be replaced. Both the bat-
+                                                             When performing the voltage drop test, it is impor-
+tery positive and negative cables are available for
+                                                          tant to remember that the voltage drop is giving an
+service replacement only as a unit with the battery
+                                                          indication of the resistance between the two points at
+wire harness, which may include portions of the wir-
+                                                          which the voltmeter probes are attached. EXAM-
+ing circuits for the generator and other components
+                                                          PLE: When testing the resistance of the battery pos-
+on some models. Refer to the appropriate wiring
+                                                          itive cable, touch the voltmeter leads to the battery
+information in this service manual for the location of
+                                                          positive cable terminal clamp and to the battery pos-
+the proper battery cable wire harness diagrams. The
+                                                          itive cable eyelet terminal at the starter solenoid
+wiring information also includes proper wire and con-
+                                                          B(+) terminal stud. If you probe the battery positive
+nector repair procedures, further details on wire har-
+                                                          terminal post and the battery positive cable eyelet
+ness routing and retention, as well as pin-out and
+                                                          terminal at the starter solenoid B(+) terminal stud,
+location views for the various wire harness connec-
+                                                          you are reading the combined voltage drop in the
+tors, splices and grounds.
+                                                          battery positive cable terminal clamp-to-terminal
+                                                          post connection and the battery positive cable.
+OPERATION
+  The battery cables connect the battery terminal
+                                                          VOLTAGE DROP TEST
+posts to the vehicle electrical system. These cables
+                                                             The following operation will require a voltmeter
+also provide a path back to the battery for electrical
+                                                          accurate to 1/10 (0.10) volt. Before performing this
+current generated by the charging system for restor-
+                                                          test, be certain that the following procedures are
+ing the voltage potential of the battery. The female
+                                                          accomplished:
+battery terminal clamps on the ends of the battery
+                                                             • The battery is fully-charged and load tested.
+cable wires provide a strong and reliable connection
+                                                          Refer to Standard Procedures for the proper battery
+of the battery cable to the battery terminal posts.
+                                                          charging and load test procedures.
+The terminal pinch bolts allow the female terminal
+                                                             • Fully engage the parking brake.
+clamps to be tightened around the male terminal
+                                                             • If the vehicle is equipped with an automatic
+posts on the top of the battery. The eyelet terminals
+                                                          transmission, place the gearshift selector lever in the
+secured to the opposite ends of the battery cable
+                                                          Park position. If the vehicle is equipped with a man-
+wires from the female battery terminal clamps pro-
+                                                          ual transmission, place the gearshift selector lever in
+vide secure and reliable connection of the battery
+                                                          the Neutral position and block the clutch pedal in the
+cables to the vehicle electrical system.
+                                                          fully depressed position.
+  The battery positive cable terminal clamp is die
+                                                             • Verify that all lamps and accessories are turned
+cast onto the ends of two wires. One wire has an eye-
+                                                          off.
+let terminal that connects the battery positive cable
+

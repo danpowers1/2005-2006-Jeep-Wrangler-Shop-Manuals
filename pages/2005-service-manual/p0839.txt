@@ -1,0 +1,40 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 39
+
+
+                                     OXYGEN SENSOR 2/1 UPSTREAM (4.0L) - 4 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    K199 18BR/VT                       O2 2/1 HEATER CONTROL
+               2    Z42 18BK/LG                        GROUND
+               3    K902 18BR/DG                       O2 RETURN (UPSTREAM)
+               4    K43 18DB/LG                        O2 2/1 SIGNAL
+
+
+
+
+                                   OXYGEN SENSOR 2/2 DOWNSTREAM (4.0L) - 4 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    K399 18BR/GY                       O2 2/2 HEATER CONTROL
+               2    Z43 18BK/LB                        GROUND
+               3    K904 18BD/DG                       O2 RETURN (DOWNSTREAM)
+               4    K243 18BR                          O2 2/2 SIGNAL
+
+
+
+
+                                   PASSENGER AIRBAG ON-OFF SWITCH (LHD) - 6 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               1    F201 18PK/OR                       FUSED IGNITION SWITCH OUTPUT (RUN-START)
+               2    G104 18VT/GY                       PASSENGER AIRBAG INDICATOR DRIVER
+               3    R106 18LG/LB                       PASSENGER AIRBAG MUX SWITCH SENSE
+               4    -                                  -
+               5    -                                  -
+               6    R104 18LB/LG                       PASSENGER AIRBAG MUX SWITCH RETURN
+
+
+
+
+                                     PASSENGER AIRBAG SQUIB 1 - YELLOW 2 WAY
+              CAV                  CIRCUIT                               FUNCTION
+               A    R42 18LB/BR                        PASSENGER SQUIB 1 LINE 1
+               B    R44 18LB/OR                        PASSENGER SQUIB 1 LINE 2
+

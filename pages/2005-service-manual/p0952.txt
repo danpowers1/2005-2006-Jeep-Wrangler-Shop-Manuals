@@ -1,0 +1,57 @@
+9 - 32    ENGINE 2.4L                                                                                            TJ
+
+
+HYDRAULIC LIFTERS
+
+DIAGNOSIS AND TESTING
+LASH ADJUSTER (TAPPET) NOISE DIAGNOSIS
+   A tappet-like noise may be produced from several
+items. Check the following items.
+   (1) Engine oil level too high or too low. This may
+cause aerated oil to enter the adjusters and cause
+them to be spongy.
+   (2) Insufficient running time after rebuilding cylin-
+der head. Low speed running up to 1 hour may be
+required.
+   (3) During this time, turn engine off and let set for
+a few minutes before restarting. Repeat this several
+                                                                      Fig. 32 Hydraulic Lash Adjuster
+times after engine has reached normal operating
+temperature.                                               INSTALLATION
+   (4) Low oil pressure.                                      (1) Install hydraulic lifter (Fig. 32). Ensure the
+   (5) The oil restrictor (integral to the head gasket)    lifters are at least partially full of engine oil. This is
+in the vertical oil passage to the cylinder head is        indicated by little or no plunger travel when the
+plugged with debris.                                       lifter is depressed.
+   (6) Air ingested into oil due to broken or cracked         (2) Install rocker arm. (Refer to 9 - ENGINE/CYL-
+oil pump pick up.                                          INDER HEAD/ROCKER ARMS - INSTALLATION)
+   (7) Worn valve guides.                                     (3) Repeat installation procedure for each hydrau-
+   (8) Rocker arm ears contacting valve spring             lic lifter.
+retainer.                                                     (4) Install camshafts (Refer to 9 - ENGINE/CYL-
+   (9) Rocker arm loose, adjuster stuck or at maxi-        INDER HEAD/CAMSHAFT(S) - INSTALLATION).
+mum extension and still leaves lash in the system.            (5) Install cylinder head cover. (Refer to 9 -
+   (10) Faulty lash adjuster.                              ENGINE/CYLINDER            HEAD/CYLINDER           HEAD
+   a. Check lash adjusters for sponginess while            COVER(S) - INSTALLATION)
+installed in cylinder head. Depress part of rocker
+arm over adjuster. Normal adjusters should feel very
+firm. Spongy adjusters can be bottomed out easily.         ROCKER ARMS
+   b. Remove suspected lash adjusters, and replace as
+necessary.                                                 REMOVAL
+REMOVAL                                                    NOTE: This procedure is for in-vehicle service with
+                                                           camshafts installed.
+NOTE: This procedure is for in-vehicle service with
+camshafts installed.                                          (1) Remove cylinder head cover. (Refer to 9 -
+                                                           ENGINE/CYLINDER           HEAD/CYLINDER        HEAD
+   (1) Remove cylinder head cover. (Refer to 9 -           COVER(S) - REMOVAL)
+ENGINE/CYLINDER           HEAD/CYLINDER          HEAD         (2) Remove fuel rail. (Refer to 14 - FUEL SYS-
+COVER(S) - REMOVAL)                                        TEM/FUEL DELIVERY/FUEL RAIL - REMOVAL)
+   (2) Remove the camshafts (Refer to 9 - ENGINE/             (3) Remove spark plugs.
+CYLINDER HEAD/CAMSHAFT(S) - REMOVAL).                         (4) Rotate engine until the camshaft lobe, on the
+   (3) Remove rocker arm. (Refer to 9 - ENGINE/            follower being removed, is position on its base circle
+CYLINDER HEAD/ROCKER ARMS - REMOVAL)                       (heel). Also, the piston should be a minimum of 6.3
+   (4) Remove hydraulic lifter (Fig. 32).                  mm (0.25 in) below TDC position.
+   (5) Repeat removal procedure for each hydraulic
+lifter.                                                    CAUTION: If cam follower assemblies are to be
+   (6) If reusing, mark each hydraulic lifter for reas-    reused, always mark position for reassembly in
+sembly in original position. Lifters are serviced as an    their original positions.
+assembly.
+

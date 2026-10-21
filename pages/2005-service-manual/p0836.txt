@@ -1,0 +1,26 @@
+8W - 80 - 36   8W-80 CONNECTOR PIN-OUTS                                                TJ
+
+
+                                  LEFT SIDE MARKER LAMP (EXCEPT EXPORT) - GRAY 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    L7 18WT/YL                         HEADLAMP SWITCH OUTPUT
+                 2    L61 18WT/LG                        LEFT TURN SIGNAL
+
+
+
+
+                                     LEFT SIDE REPEATER LAMP (EXPORT) - GRAY 2 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    L61 18WT/LG                        LEFT TURN SIGNAL
+                 2    Z950 18BK                          GROUND
+
+
+
+
+                                      MANIFOLD ABSOLUTE PRESSURE SENSOR - 3 WAY
+                CAV                  CIRCUIT                                FUNCTION
+                 1    K1 20VT/BR (2.4L)                  MAP SIGNAL
+                 1    K1 18VT/BR (4.0L)                  MAP SIGNAL
+                 2    K900 20DB/DG                       SENSOR GROUND
+                 3    F856 20YL/PK                       5 VOLT SUPPLY
+

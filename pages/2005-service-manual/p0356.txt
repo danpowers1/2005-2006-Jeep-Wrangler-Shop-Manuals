@@ -1,0 +1,60 @@
+8F - 4    BATTERY SYSTEM                                                                                               TJ
+BATTERY SYSTEM (Continued)
+
+                                         BATTERY SYSTEM DIAGNOSIS
+
+         CONDITION                  POSSIBLE CAUSES                                   CORRECTION
+
+THE BATTERY STATE OF            1. The battery has an               1. Refer to Battery System Specifications for the
+CHARGE CANNOT BE                incorrect size or rating for        proper specifications. Replace an incorrect
+MAINTAINED.                     this vehicle.                       battery, as required.
+
+                                2. The battery terminal             2. Refer to Battery Cable for the proper cable
+                                connections are loose or            diagnosis and testing procedures. Clean and
+                                corroded.                           tighten the battery terminal connections, as
+                                                                    required.
+                                3. The electrical system            3. Refer to the IGNITION-OFF DRAW TEST
+                                ignition-off draw is excessive.     Standard Procedure for the proper test
+                                                                    procedures. Repair the faulty electrical system, as
+                                                                    required.
+                                4. The battery is faulty.           4. Test the battery using the Micro 420 battery
+                                                                    tester. Refer to Standard Procedures for
+                                                                    additional test procedures. Replace the faulty
+                                                                    battery, as required.
+                                5. The starting system is           5. Determine if the starting system is performing
+                                faulty.                             to specifications. Refer to Starting System for the
+                                                                    proper starting system diagnosis and testing
+                                                                    procedures. Repair the faulty starting system, as
+                                                                    required.
+                                6. The charging system is           6. Determine if the charging system is performing
+                                faulty.                             to specifications. Refer to Charging System for
+                                                                    additional charging system diagnosis and testing
+                                                                    procedures. Repair the faulty charging system, as
+                                                                    required.
+                                7. Electrical loads exceed the      7. Inspect the vehicle for aftermarket electrical
+                                output of the charging              equipment which might cause excessive electrical
+                                system.                             loads.
+                                8. Slow driving or prolonged        8. Advise the vehicle operator, as required.
+                                idling with high-amperage
+                                draw systems in use.
+
+THE BATTERY WILL NOT            1. The battery is faulty.           1. Test the battery using the Micro 420 battery
+ACCEPT A CHARGE.                                                    tester. Charge or replace the faulty battery, as
+                                                                    required.
+
+
+ABNORMAL BATTERY DISCHARGING                                   installed after manufacture, or repeated short trip
+  Any of the following conditions can result in abnor-         use.
+mal battery discharging:                                         5. A faulty or incorrect starting system component.
+  1. A faulty or incorrect charging system compo-              Refer to Starting System for the proper starting sys-
+nent. Refer to Charging System for charging system             tem diagnosis and testing procedures.
+diagnosis and testing procedures.                                6. Corroded or loose battery posts and/or terminal
+  2. A faulty or incorrect battery. Use Micro 420 bat-         clamps.
+tery tester and refer to Battery System for additional           7. Slow driving speeds (heavy traffic conditions) or
+battery diagnosis and testing procedures.                      prolonged idling, with high-amperage draw systems
+  3. A faulty circuit or component causing excessive           in use.
+ignition-off draw.
+  4. Electrical loads that exceed the output of the            CLEANING
+charging system. This can be due to equipment                    The following information details the recommended
+                                                               cleaning procedures for the battery and related com-
+

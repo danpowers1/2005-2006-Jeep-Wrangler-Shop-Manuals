@@ -1,0 +1,61 @@
+TJ                                                                                  ENGINE 4.0L       9 - 117
+
+
+VIBRATION DAMPER                                          (1) Raise and support vehicle.
+
+                                                        NOTE: Both left and right side bending braces are
+REMOVAL                                                 removed the sameway. Only the right side is
+  (1) Disconnect negative cable from battery.           shown.
+  (2) Remove the serpentine drive belt (Refer to 7 -
+COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+REMOVAL) and fan shroud.                                NOTE: The exhaust does not require removal to
+  (3) Remove the vibration damper retaining bolt        preform this procedure.
+and washer.
+  (4) Use Vibration Damper Removal Tool 7697 to           (2) Remove the exhaust hanger bracket retaining
+remove the damper from the crankshaft (Fig. 71).        bolt.
+                                                          (3) Remove locknut and transmission bending
+                                                        brace bar.
+                                                          (4) Remove engine-to-bending brace retaining bolt,
+                                                        bending brace bar and cross bar.
+
+                                                        INSTALLATION
+                                                        NOTE: DO NOT tighten the retaining hardware until
+                                                        all bending braces are in place.
+
+                                                          (1) Position the cross brace into the engine-to-
+                                                        transmission brace, then position the engine-to-trans-
+                                                        mission brace and install retaining bolt.
+                                                          (2) Position the transmission bending brace onto
+                                                        through brace and install new locknut.
+                                                          (3) Position exhaust hanger and transmission
+     Fig. 71 Vibration Damper Removal Tool 7697         brace, install retaining bolt (Fig. 73).
+                                                          (4) Tighten engine-to-transmission brace retaining
+1 - VIBRATION DAMPER REMOVAL TOOL
+2 - WRENCH                                              bolt (Fig. 72)to 40 N·m (30 ft. lbs.).
+
+INSTALLATION
+  (1) Apply Mopart Silicone Rubber Adhesive Seal-
+ant to the keyway in the crankshaft and insert the
+key. With the key in position, align the keyway on
+the vibration damper hub with the crankshaft key
+and tap the damper onto the crankshaft.
+  (2) Install the vibration damper retaining bolt and
+washer.
+  (3) Tighten the damper retaining bolt to 108 N·m
+(80 ft. lbs.) torque.
+  (4) Install the serpentine drive belt (Refer to 7 -
+COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+INSTALLATION) and fan shroud.
+  (5) Connect negative cable to battery.
+
+
+STRUCTURAL SUPPORT
+REMOVAL
+  The engine bending braces are used to add
+strength to the powertrain and to address some
+minor NVH concerns.                                       Fig. 72 Engine-to-Transmission Bending Braces
+                                                        1 - ENGINE-TO-TRANSMISSION BENDING BRACE
+NOTE: Before the engine or the transmission can be      2 - CROSS BRACE
+                                                        3 - ENGINE-TO-TRANSMISSION BENDING BRACE RETAINING
+removed the engine bending braces must be removed.      BOLT
+

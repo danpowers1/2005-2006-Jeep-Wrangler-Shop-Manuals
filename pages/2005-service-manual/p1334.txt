@@ -1,0 +1,49 @@
+21 - 190     TRANSFER CASE - NV231                                                                         TJ
+TRANSFER CASE - NV231 (Continued)
+  (9) Install boot on output shaft slinger, or output     (3) Position transfer case under vehicle.
+shaft damper, and crimp retaining clamp with tool         (4) Align transfer case and transmission shafts
+C-4975-A (Fig. 83).                                     and install transfer case on transmission.
+                                                          (5) Install and tighten transfer case attaching nuts
+                                                        to 35 N·m (26 ft. lbs.) torque (Fig. 2).
+                                                          (6) Connect vehicle speed sensor wires, and vent
+                                                        hose.
+                                                          (7) Connect indicator switch harness to transfer
+                                                        case switch, if necessary. Secure wire harness to clips
+                                                        on transfer case.
+                                                          (8) Align and connect propeller shafts. Refer to
+                                                        Differential and Driveline for proper procedures and
+                                                        specifications.
+                                                          (9) Fill transfer case with correct fluid. Check
+                                                        transmission fluid level. Correct as necessary.
+                                                          (10) Install rear crossmember, or skid plate.
+                                                        Tighten crossmember bolts to 41 N·m (30 ft. lbs.)
+                                                        torque.
+                                                          (11) Remove transmission jack and support stand.
+      Fig. 83 Slinger Boot Installation - Typical         (12) Connect shift rod to transfer case range lever.
+                                                          (13) Adjust transfer case shift linkage.
+1 - SPECIAL TOOL C-4975–A
+2 - SLINGER                                               (14) Lower vehicle and verify transfer case shift
+3 - BOOT                                                operation.
+4 - CLAMP
+
+
+INSTALLATION
+  (1) Mount transfer case on a transmission jack.
+  (2) Secure transfer case to jack with chains.
+
+SPECIFICATIONS
+
+TRANSFER CASE - NV231
+                                                    TORQUE
+
+      DESCRIPTION                       N·m                     Ft. Lbs.                     In. Lbs.
+        Plug, Detent                    16-24                    12-18                          -
+       Plug, Drain/Fill                 20-34                    15-25                          -
+  Bolt, Front Brg. Retainer              21                        16                           -
+      Bolt, Case Half                   27-34                    20-25                          -
+      Nut, Front Yoke                 122-176                   90-130                          -
+     Nut, Range Lever                   27-34                    20-25                          -
+    Bolt, Rear Retainer                 35-46                    26-34                          -
+      Nuts, Mounting                    35-47                    26-35                          -
+      Switch, Indicator                 20-34                    15-25                          -
+

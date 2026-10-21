@@ -1,0 +1,59 @@
+TJ                                                                                 ACCESSORY DRIVE           7 - 15
+BELT TENSIONERS (Continued)
+
+REMOVAL
+REMOVAL - 2.4L ENGINE
+NOTE: The belt routing schematics are published
+from the latest information available at the time of
+publication. If anything differs between these sche-
+matics and the Belt Routing Label, use the sche-
+matics on Belt Routing Label. This label is located
+in the engine compartment.
+
+
+CAUTION: DO NOT LET TENSIONER ARM SNAP
+BACK TO THE FREEARM POSITION, SEVERE DAM-
+AGE MAY OCCUR TO THE TENSIONER.
+
+  Belt tension is not adjustable. Belt adjustment is
+maintained by an automatic (spring load) belt ten-
+sioner.
+  (1) Disconnect negative battery cable from battery.
+  (2) Rotate belt tensioner until it contacts its stop.
+Remove belt, then slowly rotate the tensioner into
+the freearm position.                                        Fig. 2 Automatic Belt Tensioner - 4.0L Engine
+                                                          1 - IDLER PULLEY TIGHTEN TO 47 N·m (35 FT. LBS.)
+                                                          2 - AUTOMATIC BELT TENSIONER
+REMOVAL                                                   3 - GENERATOR MOUNTING BRACKET
+  On 4.0L engines, the tensioner arm has three
+marks. Upon installation of a new belt, the dou-          INSTALLATION
+ble line marks close to each other should be
+very close to the mark on the base. The belt              INSTALLATION - 2.4L ENGINE
+should be replaced if the single line mark lines
+up with the mark on the base.                             NOTE: The belt routing schematics are published
+  If the above specification cannot be met, check for:    from the latest information available at the time of
+  • The wrong belt being installed (incorrect length/     publication. If anything differs between these sche-
+width)                                                    matics and the Belt Routing Label, use the sche-
+  • Worn bearings on an engine accessory (A/C com-        matics on Belt Routing Label. This label is located
+pressor, power steering pump, water pump, idler pul-      in the engine compartment.
+ley or generator)
+  • A pulley on an engine accessory being loose            Belt tension is not adjustable. Belt adjustment is
+  • Misalignment of an engine accessory                   maintained by an automatic (spring load) belt tensioner.
+  • Belt incorrectly routed.                               (1) Check condition of all pulleys.
+
+NOTE: A used belt should be replaced if tensioner         CAUTION: When installing the serpentine accessory
+indexing arrow has moved to the minimum travel            drive belt, the belt MUST be routed correctly. If not,
+indicator. Tensioner travel stops at this point.          the engine may overheat due to the water pump
+                                                          rotating in the wrong direction.
+  (1) Remove accessory drive belt (Refer to 7 -
+COOLING/ACCESSORY DRIVE/DRIVE BELTS -                       (2) Install new belt (Fig. 3) or (Fig. 4). Route the
+REMOVAL).                                                 belt around all pulleys except the idler pulley. Rotate
+  (2) Remove tensioner assembly from mounting             the tensioner arm until it contacts its stop position.
+bracket (Fig. 2).                                         Route the belt around the idler and slowly let the
+                                                          tensioner rotate into the belt. Make sure the belt is
+WARNING: BECAUSE OF HIGH SPRING TENSION,                  seated onto all pulleys.
+DO NOT ATTEMPT TO DISASSEMBLE AUTOMATIC                     (3) With the drive belt installed, inspect the belt
+TENSIONER. UNIT IS SERVICED AS AN ASSEMBLY.               wear indicator. On 2.4L Engines the gap between the
+                                                          tang and the housing stop (measurement A) must not
+                                                          exceed 24 mm (.94 inches).
+

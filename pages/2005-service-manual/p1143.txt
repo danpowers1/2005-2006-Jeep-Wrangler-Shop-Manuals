@@ -1,0 +1,57 @@
+TJ                                                                                           PUMP     19 - 25
+POWER STEERING PRESSURE SWITCH (Continued)
+  When steering pump pressure exceeds 5860 kPa ±
+690 kPa (850 psi ± 100 psi), the normally closed
+switch will open and the PCM will increase the
+engine idle speed. This will prevent the engine from
+stalling.
+  When pump pressure drops to approximately 1379
+kPa (200 psi), the switch circuit will re-close and
+engine idle speed will return to its previous setting.
+
+REMOVAL
+  This switch is not used with 4.0L six-cylinder
+engines.
+  The power steering pressure switch is installed in
+the power steering high-pressure hose (Fig. 5).
+  (1) Disconnect electrical connector from power
+steering pressure switch.
+  (2) Place a small container or shop towel beneath                     Fig. 6 Pulley Removal
+switch to collect any excess fluid.                      1 - POWER STEERING PUMP DRIVE PULLEY
+  (3) Remove switch. Use back-up wrench on power         2 - SPECIAL TOOL C-4333
+steering line to prevent line bending.
+                                                            (1) Replace pulley if bent, cracked, or loose.
+INSTALLATION                                                (2) Install pulley on pump with Installer C-4063-B
+   This switch is not used with 4.0L six-cylinder        or equivalent installer (Fig. 7). The pulley must be
+engines.                                                 flush with the end of the shaft. Ensure the tool and
+   (1) Install power steering switch into power steer-   pulley are aligned with the pump shaft.
+ing line.
+   (2) Tighten to 14–22 N·m (124–195 in. lbs.) torque.
+   (3) Connect electrical connector to switch.
+   (4) Check power steering fluid and add as neces-
+sary.
+   (5) Start engine and again check power steering
+fluid. Add fluid if necessary.
+
+
+PULLEY
+REMOVAL
+CAUTION: On vehicles equipped with the 4.0L, Do
+not reuse the old power steering pump pulley it is
+not intended for reuse. A new pulley must be
+installed if removed.                                                  Fig. 7 Pulley Installation
+                                                         1- POWER STEERING PUMP DRIVE PULLEY
+  (1) Remove pump assembly.                              2 - SPECIAL TOOL C-4063-B
+  (2) Remove pulley from pump with Puller C-4333
+or equivalent puller (Fig. 6).                             (3) Install pump assembly.
+                                                           (4) With Serpentine Belt, run engine until warm (5
+INSTALLATION                                             min.) and note any belt chirp. If chirp exists, move
+                                                         pulley outward approximately 0.5 mm (0.020 in.). If
+NOTE: The pulley is marked front for installation.       noise increases, press on 1.0 mm (0.040 in.). Be
+                                                         careful that pulley does not contact mounting
+                                                         bolts.
+CAUTION: On vehicles equipped with the 4.0L, Do
+not reuse the old power steering pump pulley it is
+not intended for reuse. A new pulley must be
+installed if removed.
+

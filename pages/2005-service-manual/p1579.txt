@@ -1,0 +1,63 @@
+TJ                                                                                         CONTROLS         24 - 11
+
+
+A/C COMPRESSOR CLUTCH                                        • Powertrain control module (PCM)
+                                                             The A/C compressor clutch components cannot be
+                                                           repaired and, if faulty or damaged, they must be
+DESCRIPTION
+                                                           replaced.
+   The A/C compressor clutch assembly consists of a
+stationary electromagnetic A/C clutch field coil, a pul-
+ley bearing and pulley assembly, and a clutch plate        DIAGNOSIS AND TESTING
+(Fig. 1). These components provide the means to
+engage and disengage the A/C compressor from the           A/C COMPRESSOR CLUTCH COIL
+engine accessory drive belt.                                 The A/C compressor clutch coil electrical circuit is
+   The A/C clutch field coil and the pulley bearing        controlled by the powertrain control module (PCM)
+and pulley assembly are both retained on the nose of       through the A/C clutch relay. Begin testing of a sus-
+the A/C compressor with snap rings. The clutch plate       pected compressor clutch coil problem by performing
+is splined to the compressor shaft and secured with a      the preliminary checks.
+bolt.
+                                                           PRELIMINARY CHECKS
+                                                             (1) If no diagnostic trouble codes (DTCs) are found
+                                                           in the powertrain control module (PCM), go to Step
+                                                           2. If any DTCs are found, repair as required.
+                                                             (2) If the A/C compressor clutch still will not
+                                                           engage, verify the refrigerant charge level (Refer to
+                                                           24 - HEATING & AIR CONDITIONING/PLUMBING
+                                                           - DIAGNOSIS AND TESTING - REFRIGERANT
+                                                           SYSTEM LEAKS). If the refrigerant charge level is
+                                                           OK, go to Step 3. If the refrigerant charge level is not
+                                                           OK, adjust the refrigerant charge as required.
+                                                             (3) On models equipped with the 2.4L engine, if
+                                                           the A/C compressor clutch still will not engage, dis-
+                                                           connect the wire harness connector for the A/C pres-
+                                                           sure transducer and check for battery current at the
+                                                           connector with the engine running and the A/C-
+                                                           heater control set to the A/C mode. If OK, go to
+                                                           TESTS. If not OK, refer to the Body Diagnostic Pro-
+                                                           cedures to perform further diagnosis. On models
+            Fig. 1 A/C Compressor Clutch                   equipped with the 4.0L engine, go to TESTS.
+1 - BOLT
+2 - CLUTCH PLATE                                           TESTS
+3 - PULLEY AND BEARING                                       (1) Verify the battery state of charge (Refer to 8 -
+4 - FIELD COIL
+5 - SNAP RING                                              ELECTRICAL/BATTERY             SYSTEM/BATTERY            -
+6 - SNAP RING                                              DIAGNOSIS AND TESTING).
+7 - SHIMS                                                    (2) Connect an ammeter (0 to 10 ampere scale
+                                                           selected) in series with the clutch coil feed terminal.
+OPERATION                                                  Connect a voltmeter (0 to 20 volt scale selected) to
+  The A/C compressor clutch components provide the         measure voltage across the battery and the clutch
+means to engage and disengage the A/C compressor           coil.
+from the engine accessory drive belt. When the elec-         (3) With the A/C-heater control in the A/C mode
+tromagnetic A/C clutch field coil is energized, it mag-    and the blower motor at low speed, start the engine
+netically draws the clutch plate into contact with the     and allow it to run at a normal idle speed.
+clutch pulley and drives the compressor shaft. When          (4) The A/C compressor clutch should engage
+the coil is not energized, the pulley freewheels on the    immediately, and the clutch coil supply voltage
+clutch hub bearing, which is part of the pulley.           should be within two volts of the battery voltage. If
+  A/C clutch engagement is controlled by the follow-       the coil supply voltage is OK, go to Step 5. If the coil
+ing:                                                       supply voltage is not within two volts of battery volt-
+  • A/C-heater mode control                                age, test the clutch coil feed circuit for excessive volt-
+  • A/C clutch relay                                       age drop and repair as necessary. If there is no
+  • A/C high pressure switch                               voltage reading at the clutch coil, use a DRB III t
+  • A/C low pressure switch                                scan tool and refer to appropriate diagnostic informa-
+

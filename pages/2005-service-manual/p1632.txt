@@ -1,0 +1,72 @@
+24 - 64    PLUMBING                                                                                           TJ
+PLUMBING (Continued)
+WARNING: Take care not to open the discharge              HIGH PRESSURE RELIEF VALVE
+(high pressure) valve at this time.                         The high pressure relief valve vents the A/C sys-
+                                                          tem when a discharge pressure of 3445 to 4135 kPa
+  (8) Close the suction valve and test the A/C system     (500 to 600 psi) or above is reached. The high pres-
+performance (Refer to 24 - HEATING & AIR CONDI-           sure relief valve closes when a minimum discharge
+TIONING - STANDARD PROCEDURE - A/C PER-                   pressure of 2756 kPa (400 psi) is reached.
+FORMANCE TEST).                                             The high pressure relief valve vents only enough
+  (9) Disconnect the charging station and manifold        refrigerant to reduce the A/C system pressure, and
+gauge set from the refrigerant system service ports.      then re-seats itself. The majority of the refrigerant is
+  (10) Install the protective caps onto the refrigerant   conserved in the A/C system. If the valve vents
+system service ports.                                     refrigerant, it does not mean that the valve is faulty.
+                                                            The high pressure relief valve is factory-calibrated.
+A/C COMPRESSOR                                            The high pressure relief valve cannot be adjusted or
+                                                          repaired, and must not be removed or otherwise dis-
+                                                          turbed. The high pressure relief valve is only ser-
+DESCRIPTION                                               viced as a part of the A/C compressor.
+
+A/C COMPRESSOR                                            DIAGNOSIS AND TESTING
+  The A/C system uses a Denso 10PA17 seven cylin-
+der, reciprocating wobble plate-type A/C compressor
+                                                          A/C COMPRESSOR NOISE
+on all models. This A/C compressor has a fixed dis-
+                                                             When investigating an A/C system related noise,
+placement of 150 cubic centimeters (9.375 cubic
+                                                          you must first know the conditions under which the
+inches), and has both the suction and discharge ports
+                                                          noise occurs. These conditions include: weather, vehi-
+located on the cylinder head.
+                                                          cle speed, transmission in gear or neutral, engine
+  A label identifying the use of R-134a refrigerant is
+                                                          speed, engine temperature, and any other special
+located on the A/C compressor.
+                                                          conditions. Noises that develop during A/C operation
+                                                          can often be misleading. For example: What sounds
+HIGH PRESSURE RELIEF VALVE                                like a failed front engine bearing or connecting rod,
+   A high pressure relief valve is located on the com-
+                                                          may be caused by loose bolts, nuts, mounting brack-
+pressor manifold. This mechanical valve is designed
+                                                          ets or a loose compressor clutch assembly.
+to vent refrigerant from the A/C system to protect
+                                                             Drive belts are speed sensitive. At different engine
+against damage to the A/C compressor and other A/C
+                                                          speeds and depending upon drive belt tension, drive
+system components, caused by a restriction in air
+                                                          belts can develop noises that are mistaken for an A/C
+flow through the A/C condenser or, an overcharge of
+                                                          compressor noise. Improper drive belt tension can
+refrigerant.
+                                                          cause a misleading noise when the compressor clutch
+                                                          is engaged, which may not occur when the compres-
+OPERATION                                                 sor clutch is disengaged. Check the accessory drive
+                                                          belt condition and tension as described in Cooling
+A/C COMPRESSOR                                            before beginning this procedure.
+   The A/C compressor is driven by the engine                (1) Select a quiet area for testing. Duplicate the
+through an electric clutch, drive pulley and belt         complaint conditions as much as possible. Switch the
+arrangement. The A/C compressor is lubricated by          compressor on and off several times to clearly iden-
+refrigerant oil that is circulated throughout the         tify the compressor noise. Listen to the compressor
+refrigerant system with the refrigerant.                  while the clutch is engaged and disengaged. Probe
+   The A/C compressor draws in low-pressure refrig-       the compressor with an engine stethoscope or a long
+erant vapor from the A/C evaporator through its suc-      screwdriver with the handle held to your ear to bet-
+tion port. It then compresses the refrigerant into a      ter localize the source of the noise.
+high-pressure, high-temperature refrigerant vapor,           (2) Loosen all of the compressor mounting hard-
+which is then pumped to the A/C condenser through         ware and retighten. Tighten the compressor clutch
+the compressor discharge port.                            mounting nut. Be certain that the clutch coil is
+   The A/C compressor cannot be repaired and, if          mounted securely to the compressor, and that the
+faulty or damaged, it must be replaced. The compres-      clutch plate and pulley are properly aligned and have
+sor clutch, pulley and bearing assembly, and clutch       the correct air gap (Refer to 24 - HEATING & AIR
+field coil are available for service.                     CONDITIONING/CONTROLS/A/C              COMPRESSOR
+                                                          CLUTCH - INSTALLATION).
+

@@ -1,0 +1,51 @@
+TJ                                                                                          ENGINE 2.4L          9-7
+ENGINE 2.4L (Continued)
+CAUTION: Use extreme caution when crankshaft                 and corrections of malfunctions (Refer to 9 - ENGINE
+polishing is necessary to remove minor nicks and             - DIAGNOSIS AND TESTING - MECHANICAL)
+scratches. The crankshaft seal flange is especially          (Refer to 9 - ENGINE - DIAGNOSIS AND TESTING
+machined to complement the function of the rear oil          - PERFORMANCE).
+seal.                                                          For fuel system diagnosis, (Refer to 14 - FUEL
+                                                             SYSTEM/FUEL DELIVERY - DIAGNOSIS AND
+  (6) For bubbles that remain steady with shaft              TESTING).
+rotation, no further inspection can be done until dis-         Additional tests and diagnostic procedures may be
+assembled.                                                   necessary for specific engine malfunctions that can-
+  (7) After the oil leak root cause and appropriate          not be isolated with the Service Diagnosis charts.
+corrective action have been identified, replace compo-       Information concerning additional tests and diagno-
+nent(s) as necessary.                                        sis is provided within the following:
+                                                               • Cylinder Compression Pressure Test
+ENGINE DIAGNOSIS                                               • Cylinder Combustion Pressure Leakage Test
+   Engine diagnosis is helpful in determining the              • Engine Cylinder Head Gasket Failure Diagnosis
+causes of malfunctions not detected and remedied by            • Intake Manifold Leakage Diagnosis
+routine maintenance.                                           • Lash Adjuster (Tappet) Noise Diagnosis
+   These malfunctions may be classified as either              • Engine Oil Leak Inspection
+mechanical (e.g., a strange noise), or performance
+(e.g., engine idles rough and stalls).
+   Refer to the Engine Mechanical and the Engine
+Performance diagnostic charts, for possible causes
+
+ENGINE MECHANICAL
+
+            CONDITION                         POSSIBLE CAUSES                            CORRECTION
+
+VALVETRAIN NOISE                      1. High or low oil level in             1. Check and correct engine oil
+                                      crankcase.                              level.
+
+                                      2. Thin or diluted oil.                 2. Change oil to correct viscosity.
+                                      3. Thick oil                            3. (a) Change engine oil and filter.
+                                                                              (b) Run engine to operating
+                                                                              temperature.
+                                                                              (c) Change engine oil and filter
+                                                                              again.
+                                      4. Low oil pressure.                    4. Check and correct engine oil
+                                                                              level.
+                                      5. Dirt in tappets/lash adjusters.      5. Replace rocker arm/hydraulic
+                                                                              lash adjuster assembly.
+                                      6. Worn rocker arms.                    6. Inspect oil supply to rocker arms.
+                                      7. Worn tappets/lash adjusters.         7. Install new rocker arm/hydraulic
+                                                                              lash adjuster assembly.
+                                      8. Worn valve guides.                   8. Replace cylinder head assembly.
+                                      9. Excessive runout of valve seats      9. Grind valve seats and valves.
+                                      on valve faces.
+                                      10. Missing adjuster pivot.             10. Replace rocker arm/hydraulic
+                                                                              lash adjuster assembly.
+

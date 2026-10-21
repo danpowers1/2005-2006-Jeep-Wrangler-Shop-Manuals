@@ -1,0 +1,60 @@
+24 - 60    PLUMBING                                                                                          TJ
+PLUMBING (Continued)
+SYSTEM LOW
+   (1) Position the vehicle in a wind-free work area.
+This will aid in detecting small leaks.
+   (2) Bring the refrigerant system up to operating
+temperature and pressure. This is done by allowing
+the engine to run at idle under the following condi-
+tions for five minutes, then turning the engine off.
+     (a) Front windows open.
+     (b) Transmision in Park or Neutral with the
+   park brake set.
+     (c) A/C-heater controls set to fresh air, panel
+   mode, high blower speed and A/C compressor
+   engaged.
+   (3) Wait five to seven minutes and, with the
+engine not running, use a electronic R-134a leak
+detector and search for leaks. Because R-134a refrig-
+erant is heavier than air, the leak detector probe         Fig. 1 Refrigerant Recovery/Recycling Station -
+should be moved slowly along the bottom side of all                            Typical
+refrigerant lines, connector fittings and components.    1 - R-134a REFRIGERANT STATION
+   (4) To inspect an A/C evaporator for leaks, insert
+the electronic leak detector probe into a floor outlet   MANIFOLD GAUGE SET
+or the recirculation air intake.                           A manifold gauge set may be needed with some
+                                                         recovery/recycling/charging equipment (Fig. 2). The
+                                                         service hoses on the gauge set being used should
+STANDARD PROCEDURE                                       have manual (turn wheel), or automatic back-flow
+                                                         valves at the service port connector ends. This will
+REFRIGERANT SYSTEM SERVICE EQUIPMENT                     prevent refrigerant from being released into the
+                                                         atmosphere.
+WARNING: Refer to the applicable warnings and
+cautions for this system before performing the fol-      MANIFOLD GAUGE SET CONNECTIONS
+lowing operation (Refer to 24 - HEATING & AIR
+CONDITIONING/PLUMBING - WARNINGS) and (Refer             CAUTION: Do not use an R-12 manifold gauge set
+to 24 - HEATING & AIR CONDITIONING/PLUMBING -            on an R-134a system. The refrigerants are not com-
+CAUTIONS). Failure to follow the warnings and cau-       patible and system damage will result.
+tions could result in possible personal injury or
+death.                                                      • LOW PRESSURE GAUGE HOSE - The low
+                                                         pressure hose (Blue with Black stripe) attaches to
+                                                         the suction (low-side) service port. This port is
+WARNING: Eye protection must be worn when ser-           located on the A/C liquid line.
+vicing an air conditioning refrigerant system. Turn         • HIGH PRESSURE GAUGE HOSE - The high
+off (rotate clockwise) all valves on the equipment       pressure hose (Red with Black stripe) attaches to the
+being used, before connecting to or disconnecting        discharge (high-side) service port. This port is located
+from the refrigerant system. Failure to observe          on the A/C discharge line.
+these warnings may result in personal injury or             • RECOVERY, RECYCLING, EVACUATION
+death.                                                   AND CHARGING HOSE - The center manifold
+                                                         hose (Yellow, or White, with Black stripe) is used to
+                                                         recover, evacuate, and charge the refrigerant system.
+RECOVERY/RECYCLING STATION
+                                                         When the low or high pressure valves on the mani-
+  When servicing the A/C system, a R-134a refriger-      fold gauge set are opened, the refrigerant in the sys-
+ant recovery/recycling/charging station that meets       tem will escape through this hose.
+SAE Standard J2210 must be used (Fig. 1). Contact
+an automotive service equipment supplier for refrig-
+erant recovery/recycling/charging equipment. See the
+operating instructions supplied by the equipment
+manufacturer for proper care and use of this equip-
+ment.
+

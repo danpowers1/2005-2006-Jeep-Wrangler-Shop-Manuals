@@ -1,0 +1,52 @@
+TJ                                                                                       CONTROLS        24 - 15
+A/C COMPRESSOR CLUTCH (Continued)
+  (9) Install the compressor shaft bolt. Tighten the      OPERATION
+bolt to 13 N·m (115 in. lbs.).                              The A/C clutch relay is an electromechanical
+  (10) Install the accessory drive belt (Refer to 7 -     switch that uses a low current input controlled by
+COOLING/ACCESSORY DRIVE/DRIVE BELTS -                     the powertrain control module (PCM) to control the
+INSTALLATION).                                            high current output to the A/C clutch field coil. The
+  (11) Reconnect the negative battery cable.              movable, common feed relay contact is held against
+                                                          the fixed, normally closed relay contact by spring
+                                                          pressure. When the electromagnetic relay coil is
+A/C CLUTCH RELAY                                          energized, it draws the movable common feed relay
+                                                          contact away from the fixed, normally closed relay
+DESCRIPTION                                               contact and, holds it against the fixed, normally open
+  The A/C clutch relay (Fig. 9) is a International        relay contact. This action allows high current to flow
+Standards Organization (ISO) micro-relay. Relays          to the A/C clutch field coil.
+conforming to the ISO specifications have common            When the relay coil is de-energized, spring pres-
+physical dimensions, current capacities, terminal         sure returns the movable relay contact back against
+functions and patterns. The ISO micro-relay terminal      the fixed, normally closed contact point. The resistor
+functions are the same as a conventional ISO relay.       or diode is connected in parallel with the relay coil,
+However, the ISO micro-relay terminal pattern (or         and helps to dissipate voltage spikes and electromag-
+footprint) is different, the current capacity is lower,   netic interference that can be generated as the elec-
+and the physical dimensions are smaller than those        tromagnetic field of the relay coil collapses.
+of the conventional ISO relay.                              The A/C clutch relay terminals are connected to
+  The A/C clutch relay is located in the power distri-    the vehicle electrical system through a receptacle in
+bution center (PDC) in the engine compartment.            the power distribution center (PDC). The inputs and
+                                                          outputs of the A/C clutch relay include:
+                                                            • The common feed terminal (A10) receives bat-
+                                                          tery current through a fuse in the PDC at all times.
+                                                            • The coil ground terminal (A8) receives a ground
+                                                          input from the PCM through the A/C clutch relay
+                                                          control circuit only when the PCM electronically
+                                                          pulls the control circuit to ground.
+                                                            • The coil battery terminal (A6) receives battery
+                                                          current through a fuse in the fuse block only when
+                                                          the ignition switch is in the Run or Start position.
+                                                            • The normally open terminal (A9) provides bat-
+                                                          tery current to the A/C clutch coil through the A/C
+                                                          clutch relay only when the A/C clutch relay coil is
+        Fig. 9 A/C Compressor Clutch Relay                energized.
+30 - COMMON FEED
+                                                            • The normally closed terminal (87A) is not con-
+85 - COIL GROUND                                          nected to any circuit in this application, but provides
+86 - COIL BATTERY                                         a battery current output only when the A/C clutch
+87 - NORMALLY OPEN
+87A - NORMALLY CLOSED
+                                                          relay coil is de-energized.
+                                                            The A/C clutch relay cannot be repaired and, if
+                                                          faulty or damaged, it must be replaced. Refer to the
+                                                          appropriate wiring information for diagnosis and
+                                                          testing of the ISO-standard micro-relay and for com-
+                                                          plete HVAC wiring diagrams.
+

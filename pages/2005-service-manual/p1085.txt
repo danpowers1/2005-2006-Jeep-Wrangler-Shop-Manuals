@@ -1,0 +1,42 @@
+TJ                                                                                     FUEL DELIVERY        14 - 9
+FUEL RAIL - 4.0L ENGINE (Continued)
+
+
+
+
+                                                                    Fig. 10 FUEL RAIL MOUNTING - 4.0L
+     Fig. 9 REMOVE/INSTALL FUEL INJECTOR
+                 CONNECTOR                                  1 - INJ. #1
+                                                            2 - INJ. #2
+nector onto injector (1) and then push and lock red         3 - INJ. #3
+                                                            4 - INJ. #4
+colored slider (2). Verify connector is locked to injec-    5 - INJ. #5
+tor by lightly tugging on connector.                        6 - INJ. #6
+   (7) Connect fuel line and fuel line latch clip to fuel   7 - FUEL INJECTOR RAIL
+                                                            8 - FUEL DAMPER
+rail. Refer Quick-Connect Fittings.                         9 - PRESSURE TEST PORT CAP
+   (8) Install protective cap to pressure test port fit-    10 - MOUNTING BOLTS (4)
+ting (if equipped).                                         11 - QUICK-CONNECT FITTING
+   (9) Install cable routing bracket to intake mani-
+fold.                                                       OPERATION
+   (10) Connect throttle cable at throttle body.              All models pass a full 360 degree rollover test
+   (11) Connect speed control cable at throttle body (if    without fuel leakage. To accomplish this, fuel and
+equipped).                                                  vapor flow controls are required for all fuel tank con-
+   (12) Connect automatic transmission cable at             nections.
+throttle body (if equipped).                                  A fuel tank check valve(s) is mounted into the top
+   (13) Install air tube (or duct) at top of throttle       of the fuel tank (or pump module). Refer to Fuel
+body.                                                       Tank Check Valve for additional information.
+   (14) Install fuel tank cap.                                An evaporation control system is connected to the
+   (15) Connect negative battery cable to battery.          check valve(s) to reduce emissions of fuel vapors into
+   (16) Start engine and check for fuel leaks.              the atmosphere. When fuel evaporates from the fuel
+                                                            tank, vapors pass through vent hoses or tubes to a
+                                                            charcoal canister where they are temporarily held.
+FUEL TANK                                                   When the engine is running, the vapors are drawn
+                                                            into the intake manifold. Certain models are also
+DESCRIPTION                                                 equipped with a self-diagnosing system using either
+  The fuel tank is constructed of a plastic material.       a Leak Detection Pump (LDP), or an NVLD pump.
+Its main functions are for fuel storage and for place-      Refer to Emission Control System for additional
+ment of the fuel pump module.                               information.
+                                                              Refer to ORVR for On-Board Refueling Vapor
+                                                            Recovery system information.
+

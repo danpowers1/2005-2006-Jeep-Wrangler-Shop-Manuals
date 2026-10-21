@@ -1,0 +1,50 @@
+TJ                                                                                         ENGINE 4.0L        9 - 71
+ENGINE 4.0L (Continued)
+
+DIAGNOSIS AND TESTING                                      DIAGNOSIS AND TESTING) (MECHANICAL) for
+                                                           possible causes and corrections of malfunctions.
+DIAGNOSIS AND TESTING - ENGINE                               Additional tests and diagnostic procedures may be
+                                                           necessary for specific engine malfunctions that can
+DIAGNOSIS - INTRODUCTION                                   not be isolated with the Service Diagnosis charts.
+  Engine diagnosis is helpful in determining the
+                                                           Information concerning additional tests and diagno-
+causes of malfunctions not detected and remedied by        sis is provided within the following diagnosis:
+routine maintenance.
+                                                             • (Refer to 9 - ENGINE - DIAGNOSIS AND
+  These malfunctions may be classified as either per-
+                                                           TESTING) (PERFORMANCE)
+formance (e.g., engine idles rough and stalls) or
+                                                             • (Refer to 9 - ENGINE - DIAGNOSIS AND
+mechanical (e.g., a strange noise).
+                                                           TESTING) (MECHANICAL)
+  (Refer to 9 - ENGINE - DIAGNOSIS AND TEST-
+ING) (PERFORMANCE) or (Refer to 9 - ENGINE -
+
+DIAGNOSIS AND TESTING - ENGINE DIAGNOSIS - PERFORMANCE
+                             ENGINE PERFORMANCE DIAGNOSIS CHART
+
+            CONDITION                        POSSIBLE CAUSES                              CORRECTION
+
+ENGINE WILL NOT CRANK                1. Weak or dead battery                   1. Charge/Replace Battery. (Refer to
+                                                                               8 - ELECTRICAL/BATTERY
+                                                                               SYSTEM/BATTERY - STANDARD
+                                                                               PROCEDURE), for correct
+                                                                               procedures. Check charging system.
+                                                                               (Refer to 8 - ELECTRICAL/
+                                                                               CHARGING - DIAGNOSIS AND
+                                                                               TESTING), for correct procedures.
+
+                                     2. Corroded or loose battery              2. Clean/tighten suspect battery/
+                                     connections                               starter connections
+                                     3. Faulty starter or related circuit(s)   3. Check starting system. (Refer to
+                                                                               8 - ELECTRICAL/STARTING -
+                                                                               DIAGNOSIS AND TESTING), for
+                                                                               correct diagnostics/procedures
+                                     4. Siezed accessory drive                 4. Remove accessory drive belt and
+                                     component                                 attempt to start engine. If engine
+                                                                               starts, repair/replace siezed
+                                                                               component.
+                                     5. Engine internal mechanical             5. (Refer to 9 - ENGINE -
+                                     failure or hydro-static lock              DIAGNOSIS AND TESTING), for
+                                                                               correct diagnostics/procedures
+

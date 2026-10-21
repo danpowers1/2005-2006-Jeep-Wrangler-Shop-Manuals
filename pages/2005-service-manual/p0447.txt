@@ -1,0 +1,60 @@
+TJ                                                                           INSTRUMENT CLUSTER            8J - 21
+ABS INDICATOR (Continued)
+position and within about two seconds check for con-        illuminated from behind by the LED, which is sol-
+tinuity between the ABS warning indicator driver cir-       dered onto the instrument cluster electronic circuit
+cuit cavity of the instrument panel wire harness            board. The airbag indicator is serviced as a unit with
+connector (Connector C2) for the instrument cluster         the instrument cluster.
+and a good ground. There should be continuity for
+about two seconds after ignition On, and then an            OPERATION
+open circuit. If OK, proceed to the diagnosis for the          The airbag indicator gives an indication to the
+ABS brake system. (Refer to 5 - BRAKES - DIAGNO-            vehicle operator when the airbag system is faulty or
+SIS AND TESTING). If not OK, go to Step 2.                  inoperative. The airbag indicator is controlled by a
+   (2) Turn the ignition switch to the Off position.        transistor on the instrument cluster circuit board
+Disconnect and isolate the battery negative cable.          based upon cluster programming and electronic mes-
+Remove the Controller Antilock Brake (CAB) relay            sages received by the cluster from the Airbag Control
+from the Power Distribution Center (PDC). Check for         Module (ACM) over the Programmable Communica-
+continuity between the ABS warning indicator driver         tions Interface (PCI) data bus. The airbag indicator
+circuit cavity of the instrument panel wire harness         Light Emitting Diode (LED) is completely controlled
+connector (Connector C2) for the instrument cluster         by the instrument cluster logic circuit, and that logic
+and a good ground. There should be no continuity. If        will only allow this indicator to operate when the
+OK, go to Step 3. If not OK, repair the shorted ABS         instrument cluster receives a battery current input
+warning indicator driver circuit between the instru-        on the fused ignition switch output (run-start) cir-
+ment cluster and the PDC as required.                       cuit. Therefore, the LED will always be off when the
+   (3) Check for continuity between the ABS warning         ignition switch is in any position except On or Start.
+indicator driver circuit cavities of the instrument         The LED only illuminates when it is provided a path
+panel wire harness connector (Connector C2) for the         to ground by the instrument cluster transistor. The
+instrument cluster and the CAB relay receptacle in          instrument cluster will turn on the airbag indicator
+the PDC. There should be continuity. If OK, proceed         for the following reasons:
+to the diagnosis for the ABS brake system. (Refer to           • Bulb Test - Each time the ignition switch is
+5 - BRAKES - DIAGNOSIS AND TESTING). If not                 turned to the On position the airbag indicator is illu-
+OK, repair the open ABS warning indicator driver            minated for about seven seconds. The first two sec-
+circuit between the instrument cluster and the PDC          onds is the cluster bulb test function, and the
+as required.                                                remainder is the ACM bulb test function.
+                                                               • ACM Lamp-On Message - Each time the clus-
+                                                            ter receives a lamp-on message from the ACM, the
+AIRBAG INDICATOR                                            airbag indicator will be illuminated. The indicator
+                                                            remains illuminated for about twelve seconds or until
+DESCRIPTION                                                 the cluster receives a lamp-off message from the
+                                                            ACM, whichever is longer.
+                                                               • Communication Error - If the cluster receives
+                                                            no airbag messages for five consecutive seconds, the
+                                                            airbag indicator is illuminated. The indicator
+                Fig. 8 Airbag Indicator                     remains illuminated until the cluster receives a sin-
+                                                            gle lamp-off message from the ACM.
+   An airbag indicator is standard equipment on all            • Actuator Test - Each time the cluster is put
+instrument clusters (Fig. 8). However, the instrument       through the actuator test, the airbag indicator will be
+cluster can be programmed to disable this indicator         turned on, then off again during the bulb check por-
+on vehicles that are not equipped with the airbag           tion of the test to confirm the functionality of the
+system, which is not available in some markets. The         LED and the cluster control circuitry. The actuator
+airbag indicator is located near the lower edge of the      test illumination of the airbag indicator is a function
+instrument cluster, to the right of center. The airbag      of the ACM.
+indicator consists of a stencil-like cutout of the Inter-      The ACM continually monitors the airbag system
+national Control and Display Symbol icon for “Air-          circuits and sensors to decide whether the system is
+bag” in the opaque layer of the instrument cluster          in good operating condition. The ACM then sends the
+overlay. The dark outer layer of the overlay prevents       proper lamp-on or lamp-off messages to the instru-
+the indicator from being clearly visible when it is not     ment cluster. If the ACM sends a lamp-on message
+illuminated. A red Light Emitting Diode (LED)               after the bulb test, it indicates that the ACM has
+behind the cutout in the opaque layer of the overlay        detected a system malfunction and/or that the air-
+causes the icon to appear in red through the translu-       bags may not deploy when required, or may deploy
+cent outer layer of the overlay when the indicator is
+

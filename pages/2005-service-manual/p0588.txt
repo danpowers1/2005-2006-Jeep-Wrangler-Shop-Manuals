@@ -1,0 +1,59 @@
+8R - 26    REAR WIPERS/WASHERS                                                                               TJ
+REAR WIPERS/WASHERS (Continued)
+  • Rear Wiper Motor - The rear wiper motor out-         to the Off position following rear washer operation in
+put shaft is the only visible component of the rear      order to turn the rear wiper system off.
+wiper motor. The remainder of the motor is concealed
+behind a plastic trim cover on the inside of the lift-   OPERATION
+glass near the upper right liftglass hinge. The rear        The rear wiper and washer system is designed to
+wiper motor includes the motor bracket, the rear         provide the vehicle operator with a convenient, safe,
+wiper motor, an internal automatic resetting circuit     and reliable means of maintaining visibility through
+breaker, a diode, and the rear wiper motor park          the rear liftglass. The various components of this sys-
+switch.                                                  tem are designed to convert electrical energy pro-
+  • Washer Reservoir - The rear washer system            duced by the vehicle electrical system into the
+shares a single reservoir with the front washer sys-     mechanical action of the wiper blade to wipe the out-
+tem, but has its own dedicated washer pump/motor         side surface of the glass, as well as into the hydraulic
+unit and unique plumbing provisions. The reservoir       action of the washer system to apply washer fluid
+is secured to the top of the left front fender wheel     stored in an on-board reservoir to the area of the
+house within the engine compartment of the vehicle.      glass to be wiped. When combined, these components
+  Hard wired circuitry connects the rear wiper and       provide the means to effectively maintain clear visi-
+washer system components to the electrical system of     bility for the vehicle operator by removing excess
+the vehicle. These hard wired circuits are integral to   accumulations of rain, snow, bugs, mud, or other
+several wire harnesses, which are routed throughout      minor debris that might be encountered while driv-
+the vehicle and retained by many different methods.      ing the vehicle under numerous types of inclement
+These circuits may be connected to each other, to the    operating conditions from the outside of the liftglass
+vehicle electrical system and to the rear wiper and      surface.
+washer system components through the use of a com-          The vehicle operator initiates all rear wiper and
+bination of soldered splices, splice block connectors,   washer system functions with the rear wiper and
+and many different types of wire harness terminal        washer switch located in the accessory switch bezel,
+connectors and insulators. Refer to the appropriate      just below the heater and air conditioner controls in
+wiring information. The wiring information includes      the center stack area of the instrument panel. Mov-
+wiring diagrams, proper wire and connector repair        ing the switch rocker downward to a detent position
+procedures, further details on wire harness routing      selects the rear wiper system fixed cycle operating
+and retention, as well as pin-out and location views     mode. Moving the switch rocker downward past the
+for the various wire harness connectors, splices and     wipe mode detent actuates the momentary rear
+grounds.                                                 washer system switch.
+                                                            The rear wiper and washer system will only oper-
+OPERATING MODES                                          ate when the ignition switch is in the On position.
+   The components of the rear wiper and washer sys-      When the ignition switch is in the On position, bat-
+tem are designed to work in concert to provide the       tery current is directed from a fuse in the Power Dis-
+following operating modes:                               tribution Center (PDC) to the rear wiper and washer
+   • Continuous Wipe Mode - When the rear wiper          system fuse in the fuse block. This fuse provides bat-
+and washer switch rocker is moved to the Wipe posi-      tery current through a fused ignition switch output
+tion, the rear wiper will be operated in a continuous    (run) circuit to the rear wiper and washer switch,
+manner at a fixed wipe cycle speed until the switch      and to one fixed contact of the rear wiper motor park
+is moved to the Off position. When the Off position is   switch.
+selected, the rear wiper motor will continue to oper-       The hard wired circuits and components of the rear
+ate until the current wipe cycle is complete, then       wiper and washer system may be diagnosed and
+park the wiper blade in a horizontal position near       tested using conventional diagnostic tools and proce-
+the top of the liftglass.                                dures.
+   • Washer Mode - The rear wiper and washer
+switch rocker must first be moved to the Wipe detent     OPERATING MODES
+in order to access the momentary Wash position and         Following are paragraphs that briefly describe the
+operate the rear washer system. When the Wash            operation of each of the rear wiper and washer sys-
+position is selected, the rear washer system will dis-   tem operating modes.
+pense washer fluid onto the liftglass and the rear
+wiper motor will operate in a continuous mode for as     CONTINUOUS WIPE MODE
+long as the switch is held closed. The rear wiper and      When the Wipe position of the rear wiper and
+washer switch rocker must be manually moved back         washer switch rocker is selected, the Wipe mode cir-
+                                                         cuitry within the switch directs battery current
+

@@ -1,0 +1,40 @@
+21 - 154       AUTOMATIC TRANSMISSION - 42RLE                                                            TJ
+VALVE BODY (Continued)
+
+
+
+
+            Fig. 269 Remove Valve Body Bolts
+1 - BOLTS
+
+  (7) Remove valve body bolts-to-case (1) (Fig. 269).         Fig. 271 Manual Shaft Retaining Screw
+                                                        1 - SCREW
+                                                        2 - TRS
+
+                                                         (2) Remove manual shaft screw (1) (Fig. 271).
+
+
+
+
+ Fig. 270 Remove Valve Body From Transmission
+1 - VALVE BODY
+
+CAUTION: The overdrive and underdrive accumula-
+tors and springs may fall out when removing the
+valve body.
+
+  (8) Carefully remove valve body assembly (1) from          Fig. 272 Manual Shaft/Rooster Comb and
+the transmission (Fig. 270).                                        Transmission Range Sensor
+                                                        1 - TRANSMISSION RANGE SENSOR
+                                                        2 - MANUAL SHAFT
+DISASSEMBLY                                             3 - ROOSTER COMB
+
+NOTE: If the valve body is being reconditioned or         (3) Remove Transmission Range Sensor (TRS) (1)
+replaced, it is necessary to perform the Quick Learn    and manual shaft (2) (Fig. 272).
+Procedure using the DRBIIIT Scan Tool (Refer to 8 -
+ELECTRICAL/ELECTRONIC CONTROL MODULES/
+TRANSMISSION CONTROL MODULE - STANDARD
+PROCEDURE)
+
+  (1) Remove manual shaft seal.
+

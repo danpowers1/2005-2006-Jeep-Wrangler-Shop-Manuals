@@ -1,0 +1,52 @@
+9 - 16      ENGINE 2.4L                                                                                                  TJ
+ENGINE 2.4L (Continued)
+
+                        CAMSHAFT                                                   VALVE SEAT
+
+ DESCRIPTION                   SPECIFICATION                   DESCRIPTION                 SPECIFICATION
+                           Metric               Standard                               Metric            Standard
+Journal                25.976 - 25.995     1.022 - 1.023 in.   Angle                            44.5 - 45°
+Diameter No. 1              mm                                 Seat Diameter -      34.37 - 34.63     1.353 - 1.363 in.
+-6                                                             Intake                   mm
+Bearing                                                        Seat Diameter -      27.06 - 27.32     1.065 - 1.075 in.
+                        0.025 - 0.065      0.0009 - 0.0025
+Clearance -                                                    Exhaust                  mm
+                            mm                   in.
+Diametrical
+                                                                 Runout (Max.)        0.05 mm                0.002 in.
+End Play               0.05 - 0.17 mm      0.0019 - 0.0066
+                                                               Valve Seat           0.9 - 1.3 mm      0.035 - 0.051 in.
+                                                 in.
+                                                               Width - Intake
+Lift (Zero Lash)                                               and Exhaust
+             Intake       8.25 mm               0.324 in.        Service Limit -      2.0 mm                 0.079 in.
+           Exhaust        6.60 mm               0.259 in.                Intake
+Intake Valve                                                     Service Limit -      2.5 mm                 0.098 in.
+Timing*                                                                Exhaust
+ Closes (ABDC)                          44.3°
+                                                                                   VALVE GUIDE
+  Opens (ATDC)                          6.2°
+           Duration                 218.1°
+                                                               DESCRIPTION                 SPECIFICATION
+Exhaust Valve
+                                                                                       Metric            Standard
+Timing*
+                                                               Diameter I.D.        5.975 - 6.000     0.235 - 0.236 in.
+  Closes (ATDC)                         0.8°
+                                                                                        mm
+  Opens (BBDC)                          39.9°                  Guide Bore           11.0 - 11.02      0.4330 - 0.4338
+           Duration                 220.7°                     Diameter                 mm                  in.
+Valve Overlap                           5.4°                   Guide Height         13.25 - 13.75     0.521 - 0.541 in.
+*                                                              (spring seat to          mm
+All reading in crankshaft degrees at 0.5 mm (0.019             guide tip)
+in.) valve lift.
+
+                      CYLINDER HEAD
+
+ DESCRIPTION                   SPECIFICATION
+                           Metric               Standard
+Material                        Cast Aluminum
+Gasket                    0.71 mm               0.028 in.
+Thickness
+(Compressed)
+

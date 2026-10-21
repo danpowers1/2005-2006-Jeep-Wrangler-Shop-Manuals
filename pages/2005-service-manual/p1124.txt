@@ -1,0 +1,60 @@
+19 - 6      COLUMN                                                                                                                        TJ
+
+
+                                                           COLUMN
+
+                                                        TABLE OF CONTENTS
+                                                              page                                                                      page
+
+COLUMN                                                                  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 6    KEY-IN IGNITION SWITCH
+  OPERATION - SERVICE PRECAUTIONS . . . . . . 6                         DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  REMOVAL    .............................6                             DIAGNOSIS AND TESTING - KEY-IN IGNITION
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 8      SWITCH     . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+  SPECIFICATIONS                                                       KEY CYLINDER
+    TORQUE CHART       ......................9                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+IGNITION SWITCH                                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 11
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 9    STEERING WHEEL
+  DIAGNOSIS AND TESTING - IGNITION                                      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+    SWITCH   .............................9                             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 12
+  REMOVAL    .............................9
+
+COLUMN                                                                 ACCIDENTAL DEPLOYMENT OF THE AIRBAG AND
+                                                                       POSSIBLE PERSONAL INJURY. THE FASTENERS,
+                                                                       SCREWS, AND BOLTS, ORIGINALLY USED FOR
+DESCRIPTION
+                                                                       THE AIRBAG COMPONENTS, HAVE SPECIAL COAT-
+NOTE: The steering column on vehicles with an                          INGS AND ARE SPECIFICALLY DESIGNED FOR THE
+automatic transmission may not be equipped with                        AIRBAG SYSTEM. THEY MUST NEVER BE
+an internal locking shaft that allows the ignition key                 REPLACED WITH ANY SUBSTITUTES. ANYTIME A
+cylinder to be locked with the key. Alternative meth-                  NEW FASTENER IS NEEDED, REPLACE WITH THE
+ods of locking the steering wheel for service will                     CORRECT FASTENERS PROVIDED IN THE SERVICE
+have to be used.                                                       PACKAGE OR FASTENERS LISTED IN THE PARTS
+                                                                       BOOKS.
+  The standard non-tilt and tilt steering column has
+been designed to be serviced as an assembly. The col-                  REMOVAL
+umn is connected to the steering gear with an upper                      (1) Position front wheels straight ahead.
+and lower shaft. The lower shaft has a support bear-                     (2) Remove and isolate the negative ground cable
+ing mounted to a bracket. The bracket mounts to the                    from the battery.
+frame rail with two bolts. These shafts and bearing                      (3) Remove the airbag, (Refer to 8 - ELECTRICAL/
+are serviceable. The key cylinder, switches, clock                     RESTRAINTS/DRIVER AIRBAG - REMOVAL).
+spring, trim shrouds and steering wheel are serviced
+separately.                                                            NOTE: If equipped with cruise control, disconnect
+                                                                       clock spring harness from the cruise switch har-
+OPERATION - SERVICE PRECAUTIONS                                        ness on the steering wheel.
+  Safety goggles should be worn at all times when
+                                                                         (4) Remove the steering wheel with an appropriate
+working on steering columns.
+                                                                       puller (Fig. 1).
+  To service the steering wheel, switches or airbag,
+refer to Electrical - Restraints and follow all WARN-                  NOTE: Ensure the puller jaws are seated in the
+INGS and CAUTIONS.                                                     pockets (Fig. 2) of the steering wheel armature.
+WARNING: THE AIRBAG SYSTEM IS A SENSITIVE,                               (5) Turn ignition cylinder to the on position and
+COMPLEX ELECTRO-MECHANICAL UNIT. BEFORE                                remove cylinder by pressing release through lower
+ATTEMPTING TO DIAGNOSE, REMOVE OR INSTALL                              shroud access hole (Fig. 3) (Refer to 19 - STEERING/
+THE AIRBAG SYSTEM COMPONENTS YOU MUST                                  COLUMN/LOCK          CYLINDER          HOUSING     -
+FIRST DISCONNECT AND ISOLATE THE BATTERY                               REMOVAL).
+NEGATIVE (GROUND) CABLE. THEN WAIT TWO
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+CHARGE. FAILURE TO DO SO COULD RESULT IN
+

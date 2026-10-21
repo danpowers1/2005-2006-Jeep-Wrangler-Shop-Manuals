@@ -1,0 +1,58 @@
+TJ                                                                                   BATTERY SYSTEM       8F - 11
+BATTERY (Continued)
+   To read the built-in indicator, look into the sight       (1) Before measuring the open-circuit voltage, the
+glass and note the color of the indication (Fig. 7). The   surface charge must be removed from the battery.
+battery condition that each color indicates is             Turn on the headlamps for fifteen seconds, then
+described in the following list:                           allow up to five minutes for the battery voltage to
+   • Green - Indicates 75% to 100% battery state-of-       stabilize.
+charge. The battery is adequately charged for further        (2) Disconnect and isolate both battery cables, neg-
+testing or return to service. If the starter will not      ative cable first.
+crank for a minimum of fifteen seconds with a fully-         (3) Using a voltmeter connected to the battery
+charged battery, the battery must be load tested.          posts (see the instructions provided by the manufac-
+Refer to Standard Procedures for the proper battery        turer of the voltmeter), measure the open-circuit volt-
+load test procedures.                                      age (Fig. 8).
+   • Black or Dark - Indicates 0% to 75% battery
+state-of-charge. The battery is inadequately charged
+and must be charged until a green indication is visi-
+ble in the sight glass (12.4 volts or more), before the
+battery is tested further or returned to service. Refer
+to Standard Procedures for the proper battery charg-
+ing procedures. Also refer to Diagnosis and Testing
+for more information on the possible causes of the
+discharged battery condition.
+   • Clear or Bright - Indicates a low battery elec-
+trolyte level. The electrolyte level in the battery is
+below the built-in indicator. A maintenance-free bat-
+tery with non-removable cell caps must be replaced if
+the electrolyte level is low. Water must be added to a
+low-maintenance battery with removable cell caps
+before it is charged. Refer to Standard Procedures for         Fig. 8 Testing Open-Circuit Voltage - Typical
+the proper battery filling procedures. A low electro-        See the Open-Circuit Voltage Table. This voltage
+lyte level may be caused by an overcharging condi-         reading will indicate the battery state-of-charge, but
+tion. Refer to Charging System for the proper              will not reveal its cranking capacity. If a battery has
+charging system diagnosis and testing procedures.          an open-circuit voltage reading of 12.4 volts or
+                                                           greater, it may be load tested to reveal its cranking
+                                                           capacity (Refer to 8 - ELECTRICAL/BATTERY SYS-
+                                                           TEM/BATTERY - STANDARD PROCEDURE).
+
+                                                                     OPEN CIRCUIT VOLTAGE TABLE
+                                                              Open Circuit Voltage         Charge Percentage
+                                                                11.7 volts or less                0%
+                                                                   12.0 volts                     25%
+                                                                   12.2 volts                     50%
+                                                                   12.4 volts                     75%
+                                                               12.6 volts or more                100%
+     Fig. 7 Built-In Indicator Sight Glass Chart
+                                                           STANDARD PROCEDURE - IGNITION-OFF
+STANDARD PROCEDURE - OPEN-CIRCUIT
+                                                           DRAW TEST
+VOLTAGE TEST                                                 The term Ignition-Off Draw (IOD) identifies a nor-
+  A battery open-circuit voltage (no load) test will       mal condition where power is being drained from the
+show the approximate state-of-charge of a battery.         battery with the ignition switch in the Off position. A
+This test can be used in place of the hydrometer test      normal vehicle electrical system will draw from five
+when a hydrometer is not available, or for mainte-         to thirty-five milliamperes (0.005 to 0.035 ampere)
+nance-free batteries with non-removable cell caps.         with the ignition switch in the Off position, and all
+  Before proceeding with this test, completely charge      non-ignition controlled circuits in proper working
+the battery (Refer to 8 - ELECTRICAL/BATTERY               order. Up to thirty-five milliamperes are needed to
+SYSTEM/BATTERY - STANDARD PROCEDURE).                      enable the memory functions for the Powertrain Con-
+

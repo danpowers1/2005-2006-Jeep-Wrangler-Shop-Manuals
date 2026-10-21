@@ -1,0 +1,58 @@
+24 - 28    CONTROLS                                                                                        TJ
+BLOWER MOTOR RELAY (Continued)
+a battery current output only when the blower motor      INSTALLATION
+relay coil is de-energized.                                (1) Align the blower motor relay terminals with
+  The blower motor relay cannot be repaired and, if      the terminal cavities in the wire harness connector.
+faulty or damaged, it must be replaced. Refer to the       (2) Push down firmly on the blower motor relay
+appropriate wiring information for diagnosis and         until the terminals are fully seated in the connector
+testing of the ISO-standard relay and for complete       receptacles.
+HVAC wiring diagrams.                                      (3) Install the glove box (Refer to 23 - BODY/IN-
+                                                         STRUMENT PANEL/GLOVE BOX - INSTALLA-
+REMOVAL                                                  TION).
+WARNING: On vehicles equipped with airbags, dis-           (4) Reconnect the negative battery cable.
+able the airbag system before attempting any steer-
+ing wheel, steering column, or instrument panel
+component diagnosis or service. Disconnect and           BLOWER MOTOR RESISTOR
+isolate the battery negative (ground) cable, then
+wait two minutes for the airbag system capacitor to      DESCRIPTION
+discharge before performing further diagnosis or            The blower motor resistor (Fig. 26) is mounted to
+service. This is the only sure way to disable the air-   the rear of the HVAC housing, near the glove box.
+bag system. Failure to take the proper precautions       The blower motor resistor consists of a molded plas-
+could result in accidental airbag deployment and         tic mounting plate with an integral wire connector
+possible personal injury or death.                       receptacle. Concealed behind the mounting plate is
+                                                         the resistor circuit board.
+  (1) Disconnect and isolate the negative battery
+                                                            The blower motor resistor can be accessed for ser-
+cable.
+                                                         vice from under the instrument panel.
+  (2) Remove the glove box from the instrument
+panel (Refer to 23 - BODY/INSTRUMENT PANEL/
+GLOVE BOX - REMOVAL).
+  (3) Locate the blower motor relay through the
+instrument panel glove box opening. The relay is
+mounted upright and to the right of the instrument
+panel harness (Fig. 25).
+  (4) Remove the blower motor relay from its wire
+harness connector.
+
+
+
+
+                                                                    Fig. 26 Blower Motor Resistor
+                                                         1 - MOUNTING PLATE
+                                                         2 - WIRE HARNESS CONNECTOR
+                                                         3 - RESISTOR CIRCUIT BOARD
+
+
+                                                         OPERATION
+   Fig. 25 Blower Motor Relay - LHD shown, RHD             The blower motor resistor is connected to the vehi-
+                      similar                            cle electrical system through a dedicated wire lead
+1 - AIR INTAKE                                           and connector of the HVAC wire harness. The blower
+2 - RECIRCULATION DOOR LINKAGE                           motor resistor has multiple resistor circuits, each of
+3 - RECIRCULATION DOOR ACTUATOR
+4 - BLOWER MOTOR RELAY                                   which will reduce the current flow through the
+5 - HVAC ELECTRICAL CONNECTOR                            blower motor to change the blower motor speed.
+6 - HVAC VACUUM CONNECTOR                                  The blower motor switch in the MTC heating-A/C
+7 - HVAC HOUSING
+                                                         system directs the ground path for the blower motor
+

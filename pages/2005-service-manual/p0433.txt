@@ -1,0 +1,59 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 7
+INSTRUMENT CLUSTER (Continued)
+function Indicator Lamp (MIL) is normally controlled      CLUSTER ILLUMINATION
+by PCI data bus messages from the PCM; however, if           The EMIC has several illumination lamps that are
+the EMIC loses PCI data bus communications, the           illuminated when the exterior lighting is turned on
+EMIC circuitry will automatically turn the MIL on         with the headlamp switch circuitry of the left multi-
+and display the message “no BuS” in the odometer          function switch. The illumination intensity of these
+VFD unit until PCI data bus communication is              lamps is adjusted when the interior lamps control
+restored. The EMIC uses PCI data bus messages             ring on the left multi-function switch control stalk is
+from the PCM, Airbag Control Module (ACM), and            rotated (downward to dim, upward to brighten). In
+the Sentry Key Immobilizer Module (SKIM) to con-          response to that input, an analog/digital (A/D) con-
+trol all of the remaining indicators.                     verter in the EMIC converts the analog panel lamps
+  The various EMIC indicators are controlled by dif-      dimmer resistor multiplexed input from the left
+ferent strategies; some receive fused ignition switch     multi-function switch into a digital dimming level
+output from the EMIC circuitry and have a switched        message and a 12-volt Pulse-Width Modulated
+ground, others are grounded through the EMIC cir-         (PWM) output. The EMIC uses the PWM output to
+cuitry and have a switched battery feed. However, all     power the cluster illumination lamps and the VFD
+indicators except those for the antilock brake system,    unit on the EMIC circuit board, then provides a syn-
+turn signals, and fog lamps are completely controlled     chronized PWM output on the hard wired fused
+by the EMIC microprocessor based upon various hard        panel lamp feed output circuit to control and syn-
+wired and electronic message inputs. The cruise,          chronize the illumination intensity of other incandes-
+four-wheel drive and both axle lock indicators are        cent illumination lamps in the vehicle. The cluster
+one-step dimmable based upon an input to the EMIC         illumination lamps are grounded at all times.
+from the headlamp switch circuitry. When the exte-           The EMIC also sends electronic dimming level
+rior lamps are off, these indicators are illuminated at   messages over the PCI data bus to other electronic
+a fixed maximum intensity; and, when the exterior         modules in the vehicle to control and synchronize the
+lamps are on, these indicators are dimmed by the          illumination intensity of their VFD units with that of
+EMIC to a fixed lower intensity. All remaining indi-      the EMIC VFD unit. In addition, the interior lamps
+cators are illuminated at a fixed intensity, which is     control ring on the left multi-function switch control
+not affected by the status of the exterior lighting or    stalk has a Parade Mode position to provide a parade
+the selected illumination intensity of the EMIC gen-      mode. The EMIC monitors the request for this mode
+eral illumination lamps.                                  from the left multi-function switch, then sends an
+  In addition, certain indicators in this instrument      electronic dimming level message over the PCI data
+cluster are automatically configured or self-config-      bus to illuminate all VFD units in the vehicle at full
+ured. This feature allows the configurable indicators     (daytime) intensity for easier visibility when driving
+to be enabled by the EMIC circuitry for compatibility     in daylight with the exterior lighting turned on.
+with certain optional equipment. The airbag indica-          The hard wired left multi-function switch cluster
+tor, cruise indicator, and the Sentry Key Immobilizer     illumination inputs and the EMIC fused panel lamp
+System (SKIS) indicator are automatically config-         feed output may be diagnosed using conventional
+ured. The automatically configured or self-configured     diagnostic methods. However, proper testing of the
+indicators remain latent in each EMIC at all times        PWM control of the EMIC and the electronic dim-
+and will be active only when the EMIC receives the        ming level messages sent by the EMIC over the PCI
+appropriate PCI message inputs for that optional sys-     data bus requires the use of a DRBIIIt scan tool.
+tem or equipment. Once a configurable indicator is        Refer to the appropriate diagnostic information.
+enabled by the EMIC, it is learned and stored in
+cluster memory for the remainder of the cluster life.     AUDIO SYSTEM CABIN EQUALIZATION
+  The hard wired indicator inputs may be diagnosed          Each time the EMIC receives an electronic cabin
+using conventional diagnostic methods. However, the       equalization request message from the radio over the
+EMIC circuitry and PCI bus message controlled indi-       PCI data bus, it provides an electronic response to
+cators are diagnosed using the EMIC self-diagnostic       the radio containing the appropriate equalization
+actuator test. (Refer to 8 - ELECTRICAL/INSTRU-           curve information. Because there are numerous
+MENT CLUSTER - DIAGNOSIS AND TESTING).                    optional radios which are common to many platforms
+Proper testing of the PCI data bus and the electronic     and available with various speaker architectures,
+message inputs to the EMIC that control an indicator      each radio contains a Digital Signal Processing (DSP)
+requires the use of a DRBIIIt scan tool. Refer to the     microprocessor chip. This DSP chip uses the equal-
+appropriate diagnostic information. Specific details of   ization curve information to optimize the radio’s
+the operation for each indicator may be found else-       sound output characteristics for the unique cabin and
+where in this service information.
+

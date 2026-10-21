@@ -1,0 +1,51 @@
+TJ                                                                     LAMPS/LIGHTING - EXTERIOR           8L - 11
+DAYTIME RUNNING LAMP MODULE (Continued)
+
+OPERATION                                                  DIAGNOSIS AND TESTING - DAYTIME
+  Battery positive voltage is supplied to the Daytime      RUNNING LAMP SYSTEM
+Running Lamp (DRL) module through a circuit                  Always begin any diagnosis by testing all of the
+breaker and a fuse in the PDC. Ignition positive volt-     fuses and circuit breakers in the system. Refer to the
+age is supplied to the DRL module through a fuse in        appropriate wiring information.
+the fuse block. The DRL module also utilizes a Vehi-
+cle Speed Sensor (VSS) input, high and low beam            WARNING: ON VEHICLES EQUIPPED WITH AIR-
+sense circuits and high beam indicator driver. The         BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+DRL module is grounded to the chassis. Once the            ATTEMPTING ANY STEERING WHEEL, STEERING
+vehicle reaches a speed of 3 kph (2 mph) and travels       COLUMN, OR INSTRUMENT PANEL COMPONENT
+more than 1 meter (3 feet) with the headlamp switch        DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+in the off position, the DRL module will activate the      LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+HIGH beams at a reduced intensity (36% of full             THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+intensity). When the headlamp switch is placed in          TEM CAPACITOR TO DISCHARGE BEFORE PER-
+the LOW beam position the DRL will turn off. When          FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+the headlamp switch is turned to the HIGH beam             IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+position, the high beams will operate normally (full       SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+intensity) and the DRL module will also illuminate         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+the HIGH BEAM indicator in the instrument cluster.         BAG DEPLOYMENT AND POSSIBLE PERSONAL
+                                                           INJURY.
+
+            CONDITION                         POSSIBLE CAUSES                           CORRECTION
+
+DAYTIME RUNNING LAMPS (DRL)           1. Headlamp switch in the on           1. Turn the headlamp switch to the
+DO NOT OPERATE                        position.                              off position.
+                                      2. Poor connection at DRL module.      2. Secure connector on DRL
+                                                                             module.
+                                      3. Open battery positive voltage       3. Test and repair open circuit.
+                                      circuit to DRL module
+                                      4. Open ignition positive circuit to   4. Test and repair open circuit.
+                                      DLR module.
+                                      5. Headlamp circuit shorted to         5. Test and repair headlamp circuit.
+                                      ground.
+                                      6. Open or high resistance in DLR      6. Test and repair ground circuit.
+                                      module ground circuit.
+                                      7. Open VSS signal circuit.            7. Test and repair VSS signal circuit.
+                                      8. Defective DRL module.               8. Replace DRL module.
+
+
+REMOVAL                                                    INSTALLATION
+  (1) Disconnect and isolate the battery negative            (1) Position the DRL module on the cowl.
+cable.                                                       (2) Install the screws.
+  (2) Disconnect the wire harness connector from the         (3) Connect the wire harness connector to the mod-
+module.                                                    ule.
+  (3) Remove the screws that attach the module to            (4) Connect the battery negative cable.
+the cowl (Fig. 8).
+  (4) Separate the module from the vehicle.
+

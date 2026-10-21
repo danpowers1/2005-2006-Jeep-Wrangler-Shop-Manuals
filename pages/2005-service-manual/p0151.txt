@@ -1,0 +1,53 @@
+TJ                                                                            REAR AXLE - 194RBI         3 - 93
+REAR AXLE - 194RBI (Continued)
+  (8) Thread Pilot Stud C-3288-B into rear cover bolt       (11) Push differential case to the ring gear side
+hole below ring gear (Fig. 16).                           and record dial indicator reading (Fig. 18).
+  (9) Attach Dial Indicator C-3339 to the pilot stud
+and position indicator plunger on a flat surface of the
+ring gear bolt head (Fig. 16).
+
+
+
+
+                                                              Fig. 18 RECORD DIAL INDICATOR READING
+                                                          1 - READ DIAL INDICATOR
+                                                          2 - DIFFERENTIAL CASE TO RING GEAR SIDE
+                                                          3 - DIFFERENTIAL HOUSING
+
+                                                            (12) Add the dial indicator reading to the starting
+                                                          point shim thickness to determine total shim thick-
+                                                          ness to achieve zero differential end play.
+                                                            (13) Add 0.008 in. (0.2 mm) to the zero end play
+                                                          total. This new total represents the thickness of
+Fig. 16 DIFFERENTIAL SIDE PLAY MEASUREMENT                shims to compress or preload the new bearings when
+1 - DIFFERENTIAL CASE                                     the differential is installed.
+2 - DIFFERENTIAL HOUSING
+3 - PILOT STUD                                              (14) Rotate dial indicator out of the way.
+4 - DIAL INDICATOR                                          (15) Remove differential case, dummy bearings
+                                                          and starting point shims from the housing.
+  (10) Push differential case to the pinion gear side       (16) Install pinion gear in the housing. Install the
+of the housing (Fig. 17) and zero dial indicator.         yoke and establish the correct pinion rotating torque.
+                                                            (17) Install differential case and dummy bearings
+                                                          in the housing (without shims) and tighten retaining
+                                                          cap bolts.
+                                                            (18) Position the dial indicator plunger on a flat
+                                                          surface between the ring gear bolt heads (Fig. 16).
+                                                            (19) Push and hold differential case toward pinion
+                                                          gear.
+                                                            (20) Zero dial indicator face to pointer.
+                                                            (21) Push and hold differential case to ring gear
+                                                          side of the housing and record dial indicator reading.
+                                                            (22) Subtract 0.002 in. (0.05 mm) from the dial
+                                                          indicator reading to compensate for backlash between
+                                                          ring and pinion gears. This total is the thickness of
+                                                          shim required to achieve proper backlash.
+                                                            (23) Subtract the backlash shim thickness from
+                                                          the total preload shim thickness. The remainder is
+           Fig. 17 ZERO DIAL INDICATOR                    the shim thickness required on the pinion side of the
+1 - DIFFERENTIAL CASE TO PINION GEAR SIDE                 housing.
+2 - PILOT STUD                                              (24) Rotate dial indicator out of the way on pilot
+3 - DIAL INDICATOR EXTENSION                              stud.
+4 - ZERO DIAL INDICATOR FACE
+                                                            (25) Remove differential case and dummy bearings
+                                                          from the housing.
+

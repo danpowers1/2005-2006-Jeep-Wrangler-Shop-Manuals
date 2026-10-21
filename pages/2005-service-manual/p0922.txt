@@ -1,0 +1,60 @@
+9-2        ENGINE 2.4L                                                                                                                      TJ
+
+ROCKER ARMS                                                                  DIAGNOSIS AND TESTING
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32         ENGINE OIL PRESSURE CHECKING . . . . . . 50
+  INSPECTION      . . . . . . . . . . . . . . . . . . . . . . . . . . 33   OIL
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 33          STANDARD PROCEDURE
+ENGINE BLOCK                                                                   ENGINE OIL LEVEL CHECK . . . . . . . . . . . . . 50
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 33             ENGINE OIL AND FILTER CHANGE                      . . . . . . . 50
+  STANDARD PROCEDURE                                                       OIL FILTER
+    PISTON TO CYLINDER BORE FITTING . . . . . 33                             DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 51
+    CYLINDER BORE HONING . . . . . . . . . . . . . . 34                      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+  CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 51
+  INSPECTION      . . . . . . . . . . . . . . . . . . . . . . . . . . 34   OIL PAN
+CONNECTING ROD BEARINGS                                                      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+  STANDARD PROCEDURE                                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 52
+    CONNECTING ROD - FITTING . . . . . . . . . . . 35                      OIL PRESSURE SENSOR/SWITCH
+CRANKSHAFT                                                                   DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 52
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 36           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 36       OIL PUMP
+  STANDARD PROCEDURE - CRANKSHAFT                                            REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+    END PLAY . . . . . . . . . . . . . . . . . . . . . . . . . . . 36        DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . 53
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36       CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+  INSPECTION      . . . . . . . . . . . . . . . . . . . . . . . . . . 37     INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 37          ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+CRANKSHAFT MAIN BEARINGS                                                     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 54
+  STANDARD PROCEDURE - MAIN BEARING -                                      INTAKE MANIFOLD
+    FITTING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39     DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 55
+CRANKSHAFT OIL SEAL - FRONT                                                  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40       DIAGNOSIS AND TESTING
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 41            INTAKE MANIFOLD LEAKS . . . . . . . . . . . . . . 55
+CRANKSHAFT OIL SEAL - REAR                                                   REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42       INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 42          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 56
+PISTON & CONNECTING ROD                                                    EXHAUST MANIFOLD
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 43           DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 56
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 43         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 44          CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+PISTON RINGS                                                                 INSPECTION    . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+  STANDARD PROCEDURE                                                         INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 57
+    PISTON RING - FITTING . . . . . . . . . . . . . . . . 45               TIMING BELT COVER(S)
+VIBRATION DAMPER                                                             REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 57
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 47        TIMING BELT AND SPROCKET(S)
+STRUCTURAL COLLAR                                                            REMOVAL
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47         TIMING BELT     . . . . . . . . . . . . . . . . . . . . . . . . 58
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 47            CRANKSHAFT SPROCKET . . . . . . . . . . . . . . 59
+ENGINE MOUNTING                                                              CLEANING . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 47           INSTALLATION
+FRONT MOUNT                                                                    CRANKSHAFT SPROCKET . . . . . . . . . . . . . . 59
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48         TIMING BELT     . . . . . . . . . . . . . . . . . . . . . . . . 60
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 48        TIMING BELT TENSIONER & PULLEY
+REAR MOUNT                                                                   REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49       INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 62
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 49        BALANCE SHAFTS AND CARRIER ASSEMBLY
+LUBRICATION                                                                  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 63
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 49           OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 49         REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+                                                                             INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 65
+

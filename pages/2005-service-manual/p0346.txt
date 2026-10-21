@@ -1,0 +1,61 @@
+8E - 12    ELECTRONIC CONTROL MODULES                                                                       TJ
+SENTRY KEY IMMOBILIZER MODULE (Continued)
+If the SKIS indicator flashes upon ignition On or
+stays on solid after the bulb test, it signifies a SKIS
+fault. If the SKIM detects a system malfunction
+and/or the SKIS has become inoperative, the SKIS
+indicator will stay on solid. If the SKIM detects an
+invalid key or if a key transponder-related fault
+exists, the SKIS indicator will flash. If the vehicle is
+equipped with the Customer Learn transponder pro-
+gramming feature, the SKIM will also send messages
+to the EMIC to flash the SKIS indicator and to gen-
+erate a single audible chime whenever the Customer
+Learn programming mode is being utilized. (Refer to
+8 - ELECTRICAL/VEHICLE THEFT SECURITY -
+STANDARD PROCEDURE - SENTRY KEY TRAN-
+SPONDER PROGRAMMING).
+   The SKIS performs a self-test each time the igni-
+tion switch is turned to the On position, and will
+store fault information in the form of Diagnostic
+Trouble Codes (DTC’s) in SKIM memory if a system
+malfunction is detected. The SKIM can be diagnosed,
+and any stored DTC’s can be retrieved using a
+DRBIIIt scan tool. Refer to the appropriate diagnos-
+tic information.                                            Fig. 10 Steering Column Shrouds Remove/Install
+                                                           1 - LEFT MULTI-FUNCTION SWITCH
+REMOVAL                                                    2 - UPPER SHROUD
+                                                           3 - RIGHT MULTI-FUNCTION SWITCH
+                                                           4 - CLOCKSPRING
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                    5 - IGNITION LOCK CYLINDER HOUSING
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                     6 - LOWER SHROUD
+ATTEMPTING ANY STEERING WHEEL, STEERING                    7 - SCREW (2)
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                  tion switch assembly to the upper steering column
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                  housing.
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                     (7) Disconnect the cross body wire harness connec-
+TEM CAPACITOR TO DISCHARGE BEFORE PER-                     tor for the SKIM from the SKIM connector (Fig. 11).
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS                    (8) The SKIM mounting bracket features a clip
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG                 that secures the SKIM to the inboard lower flange of
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                    the steering column jacket. Pull downward on the
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                   connector end of the SKIM mounting bracket to
+BAG DEPLOYMENT AND POSSIBLE PERSONAL                       release this clip from the steering column jacket.
+INJURY.                                                       (9) Rotate the SKIM and its mounting bracket
+                                                           downwards and then to the side away from the steer-
+  (1) Disconnect and isolate the battery negative          ing column to slide the SKIM antenna ring from
+cable.                                                     around the ignition switch lock cylinder housing. On
+  (2) Remove the steering column opening cover             models with a manual transmission, lift the multi-
+from the instrument panel. (Refer to 23 - BODY/IN-         function switch upward off of the upper steering col-
+STRUMENT PANEL/STEERING COLUMN OPEN-                       umn housing far enough to extract the SKIM
+ING COVER - REMOVAL).                                      antenna from between the ignition key release but-
+  (3) Remove the screws that secure the lower steer-       ton and the right multi-function switch housing.
+ing column shroud to the upper shroud (Fig. 10).              (10) Remove the SKIM from the steering column.
+  (4) If the vehicle is equipped with the optional tilt
+steering column, move the tilt steering column to the
+fully lowered position and leave the tilt release lever
+in the released (down) position.
+  (5) Remove the upper and lower shrouds from the
+steering column.
+  (6) On models equipped with a manual transmis-
+sion, remove the screws that secure the multi-func-
+

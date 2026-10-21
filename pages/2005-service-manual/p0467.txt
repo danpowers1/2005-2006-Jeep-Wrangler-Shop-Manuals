@@ -1,0 +1,61 @@
+TJ                                                                           INSTRUMENT CLUSTER            8J - 41
+
+
+TACHOMETER                                                 will calculate the correct engine speed reading and
+                                                           position the gauge needle at that relative speed posi-
+                                                           tion on the gauge scale. The cluster will receive a
+DESCRIPTION
+                                                           new engine speed message and reposition the gauge
+                                                           pointer accordingly about every 86 milliseconds. The
+                                                           gauge needle will continually be repositioned on the
+                                                           gauge scale until the engine stops running, or until
+                                                           the ignition switch is turned to the Off position,
+               Fig. 26 Tachometer Text                     whichever occurs first.
+   A tachometer is standard equipment on all instru-          • Communication Error - If the cluster fails to
+ment clusters. The tachometer is located to the left of    receive an engine speed message, it will hold the
+the speedometer, just to the left of center in the         gauge needle at the last indication for about six sec-
+instrument cluster. The tachometer consists of a           onds, or until the ignition switch is turned to the Off
+movable gauge needle or pointer controlled by the          position, whichever occurs first. After six seconds, the
+instrument cluster circuitry and a fixed 210 degree        gauge needle will return to the left (low) end of the
+scale on the cluster overlay that reads left-to-right      gauge scale.
+from 0 to 6. The text “X1000 RPM” imprinted on the            • Actuator Test - Each time the cluster is put
+cluster overlay directly below the hub of the tachom-      through the actuator test, the gauge needle will be
+eter needle identifies that each number on the             swept to several calibration points on the gauge scale
+tachometer scale is to be multiplied by 1000 rpm           in a prescribed sequence to confirm the functionality
+(Fig. 26). Red graduations at the right (high) end of      of the gauge and the cluster control circuitry.
+the gauge scale designate the engine overspeed area           The PCM continually monitors the crankshaft posi-
+of the gauge. The tachometer graphics are white            tion sensor to determine the engine speed. The PCM
+against a black field, except for the red graduations,     then sends the proper engine speed messages to the
+making them clearly visible within the instrument          instrument cluster. For further diagnosis of the
+cluster in daylight. When illuminated from behind by       tachometer or the instrument cluster circuitry that
+the panel lamps dimmer controlled cluster illumina-        controls the gauge, (Refer to 8 - ELECTRICAL/IN-
+tion lighting with the exterior lamps turned On, the       STRUMENT CLUSTER - DIAGNOSIS AND TEST-
+white graphics appear white and the red graphics           ING). For proper diagnosis of the crankshaft position
+appear red. The orange gauge needle is internally          sensor, the PCM, the PCI data bus, or the electronic
+illuminated. Gauge illumination is provided by             message inputs to the instrument cluster that control
+replaceable incandescent bulb and bulb holder units        the tachometer, a DRBIIIt scan tool is required.
+located on the instrument cluster electronic circuit       Refer to the appropriate diagnostic information.
+board. The tachometer is serviced as a unit with the
+instrument cluster.
+                                                           TURN SIGNAL INDICATOR
+OPERATION
+   The tachometer gives an indication to the vehicle       DESCRIPTION
+operator of the engine speed. This gauge is controlled
+by the instrument cluster circuit board based upon
+cluster programming and electronic messages
+received by the cluster from the Powertrain Control
+Module (PCM) over the Programmable Communica-                          Fig. 27 Turn Signal Indicators
+tions Interface (PCI) data bus. The tachometer is an         Two turn signal indicators, one right and one left,
+air core magnetic unit that receives battery current       are standard equipment on all instrument clusters
+on the instrument cluster electronic circuit board         (Fig. 27). The turn signal indicators are located near
+through the fused ignition switch output (run-start)       the upper edge of the instrument cluster, between
+circuit whenever the ignition switch is in the On or       the speedometer and the tachometer. Each turn sig-
+Start positions. The cluster is programmed to move         nal indicator consists of a stencil-like cutout of the
+the gauge needle back to the low end of the scale          International Control and Display Symbol icon for
+after the ignition switch is turned to the Off position.   “Turn Warning” in the opaque layer of the instru-
+The instrument cluster electronic circuitry controls       ment cluster overlay. The dark outer layer of the
+the gauge needle position and provides the following       overlay prevents these icons from being clearly visi-
+features:                                                  ble when they are not illuminated. A green Light
+   • Engine Speed Message - Each time the cluster          Emitting Diode (LED) behind each turn signal indi-
+receives an engine speed message from the PCM it           cator cutout in the opaque layer of the cluster over-
+

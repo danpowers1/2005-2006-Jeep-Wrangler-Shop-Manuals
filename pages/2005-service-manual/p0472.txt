@@ -1,0 +1,61 @@
+8L - 2       LAMPS/LIGHTING - EXTERIOR                                                                                                       TJ
+
+HEADLAMP                                                                   INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 18       REPEATER LAMP
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 18       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 19        DIAGNOSIS AND TESTING - SIDE REPEATER
+  ADJUSTMENTS . . . . . . . . . . . . . . . . . . . . . . . . 19             LAMP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+HEADLAMP LEVELING SWITCH                                                 TAIL LAMP UNIT
+  REMOVAL                                                                  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 29
+    HEADLAMP LEVELING SWITCH . . . . . . . . . . 21                        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 21        REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+HEADLAMP LEVELING MOTOR                                                    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 29
+  DIAGNOSIS AND TESTING - HEADLAMP                                       TAIL LAMP
+    LEVELING SYSTEM           . . . . . . . . . . . . . . . . . . . 21     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+LEFT MULTI-FUNCTION SWITCH                                                 INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 23       TURN SIGNAL CANCEL CAM
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 23       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  DIAGNOSIS AND TESTING - LEFT MULTI-                                      OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+    FUNCTION SWITCH . . . . . . . . . . . . . . . . . . . 25             UNDERHOOD LAMP UNIT
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 27        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+SIDE MARKER LAMP UNIT                                                    UNDERHOOD LAMP
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28     REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 28        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+SIDE MARKER LAMP
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+
+LAMPS/LIGHTING - EXTERIOR                                                Instrument Cluster (EMIC) located in the instrument
+                                                                         panel.
+                                                                           • Turn Signal Lamps - The front turn signal
+DESCRIPTION - TURN SIGNAL & HAZARD
+                                                                         lamps are integral to the front park/turn signal
+WARNING SYSTEM                                                           lamps located beside each headlamp on the front
+   A turn signal and hazard warning system is stan-                      fender. The rear turn signal lamps are integral to the
+dard factory-installed safety equipment. The turn sig-                   back-up/brake/rear turn signal/tail lamps located on
+nal and hazard warning system includes the                               either side of the rear of the quarter panels.
+following major components, which are described in                         • Turn Signal Switch - The turn signal switch is
+further detail elsewhere in this service information:                    integral to the left multi-function switch. The left
+   • Combination Flasher - The electronic combi-                         multi-function switch control stalk actuates the turn
+nation flasher is located on the back of the left multi-                 signal switch in the steering column.
+function switch, beneath the upper steering column                         The turn signal system in this vehicle includes a
+shroud on the top of the steering column.                                turn signal-on warning chime feature. The EMIC
+   • Front Side Marker Lamps - The front side                            electronic circuitry monitors the turn signal indica-
+marker lamps are located on the outboard ends of                         tors as well as electronic vehicle speed and distance
+the two front fender flares.                                             messages received from the PCM over the PCI data
+   • Turn Signal Repeater Lamps - The turn sig-                          bus network to provide this feature. If an indicator
+nal repeater lamps are located on the outboard ends                      remains illuminated continuously with the vehicle
+of the two front fender flares.                                          speed above about 25 kilometers per hour (15 miles
+   • Hazard Warning Switch - The hazard warning                          per hour) for a distance of greater than about 1.6
+switch is integral to the left multi-function switch.                    kilometers (1 mile), the EMIC generates a chime
+The hazard warning switch button protrudes from an                       through an integral chime tone generator (The dis-
+opening in the shroud on the top of the steering col-                    tance is greater for export vehicles).
+umn.                                                                       Hard wired circuitry connects the turn signal and
+   • Turn Signal Cancel Cam - The turn signal                            hazard warning system components to each other
+cancel cam is integral to the steering column clock-                     through the electrical system of the vehicle. Refer to
+spring, which is located beneath the shrouds on the                      the appropriate wiring information.
+top of the steering column.
+   • Turn Signal Indicators - The two turn signal
+indicators are integral to the ElectroMechanical
+

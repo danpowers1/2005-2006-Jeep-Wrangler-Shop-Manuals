@@ -1,0 +1,58 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 9
+INSTRUMENT CLUSTER (Continued)
+driver/passenger door ajar warning, the head/park            The EMIC interior lighting control programming
+lights-on reminder, and the key-in ignition reminder.     provides an illuminated entry/exit feature by moni-
+For the remaining chime warning functions, the            toring the door ajar and ignition switch inputs. When
+EMIC uses a combination of hard wired inputs, elec-       a door is opened with the ignition switch in the Off
+tronic message inputs received from other modules         position, the EMIC turns on the courtesy lamps.
+over the PCI data bus, and internal programming.          When the ignition switch is turned to the On or Start
+(Refer to 8 - ELECTRICAL/CHIME/BUZZER -                   positions, the EMIC turns the courtesy lamps off
+OPERATION).                                               immediately with no theater dimming. When the
+   The hard wired chime inputs to the EMIC may be         ignition switch is turned from the On position to the
+diagnosed using conventional diagnostic methods.          Off position, the EMIC turns on the interior lights
+However, proper testing of the EMIC programming           for about ten seconds or until the ignition switch is
+and the electronic chime request messages received        again turned to the On or Start positions, whichever
+by the EMIC over the PCI data bus requires the use        occurs first.
+of a DRBIIIt scan tool. Refer to the appropriate diag-       The EMIC interior lighting control programming
+nostic information.                                       also provides a battery saver feature (load shedding)
+                                                          for the interior lighting. Unless the engine is run-
+ELECTRONIC PINION FACTOR                                  ning, the EMIC will automatically turn off the inte-
+  Each time the EMIC receives an electronic pinion        rior lights if they are left on for more than about
+factor request message from the Powertrain Control        twenty minutes, regardless of the status of the igni-
+Module (PCM) over the PCI data bus, it provides a         tion switch, door ajar switch, or left multi-function
+response to the PCM containing the appropriate elec-      switch inputs to the cluster.
+tronic pinion factor information. Because there are          The hard wired inputs and output of the EMIC
+numerous optional combinations of tire size, axle         interior lighting control may be diagnosed using con-
+ratio, and transfer case type which are available for     ventional diagnostic methods; however, there are no
+this vehicle, the electronic pinion factor needs to be    other diagnostic tools available for the EMIC timer
+considered for accurate processing of the vehicle         and logic circuitry. If the input and output compo-
+speed and distance information. The instrument clus-      nents and circuits of the interior lighting system test
+ter stores the electronic pinion factor information and   OK, but the system fails to operate as designed, the
+broadcasts it over the PCI data bus upon request by       EMIC must be replaced.
+the PCM. Using this factor and the Vehicle Speed
+Sensor (VSS) input, the PCM then calculates the           REAR WINDOW DEFOGGER CONTROL
+proper vehicle speed and distance information, and           The EMIC contains an integral timer and logic cir-
+transmits the appropriate electronic vehicle speed        cuit to perform the rear window defogger timer and
+messages over the PCI data bus for use by other elec-     control functions for the optional rear window defog-
+tronic modules in the vehicle.                            ger system. The EMIC uses a hard wired input from
+  Proper testing of the PCI data bus and the elec-        the rear window defogger switch on the rear window
+tronic data bus message inputs to and outputs from        defogger switch sense circuit and its control logic to
+the EMIC that control the electronic pinion factor        determine the correct output to the rear window
+function requires the use of a DRBIIIt scan tool.         defogger relay. The EMIC controls the ground path of
+Refer to the appropriate diagnostic information.          the rear window defogger relay control coil through
+                                                          an output on the rear window defogger relay control
+INTERIOR LIGHTING CONTROL                                 circuit.
+   The EMIC contains an integral timer and logic cir-        The EMIC is programmed to interpret each
+cuit to perform both timer and control functions for      momentary ground signal it receives on the rear win-
+the interior courtesy lamps. The EMIC uses hard           dow defogger switch sense circuit as a request to
+wired inputs from the ignition switch, both door ajar     change the current state of the output on the rear
+switches on separate driver and passenger door ajar       window defogger relay control circuit. Therefore, with
+switch sense circuits, from the resistor multiplexed      the ignition switch in the On position, the first
+panel lamps dimmer circuitry of the left multi-func-      ground input on the rear window defogger switch
+tion switch on the panel lamps dimmer signal circuit      sense circuit turns the system On, the second ground
+and its control logic to provide a battery current out-   input turns the system Off, and so forth. Once the
+put to the courtesy lamps on a courtesy lamp feed         rear window defogger system has been turned On, it
+circuit. The EMIC control provides a theater-type         can be turned off manually by depressing the rear
+fade-to-off feature that will slowly dim the courtesy     window defogger switch a second time or by turning
+lamps about five seconds after both doors are closed.     the ignition switch to the Off position.
+

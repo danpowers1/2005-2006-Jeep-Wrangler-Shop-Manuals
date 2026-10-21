@@ -1,0 +1,64 @@
+19 - 20       PUMP                                                                                                                    TJ
+
+
+                                                             PUMP
+
+                                                       TABLE OF CONTENTS
+                                                             page                                                                   page
+
+PUMP                                                                     OPERATION - RETURN LINE . . . . . . . . . . . . 24
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 20     FLUID
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 20    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24
+ DIAGNOSIS AND TESTING - PUMP LEAKAGE . 20                             STANDARD PROCEDURE - POWER
+ STANDARD PROCEDURE - POWER                                              STEERING FLUID LEVEL CHECKING . . . . . . 24
+   STEERING PUMP - INITIAL OPERATION . . . . 20                       POWER STEERING PRESSURE SWITCH
+ REMOVAL                                                               DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24
+   REMOVAL - 4.0L . . . . . . . . . . . . . . . . . . . . . . 21       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+   REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . 21       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+ INSTALLATION                                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+   INSTALLATION - 4.0L       . . . . . . . . . . . . . . . . . . 21   PULLEY
+   INSTALLATION - 2.4L       . . . . . . . . . . . . . . . . . . 22    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+ SPECIFICATIONS                                                        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 25
+   TORQUE CHART . . . . . . . . . . . . . . . . . . . . . . 23        RESERVOIR
+ SPECIAL TOOLS                                                         REMOVAL
+   POWER STEERING PUMP . . . . . . . . . . . . . . 23                    REMOVAL - 4.0L . . . . . . . . . . . . . . . . . . . . . . 26
+HOSES                                                                    REMOVAL - 2.4L . . . . . . . . . . . . . . . . . . . . . . 26
+ DESCRIPTION                                                           INSTALLATION
+   DESCRIPTION - PRESSURE LINE                   . . . . . . . . 24      INSTALLATION - 4.0L         . . . . . . . . . . . . . . . . . . 26
+   DESCRIPTION - RETURN LINE . . . . . . . . . . . 24                    INSTALLATION - 2.4L         . . . . . . . . . . . . . . . . . . 26
+ OPERATION
+   OPERATION - PRESSURE LINE . . . . . . . . . . 24
+
+PUMP                                                                  DIAGNOSIS AND TESTING - PUMP LEAKAGE
+                                                                        (1) Possible areas of pump leakage (Fig. 2).
+DESCRIPTION
+   Hydraulic pressure for the power steering system                   STANDARD PROCEDURE - POWER STEERING
+is provided by a belt driven power steering pump                      PUMP - INITIAL OPERATION
+(Fig. 1). The pump shaft has a pressed-on high
+strength plastic drive pulley that is belt driven by                  WARNING: THE FLUID LEVEL SHOULD BE
+the crankshaft pulley. The reservoir is attached to                   CHECKED WITH ENGINE OFF TO PREVENT INJURY
+the pump body with spring clips on the 4.0L engine.                   FROM MOVING COMPONENTS.
+A remote pump reservoir is used on the 2.4L engine
+mounted to the fan shroud. The power steering pump
+                                                                      CAUTION: MOPART ATF+4 is to be used in the
+is connected to the steering gear by the pressure and
+                                                                      power steering system. No other power steering or
+return hoses.
+                                                                      automatic transmission fluid is to be used in the
+                                                                      system. Damage may result to the power steering
+OPERATION
+                                                                      pump and system if any other fluid is used, and do
+  The power steering pump is a constant flow rate
+                                                                      not overfill.
+and displacement, vane-type pump. The pump inter-
+nal parts operate submerged in fluid. The flow con-                     Wipe filler cap clean, then check the fluid level.
+trol orifice is part of the high pressure line fitting.               The dipstick should indicate COLD when the fluid is
+The pressure relief valve inside the flow control valve               at normal ambient temperature.
+limits the pump pressure.                                               (1) Fill the pump fluid reservoir to the proper level
+                                                                      and let the fluid settle for at least two minutes.
+NOTE: Power steering pumps have different pres-
+                                                                        (2) Start the engine and let run for a few seconds
+sure rates and are not interchangeable with other
+                                                                      then turn engine off.
+pumps.
+

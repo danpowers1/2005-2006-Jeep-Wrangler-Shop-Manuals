@@ -1,0 +1,23 @@
+TJ                                                                           INSTRUMENT CLUSTER           8J - 43
+VOLTAGE GAUGE (Continued)
+about 19.0 volts, the gauge needle is moved to the 19       in a prescribed sequence in order to confirm the func-
+volt graduation on the far right end of the gauge           tionality of the gauge and the cluster control cir-
+scale and the check gauges indicator is illuminated.        cuitry.
+The gauge needle remains on the right end of the               The PCM continually monitors the system voltage
+gauge scale and the check gauges indicator remains          to control the generator output. The PCM then sends
+illuminated until the cluster receives a message from       the proper system voltage messages to the instru-
+the PCM indicating the electrical system voltage is         ment cluster. For further diagnosis of the voltage
+less than about 16.0 (but greater than about 9.5            gauge or the instrument cluster circuitry that con-
+volts), or until the ignition switch is turned to the Off   trols the gauge, (Refer to 8 - ELECTRICAL/INSTRU-
+position, whichever occurs first.                           MENT CLUSTER - DIAGNOSIS AND TESTING). If
+   • Communication Error - If the cluster fails to          the instrument cluster turns on the check gauges
+receive a system voltage message, it will hold the          indicator due to a charge fail or voltage high condi-
+gauge needle at the last indication about twelve sec-       tion, it may indicate that the charging system
+onds or until the ignition switch is turned to the Off      requires service. For proper diagnosis of the charging
+position, whichever occurs first. After twelve seconds,     system, the PCM, the PCI data bus, or the electronic
+it will move the gauge needle to the far left end of        message inputs to the instrument cluster that control
+the gauge scale.                                            the voltage gauge, a DRBIIIt scan tool is required.
+   • Actuator Test - Each time the cluster is put           Refer to the appropriate diagnostic information.
+through the actuator test, the gauge needle will be
+swept to several calibration points on the gauge scale
+

@@ -1,0 +1,75 @@
+8O - 28     RESTRAINTS                                                                                      TJ
+PASSENGER AIRBAG (Continued)
+compressed inert gas. When the ACM sends the              OTHER INTERIOR SURFACES. IN LARGE DOSES,
+proper electrical signal to the airbag inflator, the      THESE DEPOSITS MAY CAUSE IRRITATION TO THE
+electrical energy generates enough heat to ignite         SKIN AND EYES.
+chemical pellets within the inflator. Once ignited,         (1) Disconnect and isolate the battery negative
+these chemical pellets burn rapidly and produce the       cable. Wait two minutes for the system capacitor to
+pressure necessary to rupture a burst disk in the         discharge before further service.
+inert gas canister.                                         (2) Remove the instrument panel from the passen-
+  The inflator is sealed to the airbag cushion so that    ger compartment of the vehicle. (Refer to 23 - BODY/
+all of the released inert gas is directed into the air-   INSTRUMENT PANEL - REMOVAL).
+bag cushion, causing the cushion to inflate. As the         (3) Place the instrument panel on a suitable work
+cushion inflates, the passenger airbag door will split    surface. Be certain to take the proper precautions to
+at predetermined tear seam lines integral to the door,    protect the instrument panel from any possible cos-
+then the door will fold up over the top of the instru-    metic damage.
+ment panel and out of the way. Following a passen-          (4) Remove the three nuts that secure the passen-
+ger airbag deployment, the airbag cushion quickly         ger airbag to the weld studs on the instrument panel
+deflates by venting the inert gas through the porous      structural support (Fig. 32).
+fabric material used to construct each end panel of
+the airbag cushion.
+
+REMOVAL
+  The following procedure is for replacement of a
+faulty or damaged passenger airbag. If the airbag is
+faulty or damaged, but not deployed, review the rec-
+ommended procedures for handling non-deployed
+supplemental restraints. (Refer to 8 - ELECTRICAL/
+RESTRAINTS - STANDARD PROCEDURE - HAN-
+DLING       NON-DEPLOYED           SUPPLEMENTAL
+RESTRAINTS). If the passenger airbag has been                   Fig. 32 Passenger Airbag Remove/Install
+deployed, review the recommended procedures for           1 - STRUCTURAL SUPPORT
+                                                          2 - NUT (3)
+service after a supplemental restraint deployment         3 - PASSENGER AIRBAG
+before removing the airbag from the vehicle. (Refer to
+8 - ELECTRICAL/RESTRAINTS - STANDARD PRO-                  (5) Remove the passenger airbag from the instru-
+CEDURE - SERVICE AFTER A SUPPLEMENTAL                     ment panel structural support.
+RESTRAINT DEPLOYMENT).
+                                                          INSTALLATION
+WARNING: TO AVOID PERSONAL INJURY OR
+                                                            The following procedure is for replacement of a
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                          faulty or damaged passenger airbag. If the airbag is
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                          faulty or damaged, but not deployed, review the rec-
+TEM BEFORE ATTEMPTING ANY STEERING
+                                                          ommended procedures for handling non-deployed
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                          supplemental restraints. (Refer to 8 - ELECTRICAL/
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                          RESTRAINTS - STANDARD PROCEDURE - HAN-
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                          DLING       NON-DEPLOYED           SUPPLEMENTAL
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                          RESTRAINTS). If the passenger airbag has been
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                          deployed, review the recommended procedures for
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+                                                          service after a supplemental restraint deployment
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+                                                          before removing the airbag from the vehicle. (Refer to
+TO DISABLE THE SUPPLEMENTAL RESTRAINT
+                                                          8 - ELECTRICAL/RESTRAINTS - STANDARD PRO-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                          CEDURE - SERVICE AFTER A SUPPLEMENTAL
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                          RESTRAINT DEPLOYMENT).
+BAG DEPLOYMENT.
+
+
+WARNING: TO AVOID PERSONAL INJURY OR
+DEATH, WHEN REMOVING A DEPLOYED AIRBAG,
+RUBBER GLOVES, EYE PROTECTION, AND A
+LONG-SLEEVED SHIRT SHOULD BE WORN. THERE
+MAY BE DEPOSITS ON THE AIRBAG UNIT AND
+

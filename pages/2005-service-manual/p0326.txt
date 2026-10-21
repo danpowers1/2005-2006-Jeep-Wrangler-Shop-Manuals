@@ -1,0 +1,79 @@
+8A - 8    AUDIO/VIDEO                                                                                    TJ
+RADIO NOISE SUPPRESSION COMPONENTS (Continued)
+
+REMOVAL                                                  SPEAKER
+ENGINE-TO-BODY GROUND STRAP                              DESCRIPTION
+                                                           The standard equipment speaker system includes
+WARNING: ON VEHICLES EQUIPPED WITH AIR-
+                                                         four full-range speakers. The two front speakers are
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+                                                         mounted behind a removable bezel located on each
+ATTEMPTING ANY STEERING WHEEL, STEERING
+                                                         outboard end of the lower instrument panel. With the
+COLUMN, OR INSTRUMENT PANEL COMPONENT
+                                                         premium speaker system, the standard front speak-
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+                                                         ers are replace with an enclosure assembly that
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+                                                         includes a 4 inch speaker and a 1 inch tweeter. The
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+                                                         two rear speakers are mounted behind a grille
+TEM CAPACITOR TO DISCHARGE BEFORE PER-
+                                                         located on each outboard end of the sport bar, above
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+                                                         the rear seating area of the vehicle.
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+                                                         OPERATION
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+                                                           Two wires connected to each speaker, one feed cir-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL
+                                                         cuit (+) and one return circuit (–), allow the audio
+INJURY.
+                                                         output signal electrical current to flow through the
+  (1) Remove the screw that secures the engine-to-       speaker voice coil.
+body ground strap eyelet to the hood panel center
+reinforcement.                                           DIAGNOSIS AND TESTING - SPEAKER
+  (2) Remove the screw that secures the engine-to-         Any diagnosis of the Audio system should
+body ground strap eyelet to the dash panel.              begin with the use of the DRB IIIt diagnostic
+  (3) Remove the nut that secures the engine-to-body     tool. For information on the use of the DRB
+ground strap eyelet to the stud on the left upper rear   IIIt, refer to the appropriate Diagnostic Service
+corner of the engine cylinder head.                      Manual.
+  (4) Remove the engine-to-body ground strap eyelet        For complete circuit diagrams, refer to the appro-
+from the stud on the left upper rear corner of the       priate wiring information.
+engine cylinder head.
+                                                         WARNING: DISABLE THE AIRBAG SYSTEM
+  (5) Remove the engine-to-body ground strap from
+                                                         BEFORE ATTEMPTING ANY STEERING WHEEL,
+the engine compartment.
+                                                         STEERING COLUMN, SEAT BELT TENSIONER, SIDE
+                                                         AIRBAG, OR INSTRUMENT PANEL COMPONENT
+INSTALLATION
+                                                         DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+                                                         LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+ENGINE-TO-BODY GROUND STRAP
+                                                         THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+   (1) Position the engine-to-body ground strap in the
+                                                         TEM CAPACITOR TO DISCHARGE BEFORE PER-
+engine compartment.
+                                                         FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+   (2) Position the engine-to-body ground strap eyelet
+                                                         IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+over the stud on the left upper rear corner of the
+                                                         SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+engine cylinder head.
+                                                         CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+   (3) Install and tighten the nut that secures the
+                                                         BAG DEPLOYMENT AND POSSIBLE PERSONAL
+engine-to-body ground strap eyelet to the stud on the
+                                                         INJURY.
+left upper rear corner of the engine cylinder head.
+Tighten the nut to 5.6 N·m (50 in. lbs.).
+   (4) Install and tighten the screw that secures the    CAUTION: The speaker output of the radio is a
+engine-to-body ground strap eyelet to the dash panel.    “floating ground” system. Do not allow any speaker
+Tighten the screw to 48.5 N·m (430 in. lbs.).            lead to short to ground, as damage to the radio
+   (5) Install and tighten the screw that secures the    may result.
+engine-to-body ground strap eyelet to the hood panel
+center reinforcement. Tighten the screw to 1.9 N·m
+(17 in. lbs.).
+

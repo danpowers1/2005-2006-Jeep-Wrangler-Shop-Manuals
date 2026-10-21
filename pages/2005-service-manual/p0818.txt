@@ -1,0 +1,46 @@
+8W - 80 - 18   8W-80 CONNECTOR PIN-OUTS        TJ
+
+
+                          C301 - (BODY SIDE)
+                CAV                  CIRCUIT
+                 A1   V32 20VT/YL
+                 A2   G117 20VT/LG
+                 A3   L300 14LG/WT
+                 A4   L4 14WT/LG
+                 A5   A333 14WT/RD
+                 A6   A991 12RD
+                 A7   F26 16PK/OR
+                 A8   K900 20DB/DG
+                 B1   V37 20VT
+                 B2   A701 18BR/RD
+                 B3   M21 20YL/BR
+                 B4   B15 20DG/WT
+                 B5   G93 20VT/LB
+                 B6   L60 18TN
+                 B7   A1 16RD
+                 B8   L1 20WT/LG
+                 B9   L61 18GY
+                B10   L7 18WT/YL
+                B11   L50 18WT/TN
+                B12   X3 20RD/YL
+                 C1   W10 16BR
+                 C2   L139 18WT/YL
+                 C3   V30 20VT/WT
+                 C4   K106 20VT/LB
+                 C5   K107 20VT/WT
+                 C6   L45 20LG/DG
+                 C7   F102 20PK/DB
+                 C8   F1 20PK/WT
+                 C9   A39 18RD/LG
+                C10   F960 20PK/LG
+                C11   G9 20GY/BK
+                C12   G119 20VT
+                 D1   T141 18YL/OR
+                 D2   G118 20VT/YL
+                 D3   A906 12RD
+                 D4   A940 12RD
+                 D5   C15 12BK/WT
+                 D6   A8 14RD
+                 D7   D25 20WT/VT
+                 D8   -
+

@@ -1,0 +1,64 @@
+3 - 142    REAR AXLE - 216RBI                                                                             TJ
+DIFFERENTIAL -TRAC-LOK (Continued)
+                                                           (2) Raise one rear wheel until it is completely off
+                                                         the ground.
+                                                           (3) Engine off, transmission in neutral, and park-
+                                                         ing brake off.
+                                                           (4) Remove wheel and bolt Special Tool 6790 or
+                                                         equivalent tool to studs.
+                                                           (5) Use torque wrench on special tool to rotate
+                                                         wheel and read rotating torque (Fig. 49).
+
+
+
+
+                                                                  Fig. 49 ROTATING TORQUE TEST
+                                                         1 - SPECIAL TOOL WITH BOLT IN CENTER HOLE
+                                                         2 - TORQUE WRENCH
+
+  Fig. 48 TRAC-LOK LIMITED SLIP DIFFERENTIAL               (6) If rotating torque is less than 41 N·m (56 ft.
+1 - CASE                                                 lbs.) or more than 271 N·m (200 ft. lbs.) on either
+2 - RING GEAR                                            wheel the unit should be serviced.
+3 - DRIVE PINION
+4 - PINION GEAR
+5 - MATE SHAFT                                           DISASSEMBLY
+6 - CLUTCH PACK                                            (1) Clamp side gear Fixture 6965 in a vise and set
+7 - SIDE GEAR
+8 - CLUTCH PACK                                          differential case on the fixture (Fig. 50).
+
+DIAGNOSIS AND TESTING                                    NOTE: The Trac-lokT differential can be serviced
+   The most common problem is a chatter noise when       with the ring gear installed unless the gear hangs
+turning corners. Before removing the unit for repair,    over the pinion shaft, then it must be removed.
+drain, flush and refill the axle with the specified
+                                                           (2) Remove pinion gear mate shaft roll pin with a
+lubricant. A container of Mopar Trac-lokt Lubricant
+                                                         hammer and punch.
+(friction modifier) should be added after repair ser-
+                                                           (3) Remove pinion gear mate shaft with a drift and
+vice or during a lubricant change.
+                                                         hammer.
+   After changing the lubricant, drive the vehicle and
+                                                           (4) Lubricate and install disc without threaded
+make 10 to 12 slow, figure-eight turns. This maneu-
+                                                         hole from Trac-lokt Tool C-4487 into lower side gear
+ver will pump lubricant through the clutches. This
+                                                         (Fig. 51).
+will correct the condition in most instances. If the
+                                                           (5) Lubricate and install disc with threaded hole
+chatter persists, clutch damage could have occurred.
+                                                         from Trac-lokt Tool C-4487 into upper side gear.
+                                                         Thread forcing screw from tool into threaded disc
+DIFFERENTIAL TEST                                        until it becomes centered in lower disc.
+  The differential can be tested without removing the
+                                                           (6) Position a small screw driver in slot of the
+differential case by measuring rotating torque. Make
+                                                         threaded disc (Fig. 52) to prevent adapter from turn-
+sure brakes are not dragging during this measure-
+                                                         ing.
+ment.
+                                                           (7) Tighten forcing screw to 122 N·m (90 ft. lbs.)
+  (1) Place blocks in front and rear of both front
+                                                         maximum to compress Belleville springs in clutch
+wheels.
+                                                         packs (Fig. 53).
+

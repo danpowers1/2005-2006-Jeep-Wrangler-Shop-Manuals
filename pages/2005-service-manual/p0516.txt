@@ -1,0 +1,69 @@
+8O - 6    RESTRAINTS                                                                                          TJ
+RESTRAINTS (Continued)
+
+DIAGNOSIS AND TESTING - SUPPLEMENTAL                      manner consistent with state, provincial, local and
+                                                          federal regulations.
+RESTRAINT SYSTEM
+   Proper diagnosis and testing of the supplemental
+                                                          SUPPLEMENTAL RESTRAINT STORAGE
+restraint system components, the PCI data bus, the
+                                                             Airbags must be stored in their original, special
+data bus electronic message inputs to and outputs
+                                                          container until they are used for service. Also, they
+from the ElectroMechanical Instrument Cluster
+                                                          must be stored in a clean, dry environment; away
+(EMIC), or the Airbag Control Module (ACM) as well
+                                                          from sources of extreme heat, sparks, and high elec-
+as the retrieval or erasure of a Diagnostic Trouble
+                                                          trical energy. Always place or store any airbag on a
+Code (DTC) from the ACM requires the use of a
+                                                          surface with its trim cover or airbag cushion side fac-
+DRBIIIt scan tool. Refer to the appropriate diagnos-
+                                                          ing up, to minimize movement in case of an acciden-
+tic information.
+                                                          tal deployment.
+WARNING: TO AVOID PERSONAL INJURY OR
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                 STANDARD PROCEDURE - SERVICE AFTER A
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                   SUPPLEMENTAL RESTRAINT DEPLOYMENT
+TEM BEFORE ATTEMPTING ANY STEERING                           Any vehicle which is to be returned to use follow-
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                ing a supplemental restraint deployment, must have
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                    the deployed restraints replaced. In addition, if the
+VICE. DISCONNECT AND ISOLATE THE BATTERY                  driver airbag has been deployed, the clockspring
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                    must be replaced. If the passenger airbag is
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                  deployed, the passenger airbag door must be
+CHARGE BEFORE PERFORMING FURTHER DIAG-                    replaced. These components are not intended for
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY               reuse and will be damaged or weakened as a result
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                     of a supplemental restraint deployment, which may
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                   or may not be obvious during a visual inspection.
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                     It is also critical that the mounting surfaces and/or
+BAG DEPLOYMENT.                                           mounting bracket for the Airbag Control Module
+                                                          (ACM) be closely inspected and restored to its origi-
+                                                          nal condition following any vehicle impact damage.
+                                                          Because the ACM contains impact sensors that are
+STANDARD PROCEDURE                                        used by the supplemental restraint system to moni-
+                                                          tor or confirm the direction and severity of a vehicle
+STANDARD PROCEDURE - HANDLING                             impact, improper orientation or insecure fastening of
+NON-DEPLOYED SUPPLEMENTAL RESTRAINTS                      this component may cause airbags not to deploy
+  At no time should any source of electricity be per-     when required, or to deploy when not required. All
+mitted near the inflator on the back of a non-de-         other vehicle components should be closely inspected
+ployed airbag. When carrying a non-deployed airbag,       following any supplemental restraint deployment, but
+the trim cover or airbag cushion side of the unit         are to be replaced only as required by the extent of
+should be pointed away from the body to minimize          the visible damage incurred.
+injury in the event of an accidental deployment. If
+the airbag unit is placed on a bench or any other sur-    CLEANUP PROCEDURE
+face, the trim cover or airbag cushion side of the unit     Following a supplemental restraint deployment,
+should be face up to minimize movement in the event       the vehicle interior will contain a powdery residue.
+of an accidental deployment. In addition, the supple-     This residue consists primarily of harmless particu-
+mental restraint system should be disarmed when-          late by-products of the small pyrotechnic charge that
+ever any steering wheel, steering column, driver          initiates the propellant used to deploy a supplemen-
+airbag, passenger airbag, or instrument panel compo-      tal restraint. However, this residue may also contain
+nents require diagnosis or service. Failure to observe    traces of sodium hydroxide powder, a chemical
+this warning could result in accidental airbag deploy-    by-product of the propellant material that is used to
+ment and possible personal injury.                        generate the inert gas that inflates the airbag. Since
+  All damaged, faulty, or non-deployed airbags which      sodium hydroxide powder can irritate the skin, eyes,
+are replaced on vehicles are to be handled and dis-       nose, or throat, be certain to wear safety glasses,
+posed of properly. If an airbag unit is faulty or dam-    rubber gloves, and a long-sleeved shirt during
+aged and non-deployed, refer to the Hazardous             cleanup (Fig. 3).
+Substance Control System for proper disposal. Dis-
+pose of all non-deployed and deployed airbags in a
+

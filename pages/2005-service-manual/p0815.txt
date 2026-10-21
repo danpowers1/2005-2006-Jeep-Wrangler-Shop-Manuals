@@ -1,0 +1,53 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                           8W - 80 - 15
+
+
+                        C205 - (HVAC SIDE)
+              CAV                CIRCUIT
+               1    Z134 20DB/WT (EXCEPT HEATER
+                    ONLY)
+               1    Z11 20DB/WT (HEATER ONLY)
+               2    C71 14TN (EXCEPT HEATER ONLY)
+               2    C4 14TN (HEATER ONLY)
+               3    C72 14LG (EXCEPT HEATER ONLY)
+               3    C5 14LG (HEATER ONLY)
+               4    C73 14LB (EXCEPT HEATER ONLY)
+               4    C6 14LB (HEATER ONLY)
+               5    F504 20OR (EXCEPT HEATER ONLY)
+               5    F24 20OR (HEATER ONLY)
+               6    C132 20YL (EXCEPT HEATER ONLY)
+               6    C132 20YL (HEATER ONLY)
+               7    C75 12BK/TN (EXCEPT HEATER ONLY)
+               7    C7 12BK/TN (HEATER ONLY)
+               8    A502 12RD/LG (EXCEPT HEATER ONLY)
+               8    A111 12RD/LG (HEATER ONLY)
+               9    F504 20DB/WT (EXCEPT HEATER
+                    ONLY)
+               9    F24 20DB/WT (HEATER ONLY)
+              10    Z1 20BK
+
+
+
+
+                    C205 - LT. GREEN (I/P SIDE)
+              CAV                CIRCUIT
+               1    Z134 20BK/LG (EXCEPT HEATER ONLY)
+               1    Z11 20DB/WT (HEATER ONLY)
+               2    C71 18DB/BR (EXCEPT HEATER ONLY)
+               2    C4 18TN (HEATER ONLY)
+               3    C72 16DB/OR (EXCEPT HEATER ONLY)
+               3    C5 16LG/LB (HEATER ONLY)
+               4    C73 14DB/VT (EXCEPT HEATER ONLY)
+               4    C6 14LB (HEATER ONLY)
+               5    F504 20GY/PK (EXCEPT HEATER ONLY)
+               5    F504 20GY/PK (EXCEPT HEATER ONLY)
+               5    F24 20RD/DG (HEATER ONLY)
+               6    C132 20DB/YL (EXCEPT HEATER ONLY)
+               6    C36 20DB/RD (HEATER ONLY)
+               7    C75 12DB/GY (EXCEPT HEATER ONLY)
+               7    C7 12BR/TN (HEATER ONLY)
+               8    A502 12RD/LG (EXCEPT HEATER ONLY)
+               8    A111 12RD/LB (HEATER ONLY)
+               9    F504 20GY/PK (EXCEPT HEATER ONLY)
+               9    F24 20RD/DG (HEATER ONLY)
+              10    Z1 20BK
+

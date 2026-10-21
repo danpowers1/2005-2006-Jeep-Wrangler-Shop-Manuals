@@ -1,0 +1,52 @@
+TJ                                                                                     CONTROLS        24 - 27
+BLEND DOOR ACTUATOR (Continued)
+
+
+
+
+                                                                     Fig. 24 Blower Motor Relay
+                                                        30 - COMMON FEED
+                                                        85 - COIL GROUND
+            Fig. 23 Blend Door Actuator                 86 - COIL BATTERY
+                                                        87 - NORMALLY OPEN
+1 - WIRE HARNESS CONNECTOR                              87A - NORMALLY CLOSED
+2 - BLEND DOOR ACTUATOR
+3 - SCREWS (3)
+4 - HVAC HOUSING                                        the ignition switch to control the high current output
+                                                        to the blower motor. The movable, common feed relay
+INSTALLATION                                            contact is held against the fixed, normally closed
+  (1) Position the blend door actuator onto the bot-    relay contact by spring pressure. When the electro-
+tom of the HVAC housing. If necessary, rotate the       magnetic relay coil is energized, it draws the mov-
+actuator slightly to align the actuator output shaft    able common feed relay contact away from the fixed,
+with the blend door linkage.                            normally closed relay contact and, holds it against
+  (2) Install the three screws that secure the blend    the fixed, normally open relay contact. This action
+door actuator to the HVAC housing. Tighten the          allows high current to flow to the blower motor.
+screws to 2 N·m (17 in. lbs.).                            When the relay coil is de-energized, spring pres-
+  (3) Connect the HVAC wire harness connector to        sure returns the movable relay contact back against
+the blend door actuator.                                the fixed, normally closed contact point. The resistor
+  (4) Reconnect the battery negative cable.             or diode is connected in parallel with the relay coil,
+                                                        and helps to dissipate voltage spikes and electromag-
+                                                        netic interference that can be generated as the elec-
+BLOWER MOTOR RELAY                                      tromagnetic field of the relay coil collapses.
+                                                          The blower motor relay terminals are connected to
+DESCRIPTION                                             the vehicle electrical system through a connector
+  The blower motor relay (Fig. 24) is a International   receptacle mounted to the HVAC housing. The inputs
+Standards Organization (ISO)-type relay. Relays con-    and outputs of the blower motor relay include:
+forming to the ISO specifications have common phys-       • The common feed terminal (4) receives battery
+ical dimensions, current capacities, terminal           current from a fuse in the PDC at all times.
+functions and patterns. The blower motor relay is a       • The coil ground terminal (2) is connected to
+electromechanical device that switches battery cur-     ground at all times.
+rent from a fuse in the power distribution center         • The coil battery terminal (5) receives battery
+(PDC) directly to the blower motor. The blower motor    current from a fuse in the fuse block through a fused
+relay is energized when the relay coil is provided a    ignition switch output (run) circuit only when the
+voltage signal by the ignition switch.                  ignition switch is in the On position.
+  The blower motor relay is mounted to the HVAC           • The normally open terminal (1) provides battery
+housing, directly behind the glove box.                 current to the blower motor through the blower
+                                                        motor relay only when the blower motor relay coil is
+                                                        energized.
+OPERATION
+                                                          • The normally closed terminal (87A) is not con-
+ The ISO-standard blower motor relay is an electro-
+                                                        nected to any circuit in this application, but provides
+mechanical switch that uses a low current input from
+

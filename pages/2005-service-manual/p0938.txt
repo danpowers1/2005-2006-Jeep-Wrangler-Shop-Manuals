@@ -1,0 +1,48 @@
+9 - 18   ENGINE 2.4L                                                                                              TJ
+ENGINE 2.4L (Continued)
+
+                 OIL PRESSURE                                         DESCRIPTION            N·m     Ft.     In.
+                                                                                                    Lbs.    Lbs.
+ DESCRIPTION                 SPECIFICATION                      Bolts, Cylinder Head         12       -     105
+                         Metric             Standard            Cover
+At Curb Idle             25 kPa                  4 psi          Flex Plate to Crankshaft     95      70       -
+Speed*                                                          Flywheel Mounting Bolts      81      60       -
+At 3000 rpm           170 - 550 kPa        25 - 80 psi          Bolts, Engine Mount          61      45       -
+CAUTION:                                                        Bracket Right
+*If pressure is ZERO at curb idle, DO NOT run engine            Bolts, Engine Mounting       (Refer to 9 ENGINE/
+at 3000 rpm.                                                                                 ENGINE MOUNTING)
+                                                                Bolts, Exhaust Manifold to   23       -     200
+SPECIFICATIONS - TORQUE                                         Cylinder Head
+                                                                Bolts, Exhaust Manifold      12       -     105
+     DESCRIPTION               N·m         Ft.            In.   Heat Shield
+                                          Lbs.           Lbs.   Bolts, Intake Manifold -     28       -     250
+Bolts, Balance Shaft              54       40             -     Lower
+Carrier to Block                                                Oil Filter                   20      15       -
+Fastener - Double Ended,          12        -            105    Bolts, Oil Pan               12       -     105
+Balance Shaft Gear
+                                                                Plug, Oil Pan Drain          27      20       -
+Cover
+                                                                Bolts, Oil Pump to Block     28       -     250
+Bolt, Balance Shaft               28        -            250
+Sprocket                                                        Bolts, Oil Pump Cover        12       -     105
+                                                                Plate
+Bolts, Balance Shaft              12        -            105
+Chain Tensioner                                                 Bolt, Oil Pump Pick-up       28      20       -
+                                                                Tube
+Bolts, Balance Shaft              12        -            105
+Carrier Cover                                                   Cap - Oil Pump Relief        41      30       -
+                                                                Valve
+Bolt, Camshaft Sprocket           115      85             -
+                                                                Spark Plugs                  18      13       -
+Bolts, Connecting Rod         27 +1⁄4      20             -
+Cap                            turn       +1⁄4                  Bolts, Timing Belt Covers
+                                          turn                      - Front Covers to Rear   12       -     105
+Bolts, Crankshaft Main                                                              Covers
+Bearing Cap/Bedplate                                                          - Rear Cover   12       -     105
+                 M8 Bolts         28        -            250    Bolts, Timing Belt           61      45       -
+                M11 Bolts         75       55             -     Tensioner Assembly
+Crankshaft Damper              136        100             -
+Bolts, Cylinder Head              (Refer to 9 - ENGINE/
+                                   CYLINDER HEAD -
+                                    INSTALLATION)
+

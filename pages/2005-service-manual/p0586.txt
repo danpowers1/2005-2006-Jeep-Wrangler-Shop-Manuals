@@ -1,0 +1,75 @@
+8R - 24        REAR WIPERS/WASHERS                                                                                                      TJ
+
+
+                                         REAR WIPERS/WASHERS
+
+                                                         TABLE OF CONTENTS
+                                                              page                                                                    page
+
+REAR WIPERS/WASHERS                                                      INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24       REAR WIPER ARM
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 26      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+ DIAGNOSIS AND TESTING - REAR WIPER &                                    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+   WASHER SYSTEM           . . . . . . . . . . . . . . . . . . . . 27    REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+ CLEANING - REAR WIPER & WASHER                                          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 35
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28    REAR WIPER BLADE
+ INSPECTION - REAR WIPER & WASHER                                        DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 36
+   SYSTEM . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+REAR CHECK VALVE                                                         REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 30        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 37
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 30     REAR WIPER MOTOR
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 37
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 31       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+REAR WASHER HOSES/TUBES                                                  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 31        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 39
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 32     REAR WIPER MOTOR TRIM COVER
+REAR WASHER NOZZLE                                                       REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 32        INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 32     REAR WIPER/WASHER SWITCH
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 33       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+REAR WASHER PUMP MOTOR                                                   DIAGNOSIS AND TESTING - REAR WIPER &
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 33          WASHER SWITCH . . . . . . . . . . . . . . . . . . . . . 41
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 34      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+REAR WIPERS/WASHERS                                                     shaft. A plastic nut secures the threaded nipple on
+                                                                        the back of the nozzle to the inside of the liftglass.
+                                                                          • Rear Washer Plumbing - The plumbing for
+DESCRIPTION
+                                                                        the rear washer system consists of rubber hoses and
+   An electrically operated fixed speed rear wiper and
+                                                                        molded plastic fittings. The plumbing is routed along
+washer system is optional factory-installed equip-
+                                                                        the left side of the vehicle with the body wire har-
+ment on this model when it is also equipped with the
+                                                                        ness from the washer reservoir in the engine com-
+optional hardtop roof (Fig. 1). The rear wiper and
+                                                                        partment, through the dash into the passenger
+washer system includes the following major compo-
+                                                                        compartment, and back to the left rear corner of the
+nents, which are described in further detail else-
+                                                                        body. The rear check valve splices the body wire har-
+where in this service information:
+                                                                        ness half of the washer hose to the hardtop wire har-
+   • Rear Check Valve - The rear washer system
+                                                                        ness half of the hose at the left rear corner of the
+check valve is located near the belt line in the left
+                                                                        body. The hardtop wire harness and washer hose are
+rear corner of the passenger compartment in the
+                                                                        routed up the left rear corner of the hardtop and over
+vehicle. The rear check valve also serves as the in-
+                                                                        the upper liftglass opening header to the rear washer
+line connector between the body wire harness half
+                                                                        nozzle in the upper right corner of the rear liftglass.
+and the hardtop wire harness half of the rear washer
+                                                                        A molded plastic washer hose cap is secured by an
+hose plumbing.
+                                                                        integral bail strap to the body wire harness half of
+   • Rear Washer Nozzle - The rear washer nozzle
+                                                                        the rear washer hose near the left rear corner of the
+is located in a mounting hole in the rear liftglass just
+                                                                        body. This cap serves to plug the rear washer hose
+below and inboard of the rear wiper motor output
+                                                                        when the hardtop is removed from the vehicle.
+

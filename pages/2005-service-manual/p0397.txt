@@ -1,0 +1,67 @@
+TJ                                                                                 HEATED GLASS         8G - 3
+HEATED GLASS (Continued)
+  • Rear window defogger switch in the instrument          The EBL relay is located in the power distribution
+panel.                                                   center (PDC) in the engine compartment.
+  • Rear window defogger relay control circuity in
+the instrument cluster.
+  • Rear window defogger grid lines (all grid lines
+would have to be broken, or the power feed or ground
+wire disconnected, for the entire heated grid to be
+inoperative).
+  (4) If the EBL system operation has been verified
+but the rear window defogger indicator does not illu-
+minate, check the indicator power feed fuse located
+in the fuse block. If the fuse is Ok, replace the rear
+window defogger switch (Refer to 8 - ELECTRICAL/
+HEATED GLASS/REAR WINDOW DEFOGGER
+SWITCH - REMOVAL).
+
+
+
+
+                                                              Fig. 4 Rear Window Defogger (EBL) Relay
+                                                         30 - COMMON FEED
+                                                         85 - COIL GROUND
+                                                         86 - COIL BATTERY
+                                                         87 - NORMALLY OPEN
+                                                         87A - NORMALLY CLOSED
+
+
+                                                         OPERATION
+                                                            The ISO-standard rear window defogger (EBL)
+                                                         relay is an electromechanical switch that uses a low
+                                                         current input controlled by the body control module
+                                                         (BCM) to control the high current output to the rear
+                                                         window defogger grid lines The movable, common
+     Fig. 3 Rear Window Glass Grid Test - Typical
+                                                         feed relay contact is held against the fixed, normally
+1 - TERMINAL “B”
+2 - TERMINAL “A”
+                                                         closed relay contact by spring pressure. When the
+3 - FEED WIRE                                            electromagnetic relay coil is energized, it draws the
+4 - MID-POINT “C” (TYPICAL)                              movable common feed relay contact away from the
+5 - HEATED REAR WINDOW DEFOGGER GRID
+6 - GROUND WIRE
+                                                         fixed, normally closed relay contact and, holds it
+                                                         against the fixed, normally open relay contact. This
+                                                         action allows high current to flow to the rear window
+REAR WINDOW DEFOGGER                                     defogger grid lines.
+RELAY                                                       When the relay coil is de-energized, spring pres-
+                                                         sure returns the movable relay contact back against
+DESCRIPTION                                              the fixed, normally closed contact point. The resistor
+   The rear window defogger (EBL) relay (Fig. 4) is a    or diode is connected in parallel with the relay coil,
+International Standards Organization (ISO)-type          and helps to dissipate voltage spikes and electromag-
+relay. Relays conforming to the ISO specifications       netic interference that can be generated as the elec-
+have common physical dimensions, current capaci-         tromagnetic field of the relay coil collapses.
+ties, terminal functions and patterns. The EBL relay        The EBL relay cannot be repaired and, if faulty or
+is a electromechanical device that switches battery      damaged, it must be replaced. Refer to the appropri-
+current through a fuse in the fuse block to the rear     ate wiring information for diagnosis and testing of
+window defogger grid and to the light-emitting diode     the ISO-standard relay and for complete rear window
+(LED) indicator of the rear window defogger switch       defogger (EBL) wiring diagrams.
+and also to the heating elements of the outside rear
+view mirrors (when equipped). The EBL relay is           REMOVAL
+energized when the relay coil is provided a ground         (1) Disconnect and isolate the negative battery
+path by the control circuitry within the instrument      cable.
+cluster.                                                   (2) Open the cover of the power distribution center
+                                                         (PDC) (Fig. 5) located in the engine compartment.
+

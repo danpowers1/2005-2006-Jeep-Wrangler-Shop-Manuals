@@ -1,0 +1,63 @@
+TJ                                                                                SPEED CONTROL          8P - 5
+SERVO (Continued)
+  (6) Remove 2 mounting nuts holding servo cable         SWITCH
+sleeve to bracket (Fig. 4).
+  (7) Pull speed control cable sleeve and servo away
+                                                         DESCRIPTION
+from servo mounting bracket to expose cable retain-
+                                                           There are two separate switch pods that operate
+ing clip (Fig. 4) and remove clip. Note: The servo
+                                                         the speed control system. The steering-wheel-
+mounting bracket displayed in (Fig. 4) is a typical
+                                                         mounted switches use multiplexed circuits to provide
+bracket and may/may not be applicable to this model
+                                                         inputs to the PCM for ON, OFF, RESUME, ACCEL-
+vehicle.
+                                                         ERATE, SET, DECEL and CANCEL modes. Refer to
+  (8) Remove servo from mounting bracket. While
+                                                         the owner’s manual for more information on speed
+removing, note orientation of servo to bracket.
+                                                         control switch functions and setting procedures.
+                                                           The individual switches cannot be repaired. If one
+                                                         switch fails, the entire switch module must be
+                                                         replaced.
+
+                                                         OPERATION
+                                                           When speed control is selected by depressing the
+                                                         ON, OFF switch, the PCM allows a set speed to be
+                                                         stored in its RAM for speed control. To store a set
+                                                         speed, depress the SET switch while the vehicle is
+                                                         moving at a speed between approximately 35 and 85
+                                                         mph. In order for the speed control to engage, the
+                                                         brakes cannot be applied, nor can the gear selector
+                                                         be indicating the transmission is in Park or Neutral.
+                                                           The speed control can be disengaged manually by:
+                                                           • Stepping on the brake pedal
+                                                           • Depressing the OFF switch
+                                                           • Depressing the CANCEL switch.
+  Fig. 4 SERVO CABLE CLIP REMOVE/INSTALL -
+                                                           The speed control can be disengaged also by any of
+                  TYPICAL
+                                                         the following conditions:
+1 - SERVO MOUNTING NUTS (2)
+2 - SERVO
+                                                           • An indication of Park or Neutral
+3 - CABLE RETAINING CLIP                                   • The VSS signal increases at a rate of 10 mph
+4 - SERVO CABLE AND SLEEVE                               per second (indicates that the co-efficient of friction
+                                                         between the road surface and tires is extremely low)
+INSTALLATION                                               • Depressing the clutch pedal.
+  (1) Position servo to mounting bracket.                  • Excessive engine rpm (indicates that the trans-
+  (2) Align hole in cable connector with hole in servo   mission may be in a low gear)
+pin. Install cable-to-servo retaining clip.                • The VSS signal decreases at a rate of 10 mph
+  (3) Insert servo mounting studs through holes in       per second (indicates that the vehicle may have
+servo mounting bracket.                                  decelerated at an extremely high rate)
+  (4) Install servo mounting nuts and tighten to 8.5       • If the actual speed is not within 20 mph of the
+N·m (75 in. lbs.).                                       set speed
+  (5) Connect vacuum line at servo.                        The previous disengagement conditions are pro-
+  (6) Connect electrical connector at servo.             grammed for added safety.
+  (7) Connect servo cable to throttle body. Refer to       Once the speed control has been disengaged,
+Cable Removal/Installation.                              depressing the ACCEL switch restores the vehicle to
+  (8) Connect negative battery cable to battery.         the target speed that was stored in the PCM’s RAM.
+  (9) Before starting engine, operate accelerator
+pedal to check for any binding.
+

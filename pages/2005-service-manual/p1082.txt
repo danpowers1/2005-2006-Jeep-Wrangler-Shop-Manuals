@@ -1,0 +1,63 @@
+14 - 6    FUEL DELIVERY                                                                                         TJ
+
+
+FUEL RAIL/FUEL DAMPER -                                    REMOVAL - 2.4L
+2.4L                                                       WARNING: THE FUEL SYSTEM IS UNDER CON-
+                                                           STANT PRESSURE EVEN WITH ENGINE OFF.
+DESCRIPTION - 2.4L                                         BEFORE SERVICING FUEL RAIL, FUEL SYSTEM
+  The fuel injector rail is used to mount the fuel         PRESSURE MUST BE RELEASED.
+injectors to the engine (Fig. 4). On the 2.4L 4-cylin-
+der engine, a fuel damper is located near the front          The fuel rail can be removed without removing the
+of the fuel rail (Fig. 4).                                 intake manifold if the following procedures are fol-
+                                                           lowed.
+                                                             (1) Remove fuel tank filler tube cap.
+                                                             (2) Perform Fuel System Pressure Release Proce-
+                                                           dure.
+                                                             (3) Remove negative battery cable at battery.
+                                                             (4) Remove air duct at throttle body.
+                                                             (5) Disconnect fuel line latch clip and fuel line at
+                                                           fuel rail. A special tool will be necessary for fuel line
+                                                           disconnection. Refer to Quick-Connect Fittings.
+                                                             (6) Remove necessary vacuum lines at throttle
+                                                           body.
+                                                             (7) Drain engine coolant and remove thermostat
+                                                           and thermostat housing.
+                                                             (8) Remove PCV hose and valve at valve cover.
+                                                             (9) Remove 3 upper intake manifold mounting
+                                                           bolts (Fig. 6), but only loosen 2 lower bolts about 2
+                                                           turns.
+                                                             (10) Disconnect 2 main engine harness connectors
+                                                           at rear of intake manifold (Fig. 5).
+
+
+
+
+               Fig. 4 FUEL RAIL - 2.4L
+1 - FUEL RAIL
+2 - MOUNTING BOLTS
+3 - TEST PORT (IF USED)
+4 - QUICK-CONNECT FITTING
+5 - INJ. #1
+6 - DAMPER
+7 - INJ #2
+8 - INJ #3
+9 - INJ #4
+10- INJECTOR RETAINING CLIP
+
+
+OPERATION - 2.4L
+  The fuel injector rail supplies the necessary fuel to
+each individual fuel injector.
+  The fuel damper is used only to help control fuel
+pressure pulsations. These pulsations are the result
+of the firing of the fuel injectors. It is not used as a
+fuel pressure regulator. The fuel pressure regulator is
+not mounted to the fuel rail on any engine. It is
+located on the fuel tank mounted fuel pump module.                Fig. 5 MAP SENSOR LOCATION - 2.4L
+Refer to Fuel Pressure Regulator for additional infor-     1 - REAR OF INTAKE MANIFOLD
+mation.                                                    2 - MAP SENSOR
+  The fuel rail is not repairable.                         3 - ALIGNMENT PIN
+                                                           4 - MOUNTING BOLT (TORX)
+  A quick-connect fitting with a safety latch is used      5 - ELECTRICAL CONNECTOR
+to attach the fuel line to the fuel rail.                  6 - MAIN ENGINE HARNESS CONNECTORS
+

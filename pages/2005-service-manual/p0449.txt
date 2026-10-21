@@ -1,0 +1,60 @@
+TJ                                                                         INSTRUMENT CLUSTER            8J - 23
+BRAKE/PARK BRAKE INDICATOR (Continued)
+  For further diagnosis of the brake indicator or the     ity between the red brake warning indicator driver
+instrument cluster circuitry that controls the LED,       (G9) circuit cavities of the floor wire harness connec-
+(Refer to 8 - ELECTRICAL/INSTRUMENT CLUS-                 tor for the park brake switch and the headlamp and
+TER - DIAGNOSIS AND TESTING). For proper                  dash wire harness connector for the brake warning
+diagnosis of the PCM, the PCI data bus, or the mes-       indicator switch. There should be continuity. If not
+sage inputs to the instrument cluster that control the    OK, repair the open red brake warning indicator
+brake indicator, a DRBIIIt scan tool is required.         driver (G9) circuit between the park brake switch
+Refer to the appropriate diagnostic information.          and the brake warning indicator switch as required.
+
+DIAGNOSIS AND TESTING - BRAKE INDICATOR                   INDICATOR REMAINS ILLUMINATED - BRAKE SYSTEM
+   The diagnosis found here addresses an inoperative      CHECKS OK
+brake indicator condition. If there are problems with        (1) Disconnect and isolate the battery negative
+several indicators in the instrument cluster, (Refer to   cable. Remove the instrument cluster from the
+8 - ELECTRICAL/INSTRUMENT CLUSTER - DIAG-                 instrument panel. Disconnect the instrument panel
+NOSIS AND TESTING). If the brake indicator stays          wire harness connector (Connector C2) for the instru-
+on with the ignition switch in the On position and        ment cluster from the connector receptacle on the
+the park brake released, or comes on while driving,       back of the cluster housing. Disconnect the headlamp
+(Refer to 5 - BRAKES - DIAGNOSIS AND TEST-                and dash wire harness connector for the brake warn-
+ING). If no brake system problem is found, the fol-       ing indicator switch from the switch terminals.
+lowing procedures will help to locate a shorted or        Check for continuity between the red brake warning
+open circuit, or a faulty switch input. Refer to the      indicator driver circuit (G99) cavity of the headlamp
+appropriate wiring information. The wiring informa-       and dash wire harness connector for the brake warn-
+tion includes wiring diagrams, proper wire and con-       ing indicator switch and a good ground. There should
+nector repair procedures, details of wire harness         be no continuity. If OK, go to Step 2. If not OK,
+routing and retention, connector pin-out information      repair the shorted red brake warning indicator driver
+and location views for the various wire harness con-      circuit (G99) between the brake warning indicator
+nectors, splices and grounds.                             switch and the instrument cluster as required.
+                                                             (2) Disconnect the floor wire harness connector for
+WARNING: TO AVOID PERSONAL INJURY OR                      the park brake switch from the switch terminal.
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,                 Check for continuity between the red brake warning
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                   indicator driver circuit (G9) cavity of the headlamp
+TEM BEFORE ATTEMPTING ANY STEERING                        and dash wire harness connector for the brake warn-
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                ing indicator switch and a good ground. There should
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                    be no continuity. If OK, go to Step 3. If not OK,
+VICE. DISCONNECT AND ISOLATE THE BATTERY                  repair the shorted red brake warning indicator driver
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                    circuit (G9) between the brake warning indicator
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                  switch and the park brake switch as required.
+CHARGE BEFORE PERFORMING FURTHER DIAG-                       (3) Check for continuity between each of the two
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY               terminals of the brake warning indicator switch and
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                     a good ground. In each case, there should be no con-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                   tinuity. If OK, go to Step 4. If not OK, replace the
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                  faulty brake warning indicator switch.
+BAG DEPLOYMENT.                                              (4) Check for continuity between the terminal of
+                                                          the park brake switch and a good ground. There
+                                                          should be no continuity with the park brake released,
+INDICATOR ILLUMINATES DURING BULB TEST, BUT DOES          and continuity with the park brake applied. If not
+NOT WHEN PARK BRAKE APPLIED                               OK, replace the faulty park brake switch.
+  (1) Disconnect and isolate the battery negative
+cable. Disconnect the floor wire harness connector for
+the park brake switch from the switch terminal.
+Apply the parking brake. Check for continuity
+between the park brake switch terminal and a good
+ground. There should be continuity. If OK, go to Step
+2. If not OK, replace the faulty park brake switch.
+  (2) Disconnect the headlamp and dash wire har-
+ness connector for the brake warning indicator
+switch from the switch terminals. Check for continu-
+

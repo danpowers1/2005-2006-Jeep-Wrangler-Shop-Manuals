@@ -1,0 +1,57 @@
+TJ                                                                       EVAPORATIVE EMISSIONS            25 - 13
+PCV VALVE (Continued)
+routed into the combustion chamber based on intake         o-ring is used to seal valve to valve cover (Fig. 3).
+manifold vacuum.                                           Another type of threaded PCV valve may be used
+  TYPICAL PCV valves are shown in (Fig. 5), (Fig.          (Fig. 4).
+6) and (Fig. 7).                                             (1) Remove hose from valve. Check condition of
+  When the engine is not operating, or during an           hose.
+engine pop-back, the spring forces the plunger back          (2) Bolted PCV Valve:
+against the seat (Fig. 5). This will prevent vapors             (a) Remove 1 bolt.
+from flowing through the valve.                                 (b) Remove PCV valve from valve cover.
+                                                                (c) Check condition of valve o-ring.
+                                                             (3) Threaded PCV Valve:
+                                                                (a) Unscrew valve from valve cover.
+
+
+                                                           EVAP/PURGE SOLENOID
+                                                           DESCRIPTION
+                                                              The duty cycle EVAP canister purge solenoid (DCP)
+  Fig. 5 ENGINE OFF OR ENGINE BACKFIRE - NO                regulates the rate of vapor flow from the EVAP can-
+                 VAPOR FLOW                                ister to the intake manifold. The Powertrain Control
+   During periods of high manifold vacuum, such as         Module (PCM) operates the solenoid.
+idle or cruising speeds, vacuum is sufficient to com-
+pletely compress spring. It will then pull the plunger     OPERATION
+to the top of the valve (Fig. 6). In this position there      During the cold start warm-up period and the hot
+is minimal vapor flow through the valve.                   start time delay, the PCM does not energize the sole-
+                                                           noid. When de-energized, no vapors are purged. The
+                                                           PCM de-energizes the solenoid during open loop oper-
+                                                           ation.
+                                                              The engine enters closed loop operation after it
+                                                           reaches a specified temperature and the time delay
+                                                           ends. During closed loop operation, the PCM cycles
+                                                           (energizes and de-energizes) the solenoid 5 or 10
+                                                           times per second, depending upon operating condi-
+                                                           tions. The PCM varies the vapor flow rate by chang-
+Fig. 6 HIGH INTAKE MANIFOLD VACUUM - MINIMAL               ing solenoid pulse width. Pulse width is the amount
+                 VAPOR FLOW                                of time that the solenoid is energized. The PCM
+                                                           adjusts solenoid pulse width based on engine operat-
+  During periods of moderate manifold vacuum, the          ing condition.
+plunger is only pulled part way back from inlet. This
+results in maximum vapor flow through the valve            REMOVAL
+(Fig. 7).                                                     The duty cycle EVAP canister purge solenoid is
+                                                           located in the engine compartment near the front of
+                                                           the brake master cylinder (Fig. 8). It is attached to a
+                                                           slip-on type bracket.
+                                                              The EVAP System Test Port is located near the
+                                                           EVAP/Purge Solenoid (Fig. 8).
+                                                              (1) Disconnect electrical wiring connector at sole-
+                                                           noid.
+                                                              (2) Disconnect vacuum lines/hoses at solenoid.
+ Fig. 7 MODERATE INTAKE MANIFOLD VACUUM -                     (3) Lift solenoid and rubber solenoid support from
+            MAXIMUM VAPOR FLOW                             mounting bracket.
+
+REMOVAL
+2.4L
+  The PCV valve is attached to the left/front side of
+the valve cover (Fig. 2). It is secured with 1 bolt. An
+

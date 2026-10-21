@@ -1,0 +1,62 @@
+3 - 108    REAR AXLE - 194RBI                                                                               TJ
+
+
+DIFFERENTIAL - TRAC-LOK
+DESCRIPTION
+   The Trac-Lokt differential has a one-piece differen-
+tial case, and similar internal components as a stan-
+dard differential, plus two clutch disc packs.
+Differential bearing preload and ring gear backlash
+are adjusted with shims located between the differ-
+ential case bearing cups and housing. Pinion bearing
+preload is set and maintained by the use of a collaps-
+ible spacer.
+
+OPERATION
+  This differentials clutches are engaged by two con-
+current forces. The first being the preload force
+exerted through Belleville spring washers within the
+clutch packs. The second is the separating forces gen-
+erated by the side gears as torque is applied through
+the ring gear (Fig. 48).
+  This design provides the differential action needed
+for turning corners and for driving straight ahead
+during periods of unequal traction. When one wheel
+looses traction, the clutch packs transfer additional
+torque to the wheel having the most traction. This
+differential resist wheel spin on bumpy roads and
+provide more pulling power when one wheel looses
+traction. Pulling power is provided continuously until
+both wheels loose traction. If both wheels slip due to       Fig. 48 TRAC-LOK LIMITED SLIP DIFFERENTIAL
+unequal traction, Trac-lokt operation is normal. In
+                                                           1 - CASE
+extreme cases of differences of traction, the wheel        2 - RING GEAR
+with the least traction may spin.                          3 - DRIVE PINION
+                                                           4 - PINION GEAR
+                                                           5 - MATE SHAFT
+DIAGNOSIS AND TESTING                                      6 - CLUTCH PACK
+   The most common problem is a chatter noise when         7 - SIDE GEAR
+turning corners. Before removing the unit for repair,      8 - CLUTCH PACK
+drain, flush and refill the axle with the specified
+                                                           sure brakes are not dragging during this measure-
+lubricant. A container of Mopar Trac-lokt Lubricant
+                                                           ment.
+(friction modifier) should be added after repair ser-
+                                                             (1) Place blocks in front and rear of both front
+vice or during a lubricant change.
+                                                           wheels.
+   After changing the lubricant, drive the vehicle and
+                                                             (2) Raise one rear wheel until it is completely off
+make 10 to 12 slow, figure-eight turns. This maneu-
+                                                           the ground.
+ver will pump lubricant through the clutches. This
+                                                             (3) Engine off, transmission in neutral, and park-
+will correct the condition in most instances. If chatter
+                                                           ing brake off.
+persists, clutch damage could have occurred.
+                                                             (4) Remove wheel and bolt Special Tool 6790 or
+                                                           equivalent tool to studs.
+DIFFERENTIAL TEST
+  The differential can be tested without removing the
+differential case by measuring rotating torque. Make
+

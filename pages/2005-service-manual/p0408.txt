@@ -1,0 +1,38 @@
+8I - 2    IGNITION CONTROL                                                                               TJ
+IGNITION CONTROL (Continued)
+  The Auto Shutdown (ASD) relay provides battery              SPECIFICATIONS
+voltage to the ignition coil. The PCM provides a
+ground contact (circuit) for energizing the coil. When        SPECIFICATIONS - IGNITION TIMING
+the PCM breaks the contact, the energy in the coil
+primary transfers to the secondary causing a spark.
+                                                              Ignition timing is not adjustable on any
+The PCM will de-energize the ASD relay if it does             engine.
+not receive inputs from either the crankshaft or cam-
+shaft position sensors.                                       ENGINE FIRING ORDER - 2.4L 4-CYLINDER
+  A distributor is not used with the 2.4L engine.             1 - 3 - 4 - 2. Refer to (Fig. 1).
+4.0L
+   The 4.0L 6-cylinder engine uses a one-piece coil
+rail containing three independent coils. Although cyl-
+inder firing order is the same as 4.0L engines of pre-
+vious years, spark plug firing is not. The 3 coils dual-
+fire the spark plugs on cylinders 1-6, 2-5 and/or 3-4.
+When one cylinder is being fired (on compression
+stroke), the spark to the opposite cylinder is being
+wasted (on exhaust stroke). The one-piece coil bolts
+directly to the cylinder head. Rubber boots seal the
+secondary terminal ends of the coils to the top of all
+6 spark plugs. One electrical connector (located at
+the rear end of the coil rail) is used for all three coils.
+   Because of coil design, spark plug cables (second-
+ary cables) are not used. A distributor is not used
+with the 4.0L engine.
+                                                                         Fig. 1 FIRING ORDER - 2.4L
+   The ignition system is controlled by the Powertrain
+Control Module (PCM).                                         ENGINE FIRING ORDER - 4.0L 6-CYLINDER
+                                                              ENGINE
+
+
+
+
+                                                                           FIRING ORDER - 4.0L
+

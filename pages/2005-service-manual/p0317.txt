@@ -1,0 +1,32 @@
+TJ                                                                                             ENGINE      7 - 43
+RADIATOR FAN (Continued)
+CAUTION: If fan blade assembly is replaced                  (4) Install the power steering reservoir.
+because of mechanical damage, water pump and                (5) Install the coolant recovery bottle.
+viscous fan drive should also be inspected. These
+components could have been damaged due to                 INSTALLATION - 4.0L
+excessive vibration.                                        (1) Position the fan blade on the thermal viscous
+                                                          fan drive.
+   (1) Remove fan blade assembly from viscous fan           (2) Install four mounting bolts. Tighten to 23 N·M
+drive unit (four bolts).                                  (210 in. lbs.).
+   (2) Lay fan on a flat surface with leading edge fac-     (3) Install the thermal viscous fan drive (Refer to 7
+ing down. With tip of blade touching flat surface,        -   COOLING/ENGINE/FAN           DRIVE       VISCOUS
+replace fan if clearance between opposite blade and       CLUTCH - INSTALLATION).
+surface is greater than 2.0 mm (.090 inch). Rocking
+motion of opposite blades should not exceed 2.0 mm
+(.090 inch). Test all blades in this manner.              RADIATOR FAN RELAY
+   (3) Inspect fan assembly for cracks, bends, loose
+rivets or broken welds. Replace fan if any damage is      DESCRIPTION
+found.                                                      The electric cooling fan HI and LOW relays are
+                                                          located in the Power Distribution Center (PDC) in
+                                                          the engine compartment. See the fuse and relay lay-
+INSTALLATION
+                                                          out label affixed to the inside surface of the PDC
+                                                          cover for cooling fan relay identification and location.
+INSTALLATION                                                The HI and LOW cooling fan relays cannot be
+  (1) Position the cooling fan assembly.
+                                                          adjusted or repaired. If the HI or LOW relay is dam-
+  (2) Install four mounting screws. Tighten to 5.5
+                                                          aged or faulty, it must be replaced.
+N·m (50 in. lbs.)
+  (3) Connect the electrical connector.
+

@@ -1,0 +1,39 @@
+TJ                                                            ELECTRONIC CONTROL MODULES              8E - 13
+SENTRY KEY IMMOBILIZER MODULE (Continued)
+
+
+
+
+                               Fig. 11 Sentry Key Immobilizer Module - Typical
+1 - UPPER SHROUD                                         5 - IGNITION LOCK CYLINDER
+2 - STEERING COLUMN                                      6 - SCREW
+3 - WIRE HARNESS CONNECTOR                               7 - LOWER SHROUD
+4 - SENTRY KEY IMMOBILIZER MODULE                        8 - STEERING WHEEL
+
+
+
+INSTALLATION                                                (2) Slide the SKIM antenna ring around the igni-
+                                                         tion switch lock cylinder housing, then rotate the
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                  SKIM and its mounting bracket upwards and toward
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                   the steering column.
+ATTEMPTING ANY STEERING WHEEL, STEERING                     (3) Align the SKIM mounting bracket clip with the
+COLUMN, OR INSTRUMENT PANEL COMPONENT                    inboard lower flange of the steering column and,
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                push upward firmly on the connector end of the
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                SKIM mounting bracket to engage the clip with the
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                steering column.
+TEM CAPACITOR TO DISCHARGE BEFORE PER-                      (4) Reconnect the cross body wire harness connec-
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS               tor for the SKIM to the SKIM connector.
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG                  (5) On models equipped with a manual transmis-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                  sion, install and tighten the screws that secure the
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                 multi-function switch assembly to the upper steering
+BAG DEPLOYMENT AND POSSIBLE PERSONAL                     column housing. Tighten the screws to 2 N·m (20 in.
+INJURY.                                                  lbs.).
+                                                            (6) Position both the upper and lower shrouds onto
+  (1) Position the Sentry Key Immobilizer Module         the steering column (Fig. 10).
+(SKIM) (Fig. 11). On models with a manual transmis-         (7) Install and tighten the screws that secure the
+sion, lift the multi-function switch upward off of the   lower steering column shroud to the upper shroud.
+upper steering column housing far enough to insert       Tighten the screws to 2 N·m (18 in. lbs.).
+the SKIM antenna formation between the ignition             (8) Move the tilt steering column to the fully
+key release button and the multi-function switch         raised position and secure it in place by moving the
+housing.                                                 tilt release lever back to the locked (up) position.
+

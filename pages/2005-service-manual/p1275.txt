@@ -1,0 +1,57 @@
+TJ                                                       AUTOMATIC TRANSMISSION - 42RLE                21 - 131
+INPUT CLUTCH ASSEMBLY (Continued)
+
+                                                        OPERATION
+                                                           The Input Speed Sensor provides information on
+                                                        how fast the input shaft is rotating. As the teeth of
+                                                        the input clutch hub pass by the sensor coil, an AC
+                                                        voltage is generated and sent to the TCM. The TCM
+                                                        interprets this information as input shaft rpm.
+                                                           The Output Speed Sensor generates an AC signal
+                                                        in a similar fashion, though its coil is excited by rota-
+                                                        tion of the rear planetary carrier lugs. The TCM
+                                                        interprets this information as output shaft rpm.
+                                                           The TCM compares the input and output speed
+                                                        signals to determine the following:
+                                                           • Transmission gear ratio
+                                                           • Speed ratio error detection
+                                                           • CVI calculation
+          Fig. 221 Input Clutch Assembly                   The TCM also compares the input speed signal and
+                                                        the engine speed signal to determine the following:
+1 - INPUT CLUTCH ASSEMBLY
+2 - OVERDRIVE SHAFT ASSEMBLY                               • Torque converter clutch slippage
+                                                           • Torque converter element speed ratio
+  (45) Reinstall overdrive and reverse clutch (Fig.
+221). Rechecking these clutch clearances is not         REMOVAL
+necessary.
+
+
+INPUT SPEED SENSOR
+DESCRIPTION
+
+
+
+
+                                                                     Fig. 223 Input Speed Sensor
+                                                        1 - INPUT SPEED SENSOR
+                                                        2 - OUTPUT SPEED SENSOR
+                                                        3 - TRANSMISSION RANGE SENSOR
+
+                                                          (1) Raise vehicle.
+                                                          (2) Place a suitable fluid catch pan under the
+   Fig. 222 Input and Output Speed Sensors and
+                                                        transmission.
+            Transmission Range Sensor
+                                                          (3) Remove the wiring connector from the input
+1 - INPUT SPEED SENSOR                                  speed sensor (Fig. 223).
+2 - OUTPUT SPEED SENSOR
+3 - TRANSMISSION RANGE SENSOR
+                                                        NOTE: The speed sensor bolt has a sealing patch
+   The Input and Output Speed Sensors (Fig. 222) are    applied from the factory. Be sure to reuse the same
+two-wire magnetic pickup devices that generate AC       bolt.
+signals as rotation occurs. They are mounted in the
+left side of the transmission case and are considered     (4) Remove the bolt holding the input speed sensor
+primary inputs to the Transmission Control Module       to the transmission case.
+(TCM).                                                    (5) Remove the input speed sensor from the trans-
+                                                        mission case.
+

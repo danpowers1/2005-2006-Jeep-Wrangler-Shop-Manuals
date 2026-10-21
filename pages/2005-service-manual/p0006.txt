@@ -1,0 +1,43 @@
+4        INTRODUCTION                                                                                    TJ
+BODY CODE PLATE (Continued)
+DIGITS 10 THROUGH 13                                   DIGIT 5
+  Secondary Paint                                        Market Code
+                                                         • B = International
+DIGIT 14
+  Open Space                                           DIGIT 6
+DIGITS 15 THROUGH 18                                     Open Space
+  Interior Trim Code                                   DIGITS 7 THROUGH 23
+DIGIT 19                                                 Vehicle Identification Number (VIN)
+  Open Space                                             (Refer to VEHICLE DATA/VEHICLE INFORMA-
+                                                       TION/VEHICLE IDENTIFICATION NUMBER -
+DIGITS 20, 21, AND 22                                  DESCRIPTION) for breakdown of VIN code.
+  Engine Code
+  • ED1 = 2.4L 4 cyl. MPI Gasoline
+  • ERH = 4.0L 6 cyl. MPI Gasoline                     INTERNATIONAL SYMBOLS
+BODY CODE PLATE—LINE 1                                 DESCRIPTION
+                                                         The graphic symbols illustrated in the following
+DIGITS 1, 2, AND 3                                     International Control and Display Symbols Chart
+  Transmission Codes                                   (Fig. 5) are used to identify various instrument con-
+  • DEH = NSG370 6 - speed Manual                      trols. The symbols correspond to the controls and dis-
+  • DG6 = 42RLE 4 - speed Automatic                    plays that are located on the instrument panel.
+
+DIGIT 4
+  Open Space
+
+
+
+
+                              Fig. 5 INTERNATIONAL CONTROL AND DISPLAY SYMBOLS
+    1       High Beam                                   13    Rear Window Washer
+    2       Fog Lamps                                   14    Fuel
+    3       Headlamp, Parking Lamps, Panel Lamps        15    Engine Coolant Temperature
+    4       Turn Warning                                16    Battery Charging Condition
+    5       Hazard Warning                              17    Engine Oil
+    6       Windshield Washer                           18    Seat Belt
+    7       Windshield Wiper                            19    Brake Failure
+    8       Windshield Wiper and Washer                 20    Parking Brake
+    9       Windscreen Demisting and Defrosting         21    Front Hood
+    10      Ventilating Fan                             22    Rear hood (Decklid)
+    11      Rear Window Defogger                        23    Horn
+    12      Rear Window Wiper                           24    Lighter
+

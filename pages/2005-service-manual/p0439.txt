@@ -1,0 +1,71 @@
+TJ                                                                           INSTRUMENT CLUSTER             8J - 13
+INSTRUMENT CLUSTER (Continued)
+                               INSTRUMENT CLUSTER FAILURE MESSAGE
+
+        VFD Message                         Description                               Correction
+9buS b09                         PCM - MIL Message                  The cluster is not receiving a MIL lamp
+                                                                    message from the PCM. A DRBIIIT scan tool
+                                                                    is required for further diagnosis. Refer to the
+                                                                    appropriate diagnostic information.
+9buS b19                         SKIM - SKIM Message                The cluster is not receiving a SKIS lamp
+                                                                    message from the SKIM. A DRBIIIT scan tool
+                                                                    is required for further diagnosis. Refer to the
+                                                                    appropriate diagnostic information.
+9buS b89                         ACM - Airbag Message               The cluster is not receiving an Airbag lamp
+                                                                    message from the ACM. A DRBIIIT scan tool
+                                                                    is required for further diagnosis. Refer to the
+                                                                    appropriate diagnostic information.
+9PanEL OPEn9                     Panel Sense - Open Circuit         The cluster is not receiving an input from the
+                                                                    the panel lamps dimmer circuitry of the left
+                                                                    multi-function switch on the panel lamps
+                                                                    dimmer signal circuit. Repair the open circuit
+                                                                    or replace the faulty switch as required.
+9Airbag9                         Telltale Open/Shorted              The EMIC airbag indicator is open or shorted.
+                                                                    Replace the faulty cluster.
+
+
+   (6) The actuator test is now completed. The instru-     NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+ment cluster will automatically exit the self-diagnos-     TO DISABLE THE SUPPLEMENTAL RESTRAINT
+tic mode and return to normal operation at the             SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+completion of the test, if the ignition switch is turned   CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+to the Off position during the test, or if a vehicle       BAG DEPLOYMENT.
+speed message indicating that the vehicle is moving
+                                                           NOTE: The following tests may not prove conclu-
+is received from the PCM over the PCI data bus dur-
+                                                           sive in the diagnosis of this system. The most reli-
+ing the test.
+                                                           able, efficient, and accurate means to diagnose the
+   (7) Go back to Step 1 to repeat the test, if neces-
+                                                           Interior Lighting Control function of the instrument
+sary.
+                                                           cluster requires the use of a DRBIIIT scan tool.
+INTERIOR LIGHTING CONTROL DIAGNOSIS                        Refer to the appropriate diagnostic information.
+  Before performing this test, complete the testing of        (1) Check the door ajar switch output fuse (Fuse 4
+each of the hard wired interior lighting switches.         - 10 ampere) in the fuse block. If OK, go to Step 2. If
+Refer to the appropriate wiring information. The wir-      not OK, repair the shorted circuit or component as
+ing information includes wiring diagrams, proper           required and replace the faulty fuse.
+wire and connector repair procedures, details of wire         (2) Check for continuity between the door ajar
+harness routing and retention, connector pin-out           switch output fuse (Fuse 4 - 10 ampere) in the fuse
+information and location views for the various wire        block and a good ground. There should be continuity.
+harness connectors, splices and grounds.                   If OK, go to Step 3. If not OK, repair the open
+                                                           ground circuit between the fuse block and ground
+WARNING: TO AVOID PERSONAL INJURY OR
+                                                           (G300) as required.
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+                                                              (3) Disconnect and isolate the battery negative
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+                                                           cable. Disconnect the body wire harness connector for
+TEM BEFORE ATTEMPTING ANY STEERING
+                                                           the driver and/or passenger door ajar switch from the
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+                                                           switch connector receptacle. Check for continuity
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+                                                           between the door ajar switch output circuit cavity of
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+                                                           the driver or passenger door ajar switch and a good
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+                                                           ground. There should be continuity. If OK, go to Step
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+                                                           4. If not OK, repair the open door ajar switch output
+CHARGE BEFORE PERFORMING FURTHER DIAG-
+

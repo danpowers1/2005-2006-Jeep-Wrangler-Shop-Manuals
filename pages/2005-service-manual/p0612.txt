@@ -1,0 +1,55 @@
+8W - 01 - 6                             8W-01 WIRING DIAGRAM INFORMATION                                       TJ
+WIRING DIAGRAM INFORMATION (Continued)
+
+DESCRIPTION - CIRCUIT FUNCTIONS                            DESCRIPTION - SECTION IDENTIFICATION AND
+  All circuits in the diagrams use an alpha/numeric        INFORMATION
+code to identify the wire and it’s function. To identify      The wiring diagrams are grouped into individual
+which circuit code applies to a system, refer to the       sections. If a component is most likely found in a par-
+Circuit Identification Code Chart. This chart shows        ticular group, it will be shown complete (all wires,
+the main circuits only and does not show the second-       connectors, and pins) within that group. For exam-
+ary codes that may apply to some models.                   ple, the Auto Shutdown Relay is most likely to be
+    CIRCUIT IDENTIFICATION CODE CHART                      found in Group 30, so it is shown there complete. It
+                                                           can, however, be shown partially in another group if
+                                                           it contains some associated wiring.
+    CIRCUIT                    FUNCTION                       Splice diagrams in Section 8W-70 show the entire
+A                   BATTERY FEED                           splice and provide references to other sections the
+B                   BRAKE CONTROLS                         splices serves. Section 8W-70 only contains splice dia-
+                                                           grams that are not shown in their entirety some-
+C                   CLIMATE CONTROLS                       where else in the wiring diagrams.
+D                   DIAGNOSTIC CIRCUITS                       Section 8W-80 shows each connector and the cir-
+E                   DIMMING ILLUMINATION                   cuits involved with that connector. The connectors
+                    CIRCUITS                               are identified using the name/number on the dia-
+                                                           gram pages.
+F                   FUSED CIRCUITS
+G                   MONITORING CIRCUITS                                 WIRING SECTION CHART
+                    (GAUGES)
+H                   MULTIPLE                                    GROUP                        TOPIC
+I                   NOT USED                               8W-01 thru          General information and Diagram
+J                   OPEN                                   8W-09               Overview
+K                   POWERTRAIN CONTROL                     8W-10 thru          Main Sources of Power and
+                    MODULE                                 8W-19               Vehicle Grounding
+L                   EXTERIOR LIGHTING                      8W-20 thru          Starting and Charging
+M                   INTERIOR LIGHTING                      8W-29
+N                   MULTIPLE                               8W-30 thru          Powertrain/Drivetrain Systems
+                                                           8W-39
+O                   NOT USED
+                                                           8W-40 thru          Body Electrical items and A/C
+P                   POWER OPTION (BATTERY                  8W-49
+                    FEED)
+                                                           8W-50 thru          Exterior Lighting, Wipers and
+Q                   POWER OPTIONS (IGNITION                8W-59               Trailer Tow
+                    FEED)
+                                                           8W-60 thru          Power Accessories
+R                   PASSIVE RESTRAINT                      8W-69
+S                   SUSPENSION/STEERING                    8W-70               Splice Information
+T                   TRANSMISSION/TRANSAXLE/                8W-80               Connector Pin Outs
+                    TRANSFER CASE
+                                                           8W-91               Connector, Ground and Splice
+U                   OPEN                                                       Locations
+V                   SPEED CONTROL, WIPER/
+                    WASHER
+W                   WIPERS
+X                   AUDIO SYSTEMS
+Y                   OPEN
+Z                   GROUNDS
+

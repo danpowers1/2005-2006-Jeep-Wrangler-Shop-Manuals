@@ -1,0 +1,67 @@
+TJ                                                                                                          AUDIO/VIDEO           8A - 1
+
+
+                                                      AUDIO/VIDEO
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                  page
+
+AUDIO                                                                  RADIO
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 1      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1    OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+ DIAGNOSIS AND TESTING - AUDIO . . . . . . . . . . 1                    REMOVAL    .............................6
+AMPLIFIED SUBWOOFER                                                     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 3     RADIO NOISE SUPPRESSION COMPONENTS
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3    DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+ DIAGNOSIS AND TESTING - AMPLIFIED                                      DIAGNOSIS AND TESTING - RADIO NOISE
+   SUBWOOFER . . . . . . . . . . . . . . . . . . . . . . . . . 3          SUPPRESSION COMPONENTS                    ...........7
+ REMOVAL    .............................3                              REMOVAL    .............................8
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 3     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ANTENNA BODY & CABLE                                                   SPEAKER
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ DIAGNOSIS AND TESTING - ANTENNA BODY                                   OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+   AND CABLE   ..........................4                              DIAGNOSIS AND TESTING - SPEAKER . . . . . . . 8
+ REMOVAL    .............................5                              REMOVAL    .............................9
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 5     INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+
+AUDIO                                                                    The audio system components operate on battery
+                                                                       current received through a fuse in the Junction Block
+                                                                       (JB) on a fused ignition switch output (run-acc) cir-
+DESCRIPTION
+                                                                       cuit so that the system will only operate when the
+   Several combinations of radio receivers and
+                                                                       ignition switch is in the Run or Accessory positions.
+speaker systems are offered.
+   The audio system includes the following compo-
+nents:
+                                                                       DIAGNOSIS AND TESTING - AUDIO
+   • Amplified sub woofer (if equipped)                                  Any diagnosis of the Audio system should
+   • Antenna                                                           begin with the use of the DRB IIIt diagnostic
+   • Radio noise suppression components                                tool. For information on the use of the DRB
+   • Radio receiver                                                    IIIt, refer to the appropriate Diagnostic Service
+   • Speakers                                                          Manual.
+   Certain functions and features of the audio system                    For complete circuit diagrams, refer to the appro-
+rely upon resources shared with other electronic                       priate wiring information.
+modules in the vehicle over the Programmable Com-
+                                                                       WARNING: ON VEHICLES EQUIPPED WITH AIR-
+munication Interface (PCI) bus network. The data
+                                                                       BAGS, (REFER TO ELECTRICAL/RESTRAINTS)
+bus network allows the sharing of sensor informa-
+                                                                       BEFORE ATTEMPTING ANY STEERING WHEEL,
+tion. For diagnosis of these electronic modules or of
+                                                                       STEERING COLUMN, OR INSTRUMENT PANEL
+the data bus network, the use of a DRB IIIt scan tool
+                                                                       COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+and the proper Diagnostic Procedures manual are
+                                                                       TO TAKE THE PROPER PRECAUTIONS COULD
+recommended.
+                                                                       RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+                                                                       AND POSSIBLE PERSONAL INJURY.
+OPERATION
+  The audio system components are designed to pro-
+vide audio entertainment and information through
+the reception, tuning and amplification of locally
+broadcast radio signals in both the Amplitude Modu-
+lating (AM) and Frequency Modulating (FM) com-
+mercial frequency ranges.
+

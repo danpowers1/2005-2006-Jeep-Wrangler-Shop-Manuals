@@ -1,0 +1,72 @@
+8F - 22     CHARGING                                                                                         TJ
+CHARGING (Continued)
+
+DIAGNOSIS AND TESTING - CHARGING                             To perform a complete test of the charging system,
+                                                          refer to the appropriate Powertrain Diagnostic Proce-
+SYSTEM
+                                                          dures service manual and the DRBt scan tool. Per-
+   The following procedures may be used to diagnose
+                                                          form the following inspections before attaching the
+the charging system if:
+                                                          scan tool.
+   • the check gauges lamp (if equipped) is illumi-
+                                                             (1) Inspect the battery condition. Refer to 8, Bat-
+nated with the engine running
+                                                          tery for procedures.
+   • the voltmeter (if equipped) does not register
+                                                             (2) Inspect condition of battery cable terminals,
+properly
+                                                          battery posts, connections at engine block, starter
+   • an undercharged or overcharged battery condi-
+                                                          solenoid and relay. They should be clean and tight.
+tion occurs.
+                                                          Repair as required.
+   Remember that an undercharged battery is often
+                                                             (3) Inspect all fuses in both the fuseblock and
+caused by:
+                                                          Power Distribution Center (PDC) for tightness in
+   • accessories being left on with the engine not
+                                                          receptacles. They should be properly installed and
+running
+                                                          tight. Repair or replace as required.
+   • a faulty or improperly adjusted switch that
+                                                             (4) Inspect generator mounting bolts for tightness.
+allows a lamp to stay on. Refer to Ignition-Off Draw
+                                                          Replace or tighten bolts if required. Refer to the Gen-
+Test in 8, Battery for more information.
+                                                          erator Removal/Installation section of this group for
+INSPECTION                                                torque specifications.
+                                                             (5) Inspect generator drive belt condition and ten-
+  The Powertrain Control Module (PCM) monitors
+                                                          sion. Tighten or replace belt as required. Refer to
+critical input and output circuits of the charging sys-
+                                                          Belt Tension Specifications in 7, Cooling System.
+tem, making sure they are operational. A Diagnostic
+                                                             (6) Inspect automatic belt tensioner (if equipped).
+Trouble Code (DTC) is assigned to each input and
+                                                          Refer to 7, Cooling System for information.
+output circuit monitored by the On-Board Diagnostic
+                                                             (7) Inspect generator electrical connections at gen-
+(OBD) system. Some charging system circuits are
+                                                          erator field, battery output, and ground terminal (if
+checked continuously, and some are checked only
+                                                          equipped). Also check generator ground wire connec-
+under certain conditions.
+                                                          tion at engine (if equipped). They should all be clean
+  Refer to Diagnostic Trouble Codes in; Powertrain
+                                                          and tight. Repair as required.
+Control Module; Electronic Control Modules for more
+DTC information. This will include a complete list of
+DTC’s including DTC’s for the charging system.
+
+SPECIFICATIONS
+
+GENERATOR RATINGS
+
+     TYPE            PART NUMBER            RATED SAE AMPS             ENGINES          MINIMUM TEST AMPS
+    DENSO             56044530AB                   124                    2.4L                     88
+    DENSO             56044532AB                   136                    2.4                      96
+    DENSO             56041685AA                   117                    4.0L                     88
+    DENSO             56041565AA                    81                    4.0L                     57
+    DENSO             56041822AA                   124                    4.0L                     90
+

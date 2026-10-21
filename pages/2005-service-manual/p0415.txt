@@ -1,0 +1,44 @@
+TJ                                                                              IGNITION CONTROL    8I - 9
+CAMSHAFT POSITION SENSOR - 4.0L (Continued)
+
+REMOVAL - 4.0L
+
+
+
+
+                                                                  Fig. 14 4.0L CMP LOCATION (’05)
+                                                         1 - OIL PUMP DRIVE ASSEMBLY
+         Fig. 13 4.0L CMP LOCATION (’05)                 2 - CMP
+1 - OIL PUMP DRIVE ASSEMBLY                              3 - CMP ELECTRICAL CONNECTOR
+2 - CMP                                                  4 - HOUSING HOLD DOWN BOLT
+3 - CMP ELECTRICAL CONNECTOR                             5 - HOUSING
+4 - HOUSING HOLD DOWN BOLT                               6 - PLASTIC COVER
+5 - HOUSING                                              7 - COVER SCREWS (2)
+6 - PLASTIC COVER
+7 - COVER SCREWS (2)
+
+  The Camshaft Position Sensor (CMP) on the 4.0L
+6–cylinder engine (2) is bolted to the side of the oil
+pump drive shaft housing assembly (5) (Fig. 13).
+
+NOTE: Do not attempt to rotate the oil pump drive
+assembly to modify ignition timing.
+
+  Two different procedures are used for removal
+and installation. The first procedure will detail
+removal and installation of the sensor only. The sec-
+ond procedure will detail removal and installation of
+the sensor and oil pump drive shaft assembly. The
+second procedure is to be used if the engine has been
+disassembled.
+
+CMP SENSOR ONLY - 4.0L
+  (1) Disconnect CMP electrical jumper harness (3)
+at engine wiring harness (Fig. 14).
+  (2) Remove sensor mounting bolt (3) (Fig. 15).             Fig. 15 4.0L CMP REMOVAL/INSTALLATION
+  (3) Remove sensor (2) from oil pump drive housing      1 - OIL PUMP DRIVE HOUSING
+                                                         2 - CMP SENSOR
+(1) (Fig. 15).                                           3 - SENSOR MOUNTING BOLT
+                                                         4 - TARGET WHEEL
+                                                         5 - HOUSING
+

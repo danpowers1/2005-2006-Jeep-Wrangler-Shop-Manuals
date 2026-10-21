@@ -1,0 +1,61 @@
+TJ                                                                                         ENGINE 4.0L       9 - 129
+TIMING BELT/CHAIN AND SPROCKETS (Continued)
+
+INSTALLATION                                                  DIAGNOSIS AND TESTING - INTAKE
+  Assemble the timing chain, crankshaft sprocket              MANIFOLD LEAKAGE
+and camshaft sprocket with the timing marks                     An intake manifold air leak is characterized by
+aligned (Fig. 89).                                            lower than normal manifold vacuum. Also, one or
+  (1) Apply Mopart Silicone Rubber Adhesive Seal-             more cylinders may not be functioning.
+ant to the keyway in the crankshaft and insert the
+key. With the key in the keyway on the crankshaft,            WARNING: USE EXTREME CAUTION WHEN THE
+install the assembly on the crankshaft and camshaft.          ENGINE IS OPERATING. DO NOT STAND IN A
+  (2) Install the camshaft sprocket bolt and washer           DIRECT LINE WITH THE FAN. DO NOT PUT YOUR
+(Fig. 90). Tighten the bolt to 68 N·m (50 ft. lbs.) torque.   HANDS NEAR THE PULLEYS, BELTS OR THE FAN.
+  (3) To verify correct installation of the timing            DO NOT WEAR LOOSE CLOTHING.
+chain, rotate the crankshaft 2 revolutions. The cam-
+shaft and crankshaft sprocket timing mark should                (1) Start the engine.
+align (Fig. 89).                                                (2) Spray a small stream of water at the suspected
+  (4) Install the crankshaft oil slinger.                     leak area.
+  (5) Replace the oil seal in the timing case cover             (3) If a change in RPM is observed the area of the
+(Refer to 9 - ENGINE/ENGINE BLOCK/CRANK-                      suspected leak has been found.
+SHAFT OIL SEAL - FRONT - REMOVAL).                              (4) Repair as required.
+  (6) Install the timing case cover and gasket (Refer
+to 9 - ENGINE/VALVE TIMING/TIMING BELT /                      REMOVAL
+CHAIN COVER(S) - INSTALLATION).
+  (7) With the key installed in the crankshaft key-           NOTE: THE ENGINE INTAKE AND EXHAUST MANI-
+way, install the vibration damper (Refer to 9 -               FOLD MUST BE REMOVED AND INSTALLED
+ENGINE/ENGINE BLOCK/VIBRATION DAMPER -                        TOGETHER. THE MANIFOLDS USE A COMMON
+INSTALLATION).                                                GASKET AT THE CYLINDER HEAD.
+  (8) Install the serpentine drive belt (Refer to 7 -
+COOLING/ACCESSORY DRIVE/DRIVE BELTS -                            (1) Disconnect the battery negative cable.
+INSTALLATION).                                                   (2) Remove air cleaner inlet hose from the resona-
+  (9) Install the fan, hub assembly and shroud                tor assembly.
+(Refer to 7 - COOLING/ENGINE/RADIATOR FAN -                      (3) Remove the air cleaner assembly.
+INSTALLATION).                                                   (4) Remove the throttle cable, vehicle speed control
+  (10) Connect negative cable to battery.                     cable (if equipped) and the transmission line pres-
+                                                              sure cable (Refer to 21 - TRANSMISSION/TRANS-
+                                                              AXLE/AUTOMATIC - AW4/THROTTLE VALVE
+INTAKE MANIFOLD                                               CABLE - REMOVAL).
+                                                                 (5) Disconnect the following electrical connections
+DESCRIPTION                                                   and secure their harness out of the way:
+  The intake manifold (Fig. 91) is made of cast alu-             • Throttle Position Sensor
+minum and uses eleven bolts to mount to the cylin-               • Idle Air Control Motor
+der head. This mounting style improves sealing and               • Coolant Temperature Sensor (at thermostat
+reduces the chance of leaks.                                  housing)
+                                                                 • Intake Air Temperature Sensor
+                                                                 • Oxygen Sensor
+                                                                 • Crank Position Sensor
+                                                                 • Six (6) Fuel Injector Connectors
+                                                                 • Manifold Absolute Pressure (MAP) Sensor.
+                                                                 (6) Disconnect HVAC, and Brake Booster vacuum
+                                                              supply hoses at the intake manifold.
+                                                                 (7) Perform the fuel pressure release procedure.
+                                                              (Refer to 14 - FUEL SYSTEM/FUEL DELIVERY -
+                                                              STANDARD PROCEDURE).
+                                                                 (8) Disconnect and remove the fuel system supply
+                                                              line from the fuel rail assembly.
+                                                                 (9) Remove the accessory drive belt (Refer to 7 -
+                                                              COOLING/ACCESSORY DRIVE/DRIVE BELTS -
+                                                              REMOVAL).
+         Fig. 91 Intake Manifold 4.0L Engine
+

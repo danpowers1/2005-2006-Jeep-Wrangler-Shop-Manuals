@@ -1,0 +1,52 @@
+8G - 4      HEATED GLASS                                                                                      TJ
+REAR WINDOW DEFOGGER RELAY (Continued)
+NOTE: Refer to the fuse and relay layout map on
+the inside of the PDC cover for EBL relay location.
+
+  (3) Remove the EBL relay from the PDC.
+
+
+
+
+                                                                  Fig. 6 Accessory Switch Bezel - Typical
+                                                            1 - BEZEL SCREWS (4)
+                                                            2 - BEZEL
+         Fig. 5 Power Distribution Center (PDC)             3 - WIRE HARNESS
+1 - POWER DISTRIBUTION CENTER (PDC)                         4 - ELECTRICAL CONNECTORS (7)
+2 - LATCHES
+3 - COVER
+4 - RIGHT FRONT FENDER
+                                                            OPERATION
+                                                              An LED indicator will illuminate when the rear
+INSTALLATION                                                window defogger switch is activated. When the
+                                                            switch is activated, it energizes the timing circuit
+NOTE: Refer to the fuse and relay layout map on             integral to the instrument cluster, which then acti-
+the inside of the power distribution center (PDC)           vates the rear window defogger (EBL) relay. The
+cover for EBL relay location.                               EBL relay controls the current flow to the grids of
+                                                            the rear window defogger and to the heated side view
+  (1) Position the EBL relay to the proper receptacle       mirrors, when equipped.
+of the PDC.
+  (2) Align the EBL relay terminals with the termi-         NOTE: The EBL system turns off automatically after
+nal cavities in the PDC and push down firmly on the         10 minutes of initial operation. Each following acti-
+relay until the terminals are fully seated.                 vation cycle of the EBL system will last five min-
+  (3) Close the cover of the PDC.                           utes.
+  (4) Reconnect the negative battery cable.
+                                                              The EBL system will initially be on for approxi-
+                                                            mately ten minutes or until the rear window defog-
+REAR WINDOW DEFOGGER                                        ger switch or the ignition switch is turned off. After
+                                                            the initial time interval has expired, if the defogger
+SWITCH                                                      switch is turned On again during the same ignition
+                                                            cycle, the EBL system will automatically turn off
+DESCRIPTION                                                 after about five minutes.
+  The switch for the rear window defogger (EBL)               The rear window defogger switch and indicator
+system is located in the instrument panel accessory         lamp cannot be repaired and, if faulty or damaged,
+switch bezel (Fig. 6), which is mounted near the bot-       the defogger switch must be replaced (Refer to 8 -
+tom of the instrument panel center bezel. When the          ELECTRICAL/HEATED GLASS/REAR WINDOW
+rear window defogger switch is activated, the instru-       DEFOGGER SWITCH - REMOVAL)..
+ment cluster operates the rear window defogger
+(EBL) relay.
+  When the EBL relay is activated, current is
+directed to the rear defogger grid lines and the
+heated side view mirrors (if equipped). The grid lines
+heat the glass to help clear the surface of fog or frost.
+

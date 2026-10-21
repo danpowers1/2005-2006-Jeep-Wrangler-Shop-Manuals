@@ -1,0 +1,59 @@
+8I - 12    IGNITION CONTROL                                                                                  TJ
+CAMSHAFT POSITION SENSOR - 4.0L (Continued)
+
+                                                          COIL RAIL - 4.0L
+                                                          DESCRIPTION - 4.0L
+                                                            A one-piece coil rail assembly containing three
+                                                          individual coils is used on the 4.0L 6–cylinder engine
+                                                          (Fig. 23). The coil rail must be replaced as one
+                                                          assembly. The bottom of the coil is equipped with 6
+                                                          individual rubber boots (Fig. 23) to seal the 6 spark
+                                                          plugs to the coil. Inside each rubber boot is a spring.
+                                                          The spring is used for a mechanical contact between
+                                                          the coil and the top of the spark plug. These rubber
+                                                          boots and springs are a permanent part of the coil
+                                                          and are not serviced separately.
+                                                            (1) The coil is bolted directly to the cylinder head
+                                                          (Fig. 24). One electrical connector (located at rear of
+                                                          coil) is used for all three coils.
+
+
+
+
+      Fig. 22 Align Timing Marks - 4.0L Engine
+1 - CRANKSHAFT VIBRATION DAMPER TIMING MARK
+
+  rotate engine in direction of normal rotation. Do
+  not rotate engine backward to align timing marks.
+      (e) Install oil pump drive into engine while
+  aligning into slot on oil pump. If pump drive will
+  not drop down flush to engine block, the oil pump
+  slot is not aligned. Remove oil pump drive and
+  align slot in oil pump to shaft at bottom of drive.
+  Install into engine. Rotate oil pump drive housing
+  back to its original 4 o’clock position as viewed
+  from right side of engine. Install hold-down clamp
+  and bolt.
+      (f) Remove small screwdriver, or, factory align-
+  ment pin from housing and install plastic cover
+  (two screws).                                             Fig. 23 Ignition Coil Assembly—4.0L 6–Cylinder
+  (7) Install CMP sensor to oil pump drive.                                       Engine
+  (8) Install sensor mounting bolt and tighten to 2       1 - CYL. #6
+N·m (15 in. lbs.) torque.                                 2 - CYL. #5
+                                                          3 - CYL. #4
+  (9) Connect CMP electrical connector to engine          4 - CYL. #3
+wiring harness.                                           5 - CYL. #2
+  (10) If removed, install spark plug and ignition coil   6 - CYL. #1
+                                                          7 - COILS (3)
+rail.                                                     8 - MOUNTING BOLTS (4)
+  (11) Connect DRB scan tool to data link connector.      9 - BOLT BASES (4)
+The data link connector is located in passenger com-      10 - RUBBER BOOTS (6)
+partment, below steering column.
+  (12) Gain access to “CAM/CRANK RELEARN”                 OPERATION - 4.0L
+screen on DRB scan tool.                                    Although cylinder firing order is the same as 4.0L
+                                                          Jeep engines of previous years, spark plug firing is
+                                                          not. The 3 coils dual-fire the spark plugs on cylinders
+                                                          1-6, 2-5 and/or 3-4. When one cylinder is being fired
+                                                          (on compression stroke), the spark to the opposite
+                                                          cylinder is being wasted (on exhaust stroke).
+

@@ -1,0 +1,75 @@
+8J - 22    INSTRUMENT CLUSTER                                                                                  TJ
+AIRBAG INDICATOR (Continued)
+when not required. The ACM will store a Diagnostic         start) circuit. Therefore, the LED will always be off
+Trouble Code (DTC) for any malfunction it detects.         when the ignition switch is in any position except On
+Each time the airbag indicator fails to illuminate due     or Start. The cluster can illuminate the LED solid, or
+to an open or short in the cluster airbag indicator cir-   flash it on and off at about one flash per second. The
+cuit, the cluster sends a message notifying the ACM        LED only illuminates when it is provided a path to
+of the condition and stores a DTC. For proper diag-        ground by the instrument cluster transistor. The
+nosis of the airbag system, the ACM, the PCI data          instrument cluster will turn on the brake indicator
+bus, or the electronic message inputs to the instru-       for the following reasons:
+ment cluster that control the airbag indicator, a             • Bulb Test - Each time the ignition switch is
+DRBIIIt scan tool is required. Refer to the appropri-      turned to the On position the brake indicator is illu-
+ate diagnostic information.                                minated by the instrument cluster for about four sec-
+                                                           onds as a bulb test.
+                                                              • Park Brake Switch Input - Each time the
+BRAKE/PARK BRAKE                                           cluster detects ground on the red brake warning indi-
+INDICATOR                                                  cator driver circuit (park brake switch closed = park
+                                                           brake applied or not fully released) the brake indica-
+DESCRIPTION                                                tor is illuminated solid. If a vehicle speed message is
+                                                           received by the cluster from the PCM over the PCI
+                                                           data bus indicating the vehicle is moving while the
+                                                           red brake warning indicator driver input is
+                                                           grounded, the brake indicator is flashed on and off
+                Fig. 9 Brake Indicator                     repeatedly. Whether illuminated solid or flashing, the
+   A brake indicator is standard equipment on all          indicator remains illuminated until the red brake
+instrument clusters (Fig. 9). The brake indicator is       warning indicator driver input to the cluster is an
+located near the lower edge of the instrument cluster,     open circuit (park brake switch open = park brake
+to the left of center. The brake indicator consists of a   fully released), or until the ignition switch is turned
+stencil-like cutout of the word “BRAKE” in the             to the Off position, whichever occurs first.
+opaque layer of the instrument cluster overlay. The           • Brake Hydraulic System Malfunction - Each
+dark outer layer of the overlay prevents the indicator     time the cluster detects ground on the red brake
+from being clearly visible when it is not illuminated.     warning indicator driver circuit (brake warning indi-
+A red Light Emitting Diode (LED) behind the cutout         cator switch closed = pressures in the two halves of
+in the opaque layer of the overlay causes the              the split brake hydraulic system are unequal) the
+“BRAKE” text to appear in red through the translu-         brake indicator is illuminated solid. The indicator
+cent outer layer of the overlay when the indicator is      remains illuminated until the red brake warning
+illuminated from behind by the LED, which is sol-          indicator driver input to the cluster is an open circuit
+dered onto the instrument cluster electronic circuit       (brake warning indicator switch open = brake
+board. The brake indicator is serviced as a unit with      hydraulic system pressures are equal), or until the
+the instrument cluster.                                    ignition switch is turned to the Off position, which-
+                                                           ever occurs first.
+OPERATION                                                     • Actuator Test - Each time the instrument clus-
+                                                           ter is put through the actuator test, the brake indi-
+  The brake indicator gives an indication to the vehi-
+                                                           cator will be turned on, then off again during the
+cle operator when the parking brake is applied, or
+                                                           bulb check portion of the test to confirm the function-
+when there are certain brake hydraulic system mal-
+                                                           ality of the LED and the cluster control circuitry.
+functions. This indicator is controlled by a transistor
+                                                              The park brake switch and the brake warning
+on the instrument cluster circuit board based upon
+                                                           pressure switch are each connected in parallel
+cluster programming, electronic messages received by
+                                                           between ground and the red brake warning indicator
+the cluster from the Powertrain Control Module
+                                                           driver input to the instrument cluster so that each of
+(PCM) over the Programmable Communications
+                                                           their inputs will illuminate the indicator indepen-
+Interface (PCI) data bus, and hard wired inputs to
+                                                           dently of the other. The park brake switch and brake
+the instrument cluster from the park brake switch
+                                                           warning indicator switch inputs to the instrument
+and the brake warning indicator switch. The brake
+                                                           cluster can be diagnosed using conventional diagnos-
+indicator Light Emitting Diode (LED) is completely
+                                                           tic tools and methods. (Refer to 5 - BRAKES/PARK-
+controlled by the instrument cluster logic circuit, and
+                                                           ING BRAKE - OPERATION). (Refer to 5 - BRAKES/
+that logic will only allow this indicator to operate
+                                                           ELECTRICAL/BRAKE PRESSURE SWITCH -
+when the instrument cluster receives a battery cur-
+                                                           OPERATION).
+rent input on the fused ignition switch output (run-
+

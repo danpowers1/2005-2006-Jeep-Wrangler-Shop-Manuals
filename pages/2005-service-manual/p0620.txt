@@ -1,0 +1,46 @@
+8W - 01 - 14                            8W-01 WIRING DIAGRAM INFORMATION                                      TJ
+
+
+DIODE                                                      TERMINAL
+REMOVAL                                                    REMOVAL
+   (1) Disconnect the battery.                               (1) Follow steps for removing terminals described
+   (2) Locate the diode in the harness, and remove         in the connector removal section.
+the protective covering.                                     (2) Cut the wire 6 inches from the back of the con-
+   (3) Remove the diode from the harness, pay atten-       nector.
+tion to the current flow direction (Fig. 13).
+                                                           INSTALLATION
+                                                             (1) Select a wire from the terminal repair kit that
+                                                           best matches the color and gage of the wire being
+                                                           repaired.
+                                                             (2) Cut the repair wire to the proper length and
+                                                           remove one–half (1/2) inch of insulation.
+                                                             (3) Splice the repair wire to the wire harness (see
+                                                           wire splicing procedure) .
+                                                             (4) Insert the repaired wire into the connector.
+                                                             (5) Install the connector locking wedge, if required,
+                                                           and reconnect the connector to its mating half/compo-
+                                                           nent.
+                                                             (6) Re-tape the wire harness starting at 1–1/2
+                                                           inches behind the connector and 2 inches past the
+                                                           repair.
+           Fig. 13 DIODE IDENTIFICATION                      (7) Connect battery and test all affected systems.
+1 - CURRENT FLOW
+2 - BAND AROUND DIODE INDICATES CURRENT FLOW
+3 - DIODE AS SHOWN IN THE DIAGRAMS
+
+
+INSTALLATION
+  (1) Remove the insulation from the wires in the
+harness. Only remove enough insulation to solder in
+the new diode.
+  (2) Install the new diode in the harness, making
+sure current flow is correct. If necessary, refer to the
+appropriate wiring diagram for current flow (Fig. 13).
+  (3) Solder the connection together using rosin core
+type solder only. Do not use acid core solder.
+  (4) Tape the diode to the harness using electrical
+tape. Make sure the diode is completely sealed from
+the elements.
+  (5) Re-connect the battery and test affected sys-
+tems.
+

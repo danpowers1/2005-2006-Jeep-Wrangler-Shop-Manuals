@@ -1,0 +1,57 @@
+TJ                                                                              ELECTRONIC CONTROL MODULES                           8E - 1
+
+
+                            ELECTRONIC CONTROL MODULES
+                                                   TABLE OF CONTENTS
+
+                                                              page                                                                     page
+
+ELECTRONIC CONTROL MODULES                                                DESCRIPTION - IGNITION CIRCUIT SENSE . . 8
+ STANDARD PROCEDURE - PCM/SKIM                                            DESCRIPTION - POWER GROUNDS                           .......8
+   PROGRAMMING . . . . . . . . . . . . . . . . . . . . . . . 1            DESCRIPTION - SENSOR RETURN . . . . . . . . 8
+COMMUNICATION                                                           OPERATION
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 2        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3      OPERATION - 5 VOLT SUPPLIES . . . . . . . . . . 9
+CONTROLLER ANTILOCK BRAKE                                                 OPERATION - IGNITION CIRCUIT SENSE . . . . 9
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 4      REMOVAL     .............................9
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ REMOVAL    .............................4                             SENTRY KEY IMMOBILIZER MODULE
+ INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . . 4     DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 10
+DATA LINK CONNECTOR                                                     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+ DESCRIPTION - DATA LINK CONNECTOR . . . . . 4                          REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+ OPERATION - DATA LINK CONNECTOR                       ......4          INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 13
+POWERTRAIN CONTROL MODULE                                              TRANSMISSION CONTROL MODULE
+ DESCRIPTION                                                            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 14
+   DESCRIPTION     ........................5                            OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+   DESCRIPTION - MODES OF OPERATION . . . . 5                           STANDARD PROCEDURE - TCM QUICK
+   DESCRIPTION - 5 VOLT SUPPLIES                   ........8              LEARN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+ELECTRONIC CONTROL                                                       (3) Replace all ignition keys and program them to
+                                                                       the new SKIM.
+MODULES
+                                                                       PROGRAMMING THE PCM (JTEC)
+STANDARD PROCEDURE - PCM/SKIM                                             The SKIS Secret Key is an ID code that is unique
+PROGRAMMING                                                            to each SKIM. This code is programmed and stored
+                                                                       in the SKIM, the PCM, and the ignition key tran-
+CAUTION: ASSURE THE DRBIIIT IS PROGRAMMED                              sponder chip(s). When replacing the PCM, it is nec-
+WITH THE LATEST VERSION OF CURRENT SOFT-                               essary to program the secret key into the new PCM
+WARE.                                                                  using the DRBIIIt scan tool. Perform the following
+                                                                       steps to program the secret key into the PCM.
+                                                                          (1) Turn the ignition switch to the On position
+NOTE: Before replacing the PCM for a failed driver,                    (transmission in Park/Neutral).
+control circuit, or ground circuit, be sure to check                      (2) Use the DRBIIIt and select THEFT ALARM,
+the related component/circuit integrity for failures                   SKIM, then MISCELLANEOUS.
+not detected due to a double fault in the circuit.                        (3) Select PCM REPLACED (GAS ENGINE).
+Most PCM driver/control circuit failures are caused                       (4) Enter secured access mode by entering the
+by internal component failures (i.e. relays and sole-                  vehicle four-digit PIN.
+noids) and shorted circuits (i.e. pull-ups, drivers,                      (5) Select ENTER to update PCM VIN.
+and switched circuits). These failures are difficult to
+detect when a double fault has occurred and only                       NOTE: If three attempts are made to enter secured
+one DTC has been set.                                                  access mode using an incorrect PIN, secured
+                                                                       access mode will be locked out for one hour. To
+  When a PCM (JTEC) and the SKIM are replaced                          exit this lockout mode, turn the ignition switch to
+at the same time, perform the following steps in                       the ON position for one hour, then enter the correct
+order:                                                                 PIN. (Ensure all accessories are turned off. Also
+  (1) Program the new PCM (JTEC).                                      monitor the battery state and connect a battery
+  (2) Program the new SKIM.                                            charger if necessary).
+

@@ -1,0 +1,31 @@
+TJ                                                                           ENGINE 4.0L        9 - 73
+ENGINE 4.0L (Continued)
+
+        CONDITION                 POSSIBLE CAUSES                          CORRECTION
+
+                          2. Engine idle speed too low          2. Check Idle Air Control circuit.
+                          3. Worn or incorrectly gapped spark   3. Replace or clean and re-gap
+                          plugs                                 spark plugs. (Refer to 8 -
+                                                                ELECTRICAL/IGNITION CONTROL/
+                                                                SPARK PLUG - CLEANING)
+                          4. Faulty coil rail                   4. Test and replace, if necessary.
+                                                                (Refer to 8 - ELECTRICAL/
+                                                                IGNITION CONTROL/COIL RAIL -
+                                                                REMOVAL)
+                          5. Intake manifold vacuum leak        5. Inspect intake manifold gasket
+                                                                and vacuum hoses. Replace if
+                                                                necessary. (Refer to 9 - ENGINE/
+                                                                MANIFOLDS/INTAKE MANIFOLD -
+                                                                DIAGNOSIS AND TESTING).
+
+ENGINE MISSES ON          1. Worn or incorrectly gapped spark   1. Replace spark plugs or clean and
+ACCELERATION              plugs                                 set gap.
+                          2. Spark plug cables defective or     2. Replace spark plug cables.
+                          crossed
+                          3. Dirt in fuel system                3. Clean fuel system
+                          4. Burned, warped or pitted valves    4. Install new valves
+                          5. Faulty coil rail                   5. Test and replace as necessary.
+                                                                (Refer to 8 - ELECTRICAL/
+                                                                IGNITION CONTROL/COIL RAIL -
+                                                                REMOVAL)
+

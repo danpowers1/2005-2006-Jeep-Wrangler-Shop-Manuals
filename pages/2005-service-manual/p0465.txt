@@ -1,0 +1,59 @@
+TJ                                                                         INSTRUMENT CLUSTER            8J - 39
+SHIFT INDICATOR (TRANSFER CASE) (Continued)
+should light. If OK, replace the faulty transfer case    lay, to the left of center. The SKIS indicator consists
+switch. If not OK, go to Step 3.                         of a stencil-like cutout of a graphical representation
+   (3) Turn the ignition switch to the Off position.     or icon of a key that is circled and crossed-out in the
+Disconnect and isolate the battery negative cable.       opaque layer of the instrument cluster overlay. The
+Remove the instrument cluster from the instrument        dark outer layer of the overlay prevents the indicator
+panel. Disconnect the instrument panel wire harness      from being clearly visible when it is not illuminated.
+connector (Connector C2) for the instrument cluster      A amber Light Emitting Diode (LED) behind the cut-
+from the connector receptacle on the back of the clus-   out in the opaque layer of the overlay causes the
+ter housing. Check for continuity between the 4WD        indicator to appear in amber through the translucent
+switch sense circuit cavities of the instrument panel    outer layer of the overlay when the indicator is illu-
+wire harness connector (Connector C2) for the instru-    minated from behind by the LED, which is soldered
+ment cluster and the engine wire harness connector       onto the instrument cluster electronic circuit board.
+for the transfer case switch. There should be continu-   The SKIS indicator is serviced as a unit with the
+ity. If OK, replace the faulty instrument cluster. If    instrument cluster.
+not OK, repair the open 4WD switch sense circuit
+between the instrument cluster and the transfer case     OPERATION
+switch as required.                                         The Sentry Key Immobilizer System (SKIS) indica-
+                                                         tor gives an indication to the vehicle operator of the
+INDICATOR STAYS ILLUMINATED WITH 4WD MODE NOT            status of the SKIS. This indicator is controlled by the
+SELECTED                                                 instrument cluster circuit board based upon elec-
+  (1) Disconnect and isolate the battery negative        tronic messages received by the cluster from the Sen-
+cable. Disconnect the engine wire harness connector      try Key Immobilizer Module (SKIM) over the
+for the transfer case switch from the transfer case      Programmable Communications Interface (PCI) data
+switch connector receptacle. Check for continuity        bus. The SKIS indicator Light Emitting Diode (LED)
+between the ground circuit and the 4WD switch            is completely controlled by the instrument cluster
+sense circuit terminals in the transfer case switch      logic circuit, and that logic will only allow this indi-
+connector receptacle. There should be no continuity.     cator to operate when the instrument cluster receives
+If OK, go to Step 2. If not OK, replace the faulty       a battery current input on the fused ignition switch
+transfer case switch.                                    output (run-start) circuit. Therefore, the LED will
+  (2) Remove the instrument cluster from the instru-     always be off when the ignition switch is in any posi-
+ment panel. Disconnect the instrument panel wire         tion except On or Start. The LED only illuminates
+harness connector (Connector C2) for the instrument      when it is provided a path to ground by the instru-
+cluster from the connector receptacle on the back of     ment cluster transistor. The instrument cluster will
+the cluster housing. Check for continuity between the    turn on the SKIS indicator for the following reasons:
+4WD switch sense circuit cavity of the instrument           • Bulb Test - Each time the ignition switch is
+panel wire harness connector (Connector C2) for the      turned to the On position, the SKIM sends a message
+instrument cluster and a good ground. There should       to the cluster to illuminate the SKIS indicator for
+be no continuity. If OK, replace the faulty instrument   about three seconds as a bulb test.
+cluster. If not OK, repair the shorted 4WD switch           • SKIM Lamp-On Message - Each time the clus-
+sense circuit between the transfer case switch and       ter receives a lamp-on message from the SKIM, the
+the instrument cluster as required.                      SKIS indicator will be illuminated. The indicator can
+                                                         be flashed on and off, or illuminated solid, as dic-
+                                                         tated by the SKIM message. For more information on
+SKIS INDICATOR                                           the SKIS and the SKIS indicator control parameters,
+                                                         (Refer to 8 - ELECTRICAL/VEHICLE THEFT SECU-
+DESCRIPTION                                              RITY - OPERATION). The indicator remains illumi-
+                                                         nated until the cluster receives a lamp-off message
+                                                         from the SKIM or until the ignition switch is turned
+                                                         to the Off position, whichever occurs first.
+                                                            • Actuator Test - Each time the cluster is put
+               Fig. 24 SKIS Indicator                    through the actuator test, the SKIS indicator will be
+   A Sentry Key Immobilizer System (SKIS) indicator      turned on, then off again during the bulb check por-
+is standard equipment on all instrument clusters, but    tion of the test to confirm the functionality of the
+is only functional on vehicles equipped with the         LED and the cluster control circuitry.
+optional SKIS (Fig. 24). The SKIS indicator is located      The SKIM performs a self-test each time the igni-
+near the upper edge of the instrument cluster over-      tion switch is turned to the On position to decide
+

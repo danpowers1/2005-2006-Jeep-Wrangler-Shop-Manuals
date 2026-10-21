@@ -1,0 +1,60 @@
+TJ                                                                          INSTRUMENT CLUSTER             8J - 35
+OIL PRESSURE GAUGE (Continued)
+below about 0.2 kg/cm2 (3 psi), or of any engine other    REAR LOCK INDICATOR
+than a 2.4L is below about 0.4 kg/cm2 (6 psi), the
+gauge needle is moved to the graduation at the far
+                                                          DESCRIPTION
+left (low) end of the gauge scale, the check gauges
+indicator is illuminated, and a single chime tone is
+generated. The gauge needle remains at the left end
+of the gauge scale and the check gauges indicator
+remains illuminated until the cluster receives a mes-
+sage from the PCM indicating that the engine oil                       Fig. 21 Rear Lock Indicator
+pressure of a 2.4L engine is above about 0.2 kg/cm2         A rear lock indicator is standard equipment on all
+(3 psi), or of any engine other than a 2.4L is above      instrument clusters, but is only functional on vehi-
+about 0.4 kg/cm2 (6 psi), or until the ignition switch    cles equipped with the optional off-road package (Fig.
+is turned to the Off position, whichever occurs first.    21). The rear lock indicator is located near the upper
+The cluster will only turn the check gauges indicator     edge of the instrument cluster, to the right of center.
+on in response to an engine oil pressure low message      The rear lock indicator consists of a stencil-like cut-
+if the engine speed message is 300 rpm or greater for     out of the words “REAR LOCK” in the opaque layer
+more than about five seconds.                             of the instrument cluster overlay. The dark outer
+   • Communication Error - If the cluster fails to        layer of the overlay prevents the indicator from being
+receive an engine oil pressure message, it will hold      clearly visible when it is not illuminated. A amber
+the gauge needle at the last indication about twelve      Light Emitting Diode (LED) behind the cutout in the
+seconds or until the ignition switch is turned to the     opaque layer of the overlay causes the “REAR LOCK”
+Off position, whichever occurs first. After twelve sec-   text to appear in amber through the translucent
+onds, the cluster will move the gauge needle to the       outer layer of the overlay when the indicator is illu-
+left end of the gauge scale.                              minated from behind by the LED, which is soldered
+   • Actuator Test - Each time the cluster is put         onto the instrument cluster electronic circuit board.
+through the actuator test, the gauge needle will be       The illumination intensity of the rear lock indicator
+swept to several calibration points on the gauge scale    is one-step dimmable. When the exterior lighting is
+in a prescribed sequence to confirm the functionality     turned On, the indicator is dimmed; and, when the
+of the gauge and the cluster control circuitry.           exterior lighting is turned Off, the indicator is illumi-
+   The PCM continually monitors the engine oil pres-      nated at full intensity. The rear lock indicator is ser-
+sure sensor to determine the engine oil pressure. The     viced as a unit with the instrument cluster.
+PCM then sends the proper engine oil pressure mes-
+sages to the instrument cluster. For further diagnosis    OPERATION
+of the oil pressure gauge or the instrument cluster          The rear lock indicator gives an indication to the
+circuitry that controls the gauge, (Refer to 8 - ELEC-    vehicle operator of the status of the locker mecha-
+TRICAL/INSTRUMENT CLUSTER - DIAGNOSIS                     nism in the rear axle of vehicles equipped with the
+AND TESTING). If the instrument cluster turns on          optional off-road package. The rear lock indicator can
+the check gauges indicator due to a low oil pressure      also give an indication when certain faults are
+gauge reading, it may indicate that the engine or the     detected in the axle locker system. This indicator is
+engine oiling system requires service. For proper         controlled by a transistor on the instrument cluster
+diagnosis of the engine oil pressure sensor, the PCM,     electronic circuit board based upon cluster program-
+the PCI data bus, or the electronic message inputs to     ming, and hard wired inputs to the cluster from the
+the instrument cluster that control the oil pressure      key-in ignition switch, the axle lock switch, and the
+gauge, a DRBIIIt scan tool is required. Refer to the      rear locker indicator switch. The rear lock indicator
+appropriate diagnostic information.                       Light Emitting Diode (LED) is completely controlled
+                                                          by the instrument cluster logic circuit, and that logic
+                                                          will allow this indicator to operate whenever the
+                                                          instrument cluster receives a battery current input
+                                                          on the fused B(+) circuit. Therefore, the LED can be
+                                                          illuminated regardless of the ignition switch position.
+                                                          The cluster can illuminate the LED solid, or flash it
+                                                          on and off at two different rates, slow or fast. The
+                                                          slow rate is about one flash per second, while the fast
+                                                          rate is about two flashes per second. The LED only
+                                                          illuminates when it is provided a path to ground by
+                                                          the instrument cluster transistor. The instrument
+

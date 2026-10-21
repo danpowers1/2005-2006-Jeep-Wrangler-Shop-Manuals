@@ -1,0 +1,54 @@
+TJ                                                                                            ENGINE      7 - 31
+FAN DRIVE VISCOUS CLUTCH (Continued)
+
+
+
+
+                                                                Fig. 15 Viscous Fan Drive - 2.5L Engine
+                                                          1 - VISCOUS FAN DRIVE
+                                                          2 - MOUNTING HUB
+                                                          3 - THERMOSTATIC SPRING
+
+
+   Fig. 14 Water Pump Mounted Fan Drive - 4.0L
+                     Engine
+1 - FAN AND FAN DRIVE
+2 - WATER PUMP PULLEY
+
+
+OPERATION
+  A thermostatic bimetallic spring coil is located on
+the front face of the viscous fan drive unit (a typical
+viscous unit is shown in (Fig. 15) (Fig. 16). This
+spring coil reacts to the temperature of the radiator
+discharge air. It engages the viscous fan drive for
+higher fan speed if the air temperature from the
+radiator rises above a certain point. Until additional
+engine cooling is necessary, the fan will remain at a
+reduced rpm regardless of engine speed.
+  Only when sufficient heat is present, will the vis-           Fig. 16 Viscous Fan Drive - 4.0L Engine
+cous fan drive engage. This is when the air flowing       1 - VISCOUS FAN DRIVE
+                                                          2 - THERMOSTATIC SPRING
+through the radiator core causes a reaction to the        3 - MOUNTING NUT TO WATER PUMP HUB
+bimetallic coil. It then increases fan speed to provide
+the necessary additional engine cooling.                  may occur when ambient (outside air temperature) is
+  Once the engine has cooled, the radiator discharge      very high.
+temperature will drop. The bimetallic coil again            • Engine loads and temperatures are high such as
+reacts and the fan speed is reduced to the previous       when towing a trailer.
+disengaged speed.                                           • Cool silicone fluid within the fan drive unit is
+                                                          being redistributed back to its normal disengaged
+                                                          (warm) position. This can occur during the first 15
+DIAGNOSIS AND TESTING                                     seconds to one minute after engine start-up on a cold
+                                                          engine.
+VISCOUS FAN DRIVE
+                                                          LEAKS
+NOISE                                                        Viscous fan drive operation is not affected by small
+                                                          oil stains near the drive bearing. If leakage appears
+NOTE: It is normal for fan noise to be louder (roar-
+                                                          excessive, replace the fan drive unit.
+ing) when:
+
+  • The under hood temperature is above the               TESTING
+engagement point for the viscous drive coupling. This       If the fan assembly free-wheels without drag (the
+                                                          fan blades will revolve more than five turns when
+

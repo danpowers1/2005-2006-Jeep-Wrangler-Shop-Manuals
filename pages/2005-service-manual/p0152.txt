@@ -1,0 +1,57 @@
+3 - 94     REAR AXLE - 194RBI                                                                                  TJ
+REAR AXLE - 194RBI (Continued)
+  (26) Install new side bearing cones and cups on
+differential case.
+  (27) Install spreader W-129-B and some compo-
+nents of Adapter Set 6987 on differential housing and
+spread axle opening enough to receive differential
+case.
+  (28) Place side bearing shims into the housing
+against the differential bearing bore.
+  (29) Install differential case in the housing.
+  (30) Rotate the differential case several times to
+seat the side bearings.
+  (31) Position the indicator plunger against a ring
+gear tooth (Fig. 19).
+
+
+
+
+                                                                   Fig. 20 BACKLASH SHIM ADJUSTMENT
+                                                             within specifications to achieve desired tooth contact
+                                                             patterns.
+                                                                The TOP LAND of the gear tooth is the top surface
+                                                             of the tooth. The PROFILE of the gear tooth is the
+                                                             depth of the tooth. The TOE of the gear is the por-
+                                                             tion of the tooth surface at the end towards the cen-
+                                                             ter. The HEEL of the gear is the portion of the tooth
+           Fig. 19 RING GEAR BACKLASH                        at the outer-end. The ROOT of the gear tooth is the
+1 - DIAL INDICATOR                                           lowest portion of the tooth (Fig. 21).
+
+  (32) Push and hold ring gear upward while not              NOTE: If the PROFILE across the tooth is the same
+allowing the pinion gear to rotate.                          it is a 3 Axis cut gear. If the PROFILE across the
+  (33) Zero dial indicator face to pointer.                  tooth is tapered it is a 2 Axis cut gear.
+  (34) Push and hold ring gear downward while not
+allowing the pinion gear to rotate. Dial indicator
+reading should be between 0.12 mm - 0.20 mm (0.005
+in. - 0.008 in.). If backlash is not within specifications
+transfer the necessary amount of shim thickness
+from one side of the differential housing to the other
+(Fig. 20).
+  (35) Verify differential case and ring gear runout
+by measuring ring to pinion gear backlash at eight
+locations around the ring gear. Readings should not
+vary more than 0.05 mm (0.002 in.). If readings vary
+more than specified, the ring gear or the differential
+case is defective.
+  After the proper backlash is achieved, perform the
+Gear Contact Pattern Analysis procedure.
+                                                                            Fig. 21 GEAR DESCRIPTION
+GEAR CONTACT PATTERN
+  The ring gear and pinion teeth contact patterns            1 - TOP LAND
+                                                             2 - PROFILE
+will show if the pinion depth is correct in the hous-        3 - TOE
+ing. It will also show if the ring gear backlash has         4 - HEEL
+                                                             5 - ROOT
+been adjusted correctly. The backlash can be adjusted
+

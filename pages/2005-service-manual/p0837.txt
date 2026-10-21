@@ -1,0 +1,47 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 37
+
+                                      MULTI-FUNCTION SWITCH C1 - GRAY 20 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    L50 18WT/TN (EXCEPT EXPORT)        BRAKE LAMP SWITCH OUTPUT
+               2    L61 18GY                           LEFT TURN SIGNAL
+               3    L5 20WT/LB                         FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+               4    L63 18DG/RD                        LEFT TURN/STOP SIGNAL
+               5    L62 18BR/RD                        RIGHT TURN/STOP SIGNAL
+               6    L60 18TN                           RIGHT TURN SIGNAL
+               7    Z902 18BK                          GROUND
+               8    E19 20OR/BR                        PANEL LAMPS DRIVER
+               9    L7 18WT/YL                         HEADLAMP SWITCH OUTPUT
+              10    -                                  -
+              11    A701 18BR/RD                       FUSED B(+)
+              12    L36 16WT/DB (EXPORT)               REAR FOG LAMP FEED
+              13    A39 18RD/LG                        FUSED B(+)
+              14    L139 18WT/YL (EXCEPT EXPORT)       FOG LAMP SWITCH SIGNAL
+              15    -                                  -
+              16    L4 14WT/LG                         DIMMER SWITCH LOW BEAM OUTPUT
+              17    L300 14LG/WT                       DIMMER SWITCH HIGH BEAM OUTPUT
+              18    A333 14WT/RD                       FUSED B(+)
+              19    A333 14WT/RD                       FUSED B(+)
+              20    L177 18WT/OR                       FUSED B(+)
+
+
+
+
+                                      MULTI-FUNCTION SWITCH C2 - BLACK 7 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    W7 16BR/GY                         WIPER PARK SWITCH SENSE
+               2    Z902 20BK                          GROUND
+               3    W10 16BR                           WASHER PUMP CONTROL SWITCH OUTPUT
+               4    F300 16OR/PK                       FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+               5    W4 16BR/OR                         WIPER SWITCH HIGH SPEED OUTPUT
+               6    W3 16BR/WT                         LOW SPEED WIPER SWITCH OUTPUT
+               7    -                                  -
+
+
+
+
+                               NATURAL VACUUM LEAK DETECTION ASSEMBLY - BLACK 3 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    Z913 20BK                          GROUND
+               2    K107 20VT/WT                       NVLD SWITCH SIGNAL
+               3    K106 20VT/LB                       NVLD SOL CONTROL
+

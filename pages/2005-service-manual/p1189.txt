@@ -1,0 +1,21 @@
+TJ                                                           AUTOMATIC TRANSMISSION - 42RLE               21 - 45
+AUTOMATIC TRANSMISSION - 42RLE (Continued)
+REVERSE GEAR POWERFLOW
+  In reverse, input (Fig. 7) power is through the
+reverse clutch (1). When applied, the reverse clutch
+drives the front sun gear through the overdrive hub
+and shaft. The L/R clutch (2) is applied to hold the
+front carrier/rear annulus assembly stationary. The
+front carrier is being held by the L/R clutch so the
+pinions are forced to rotate the front annulus/rear
+carrier assembly in the reverse direction. Output
+torque is provided, in reverse, with a gear ratio of
+2.21:1.
+
+
+
+
+                                          Fig. 7 Reverse Gear Powerflow
+1 - LOW-REVERSE CLUTCH APPLIED (Holds Rear Annulus Front   2 - REVERSE CLUTCH APPLIED (Turns Front Sun)
+Carrier)
+

@@ -1,0 +1,52 @@
+TJ                                                                                     RESTRAINTS        8O - 9
+AIRBAG CONTROL MODULE (Continued)
+restraint system diagnosis and testing through the        panel. These connections allow the ACM to be opera-
+16-way data link connector located on the driver side     tional whenever the ignition switch is in the Start or
+lower edge of the instrument panel. (Refer to 8 -         On positions. The ACM also contains an energy-stor-
+ELECTRICAL/INSTRUMENT               CLUSTER/AIRBAG        age capacitor. When the ignition switch is in the
+INDICATOR - OPERATION).                                   Start or On positions, this capacitor is continually
+   The ACM microprocessor continuously monitors all       being charged with enough electrical energy to
+of the front supplemental restraint system electrical     deploy the front supplemental restraint components
+circuits to determine the system readiness. If the        for up to one second following a battery disconnect or
+ACM detects a monitored system fault, it sets an          failure. The purpose of the capacitor is to provide
+active and stored Diagnostic Trouble Code (DTC) and       backup supplemental restraint system protection in
+sends electronic messages to the EMIC over the PCI        case there is a loss of battery current supply to the
+data bus to turn on the airbag indicator. An active       ACM during an impact.
+fault only remains for the duration of the fault, or in      Two sensors are contained within the ACM; an
+some cases, the duration of the current ignition          electronic impact sensor, and a safing sensor. The
+switch cycle, while a stored fault causes a DTC to be     electronic impact sensor is an accelerometer that
+stored in memory by the ACM. For some DTCs, if a          senses the rate of vehicle deceleration, which pro-
+fault does not recur for a number of ignition cycles,     vides verification of the direction and severity of an
+the ACM will automatically erase the stored DTC.          impact. The safing sensor is an electromechanical
+For other internal faults, the stored DTC is latched      sensor within the ACM that provides an additional
+forever.                                                  logic input to the ACM microprocessor. The safing
+   In models not equipped with a rear seat, the ACM       sensor is a normally open switch that is used to ver-
+also monitors a resistor multiplexed input from the       ify the need for a front supplemental restraint
+passenger airbag on/off switch and provides a control     deployment by detecting impact energy of a lesser
+output for the Off indicator in the switch through a      magnitude than that of the electronic impact sensor,
+passenger airbag indicator driver circuit. If the pas-    and must be closed in order for the front airbags to
+senger airbag on/off switch is set to the Off position,   deploy. A pre-programmed decision algorithm in the
+the ACM turns on the passenger airbag on/off switch       ACM microprocessor determines when the decelera-
+Off indicator and will internally disable the passen-     tion rate as signaled by the impact sensor and the
+ger airbag from being deployed if an impact is            safing sensor indicate an impact that is severe
+detected that is sufficient for an airbag deployment.     enough to require front supplemental restraint sys-
+The ACM also turns on the on/off switch Off indica-       tem protection and, based upon the status of the pas-
+tor for about seven seconds each time the ignition        senger airbag on/off switch input and the severity of
+switch is turned to the On position as a bulb test.       the monitored impact, determines what combination
+Following the bulb test, the ACM controls the status      of front airbag deployment is required for each front
+of the Off indicator based upon the resistance of the     seating position. When the programmed conditions
+input from the on/off switch. The ACM will also set       are met, the ACM sends the proper electrical signals
+and/or store a DTC for faults it detects in the passen-   to deploy the dual front airbags.
+ger airbag on/off switch circuits, and will turn on the      The hard wired inputs and outputs for the ACM
+airbag indicator in the EMIC if a fault has been          may be diagnosed and tested using conventional
+detected.                                                 diagnostic tools and procedures. However, conven-
+   The ACM receives battery current through two cir-      tional diagnostic methods will not prove conclusive in
+cuits; a fused ignition switch output (run) circuit       the diagnosis of the ACM, the PCI data bus network,
+through a fuse in the fuse block, and a fused ignition    or the electronic message inputs to and outputs from
+switch output (run-start) circuit through a second        the ACM. The most reliable, efficient, and accurate
+fuse in the fuse block. The ACM receives ground           means to diagnose the ACM, the PCI data bus net-
+through a ground circuit and take out of the body         work, and the electronic message inputs to and out-
+wire harness. This take out has a single eyelet ter-      puts from the ACM requires the use of a DRBIIIt
+minal connector that is secured by a ground screw to      scan tool. Refer to the appropriate diagnostic infor-
+the right cowl side inner panel below the instrument      mation.
+

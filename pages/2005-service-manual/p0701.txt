@@ -1,0 +1,24 @@
+TJ                                   8W-31 TRANSMISSION CONTROL SYSTEM                                                      8W - 31 - 1
+
+                           8W-31 TRANSMISSION CONTROL SYSTEM
+Component                                                          Page    Component                                                   Page
+Axle Lock Switch . . . . . . . . . . . . . . . . 8W-31-13, 14              Input Speed Sensor . . . . . . . . . . . . . . . . . . 8W-31-9
+Brake Lamp Switch . . . . . . . . . . . . . . . . . . 8W-31-2              Instrument Cluster . . . . . . . 8W-31-2, 10, 12, 13, 14
+Brake Transmission Shift Interlock                                         Left Rear Lamp Assembly . . . . . . . . . . . . . 8W-31-7
+  Solenoid . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-2       Output Speed Sensor . . . . . . . . . . . . . . . . . 8W-31-9
+Clutch Pedal Position Switch . . . . . . . . . . . 8W-31-9                 Power Distribution Center . . . . . . . . . . 8W-31-3, 11
+Data Link Connector . . . . . . . . . . . . . . . . . 8W-31-9              Powertrain Control Module . . 8W-31-2, 3, 4, 5, 6, 8,
+Fog Lamp Relay . . . . . . . . . . . . . . . . . . . . . 8W-31-3                                                                   9, 10, 14
+Front Locker Indicator Switch . . . . . . . . . 8W-31-12                   Rear Locker Indicator Switch . . . . . . . . . . 8W-31-12
+Front Locker Pump . . . . . . . . . . . . . . . . . . 8W-31-11             Rear Locker Pump . . . . . . . . . . . . . . . . . . 8W-31-11
+Front Locker Relay . . . . . . . . . . . . . . . . . . 8W-31-11            Rear Locker Relay . . . . . . . . . . . . . . . . . . 8W-31-11
+Fuse 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-3     Right Rear Lamp Assembly . . . . . . . . . . . . 8W-31-7
+Fuse 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-7     Tow/Haul Overdrive Off Switch . . . . . . . . 8W-31-10
+Fuse 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-2    Transfer Case Switch . . . . . . . . . . . . . . 8W-31-2, 14
+Fuse 24 . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-11     Transmission Control Relay . . . . . . . . 8W-31-3, 4, 5
+Fuse Block . . . . . . . . . . . . . . . . . . . . . . . 8W-31-2, 7        Transmission Range Sensor . . . . . . . . 8W-31-6, 7, 9
+G100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-3   Transmission Solenoid/Pressure Switch
+G105 . . . . . . . . . . . . . . . . . . . . . . 8W-31-2, 3, 11, 12          Assembly . . . . . . . . . . . . . . . . . . . . . . 8W-31-4, 5
+G200 . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-10, 14      Variable Line Pressure Sensor . . . . . . . . . . 8W-31-8
+G300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8W-31-2
+

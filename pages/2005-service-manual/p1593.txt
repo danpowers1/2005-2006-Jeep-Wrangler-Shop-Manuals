@@ -1,0 +1,62 @@
+TJ                                                                                       CONTROLS     24 - 25
+A/C PRESSURE TRANSDUCER (Continued)
+mance and to protect the system components from           REMOVAL
+damage PCM will disengage the A/C compressor
+clutch when high side pressure rises above 2971 kPa       NOTE: Note: It is not necessary to discharge the
+(431 psi) or fall below 206 kPa (30 psi). The A/C pres-   refrigerant system to replace the A/C pressure
+sure transducer input to the PCM will also prevent        transducer.
+the A/C compressor clutch from engaging when ambi-
+ent temperatures are below about 1.0° C (50° F) due         (1) Disconnect and isolate the negative battery
+to the pressure/temperature relationship of the           cable.
+refrigerant.                                                (2) Disconnect the wire harness connector from the
+   The A/C pressure transducer is diagnosed using a       A/C pressure transducer (Fig. 21).
+DRBIIIt scan tool. Refer to the appropriate diagnos-        (3) Remove the A/C pressure transducer from the
+tic information.                                          A/C discharge line and remove and discard the
+   The A/C pressure transducer cannot be adjusted or      O-ring seal.
+repaired and, if faulty or damaged, it must be
+replaced.
+
+
+DIAGNOSIS AND TESTING
+A/C PRESSURE TRANSDUCER
+   The A/C pressure transducer is tested using a
+DRBIIIt scan tool. Refer to the appropriate diagnos-
+tic information. Before testing the A/C pressure
+transducer, be certain that the transducer wire har-
+ness connection is clean of corrosion and properly
+connected. For the A/C to operate, an A/C pressure
+transducer voltage reading between 0.451 and 4.519
+volts is required. Voltages outside this range indicate
+a low or high refrigerant system pressure condition
+to the powertrain control module (PCM). The PCM is
+programmed to respond to a low or high refrigerant
+system pressure by suppressing operation of the A/C
+compressor. Refer to the A/C Pressure Transducer
+                                                             Fig. 21 A/C Pressure Transducer - 2.4L Engine
+Voltage chart for the possible conditions indicated by
+                                                          1 - NUT
+the transducer voltage reading.                           2 - A/C DISCHARGE LINE
+    A/C PRESSURE TRANSDUCER VOLTAGE                       3 - WIRE HARNESS CONNECTOR
+                                                          4 - A/C PRESSURE TRANSDUCER
+                                                          5 - NUT
+     Voltage               Possible Indication            6 - ACCUMULATOR
+                                                          7 - A/C SUCTION LINE (FRONT SECTION)
+        0.0          1. No sensor supply voltage from     8 - NUT (4)
+                     PCM.                                 9 - A/C SUCTION LINE (REAR SECTION)
+                                                          10 - SECONDARY RETAINING CLIP
+                     2. Shorted sensor circuit.           11 - A/C CONDENSER
+                                                          12 - A/C COMPRESSOR
+                     3. Faulty transducer.
+  0.150 TO 0.450     1. Ambient temperature below         INSTALLATION
+                     10° C (50° F).
+                     2. Low refrigerant system            NOTE: Use only the specified O-ring as it is made
+                     pressure.                            of special material for R-134a. Use only refrigerant
+                                                          oil of the type required for the A/C compressor.
+  0.451 TO 4.519     1. Normal refrigerant system
+                     pressure.                              (1) Lubricate a new rubber O-ring seal with clean
+  4.520 TO 4.850     1. High refrigerant system           refrigerant oil and install it on the A/C pressure
+                     pressure.                            transducer fitting.
+        5.0          1. Open sensor circuit.                (2) Install the A/C pressure transducer onto the
+                                                          A/C discharge line. Hand-tighten the transducer
+                     2. Faulty transducer.                securely.
+

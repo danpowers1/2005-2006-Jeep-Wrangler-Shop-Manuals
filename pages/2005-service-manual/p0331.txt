@@ -1,0 +1,49 @@
+TJ                                                                                   CHIME/BUZZER        8B - 3
+CHIME WARNING SYSTEM (Continued)
+   • Sentry Key Immobilizer System “Customer              rate and duration of each chime that is to be gener-
+Learn” Mode Announcement - This chime feature             ated.
+is only active on vehicles equipped with the optional        The hard wired chime warning system inputs to
+Sentry Key Immobilizer System (SKIS) and sold in          the instrument cluster, as well as other hard wired
+markets where the optional “Customer Learn” pro-          circuits for this system may be diagnosed and tested
+gramming feature is available. The instrument clus-       using conventional diagnostic tools and procedures.
+ter chime tone generator will generate one chime to       However, conventional diagnostic methods may not
+announce that a status message input received from        prove conclusive in the diagnosis of the instrument
+the Sentry Key Immobilizer Module (SKIM) over the         cluster or the PCI data bus network. The most reli-
+PCI data bus indicates that the SKIS is in the “Cus-      able, efficient and accurate means to diagnose the
+tomer Learn” mode, which is used for programming          instrument cluster and the PCI data bus network
+additional sentry key transponders.                       inputs for the chime warning system requires the use
+   • Turn Signal On Warning - The instrument              of a DRBIIIt scan tool. Refer to the appropriate diag-
+cluster chime tone generator will generate repetitive     nostic information.
+chimes at a slow rate to announce that the hard
+wired input for the right or left turn signal indicator   DIAGNOSIS AND TESTING - CHIME WARNING
+as well as vehicle distance and speed message inputs      SYSTEM
+received from the PCM over the PCI data bus indi-           The chime warning system features driven by hard
+cate that a turn signal has been active continuously      wired inputs to the instrument cluster may be diag-
+for 1.6 kilometers (1 mile) with the vehicle speed        nosed and tested using conventional diagnostic tools
+greater than 22 kilometers-per-hour (15 miles-per         and procedures. However, conventional diagnostic
+hour). Vehicles built for markets other than the          methods may not prove conclusive in the diagnosis of
+United States and Canada have a revised distance          the chime warning system features driven by mes-
+threshold of 4 kilometers for this feature. The chime     sage inputs to the instrument cluster over the Pro-
+will continue until the turn signal input becomes         grammable Communications Interface (PCI) data bus
+inactive, the status changes, or until the vehicle        network. The most reliable, efficient and accurate
+speed message indicates that the speed is less than       means to diagnose the instrument cluster and the
+22 kilometers-per-hour (15 miles-per-hour), which-        PCI data bus network inputs for the chime warning
+ever occurs first. The hazard warning flashers will       system requires the use of a DRBIIIt scan tool. Refer
+not activate this chime feature.                          to the appropriate diagnostic and wiring information.
+   The instrument cluster provides chime service for
+all available features in the chime warning system.       WARNING: ON VEHICLES EQUIPPED WITH AIR-
+The instrument cluster relies upon its internal pro-      BAGS, DISABLE THE AIRBAG SYSTEM BEFORE
+gramming, hard wired inputs from numerous                 ATTEMPTING ANY STEERING WHEEL, STEERING
+switches, and electronic message inputs received          COLUMN, OR INSTRUMENT PANEL COMPONENT
+from other electronic modules over the PCI data bus       DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-
+network. Upon receiving the proper inputs, the            LATE THE BATTERY NEGATIVE (GROUND) CABLE,
+instrument cluster activates the integral chime tone      THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-
+generator to provide the audible chime to the vehicle     TEM CAPACITOR TO DISCHARGE BEFORE PER-
+operator. The chime tone generator in the instrument      FORMING FURTHER DIAGNOSIS OR SERVICE. THIS
+cluster is capable of producing single chime tones, or    IS THE ONLY SURE WAY TO DISABLE THE AIRBAG
+repeated chime tones at two different rates: about        SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+fifty chime tones per minute, or about 180 chime          CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+tones per minute. The internal programming of the         BAG DEPLOYMENT AND POSSIBLE PERSONAL
+instrument cluster determines the priority of each        INJURY.
+chime request input that is received, as well as the
+

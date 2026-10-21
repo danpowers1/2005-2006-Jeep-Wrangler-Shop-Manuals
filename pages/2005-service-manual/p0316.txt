@@ -1,0 +1,56 @@
+7 - 42    ENGINE                                                                                      TJ
+RADIATOR PRESSURE CAP (Continued)
+spring and a rubber gasket. This gasket is used to
+seal to radiator filler neck top surface. Use of proper
+cap will allow coolant return to radiator.
+
+
+RADIATOR FAN
+DESCRIPTION
+  The electric cooling fan replaces the engine driven
+mechanical fan. The electric cooling fan is integral to
+the fan shroud and is located between the radiator
+and the engine.
+  The electric fan is controlled by the electronic con-
+trol module (ECM).
+  The electric cooling fan is not serviceable. Any fail-
+ure of the fan blade, electric motor or fan shroud
+requires replacement of the fan module.
+
+CAUTION: Do not attempt to service the electric
+cooling fan or fan blades separately, replace the
+cooling module as an assembly. Failure to do so
+may cause severe damage to the electric cooling
+fan assembly.                                                       Fig. 36 Coolant Recovery Bottle
+                                                           1 - COOLANT RECOVERY BOTTLE
+                                                           2 - COOLING FAN ASSEMBLY
+                                                           2 - POWER STEERING RESERVOIR
+REMOVAL
+REMOVAL
+  (1) Remove the coolant recovery bottle and position
+out of the way (Fig. 36).
+  (2) Remove and position the power steering reser-
+voir out of the way.
+  (3) Disconnect the electrical connector.
+  (4) Remove the mounting screws.
+  (5) Remove the cooling fan assembly (Fig. 37).
+
+REMOVAL - 4.0L
+  (1) Remove the thermal viscous fan drive/fan blade
+assembly (Refer to 7 - COOLING/ENGINE/FAN
+DRIVE VISCOUS CLUTCH - REMOVAL).
+  (2) Remove the four fan retaining bolts.
+  (3) Seperate the fan blade from the thermal vis-
+cous fan drive.
+
+CLEANING
+ Clean the fan blades using a mild soap and water.
+Do not use an abrasive to clean the blades.
+
+INSPECTION                                                            Fig. 37 Electrical Connector
+                                                           1 - ELECTRICAL CONNECTOR
+                                                           2 - MOUNTING SCREW
+WARNING: DO NOT ATTEMPT TO BEND OR
+STRAIGHTEN FAN BLADES IF FAN IS NOT WITHIN
+SPECIFICATIONS.
+

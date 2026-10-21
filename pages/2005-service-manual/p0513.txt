@@ -1,0 +1,58 @@
+TJ                                                                                     RESTRAINTS        8O - 3
+RESTRAINTS (Continued)
+but are accessed from the front of the seat where the       • Airbag Indicator - The airbag indicator is inte-
+seat back meets the seat cushion. Vehicles equipped      gral to the ElectroMechanical Instrument Cluster
+with a rear seat have two fixed-position, child seat     (EMIC), which is located on the instrument panel in
+upper tether anchors on the rear floor panel behind      front of the driver.
+the rear seat just forward of the tailgate opening,         • Clockspring - The clockspring is located near
+and four lower anchors that are integral to the rear     the top of the steering column, directly beneath the
+seat back. The inboard rear seat lower anchors are       steering wheel.
+accessed from the front of the seat where the seat          • Driver Airbag - The driver airbag is located in
+back meets the seat cushion. The outboard rear seat      the center of the steering wheel, beneath the driver
+lower anchors are accessed between the seat hinge        airbag trim cover.
+bracket on each outboard end of the rear seat, just         • Driver Knee Blocker - The driver knee blocker
+above the seat back pivot. The child seat tether and     is a molded plastic structural unit secured to the
+lower anchors for the front passenger seat are           back side of and integral to the instrument panel
+deleted on models equipped with a rear seat.             steering column opening cover.
+                                                            • Passenger Airbag - The passenger airbag is
+PASSIVE RESTRAINTS                                       located on the instrument panel, beneath the passen-
+   The passive restraints available for this model       ger airbag door on the instrument panel above the
+include Next Generation driver and front passenger       glove box on the passenger side of the vehicle.
+airbags. This airbag system is a passive, inflatable,       • Passenger Airbag On/Off Switch - Models
+Supplemental Restraint System (SRS) and vehicles         without a rear seat are equipped with a passenger
+with this equipment can be readily identified by the     airbag on/off switch, which is located in a dedicated
+“SRS - AIRBAG” logo molded into the driver airbag        opening on the passenger side of the accessory switch
+trim cover in the center of the steering wheel and       bezel in the lower center stack area of the instru-
+also into the passenger airbag door on the instru-       ment panel.
+ment panel above the glove box (Fig. 2). Vehicles           • Passenger Knee Blocker - The passenger knee
+with the airbag system can also be identified by the     blocker is a structural reinforcement that is integral
+airbag indicator, which will illuminate in the instru-   to and concealed within the glove box door.
+ment cluster for about seven seconds as a bulb test         The ACM and the EMIC each contain a central
+each time the ignition switch is turned to the On        processing unit and programming that allow them to
+position.                                                communicate with each other using the Programma-
+                                                         ble Communication Interface (PCI) data bus network.
+                                                         This method of communication is used by the ACM
+                                                         for control of the airbag indicator on all models
+                                                         equipped with dual front airbags. (Refer to 8 - ELEC-
+                                                         TRICAL/ELECTRONIC            CONTROL       MODULES/
+                                                         COMMUNICATION - DESCRIPTION).
+                                                            Hard wired circuitry connects the supplemental
+                                                         restraint system components to each other through
+                                                         the electrical system of the vehicle. These hard wired
+                                                         circuits are integral to several wire harnesses, which
+                                                         are routed throughout the vehicle and retained by
+                                                         many different methods. These circuits may be con-
+                                                         nected to each other, to the vehicle electrical system,
+                                                         and to the supplemental restraint system compo-
+                                                         nents through the use of a combination of soldered
+                                                         splices, splice block connectors, and many different
+                  Fig. 2 SRS Logo                        types of wire harness terminal connectors and insu-
+                                                         lators. Refer to the appropriate wiring information.
+   The supplemental restraint system includes the        The wiring information includes wiring diagrams,
+following major components, which are described in       proper wire and connector repair procedures, further
+further detail elsewhere in this service information:    details on wire harness routing and retention, as well
+   • Airbag Control Module - The Airbag Control          as pin-out and location views for the various wire
+Module (ACM) is located on a mount on the floor          harness connectors, splices and grounds.
+panel transmission tunnel, below the center of the
+instrument panel.
+

@@ -1,0 +1,50 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 29
+
+
+                                             FUEL PUMP MODULE - 4 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    Z987 18BK                          GROUND
+               2    N4 20DB/WT                         FUEL LEVEL SENSOR SIGNAL
+               3    K900 20DB/DG                       SENSOR GROUND
+               4    A109 18OR/RD                       FUEL PUMP RELAY OUTPUT
+
+
+
+
+                                                 G-SWITCH - 3 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    G119 20VT                          G-SWITCH TEST SIGNAL
+               2    G117 20VT/LG                       G-SWITCH NO. 1 SENSE
+               3    G118 20VT/YL                       G-SWITCH NO. 2 SENSE
+
+
+
+
+                                             GENERATOR - BLACK 2 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    K125 18BR/DG                       GEN FIELD CONTROL
+               2    Z20 18BR/BK                        GROUND
+
+
+
+
+                                    HEADLAMP LEVELING SWITCH (EXPORT) - 6 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               1    -                                  -
+               2    L45 20WT/OR                        FUSED HEADLAMP SWITCH OUTPUT
+               3    -                                  -
+               4    Z1 20BK                            GROUND
+               5    L13 20WT/YL                        HEADLAMP ADJUST SIGNAL
+               6    -                                  -
+
+
+
+
+                                      HEATER CONTROL C1 (HEATER ONLY) - 5 WAY
+              CAV                  CIRCUIT                                 FUNCTION
+               A    C7 12BR/TN                         BLOWER MOTOR HIGH SPEED
+               B    C6 14LB                            BLOWER MOTOR M2 SPEED
+               C    C5 16LG/LB                         BLOWER MOTOR M1 SPEED
+               D    C4 18TN                            BLOWER MOTOR LOW SPEED
+               E    C1 12DG                            BLOWER MOTOR FEED
+

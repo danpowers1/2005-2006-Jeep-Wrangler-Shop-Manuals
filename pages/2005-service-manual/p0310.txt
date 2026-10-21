@@ -1,0 +1,64 @@
+7 - 36    ENGINE                                                                                           TJ
+RADIATOR (Continued)
+
+INSTALLATION
+CAUTION: Before installing the radiator or A/C con-
+denser, be sure the radiator-to-body and radiator-to-
+A/C condenser rubber air seals are properly
+fastened to their original positions. These are used
+at the top, bottom and sides of the radiator and A/C
+condenser. To prevent overheating, these seals
+must be installed to their original positions.
+
+  (1) Guide the two radiator alignment dowels into
+the rubber grommets located in lower radiator cross-
+member. Install and tighten the six mounting bolts
+(Fig. 23) to 8 N·m (72 in. lbs.) torque.
+  (2) Close radiator draincock.
+  (3) 2.4L ONLY - Install the electric cooling fan
+(Refer to 7 - COOLING/ENGINE/RADIATOR FAN -
+INSTALLATION).
+  (4) Position fan shroud and power steering reser-
+voir tank (if equipped). Install and tighten four
+mounting bolts to 8 N·m (72 in. lbs.) torque.
+  (5) If equipped, remove plugs and connect auto-
+matic transmission fluid cooler lines and constant
+tension clamps.
+
+CAUTION: The tangs on the hose clamps must be                            Fig. 25 Water Pump
+positioned straight down.
+                                                         1 - CYLINDER BLOCK
+                                                         2 - WATER PUMP
+   (6) Connect radiator hoses and install hose clamps.
+   (7) Position and install the condenser lower seal     DIAGNOSIS AND TESTING
+(Fig. 22).
+   (8) Connect battery negative cable.
+   (9) Fill cooling system with correct coolant (Refer
+                                                         WATER PUMP
+                                                           A quick flow test to determine if the water pump is
+to 7 - COOLING - STANDARD PROCEDURE).
+                                                         working effectively is to check heater system for
+   (10) Connect coolant recovery bottle hose.
+                                                         proper operation. A defective pump will not provide
+   (11) Install radiator cap.
+                                                         an adequate flow of heated coolant through the sys-
+   (12) Check and adjust automatic transmission
+                                                         tem.
+fluid level (if equipped).
+   (13) Start engine and check for leaks.                WARNING: DO NOT REMOVE THE COOLING SYS-
+                                                         TEM PRESSURE CAP WITH THE SYSTEM HOT AND
+                                                         UNDER PRESSURE BECAUSE SERIOUS BURNS
+WATER PUMP - 2.4L                                        FROM COOLANT CAN OCCUR.
+DESCRIPTION                                                Another flow test to help determine water pump
+  The water pump has a cast aluminum body and            operation is as follows:
+housing with a stamped steel impeller. The water           (1) Remove cooling system pressure cap.
+pump bolts directly to the block (Fig. 25). The cylin-     (2) Remove a small amount of coolant from the
+der block to water pump seal is provided by a rubber     system.
+O-ring. The water pump is driven by the engine tim-        (3) Start the engine and warm up until thermostat
+ing belt.                                                opens.
+                                                           (4) With the thermostat open and coolant level low,
+OPERATION                                                visually inspect for coolant flow. If flow is present,
+  The water pump is the heart of the cooling system.     the water pump is pumping coolant through the sys-
+The coolant is pumped through the engine block, cyl-     tem.
+inder head, heater core, and radiator.
+

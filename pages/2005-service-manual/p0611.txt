@@ -1,0 +1,39 @@
+TJ                               8W-01 WIRING DIAGRAM INFORMATION                               8W - 01 - 5
+WIRING DIAGRAM INFORMATION (Continued)
+TERMINOLOGY                                                               WIRE COLOR CODE CHART
+  This is a list of terms and definitions used in the
+wiring diagrams.                                                     COLOR CODE            COLOR
+                                                                 BL               BLUE
+LHD . . . . . . . . . . . . . . . . . Left Hand Drive Vehicles
+RHD . . . . . . . . . . . . . . . Right Hand Drive Vehicles      BK               BLACK
+ATX . . Automatic Transmissions-Front Wheel Drive                BR               BROWN
+MTX . . . Manual Transmissions-Front Wheel Drive                 DB               DARK BLUE
+AT . . . . Automatic Transmissions-Rear Wheel Drive
+                                                                 DG               DARK GREEN
+MT . . . . . Manual Transmissions-Rear Wheel Drive
+SOHC . . . . . . . . . . . Single Over Head Cam Engine           GY               GRAY
+DOHC . . . . . . . . . . Double Over Head Cam Engine             LB               LIGHT BLUE
+Export . . Vehicles Built For Sale In Markets Other              LG               LIGHT GREEN
+                                           Than North America
+                                                                 OR               ORANGE
+Except Export . . . . Vehicles Built For Sale In North
+                                                      America    PK               PINK
+                                                                 RD               RED
+DESCRIPTION - CIRCUIT INFORMATION
+                                                                 TN               TAN
+   Each wire shown in the diagrams contains a code
+which identifies the main circuit, part of the main              VT               VIOLET
+circuit, gage of wire, and color (Fig. 4).                       WT               WHITE
+                                                                 YL               YELLOW
+                                                                 *                WITH TRACER
+
+
+
+
+         Fig. 4 WIRE CODE IDENTIFICATION
+1 - COLOR OF WIRE (LIGHT BLUE WITH YELLOW TRACER
+2 - GAGE OF WIRE (18 GAGE)
+3 - PART OF MAIN CIRCUIT (VARIES DEPENDING ON
+EQUIPMENT)
+4 - MAIN CIRCUIT IDENTIFICATION
+

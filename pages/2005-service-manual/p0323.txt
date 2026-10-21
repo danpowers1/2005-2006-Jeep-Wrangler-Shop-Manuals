@@ -1,0 +1,73 @@
+TJ                                                                                   AUDIO/VIDEO       8A - 5
+ANTENNA BODY & CABLE (Continued)
+tery. Disconnect both battery cables, the negative
+cable first. Reconnect the battery negative cable and
+perform the test as follows:
+   (1) Connect one ohmmeter test lead to the vehicle
+fender. Connect the other test lead to the battery
+negative post.
+   (2) The resistance should be less than one ohm.
+   (3) If the resistance is more than one ohm, check
+the braided ground strap connected to the engine and
+the vehicle body for being loose, corroded, or dam-
+aged. Repair or replace the ground strap connection,
+if required.
+
+TEST 4
+  Test 4 checks the condition of the ground between
+the antenna base and the vehicle body as follows:
+  (1) Connect one ohmmeter test lead to the vehicle
+fender. Connect the other test lead to the outer crimp
+on the antenna coaxial cable connector.
+  (2) The resistance should be less then one ohm.
+  (3) If the resistance is more then one ohm, clean
+and/or tighten the antenna base to fender mounting
+hardware.                                                           Fig. 2 Antenna Remove/Install
+                                                         1 - RIGHT COWL SIDE PANEL
+REMOVAL                                                  2 - BASE & CABLE
+                                                         3 - GROMMET
+                                                         4 - SCREW
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                  5 - COVER
+BAGS, (REFER TO ELECTRICAL/RESTRAINTS)                   6 - MAST
+BEFORE ATTEMPTING ANY STEERING WHEEL,
+STEERING COLUMN, OR INSTRUMENT PANEL                       (8) From the outside of the vehicle, pull the
+COMPONENT DIAGNOSIS OR SERVICE. FAILURE                  antenna body base and cable assembly out through
+TO TAKE THE PROPER PRECAUTIONS COULD                     the hole in the right outer cowl side panel.
+RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+AND POSSIBLE PERSONAL INJURY.                            INSTALLATION
+
+   (1) Disconnect and isolate the battery negative       WARNING: ON VEHICLES EQUIPPED WITH AIR-
+cable.                                                   BAGS, (REFER TO ELECTRICAL/RESTRAINTS)
+   (2) Remove the glove box from the instrument          BEFORE ATTEMPTING ANY STEERING WHEEL,
+panel. (Refer to 23 - BODY/INSTRUMENT PANEL/             STEERING COLUMN, OR INSTRUMENT PANEL
+GLOVE BOX - REMOVAL).                                    COMPONENT DIAGNOSIS OR SERVICE. FAILURE
+   (3) Reach through the instrument panel glove box      TO TAKE THE PROPER PRECAUTIONS COULD
+opening to unplug the two antenna coaxial cables in      RESULT IN ACCIDENTAL AIRBAG DEPLOYMENT
+line connector. Unplug the connector by pulling it       AND POSSIBLE PERSONAL INJURY.
+apart while twisting the metal connector halves. Do
+                                                           (1) From outside the vehicle, feed the antenna
+not pull on the cable.
+                                                         cable and base assembly through the outer cowl side
+   (4) Unscrew the antenna mast from the antenna
+                                                         panel and into the inner cowl side panel hole.
+body base on the right outer cowl side panel (Fig. 2).
+                                                           (2) From inside the passenger compartment, pull
+   (5) Using a trim stick, gently pry the edge of the
+                                                         the cable and grommet into the hole in the inside
+antenna base trim cover to unsnap it from the
+                                                         cowl side panel until the grommet is fully seated.
+antenna body base.
+                                                           (3) Install the three screws retaining the antenna
+   (6) Remove the three screws that secure the
+                                                         body base to right outer cowl side panel. Tighten the
+antenna body base to the right outer cowl side panel.
+                                                         screws to 3.3 N·m (30 in. lbs.).
+   (7) From inside the passenger compartment, push
+                                                           (4) Snap on the antenna base trim cover to the
+the coaxial cable grommet on the antenna body half
+                                                         antenna body base.
+of the coaxial cable out through the hole in the right
+                                                           (5) Install antenna mast. Tighten to 5 N·m (46 in.
+inner cowl side panel.
+                                                         lbs.). Ensure that the antenna mast is fully
+

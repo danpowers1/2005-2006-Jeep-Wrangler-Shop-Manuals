@@ -1,0 +1,59 @@
+8O - 36     RESTRAINTS                                                                                        TJ
+SEAT BELT SWITCH (Continued)
+the driver side front seat belt tip-half is inserted into   seat belt switch and a good ground. There should be
+the seat belt buckle, the switch opens the path to          continuity. If OK, go to Step 3. If not OK, repair the
+ground; and, when the driver side front seat belt tip-      open ground circuit to ground (G302) as required.
+half is removed from the seat belt buckle, the switch         (3) Remove the instrument cluster from the instru-
+closes the ground path. The switch is actuated by the       ment panel. Check for continuity between the seat
+latch mechanism within the seat belt buckle.                belt switch sense circuit cavity of the body wire har-
+   The seat belt switch is connected in series between      ness connector for the seat belt switch and a good
+ground and the seat belt switch sense input of the          ground. There should be no continuity. If OK, go to
+instrument cluster. The seat belt switch receives           Step 4. If not OK, repair the shorted seat belt switch
+ground at all times through its pigtail wire connec-        sense circuit between the seat belt switch and the
+tion to the body wire harness from another take out         instrument cluster as required.
+of the body wire harness. An eyelet terminal connec-          (4) Check for continuity between the seat belt
+tor on that ground take out is secured beneath a            switch sense circuit cavities of the body wire harness
+ground screw on the left cowl side inner panel,             connector for the seat belt switch and the instrument
+beneath the instrument panel. The seat belt switch          panel wire harness connector (Connector C2) for the
+may de diagnosed using conventional diagnostic tools        instrument cluster. There should be continuity. If
+and methods.                                                OK, test and replace the faulty instrument cluster as
+                                                            required. (Refer to 8 - ELECTRICAL/INSTRUMENT
+DIAGNOSIS AND TESTING - SEAT BELT                           CLUSTER - DIAGNOSIS AND TESTING). If not OK,
+SWITCH                                                      repair the open seat belt switch sense circuit between
+  Refer to the appropriate wiring information. The          the seat belt switch and the instrument cluster as
+wiring information includes wiring diagrams, proper         required.
+wire and connector repair procedures, details of wire
+harness routing and retention, connector pin-out
+information and location views for the various wire
+                                                            SEAT BELT TURNING LOOP
+harness connectors, splices and grounds.                    ADJUSTER
+WARNING: TO AVOID PERSONAL INJURY OR                        REMOVAL
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-                     WARNING: TO AVOID PERSONAL INJURY OR
+TEM BEFORE ATTEMPTING ANY STEERING                          DEATH, DURING AND FOLLOWING ANY SEAT BELT
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-                  OR CHILD RESTRAINT ANCHOR SERVICE, CARE-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-                      FULLY INSPECT ALL SEAT BELTS, BUCKLES,
+VICE. DISCONNECT AND ISOLATE THE BATTERY                    MOUNTING HARDWARE, RETRACTORS, TETHER
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO                      STRAPS, AND ANCHORS FOR PROPER INSTALLA-
+MINUTES FOR THE SYSTEM CAPACITOR TO DIS-                    TION, OPERATION, OR DAMAGE. REPLACE ANY
+CHARGE BEFORE PERFORMING FURTHER DIAG-                      BELT THAT IS CUT, FRAYED, OR TORN.
+NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY                 STRAIGHTEN ANY BELT THAT IS TWISTED.
+TO DISABLE THE SUPPLEMENTAL RESTRAINT                       TIGHTEN ANY LOOSE FASTENERS. REPLACE ANY
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                     BELT THAT HAS A DAMAGED OR INOPERATIVE
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                    BUCKLE OR RETRACTOR. REPLACE ANY BELT
+BAG DEPLOYMENT.                                             THAT HAS A BENT OR DAMAGED LATCH PLATE
+                                                            OR ANCHOR PLATE. REPLACE ANY CHILD
+   (1) Disconnect and isolate the battery negative          RESTRAINT ANCHOR OR THE UNIT TO WHICH THE
+cable. Disconnect the seat belt switch pigtail wire         ANCHOR IS INTEGRAL THAT HAS BEEN BENT OR
+connector from the body wire harness connector for          DAMAGED. NEVER ATTEMPT TO REPAIR A SEAT
+the seat belt switch on the floor near the driver side      BELT OR CHILD RESTRAINT COMPONENT.
+front seat belt buckle-half anchor. Check for continu-      ALWAYS REPLACE DAMAGED OR FAULTY SEAT
+ity between the seat belt switch sense circuit and the      BELT AND CHILD RESTRAINT COMPONENTS WITH
+ground circuit cavities of the seat belt switch pigtail     THE CORRECT, NEW AND UNUSED REPLACEMENT
+wire connector. There should be continuity with the         PARTS LISTED IN THE DAIMLERCHRYSLER MOPAR
+seat belt unbuckled, and no continuity with the seat        PARTS CATALOG.
+belt buckled. If OK, go to Step 2. If not OK, replace
+the faulty front seat belt buckle-half assembly.              (1) Unsnap and lift the trim cover from the front
+   (2) Check for continuity between the ground cir-         seat belt turning loop to access the screw that
+cuit cavity in the body wire harness connector for the
+

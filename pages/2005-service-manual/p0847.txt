@@ -1,0 +1,39 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                     8W - 80 - 47
+
+
+                                 REAR WINDOW DEFOGGER SWITCH (HARD TOP) - 4 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    Z1 20BK                            GROUND
+               2    C80 20DB                           REAR WINDOW DEFOGGER SWITCH SENSE
+               3    C515 20LB/OR                       FUSED REAR WINDOW DEFOGGER RELAY OUTPUT
+               4    E2 20OR/BR                         PANEL LAMPS FEED
+
+
+
+
+                                    REAR WIPER MOTOR (HARD TOP) - BLACK 3 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    F302 18BR/PK                       FUSED IGNITION SWITCH OUTPUT (RUN)
+               2    Z913 16BK                          GROUND
+               3    W13 18BK/LG                        REAR WIPER MOTOR CONTROL
+
+
+
+
+                                REAR WIPER/WASHER SWITCH (HARD TOP) - WHITE 6 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    Z1 18BK                            GROUND
+               2    W20 18BR/YL                        REAR WASHER MOTOR CONTROL
+               3    E2 20OR/BR                         PANEL LAMPS FEED
+               4    W13 18BR/LG                        REAR WIPER MOTOR CONTROL
+               5    F302 18GY/PK                       FUSED IGNITION SWITCH OUTPUT (RUN)
+               6    -                                  -
+
+
+
+
+                                        RIGHT COURTESY LAMP - BLACK 2 WAY
+              CAV                  CIRCUIT                                FUNCTION
+               1    M21 20YL/BR                        FUSED B(+)
+               2    M22 20YL/OR                        COURTESY LAMPS DRIVER
+

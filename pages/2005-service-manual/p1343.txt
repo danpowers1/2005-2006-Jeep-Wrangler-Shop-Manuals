@@ -1,0 +1,48 @@
+TJ                                                                      TRANSFER CASE - NV231     21 - 199
+SPEEDOMETER DRIVE ADAPTER (Continued)
+
+
+
+
+                                          Fig. 98 Speedometer
+1 - Sensor O-ring                                     5 - Adapter Clamp
+2 - Speedometer Adapter                               6 - Vehicle Speed Sensor
+3 - Adapter O-ring                                    A - 2-3 N·m (15-27 in. lbs.)
+4 - Speedometer Pinion                                B - 10-12 N·m (90-110 in. lbs.)
+
+
+
+  (11) Connect wires to vehicle speed sensor.         with 4WD, this adapter is located on the extension
+  (12) Lower vehicle and top off transmission fluid   housing of the transfer case (drivers side). If
+level if necessary.                                   equipped with 2WD, this adapter is located on the
+                                                      left side of the transmission extension housing.
+
+                                                      OPERATION
+                                                        The VSS is a 3-circuit (3–wire), magnetic, hall-ef-
+                                                      fect sensor.
+                                                        The 3 circuits are:
+                                                        • A 5-volt power supply from the Powertrain Con-
+                                                      trol Module (PCM).
+                                                        • A ground is provided for the sensor though a
+                                                      low-noise sensor return circuit in the PCM.
+                                                        • An input to the PCM is used to determine vehi-
+                                                      cle speed and distance traveled.
+                                                        The speed sensor generates 8 pulses per sensor
+                                                      revolution. These signals, in conjunction with a
+                                                      closed throttle signal from the throttle position sen-
+                                                      sor, indicate a closed throttle deceleration to the
+Fig. 99 Location Of Index Numbers On Speedometer
+                                                      PCM. When the vehicle is stopped at idle, a closed
+                      Adapter
+                                                      throttle signal is received by the PCM (but a speed
+1 - SPEEDOMETER ADAPTER
+2 - INDEX NUMBER LOCATION
+                                                      sensor signal is not received).
+                                                        Under deceleration conditions, the PCM adjusts
+                                                      the Idle Air Control (IAC) motor to maintain a
+VEHICLE SPEED SENSOR                                  desired MAP value. Under idle conditions, the PCM
+                                                      adjusts the IAC motor to maintain a desired engine
+DESCRIPTION                                           speed.
+  The 3-wire Vehicle Speed Sensor (VSS) is located
+on the speedometer pinion gear adapter. If equipped
+

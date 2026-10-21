@@ -1,0 +1,61 @@
+25 - 14    EVAPORATIVE EMISSIONS                                                                              TJ
+EVAP/PURGE SOLENOID (Continued)
+
+                                                           REMOVAL
+                                                             If replacement of the 1/4 turn fuel tank filler tube
+                                                           cap is necessary, it must be replaced with an identi-
+                                                           cal cap to be sure of correct system operation.
+
+                                                           CAUTION: Remove the fuel tank filler tube cap to
+                                                           relieve fuel tank pressure. The cap must be
+                                                           removed prior to disconnecting any fuel system
+                                                           component or before draining the fuel tank.
+
+
+
+                                                           ORVR
+                                                           DESCRIPTION
+                                                             The ORVR (On-Board Refueling Vapor Recovery)
+                                                           system consists of a unique fuel tank, flow manage-
+                                                           ment valve (5) (Fig. 9) , fluid control valve, one-way
+                                                           check valve and EVAP (vapor) canister (1) (Fig. 9).
+
+
+
+           Fig. 8 EVAP/PURGE SOLENOID
+1 - EVAP SYSTEM TEST PORT
+2 - EVAP/PURGE SOLENOID
+3 - FRONT OF BRAKE MASTER CYLINDER
+4 - SOLENOID MOUNTING BRACKET
+
+
+INSTALLATION
+ (1) Install purge solenoid and rubber support to its
+mounting bracket.
+ (2) Connect vacuum harness and wiring connector.
+
+
+FUEL FILLER CAP
+DESCRIPTION
+  The plastic fuel tank filler tube cap is threaded
+onto the end of the fuel fill tube. Certain models are
+equipped with a 1/4 turn cap.
+
+OPERATION
+   The loss of any fuel or vapor out of fuel filler tube                 Fig. 9 ORVR VAPOR LINE
+is prevented by the use of a pressure-vacuum fuel fill     1 - EVAP CANISTER
+                                                           2 - NVLD FILTER
+cap. Relief valves inside the cap will release fuel tank   3 - NVLD PUMP
+pressure at predetermined pressures. Fuel tank vac-        4 - VAPOR LINES
+uum will also be released at predetermined values.         5 - FLOW VALVE
+                                                           6 - TOP OF FUEL TANK)
+This cap must be replaced by a similar unit if
+replacement is necessary. This is in order for the sys-      A vapor line (4) and vent line (9) (Fig. 10) are also
+tem to remain effective.                                   used to connect the fuel tank into the ORVR system.
+CAUTION: Remove fill cap before servicing any fuel
+system component to relieve tank pressure. If
+equipped with a California emissions package and a
+Leak Detection Pump (LDP), the cap must be tight-
+ened securely. If cap is left loose, a Diagnostic
+Trouble Code (DTC) may be set.
+

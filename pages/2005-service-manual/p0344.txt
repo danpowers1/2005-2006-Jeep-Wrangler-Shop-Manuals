@@ -1,0 +1,62 @@
+8E - 10   ELECTRONIC CONTROL MODULES                                                             TJ
+POWERTRAIN CONTROL MODULE (Continued)
+
+INSTALLATION                                   (1) Install PCM and three mounting screws to
+  USE THE DRB SCAN TOOL TO REPROGRAM        vehicle.
+THE NEW POWERTRAIN CONTROL MODULE              (2) Tighten screws to 4 N·m (35 in. lbs.).
+(PCM) WITH THE VEHICLES ORIGINAL IDEN-         (3) Check pin connectors in PCM and four electri-
+TIFICATION NUMBER (VIN) AND THE VEHI-       cal connectors for corrosion or damage. Also check
+CLES ORIGINAL MILEAGE. IF THIS STEP IS      pin heights in connectors. Pin heights should all be
+NOT DONE, A DIAGNOSTIC TROUBLE CODE         the same. Repair as necessary before installing elec-
+(DTC) MAY BE SET.                           trical connectors.
+                                               (4) Install four electrical connectors (3) (Fig. 7) or
+                                            (Fig. 8) to PCM.
+                                               (5) Install plastic shield to electrical connectors.
+                                            Shields snap to connectors.
+                                               (6) Install battery cable.
+                                               (7) Use a scan tool to reprogram new PCM with
+                                            vehicles original Vehicle Identification Number (VIN)
+                                            and original vehicle mileage.
+
+
+                                            SENTRY KEY IMMOBILIZER
+                                            MODULE
+                                            DESCRIPTION
+                                              The Sentry Key Immobilizer Module (SKIM) is the
+                                            primary component of the Sentry Key Immobilizer
+                                            System (SKIS) (Fig. 9). The SKIM is located in the
+                                            steering column, below the ignition lock cylinder
+                                            housing. The SKIM has an integral halo-like antenna
+   Fig. 7 PCM MOUNTING - LEFT HAND DRIVE    ring that extends from one end. When the SKIM is
+                                            properly installed on the steering column, the
+1 - MOUNTING SCREWS (3)
+2 - PCM                                     antenna ring is oriented around the circumference of
+3 - PCM ELECTRICAL CONNECTORS               the ignition lock cylinder housing.
+                                              The SKIM cannot be adjusted or repaired. If faulty
+                                            or damaged, the entire SKIM unit must be replaced.
+
+                                            OPERATION
+                                               The Sentry Key Immobilizer Module (SKIM) con-
+                                            tains a Radio Frequency (RF) transceiver and a
+                                            microprocessor. The SKIM transmits RF signals to,
+                                            and receives RF signals from the Sentry Key tran-
+                                            sponder through a tuned antenna enclosed within the
+                                            molded plastic antenna ring integral to the SKIM
+                                            housing. If this antenna ring is not mounted properly
+                                            around the ignition lock cylinder housing, communi-
+                                            cation problems between the SKIM and the transpon-
+                                            der may arise. These communication problems will
+                                            result in Sentry Key transponder-related faults. The
+                                            SKIM also communicates over the Programmable
+                                            Communications Interface (PCI) data bus with the
+                                            Powertrain Control Module (PCM), the ElectroMe-
+                                            chanical Instrument Cluster (EMIC) and/or the
+                                            DRBIIIt scan tool.
+   Fig. 8 PCM MOUNTING - RIGHT HAND DRIVE      The SKIM retains in memory the ID numbers of
+1 - PCM                                     any Sentry Key transponder that is programmed into
+2 - MOUNTING SCREWS (3)
+3 - PCM ELECTRICAL CONNECTORS
+                                            it. A maximum of eight Sentry Key transponders can
+                                            be programmed into the SKIM. For added system
+                                            security, each SKIM is programmed with a unique
+

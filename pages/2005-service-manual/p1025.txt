@@ -1,0 +1,74 @@
+TJ                                                                               ENGINE 4.0L       9 - 105
+CRANKSHAFT MAIN BEARINGS (Continued)
+inch). The clearance would then be 0.0508 mm (0.002         MAIN BEARING FITTING CHART
+inch) and within the specification. A 0.051 mm (0.002
+inch) undersize bearing insert and a 0.0254 mm                                       Corresponding
+(0.001 inch) undersize insert would reduce the origi-   Crankshaft Journals
+                                                                                   Crankshaft Bearing
+nal clearance an additional 0.0127 mm (0.0005 inch).           #1-6
+                                                                                         Insert
+The clearance would then be 0.0381 mm (0.0015
+inch).                                                  Color                      Upper         Lower
+                                                                   Diameter
+                                                        Code                     Insert Size   Insert Size
+CAUTION: Never use a pair of inserts that differ                    63.5025
+more than one bearing size as a pair.                              -63.4898
+                                                                      mm          Yellow -      Yellow -
+                                                        Yellow
+  FOR EXAMPLE: DO NOT use a standard size                                         Standard      Standard
+                                                                    (2.5001 -
+upper insert and a 0.051 mm (0.002 inch) undersize
+                                                                   2.4996 in.)
+lower insert.
+  If the clearance exceeds specification using a pair              63.4898 -
+of 0.051 mm (0.002 inch) undersize bearing inserts,                 63.4771
+measure crankshaft journal diameter with a                            mm
+micrometer. If the journal diameter is correct, the                 (2.4996 -                    Blue -
+crankshaft bore in the cylinder block may be mis-                  2.4991 in.)    Yellow -     Undersize
+                                                        Orange
+aligned, which requires cylinder block replacement or                             Standard     0.025 mm
+                                                                  0.0127 mm                    (0.001 in.)
+machining to true bore.
+                                                                    (0.0005
+  Replace the crankshaft or grind to accept the
+                                                                      in.)
+appropriate undersize bearing inserts if:
+  • Journal diameters 1 through 6 are less than                    Undersize
+63.4517 mm (2.4981 inches)                                         63.4771 -
+  • Journal 7 diameter is less than 63.4365 mm                      63.4644
+(2.4975 inches).                                                      mm
+  Once the proper clearances have been obtained,                                   Blue -        Blue -
+                                                                    (2.4991 -    Undersize     Undersize
+proceed to (Refer to 9 - ENGINE/ENGINE BLOCK/            Blue      2.4986 in.)   0.025 mm      0.025 mm
+CRANKSHAFT MAIN BEARINGS - INSTALLA-
+TION).                                                            0.0254 mm      (0.001 in.)   (0.001 in.)
+                                                                  (0.001 in.)
+JOURNAL DIAMETER (CRANKSHAFT REMOVED)                              Undersize
+  Remove the crankshaft from the cylinder block.
+                                                                   63.4644 -
+  Clean the oil off the main bearing journal.
+                                                                    63.4517
+  Determine the maximum diameter of the journal
+                                                                      mm
+with a micrometer. Measure at two locations 90°
+                                                                    (2.4986 -      Blue -       Green -
+apart at each end of the journal.
+                                                                   2.4981 in.)   Undersize     Undersize
+  The maximum allowable taper and out of round is       Green
+                                                                                 0.025 mm      0.051 mm
+0.013 mm (0.0005 inch). Compare the measured                      0.0381 mm      (0.001 in.)   (0.002 in.)
+diameter with the journal diameter specification                    (0.0015
+MAIN BEARING FITTING CHART. Select inserts                            in.)
+required to obtain the specified bearing-to-journal
+                                                                   Undersize
+clearance.
+  Install the crankshaft into the cylinder block.                  63.2485 -
+                                                                    63.2358
+                                                                      mm
+                                                                                   Red -         Red -
+                                                                    (2.4901 -    Undersize     Undersize
+                                                         Red       2.4896 in.)   0.254 mm      0.254 mm
+                                                                   0.254 mm      (0.010 in.)   (0.010 in.)
+                                                                   (0.010 in.)
+                                                                   Undersize
+

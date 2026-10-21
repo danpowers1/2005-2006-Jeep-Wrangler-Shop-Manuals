@@ -1,0 +1,60 @@
+TJ                                                                                        ENGINE 4.0L       9 - 77
+ENGINE 4.0L (Continued)
+                 CYLINDER COMBUSTION PRESSURE LEAKAGE DIAGNOSIS CHART
+
+             CONDITION                          POSSIBLE CAUSE                          CORRECTION
+AIR ESCAPES THROUGH                     Intake valve bent, burnt, or not      Inspect valve and valve seat.
+THROTTLE BODY                           seated properly                       Reface or replace, as necessary
+AIR ESCAPES THROUGH                     Exhaust valve bent, burnt, or not     Inspect valve and valve seat.
+TAILPIPE                                seated properly                       Reface or replace, as necessary
+AIR ESCAPES THROUGH                     Head gasket leaking or cracked        Remove cylinder head and inspect.
+RADIATOR                                cylinder head or block                Replace defective part
+MORE THAN 50% LEAKAGE                   Head gasket leaking or crack in       Remove cylinder head and inspect.
+FROM ADJACENT CYLINDERS                 cylinder head or block between        Replace gasket, head, or block as
+                                        adjacent cylinders                    necessary
+MORE THAN 25% LEAKAGE AND               Stuck or broken piston rings;         Inspect for broken rings or piston.
+AIR ESCAPES THROUGH OIL                 cracked piston; worn rings and/or     Measure ring gap and cylinder
+FILLER CAP OPENING ONLY                 cylinder wall                         diameter, taper and out-of-round.
+                                                                              Replace defective part as necessary
+
+
+STANDARD PROCEDURE                                          SURFACE PREPARATION
+                                                              Parts assembled with form-in-place gaskets may be
+STANDARD PROCEDURE - FORM-IN-PLACE                          disassembled without unusual effort. In some
+GASKETS                                                     instances, it may be necessary to lightly tap the part
+  There are several places where form-in-place gas-         with a mallet or other suitable tool to break the seal
+kets are used on the engine. DO NOT use form-in-            between the mating surfaces. A flat gasket scraper
+place gasket material unless specified.Care must            may also be lightly tapped into the joint but care
+be taken when applying form-in-place gaskets. Bead          must be taken not to damage the mating surfaces.
+size, continuity and location are of great importance.        Scrape or wire brush all gasket surfaces to remove
+Too thin a bead can result in leakage while too much        all loose material. Inspect stamped parts to ensure
+can result in spill-over. A continuous bead of the          gasket rails are flat. Flatten rails with a hammer on
+proper width is essential to obtain a leak-free joint.      a flat plate, if required. Gasket surfaces must be free
+  Two types of form-in-place gasket materials are           of oil and dirt. Make sure the old gasket material is
+used in the engine area (Mopart Silicone Rubber             removed from blind attaching holes.
+Adhesive Sealant and Mopart Gasket Maker). Each
+have different properties and cannot be used inter-
+                                                            GASKET APPLICATION
+                                                               Assembling parts using a form-in-place gasket
+changeably.
+                                                            requires care.
+MOPART SILICONE RUBBER ADHESIVE SEALANT                        Mopart Silicone Rubber Adhesive Sealant should
+   Mopart Silicone Rubber Adhesive Sealant, nor-            be applied in a continuous bead approximately 3 mm
+mally black in color, is available in 3 ounce tubes.        (0.12 inch) in diameter. All mounting holes must be
+Moisture in the air causes the sealant material to          circled. For corner sealing, a 3 or 6 mm (1/8 or 1/4
+cure. This material is normally used on flexible metal      inch) drop is placed in the center of the gasket con-
+flanges. It has a shelf life of a year and will not prop-   tact area. Uncured sealant may be removed with a
+erly cure if over aged. Always inspect the package for      shop towel. Components should be torqued in place
+the expiration date before use.                             while the sealant is still wet to the touch (within 10
+                                                            minutes). The use of a locating dowel is recom-
+MOPART GASKET MAKER                                         mended during assembly to prevent smearing the
+  Mopart Gasket Maker, normally red in color, is            material off location.
+available in 6 cc tubes. This anaerobic type gasket            Mopart Gasket Maker should be applied sparingly
+material cures in the absence of air when squeezed          to one gasket surface. The sealant diameter should
+between smooth machined metallic surfaces. It will          be 1.00 mm (0.04 inch) or less. Be certain the mate-
+not cure if left in the uncovered tube. DO NOT use          rial surrounds each mounting hole. Excess material
+on flexible metal flanges.                                  can easily be wiped off. Components should be
+                                                            torqued in place within 15 minutes. The use of a
+                                                            locating dowel is recommended during assembly to
+                                                            prevent smearing the material off location.
+

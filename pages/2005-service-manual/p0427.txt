@@ -1,0 +1,52 @@
+TJ                                                                                              INSTRUMENT CLUSTER                   8J - 1
+
+
+                                           INSTRUMENT CLUSTER
+                                                    TABLE OF CONTENTS
+
+                                                               page                                                                   page
+
+INSTRUMENT CLUSTER                                                         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . . 2        DIAGNOSIS AND TESTING - HIGH BEAM
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4        INDICATOR . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+  DIAGNOSIS AND TESTING - INSTRUMENT                                     LOW FUEL INDICATOR
+    CLUSTER . . . . . . . . . . . . . . . . . . . . . . . . . . . 10       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16     OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+  DISASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . 17       MALFUNCTION INDICATOR LAMP (MIL)
+  ASSEMBLY . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18      DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 32
+  INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 19        OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+ABS INDICATOR                                                            ODOMETER
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 20         DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 20       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+  DIAGNOSIS AND TESTING - ABS INDICATOR . 20                             OIL PRESSURE GAUGE
+AIRBAG INDICATOR                                                           DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 21         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 21     REAR LOCK INDICATOR
+BRAKE/PARK BRAKE INDICATOR                                                 DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 22         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 22     SEATBELT INDICATOR
+  DIAGNOSIS AND TESTING - BRAKE                                            DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 36
+    INDICATOR . . . . . . . . . . . . . . . . . . . . . . . . . . 23       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+CHECK GAUGES INDICATOR                                                   SHIFT INDICATOR (TRANSFER CASE)
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 24         DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 37
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 24       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+CRUISE INDICATOR                                                           DIAGNOSIS AND TESTING - 4WD INDICATOR . 38
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 25       SKIS INDICATOR
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 25       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 39
+ENGINE TEMPERATURE GAUGE                                                   OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 25       SPEEDOMETER
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 26       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 40
+FOG LAMP INDICATOR                                                         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 26       TACHOMETER
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 27       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 41
+  DIAGNOSIS AND TESTING - FRONT/REAR                                       OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+    FOG LAMP INDICATOR . . . . . . . . . . . . . . . . . 27              TURN SIGNAL INDICATOR
+FRONT LOCK INDICATOR                                                       DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 41
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 27         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 28     VOLTAGE GAUGE
+FUEL GAUGE                                                                 DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 42
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 29         OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+  OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+HIGH BEAM INDICATOR
+  DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 30
+

@@ -1,0 +1,49 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                            8W - 80 - 3
+
+
+                                         A/C COMPRESSOR CLUTCH - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C3 18DB/YL (2.4L)                     A/C CLUTCH RELAY OUTPUT
+               1    C3 20DB/YL (4.0L)                     A/C CLUTCH RELAY OUTPUT
+               2    Z939 18BK (2.4L)                      GROUND
+               2    Z987 20BK (4.0L)                      GROUND
+
+
+
+
+                                   A/C HIGH PRESSURE SWITCH (4.0L) - BLACK 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C221 20LB/OR                          A/C SELECT SIGNAL
+               2    C22 20LB/WT                           A/C SWITCH SIGNAL
+
+
+
+
+                                        A/C LOW PRESSURE SWITCH - GREEN 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C20 20DB/YL (2.4L)                    A/C REQUEST SIGNAL
+               1    C20 18DB/YL (4.0L)                    A/C REQUEST SIGNAL
+               2    C221 20LB/OR (2.4L)                   A/C SELECT SIGNAL
+               2    C22 20LB/WT (4.0L)                    A/C SELECT SIGNAL
+
+
+
+
+                                         A/C PRESSURE TRANSDUCER (2.4L) - 4 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    K900 20DB/DG                          SENSOR GROUND
+               2    F856 20YL/PK                          5 VOLT SUPPLY
+               3    C18 20LB/BR                           A/C PRESSURE SIGNAL
+               4    -                                     -
+
+
+
+
+                               A/C-HEATER CONTROL C1 (EXCEPT HEATER ONLY) - 5 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+              A     C75 12DB/GY                           BLOWER MOTOR HIGH SPEED
+              B     C73 14DB/VT                           BLOWER MOTOR M2 SPEED
+              C     C72 16DB/OR                           BLOWER MOTOR M1 SPEED
+              D     C71 18DB/BR                           BLOWER MOTOR LOW SPEED
+               E    C805 12DB/WT                          BLOWER MOTOR FEED
+

@@ -1,0 +1,62 @@
+8J - 24    INSTRUMENT CLUSTER                                                                                 TJ
+
+
+CHECK GAUGES INDICATOR                                     124° C (255° F) or lower, or until the ignition switch
+                                                           is turned to the Off position, whichever occurs first.
+                                                              • Engine Oil Pressure Low Message - Each
+DESCRIPTION
+                                                           time the cluster receives a message from the PCM
+                                                           indicating the engine oil pressure of a 2.4L engine is
+                                                           below about 0.2 kg/cm2 (3 psi), or of any engine other
+           Fig. 10 Check Gauges Indicator                  than a 2.4L is below about 0.4 kg/cm2 (6 psi), the
+                                                           check gauges indicator will be illuminated. The indi-
+  A check gauges indicator is standard equipment on        cator remains illuminated until the cluster receives a
+all instrument clusters (Fig. 10). The check gauges        message from the PCM indicating that the engine oil
+indicator is located on the lower edge of the instru-      pressure of a 2.4L engine is above about 0.2 kg/cm2
+ment cluster, to the right of center. The check gauges     (3 psi), or of any engine other than a 2.4L is above
+indicator consists of a stencil-like cutout of the words   about 0.4 kg/cm2 (6 psi), or until the ignition switch
+“CHECK GAUGES” in the opaque layer of the                  is turned to the Off position, whichever occurs first.
+instrument cluster overlay. The dark outer layer of        The cluster will only turn the indicator on in
+the overlay prevents the indicator from being clearly      response to an engine oil pressure low message if the
+visible when it is not illuminated. A red Light Emit-      engine speed is 300 rpm or greater for more than
+ting Diode (LED) behind the cutout in the opaque           about five seconds.
+layer of the overlay causes the “CHECK GAUGES”                • System Voltage Low (Charge Fail) Message
+text to appear in red through the translucent outer        - Each time the cluster receives a message from the
+layer of the overlay when the indicator is illuminated     PCM indicating the electrical system voltage is about
+from behind by the LED, which is soldered onto the         9.0 volts or lower (charge fail condition), the check
+instrument cluster electronic circuit board. The check     gauges indicator will be illuminated. The indicator
+gauges indicator is serviced as a unit with the instru-    remains illuminated until the cluster receives a mes-
+ment cluster.                                              sage from the PCM indicating the electrical system
+                                                           voltage is greater than about 12.0 volts (but less than
+OPERATION                                                  16.0 volts), or until the ignition switch is turned to
+   The check gauges indicator gives an indication to       the Off position, whichever occurs first.
+the vehicle operator when certain instrument cluster          • System Voltage High Message - Each time
+gauge readings reflect a condition requiring immedi-       the cluster receives a message from the PCM indicat-
+ate attention. This indicator is controlled by a tran-     ing the electrical system voltage is greater than
+sistor on the instrument cluster circuit board based       about 16.0 volts, the check gauges indicator will be
+upon cluster programming and electronic messages           illuminated. The indicator remains illuminated until
+received by the cluster from the Powertrain Control        the cluster receives a message from the PCM indicat-
+Module (PCM) over the Programmable Communica-              ing the electrical system voltage is less than about
+tions Interface (PCI) data bus. The check gauges           16.0 volts (but higher than 9.0 volts), or until the
+indicator Light Emitting Diode (LED) is completely         ignition switch is turned to the Off position, which-
+controlled by the instrument cluster logic circuit, and    ever occurs first.
+that logic will only allow this indicator to operate          • Actuator Test - Each time the cluster is put
+when the instrument cluster receives a battery cur-        through the actuator test, the check gauges indicator
+rent input on the fused ignition switch output (run-       will be turned on, then off again during the bulb
+start) circuit. Therefore, the LED will always be off      check portion of the test in order to confirm the func-
+when the ignition switch is in any position except On      tionality of the LED and the cluster control circuitry.
+or Start. The LED only illuminates when it is pro-            The PCM continually monitors the engine temper-
+vided a path to ground by the instrument cluster           ature, oil pressure, and electrical system voltage,
+transistor. The instrument cluster will turn on the        then sends the proper messages to the instrument
+check gauges indicator for the following reasons:          cluster. For further diagnosis of the check gauges
+   • Bulb Test - Each time the ignition switch is          indicator or the instrument cluster circuitry that con-
+turned to the On position the check gauges indicator       trols the LED, (Refer to 8 - ELECTRICAL/INSTRU-
+is illuminated for about two seconds as a bulb test.       MENT CLUSTER - DIAGNOSIS AND TESTING).
+   • Engine Temperature High Message - Each                For proper diagnosis of the PCM, the PCI data bus,
+time the cluster receives a message from the PCM           or the electronic message inputs to the instrument
+indicating the engine coolant temperature is about         cluster that control the check gauges indicator, a
+127° C (261° F) or higher, the check gauges indicator      DRBIIIt scan tool is required. Refer to the appropri-
+will be illuminated. The indicator remains illumi-         ate diagnostic information.
+nated until the cluster receives a message from the
+PCM indicating that the engine temperature is about
+

@@ -1,0 +1,52 @@
+8L - 22    LAMPS/LIGHTING - EXTERIOR                                                                       TJ
+HEADLAMP LEVELING MOTOR (Continued)
+
+          CONDITION                    POSSIBLE CAUSES                          CORRECTION
+
+   ONE MOTOR DOES NOT        1. Poor electrical connection at          1. Check for proper electrical
+        OPERATE              motor.                                    harness connection and circuit
+                                                                       terminal tension at the motor.
+                             2. Open or high resistance in the         2. Repair the open or high
+                             battery positive voltage circuit to the   resistance in the leveling motor
+                             inoperative leveling motor.               battery positive voltage circuit.
+                             3. Open, high resistance in the           3. Repair the open, high
+                             inoperative leveling motor ground         resistance in the leveling motor
+                             circuit.                                  ground circuit.
+                             4. Open, high resistance, short to        4. Repair the open, high
+                             voltage or short to ground in the         resistance, short to voltage or
+                             inoperative leveling motor sense          short to ground in the motor
+                             circuit.                                  sense circuit.
+                             5. Inoperative/Damaged motor.             5. Replace leveling motor.
+
+   BOTH MOTORS DO NOT        1. No battery positive voltage to the     1. Repair the open circuit or
+        OPERATE              headlamp leveling switch.                 high resistance in the headlamp
+                                                                       leveling switch battery positive
+                                                                       voltage circuit.
+                             2. No battery positive voltage to the     2. Repair the open circuit or
+                             headlamp leveling motor.                  high resistance in the headlamp
+                                                                       leveling motor battery positive
+                                                                       voltage circuit.
+                             3. Open, high resistance in the           3. Repair the open, high
+                             headlamp leveling switch ground           resistance or short to voltage in
+                             circuit.                                  the headlamp leveling switch
+                                                                       ground circuit.
+                             4. Open, high resistance in the           4. Repair the open, high
+                             headlamp leveling motor ground            resistance or short to voltage in
+                             circuit.                                  the headlamp leveling motor
+                                                                       ground circuit.
+                             5. Open, high resistance, short to        5. Repair the open, high
+                             voltage or short to ground in the         resistance, short to voltage or
+                             leveling motor sense circuit.             short to ground in the motor
+                                                                       sense circuit.
+                             6. Inoperative headlamp leveling          6. Replace headlamp leveling
+                             switch.                                   switch.
+                             7. Inoperative headlamp leveling          7. Replace headlamp motors.
+                             motors.
+
+      MOTORS DO NOT          1. Inoperative headlamp leveling          1. Replace headlamp leveling
+    RESPOND TO ONE OR        switch.                                   switch.
+      MORE LEVELING
+        POSITION(S)
+                             2. Stuck/Binding or Inoperative           2. Replace headlamp leveling
+                             motor(s).                                 motor(s).
+

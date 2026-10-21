@@ -1,0 +1,38 @@
+8W - 80 - 38   8W-80 CONNECTOR PIN-OUTS                                               TJ
+
+
+                                           OUTPUT SPEED SENSOR (A/T) - 2 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    T14 18DG/BR                        OUTPUT SPEED SENSOR SIGNAL
+                 2    T13 18DG/VT                        SPEED SENSOR GROUND
+
+
+
+
+                                       OXYGEN SENSOR 1/1 UPSTREAM (2.4L) - 4 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    K99 18BR/LG                        O2 1/1 HEATER CONTROL
+                 2    Z42 18BK/LG                        GROUND
+                 3    K902 18BR/DG                       O2 RETURN (UPSTREAM)
+                 4    K41 18DB/LB                        O2 1/1 SIGNAL
+
+
+
+
+                                       OXYGEN SENSOR 1/1 UPSTREAM (4.0L) - 4 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    K99 18BR/LG                        O2 1/1 HEATER CONTROL
+                 2    Z42 18BK/LG                        GROUND
+                 3    K902 18BR/DG                       O2 RETURN (UPSTREAM)
+                 4    K41 18DB/LB                        O2 1/1 SIGNAL
+
+
+
+
+                                     OXYGEN SENSOR 1/2 DOWNSTREAM - BLACK 4 WAY
+                CAV                  CIRCUIT                               FUNCTION
+                 1    K299 18BR/WT                       O2 1/2 HEATER CONTROL
+                 2    Z43 18BK/LB                        GROUND
+                 3    K904 18DB/DG                       O2 RETURN (DOWNSTREAM)
+                 4    K141 18DB/YL                       O2 1/2 SIGNAL
+

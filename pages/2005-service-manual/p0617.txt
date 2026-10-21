@@ -1,0 +1,33 @@
+TJ                           8W-01 WIRING DIAGRAM INFORMATION                                    8W - 01 - 11
+
+
+CONNECTOR                                                  INSTALLATION
+                                                             (1) Insert the removed terminal in the same cavity
+REMOVAL                                                    on the repair connector.
+   (1) Disconnect battery.                                   (2) Repeat steps for each terminal in the connec-
+   (2) Release Connector Lock (Fig. 10).                   tor, being sure that all wires are inserted into the
+   (3) Disconnect the connector being repaired from        proper cavities. For additional connector pin-out
+its mating half/component.                                 identification, refer to the wiring diagrams.
+   (4) Remove the dress cover (if applicable) (Fig. 10).     (3) When the connector is re-assembled, the sec-
+                                                           ondary terminal lock must be placed in the locked
+                                                           position to prevent terminal push out.
+                                                             (4) Replace dress cover (if applicable).
+                                                             (5) Connect connector to its mating half/compo-
+                                                           nent.
+                                                             (6) Connect battery and test all affected systems.
+
+
+
+
+        Fig. 10 REMOVAL OF DRESS COVER
+1 - DRESS COVER
+2 - CONNECTOR LOCK
+3 - CONNECTOR
+
+  (5) Release the Secondary Terminal Lock, if
+required (Fig. 11).
+  (6) Position the connector locking finger away from
+the terminal using the proper special tool. Pull on
+the wire to remove the terminal from the connector
+(Fig. 12).
+

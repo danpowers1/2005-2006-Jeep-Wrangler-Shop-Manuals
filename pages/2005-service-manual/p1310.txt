@@ -1,0 +1,51 @@
+21 - 166      TRANSFER CASE - NV231                                                                                       TJ
+TRANSFER CASE - NV231 (Continued)
+IDENTIFICATION
+  A circular ID tag is attached to the rear case of
+each transfer case (Fig. 1). The ID tag provides the
+transfer case model number, assembly number, serial
+number, and low range ratio.
+  The transfer case serial number also represents
+the date of build.
+
+OPERATION
+  The input gear is splined to the transmission out-
+put shaft. The input gear drives the mainshaft
+through the planetary assembly and range hub. The
+front output shaft is operated by a drive chain that
+connects the shaft to a drive sprocket on the main-
+shaft. The drive sprocket is engaged/disengaged by
+the mode fork, which operates the mode sleeve and
+hub. The sleeve and hub are not equipped with a                      Fig. 1 Fill/Drain Plug And I.D. Tag Locations -
+synchronizer mechanism for shifting.                                                      Typical
+                                                                  1 - I.D. TAG
+                                                                  2 - FILL PLUG
+                                                                  3 - DRAIN PLUG
+
+
+
+DIAGNOSIS AND TESTING - TRANSFER CASE - NV231
+                                                   DIAGNOSIS CHART
+
+              Condition                              Possible Cause                               Correction
+
+Transfer case difficult to shift or will   1) Vehicle speed to great to permit       1) Slow vehicle and shift into
+not shift into desired range.              shifting.                                 desired range.
+
+                                           2) If vehicle was operated for an         2) Stop vehicle and shift transfer
+                                           extended period in 4H mode on dry         case to Neutral position. Transfer
+                                           surface, driveline torque load may        case can then be shifted to the
+                                           cause difficulty.                         desired mode.
+                                           3) Transfer case shift linkage            3) Repair or replace linkage as
+                                           binding.                                  necessary.
+                                           4) Insufficient or incorrect lubricant.   4) Drain and refill transfer case with
+                                                                                     the correct type and quantity of
+                                                                                     lubricant.
+                                           5) Internal transfer case                 5) Repair or replace components as
+                                           components binding, worn, or              necessary.
+                                           damaged.
+
+Transfer case noisy in all drive           1) Insufficient or incorrect lubricant.   1) Drain and refill transfer case with
+modes.                                                                               the correct type and quantity of
+                                                                                     lubricant.
+

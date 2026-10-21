@@ -1,0 +1,64 @@
+TJ                                                                              IGNITION CONTROL          8I - 19
+
+
+SPARK PLUG CABLE                                           damaged or faulty cables should be replaced with
+                                                           resistance type cable. This can be identified by the
+                                                           words ELECTRONIC SUPPRESSION printed on the
+DESCRIPTION
+                                                           cable jacket.
+  Spark plug cables are used only on the 2.4L 4–cyl-
+                                                             Use an ohmmeter to test for open circuits, exces-
+inder engine. They are sometimes referred to as sec-
+                                                           sive resistance or loose terminals. Remove the cable
+ondary ignition wires.
+                                                           at ignition coil, and from spark plug. Connect ohm-
+                                                           meter to each end of cable. Resistance should be 250
+OPERATION                                                  to 1000 Ohms per inch of cable. If resistance is not
+  2.4L 4–cylinder engine only: The spark plug cables       within specifications as found in the SPARK PLUG
+transfer electrical current from the ignition coil(s)      CABLE RESISTANCE chart, replace the cable. Test
+and/or distributor, to individual spark plugs at each      all spark plug cables in this manner.
+cylinder. The resistive spark plug cables are of non-
+metallic construction. The cables provide suppression            SPARK PLUG CABLE RESISTANCE
+of radio frequency emissions from the ignition sys-
+tem.                                                               MINIMUM                      MAXIMUM
+                                                              250 Ohms Per Inch            1000 Ohms Per Inch
+DIAGNOSIS AND TESTING                                         3000 Ohms Per Foot           12,000 Ohms Per Foot
+TESTING
+                                                           REMOVAL - 2.4L
+  Check the spark plug cable connections for good
+contact at the coil(s) and spark plugs. Terminals          CAUTION: When disconnecting a high voltage cable
+should be fully seated. The insulators should be in        from a spark plug or from the distributor cap, twist
+good condition and should fit tightly on the coil and      the rubber boot slightly (1/2 turn) to break it loose
+spark plugs. Spark plug cables with insulators that        (Fig. 37).
+are cracked or torn must be replaced.
+  Clean high voltage ignition cables with a cloth            (1) Grasp the boot (not the cable) and pull it off
+moistened with a non-flammable solvent. Wipe the           with a steady, even force.
+cables dry. Check for brittle or cracked insulation.
+  When testing secondary cables for damage with an
+oscilloscope, follow the instructions of the equipment
+manufacturer.
+  If an oscilloscope is not available, spark plug cables
+may be tested as follows:
+
+CAUTION: Do not leave any one spark plug cable
+disconnected for longer than necessary during test-
+ing. This may cause possible heat damage to the
+catalytic converter. Total test time must not exceed
+ten minutes.
+
+  With the engine running, remove spark plug cable
+from spark plug (one at a time) and hold next to a
+good engine ground. If the cable and spark plug are
+in good condition, the engine rpm should drop and
+the engine will run poorly. If engine rpm does not                      Fig. 37 CABLE REMOVAL
+drop, the cable and/or spark plug may not be operat-       1 - SPARK PLUG CABLE AND BOOT
+ing properly and should be replaced. Also check            2 - SPARK PLUG BOOT PULLER
+                                                           3 - TWIST AND PULL
+engine cylinder compression.                               4 - SPARK PLUG
+  With the engine not running, connect one end of a
+test probe to a good ground. Start the engine and run      INSTALLATION
+the other end of the test probe along the entire             (1) Push the cable firmly onto the sparkplug.
+length of all spark plug cables. If cables are cracked
+or punctured, there will be a noticeable spark jump
+from the damaged area to the test probe. Cracked,
+

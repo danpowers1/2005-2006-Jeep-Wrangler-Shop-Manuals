@@ -1,0 +1,53 @@
+TJ                                                                                            INTRODUCTION            7
+
+
+FASTENER USAGE                                               DESCRIPTION - THREADED HOLE REPAIR
+                                                               Most stripped threaded holes can be repaired using
+                                                             a Helicoilt. Follow the vehicle or Helicoilt recommen-
+DESCRIPTION                                                  dations for application and repair procedures.
+
+DESCRIPTION - FASTENER USAGE
+                                                             METRIC SYSTEM
+WARNING: USE OF AN INCORRECT FASTENER
+MAY RESULT IN COMPONENT DAMAGE OR PER-                       DESCRIPTION
+SONAL INJURY.                                                  The metric system is based on quantities of one,
+                                                             ten, one hundred, one thousand and one million.
+  Fasteners and torque specifications references in            The following chart will assist in converting metric
+this Service Manual are identified in metric and SAE         units to equivalent English and SAE units, or vise
+format.                                                      versa.
+  During any maintenance or repair procedures, it is
+important to salvage all fasteners (nuts, bolts, etc.)
+for reassembly. If the fastener is not salvageable, a
+fastener of equivalent specification must be used.
+
+                          CONVERSION FORMULAS AND EQUIVALENT VALUES
+
+          MULTIPLY           BY              TO GET              MULTIPLY          BY                  TO GET
+ in-lbs                   x 0.11298    = Newton Meters           N·m           x 8.851        = in-lbs
+                                       (N·m)
+ ft-lbs                   x 1.3558     = Newton Meters           N·m           x 0.7376       = ft-lbs
+                                       (N·m)
+ Inches Hg (60° F)        x 3.377      = Kilopascals (kPa)       kPa           x 0.2961       = Inches Hg
+ psi                      x 6.895      = Kilopascals (kPa)       kPa           x 0.145        = psi
+ Inches                   x 25.4       = Millimeters (mm)        mm            x 0.03937      = Inches
+ Feet                     x 0.3048     = Meters (M)              M             x 3.281        = Feet
+ Yards                    x 0.9144     = Meters                  M             x 1.0936       = Yards
+ mph                      x 1.6093     = Kilometers/Hr.          Km/h          x 0.6214       = mph
+                                       (Km/h)
+ Feet/Sec                 x 0.3048     = Meters/Sec (M/S)        M/S           x 3.281        = Feet/Sec
+ mph                      x 0.4470     = Meters/Sec (M/S)        M/S           x 2.237        = mph
+ Kilometers/Hr. (Km/h)    x 0.27778    = Meters/Sec (M/S)        M/S           x 3.600        Kilometers/Hr. (Km/h)
+
+                                      COMMON METRIC EQUIVALENTS
+
+1 inch = 25 Millimeters                                     1 Cubic Inch = 16 Cubic Centimeters
+1 Foot = 0.3 Meter                                          1 Cubic Foot = 0.03 Cubic Meter
+1 Yard = 0.9 Meter                                          1 Cubic Yard = 0.8 Cubic Meter
+1 Mile = 1.6 Kilometers
+
+
+  Refer to the Metric Conversion Chart to convert
+torque values listed in metric Newton- meters (N·m).
+Also, use the chart to convert between millimeters
+(mm) and inches (in.) (Fig. 7).
+

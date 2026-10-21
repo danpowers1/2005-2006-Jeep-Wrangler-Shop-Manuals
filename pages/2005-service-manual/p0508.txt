@@ -1,0 +1,52 @@
+8N - 2    POWER SYSTEMS                                                                                     TJ
+AUTOMATIC DAY / NIGHT MIRROR (Continued)
+
+DIAGNOSIS AND TESTING - AUTOMATIC                         NOTE: The ambient photocell sensor must be cov-
+                                                          ered completely, so that no light reaches the sen-
+DAY/NIGHT MIRROR
+                                                          sor. Use a finger pressed tightly against the sensor,
+   For complete circuit diagrams, refer to the appro-
+                                                          or cover the sensor completely with electrical tape.
+priate wiring information.
+   (1) Check for a blown fuse. If OK, go to Step 2. If       (7) Shine a light into the rearward facing head-
+not OK, repair the shorted circuit or component as        lamp photocell sensor. The mirror glass should
+required and replace the faulty fuse.                     darken. If OK, go to Step 8. If not OK, replace the
+   (2) Turn the ignition switch to the On position.       faulty automatic day/night mirror unit.
+Check for battery voltage at the fuse. If OK, go to          (8) With the mirror glass darkened, place the
+Step 3. If not OK, repair the open circuit to the igni-   transmission gear selector lever in the Reverse posi-
+tion switch as required.                                  tion. The mirror should return to its normal reflec-
+   (3) Turn the ignition switch to the Off position.      tance. If not OK, replace the faulty automatic day/
+Disconnect and isolate the battery negative cable.        night mirror unit.
+Unplug the wire harness connector from the auto-
+matic day/night mirror. Connect the battery negative
+cable. Turn the ignition switch to the On position.       STANDARD PROCEDURE
+Check for battery voltage at the fused ignition switch
+output (run/start) circuit cavity of the automatic day/   STANDARD PROCEDURE - COMPASS
+night mirror wire harness connector. If OK, go to         CALIBRATION
+Step 4. If not OK, repair the open circuit as required.
+   (4) Turn the ignition switch to the Off position.      AUTOMATIC CALIBRATION
+Disconnect and isolate the battery negative cable.           The compass is self calibrating which eliminates
+Check for continuity between the ground circuit cav-      the need to manually set the compass. When the
+ity of the automatic day/night mirror wire harness        vehicle is new, the compass may appear erratic and
+connector and a good ground. There should be conti-       CAL will be displayed. After completing one 360°
+nuity. If OK, go to Step 5. If not OK, repair the cir-    turn with the vehicle traveling less than 8 km/h (5
+cuit to ground as required.                               mph) in an area free from large metal or metallic
+   (5) Connect the battery negative cable. Turn the       objects, CAL will turn off and the compass will func-
+ignition switch to the On position. Set the parking       tion normally.
+brake. Place the transmission gear selector lever in
+the Reverse position. Check for battery voltage at the    MANUAL CALIBRATION
+backup lamp switch output circuit cavity of the auto-        If the compass appears erratic and CAL does not
+matic day/night mirror wire harness connector. If         appear, you must manually put the compass into the
+OK, go to Step 6. If not OK, repair the open circuit      calibration mode. To ensure proper compass calibra-
+as required.                                              tion, make sure the compass variance is properly set
+   (6) Turn the ignition switch to the Off position.      before manually calibrating the compass.
+Disconnect the battery negative cable. Plug in the           To put the compass into calibration mode: Turn the
+automatic day/night mirror wire harness connector.        ignition to the ON position. Press and hold the center
+Connect the battery negative cable. Turn the ignition     button for 6 seconds to change the display between
+switch to the On position. Place the transmission         VAR (compass variance) and CAL (compass calibra-
+gear selector lever in the Neutral position. Place the    tion) modes. To recalibrate the compass, CAL should
+mirror switch in the On (the LED in the mirror            display for a complete 1 1/2 360° turns in a area free
+switch is lighted) position. Cover the forward facing     from large metal objects or power lines. When the
+ambient photocell sensor to keep out any ambient          compass has been calibrated, the CAL symbol will
+light.                                                    turn off and the compass will function normally.
+

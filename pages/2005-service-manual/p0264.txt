@@ -1,0 +1,44 @@
+6-2      CLUTCH                                                                                                TJ
+CLUTCH (Continued)
+  Release problems can result in hard shifting and        mm (0.003 in.). Measure runout at the outer edge of
+noise. Look for leaks at the clutch cylinders and         the flywheel face with a dial indicator. Mount the
+interconnecting line and loose slave cylinder bolts.      indicator on a stud installed in place of one of the fly-
+Also worn/loose release fork, pivot stud, clutch disc,    wheel bolts.
+pressure plate or release bearing.                           Common causes of runout are:
+  Engagement problems can result in slip, chatter/           • heat warpage
+shudder and noisy operation. The causes may be               • improper machining
+clutch disc contamination, wear, distortion or fly-          • incorrect bolt tightening
+wheel damage. Visually inspect to determine the              • improper seating on crankshaft flange shoulder
+actual cause of the problem.                                 • foreign material on crankshaft flange
+                                                             Flywheel machining is not recommended. The fly-
+CLUTCH MISALIGNMENT                                       wheel clutch surface is machined to a unique contour
+  Clutch components must be in proper alignment           and machining will negate this feature. Minor fly-
+with the crankshaft and transmission input shaft.         wheel scoring can be cleaned up by hand with 180
+Misalignment caused by excessive runout or warpage        grit emery or with surface grinding equipment.
+of any clutch component will cause grab, chatter and      Remove only enough material to reduce scoring
+improper clutch release.                                  (approximately 0.001 - 0.003 in.). Heavy stock
+                                                          removal is not recommended. Replace the flywheel
+PRESSURE PLATE AND DISC RUNOUT                            if scoring is severe and deeper than 0.076 mm (0.003
+   Check the clutch disc before installation. Axial       in.). Excessive stock removal can result in flywheel
+(face) runout of a new disc should not exceed 0.50        cracking or warpage after installation; it can also
+mm (0.020 in.). Measure runout about 6 mm (1/4 in.)       weaken the flywheel and interfere with proper clutch
+from the outer edge of the disc facing. Obtain            release.
+another disc if runout is excessive.                         Clean the crankshaft flange before mounting the
+   Check condition of the clutch before installation. A   flywheel. Dirt and grease on the flange surface may
+warped cover or diaphragm spring will cause grab          cock the flywheel causing excessive runout. Use new
+and incomplete release or engagement. Be careful          bolts when remounting a flywheel and secure the
+when handling the cover and disc. Impact can distort      bolts with Mopar Lock And Seal or equivalent.
+the cover, diaphragm spring, release fingers and the      Tighten flywheel bolts to specified torque only. Over-
+hub of the clutch disc.                                   tightening can distort the flywheel hub causing
+   Use an alignment tool when positioning the disc on     runout.
+the flywheel. The tool prevents accidental misalign-
+ment which could result in cover distortion and disc      DIAGNOSIS CHART
+damage.                                                     The diagnosis charts Diagnosis Chart describe
+   A frequent cause of clutch cover distortion (and       common clutch problems, causes and correction. Con-
+consequent misalignment) is improper bolt tighten-        ditions, causes and corrective action are outlined in
+ing.                                                      the indicated columns.
+
+FLYWHEEL RUNOUT
+  Check flywheel runout whenever misalignment is
+suspected. Flywheel runout should not exceed 0.08
+

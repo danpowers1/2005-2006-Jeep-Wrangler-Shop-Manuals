@@ -1,0 +1,58 @@
+TJ                                                          AUTOMATIC TRANSMISSION - 42RLE                21 - 139
+SOLENOID/PRESSURE SWITCH ASSY (Continued)
+
+OPERATION                                                     The TCM also tests the 2/4 and OD pressure
+                                                           switches when they are normally off (OD and 2/4 are
+SOLENOIDS                                                  tested in 1st gear, OD in 2nd gear, and 2/4 in 3rd
+   The solenoids receive electrical power from the         gear). The test simply verifies that they are opera-
+Transmission Control Relay through a single wire.          tional, by looking for a closed state when the corre-
+The TCM energizes or operates the solenoids individ-       sponding element is applied. Immediately after a
+ually by grounding the return wire of the solenoid         shift into 1st, 2nd, or 3rd gear with the engine speed
+needed. When a solenoid is energized, the solenoid         above 1000 rpm, the TCM momentarily turns on ele-
+valve shifts, and a fluid passage is opened or closed      ment pressure to the 2/4 and/or OD clutch circuits to
+(vented or applied), depending on its default operat-      identify that the appropriate switch has closed. If it
+ing state. The result is an apply or release of a fric-    doesn’t close, it is tested again. If the switch fails to
+tional element.                                            close the second time, the appropriate Diagnostic
+   The 2/4 and UD solenoids are normally applied,          Trouble Code (DTC) will set.
+which allows fluid to pass through in their relaxed or
+“off” state. By design, this allows transmission           REMOVAL
+limp-in (P,R,N,2) in the event of an electrical failure.
+   The continuity of the solenoids and circuits are        NOTE: If the Solenoid/Pressure Switch Assembly is
+periodically tested. Each solenoid is turned on or off     being replaced, the Quick Learn Procedure must be
+depending on its current state. An inductive spike         performed. (Refer to 8 - ELECTRICAL/ELECTRONIC
+should be detected by the TCM during this test. If no      CONTROL MODULES/TRANSMISSION CONTROL
+spike is detected, the circuit is tested again to verify   MODULE - STANDARD PROCEDURE)
+the failure. In addition to the periodic testing, the
+solenoid circuits are tested if a speed ratio or pres-
+sure switch error occurs.
+
+PRESSURE SWITCHES
+   The TCM relies on three pressure switches to mon-
+itor fluid pressure in the L/R, 2/4, and OD hydraulic
+circuits. The primary purpose of these switches is to
+help the TCM detect when clutch circuit hydraulic
+failures occur. The range for the pressure switch clos-
+ing and opening points is 11-23 psi. Typically the
+switch opening point will be approximately one psi
+lower than the closing point. For example, a switch
+may close at 18 psi and open at 17 psi. The switches
+are continuously monitored by the TCM for the cor-
+rect states (open or closed) in each gear as shown in
+the following chart:                                                Fig. 239 Solenoid Retaining Screws
+            PRESSURE SWITCH STATES                         1 - SOLENOID/PRESSURE SWITCH ASSEMBLY
+                                                           2 - RETAINING SCREWS
+
+   GEAR            L/R           2/4           OD            (1) Raise vehicle on hoist.
+     R             OP            OP            OP            (2) Remove valve body assembly from transmis-
+                                                           sion. (Refer to 21 - TRANSMISSION/AUTOMATIC -
+     P/N           CL            OP            OP          42RLE/VALVE BODY - REMOVAL)
+     1st           CL            OP            OP            (3) Remove Solenoid/Pressure Switch Assembly
+     2nd           OP            CL            OP          retaining screws (2) from solenoid (Fig. 239).
+     D             OP            OP            CL
+     OD            OP            CL            CL
+                     OP = OPEN
+                    CL = CLOSED
+  A Diagnostic Trouble Code (DTC) will set if the
+TCM senses any switch open or closed at the wrong
+time in a given gear.
+

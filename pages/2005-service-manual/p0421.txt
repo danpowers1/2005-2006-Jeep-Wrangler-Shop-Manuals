@@ -1,0 +1,56 @@
+TJ                                                                              IGNITION CONTROL          8I - 15
+IGNITION COIL - 2.4L (Continued)
+  The ignition coil is not oil filled. The windings are   OPERATION
+embedded in an epoxy compound. This provides heat           To prevent possible pre-ignition and/or mechanical
+and vibration resistance that allows the ignition coil    engine damage, the correct type/heat range/number
+to be mounted on the engine.                              spark plug must be used.
+  Spark plug cables (secondary wires or cables) are         Always use the recommended torque when tighten-
+used with the 2.4L engine.                                ing spark plugs. Incorrect torque can distort the
+                                                          spark plug and change plug gap. It can also pull the
+REMOVAL - 2.4L                                            plug threads and do possible damage to both the
+  (1) Disconnect electrical connector at rear of coil.    spark plug and the cylinder head.
+  (2) Remove all secondary cables from coil.                Remove the spark plugs and examine them for
+  (3) Remove 4 coil mounting bolts (Fig. 29).             burned electrodes and fouled, cracked or broken por-
+  (4) Remove coil from vehicle.                           celain insulators. Keep plugs arranged in the order
+                                                          in which they were removed from the engine. A sin-
+                                                          gle plug displaying an abnormal condition indicates
+                                                          that a problem exists in the corresponding cylinder.
+                                                          Replace spark plugs at the intervals recommended in
+                                                          Group O, Lubrication and Maintenance
+                                                            Spark plugs that have low mileage may be cleaned
+                                                          and reused if not otherwise defective, carbon or oil
+                                                          fouled. Also refer to Spark Plug Conditions.
+
+                                                          CAUTION: Never use a motorized wire wheel brush
+                                                          to clean the spark plugs. Metallic deposits will
+                                                          remain on the spark plug insulator and will cause
+                                                          plug misfire.
+
+
+                                                          DIAGNOSIS AND TESTING - SPARK PLUG
+                                                          CONDITIONS
+                                                          NORMAL OPERATING
+            Fig. 29 IGNITION COIL - 2.4L                     The few deposits present on the spark plug will
+1 - IGNITION COIL
+                                                          probably be light tan or slightly gray in color. This is
+2 - MOUNTING BOLTS (4)                                    evident with most grades of commercial gasoline
+                                                          (Fig. 30). There will not be evidence of electrode
+INSTALLATION - 2.4L                                       burning. Gap growth will not average more than
+   (1) Position coil to engine.                           approximately 0.025 mm (.001 in) per 3200 km (2000
+   (2) Install 4 mounting bolts. Refer to torque speci-   miles) of operation. Spark plugs that have normal
+fications.                                                wear can usually be cleaned, have the electrodes
+   (3) Install secondary cables.                          filed, have the gap set and then be installed.
+   (4) Install electrical connector at rear of coil.         Some fuel refiners in several areas of the United
+   (5) Install air cleaner tube and housing.              States have introduced a manganese additive (MMT)
+                                                          for unleaded fuel. During combustion, fuel with MMT
+                                                          causes the entire tip of the spark plug to be coated
+SPARK PLUG                                                with a rust colored deposit. This rust color can be
+                                                          misdiagnosed as being caused by coolant in the com-
+DESCRIPTION                                               bustion chamber. Spark plug performance may be
+  Resistor type spark plugs are used.                     affected by MMT deposits.
+  Spark plug resistance values range from 6,000 to
+20,000 ohms (when checked with at least a 1000 volt
+spark plug tester). Do not use an ohmmeter to
+check the resistance values of the spark plugs.
+Inaccurate readings will result.
+

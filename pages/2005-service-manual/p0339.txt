@@ -1,0 +1,63 @@
+TJ                                                   ELECTRONIC CONTROL MODULES              8E - 5
+
+
+POWERTRAIN CONTROL                              The PCM (1) or (2) is located in the engine com-
+                                              partment (Fig. 3) or (Fig. 4). The PCM is referred to
+MODULE                                        as the NGC.
+
+
+DESCRIPTION                                   DESCRIPTION - MODES OF OPERATION
+                                                 As input signals to the Powertrain Control Module
+                                              (PCM) change, the PCM adjusts its response to the
+DESCRIPTION                                   output devices. For example, the PCM must calculate
+                                              different injector pulse width and ignition timing for
+                                              idle than it does for wide open throttle (WOT).
+                                                 The PCM will operate in two different modes:
+                                              Open Loop and Closed Loop.
+                                                 During Open Loop modes, the PCM receives input
+                                              signals and responds only according to preset PCM
+                                              programming. Input from the oxygen (O2S) sensors
+                                              is not monitored during Open Loop modes.
+                                                 During Closed Loop modes, the PCM will monitor
+                                              the oxygen (O2S) sensors input. This input indicates
+                                              to the PCM whether or not the calculated injector
+                                              pulse width results in the ideal air-fuel ratio. This
+                                              ratio is 14.7 parts air-to-1 part fuel. By monitoring
+                                              the exhaust oxygen content through the O2S sensor,
+                                              the PCM can fine tune the injector pulse width. This
+                                              is done to achieve optimum fuel economy combined
+                                              with low emission engine performance.
+                                                 The fuel injection system has the following modes
+                                              of operation:
+     Fig. 3 PCM MOUNTING - LEFT HAND DRIVE       • Ignition switch ON
+1 - MOUNTING SCREWS (3)                          • Engine start-up (crank)
+2 - PCM                                          • Engine warm-up
+3 - PCM ELECTRICAL CONNECTORS
+                                                 • Idle
+                                                 • Cruise
+                                                 • Acceleration
+                                                 • Deceleration
+                                                 • Wide open throttle (WOT)
+                                                 • Ignition switch OFF
+                                                 The ignition switch On, engine start-up (crank),
+                                              engine warm-up, acceleration, deceleration and wide
+                                              open throttle modes are Open Loop modes. The idle
+                                              and cruise modes, (with the engine at operating tem-
+                                              perature) are Closed Loop modes.
+                                              IGNITION SWITCH (KEY-ON) MODE
+                                                This is an Open Loop mode. When the fuel system
+                                              is activated by the ignition switch, the following
+                                              actions occur:
+                                                • The PCM pre-positions the Idle Air Control
+                                              (IAC) motor.
+                                                • The PCM determines atmospheric air pressure
+                                              from the MAP sensor input to determine basic fuel
+                                              strategy.
+     Fig. 4 PCM MOUNTING - RIGHT HAND DRIVE     • The PCM monitors the engine coolant tempera-
+1 - PCM                                       ture sensor input. The PCM modifies fuel strategy
+2 - MOUNTING SCREWS (3)                       based on this input.
+3 - PCM ELECTRICAL CONNECTORS
+                                                • Intake manifold air temperature sensor input is
+                                              monitored.
+                                                • Throttle position sensor (TPS) is monitored.
+

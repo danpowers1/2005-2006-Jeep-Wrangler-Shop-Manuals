@@ -1,0 +1,52 @@
+TJ                                                                        HEATING & AIR CONDITIONING                24 - 5
+HEATING & AIR CONDITIONING (Continued)
+                                          A/C PRESSURE DIAGNOSIS
+
+          Condition                      Possible Causes                                  Correction
+Rapid A/C clutch cycling (ten     1. Low refrigerant system          1. See Refrigerant System Leaks in this group.
+or more cycles per minute).       charge.                            Test the refrigerant system for leaks. Repair,
+                                                                     evacuate and charge the refrigerant system, if
+                                                                     required.
+Equal pressures, but the A/C      1. No refrigerant in the           1. See Refrigerant System Leaks in this group.
+clutch does not engage.           refrigerant system.                Test the refrigerant system for leaks. Repair,
+                                                                     evacuate and charge the refrigerant system, if
+                                                                     required.
+                                  2. Faulty fuse.                    2. Check the fuses in the fuse block and the
+                                                                     power distribution center (PDC). Repair the
+                                                                     shorted circuit or component and replace the
+                                                                     fuses, if required. Refer to Group 8.
+                                  3. Faulty A/C clutch field coil.   3. See A/C Compressor Clutch in this group. Test
+                                                                     the A/C clutch field coil and replace, if required.
+                                  4. Faulty A/C clutch relay.        4. See A/C Clutch Relay in this group. Test the
+                                                                     A/C clutch relay and relay circuits. Repair the
+                                                                     circuits or replace the relay, if required.
+                                  5. Improperly installed or         5. See A/C Low Pressure Switch in this group.
+                                  faulty A/C low pressure            Test the A/C low pressure switch and tighten or
+                                  switch.                            replace, if required.
+                                  6. Faulty A/C pressure             6. See A/C Pressure Transducer in this group.
+                                  transducer (2.4L engine).          Test the A/C pressure transducer and replace, if
+                                                                     required.
+                                  6. Faulty A/C high pressure        6. See A/C High Pressure Switch in this group.
+                                  switch (4.0L engine).              Test the A/C high pressure switch and replace, if
+                                                                     required.
+                                  7. Faulty powertrain control       7. Refer to the proper Diagnostic Procedures
+                                  module (PCM).                      manual for testing of the PCM. Test the PCM and
+                                                                     replace, if required.
+Normal pressures, but A/C         1. Excessive refrigerant oil in    1. See Refrigerant Oil Level in this group.
+Performance Test air              system.                            Recover the refrigerant from the refrigerant
+temperatures at center panel                                         system and inspect the refrigerant oil content.
+outlet are too high.                                                 Restore the refrigerant oil to the proper level, if
+                                                                     required.
+                                  2. Blend door actuator             2. See Blend Door Actuator in this group. Inspect
+                                  improperly installed or faulty.    the actuator for proper operation and replace, if
+                                                                     required.
+                                  3. Blend-air door inoperative      3. See HVAC Housing in this group. Inspect the
+                                  or sealing improperly.             blend-air door for proper operation and sealing
+                                                                     and correct, if required.
+The low side pressure is          1. Low refrigerant system          1. See Refrigerant System Leaks in this group.
+normal or slightly low, and the   charge.                            Test the refrigerant system for leaks. Repair,
+high side pressure is too low.                                       evacuate and charge the refrigerant system, if
+                                                                     required.
+                                  2. Refrigerant flow through        2. See Accumulator in this group. Replace the
+                                  the accumulator is restricted.     restricted accumulator, if required.
+

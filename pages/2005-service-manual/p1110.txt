@@ -1,0 +1,59 @@
+14 - 34    FUEL INJECTION                                                                                   TJ
+MAP SENSOR (Continued)
+  (2) Position sensor to throttle body while guiding      14.7–to–1 air/fuel ratio necessary for proper engine
+rubber fitting over throttle body vacuum nipple.          operation and to control emissions.
+  (3) Install MAP sensor mounting bolt(s) (screws).         The O2 sensor must have a source of oxygen from
+Tighten screw(s) to 3 N·m (25 in. lbs.) torque.           outside of the exhaust stream for comparison. Cur-
+  (4) Install air cleaner intake tube.                    rent O2 sensors receive their fresh oxygen (outside
+  (5) Connect electrical connector.                       air) supply through the O2 sensor case housing.
+                                                            Four wires (circuits) are used on each O2 sensor: a
+                                                          12–volt feed circuit for the sensor heating element; a
+O2 HEATER RELAY                                           ground circuit for the heater element; a low-noise
+                                                          sensor return circuit to the PCM, and an input cir-
+DESCRIPTION                                               cuit from the sensor back to the PCM to detect sen-
+  The oxygen (O2) sensor heater relay is located in       sor operation.
+the Powertrain Distribution Center (PDC).                   Oxygen Sensor Heater Relay: If the vehicle is
+                                                          equipped with 4 oxygen sensors, a separate oxygen
+OPERATION                                                 sensor relay is used to supply voltage to the sensor
+  Refer to Oxygen Sensor for oxygen sensor relay          heating elements. This particular relay is used only
+information.                                              for the 1/2 and 2/2 downstream sensors. Voltage for
+                                                          the other 2 sensor heating elements is supplied
+REMOVAL                                                   directly from the ASD relay. Refer to 8, Wiring Dia-
+   The oxygen sensor heater relay is located in the       grams to determine which relay is used.
+Power Distribution Center (PDC). Refer to label on          To avoid the large simultaneous current surge
+PDC cover for relay location.                             needed to operate all 4 sensors, power is delayed to
+   (1) Remove PDC cover.                                  the 2 downstream heater elements by the PCM for
+   (2) Remove relay from PDC.                             approximately 2 seconds.
+   (3) Check condition of relay terminals and PDC           Oxygen Sensor Heater Elements:
+connector terminals for damage or corrosion. Repair         The O2 sensor uses a Positive Thermal Co-efficient
+if necessary before installing relay.                     (PTC) heater element. As temperature increases,
+   (4) Check for pin height (pin height should be the     resistance increases. At ambient temperatures
+same for all terminals within the PDC connector).         around 70°F, the resistance of the heating element is
+Repair if necessary before installing relay.              approximately 4.5 ohms. As the sensor’s temperature
+                                                          increases, resistance in the heater element increases.
+INSTALLATION                                              This allows the heater to maintain the optimum
+  The oxygen sensor heater relay is located in the        operating temperature of approximately 930°-1100°F
+Power Distribution Center (PDC). Refer to label on        (500°-600° C). Although the sensors operate the
+PDC cover for relay location.                             same, there are physical differences, due to the envi-
+  (1) Install relay to PDC.                               ronment that they operate in, that keep them from
+  (2) Install cover to PDC.                               being interchangeable.
+                                                            Maintaining correct sensor temperature at all
+                                                          times allows the system to enter into closed loop
+O2 SENSOR                                                 operation sooner. Also, it allows the system to remain
+                                                          in closed loop operation during periods of extended
+DESCRIPTION                                               idle.
+  The Oxygen Sensors (O2S) are attached to, and             In Closed Loop operation, the PCM monitors cer-
+protrude into the vehicle exhaust system. Depending       tain O2 sensor input(s) along with other inputs, and
+on the engine or emission package, the vehicle may        adjusts the injector pulse width accordingly. During
+use a total of either 2 or 4 sensors.                     Open Loop operation, the PCM ignores the O2 sensor
+                                                          input. The PCM adjusts injector pulse width based
+OPERATION                                                 on preprogrammed (fixed) values and inputs from
+  An O2 sensor is a galvanic battery that provides        other sensors.
+the PCM with a voltage signal (0-1 volt) inversely          Upstream Sensor - Engine Equipped With 2
+proportional to the amount of oxygen in the exhaust.      Sensors: The upstream sensor (1/1) provides an
+In other words, if the oxygen content is low, the volt-   input voltage to the PCM. The input tells the PCM
+age output is high; if the oxygen content is high the     the oxygen content of the exhaust gas. The PCM uses
+output voltage is low. The PCM uses this information      this information to fine tune fuel delivery to main-
+to adjust injector pulse-width to achieve the             tain the correct oxygen content at the downstream
+                                                          oxygen sensor. The PCM will change the air/fuel
+

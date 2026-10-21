@@ -1,0 +1,41 @@
+TJ                                                                                         STARTING        8F - 35
+STARTING (Continued)
+                                                           eyelet terminal connection to the engine block.
+                                                           Repeat the test. If the reading is still above 0.2 volt,
+                                                           replace the faulty battery negative cable.
+
+
+
+
+Fig. 3 Test Battery Positive Connection Resistance -
+                       Typical
+1 - VOLTMETER
+2 - BATTERY                                                   Fig. 5 Test Ground Circuit Resistance - Typical
+                                                           1 - VOLTMETER
+   (3) Connect the voltmeter to measure between the        2 - BATTERY
+battery positive cable terminal clamp and the starter      3 - ENGINE GROUND
+solenoid B(+) terminal stud (Fig. 4). Rotate and hold
+the ignition switch in the Start position. Observe the       (5) Connect the positive lead of the voltmeter to
+voltmeter. If the reading is above 0.2 volt, clean and     the starter housing. Connect the negative lead of the
+tighten the battery positive cable eyelet terminal con-    voltmeter to the battery negative terminal post (Fig.
+nection at the starter solenoid B(+) terminal stud.        6). Rotate and hold the ignition switch in the Start
+Repeat the test. If the reading is still above 0.2 volt,   position. Observe the voltmeter. If the reading is
+replace the faulty battery positive cable.                 above 0.2 volt, correct the poor starter to engine
+                                                           block ground contact.
+
+
+
+
+   Fig. 4 Test Battery Positive Cable Resistance -
+                       Typical                                      Fig. 6 Test Starter Ground - Typical
+1 - BATTERY                                                1 - STARTER MOTOR
+2 - VOLTMETER                                              2 - BATTERY
+3 - STARTER MOTOR                                          3 - VOLTMETER
+
+  (4) Connect the voltmeter to measure between the           If the resistance tests detect no feed circuit prob-
+battery negative cable terminal clamp and a good           lems, refer to Starter Motor.
+clean ground on the engine block (Fig. 5). Rotate and
+hold the ignition switch in the Start position.
+Observe the voltmeter. If the reading is above 0.2
+volt, clean and tighten the battery negative cable
+

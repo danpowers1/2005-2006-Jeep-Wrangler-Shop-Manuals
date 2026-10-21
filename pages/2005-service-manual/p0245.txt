@@ -1,0 +1,59 @@
+TJ                                                                                   BRAKES - BASE        5 - 27
+POWER BRAKE BOOSTER (Continued)
+  The chamber areas forward of the booster dia-
+phragms are exposed to vacuum from the intake
+manifold. The chamber areas to the rear of the dia-
+phragms, are exposed to normal atmospheric pres-
+sure of 101.3 kilopascals (14.7 pounds/square in.).
+  Brake pedal application causes the primary push
+rod to open the atmospheric inlet valve. This exposes
+the area behind the diaphragms to atmospheric pres-
+sure. The resulting pressure differential provides the
+extra apply force for power assist.
+  The booster check valve, check valve grommet and
+booster seals are serviceable.
+
+REMOVAL
+  (1) Remove combination valve and master cylinder.
+  (2) Disconnect vacuum hose from booster check
+                                                                     Fig. 49 Booster Mounting Nuts
+valve.
+  (3) Remove retaining clip that secures booster          1 - BOOSTER
+                                                          2 - BRAKE PEDAL
+push rod to brake pedal (Fig. 48) and slide the rod off
+the pin.                                                  push rod onto brake pedal pin and secure with
+  (4) Remove four nuts attaching booster to front         retaining clip.
+cowl panel (Fig. 49).                                        (6) Tighten booster mounting nuts to 39 N·m (29
+  (5) In engine compartment, slide booster studs out      ft. lbs.).
+of cowl panel, and remove the booster from engine            (7) Connect vacuum hose to booster check valve.
+compartment.                                                 (8) Install master cylinder and combination valve.
+  (6) Remove dash seal from booster.                         (9) Top off master cylinder fluid level and bleed
+                                                          base brakes.
+
+
+                                                          COMBINATION VALVE
+                                                          DESCRIPTION
+                                                            The combination valve contains a pressure differ-
+                                                          ential valve and switch and a rear brake proportion-
+                                                          ing valve. The valve is not repairable and must be
+                                                          replaced as an assembly if diagnosis indicates this is
+                                                          necessary.
+
+                                                          OPERATION
+                                                          PRESSURE DIFFERENTIAL VALVE
+                                                             The pressure differential switch is connected to the
+              Fig. 48 Push Rod & Clip                     brake warning light. The switch is actuated by move-
+1 - BRAKE PEDAL                                           ment of the switch valve. The switch monitors fluid
+2 - BOOSTER ROD                                           pressure in the separate front/rear brake hydraulic
+                                                          circuits.
+INSTALLATION                                                 A decrease or loss of fluid pressure in either
+  (1) Clean the booster mounting surface.                 hydraulic circuit will cause the switch valve to shut-
+  (2) Install dash seal on booster.                       tle to the low pressure side. Movement of the valve
+  (3) Align and position booster on the front cowl        pushes the switch plunger upward. This action closes
+panel.                                                    the switch internal contacts completing the electrical
+  (4) In passenger compartment, install nuts that         circuit to the red warning light. The switch valve will
+attach booster to dash panel. Tighten nuts just           remain in an actuated position until repairs to the
+enough to hold booster in place.                          brake system are made.
+  (5) Lubricate the pedal pin and bushing with
+Mopar multi-mileage grease. Then slid the booster
+

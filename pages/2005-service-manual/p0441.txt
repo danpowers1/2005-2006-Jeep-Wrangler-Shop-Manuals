@@ -1,0 +1,60 @@
+TJ                                                                          INSTRUMENT CLUSTER            8J - 15
+INSTRUMENT CLUSTER (Continued)
+C1 for enable 1, Connector C2 for enable 2) for the        the various wire harness connectors, splices and
+instrument cluster and the instrument panel wire           grounds.
+harness connector for the axle lock switch. There
+should be continuity. If OK, go to Step 6. If not OK,      WARNING: TO AVOID PERSONAL INJURY OR
+repair the open axle lock switch enable 1 or enable 2      DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+circuit between the instrument cluster and the axle        DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+lock switch as required.                                   TEM BEFORE ATTEMPTING ANY STEERING
+   (6) Disconnect the rear and/or front locker indica-     WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+tor switch pigtail harness connector from the rear or      MENT PANEL COMPONENT DIAGNOSIS OR SER-
+front axle jumper harness connector. Check for conti-      VICE. DISCONNECT AND ISOLATE THE BATTERY
+nuity between the ground circuit cavity of the rear or     NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+front axle jumper harness connector and a good             MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+ground. There should be continuity. If OK, go to Step      CHARGE BEFORE PERFORMING FURTHER DIAG-
+7. If not OK, repair the open ground circuit between       NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+the rear or front axle jumper harness connector for        TO DISABLE THE SUPPLEMENTAL RESTRAINT
+the rear or front locker indicator switch and ground       SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+(G105) as required.                                        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+   (7) Check for continuity between the ground cir-        BAG DEPLOYMENT.
+cuit and the rear or front locker indicator switch
+sense circuit cavities of the rear or front locker indi-      (1) Disconnect and isolate the battery negative
+cator switch pigtail harness connector. There should       cable. Remove the rear window defogger relay from
+be continuity with the axle locker engaged, and no         the receptacle in the Power Distribution Center
+continuity with the axle locker disengaged. If OK, go      (PDC). Disconnect the instrument panel wire harness
+to Step 8. If not OK, replace the faulty rear or front     connector for the rear window defogger switch from
+locker indicator switch.                                   the switch connector receptacle. Remove the instru-
+   (8) Check for continuity between the rear or front      ment cluster from the instrument panel.
+locker indicator switch sense circuit cavity of the rear      (2) Check for continuity between the rear window
+or front axle jumper harness connector for the locker      defogger switch sense circuit cavity of the instrument
+indicator switch and a good ground. There should be        panel wire harness connector (Connector C2) for the
+no continuity. If OK, go to Step 9. If not OK, repair      instrument cluster and a good ground. There should
+the shorted rear or front locker indicator switch          be no continuity. If OK, go to Step 3. If not OK,
+sense circuit between the rear or front axle jumper        repair the shorted rear window defogger switch sense
+harness connector for the locker indicator switch and      circuit between the instrument cluster and the rear
+the instrument cluster as required.                        window defogger switch as required.
+   (9) Check for continuity between the rear or front         (3) Check for continuity between the rear window
+locker indicator switch sense circuit cavities of the      defogger switch sense circuit cavities of the instru-
+rear or front axle jumper harness connector for the        ment panel wire harness connectors for the instru-
+locker indicator switch and the instrument cluster.        ment cluster (Connector C2) and the rear window
+There should be continuity. If OK, use a DRBIIIt           defogger switch. There should be continuity. If OK,
+scan tool to perform additional testing of the instru-     go to Step 4. If not OK, repair the open rear window
+ment cluster. Refer to the appropriate diagnostic          defogger switch sense circuit between the instrument
+information. If not OK, repair the open rear or front      cluster and the rear window defogger switch as
+locker indicator switch sense circuit between the rear     required.
+or front axle jumper harness connector for the locker         (4) Check for continuity between the rear window
+indicator switch and the instrument cluster as             defogger relay control circuit cavity of the instrument
+required.                                                  panel wire harness connector (Connector C2) for the
+                                                           instrument cluster and a good ground. There should
+REAR WINDOW DEFOGGER CONTROL DIAGNOSIS                     be no continuity. If OK, go to Step 5. If not OK,
+  Before performing this test, complete the testing of     repair the shorted rear window defogger relay control
+the rear window defogger switch and the rear win-          circuit between the instrument cluster and the PDC
+dow defogger relay. Refer to the appropriate wiring        as required.
+information. The wiring information includes wiring           (5) Check for continuity between the rear window
+diagrams, proper wire and connector repair proce-          defogger relay control circuit cavities of the instru-
+dures, details of wire harness routing and retention,      ment panel wire harness connector (Connector C2)
+connector pin-out information and location views for       for the instrument cluster and the rear window
+                                                           defogger relay receptacle in the PDC. There should
+                                                           be continuity. If OK, replace the faulty instrument
+

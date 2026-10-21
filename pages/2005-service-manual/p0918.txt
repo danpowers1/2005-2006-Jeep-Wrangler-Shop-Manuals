@@ -1,0 +1,60 @@
+8W - 97 - 14                                 8W-97 POWER DISTRIBUTION                                        TJ
+
+
+RELAY                                                     DIAGNOSIS AND TESTING - RELAY
+                                                             The relays are located in the junction block or
+DESCRIPTION                                               power distribution center. For complete circuit dia-
+                                                          grams, refer to Wiring Diagrams.
+                                                             (1) Remove the relay from its mounting location.
+                                                             (2) A relay in the de-energized position should
+                                                          have continuity between terminals 87A and 30, and
+                                                          no continuity between terminals 87 and 30. If OK, go
+                                                          to Step 3. If not OK, replace the faulty relay.
+                                                             (3) Resistance between terminals 85 and 86 (elec-
+                                                          tromagnet) should be 60.7 - 80.3 ohms. If OK, go to
+                                                          Step 4. If not OK, replace the faulty relay.
+                                                             (4) Connect a battery to terminals 85 and 86.
+                                                          There should now be continuity between terminals
+                                                          30 and 87, and no continuity between terminals 87A
+                                                          and 30. If OK, perform the Relay Circuit Test that
+                                                          follows. If not OK, replace the faulty relay.
+
+                                                          DIAGNOSIS & TESTING - RELAY CIRCUIT TEST
+                                                             (1) The relay common feed terminal cavity (30) of
+                  Fig. 18 ISO Relay                       the junction block or power distribution center is con-
+30 - COMMON FEED                                          nected to battery voltage and should be hot at all
+85 - COIL GROUND
+86 - COIL BATTERY                                         times. Check for battery voltage at the fused B(+) cir-
+87 - NORMALLY OPEN                                        cuit cavity in the junction block receptacle for the
+87A - NORMALLY CLOSED                                     relay. If OK, go to Step 2. If not OK, repair the fused
+                                                          B(+) circuit to the Power Distribution Center (PDC)
+   A relay is an electromechanical device that            fuse as required.
+switches fused battery current to a electrical compo-        (2) The relay normally closed terminal (87A) is
+nent when the ignition switch is turned to the Acces-     connected to terminal 30 in the de-energized position,
+sory or Run positions, or when controlled by a            but is not used for this application. Go to Step 3.
+electronic module. The relays are located in the junc-       (3) The relay normally open terminal (87) is con-
+tion block or power distribution center (Fig. 18).        nected to the common feed terminal (30) in the ener-
+   The relay is a International Standards Organiza-       gized position. This terminal supplies battery voltage
+tion (ISO) relay. Relays conforming to the ISO speci-     to the fused B(+) fuse in the junction block that feeds
+fications have common physical dimensions, current        the accessory when the relay is energized by the igni-
+capacities, terminal patterns, and terminal functions.    tion switch. There should be continuity between the
+   A relay cannot be repaired or adjusted and, if         junction block cavity for relay terminal 87 and the
+faulty or damaged, it must be replaced.                   fused B(+) fuse in the junction block at all times. If
+                                                          OK, go to Step 4. If not OK, repair the open fused
+OPERATION                                                 B(+) circuit to the junction block fuse as required.
+   The ISO relay consists of an electromagnetic coil, a      (4) The coil ground terminal (85) is connected to
+resistor and three (two fixed and one movable) elec-      the electromagnet in the relay. It receives battery
+trical contacts. The movable (common feed) relay con-     feed to energize the relay when the ignition switch is
+tact is held against one of the fixed contacts            in the Accessory or Run positions. Turn the ignition
+(normally closed) by spring pressure. When the elec-      switch to the On position. Check for battery voltage
+tromagnetic coil is energized, it draws the movable       at the fused ignition switch output (acc/run) circuit
+contact away from the normally closed fixed contact,      cavity for relay terminal 85 in the junction block
+and holds it against the other (normally open) fixed      receptacle for the relay. If OK, go to Step 5. If not
+contact.                                                  OK, repair the open fused ignition switch output
+   When the electromagnetic coil is de-energized,         (acc/run) circuit to the ignition switch as required.
+spring pressure returns the movable contact to the           (5) The coil battery terminal (86) is connected to
+normally closed position. The resistor is connected in    the electromagnet in the relay. The junction block
+parallel with the electromagnetic coil in the relay,      cavity for this terminal should have continuity to
+and helps to dissipate voltage spikes that are pro-       ground at all times. If not OK, repair the open
+duced when the coil is de-energized.                      ground circuit to ground as required.
+

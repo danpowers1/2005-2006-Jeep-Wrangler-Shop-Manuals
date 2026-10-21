@@ -1,0 +1,50 @@
+TJ                                                                                         STEERING       19 - 5
+STEERING (Continued)
+                                                          CAUTION: This next step involves testing maximum
+                                                          pump pressure output and flow control valve oper-
+                                                          ation. Do not leave test valve closed for more than
+                                                          three seconds as the pump could be damaged.
+
+                                                             (12) Close valve fully three times for three seconds
+                                                          and record highest pressure indicated each time. All
+                                                          three readings must be above pump relief pres-
+                                                          sure specifications and within 345 kPa (50 psi)
+                                                          of each other.
+                                                             • Pressures above specifications but not within
+                                                          345 kPa (50 psi) of each other, replace pump.
+                                                             • Pressures within 345 kPa (50 psi) of each other
+                                                          but below specifications, replace pump.
+                                                             (13) Open the test valve and turn the steering
+                                                          wheel to the extreme left and right positions against
+           Fig. 4 Power Steering Analyzer                 the stops. Record the highest pressure reading at
+1 - TUBE                                                  each position. Compare readings to pump specifica-
+2 - ADAPTER FITTINGS                                      tions chart. If pressure readings are not within 50
+3 - ANALYZER
+4 - GAUGE HOSE                                            psi. of each other, the gear is leaking internally and
+                                                          must be repaired.
+  (4) Disconnect the high pressure hose from the
+power steering pump.                                      CAUTION: Do not force the pump to operate against
+  (5) Connect Tube 6865 to the pump hose fitting.         the stops for more than 2 to 4 seconds at a time
+  (6) Connect the power steering hose from the            because, pump damage will result.
+steering gear to Adapter 6826.
+                                                                       PUMP SPECIFICATIONS
+  (7) Open the test valve completely.
+  (8) Start engine and let idle long enough to circu-
+late power steering fluid through flow/pressure test                      RELIEF               FLOW RATE
+                                                           ENGINE
+gauge.                                                                 PRESSURE ± 50             (GPM)
+  (9) Shut off the engine and check the fluid level,                    9653 kPa (1400
+add fluid as necessary. Start engine again and let           2.4L
+                                                                             psi)           1500 RPM 2.4 - 2.8
+idle.                                                                                             GPM
+                                                                        9653 kPa (1400
+  (10) Gauge should read below 862 kPa (125 psi), if         4.0L
+                                                                             psi)
+above, inspect the hoses for restrictions and repair as
+necessary. The initial pressure reading should be in
+the range of 345-552 kPa (50-80 psi).
+  (11) Increase the engine speed to 1500 RPM and
+read the flow meter. The reading should be 2.4 - 2.8
+GPM, if the reading is below this specification the
+pump should be replaced.
+

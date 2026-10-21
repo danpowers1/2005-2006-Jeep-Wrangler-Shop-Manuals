@@ -1,0 +1,54 @@
+8L - 26      LAMPS/LIGHTING - EXTERIOR                                                                        TJ
+LEFT MULTI-FUNCTION SWITCH (Continued)
+
+                                LEFT (LIGHTING) MULTI-FUNCTION SWITCH TEST
+                             TURN SIGNAL AND HAZARD WARNING SWITCH TESTS
+                  SWITCH POSITION                    CONTINUITY
+          TURN                  HAZARD                BETWEEN
+          Neutral                   Off                                 B1 & B4, B1 & B5
+           Left                     Off                            A2 & B2, A2 & B4, B1 & B5
+          Right                     Off                                 A2 & B5, B1 & B4
+          Neutral                   On                A2 & B2, A2 & B4, A2 & B5, A2 & B6, A3 & B7, A3 & A5
+                                          EXTERIOR LIGHTING SWITCH TESTS
+                  SWITCH POSITION                                   CONTINUITY BETWEEN
+Park Lamps On                                                               B9 & B20
+Headlamp Low Beams On                                                B16 & B18, B16 & B19
+Headlamp High Beams On                                               B17 & B18, B17 & B19
+Fog Lamps On                                                               B13 & B14
+Rear Fog Lamps On                                                          B12 & B13
+Optical Horn On                                                      B17 & B18, B17 & B19
+                                          INTERIOR LIGHTING SWITCH TESTS
+                                                     RESISTANCE
+                  SWITCH POSITION                                                RESISTANCE (OHMS)
+                                                      BETWEEN
+Panel Lamps Dimming Position 1 (Dimmest)               B7 & B8                         5653 ± 10%
+Dimming Position 2                                     B7 & B8                         3743 ± 10%
+Dimming Position 3                                     B7 & B8                         2593 ± 10%
+Dimming Position 4                                     B7 & B8                         1825 ± 10%
+Dimming Position 5                                     B7 & B8                         1221 ± 10%
+          Dimming Position 6 (Brightest)               B7 & B8                         768 ± 10%
+Parade Mode On                                         B7 & B8                         412 ± 10%
+Courtesy Lamps On                                      B7 & B8                         150 ± 10%
+
+
+  (5) If the left multi-function switch fails any of the     (1) Disconnect and isolate the battery negative
+continuity or resistance tests, replace the faulty         cable.
+switch unit as required.                                     (2) Remove the steering column opening cover
+                                                           from the instrument panel. (Refer to 23 - BODY/IN-
+REMOVAL                                                    STRUMENT PANEL/STEERING COLUMN OPEN-
+                                                           ING COVER - REMOVAL).
+WARNING: ON VEHICLES EQUIPPED WITH AIR-                      (3) Remove the two screws that secure the lower
+BAGS, DISABLE THE AIRBAG SYSTEM BEFORE                     steering column shroud to the upper shroud (Fig. 27).
+ATTEMPTING ANY STEERING WHEEL, STEERING                      (4) If the vehicle is equipped with the optional tilt
+COLUMN, OR INSTRUMENT PANEL COMPONENT                      steering column, move the tilt steering column to the
+DIAGNOSIS OR SERVICE. DISCONNECT AND ISO-                  fully lowered position and leave the tilt release lever
+LATE THE BATTERY NEGATIVE (GROUND) CABLE,                  in the released (down) position.
+THEN WAIT TWO MINUTES FOR THE AIRBAG SYS-                    (5) Remove both the upper and lower shrouds from
+TEM CAPACITOR TO DISCHARGE BEFORE PER-                     the steering column.
+FORMING FURTHER DIAGNOSIS OR SERVICE. THIS                   (6) Disconnect the cross body wire harness connec-
+IS THE ONLY SURE WAY TO DISABLE THE AIRBAG                 tor for the left multi-function switch from the connec-
+SYSTEM. FAILURE TO TAKE THE PROPER PRE-                    tor receptacle on the back of the switch.
+CAUTIONS COULD RESULT IN ACCIDENTAL AIR-                     (7) Disconnect the cross body wire harness connec-
+BAG DEPLOYMENT AND POSSIBLE PERSONAL                       tor for the right multi-function switch from the con-
+INJURY.                                                    nector receptacle on the back of the switch.
+

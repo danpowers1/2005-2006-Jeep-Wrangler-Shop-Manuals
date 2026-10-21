@@ -1,0 +1,47 @@
+9 - 102      ENGINE 4.0L                                                                                      TJ
+CONNECTING ROD BEARINGS (Continued)
+
+
+
+
+   Fig. 39 Rod and Piston Assembly Installation
+  (7) Remove the bearing cap and determine amount
+of bearing-to- journal clearance by measuring the              Fig. 40 Measuring Bearing Clearance with
+width of compressed Plastigage (Fig. 40). Plastigage                          Plastigage
+should indicate the same clearance across the             1 - PLASTIGAGE SCALE
+entire width of the insert. If the clearance var-         2 - COMPRESSED PLASTIGAGE
+ies, it may be caused by either a tapered jour-
+nal, bent connecting rod or foreign material              replacement bearing inserts are stamped on the
+trapped between the insert and cap or rod.                backs of the inserts. Measure the clearance as
+  (8) If the correct clearance is indicated, replace-     described in the previous steps.
+ment of the bearing inserts is not necessary. Remove        (10) The clearance is measured with a pair of
+the Plastigage from crankshaft journal and bearing        0.0254 mm (0.001 inch) undersize bearing inserts
+insert. Proceed with installation.                        installed. This will determine if two 0.0254 mm
+  (9) If bearing-to-journal clearance exceeds the         (0.001 inch) undersize inserts or another combination
+specification, install a pair of 0.0254 mm (0.001 inch)   is needed to provide the correct clearance. Refer to
+undersize bearing inserts. All the odd size inserts       CONNECTING ROD BEARING FITTING CHART.
+must be on the bottom. The sizes of the service
+
+                             CONNECTING ROD BEARING FITTING CHART
+
+               CRANKSHAFT JOURNAL                             CORRESPONDING ROD BEARING INSERT
+          Color Code                  Diameter               Upper Insert Size          Lower Insert Size
+                               53.2257 - 53.2079 mm
+            Yellow                                           Yellow - Standard           Yellow - Standard
+                                (2.0955 - 2.0948 in.)
+                               53.2079 - 53.1901 mm
+                                (2.0948 - 2.0941 in.)                                    Blue - Undersize
+           Orange                                            Yellow - Standard
+                               0.0178 mm (0.0007 in.)                                  0.025 mm (0.001 in.)
+                                     Undersize
+                               53.1901 - 53.1724 mm
+
+             Blue               (2.0941 - 2.0934 in.)        Blue - Undersize            Blue - Undersize
+                               0.0356 mm (0.0014 in.)      0.025 mm (0.001 in.)        0.025 mm (0.001 in.)
+                                     Undersize
+                               52.9717 - 52.9539 mm
+                                (2.0855 - 2.0848 in.)         Red - Undersize            Red - Undersize
+             Red
+                                0.254 mm (0.010 in.)       0.254 mm (0.010 in.)        0.254 mm (0.010 in.)
+                                     Undersize
+

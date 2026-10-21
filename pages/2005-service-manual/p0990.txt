@@ -1,0 +1,46 @@
+9 - 70    ENGINE 4.0L                                                                                     TJ
+
+
+ENGINE 4.0L
+
+DESCRIPTION
+DESCRIPTION - ENGINE BLOCK
+  The cylinder block is a cast iron inline six cylinder
+design. The cylinder block is drilled forming galleries
+for both oil and coolant (Fig. 1).
+
+
+
+
+                                                                        Fig. 2 Engine Firing Order
+
+
+
+
+ Fig. 1 4.0L Cylinder Block with Main Bearing Caps
+                   and Cap Brace
+1 - BLOCK
+2 - MAIN BEARING CAP BRACE
+
+
+DESCRIPTION - ENGINE
+   The 4.0 Liter (242 CID) six-cylinder engine is an
+In-line, lightweight, overhead valve engine.
+   This engine is designed for unleaded fuel. The
+engine cylinder head has dual quench-type combus-                     Fig. 3 Build Date Code Location
+tion chambers that create turbulence and fast burn-
+                                                          1 - YEAR
+ing of the air/fuel mixture. This results in good fuel    2 - MONTH
+economy.                                                  3 - DAY
+   The cylinders are numbered 1 through 6 from front
+to rear. The firing order is 1-5-3-6-2-4 (Fig. 2).          • 1st Digit—The year (0 = 2000).
+   The crankshaft rotation is clockwise, when viewed        • 2nd & 3rd Digits—The month (01 - 12).
+from the front of the engine. The crankshaft rotates        • 4th & 5th Digits—The engine type/fuel system/
+within seven main bearings. The camshaft rotates          compression ratio (MX = A 4.0 Liter (242 CID) engine
+within four bearings.                                     with a multi-point fuel injection system).
+   BUILD DATE CODE                                          • 6th & 7th Digits—The day of engine build (01 -
+   The engine Build Date Code is located on a             31).
+machined surface on the right side of the cylinder          (1) FOR EXAMPLE: Code * 001MX12 * identifies
+block between the No.2 and No.3 cylinders (Fig. 3).       a 4.0 Liter (242 CID) engine with a multi-point fuel
+   The digits of the code identify:                       injection system, and built on January 12, 2000.
+

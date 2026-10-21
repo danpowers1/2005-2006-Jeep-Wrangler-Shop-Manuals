@@ -1,0 +1,57 @@
+7-6   COOLING                                                                                                TJ
+COOLING (Continued)
+
+         CONDITION                     POSSIBLE CAUSES                             CORRECTION
+
+TEMPERATURE GAUGE READING      1. During cold weather operation, with   1. A normal condition. No correction is
+IS INCONSISTANT (FLUCTUATES,   the heater in the high position, the     necessary.
+CYCLES, OR IS ERRATIC          gauge reading may drop slightly.
+
+                               2. Temperature gauge or engine           2. Check operation of gauge and
+                               mounted gauge sensor defective or        repair if necessary. (Refer to 8 -
+                               shorted. Also, corroded or loose         ELECTRICAL/INSTRUMENT
+                               wiring in this circuit.                  CLUSTER - DIAGNOSIS AND
+                                                                        TESTING).
+                               3. Gauge reading rises when vehicle      3. A normal condition. No correction is
+                               is brought to a stop after heavy use     necessary. Gauge should return to
+                               (engine still running)                   normal range after vehicle is driven.
+                               4. Gauge reading high after              4. A normal condition. No correction is
+                               re-starting a warmed up (hot) engine.    necessary. The gauge should return
+                                                                        to normal range after a few minutes of
+                                                                        engine operation.
+                               5. Coolant level low in radiator (air    5. Check and correct coolant leaks.
+                               will build up in the cooling system      (Refer to 7 - COOLING - DIAGNOSIS
+                               causing the thermostat to open late).    AND TESTING).
+                               6. Cylinder head gasket leaking          6. (a) Check for cylinder head gasket
+                               allowing exhaust gas to enter cooling    leaks. (Refer to 7 - COOLING -
+                               system causing a thermostat to open      DIAGNOSIS AND TESTING).
+                               late.
+                                                                        (b) Check for coolant in the engine oil.
+                                                                        Inspect for white steam emitting from
+                                                                        the exhaust system. Repair as
+                                                                        necessary.
+                               7. Water pump impeller loose on          7. Check water pump and replace as
+                               shaft.                                   necessary. (Refer to 7 - COOLING/
+                                                                        ENGINE/WATER PUMP - REMOVAL).
+                               8. Loose accessory drive belt. (water    8. (Refer to 7 - COOLING/
+                               pump slipping)                           ACCESSORY DRIVE/DRIVE BELTS -
+                                                                        DIAGNOSIS AND TESTING). Check
+                                                                        and correct as necessary.
+                               9. Air leak on the suction side of the   9. Locate leak and repair as
+                               water pump allows air to build up in     necessary.
+                               cooling system causing thermostat to
+                               open late.
+
+PRESSURE CAP IS BLOWING OFF    1. Pressure relief valve in radiator     1. Check condition of radiator cap and
+STEAM AND/OR COOLANT TO        cap is defective.                        cap seals. (Refer to 7 - COOLING/
+COOLANT TANK. TEMPERATURE                                               ENGINE/RADIATOR PRESSURE
+GAUGE READING MAY BE ABOVE                                              CAP - DIAGNOSIS AND TESTING).
+NORMAL BUT NOT HIGH. COOLANT                                            Replace cap as necessary.
+LEVEL MAY BE HIGH IN COOLANT
+RESERVE/OVERFLOW TANK
+
+COOLANT LOSS TO THE GROUND     1. Coolant leaks in radiator, cooling    1. Pressure test and repair as
+WITHOUT PRESSURE CAP           system hoses, water pump or engine.      necessary. (Refer to 7 - COOLING -
+BLOWOFF. GAUGE READING HIGH                                             DIAGNOSIS AND TESTING).
+OR HOT
+

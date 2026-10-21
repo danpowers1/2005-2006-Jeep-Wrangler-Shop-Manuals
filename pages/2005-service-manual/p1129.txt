@@ -1,0 +1,56 @@
+TJ                                                                                         COLUMN       19 - 11
+KEY-IN IGNITION SWITCH (Continued)
+   (2) Check for continuity between the key-in switch
+sense circuit and the left front door jamb switch
+sense circuit terminals of the key-in ignition switch.
+There should be continuity with the key in the igni-
+tion cylinder, and no continuity with the key removed
+from the ignition cylinder. If OK, go to Step 3. If not
+OK, replace the faulty ignition switch assembly.
+   (3) Check for continuity between the left front door
+jamb switch sense circuit cavity of the key-in ignition
+switch wire harness connector and a good ground.
+There should be continuity with the driver door open,
+and no continuity with the driver door closed. If OK,
+see the diagnosis for Instrument Cluster in this
+group. If not OK, repair the circuit to the driver door
+jamb switch as required.
+
+                                                                Fig. 12 KEY CYLINDER RELEASE HOLE
+KEY CYLINDER                                              1 - Lower Cover
+                                                          2 - Access Hole
+REMOVAL                                                   3 - Pin Punch
+   The ignition key must be in the key cylinder for
+                                                            (4) Position a small screwdriver or pin punch into
+cylinder removal. The key cylinder must be removed
+                                                          tang access hole on bottom of steering column lower
+first before removing ignition switch.
+                                                          cover (Fig. 12).
+   (1) If equipped with an automatic transmission,
+                                                            (5) Push the pin punch up while pulling key cylin-
+place shifter in PARK position.
+                                                          der from steering column.
+   (2) Rotate key to ON position.
+   (3) A release tang is located on bottom of key cyl-
+inder (Fig. 11).
+                                                          INSTALLATION
+                                                            The ignition key must be in the key cylinder for
+                                                          cylinder installation.
+                                                            (1) Install the lock cylinder into the housing using
+                                                          care to align the end of the lock cylinder with the
+                                                          ignition switch.
+                                                            (2) Push the lock cylinder in until it clicks.
+                                                            (3) Rotate the key to the lock position.
+
+
+                                                          STEERING WHEEL
+                                                          REMOVAL
+                                                            (1) Disable and remove the drivers side airbag.(Re-
+                                                          fer to 8 - ELECTRICAL/RESTRAINTS/DRIVER AIR-
+                                                          BAG - REMOVAL).
+                                                            (2) Partially remove the steering wheel bolt and
+                                                          leave the bolt in the column.
+      Fig. 11 KEY CYLINDER RELEASE TANG                     (3) Install puller C-3894–A or equivalent using the
+1 - KEY CYLINDER                                          top of the bolt to push on. (Fig. 13)
+2 - RELEASE TANG
+

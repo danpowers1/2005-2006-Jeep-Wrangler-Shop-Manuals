@@ -1,0 +1,46 @@
+24 - 24    CONTROLS                                                                                         TJ
+A/C LOW PRESSURE SWITCH (Continued)
+
+REMOVAL                                                  A/C PRESSURE TRANSDUCER
+NOTE: Note: It is not necessary to discharge the         DESCRIPTION
+refrigerant system to replace the A/C low pressure
+                                                            The A/C pressure transducer (Fig. 20) is a switch
+switch.
+                                                         that is installed on a fitting located on the A/C dis-
+   (1) Disconnect and isolate the negative battery       charge line when equipped with the 2.4L gasoline
+cable.                                                   engine. An internally threaded fitting on the A/C
+   (2) Disconnect the wire harness connector from the    pressure transducer connect it to the externally
+A/C low pressure switch (Fig. 19).                       threaded Schrader-type fitting on the A/C discharge
+   (3) Remove the A/C low pressure switch from the       line. A rubber O-ring seals the connection between
+fitting on the top of the accumulator and remove and     the A/C pressure transducer and the discharge line
+discard the O-ring seal.                                 fitting. The A/C pressure transducer is connected to
+                                                         the vehicle electrical system by a molded plastic con-
+                                                         nector with three terminals.
+
+
+
+
+     Fig. 19 A/C Low Pressure Switch - Typical                     Fig. 20 A/C Pressure Transducer
+1 - WIRE HARNESS CONNECTOR                               1 - A/C PRESSURE TRANSDUCER
+2 - ACCUMULATOR
+3 - A/C LOW PRESSURE SWITCH
+                                                         OPERATION
+INSTALLATION                                                The A/C pressure transducer monitors the pres-
+                                                         sures in the high side of the refrigerant system
+NOTE: Use only the specified O-ring as it is made        through its connection to a fitting on the A/C dis-
+of special material for R-134a. Use only refrigerant     charge line. The A/C pressure transducer will change
+oil of the type required for the A/C compressor.         its internal resistance in response to the pressures it
+                                                         monitors. A Schrader-type valve in the discharge line
+  (1) Lubricate a new rubber O-ring seal with clean      fitting permits the A/C pressure transducer to be
+refrigerant oil and install it on the A/C low pressure   removed or installed without disturbing the refriger-
+switch fitting.                                          ant in the A/C system.
+  (2) Install the A/C low pressure switch on the            The powertrain control module (PCM) provides a
+accumulator. Hand-tightened the switch securely.         five volt reference signal and a sensor ground to the
+  (3) Connect the wire harness connector to the A/C      A/C pressure transducer, then monitors the output
+low pressure switch.                                     voltage of the A/C pressure transducer on a sensor
+  (4) Reconnect the negative battery cable.              return circuit to determine refrigerant pressure. The
+                                                         PCM is programmed to respond to the A/C pressure
+                                                         transducer and other sensor inputs by controlling the
+                                                         operation of the A/C compressor clutch and the radi-
+                                                         ator cooling fan to help optimize A/C system perfor-
+

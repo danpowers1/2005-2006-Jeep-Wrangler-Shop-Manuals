@@ -1,0 +1,59 @@
+TJ                                                                        INSTRUMENT CLUSTER            8J - 11
+INSTRUMENT CLUSTER (Continued)
+CAUTION: Instrument clusters used in this model          MINUTES FOR THE SYSTEM CAPACITOR TO DIS-
+automatically configure themselves for compatibil-       CHARGE BEFORE PERFORMING FURTHER DIAG-
+ity with the features and optional equipment in the      NOSIS OR SERVICE. THIS IS THE ONLY SURE WAY
+vehicle in which they are initially installed. The       TO DISABLE THE SUPPLEMENTAL RESTRAINT
+instrument cluster is programmed to do this by           SYSTEM. FAILURE TO TAKE THE PROPER PRE-
+embedding the Vehicle Identification Number (VIN)        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+and other information critical to proper cluster         BAG DEPLOYMENT.
+operation into electronic memory. This embedded             (1) Check the fused B(+) fuse (Fuse 24 - 10
+information is learned through electronic messages       ampere) in the Power Distribution Center (PDC). If
+received from other electronic modules in the vehi-      OK, go to Step 2. If not OK, repair the shorted circuit
+cle over the Programmable Communications Inter-          or component as required and replace the faulty fuse.
+face (PCI) data bus, and through certain hard wired         (2) Check for battery voltage at the fused B(+) fuse
+inputs received when the cluster is connected to         (Fuse 24 - 10 ampere) in the PDC. If OK, go to Step
+the vehicle electrically. Once configured, the instru-   3. If not OK, repair the open B(+) circuit between the
+ment cluster memory may be irreparably damaged           PDC and the battery as required.
+and certain irreversible configuration errors may           (3) Disconnect and isolate the battery negative
+occur if the cluster is connected electrically to        cable. Remove the instrument cluster. Reconnect the
+another vehicle; or, if an electronic module from        battery negative cable. Check for battery voltage at
+another vehicle is connected that provides data to       the fused B(+) circuit cavity of the instrument panel
+the instrument cluster (including odometer values)       wire harness connector (Connector C1) for the instru-
+that conflicts with that which was previously            ment cluster. If OK, refer to ACTUATOR TEST. If
+learned and stored. Therefore, the practice of           not OK, repair the open fused B(+) circuit between
+exchanging (swapping) instrument clusters and            the instrument cluster and the PDC as required.
+other electronic modules in this vehicle with those         (4) Check the fused ignition switch output (run-
+removed from another vehicle must always be              start) fuse (Fuse 10 - 10 ampere) in the fuse block. If
+avoided. Failure to observe this caution may result      OK, go to Step 5. If not OK, repair the shorted circuit
+in instrument cluster damage, which is not reim-         or component as required and replace the faulty fuse.
+bursable under the terms of the product warranty.           (5) Turn the ignition switch to the On position.
+Service replacement instrument clusters are pro-         Check for battery voltage at the fused ignition switch
+vided with the correct VIN, and the certified odom-      output (run-start) fuse (Fuse 10 - 10 ampere) in the
+eter value embedded into cluster memory, but will        fuse block. If OK, go to Step 6. If not OK, repair the
+otherwise be automatically configured for compati-       open fused ignition switch output (run-start) circuit
+bility with the features and optional equipment in       between the fuse block and the ignition switch as
+the vehicle in which they are initially installed.       required.
+                                                            (6) Turn the ignition switch to the On position.
+                                                         Check for battery voltage at the fused ignition switch
+NOTE: Certain indicators in this instrument cluster      output (run-start) circuit cavity of the instrument
+are automatically configured. This feature allows        panel wire harness connector (Connector C1) for the
+those indicators to be activated for deactivated for     instrument cluster. If OK, refer to ACTUATOR TEST.
+compatibility with certain optional equipment. If the    If not OK, repair the open fused ignition switch out-
+problem being diagnosed involves improper illumi-        put (run-start) circuit between the instrument cluster
+nation of the airbag indicator, the cruise indicator,    and the fuse block as required.
+or the SKIM indicator when the vehicle does not             (7) Check for continuity between the ground cir-
+have this equipment, the instrument cluster must         cuit cavity of the instrument panel wire harness con-
+be replaced with a new unit.                             nector (Connector C1) for the instrument cluster and
+                                                         a good ground. There should be continuity. If OK,
+PRELIMINARY DIAGNOSIS                                    refer to ACTUATOR TEST. If not OK, repair the
+                                                         open ground circuit to ground (G201) as required.
+WARNING: TO AVOID PERSONAL INJURY OR
+DEATH, ON VEHICLES EQUIPPED WITH AIRBAGS,
+DISABLE THE SUPPLEMENTAL RESTRAINT SYS-
+TEM BEFORE ATTEMPTING ANY STEERING
+WHEEL, STEERING COLUMN, AIRBAG, OR INSTRU-
+MENT PANEL COMPONENT DIAGNOSIS OR SER-
+VICE. DISCONNECT AND ISOLATE THE BATTERY
+NEGATIVE (GROUND) CABLE, THEN WAIT TWO
+

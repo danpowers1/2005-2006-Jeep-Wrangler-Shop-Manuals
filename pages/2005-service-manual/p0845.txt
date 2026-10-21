@@ -1,0 +1,45 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                         8W - 80 - 45
+
+
+                                          RADIATOR FAN MOTOR (2.4L) - 3 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    C25 12DG                            HIGH SPEED RADIATOR RELAY OUTPUT
+               2    Z213 12BK                           GROUND
+               3    C23 12DB                            LOW SPEED FAN RELAY OUTPUT
+
+
+
+
+                                  RADIATOR FAN MOTOR CIRCUIT BREAKER (2.4L) - 2 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               A    Z213 12BK                           GROUND
+               B    Z823 12BK/DG                        GROUND
+
+
+
+
+                                                RADIO - GRAY 22 WAY
+              CAV                  CIRCUIT                                    FUNCTION
+               1    F306 16DB/PK                        FUSED B(+)
+               2    X112 16DG/GY                        FUSED IGNITION SWITCH OUTPUT (RUN-ACC)
+               3    E2 20OR/BR                          PANEL LAMPS FEED
+               4    -                                   -
+               5    -                                   -
+               6    -                                   -
+               7    X54 18GY                            RIGHT FRONT SPEAKER (+)
+               8    X56 18GY/BR                         RIGHT FRONT SPEAKER (-)
+               9    X55 18DG/BR                         LEFT FRONT SPEAKER (-)
+              10    X53 18DG                            LEFT FRONT SPEAKER (+)
+              11    Z514 16BK/LG                        GROUND
+              12    F306 16DB/PK                        FUSED B(+)
+              13    X60 20GY/OR                         RADIO 12V OUTPUT
+              14    D25 20WT/VT                         PCI BUS
+              15    -                                   -
+              16    -                                   -
+              17    -                                   -
+              18    X51 18DG/DB                         LEFT REAR SPEAKER (+)
+              19    X57 18DG/OR                         LEFT REAR SPEAKER (-)
+              20    X58 18GY/OR                         RIGHT REAR SPEAKER (-)
+              21    X52 18GY/DB                         RIGHT REAR SPEAKER (+)
+              22    Z515 16BK                           GROUND
+

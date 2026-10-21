@@ -1,0 +1,40 @@
+TJ   8W-80 CONNECTOR PIN-OUTS                                                            8W - 80 - 27
+
+
+                                             FUEL INJECTOR NO. 1 (2.4L) - 2 WAY
+              CAV                  CIRCUIT                                        FUNCTION
+               1    F142 16PK/GY                            ASD RELAY OUTPUT
+               2    K11 16BR/YL                             INJECTOR CONTROL NO. 1
+
+
+
+
+                                             FUEL INJECTOR NO. 1 (4.0L) - 2 WAY
+              CAV                  CIRCUIT                                        FUNCTION
+               1    K334 18BR                               ASD RELAY OUTPUT
+               2    K11 18BR/YL                             INJECTOR CONTROL NO. 1
+
+
+
+
+                                             FUEL INJECTOR NO. 2 (2.4L) - 2 WAY
+              CAV                  CIRCUIT                                        FUNCTION
+               1    F142 16PK/GY                            ASD RELAY OUTPUT
+               2    K12 16BR/DB                             INJECTOR CONTROL NO. 2
+
+
+
+
+                                             FUEL INJECTOR NO. 2 (4.0L) - 2 WAY
+              CAV                  CIRCUIT                                        FUNCTION
+               1    K334 18BR                               ASD RELAY OUTPUT
+               2    K12 18BR/DB                             INJECTOR CONTROL NO. 2
+
+
+
+
+                                             FUEL INJECTOR NO. 3 (2.4L) - 2 WAY
+              CAV                  CIRCUIT                                        FUNCTION
+               1    F142 16PK/GY                            ASD RELAY OUTPUT
+               2    K13 16BR/LB                             INJECTOR CONTROL NO. 3
+

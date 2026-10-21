@@ -1,0 +1,59 @@
+TJ                                                                           INSTRUMENT CLUSTER            8J - 3
+INSTRUMENT CLUSTER (Continued)
+this layer is also translucent. The darkness of this         • Electronic Pinion Factor - The EMIC stores
+outer layer prevents the cluster from appearing clut-     the tire size, axle ratio, and transfer case type infor-
+tered or busy by concealing the cluster indicators        mation for use in calibrating the proper vehicle speed
+that are not illuminated, while the translucence of       and distance values for display by the speedometer
+this layer allows those indicators and icons that are     and odometer, as well as for use by other electronic
+illuminated to be readily visible. The underlying         modules in the vehicle. The EMIC provides this
+layer of the overlay is opaque and allows light from      information when requested by other modules over
+the LED or incandescent lamp for each of the various      the PCI data bus. Changing the electronic pinion fac-
+indicators and the incandescent illumination lamps        tor settings of the EMIC requires the use of a
+behind it to be visible through the outer layer of the    DRBIIIt scan tool. Refer to the appropriate diagnos-
+overlay only through predetermined stencil-like cut-      tic information.
+outs. A rectangular opening near the base of the             • Interior Lamp Load Shedding - The EMIC
+overlay between the speedometer and tachometer            provides a battery saver feature which will automat-
+dial faces has a smoked clear lens through which the      ically turn off all interior lamps that remain on after
+illuminated VFD unit can be viewed.                       a timed interval of about twenty minutes.
+   Several versions of the EMIC module are offered           • Interior Lighting Control - The EMIC moni-
+on this model. These versions accommodate all of the      tors inputs from the interior lighting switch and the
+variations of optional equipment and regulatory           door ajar switches to provide courtesy lamp control.
+requirements for the various markets in which the         This includes support for a timed illuminated entry
+vehicle will be offered. The microprocessor-based         with a theater-style fade-to-off feature.
+EMIC utilizes integrated circuitry and information           • Panel Lamps Dimming Control - The EMIC
+carried on the Programmable Communications Inter-         provides a hard wired 12-volt Pulse-Width Modulated
+face (PCI) data bus network along with several hard       (PWM) output that synchronizes the dimming level
+wired analog and multiplexed inputs to monitor sen-       of all panel lamps dimmer controlled lamps with that
+sors and switches throughout the vehicle. In response     of the cluster illumination lamps. This includes pro-
+to those inputs, the internal circuitry and program-      viding features such as VFD unit illumination when
+ming of the EMIC allow it to control and integrate        a door is ajar (rental car mode), radio illumination
+many electronic functions and features of the vehicle     control, a parade mode, and one step dimmable front
+through both hard wired outputs and the transmis-         and rear lock, cruise, and four-wheel drive indicators.
+sion of electronic message outputs to other electronic       • Rear Window Defogger Control - The EMIC
+modules in the vehicle over the PCI data bus. (Refer      provides control and timer functions for the output to
+to 8 - ELECTRICAL/ELECTRONIC CONTROL                      the rear window defogger on vehicles so equipped,
+MODULES/COMMUNICATION - DESCRIPTION -                     which eliminates the need for a separate control and
+PCI BUS).                                                 timer module for the rear window defogger system.
+   Besides typical instrument cluster gauge and indi-     (Refer to 8 - ELECTRICAL/WINDOW DEFOGGER -
+cator support, the electronic functions and features      DESCRIPTION).
+that the EMIC supports or controls include the fol-          • Vacuum Fluorescent Display Synchroniza-
+lowing:                                                   tion - The EMIC transmits electronic panel lamp
+   • Audible Warnings - The EMIC electronic cir-          dimming level messages which allows all other elec-
+cuit board is equipped with an audible tone generator     tronic modules with Vacuum Fluorescent Display
+and programming that allows it to provide various         (VFD) units on the PCI data bus to coordinate their
+audible chime tone alerts to the vehicle operator.        illumination intensity with that of the EMIC VFD
+(Refer to 8 - ELECTRICAL/CHIME/BUZZER -                   unit.
+DESCRIPTION).                                                The EMIC houses six analog gauges and has pro-
+   • Audio System Cabin Equalization - The                visions for up to seventeen indicators (Fig. 3). The
+EMIC stores the cabin equalization curves for vari-       EMIC includes the following analog gauges:
+ous optional speaker system architectures for use by         • Coolant Temperature Gauge
+the radio. The EMIC provides this information when           • Fuel Gauge
+requested by the radio over the PCI data bus. Chang-         • Oil Pressure Gauge
+ing the cabin equalization settings of the EMIC              • Speedometer
+requires the use of a DRBIIIt scan tool. Refer to the        • Tachometer
+appropriate diagnostic information.                          • Voltage Gauge
+   • Axle Locker Control - The EMIC provides the             Some of the EMIC indicators are automatically
+logic that controls the operation of the rear and front   configured when the EMIC is connected to the vehi-
+axle locker feature found on models equipped with         cle electrical system for compatibility with certain
+the optional off-road package.                            optional equipment or equipment required for regula-
+

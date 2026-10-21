@@ -1,0 +1,59 @@
+TJ                                                                            EMISSIONS CONTROL          25 - 7
+EMISSIONS CONTROL (Continued)
+pend the maturing of a fault if a condition exists         DTC Self Erasure
+that may induce an erroneous failure. This prevents           With one trip components or systems, the MIL is
+illuminating the MIL for the wrong fault and allows        illuminated upon test failure and DTCs are stored.
+more precis diagnosis.                                        Two trip monitors are components requiring failure
+For example, if the PCM is storing a one trip fault        in two consecutive trips for MIL illumination. Upon
+for the Oxygen Sensor and the EGR monitor, the             failure of the first test, the Task Manager enters a
+Task Manager may still run the EGR Monitor but             maturing code. If the component fails the test for a
+will suspend the results until the Oxygen Sensor           second time the code matures and a DTC is set.
+Monitor either passes or fails. At that point the Task        After three good trips the MIL is extinguished and
+Manager can determine if the EGR system is actu-           the Task Manager automatically switches the trip
+ally failing or if an Oxygen Sensor is failing.            counter to a warm-up cycle counter. DTCs are auto-
+                                                           matically erased following 40 warm-up cycles if the
+MIL Illumination                                           component does not fail again.
+   The PCM Task Manager carries out the illumina-             For misfire and fuel system monitors, the compo-
+tion of the MIL. The Task Manager triggers MIL illu-       nent must pass the test under a Similar Conditions
+mination upon test failure, depending on monitor           Window in order to record a good trip. A Similar Con-
+failure criteria.                                          ditions Window is when engine RPM is within ±375
+   The Task Manager Screen shows both a Requested          RPM and load is within ±10% of when the fault
+MIL state and an Actual MIL state. When the MIL is         occurred.
+illuminated upon completion of a test for a third trip,
+the Requested MIL state changes to OFF. However,           NOTE: It is important to understand that a compo-
+the MIL remains illuminated until the next key             nent does not have to fail under a similar window of
+cycle. (On some vehicles, the MIL will actually turn       operation to mature. It must pass the test under a
+OFF during the third key cycle) During the key cycle       Similar Conditions Window when it failed to record
+for the third good trip, the Requested MIL state is        a Good Trip for DTC erasure for misfire and fuel
+OFF, while the Actual MIL state is ON. After the           system monitors.
+next key cycle, the MIL is not illuminated and both
+MIL states read OFF.                                         DTCs can be erased anytime with a DRB III. Eras-
+                                                           ing the DTC with the DRB III erases all OBD II
+Diagnostic Trouble Codes (DTCs)                            information. The DRB III automatically displays a
+   With OBD II, different DTC faults have different        warning that erasing the DTC will also erase all
+priorities according to regulations. As a result, the      OBD II monitor data. This includes all counter infor-
+priorities determine MIL illumination and DTC era-         mation for warm-up cycles, trips and Freeze Frame.
+sure. DTCs are entered according to individual prior-
+ity. DTCs with a higher priority overwrite lower           Trip Indicator
+priority DTCs.                                               The Trip is essential for running monitors and
+                                                           extinguishing the MIL. In OBD II terms, a trip is a
+Priorities                                                 set of vehicle operating conditions that must be met
+  • Priority 0 —Non-emissions related trouble codes        for a specific monitor to run. All trips begin with a
+  • Priority 1 — One trip failure of a two trip fault      key cycle.
+for non-fuel system and non-misfire.                         Good Trip
+  • Priority 2 — One trip failure of a two trip fault        The Good Trip counters are as follows:
+for fuel system (rich/lean) or misfire.                      • Specific Good Trip
+  • Priority 3 — Two trip failure for a non-fuel sys-        • Fuel System Good Trip
+tem and non-misfire or matured one trip comprehen-           • Misfire Good Trip
+sive component fault.                                        • Alternate Good Trip (appears as a Global Good
+  • Priority 4 — Two trip failure or matured fault         Trip on DRB III)
+for fuel system (rich/lean) and misfire or one trip cat-       • Comprehensive Components
+alyst damaging misfire.                                        • Major Monitor
+  Non-emissions related failures have no priority.           • Warm-Up Cycles
+One trip failures of two trip faults have low priority.      Specific Good Trip
+Two trip failures or matured faults have higher pri-         The term Good Trip has different meanings
+ority. One and two trip failures of fuel system and        depending on the circumstances:
+misfire monitor take precedence over non-fuel system         • If the MIL is OFF, a trip is defined as when the
+and non-misfire failures.                                  Oxygen Sensor Monitor and the Catalyst Monitor
+                                                           have been completed in the same drive cycle.
+

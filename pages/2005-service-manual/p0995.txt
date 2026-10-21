@@ -1,0 +1,48 @@
+TJ                                                                             ENGINE 4.0L        9 - 75
+ENGINE 4.0L (Continued)
+
+            CONDITION             POSSIBLE CAUSES                            CORRECTION
+
+MAIN BEARING NOISE        1. Insufficient oil supply             1. Check engine oil level.
+
+                          2. Low oil pressure                    2. Check engine oil level. If ok,
+                                                                 Perform oil pressure test. (Refer to
+                                                                 9 - ENGINE/LUBRICATION -
+                                                                 DIAGNOSIS AND TESTING)
+                          3. Thin or diluted oil                 3. Change oil to correct viscosity.
+                          4. Excessive main bearing              4. Measure bearings for correct
+                          clearance                              clearance. Repair as necessary
+                          5. Excessive end play                  5. Check crankshaft thrust bearing
+                                                                 for excessive wear on flanges
+                          6. Crankshaft main journal out of      6. Grind journals or replace
+                          round or worn                          crankshaft
+                          7. Loose flywheel or torque            7. Inspect crankshaft, flexplate/
+                          converter                              flywheel and bolts for damage.
+                                                                 Tighten to correct torque
+
+LOW OIL PRESSURE          1. Low oil level                       1. Check oil level and fill if
+                                                                 necessary
+
+                          2. Faulty oil pressure sending unit    2. Install new sending unit
+                          3. Clogged oil filter                  3. Install new oil filter
+                          4. Worn oil pump                       4. Replace oil pump assembly.
+                          5. Thin or diluted oil                 5. Change oil to correct viscosity.
+                          6. Excessive bearing clearance         6. Measure bearings for correct
+                                                                 clearance
+                          7. Oil pump relief valve stuck         7. Remove valve to inspect, clean
+                                                                 and reinstall
+                          8. Oil pickup tube loose, broken,      8. Inspect oil pickup tube and pump,
+                          bent or clogged                        and clean or replace if necessary
+                          9. Oil pump cover warped or            9. Install new oil pump
+                          cracked
+
+OIL LEAKS                 1. Misaligned or deteriorated          1. Replace gasket
+                          gaskets
+
+                          2. Loose fastener, broken or porous    2. Tighten, repair or replace the part
+                          metal part
+                          3. Front or rear crankshaft oil seal   3. Replace seal
+                          leaking
+                          4. Leaking oil gallery plug or cup     4. Remove and reseal threaded
+                          plug                                   plug. Replace cup style plug
+

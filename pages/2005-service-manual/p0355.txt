@@ -1,0 +1,43 @@
+TJ                                                                          BATTERY SYSTEM           8F - 3
+BATTERY SYSTEM (Continued)
+
+                               BATTERY SYSTEM DIAGNOSIS
+
+      CONDITION           POSSIBLE CAUSES                                 CORRECTION
+
+THE BATTERY SEEMS     1. The electrical system          1. Refer to the IGNITION-OFF DRAW TEST
+WEAK OR DEAD WHEN     ignition-off draw is excessive.   Standard Procedure for the proper test
+ATTEMPTING TO START                                     procedures. Repair the excessive ignition-off
+THE ENGINE.                                             draw, as required.
+
+                      2. The charging system is         2. Determine if the charging system is performing
+                      faulty.                           to specifications. Refer to Charging System for
+                                                        charging system diagnosis and testing
+                                                        procedures. Repair the faulty charging system, as
+                                                        required.
+                      3. The battery is discharged.     3. Determine the battery state-of-charge using the
+                                                        Micro 420 battery tester. Refer to the Standard
+                                                        Procedures in this section for additional test
+                                                        procedures. Charge the faulty battery, as
+                                                        required.
+                      4. The battery terminal           4. Refer to Battery Cables for the proper battery
+                      connections are loose or          cable diagnosis and testing procedures. Clean
+                      corroded.                         and tighten the battery terminal connections, as
+                                                        required.
+                      5. The battery has an             5. Refer to Battery System Specifications for the
+                      incorrect size or rating for      proper size and rating. Replace an incorrect
+                      this vehicle.                     battery, as required.
+                      6. The battery is faulty.         6. Determine the battery cranking capacity using
+                                                        the Micro 420 battery tester. Refer to the
+                                                        Standard Procedures in this section for additional
+                                                        test procedures. Replace the faulty battery, as
+                                                        required.
+                      7. The starting system is         7. Determine if the starting system is performing
+                      faulty.                           to specifications. Refer to Starting System for the
+                                                        proper starting system diagnosis and testing
+                                                        procedures. Repair the faulty starting system, as
+                                                        required.
+                      8. The battery is physically      8. Inspect the battery for loose terminal posts or a
+                      damaged.                          cracked and leaking case. Replace the damaged
+                                                        battery, as required.
+

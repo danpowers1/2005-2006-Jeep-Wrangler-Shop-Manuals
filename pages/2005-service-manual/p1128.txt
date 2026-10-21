@@ -1,0 +1,52 @@
+19 - 10        COLUMN                                                                                         TJ
+IGNITION SWITCH (Continued)
+
+
+
+
+    Fig. 8 IGNITION SWITCH MOUNTING SCREW                          Fig. 10 IGNITION SWITCH ON POSITION
+1 - Tamper Proof Torx Screw                                 1 - Ignition Switch
+2 - Ignition Switch                                         2 - Rotate to On Position
+
+
+                                                            KEY-IN IGNITION SWITCH
+                                                            DESCRIPTION
+                                                               The key-in ignition switch is integral to the igni-
+                                                            tion switch, which is mounted on the left side of the
+                                                            steering column, opposite the ignition cylinder. It
+                                                            closes a path to ground for the instrument cluster
+                                                            chime warning circuitry when the ignition key is
+                                                            inserted in the ignition cylinder and the driver door
+                                                            jamb switch is closed (driver door is open). The
+                                                            key-in ignition switch opens the ground path when
+                                                            the key is removed from the ignition cylinder.
+                                                               The key-in ignition switch cannot be repaired and,
+                                                            if faulty or damaged, the entire ignition switch must
+                                                            be replaced. (Refer to 19 - STEERING/COLUMN/IG-
+                                                            NITION SWITCH - REMOVAL).
+              Fig. 9 IGNITION SWITCH TABS
+1 - Ignition Switch
+2 - Locking Tabs
+                                                            DIAGNOSIS AND TESTING - KEY-IN IGNITION
+                                                            SWITCH
+INSTALLATION                                                  For circuit descriptions and diagrams, Refer to the
+   The ignition key must be in the key cylinder for         appropriate sections on the individual components.
+cylinder installation. The key cylinder must be
+aligned with the ignition switch for installation.          WARNING: ON VEHICLES EQUIPPED WITH AIR-
+   (1) Before installing ignition switch, rotate the slot   BAGS, REFER TO ELECTRICAL - PASSIVE
+in the switch to the ON position (Fig. 10).                 RESTRAINT SYSTEMS BEFORE ATTEMPTING ANY
+   (2) Connect the electrical connector to rear of igni-    STEERING WHEEL, STEERING COLUMN, OR
+tion switch. Make sure that locking tab is fully            INSTRUMENT PANEL COMPONENT DIAGNOSIS OR
+seated into wiring connector.                               SERVICE. FAILURE TO TAKE THE PROPER PRE-
+   (3) Position the switch to the column and install        CAUTIONS COULD RESULT IN ACCIDENTAL AIR-
+tamper proof screw. Tighten screw to 3 N·m (26 in.          BAG DEPLOYMENT AND POSSIBLE PERSONAL
+lbs.).                                                      INJURY.
+   (4) Test the operation of the lock cylinder for
+                                                              (1) Disconnect and isolate the battery negative
+smooth rotating.
+                                                            cable. Remove the steering column shrouds. Unplug
+   (5) Install the multi-function switch.
+                                                            the key-in ignition switch wire harness connector
+   (6) Install steering column lower cover.
+                                                            from the ignition switch.
+

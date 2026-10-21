@@ -1,0 +1,56 @@
+TJ                                                                                                             ENGINE 2.4L            9-3
+
+BALANCE SHAFT CARRIER                                                    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 67
+ DESCRIPTION . . . . . . . . . . . . . . . . . . . . . . . . . 67       BALANCE SHAFT CHAIN
+ OPERATION . . . . . . . . . . . . . . . . . . . . . . . . . . . 67      REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+ REMOVAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67    INSTALLATION . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+ENGINE 2.4L                                                             DIAGNOSIS AND TESTING
+
+DESCRIPTION                                                             CYLINDER COMPRESSION PRESSURE TEST
+   The 2.4 Liter (148 cu. in.) in-line four cylinder                       The results of a cylinder compression pressure test
+engine is a double over head camshaft with hydraulic                    can be utilized to diagnose several engine malfunc-
+lifters and four valve per cylinder design. The engine                  tions.
+is free-wheeling; meaning it has provisions for piston-                    Ensure the battery is completely charged and the
+to-valve clearance. However valve-to-valve interfer-                    engine starter motor is in good operating condition.
+ence can occur, if camshafts are rotated                                Otherwise the indicated compression pressures may
+independently.                                                          not be valid for diagnosis purposes.
+   The cylinders are numbered from front of the                            (1) Check engine oil level and add oil if necessary.
+engine to the rear. The firing order is 1–3–4–2.                           (2) Drive the vehicle until engine reaches normal
+   The engine identification number is located on the                   operating temperature. Select a route free from traf-
+rear of the cylinder block (Fig. 1).                                    fic and other forms of congestion, observe all traffic
+                                                                        laws, and accelerate through the gears several times
+                                                                        briskly.
+                                                                           (3) Remove all spark plugs from engine. As spark
+                                                                        plugs are being removed, check electrodes for abnor-
+                                                                        mal firing indicators fouled, hot, oily, etc. Record cyl-
+                                                                        inder number of spark plug for future reference.
+                                                                           (4) Remove the Auto Shutdown (ASD) relay from
+                                                                        the PDC.
+                                                                           (5) Be sure throttle blade is fully open during the
+                                                                        compression check.
+                                                                           (6) Insert compression gage adaptor Special Tool
+                                                                        8116 or the equivalent, into the #1 spark plug hole in
+                                                                        cylinder head. Connect the 0–500 psi (Blue) pressure
+                                                                        transducer with cable adaptors to the DRBIIIt.
+                                                                           (7) Crank engine until maximum pressure is
+                                                                        reached on gage. Record this pressure as #1 cylinder
+                                                                        pressure.
+                                                                           (8) Repeat the previous step for all remaining cyl-
+                                                                        inders.
+                                                                           (9) Compression should not be less than 689 kPa
+                                                                        (100 psi) and not vary more than 25 percent from cyl-
+                                                                        inder to cylinder.
+                                                                           (10) If one or more cylinders have abnormally low
+             Fig. 1 ENGINE IDENTIFICATION
+                                                                        compression pressures, repeat the compression test.
+1 - ENGINE IDENTIFICATION                                                  (11) If the same cylinder or cylinders repeat an
+                                                                        abnormally low reading on the second compression
+                                                                        test, it could indicate the existence of a problem in
+                                                                        the cylinder in question. The recommended com-
+                                                                        pression pressures are to be used only as a
+                                                                        guide to diagnosing engine problems. An engine
+                                                                        should not be disassembled to determine the
+                                                                        cause of low compression unless some malfunc-
+                                                                        tion is present.
+

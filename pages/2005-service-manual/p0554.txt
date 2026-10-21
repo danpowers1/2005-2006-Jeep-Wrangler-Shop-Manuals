@@ -1,0 +1,51 @@
+8P - 6     SPEED CONTROL                                                                                   TJ
+SWITCH (Continued)
+NOTE: Depressing the OFF switch will erase the set          (GROUND) CABLE. WAIT 2 MINUTES FOR SYSTEM
+speed stored in the PCM’s RAM.                              CAPACITOR TO DISCHARGE BEFORE FURTHER
+                                                            SYSTEM SERVICE. FAILURE TO DO SO COULD
+  If, while the speed control is engaged, the driver        RESULT IN ACCIDENTAL DEPLOYMENT AND POS-
+wishes to increase vehicle speed, the PCM is pro-           SIBLE PERSONAL INJURY.
+grammed for an acceleration feature. With the                 (1) Disconnect and isolate negative battery cable
+ACCEL switch held closed, the vehicle accelerates           from battery.
+slowly to the desired speed. The new target speed is          (2) Remove airbag module. Refer to 8, Passive
+stored in the PCM’s RAM when the ACCEL switch is            Restraint Systems.
+released. The PCM also has a 9tap-up9 feature in              (3) From underside of steering wheel, remove
+which vehicle speed increases at a rate of approxi-         speed control switch mounting screw (Fig. 5).
+mately 2 mph for each momentary switch activation             (4) Remove switch from steering wheel and unplug
+of the ACCEL switch.                                        electrical connector.
+  The PCM also provides a means to decelerate with-
+out disengaging speed control. To decelerate from an
+existing recorded target speed, depress and hold the
+COAST switch until the desired speed is reached.
+Then release the switch. The ON, OFF switch oper-
+ates two components: the PCM’s ON, OFF input, and
+the battery voltage to the brake switch, which powers
+the speed control servo.
+
+Multiplexing
+  The PCM sends out 5 volts through a fixed resistor
+and monitors the voltage change between the fixed
+resistor and the switches. If none of the switches are
+depressed, the PCM will measure 5 volts at the sen-
+sor point (open circuit). If a switch with no resistor is
+closed, the PCM will measure 0 volts (grounded cir-
+cuit). Now, if a resistor is added to a switch, then the
+PCM will measure some voltage proportional to the
+size of the resistor. By adding a different resistor to
+each switch, the PCM will see a different voltage
+depending on which switch is pushed.
+  Another resistor has been added to the ’at rest cir-
+cuit’ causing the PCM to never see 5 volts. This was         Fig. 5 Speed Control Switches - Remove / Install
+done for diagnostic purposes. If the switch circuit         1 - MOUNTING SCREW
+should open (bad connection), then the PCM will see         2 - SPEED CONTROL SWITCHES
+the 5 volts and know the circuit is bad. The PCM will
+then set an open circuit fault.                             INSTALLATION
+                                                              (1) Plug electrical connector into switch.
+REMOVAL                                                       (2) Position switch to steering wheel.
+                                                              (3) Install switch mounting screw and tighten to
+WARNING: BEFORE ATTEMPTING TO DIAGNOSE,                     1.5 N·m (14 in. lbs.) torque.
+REMOVE OR INSTALL ANY AIRBAG SYSTEM OR                        (4) Install airbag module. Refer to 8, Passive
+RELATED STEERING WHEEL AND STEERING COL-                    Restraint Systems.
+UMN COMPONENTS, YOU MUST FIRST DISCON-                        (5) Connect negative battery cable to battery.
+NECT AND ISOLATE THE BATTERY NEGATIVE
+

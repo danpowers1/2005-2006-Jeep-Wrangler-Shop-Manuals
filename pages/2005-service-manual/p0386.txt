@@ -1,0 +1,61 @@
+8F - 34    STARTING                                                                                            TJ
+STARTING (Continued)
+                                                           testing procedures, including battery load test proce-
+                                                           dures.
+                                                              • Fully engage the parking brake.
+                                                              • If the vehicle is equipped with an automatic
+                                                           transmission, place the gearshift selector lever in the
+                                                           Park position. If the vehicle is equipped with a man-
+                                                           ual transmission, place the gearshift selector lever in
+                                                           the Neutral position and block the clutch pedal in the
+                                                           fully depressed position.
+                                                              • Verify that all lamps and accessories are turned
+                                                           off.
+                                                              • To prevent the engine from starting, remove the
+                                                           Automatic ShutDown (ASD) relay. The ASD relay is
+                                                           located in the Power Distribution Center (PDC), in
+                                                           the engine compartment. See the fuse and relay lay-
+  Fig. 1 Volts-Amps Tester Connections - Typical           out label affixed to the underside of the PDC cover
+1 - POSITIVE CLAMP                                         for ASD relay identification and location.
+2 - NEGATIVE CLAMP
+3 - INDUCTION AMMETER CLAMP
+                                                              (1) Connect the positive lead of the voltmeter to
+                                                           the battery negative terminal post. Connect the neg-
+    (c) If the voltage reads 12.5 volts or greater and     ative lead of the voltmeter to the battery negative
+  the starter motor does not turn, refer to the Con-       cable terminal clamp (Fig. 2). Rotate and hold the
+  trol Circuit Test in this section.                       ignition switch in the Start position. Observe the
+    (d) If the voltage reads 12.5 volts or greater and     voltmeter. If voltage is detected, correct the poor con-
+  the starter motor turns very slowly, refer to the        tact between the battery negative cable terminal
+  Feed Circuit Test in this section.                       clamp and the battery negative terminal post.
+
+NOTE: A cold engine will increase the starter cur-
+rent (amperage) draw reading, and reduce the bat-
+tery voltage reading.
+
+
+FEED CIRCUIT TEST
+  The starter feed circuit test (voltage drop method)
+will determine if there is excessive resistance in the
+high-amperage starter feed circuit.
+  When performing the voltage drop test, it is impor-
+tant to remember that the voltage drop is giving an
+indication of the resistance between the two points at
+which     the   voltmeter     probes   are    attached.
+EXAMPLE:When testing the resistance of the bat-
+tery positive cable, touch the voltmeter leads to the
+battery positive cable terminal clamp and to the bat-      Fig. 2 Test Battery Negative Connection Resistance
+tery positive cable eyelet terminal at the starter sole-                         - Typical
+noid B(+) terminal stud. If you probe the battery          1 - VOLTMETER
+positive terminal post and the battery positive cable      2 - BATTERY
+eyelet terminal at the starter solenoid B(+) terminal
+stud, you are reading the combined voltage drop in            (2) Connect the positive lead of the voltmeter to
+the battery positive cable terminal clamp-to-terminal      the battery positive terminal post. Connect the nega-
+post connection and the battery positive cable.            tive lead of the voltmeter to the battery positive cable
+  The following operation will require a voltmeter         terminal clamp (Fig. 3). Rotate and hold the ignition
+accurate to 1/10 (0.10) volt. Before performing this       switch in the Start position. Observe the voltmeter. If
+test, be certain that the following procedures are         voltage is detected, correct the poor connection
+accomplished:                                              between the battery positive cable terminal clamp
+  • The battery is fully-charged and load tested.          and the battery positive terminal post.
+Refer to Battery Charging for battery charging pro-
+cedures. Refer to Battery for battery diagnosis and
+

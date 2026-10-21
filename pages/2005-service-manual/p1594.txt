@@ -1,0 +1,51 @@
+24 - 26    CONTROLS                                                                                        TJ
+A/C PRESSURE TRANSDUCER (Continued)
+  (3) Connect the wire harness connector to the A/C      OPERATION
+pressure transducer.                                       The blend door actuator is connected to the A/C-
+  (4) Reconnect the negative battery cable.              heater control through the vehicle electrical system
+                                                         by a dedicated three-wire lead and connector of the
+                                                         HVAC wire harness. The blend door actuator can
+BLEND DOOR ACTUATOR                                      move the blend-air door in two directions. A potenti-
+                                                         ometer within the actuator allows the A/C-heater
+DESCRIPTION                                              control to know the exact position of the blend-air
+   The blend door actuator is a reversible, 12-volt      door at all times.
+direct current (DC), servo motor which mechanically        The blend door actuator can be diagnosed using a
+positions the blend-air door (Fig. 22). The blend door   DRBIIIt scan tool. Refer to Body Diagnostic Proce-
+actuator is located on the bottom of the HVAC hous-      dures for more information.
+ing.                                                       The blend door actuator cannot be adjusted or
+   The blend door actuator is contained within a         repaired and, if faulty or damaged, it must be
+black molded plastic housing with an integral wire       replaced.
+connector receptacle. The actuator also has an output
+shaft that connects it to the mode door linkage and      REMOVAL
+three integral mounting tabs that allow it to be
+secured to the HVAC housing. The blend door actua-       WARNING: On vehicles equipped with airbags, dis-
+tor requires mechanical indexing to the blend door       able the airbag system before attempting any steer-
+linkage.                                                 ing wheel, steering column, or instrument panel
+   The blend door actuator can be accessed for service   component diagnosis or service. Disconnect and
+from under the instrument panel.                         isolate the negative battery (ground) cable, then
+                                                         wait two minutes for the airbag system capacitor to
+                                                         discharge before performing further diagnosis or
+                                                         service. This is the only sure way to disable the air-
+                                                         bag system. Failure to take the proper precautions
+                                                         could result in accidental airbag deployment and
+                                                         possible personal injury or death.
+
+
+                                                         NOTE: Prior to performing this procedure, turn the
+                                                         ignition key to the On position and set the A/C-
+                                                         heater control in the mid-temperature position and
+                                                         wait 10 seconds.
+
+                                                           (1) Disconnect and isolate the negative battery
+                                                         cable.
+                                                           (2) Disconnect the wire harness connector from the
+                                                         blend door actuator located at the bottom of the
+                                                         HVAC housing (Fig. 23).
+                                                           (3) Remove the three screws that secure the blend
+                                                         door actuator to the HVAC housing and remove the
+            Fig. 22 Blend Door Actuator                  actuator.
+1 - BLEND DOOR ACTUATOR
+2 - WIRE CONNECTOR RECEPTACLE
+3 - MOUNTING TAB (3)
+4 - ACTUATOR OUTPUT SHAFT
+

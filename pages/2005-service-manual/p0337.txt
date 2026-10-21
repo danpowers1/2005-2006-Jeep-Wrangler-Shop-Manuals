@@ -1,0 +1,59 @@
+TJ                                                                  ELECTRONIC CONTROL MODULES                 8E - 3
+COMMUNICATION (Continued)
+electronic control module to broadcast message data          the pulse are changed alternately. This encoding
+out onto the bus where all other electronic control          scheme is used for two reasons. First, this ensures
+modules can 9hear9 the messages that are being sent.         that only one symbol per transition and one transi-
+When a module hears a message on the data bus                tion per symbol exists. On each transition, every
+that it requires, it relays that message to its micro-       transmitting module must decode the symbol on the
+processor. Each module ignores the messages on the           bus and begin timing of the next symbol. Since tim-
+data bus that are being sent to other electronic con-        ing of the next symbol begins with the last transition
+trol modules.                                                detected on the bus, all of the modules are re-syn-
+                                                             chronized with each symbol. This ensures that there
+OPERATION                                                    are no accumulated timing errors during PCI data
+  Data exchange between modules is achieved by               bus communication.
+serial transmission of encoded data over a single wire          The second reason for this encoding scheme is to
+broadcast network. The wire colors used for the PCI          guarantee that the zero bit is the dominant bit on
+data bus circuits are yellow with a violet tracer, or        the bus. When two modules are transmitting simul-
+violet with a yellow tracer, depending upon the appli-       taneously on the bus, there must be some form of
+cation. The PCI data bus messages are carried over           arbitration to determine which module will gain con-
+the bus in the form of Variable Pulse Width Modu-            trol. A data collision occurs when two modules are
+lated (VPWM) signals. The PCI data bus speed is an           transmitting different messages at the same time.
+average 10.4 Kilo-bits per second (Kbps). By compar-         When a module is transmitting on the bus, it is read-
+ison, the prior two-wire Chrysler Collision Detection        ing the bus at the same time to ensure message
+(CCD) data bus system is designed to run at 7.8125           integrity. When a collision is detected, the module
+Kbps.                                                        that transmitted the one bit stops sending messages
+  The voltage network used to transmit messages              over the bus until the bus becomes idle.
+requires biasing and termination. Each module on                Each module is capable of transmitting and receiv-
+the PCI data bus system provides its own biasing             ing data simultaneously. The typical PCI bus mes-
+and termination. Each module (also referred to as a          sage has the following four components:
+node) terminates the bus through a terminating                  • Message Header - One to three bytes in length.
+resistor and a terminating capacitor. There are two          The header contains information identifying the mes-
+types of nodes on the bus. The dominant node termi-          sage type and length, message priority, target mod-
+nates the bus through a 1 KW resistor and a 3300 pF          ule(s) and sending module.
+capacitor. The Powertrain Control Module (PCM) is               • Data Byte(s) - This is the actual message that
+the only dominant node for the PCI data bus system.          is being sent.
+A standard node terminates the bus through an 11                • Cyclic Redundancy Check (CRC) Byte - This
+KW resistor and a 330 pF capacitor.                          byte is used to detect errors during a message trans-
+  The modules bias the bus when transmitting a               mission.
+message. The PCI bus uses low and high voltage lev-             • In-Frame Response (IFR) byte(s) - If a
+els to generate signals. Low voltage is around zero          response is required from the target module(s), it can
+volts and the high voltage is about seven and one-           be sent during this frame. This function is described
+half volts. The low and high voltage levels are gener-       in greater detail in the following paragraph.
+ated by means of variable-pulse width modulation to             The IFR consists of one or more bytes, which are
+form signals of varying length. The Variable Pulse           transmitted during a message. If the sending module
+Width Modulation (VPWM) used in PCI bus messag-              requires information to be received immediately, the
+ing is a method in which both the state of the bus           target module(s) can send data over the bus during
+and the width of the pulse are used to encode bit            the original message. This allows the sending module
+information. A 9zero9 bit is defined as a short low          to receive time-critical information without having to
+pulse or a long high pulse. A 9one9 bit is defined as a      wait for the target module to access the bus. After
+long low pulse or a short high pulse. A low (passive)        the IFR is received, the sending module broadcasts
+state on the bus does not necessarily mean a zero bit.       an End of Frame (EOF) message and releases control
+It also depends upon pulse width. If the width is            of the bus.
+short, it stands for a zero bit. If the width is long, it       The PCI data bus can be monitored using a diag-
+stands for a one bit. Similarly, a high (active) state       nostic scan tool. It is possible, however, for the bus to
+does not necessarily mean a one bit. This too depends        pass all diagnostic scan tool tests and still be faulty
+upon pulse width. If the width is short, it stands for       if the voltage parameters are all within the specified
+a one bit. If the width is long, it stands for a zero bit.   range and false messages are being sent.
+  In the case where there are successive zero or one
+data bits, both the state of the bus and the width of
+
